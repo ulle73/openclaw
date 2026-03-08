@@ -1,0 +1,268 @@
+# Chunks
+
+## Chunk 01
+Most people using OpenClaw are doing it
+wrong. They have one agent trying to do
+everything, write code, check emails,
+manage files, review poll requests, and
+they're wondering why it keeps losing
+context and going off the rails. But
+what if instead of one overloaded agent,
+you had a team of specialists, each one
+laser focused on a single job,
+coordinated under one roof? That's
+
+## Chunk 02
+exactly what a multi- aent system lets
+you do in OpenClaw. And in this video,
+I'm going to show you two ways to set
+them up. Before we get into the how,
+let's talk about why you'd want multiple
+agents in the first place. Because if
+one agent works fine, why complicate
+things? Here's the problem. Every agent
+has a limited context window. That's how
+much information it can hold in its
+
+## Chunk 03
+brain at once. When you give one agent
+responsibility for everything, your
+codebase, your email integrations, your
+documentation, your deployment scripts,
+it starts drowning in information. It
+forgets instructions. It hallucinates.
+It makes mistakes it wouldn't make if it
+had a narrower focus. Think of it like
+this. Would you rather hire one person
+to be your developer, your accountant,
+
+## Chunk 04
+your customer support rep, and your
+marketing manager, or would you rather
+hire four specialists? Problem two is
+prompt pollution. So, when your single
+agent system prompt tries to cover 10
+different jobs, the instructions start
+conflicting. Your be concise instruction
+for email drafting fights with your be
+thorough instruction for code review.
+the agent gets confused about which
+
+## Chunk 05
+personality to use and when. The third
+problem is there's no parallelism. A
+single agent can only do one thing at a
+time. With multiple agents, you can have
+one reviewing code while another is
+drafting documentation while a third is
+scanning your inbox. They work
+simultaneously. The fourth problem is
+blast radius. If your single agent
+breaks or gets confused midtask,
+
+## Chunk 06
+everything stops with multiple agents.
+If your email agent has an issue, your
+coding agent can keep working. You've
+isolated the failure. Now, let me show
+you how to actually set this up. There
+are two methods, and they serve
+different purposes. Option one is what I
+call the route method. You set up
+routing commands inside your agents.mmd
+file to keep sub agent prompts organized
+
+## Chunk 07
+in folders inside your project. This is
+great when your sub agents all work
+within the same project or codebase.
+Option two is the terminal method. You
+use the openclaw agents add command to
+spin up a sub agent with a completely
+separate workspace. This is better when
+you need agents that are truly
+independent. Different files, different
+tools, different context. Let me walk
+
+## Chunk 08
+you through both. Option one is the
+route method, and it's the simplest way
+to get started with multi- aent setups.
+Here's how it works. Step one, create
+your sub aent folder inside your
+workspace and create a project directory
+if you don't have one already, and then
+create a new folder for each sub aent.
+The folder name should describe what the
+agent does. So, if you want an agent
+
+## Chunk 09
+that checks email, you'd create a folder
+called check email. Step two is to write
+the sub aent prompt. Inside that folder,
+create a markdown file that serves as
+the agent's instructions. So, inside the
+check email folder, you'd create a check
+email.md. And this file is basically
+that agent's entire personality and
+instruction set. So, here's a simple
+example. Check email agent. You are an
+
+## Chunk 10
+email management specialist. Your job is
+to connect to the user's email inbox.
+Scan for unread messages. Summarize the
+top five most important emails. Flag
+anything that needs urgent intention.
+And then we can give it rules. So never
+send emails without explicit
+confirmation. Always prioritize emails
+from context in the VIP list and keep
+summaries under two sentences each.
+
+## Chunk 11
+Notice how focused this is. This agent
+doesn't know anything about your
+codebase, your deployment pipeline or
+anything else. It only knows email.
+That's the power of specialization. Step
+three is to set up the route command in
+agents.md.
+So go to your main agents.mmd file. This
+is your root level agent configuration.
+And you're going to add a route command
+
+## Chunk 12
+that tells openclaw when I say this
+phrase spin up a sub aent. So add
+something like when I type route task,
+you will find that task in the projects
+folder and spin up a sub aent and pass
+that task file as its system prompt. So
+now when you type route check email in
+your open claw session, it knows to load
+the instructions from that sub agent
+file and switch context. The agent
+
+## Chunk 13
+becomes the email specialist. You can
+set up as many routes as you want. Route
+check email, route code review, route
+write docs, route deploy, and so on. And
+just like that, you've got a team. Your
+project folder becomes this organized
+hub of specialists and you can switch
+between them with a single command. So
+when should you use this method? This is
+ideal when all your agents work within
+
+## Chunk 14
+the same project context. They share the
+same files, the same repository, the
+same general environment. You're
+basically creating specialized modes for
+your main agent. But what if you need an
+agent that lives in a completely
+different world? Option two is the
+terminal method, and this is the one
+most people might not know about.
+Instead of keeping sub agents inside
+
+## Chunk 15
+your project, you can use OpenClaw's
+built-in command to create a sub aent
+with its own completely separate
+workspace, different directory,
+different files, different context,
+fully isolated. And here's how. Step
+one, run the command in your terminal.
+Type openclaw agents add and then your
+agent name. So if you want to add a
+research agent, you type openclaw agents
+
+## Chunk 16
+add research- agent. You then need to
+fill out onboarding for that agent and
+OpenClaw creates the agent, sets up a
+new workspace for it and registers it in
+your agent roster. Step two is to
+configure the new agent. Once the agent
+is created, you can navigate to its
+workspace and set it up however you
+want. It has its own prompt file, its
+own working directory, its own set of
+
+## Chunk 17
+tools. It's a blank slate. This is where
+it gets powerful because this agent
+isn't constrained by your main project
+at all. You can point it to a different
+codebase, set up different security
+permissions, give it tools your main
+agent might not have. So, for example,
+maybe you have your main coding agent
+working in your app repository, a
+research agent that has web access and
+
+## Chunk 18
+can browse documentation, a data agent
+that connects to your analytics
+database, a DevOps agent that manages
+your cloud infrastructure. Each one
+lives in its own workspace. No
+crosscontamination, no context
+confusion. So, then moving to step
+three, managing your agents. You can
+list all your agents, switch between
+them, or remove ones you don't need
+
+## Chunk 19
+anymore. The terminal gives you full
+control over your agent roster. So, when
+to use this method? Use option two when
+you need true separation. When agents
+need different tools, different file
+access, different security levels, or
+when they're working on entirely
+different projects. This is your
+enterprisegrade setup. Think of option
+one as departments in the same office,
+
+## Chunk 20
+and option two as separate offices in
+different buildings. Both are valid. It
+depends on how much isolation you need.
+Method should you pick? My
+recommendation is to start with option
+one. Set up two to three routebased sub
+aents inside your main project. Get
+comfortable with the workflow. Then when
+you hit limits when you need an agent
+that truly needs its own workspace,
+
+## Chunk 21
+graduate to option two. And honestly,
+most advanced setups use both. You'll
+have route-based agents for quick
+switching within a project and
+terminalbased agents for the isolated
+workloads. And now you know more about
+multi- aent systems in OpenClaw than 99%
+of users out there. If you want to go
+deeper, if you want to see advanced
+configurations, real workflow
+
+## Chunk 22
+breakdowns, and stay on the cutting edge
+of what's possible with OpenClaw, I run
+share setups like this every week. The
+link is in the description. Drop a
+comment below telling me how many agents
+you're running or what agents you want
+to build first. I read every single one.
+And if this was helpful, smash that
+subscribe button. We're building the
+best open call resource on YouTube and
+
+## Chunk 23
+we're just getting started.

@@ -1,0 +1,17 @@
+{
+  "id": "ISb0nrlNoKQ",
+  "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+  "channel": "Riley Brown",
+  "upload_date": "20260302",
+  "description": "Why Narrow AI Agents Will Win (and How I’m Building 15 Agents to Run Growth)\n\nAfter two weeks building and testing hundreds of AI agent workflows with Open Claw, Manus, Claude Code, and Perplexity Computer, the speaker concludes that companies will rely on teams of narrow, goal-driven agents rather than one general “command center” agent. Perplexity Computer and Manus spin up a cloud computer per task, but the speaker prefers Open Claw: a single agent on a computer with structured, extensible skills, strong memory, and messaging access via tools like Telegram, Slack, and Discord. Adding too many skills reduced reliability, so the proposed sweet spot is 7–10 skills per agent. Examples include a focused YouTube content agent optimizing for subs, views, and conversions, plus a journal agent that logs activity to Notion to inform other agents like a newsletter agent optimizing open rate and click-through. Narrow agents are easier to duplicate, share, evaluate, and automate via predictable loops.\n\n00:00 Intro\n00:48 Perplexity Computer and Manus \n02:43 OpenClaw\n03:52 Too many Skills to my first AI Agent\n06:09 People want an employee\n07:35 Testing Narrow AI Agents\n08:33 Narrow Agent Example (YouTube Agent)\n11:32 A Team of Narrow Agents... Why?\n16:27 In Summary",
+  "classifications": [
+    "tutorial",
+    "tool demo",
+    "strategy",
+    "workflow",
+    "business idea",
+    "prompt engineering"
+  ],
+  "skill_candidate": true,
+  "updated_at": "2026-03-08T11:36:23.331981+00:00"
+}

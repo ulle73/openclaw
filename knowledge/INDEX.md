@@ -1,0 +1,18 @@
+| IWKOcumdMUE | NEW ChatGPT 5.4 Update is INSANE! 🤯 | Julian Goldie SEO | 20260307 |  | No | youtube/IWKOcumdMUE/learned.md |
+| IWKOcumdMUE | NEW ChatGPT 5.4 Update is INSANE! 🤯 | Julian Goldie SEO | 20260307 | tutorial, tool demo, feature breakdown, strategy, workflow, automation idea, business idea, prompt engineering | No | youtube/IWKOcumdMUE/learned.md |
+| FXfAnWMxQao | New Claude Code Scheduled Tasks Update! | Julian Goldie SEO | 20260307 | tutorial, feature breakdown, strategy, workflow, automation idea, business idea, prompt engineering | No | youtube/FXfAnWMxQao/learned.md |
+| wX_neSx7-Ls | How to Make Claude Code 100X Better in 1 Click! | Julian Goldie SEO | 20260307 | tutorial, tool demo, strategy, workflow, automation idea, business idea, prompt engineering, technical guide | No | youtube/wX_neSx7-Ls/learned.md |
+| YnzsnqsrqXs | OpenClaw + Star Office is INSANE! | Julian Goldie SEO | 20260307 | tutorial, business idea | No | youtube/YnzsnqsrqXs/learned.md |
+| iuQ_Y-qSz78 | The Most Overlooked $13K/Day Business Anyone Can Start | Chris Koerner on The Koerner Office Podcast | 20260306 | tutorial, tool demo, business idea | Yes | youtube/iuQ_Y-qSz78/learned.md |
+| jyVRbD6fqic | New OpenAI Codex Update is INSANE! | Julian Goldie SEO | 20260308 | tutorial, tool demo, workflow, automation idea, business idea | Yes | youtube/jyVRbD6fqic/learned.md |
+| ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | Riley Brown | 20260302 | tutorial, tool demo, strategy, workflow, business idea, prompt engineering | Yes | youtube/ISb0nrlNoKQ/learned.md |
+| DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | Jack Roberts | 20260308 | tutorial, tool demo, feature breakdown, strategy, workflow, automation idea, business idea, prompt engineering | Yes | youtube/DSKO9ZtbHFA/learned.md |
+| 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | Julian Goldie SEO | 20260308 | tutorial, tool demo, feature breakdown, strategy, automation idea | Yes | youtube/99EoVMtEA2A/learned.md |
+| pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | Julian Goldie SEO | 20260308 | tutorial, tool demo, strategy, workflow, automation idea, business idea, prompt engineering | Yes | youtube/pSQE1SsGfSQ/learned.md |
+| esuPIJeRotI | This Openclaw Trick Makes Single Agents Obsolete | Openclaw Labs | 20260304 | tutorial, tool demo, workflow, prompt engineering, technical guide | Yes | youtube/esuPIJeRotI/learned.md |
+| mXlMAkHhgYs | Gemini 3.1 Just Changed Web Design Forever! (FULL PROCESS) | Viktor Oddy | 20260308 | tutorial, tool demo, feature breakdown, prompt engineering | Yes | youtube/mXlMAkHhgYs/learned.md |
+| xAw3IZgX7Tc | Build Anything with Qwen's NEW Model's! | Julian Goldie SEO | 20260308 | tutorial, tool demo, workflow, automation idea, business idea, prompt engineering, technical guide | Yes | youtube/xAw3IZgX7Tc/learned.md |
+| s2HalzQZ1MQ | NEW Claude Code Update is INSANE! | Julian Goldie SEO | 20260308 | tutorial, tool demo, workflow, automation idea, business idea, prompt engineering, technical guide | Yes | youtube/s2HalzQZ1MQ/learned.md |
+| cZThTdL4YJQ | This NEW AI AGENT is INSANE! (FREE!) 🤯 | Julian Goldie SEO | 20260307 | strategy | Yes | youtube/cZThTdL4YJQ/learned.md |
+| iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | Julian Goldie SEO | 20260308 | tutorial, tool demo, feature breakdown, strategy, workflow, automation idea, business idea, prompt engineering | Yes | youtube/iBVMutY4Ot0/learned.md |
+| N0NceZbY2_4 | She Makes $3K/Day Selling Magnets | Chris Koerner on The Koerner Office Podcast | 20260308 | tool demo, strategy, business idea | Yes | youtube/N0NceZbY2_4/learned.md |

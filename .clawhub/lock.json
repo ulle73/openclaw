@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "skills": {
+    "sonoscli": {
+      "version": "1.0.0",
+      "installedAt": 1772813357534
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772818685855
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1772818689438
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1772818700480
+    },
+    "agent-autopilot": {
+      "version": "1.4.1",
+      "installedAt": 1772883900589
+    },
+    "agent-task-manager": {
+      "version": "1.0.0",
+      "installedAt": 1772883908840
+    },
+    "agent-daily-planner": {
+      "version": "1.0.0",
+      "installedAt": 1772883914130
+    },
+    "agent-step-sequencer": {
+      "version": "1.1.0",
+      "installedAt": 1772883921374
+    },
+    "agent-task-tracker": {
+      "version": "1.1.0",
+      "installedAt": 1772883927128
+    },
+    "workflow-engine": {
+      "version": "1.0.0",
+      "installedAt": 1772883933034
+    },
+    "casual-cron": {
+      "version": "1.2.0",
+      "installedAt": 1772883952775
+    },
+    "cron-backup": {
+      "version": "0.3.2",
+      "installedAt": 1772883958329
+    },
+    "cron-retry": {
+      "version": "1.0.0",
+      "installedAt": 1772883963209
+    },
+    "usage-tracker-clawhub": {
+      "version": "1.0.1",
+      "installedAt": 1772889665782
+    },
+    "openclaw-cron-setup": {
+      "version": "1.0.0",
+      "installedAt": 1772920052370
+    }
+  }
+}

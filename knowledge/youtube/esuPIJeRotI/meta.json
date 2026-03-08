@@ -1,0 +1,16 @@
+{
+  "id": "esuPIJeRotI",
+  "title": "This Openclaw Trick Makes Single Agents Obsolete",
+  "channel": "Openclaw Labs",
+  "upload_date": "20260304",
+  "description": "Most OpenClaw users are making a common error by using a single agent for various tasks, leading to context loss.\n\nThis video demonstrates how to implement effective multi agent systems within OpenClaw, ensuring better performance and specialized functions. Learn two distinct methods for openclaw setup to optimize your ai agents and prevent inefficiency. #openclaw #clawdbot #ai \n\n🔗 Join the Openclaw Labs Skool community for more strategies: https://www.skool.com/titan-9535\n\nHere's what you'll learn:\n🔹 Why single-agent setups break down (context overload, prompt pollution, zero parallelism)\n🔹 Method 1 — The Route Method: How to create specialized sub-agents inside the same project using agents.md and sub-folders\n🔹 Method 2 — The Terminal Method: How to spin up fully isolated agent workspaces with openclaw agents add\n🔹 When to use each method (and why most advanced setups use both)Start with the Route Method for 2-3 sub-agents, then graduate to the Terminal Method when you need true isolation.This is how you go from one overloaded agent to a team of specialists — each with its own prompt, tools, and focus.\n\n🔗 Join the Openclaw Labs Skool community for more strategies: https://www.skool.com/titan-9535\n🔗 Get the step-by-step guide for a multi-ageint setup: https://openclaw-multi-agent-systems-guide.vercel.app\n\nTimestamps:\n00:00 - What most people do wrong with Openclaw\n00:29 - Why using multiple agents is a better system\n02:00 - Two ways to build multi-agent systems in Openclaw\n02:24 - Option 1: The route method\n04:50 - Option 2: The terminal method\n06:40 - Which method should you pick\n07:00 - Next steps\n\n#openclaw #aiagents #multiagent #aiautomation #agentic #productivity",
+  "classifications": [
+    "tutorial",
+    "tool demo",
+    "workflow",
+    "prompt engineering",
+    "technical guide"
+  ],
+  "skill_candidate": true,
+  "updated_at": "2026-03-08T15:46:55.954175+00:00"
+}

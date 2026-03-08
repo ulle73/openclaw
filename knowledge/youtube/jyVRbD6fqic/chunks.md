@@ -1,0 +1,283 @@
+# Chunks
+
+## Chunk 01
+New OpenAI codeex update is insane.
+Open AAI just dropped something that is
+going to blow your mind. It is called
+Codeex Security and it is basically an
+AI security engineer that finds bugs in
+your code and fixes them for you
+automatically. No joke. This is brand
+new. It is massive. And by the end of
+this video, you are going to know
+exactly how it works and why it changes
+
+## Chunk 02
+everything. So, let me break this down
+for you. If you build software, if you
+run a team that builds software, or if
+you just want to stay ahead of what AI
+is doing right now, pay attention
+because this is one of the biggest
+updates OpenAI has put out this year.
+Here is the problem. Every single day,
+developers write code. And inside that
+code, there are security holes, bugs,
+
+## Chunk 03
+vulnerabilities, stuff that hackers can
+use to break into systems, steal data,
+and cause absolute chaos. Now, normally
+to find those bugs, you need a security
+expert. someone who sits there line by
+line going through thousands and
+thousands of lines of code. It takes
+forever. It is boring and and most teams
+do not have enough people to do it
+properly. That is where codeex security
+
+## Chunk 04
+comes in. Open AAI built an AI agent
+that plugs into your codebase. It scans
+everything. It looks at the
+architecture. It looks at the
+dependencies. It looks at how the whole
+system fits together. And then it finds
+the vulnerabilities, not just random
+alerts like the old tools used to give
+you actual real problems that could be
+exploited. But here is where it gets
+
+## Chunk 05
+crazy. It does not just find the bugs,
+it tests them. It runs them in a sandbox
+to make sure they are real. So you are
+not wasting time chasing false alarms.
+And then, and this is the part that blew
+my mind, it writes the fix for you. It
+generates the actual code patch. You
+just review it, and merge it. Done.
+Think about that for a second. An AI
+that finds the bug, proves the bug is
+
+## Chunk 06
+real, and then fixes the bug all
+automatically. Now, let me give you the
+numbers from the early testing because
+they are insane. During the research
+preview, this thing scanned over 1.2
+million commits. That is a massive
+amount of code and it found 792 critical
+vulnerabilities. Not medium, not low,
+critical. The kind of stuff that could
+take down a system. On top of that, it
+
+## Chunk 07
+found over 10,000 high severity issues.
+That is the power of AI working at
+scale. No human team could do that in
+the same amount of time. It is just not
+possible. Hey, if we have not met
+already, I am the digital avatar of
+Julian Goldie, CEO of Goldie Agency.
+Whilst he is helping clients get more
+leads and customers, I am here to help
+you get the latest AI updates. Julian
+
+## Chunk 08
+Goldie reads every single comment, so
+make sure you drop one below. All right,
+let me keep going because there is more
+to unpack here. So, how does Codeex
+Security actually work step by step? Let
+me make it super simple. Step one, you
+connect your GitHub repository. That is
+it. You just link it up. Step two, the
+AI studies your entire system. It looks
+at the architecture, the dependencies,
+
+## Chunk 09
+the commit history, everything, right?
+It builds what is called a threat model.
+Basically, a map of where your system
+could be attacked. Step three, it finds
+the vulnerabilities, things like SQL
+injection, insecure authentication,
+exposed secrets, vulnerable packages,
+all the stuff that keeps security teams
+up at night. Step four, it validates, it
+actually tests whether the vulnerability
+
+## Chunk 10
+can be exploited. This is huge because
+old security tools would flag thousands
+of things and most of them were nothing.
+Total waste of time. Codeex security
+only surfaces the real stuff. Step five,
+it generates the patch. It writes secure
+code, creates a pull request and hands
+it to you on a silver platter. All you
+have to do is review it and hit merge.
+Now I want you to think about what this
+
+## Chunk 11
+means for the bigger picture. Before
+this, if you wanted to secure your code,
+you had two options. Option one, hire
+expensive security experts. Option two,
+use static analysis tools that bury you
+in false positives. Both of those
+options are slow and painful. Codeex
+security is option three, an AI agent
+that does the work of a security team.
+It understands context. It does not just
+
+## Chunk 12
+patent match like old scanners. It
+actually understands how your
+application works and finds the
+vulnerabilities that matter. And this is
+why OpenAI is now directly competing
+with companies like Snike, Checkmarks,
+and even GitHub's own security tools
+because this is not just a scanner. It
+is an AI teammate. Now, here's what I
+want you to take away from this, and
+
+## Chunk 13
+this is the part most people are going
+to miss. This is not just about
+security. This is about the future of
+software development. Think about it. We
+already have AI that writes code. We
+have AI that tests code. And now we have
+AI that secures code. The entire
+development life cycle is being
+automated piece by piece. If you are not
+paying attention to this, you are going
+
+## Chunk 14
+to get left behind. And I am not saying
+that to scare you. I am saying it
+because it is the truth. Now, if you are
+watching this and thinking, "Okay,
+Julian, this is great, but how do I
+actually use AI to grow my business and
+stay ahead of all this?" I have
+boardroom specifically for people who
+want to scale their business, get more
+customers, and save hundreds of hours
+
+## Chunk 15
+with AI automation. If you want to learn
+how to use tools like codec security and
+other cutting edge AI to automate your
+workflows and protect your systems, this
+is where you need to be. Link is in the
+description and the comments. Go check
+it out. All right, back to the content
+because I am not done yet. Let me talk
+about why this matters. Even if you are
+not a developer, if you run a business,
+
+## Chunk 16
+your software needs to be secure.
+Period. Data breaches destroy companies.
+They destroy trust. They destroy
+everything you've built. And up until
+now, keeping your software secure was
+expensive, slow, and complicated. Codec
+changes that. It makes security
+accessible. It makes it fast, and it
+makes it reliable because the AI does
+not get tired. It does not miss things
+
+## Chunk 17
+because it is Friday afternoon and it
+wants to go home. It scans everything
+every time at scale. Now, let me talk
+about some specific use cases because I
+think this will make it click for you.
+Use case one, automated code review.
+Every time your team submits a pull
+request, the AI reviews it for security
+issues before it gets merged. No more
+hoping someone catches the bug, the AI
+
+## Chunk 18
+catches it. Use case two, secrets
+detection. You know how sometimes
+developers accidentally leave API keys
+or passwords in the code? Happens all
+the time. Codec finds those immediately
+and flags them. Use case three,
+dependency security. Your software uses
+other packages and libraries, right?
+Well, those packages have their own
+vulnerabilities. Codec checks all of
+
+## Chunk 19
+them and tells you which ones are risky.
+Use case four, autopatching. It does not
+just tell you there is a problem. It
+fixes the problem. It writes the secure
+code and creates the pull request. You
+just review and merge. This is the kind
+of stuff that used to take entire
+security teams weeks to do. Now, an AI
+agent does it in minutes. And here is an
+open loop for you. Open AAI said this is
+
+## Chunk 20
+a research preview. That means this is
+just the beginning. The full version is
+going to be even more powerful. I am
+going to be covering every update as it
+drops. So, make sure you are subscribed.
+Now, let me zoom out one more time
+because I want you to see the big
+picture. We are living through the
+biggest shift in technology since the
+internet. AI is not just a tool anymore,
+
+## Chunk 21
+right? It's becoming a coworker. It
+writes your code. It reviews your code.
+It secures your code. is handling tasks
+that used to require entire teams of
+specialists. And the companies that
+adopt this early are going to have a
+massive advantage. Faster development,
+fewer bugs, better security, less
+overhead. It is a no-brainer. The
+companies that ignore it are going to be
+
+## Chunk 22
+playing catch-up for years. So, here's
+what I want you to do right now. First,
+go check out Codeex Security. Play
+around with it. See what it can do.
+Second, if you want to learn how to use
+AI tools like codec security to automate
+your security workflows, streamline your
+development process and stay ahead of
+It is the best place to scale your
+business, get more customers, and save
+
+## Chunk 23
+hundreds of hours with AI automation. I
+will drop the link in the description
+and the comments. And if you want the
+full process, SOPs, and over 100 AI use
+cases like this one, join the AI success
+lab. Links in the comments and
+description. You'll get all the video
+notes from there, plus access to our
+crushing it with AI. So, subscribe if
+you have not already because I am
+
+## Chunk 24
+covering every major AI update as it
+happens. And trust me, you do not want
+to miss what is coming next. I will see
+you in the next

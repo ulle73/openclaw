@@ -1,0 +1,1888 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:03.350 align:start position:0%
+ 
+New<00:00:00.400><c> Claude</c><00:00:00.880><c> code</c><00:00:01.439><c> update</c><00:00:01.839><c> is</c><00:00:02.159><c> insane.</c><00:00:03.040><c> So</c>
+
+00:00:03.350 --> 00:00:03.360 align:start position:0%
+New Claude code update is insane. So
+ 
+
+00:00:03.360 --> 00:00:05.349 align:start position:0%
+New Claude code update is insane. So
+Claude<00:00:03.760><c> can</c><00:00:03.919><c> now</c><00:00:04.080><c> work</c><00:00:04.240><c> while</c><00:00:04.480><c> you</c><00:00:04.640><c> sleep.</c><00:00:05.120><c> No,</c>
+
+00:00:05.349 --> 00:00:05.359 align:start position:0%
+Claude can now work while you sleep. No,
+ 
+
+00:00:05.359 --> 00:00:07.430 align:start position:0%
+Claude can now work while you sleep. No,
+I'm<00:00:05.520><c> not</c><00:00:05.680><c> joking.</c><00:00:06.400><c> Anthropic</c><00:00:07.040><c> just</c><00:00:07.200><c> dropped</c>
+
+00:00:07.430 --> 00:00:07.440 align:start position:0%
+I'm not joking. Anthropic just dropped
+ 
+
+00:00:07.440 --> 00:00:09.669 align:start position:0%
+I'm not joking. Anthropic just dropped
+an<00:00:07.600><c> update</c><00:00:07.919><c> that</c><00:00:08.160><c> turns</c><00:00:08.320><c> Claude</c><00:00:08.720><c> into</c><00:00:08.960><c> a</c><00:00:09.120><c> robot</c>
+
+00:00:09.669 --> 00:00:09.679 align:start position:0%
+an update that turns Claude into a robot
+ 
+
+00:00:09.679 --> 00:00:12.230 align:start position:0%
+an update that turns Claude into a robot
+that<00:00:09.920><c> codes</c><00:00:10.240><c> on</c><00:00:10.400><c> a</c><00:00:10.559><c> timer.</c><00:00:10.960><c> You</c><00:00:11.120><c> set</c><00:00:11.360><c> it</c><00:00:11.519><c> once,</c>
+
+00:00:12.230 --> 00:00:12.240 align:start position:0%
+that codes on a timer. You set it once,
+ 
+
+00:00:12.240 --> 00:00:14.310 align:start position:0%
+that codes on a timer. You set it once,
+walk<00:00:12.480><c> away,</c><00:00:12.960><c> and</c><00:00:13.200><c> it</c><00:00:13.360><c> just</c><00:00:13.519><c> keeps</c><00:00:13.840><c> going.</c>
+
+00:00:14.310 --> 00:00:14.320 align:start position:0%
+walk away, and it just keeps going.
+ 
+
+00:00:14.320 --> 00:00:16.550 align:start position:0%
+walk away, and it just keeps going.
+Today,<00:00:14.639><c> I'm</c><00:00:14.880><c> going</c><00:00:14.960><c> to</c><00:00:15.040><c> show</c><00:00:15.200><c> you</c><00:00:15.519><c> exactly</c><00:00:16.320><c> how</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+Today, I'm going to show you exactly how
+ 
+
+00:00:16.560 --> 00:00:19.029 align:start position:0%
+Today, I'm going to show you exactly how
+it<00:00:16.880><c> works,</c><00:00:17.600><c> how</c><00:00:17.760><c> to</c><00:00:17.920><c> set</c><00:00:18.080><c> it</c><00:00:18.240><c> up</c><00:00:18.400><c> in</c><00:00:18.640><c> like</c><00:00:18.800><c> 2</c>
+
+00:00:19.029 --> 00:00:19.039 align:start position:0%
+it works, how to set it up in like 2
+ 
+
+00:00:19.039 --> 00:00:21.029 align:start position:0%
+it works, how to set it up in like 2
+minutes,<00:00:19.600><c> and</c><00:00:19.840><c> the</c><00:00:20.000><c> real</c><00:00:20.160><c> use</c><00:00:20.400><c> cases</c><00:00:20.720><c> that</c><00:00:20.880><c> are</c>
+
+00:00:21.029 --> 00:00:21.039 align:start position:0%
+minutes, and the real use cases that are
+ 
+
+00:00:21.039 --> 00:00:22.870 align:start position:0%
+minutes, and the real use cases that are
+going<00:00:21.119><c> to</c><00:00:21.279><c> blow</c><00:00:21.600><c> your</c><00:00:21.760><c> mind.</c><00:00:22.400><c> This</c><00:00:22.560><c> is</c><00:00:22.720><c> the</c>
+
+00:00:22.870 --> 00:00:22.880 align:start position:0%
+going to blow your mind. This is the
+ 
+
+00:00:22.880 --> 00:00:25.109 align:start position:0%
+going to blow your mind. This is the
+biggest<00:00:23.119><c> clawed</c><00:00:23.519><c> update</c><00:00:23.840><c> yet,</c><00:00:24.240><c> and</c><00:00:24.560><c> nobody</c><00:00:24.880><c> is</c>
+
+00:00:25.109 --> 00:00:25.119 align:start position:0%
+biggest clawed update yet, and nobody is
+ 
+
+00:00:25.119 --> 00:00:26.710 align:start position:0%
+biggest clawed update yet, and nobody is
+talking<00:00:25.359><c> about</c><00:00:25.519><c> it.</c><00:00:25.840><c> So,</c><00:00:26.240><c> here's</c><00:00:26.560><c> the</c>
+
+00:00:26.710 --> 00:00:26.720 align:start position:0%
+talking about it. So, here's the
+ 
+
+00:00:26.720 --> 00:00:28.710 align:start position:0%
+talking about it. So, here's the
+problem.<00:00:27.119><c> Every</c><00:00:27.359><c> AI</c><00:00:27.760><c> tool</c><00:00:28.080><c> right</c><00:00:28.240><c> now</c><00:00:28.480><c> works</c>
+
+00:00:28.710 --> 00:00:28.720 align:start position:0%
+problem. Every AI tool right now works
+ 
+
+00:00:28.720 --> 00:00:30.710 align:start position:0%
+problem. Every AI tool right now works
+the<00:00:28.880><c> same</c><00:00:29.039><c> way.</c><00:00:29.359><c> You</c><00:00:29.599><c> type</c><00:00:29.840><c> something,</c><00:00:30.480><c> it</c>
+
+00:00:30.710 --> 00:00:30.720 align:start position:0%
+the same way. You type something, it
+ 
+
+00:00:30.720 --> 00:00:32.549 align:start position:0%
+the same way. You type something, it
+does<00:00:30.880><c> something.</c><00:00:31.359><c> You</c><00:00:31.519><c> type</c><00:00:31.760><c> again,</c><00:00:32.160><c> it</c><00:00:32.399><c> does</c>
+
+00:00:32.549 --> 00:00:32.559 align:start position:0%
+does something. You type again, it does
+ 
+
+00:00:32.559 --> 00:00:34.549 align:start position:0%
+does something. You type again, it does
+something<00:00:32.880><c> again.</c><00:00:33.280><c> It's</c><00:00:33.520><c> like</c><00:00:34.000><c> having</c><00:00:34.320><c> an</c>
+
+00:00:34.549 --> 00:00:34.559 align:start position:0%
+something again. It's like having an
+ 
+
+00:00:34.559 --> 00:00:36.150 align:start position:0%
+something again. It's like having an
+employee<00:00:34.960><c> who</c><00:00:35.200><c> only</c><00:00:35.440><c> works</c><00:00:35.680><c> when</c><00:00:35.840><c> you</c><00:00:35.920><c> tap</c>
+
+00:00:36.150 --> 00:00:36.160 align:start position:0%
+employee who only works when you tap
+ 
+
+00:00:36.160 --> 00:00:38.150 align:start position:0%
+employee who only works when you tap
+them<00:00:36.320><c> on</c><00:00:36.480><c> the</c><00:00:36.640><c> shoulder</c><00:00:37.120><c> every</c><00:00:37.360><c> single</c><00:00:37.680><c> time.</c>
+
+00:00:38.150 --> 00:00:38.160 align:start position:0%
+them on the shoulder every single time.
+ 
+
+00:00:38.160 --> 00:00:39.910 align:start position:0%
+them on the shoulder every single time.
+That<00:00:38.399><c> gets</c><00:00:38.559><c> all</c><00:00:38.879><c> fast.</c><00:00:39.280><c> Especially</c><00:00:39.600><c> if</c><00:00:39.760><c> you're</c>
+
+00:00:39.910 --> 00:00:39.920 align:start position:0%
+That gets all fast. Especially if you're
+ 
+
+00:00:39.920 --> 00:00:42.549 align:start position:0%
+That gets all fast. Especially if you're
+a<00:00:40.160><c> developer</c><00:00:40.879><c> or</c><00:00:41.040><c> you</c><00:00:41.280><c> run</c><00:00:41.440><c> a</c><00:00:41.600><c> team</c><00:00:42.079><c> or</c><00:00:42.399><c> you</c>
+
+00:00:42.549 --> 00:00:42.559 align:start position:0%
+a developer or you run a team or you
+ 
+
+00:00:42.559 --> 00:00:43.990 align:start position:0%
+a developer or you run a team or you
+just<00:00:42.719><c> have</c><00:00:42.960><c> stuff</c><00:00:43.120><c> that</c><00:00:43.360><c> needs</c><00:00:43.520><c> to</c><00:00:43.760><c> happen</c>
+
+00:00:43.990 --> 00:00:44.000 align:start position:0%
+just have stuff that needs to happen
+ 
+
+00:00:44.000 --> 00:00:45.430 align:start position:0%
+just have stuff that needs to happen
+every<00:00:44.239><c> single</c><00:00:44.480><c> day</c><00:00:44.719><c> without</c><00:00:45.040><c> you</c><00:00:45.200><c> thinking</c>
+
+00:00:45.430 --> 00:00:45.440 align:start position:0%
+every single day without you thinking
+ 
+
+00:00:45.440 --> 00:00:47.270 align:start position:0%
+every single day without you thinking
+about<00:00:45.600><c> it.</c><00:00:46.000><c> What</c><00:00:46.160><c> if</c><00:00:46.320><c> I</c><00:00:46.399><c> told</c><00:00:46.559><c> you</c><00:00:46.800><c> that's</c><00:00:47.039><c> over</c>
+
+00:00:47.270 --> 00:00:47.280 align:start position:0%
+about it. What if I told you that's over
+ 
+
+00:00:47.280 --> 00:00:49.830 align:start position:0%
+about it. What if I told you that's over
+now?<00:00:47.840><c> Claude</c><00:00:48.239><c> Code</c><00:00:48.559><c> just</c><00:00:48.800><c> launched</c><00:00:49.440><c> something</c>
+
+00:00:49.830 --> 00:00:49.840 align:start position:0%
+now? Claude Code just launched something
+ 
+
+00:00:49.840 --> 00:00:52.389 align:start position:0%
+now? Claude Code just launched something
+called<00:00:50.160><c> scheduled</c><00:00:50.640><c> tasks</c><00:00:51.680><c> and</c><00:00:51.840><c> it</c><00:00:52.079><c> changes</c>
+
+00:00:52.389 --> 00:00:52.399 align:start position:0%
+called scheduled tasks and it changes
+ 
+
+00:00:52.399 --> 00:00:54.310 align:start position:0%
+called scheduled tasks and it changes
+everything.<00:00:52.719><c> You</c><00:00:52.879><c> give</c><00:00:53.039><c> Claude</c><00:00:53.280><c> a</c><00:00:53.520><c> job.</c><00:00:54.160><c> You</c>
+
+00:00:54.310 --> 00:00:54.320 align:start position:0%
+everything. You give Claude a job. You
+ 
+
+00:00:54.320 --> 00:00:56.869 align:start position:0%
+everything. You give Claude a job. You
+tell<00:00:54.399><c> it</c><00:00:54.640><c> when</c><00:00:54.879><c> to</c><00:00:55.039><c> do</c><00:00:55.199><c> that</c><00:00:55.440><c> job.</c><00:00:56.480><c> And</c><00:00:56.640><c> then</c>
+
+00:00:56.869 --> 00:00:56.879 align:start position:0%
+tell it when to do that job. And then
+ 
+
+00:00:56.879 --> 00:00:59.189 align:start position:0%
+tell it when to do that job. And then
+Claude<00:00:57.280><c> just</c><00:00:57.520><c> does</c><00:00:57.760><c> it</c><00:00:58.399><c> every</c><00:00:58.719><c> hour,</c><00:00:59.039><c> every</c>
+
+00:00:59.189 --> 00:00:59.199 align:start position:0%
+Claude just does it every hour, every
+ 
+
+00:00:59.199 --> 00:01:00.549 align:start position:0%
+Claude just does it every hour, every
+morning,<00:00:59.520><c> every</c><00:00:59.760><c> Monday,</c><00:01:00.160><c> whatever</c><00:01:00.399><c> you</c>
+
+00:01:00.549 --> 00:01:00.559 align:start position:0%
+morning, every Monday, whatever you
+ 
+
+00:01:00.559 --> 00:01:02.950 align:start position:0%
+morning, every Monday, whatever you
+want.<00:01:00.960><c> You</c><00:01:01.199><c> set</c><00:01:01.359><c> it</c><00:01:01.520><c> up</c><00:01:01.680><c> once</c><00:01:02.160><c> and</c><00:01:02.399><c> it</c><00:01:02.640><c> runs</c><00:01:02.800><c> on</c>
+
+00:01:02.950 --> 00:01:02.960 align:start position:0%
+want. You set it up once and it runs on
+ 
+
+00:01:02.960 --> 00:01:04.390 align:start position:0%
+want. You set it up once and it runs on
+autopilot.<00:01:03.680><c> Think</c><00:01:03.840><c> about</c><00:01:03.920><c> that</c><00:01:04.080><c> for</c><00:01:04.239><c> a</c>
+
+00:01:04.390 --> 00:01:04.400 align:start position:0%
+autopilot. Think about that for a
+ 
+
+00:01:04.400 --> 00:01:05.990 align:start position:0%
+autopilot. Think about that for a
+second.<00:01:04.640><c> That's</c><00:01:04.879><c> not</c><00:01:04.960><c> an</c><00:01:05.199><c> assistant</c><00:01:05.519><c> anymore.</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+second. That's not an assistant anymore.
+ 
+
+00:01:06.000 --> 00:01:07.750 align:start position:0%
+second. That's not an assistant anymore.
+That's<00:01:06.159><c> a</c><00:01:06.320><c> worker.</c><00:01:06.799><c> That's</c><00:01:07.040><c> an</c><00:01:07.200><c> autonomous</c>
+
+00:01:07.750 --> 00:01:07.760 align:start position:0%
+That's a worker. That's an autonomous
+ 
+
+00:01:07.760 --> 00:01:09.750 align:start position:0%
+That's a worker. That's an autonomous
+agent<00:01:08.240><c> sitting</c><00:01:08.560><c> on</c><00:01:08.799><c> your</c><00:01:08.960><c> computer</c><00:01:09.439><c> doing</c>
+
+00:01:09.750 --> 00:01:09.760 align:start position:0%
+agent sitting on your computer doing
+ 
+
+00:01:09.760 --> 00:01:11.990 align:start position:0%
+agent sitting on your computer doing
+real<00:01:10.000><c> work</c><00:01:10.479><c> while</c><00:01:10.720><c> you</c><00:01:10.880><c> go</c><00:01:11.040><c> live</c><00:01:11.360><c> your</c><00:01:11.520><c> life.</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+real work while you go live your life.
+ 
+
+00:01:12.000 --> 00:01:13.429 align:start position:0%
+real work while you go live your life.
+Let<00:01:12.159><c> me</c><00:01:12.320><c> show</c><00:01:12.400><c> you</c><00:01:12.479><c> how</c><00:01:12.720><c> this</c><00:01:12.880><c> actually</c><00:01:13.119><c> works.</c>
+
+00:01:13.429 --> 00:01:13.439 align:start position:0%
+Let me show you how this actually works.
+ 
+
+00:01:13.439 --> 00:01:15.510 align:start position:0%
+Let me show you how this actually works.
+It's<00:01:13.680><c> stupid</c><00:01:14.000><c> simple.</c><00:01:14.320><c> You</c><00:01:14.560><c> open</c><00:01:14.880><c> Claude</c><00:01:15.280><c> Code</c>
+
+00:01:15.510 --> 00:01:15.520 align:start position:0%
+It's stupid simple. You open Claude Code
+ 
+
+00:01:15.520 --> 00:01:17.670 align:start position:0%
+It's stupid simple. You open Claude Code
+on<00:01:15.760><c> your</c><00:01:15.920><c> desktop.</c><00:01:16.640><c> You</c><00:01:16.799><c> click</c><00:01:17.119><c> schedule</c><00:01:17.520><c> in</c>
+
+00:01:17.670 --> 00:01:17.680 align:start position:0%
+on your desktop. You click schedule in
+ 
+
+00:01:17.680 --> 00:01:19.910 align:start position:0%
+on your desktop. You click schedule in
+the<00:01:17.759><c> sidebar.</c><00:01:18.320><c> You</c><00:01:18.479><c> hit</c><00:01:18.640><c> new</c><00:01:18.880><c> task.</c><00:01:19.600><c> Then</c><00:01:19.759><c> you</c>
+
+00:01:19.910 --> 00:01:19.920 align:start position:0%
+the sidebar. You hit new task. Then you
+ 
+
+00:01:19.920 --> 00:01:22.149 align:start position:0%
+the sidebar. You hit new task. Then you
+fill<00:01:20.159><c> in</c><00:01:20.320><c> four</c><00:01:20.640><c> things.</c><00:01:21.200><c> a</c><00:01:21.520><c> name,</c><00:01:21.920><c> a</c>
+
+00:01:22.149 --> 00:01:22.159 align:start position:0%
+fill in four things. a name, a
+ 
+
+00:01:22.159 --> 00:01:23.910 align:start position:0%
+fill in four things. a name, a
+description,<00:01:22.880><c> the</c><00:01:23.040><c> prompt</c><00:01:23.360><c> you</c><00:01:23.520><c> want</c><00:01:23.600><c> it</c><00:01:23.759><c> to</c>
+
+00:01:23.910 --> 00:01:23.920 align:start position:0%
+description, the prompt you want it to
+ 
+
+00:01:23.920 --> 00:01:25.830 align:start position:0%
+description, the prompt you want it to
+run,<00:01:24.240><c> and</c><00:01:24.400><c> how</c><00:01:24.640><c> often</c><00:01:24.880><c> you</c><00:01:25.040><c> want</c><00:01:25.119><c> it</c><00:01:25.280><c> to</c><00:01:25.439><c> run.</c>
+
+00:01:25.830 --> 00:01:25.840 align:start position:0%
+run, and how often you want it to run.
+ 
+
+00:01:25.840 --> 00:01:28.070 align:start position:0%
+run, and how often you want it to run.
+That's<00:01:26.080><c> it.</c><00:01:26.479><c> You</c><00:01:26.720><c> click</c><00:01:26.960><c> run</c><00:01:27.200><c> now</c><00:01:27.439><c> to</c><00:01:27.600><c> test</c><00:01:27.840><c> it,</c>
+
+00:01:28.070 --> 00:01:28.080 align:start position:0%
+That's it. You click run now to test it,
+ 
+
+00:01:28.080 --> 00:01:30.310 align:start position:0%
+That's it. You click run now to test it,
+and<00:01:28.400><c> boom,</c><00:01:28.799><c> it</c><00:01:29.040><c> shows</c><00:01:29.280><c> up</c><00:01:29.439><c> in</c><00:01:29.600><c> your</c><00:01:29.840><c> scheduled</c>
+
+00:01:30.310 --> 00:01:30.320 align:start position:0%
+and boom, it shows up in your scheduled
+ 
+
+00:01:30.320 --> 00:01:32.069 align:start position:0%
+and boom, it shows up in your scheduled
+sessions<00:01:30.720><c> panel.</c><00:01:31.119><c> Done.</c><00:01:31.439><c> Now,</c><00:01:31.680><c> here's</c><00:01:31.920><c> the</c>
+
+00:01:32.069 --> 00:01:32.079 align:start position:0%
+sessions panel. Done. Now, here's the
+ 
+
+00:01:32.079 --> 00:01:33.590 align:start position:0%
+sessions panel. Done. Now, here's the
+part<00:01:32.159><c> that</c><00:01:32.400><c> gets</c><00:01:32.560><c> really</c><00:01:32.799><c> fun.</c><00:01:33.280><c> You</c><00:01:33.520><c> don't</c>
+
+00:01:33.590 --> 00:01:33.600 align:start position:0%
+part that gets really fun. You don't
+ 
+
+00:01:33.600 --> 00:01:35.429 align:start position:0%
+part that gets really fun. You don't
+even<00:01:33.840><c> need</c><00:01:34.079><c> to</c><00:01:34.240><c> write</c><00:01:34.560><c> fancy</c><00:01:34.960><c> code</c><00:01:35.200><c> to</c>
+
+00:01:35.429 --> 00:01:35.439 align:start position:0%
+even need to write fancy code to
+ 
+
+00:01:35.439 --> 00:01:37.429 align:start position:0%
+even need to write fancy code to
+schedule<00:01:35.840><c> things.</c><00:01:36.560><c> You</c><00:01:36.799><c> can</c><00:01:36.880><c> literally</c><00:01:37.200><c> type</c>
+
+00:01:37.429 --> 00:01:37.439 align:start position:0%
+schedule things. You can literally type
+ 
+
+00:01:37.439 --> 00:01:39.590 align:start position:0%
+schedule things. You can literally type
+in<00:01:37.600><c> plain</c><00:01:37.920><c> English</c><00:01:38.320><c> something</c><00:01:38.560><c> like,</c><00:01:38.960><c> "Run</c><00:01:39.360><c> my</c>
+
+00:01:39.590 --> 00:01:39.600 align:start position:0%
+in plain English something like, "Run my
+ 
+
+00:01:39.600 --> 00:01:42.069 align:start position:0%
+in plain English something like, "Run my
+tests<00:01:39.920><c> every</c><00:01:40.159><c> 6</c><00:01:40.400><c> hours</c><00:01:41.040><c> or</c><00:01:41.439><c> check</c><00:01:41.600><c> for</c><00:01:41.840><c> bugs</c>
+
+00:01:42.069 --> 00:01:42.079 align:start position:0%
+tests every 6 hours or check for bugs
+ 
+
+00:01:42.079 --> 00:01:43.830 align:start position:0%
+tests every 6 hours or check for bugs
+every<00:01:42.320><c> morning</c><00:01:42.560><c> at</c><00:01:42.720><c> 9."</c><00:01:43.119><c> Claude</c><00:01:43.520><c> understands</c>
+
+00:01:43.830 --> 00:01:43.840 align:start position:0%
+every morning at 9." Claude understands
+ 
+
+00:01:43.840 --> 00:01:45.830 align:start position:0%
+every morning at 9." Claude understands
+that.<00:01:44.240><c> It</c><00:01:44.479><c> just</c><00:01:44.640><c> works.</c><00:01:45.119><c> And</c><00:01:45.280><c> when</c><00:01:45.520><c> the</c><00:01:45.680><c> time</c>
+
+00:01:45.830 --> 00:01:45.840 align:start position:0%
+that. It just works. And when the time
+ 
+
+00:01:45.840 --> 00:01:47.350 align:start position:0%
+that. It just works. And when the time
+comes,<00:01:46.159><c> here's</c><00:01:46.399><c> what</c><00:01:46.560><c> happens</c><00:01:46.880><c> behind</c><00:01:47.200><c> the</c>
+
+00:01:47.350 --> 00:01:47.360 align:start position:0%
+comes, here's what happens behind the
+ 
+
+00:01:47.360 --> 00:01:49.190 align:start position:0%
+comes, here's what happens behind the
+scenes.<00:01:47.840><c> The</c><00:01:48.079><c> desktop</c><00:01:48.479><c> app</c><00:01:48.720><c> checks</c><00:01:48.960><c> the</c>
+
+00:01:49.190 --> 00:01:49.200 align:start position:0%
+scenes. The desktop app checks the
+ 
+
+00:01:49.200 --> 00:01:50.710 align:start position:0%
+scenes. The desktop app checks the
+schedule<00:01:49.520><c> every</c><00:01:49.759><c> minute.</c><00:01:50.079><c> When</c><00:01:50.240><c> it's</c><00:01:50.479><c> go</c>
+
+00:01:50.710 --> 00:01:50.720 align:start position:0%
+schedule every minute. When it's go
+ 
+
+00:01:50.720 --> 00:01:52.469 align:start position:0%
+schedule every minute. When it's go
+time,<00:01:51.119><c> Claude</c><00:01:51.520><c> launches</c><00:01:51.840><c> a</c><00:01:52.079><c> brand</c><00:01:52.240><c> new</c>
+
+00:01:52.469 --> 00:01:52.479 align:start position:0%
+time, Claude launches a brand new
+ 
+
+00:01:52.479 --> 00:01:54.550 align:start position:0%
+time, Claude launches a brand new
+session.<00:01:52.960><c> It</c><00:01:53.119><c> runs</c><00:01:53.360><c> your</c><00:01:53.520><c> prompt</c><00:01:54.079><c> and</c><00:01:54.240><c> then</c><00:01:54.399><c> it</c>
+
+00:01:54.550 --> 00:01:54.560 align:start position:0%
+session. It runs your prompt and then it
+ 
+
+00:01:54.560 --> 00:01:55.910 align:start position:0%
+session. It runs your prompt and then it
+sends<00:01:54.799><c> you</c><00:01:54.960><c> a</c><00:01:55.119><c> notification</c><00:01:55.520><c> with</c><00:01:55.680><c> the</c>
+
+00:01:55.910 --> 00:01:55.920 align:start position:0%
+sends you a notification with the
+ 
+
+00:01:55.920 --> 00:01:58.069 align:start position:0%
+sends you a notification with the
+results.<00:01:56.479><c> Every</c><00:01:56.799><c> single</c><00:01:57.119><c> run</c><00:01:57.439><c> is</c><00:01:57.600><c> a</c><00:01:57.840><c> full</c>
+
+00:01:58.069 --> 00:01:58.079 align:start position:0%
+results. Every single run is a full
+ 
+
+00:01:58.079 --> 00:02:00.310 align:start position:0%
+results. Every single run is a full
+Claude<00:01:58.560><c> code</c><00:01:58.880><c> session.</c><00:01:59.520><c> That</c><00:01:59.680><c> means</c><00:01:59.920><c> Claude</c>
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+Claude code session. That means Claude
+ 
+
+00:02:00.320 --> 00:02:02.230 align:start position:0%
+Claude code session. That means Claude
+can<00:02:00.479><c> edit</c><00:02:00.719><c> files,</c><00:02:01.200><c> run</c><00:02:01.439><c> commands,</c><00:02:01.920><c> create</c>
+
+00:02:02.230 --> 00:02:02.240 align:start position:0%
+can edit files, run commands, create
+ 
+
+00:02:02.240 --> 00:02:04.550 align:start position:0%
+can edit files, run commands, create
+commits,<00:02:02.880><c> open</c><00:02:03.200><c> pull</c><00:02:03.520><c> requests,</c><00:02:04.159><c> even</c><00:02:04.399><c> use</c>
+
+00:02:04.550 --> 00:02:04.560 align:start position:0%
+commits, open pull requests, even use
+ 
+
+00:02:04.560 --> 00:02:06.870 align:start position:0%
+commits, open pull requests, even use
+MCP<00:02:05.119><c> tools</c><00:02:05.439><c> and</c><00:02:05.600><c> APIs.</c><00:02:06.240><c> This</c><00:02:06.399><c> is</c><00:02:06.479><c> not</c><00:02:06.640><c> some</c>
+
+00:02:06.870 --> 00:02:06.880 align:start position:0%
+MCP tools and APIs. This is not some
+ 
+
+00:02:06.880 --> 00:02:09.190 align:start position:0%
+MCP tools and APIs. This is not some
+watered<00:02:07.360><c> down</c><00:02:07.680><c> version.</c><00:02:08.399><c> This</c><00:02:08.640><c> is</c><00:02:08.720><c> the</c><00:02:08.959><c> full</c>
+
+00:02:09.190 --> 00:02:09.200 align:start position:0%
+watered down version. This is the full
+ 
+
+00:02:09.200 --> 00:02:10.949 align:start position:0%
+watered down version. This is the full
+thing<00:02:09.440><c> running</c><00:02:09.679><c> on</c><00:02:09.840><c> a</c><00:02:10.080><c> clock.</c><00:02:10.399><c> Hey,</c><00:02:10.640><c> if</c><00:02:10.800><c> we</c>
+
+00:02:10.949 --> 00:02:10.959 align:start position:0%
+thing running on a clock. Hey, if we
+ 
+
+00:02:10.959 --> 00:02:12.949 align:start position:0%
+thing running on a clock. Hey, if we
+haven't<00:02:11.120><c> met</c><00:02:11.360><c> already,</c><00:02:12.000><c> I'm</c><00:02:12.319><c> the</c><00:02:12.480><c> digital</c>
+
+00:02:12.949 --> 00:02:12.959 align:start position:0%
+haven't met already, I'm the digital
+ 
+
+00:02:12.959 --> 00:02:15.830 align:start position:0%
+haven't met already, I'm the digital
+avatar<00:02:13.440><c> of</c><00:02:13.680><c> Julian</c><00:02:14.160><c> Goldie,</c><00:02:14.800><c> CEO</c><00:02:15.200><c> of</c><00:02:15.360><c> Goldie</c>
+
+00:02:15.830 --> 00:02:15.840 align:start position:0%
+avatar of Julian Goldie, CEO of Goldie
+ 
+
+00:02:15.840 --> 00:02:17.990 align:start position:0%
+avatar of Julian Goldie, CEO of Goldie
+Agency.<00:02:16.640><c> Whilst</c><00:02:16.959><c> he's</c><00:02:17.200><c> helping</c><00:02:17.520><c> clients</c><00:02:17.840><c> get</c>
+
+00:02:17.990 --> 00:02:18.000 align:start position:0%
+Agency. Whilst he's helping clients get
+ 
+
+00:02:18.000 --> 00:02:19.830 align:start position:0%
+Agency. Whilst he's helping clients get
+more<00:02:18.160><c> leads</c><00:02:18.480><c> and</c><00:02:18.720><c> customers,</c><00:02:19.280><c> I'm</c><00:02:19.520><c> here</c><00:02:19.680><c> to</c>
+
+00:02:19.830 --> 00:02:19.840 align:start position:0%
+more leads and customers, I'm here to
+ 
+
+00:02:19.840 --> 00:02:21.910 align:start position:0%
+more leads and customers, I'm here to
+help<00:02:20.000><c> you</c><00:02:20.160><c> get</c><00:02:20.319><c> the</c><00:02:20.560><c> latest</c><00:02:20.879><c> AI</c><00:02:21.280><c> updates.</c>
+
+00:02:21.910 --> 00:02:21.920 align:start position:0%
+help you get the latest AI updates.
+ 
+
+00:02:21.920 --> 00:02:23.990 align:start position:0%
+help you get the latest AI updates.
+Julian<00:02:22.400><c> Goldie</c><00:02:22.879><c> reads</c><00:02:23.280><c> every</c><00:02:23.680><c> single</c>
+
+00:02:23.990 --> 00:02:24.000 align:start position:0%
+Julian Goldie reads every single
+ 
+
+00:02:24.000 --> 00:02:25.589 align:start position:0%
+Julian Goldie reads every single
+comment.<00:02:24.560><c> So,</c><00:02:24.800><c> make</c><00:02:24.879><c> sure</c><00:02:24.959><c> you</c><00:02:25.200><c> drop</c><00:02:25.360><c> one</c>
+
+00:02:25.589 --> 00:02:25.599 align:start position:0%
+comment. So, make sure you drop one
+ 
+
+00:02:25.599 --> 00:02:26.790 align:start position:0%
+comment. So, make sure you drop one
+below.<00:02:26.000><c> All</c><00:02:26.000><c> right,</c><00:02:26.239><c> let</c><00:02:26.400><c> me</c><00:02:26.480><c> walk</c><00:02:26.640><c> you</c>
+
+00:02:26.790 --> 00:02:26.800 align:start position:0%
+below. All right, let me walk you
+ 
+
+00:02:26.800 --> 00:02:28.229 align:start position:0%
+below. All right, let me walk you
+through<00:02:26.959><c> theululing</c><00:02:27.599><c> options</c><00:02:28.000><c> because</c>
+
+00:02:28.229 --> 00:02:28.239 align:start position:0%
+through theululing options because
+ 
+
+00:02:28.239 --> 00:02:29.830 align:start position:0%
+through theululing options because
+they're<00:02:28.480><c> really</c><00:02:28.800><c> flexible.</c><00:02:29.440><c> You've</c><00:02:29.680><c> got</c>
+
+00:02:29.830 --> 00:02:29.840 align:start position:0%
+they're really flexible. You've got
+ 
+
+00:02:29.840 --> 00:02:31.830 align:start position:0%
+they're really flexible. You've got
+manual,<00:02:30.480><c> which</c><00:02:30.800><c> means</c><00:02:31.040><c> it</c><00:02:31.280><c> only</c><00:02:31.440><c> runs</c><00:02:31.680><c> when</c>
+
+00:02:31.830 --> 00:02:31.840 align:start position:0%
+manual, which means it only runs when
+ 
+
+00:02:31.840 --> 00:02:33.990 align:start position:0%
+manual, which means it only runs when
+you<00:02:32.000><c> click</c><00:02:32.239><c> it.</c><00:02:32.640><c> Hourly,</c><00:02:33.200><c> which</c><00:02:33.519><c> runs</c><00:02:33.760><c> every</c>
+
+00:02:33.990 --> 00:02:34.000 align:start position:0%
+you click it. Hourly, which runs every
+ 
+
+00:02:34.000 --> 00:02:36.070 align:start position:0%
+you click it. Hourly, which runs every
+hour.<00:02:34.480><c> Daily,</c><00:02:34.879><c> which</c><00:02:35.120><c> runs</c><00:02:35.280><c> at</c><00:02:35.519><c> a</c><00:02:35.680><c> specific</c>
+
+00:02:36.070 --> 00:02:36.080 align:start position:0%
+hour. Daily, which runs at a specific
+ 
+
+00:02:36.080 --> 00:02:38.309 align:start position:0%
+hour. Daily, which runs at a specific
+time,<00:02:36.480><c> weekdays,</c><00:02:36.959><c> which</c><00:02:37.280><c> runs</c><00:02:37.840><c> Monday</c>
+
+00:02:38.309 --> 00:02:38.319 align:start position:0%
+time, weekdays, which runs Monday
+ 
+
+00:02:38.319 --> 00:02:40.869 align:start position:0%
+time, weekdays, which runs Monday
+through<00:02:38.640><c> Friday.</c><00:02:39.280><c> And</c><00:02:39.519><c> weekly,</c><00:02:40.239><c> which</c><00:02:40.560><c> runs</c>
+
+00:02:40.869 --> 00:02:40.879 align:start position:0%
+through Friday. And weekly, which runs
+ 
+
+00:02:40.879 --> 00:02:42.790 align:start position:0%
+through Friday. And weekly, which runs
+on<00:02:41.120><c> a</c><00:02:41.360><c> specific</c><00:02:41.760><c> day</c><00:02:42.000><c> and</c><00:02:42.160><c> time.</c><00:02:42.480><c> So,</c><00:02:42.560><c> if</c><00:02:42.720><c> you</c>
+
+00:02:42.790 --> 00:02:42.800 align:start position:0%
+on a specific day and time. So, if you
+ 
+
+00:02:42.800 --> 00:02:44.390 align:start position:0%
+on a specific day and time. So, if you
+want<00:02:42.959><c> Claude</c><00:02:43.360><c> to</c><00:02:43.519><c> check</c><00:02:43.680><c> your</c><00:02:43.840><c> dependencies</c>
+
+00:02:44.390 --> 00:02:44.400 align:start position:0%
+want Claude to check your dependencies
+ 
+
+00:02:44.400 --> 00:02:46.390 align:start position:0%
+want Claude to check your dependencies
+every<00:02:44.640><c> Monday</c><00:02:44.959><c> morning,</c><00:02:45.519><c> done.</c><00:02:46.080><c> If</c><00:02:46.239><c> you</c><00:02:46.319><c> want</c>
+
+00:02:46.390 --> 00:02:46.400 align:start position:0%
+every Monday morning, done. If you want
+ 
+
+00:02:46.400 --> 00:02:48.229 align:start position:0%
+every Monday morning, done. If you want
+it<00:02:46.560><c> to</c><00:02:46.720><c> run</c><00:02:46.879><c> tests</c><00:02:47.200><c> at</c><00:02:47.360><c> midnight</c><00:02:47.760><c> every</c><00:02:48.000><c> night,</c>
+
+00:02:48.229 --> 00:02:48.239 align:start position:0%
+it to run tests at midnight every night,
+ 
+
+00:02:48.239 --> 00:02:49.990 align:start position:0%
+it to run tests at midnight every night,
+done.<00:02:48.480><c> If</c><00:02:48.560><c> you</c><00:02:48.640><c> want</c><00:02:48.720><c> a</c><00:02:48.959><c> morning</c><00:02:49.200><c> briefing</c><00:02:49.760><c> at</c>
+
+00:02:49.990 --> 00:02:50.000 align:start position:0%
+done. If you want a morning briefing at
+ 
+
+00:02:50.000 --> 00:02:52.070 align:start position:0%
+done. If you want a morning briefing at
+8:00<00:02:50.319><c> a.m.</c><00:02:50.560><c> on</c><00:02:50.720><c> weekdays,</c><00:02:51.200><c> done.</c><00:02:51.760><c> You</c><00:02:51.920><c> just</c>
+
+00:02:52.070 --> 00:02:52.080 align:start position:0%
+8:00 a.m. on weekdays, done. You just
+ 
+
+00:02:52.080 --> 00:02:53.910 align:start position:0%
+8:00 a.m. on weekdays, done. You just
+tell<00:02:52.239><c> it</c><00:02:52.400><c> what</c><00:02:52.560><c> to</c><00:02:52.640><c> do</c><00:02:52.720><c> and</c><00:02:52.959><c> when.</c><00:02:53.440><c> Now,</c><00:02:53.680><c> let</c><00:02:53.840><c> me</c>
+
+00:02:53.910 --> 00:02:53.920 align:start position:0%
+tell it what to do and when. Now, let me
+ 
+
+00:02:53.920 --> 00:02:55.509 align:start position:0%
+tell it what to do and when. Now, let me
+give<00:02:54.000><c> you</c><00:02:54.160><c> the</c><00:02:54.319><c> use</c><00:02:54.560><c> cases</c><00:02:54.959><c> because</c><00:02:55.200><c> this</c><00:02:55.440><c> is</c>
+
+00:02:55.509 --> 00:02:55.519 align:start position:0%
+give you the use cases because this is
+ 
+
+00:02:55.519 --> 00:02:57.270 align:start position:0%
+give you the use cases because this is
+where<00:02:55.760><c> it</c><00:02:55.920><c> gets</c><00:02:56.080><c> insane.</c><00:02:56.640><c> Number</c><00:02:56.879><c> one,</c>
+
+00:02:57.270 --> 00:02:57.280 align:start position:0%
+where it gets insane. Number one,
+ 
+
+00:02:57.280 --> 00:02:59.670 align:start position:0%
+where it gets insane. Number one,
+automated<00:02:57.760><c> bug</c><00:02:58.080><c> fixing.</c><00:02:58.720><c> You</c><00:02:58.879><c> set</c><00:02:59.120><c> Claude</c><00:02:59.519><c> to</c>
+
+00:02:59.670 --> 00:02:59.680 align:start position:0%
+automated bug fixing. You set Claude to
+ 
+
+00:02:59.680 --> 00:03:02.550 align:start position:0%
+automated bug fixing. You set Claude to
+scan<00:02:59.920><c> your</c><00:03:00.160><c> error</c><00:03:00.400><c> logs</c><00:03:01.040><c> every</c><00:03:01.440><c> 4</c><00:03:01.760><c> hours.</c><00:03:02.319><c> If</c>
+
+00:03:02.550 --> 00:03:02.560 align:start position:0%
+scan your error logs every 4 hours. If
+ 
+
+00:03:02.560 --> 00:03:05.190 align:start position:0%
+scan your error logs every 4 hours. If
+it<00:03:02.800><c> finds</c><00:03:03.440><c> recurring</c><00:03:04.159><c> errors,</c><00:03:04.720><c> it</c><00:03:04.959><c> figures</c>
+
+00:03:05.190 --> 00:03:05.200 align:start position:0%
+it finds recurring errors, it figures
+ 
+
+00:03:05.200 --> 00:03:07.030 align:start position:0%
+it finds recurring errors, it figures
+out<00:03:05.360><c> what's</c><00:03:05.680><c> wrong.</c><00:03:06.159><c> Then,</c><00:03:06.400><c> it</c><00:03:06.560><c> creates</c><00:03:06.800><c> a</c>
+
+00:03:07.030 --> 00:03:07.040 align:start position:0%
+out what's wrong. Then, it creates a
+ 
+
+00:03:07.040 --> 00:03:09.990 align:start position:0%
+out what's wrong. Then, it creates a
+branch,<00:03:07.680><c> writes</c><00:03:08.000><c> the</c><00:03:08.239><c> fix,</c><00:03:08.800><c> and</c><00:03:09.040><c> opens</c><00:03:09.440><c> a</c><00:03:09.680><c> pull</c>
+
+00:03:09.990 --> 00:03:10.000 align:start position:0%
+branch, writes the fix, and opens a pull
+ 
+
+00:03:10.000 --> 00:03:12.790 align:start position:0%
+branch, writes the fix, and opens a pull
+request<00:03:10.959><c> or</c><00:03:11.120><c> while</c><00:03:11.360><c> you're</c><00:03:11.599><c> eating</c><00:03:11.920><c> lunch</c><00:03:12.400><c> or</c>
+
+00:03:12.790 --> 00:03:12.800 align:start position:0%
+request or while you're eating lunch or
+ 
+
+00:03:12.800 --> 00:03:14.710 align:start position:0%
+request or while you're eating lunch or
+sleeping<00:03:13.360><c> or</c><00:03:13.680><c> doing</c><00:03:14.000><c> literally</c><00:03:14.400><c> anything</c>
+
+00:03:14.710 --> 00:03:14.720 align:start position:0%
+sleeping or doing literally anything
+ 
+
+00:03:14.720 --> 00:03:17.030 align:start position:0%
+sleeping or doing literally anything
+else.<00:03:15.040><c> Number</c><00:03:15.360><c> two,</c><00:03:15.760><c> automated</c><00:03:16.319><c> PR</c><00:03:16.640><c> review.</c>
+
+00:03:17.030 --> 00:03:17.040 align:start position:0%
+else. Number two, automated PR review.
+ 
+
+00:03:17.040 --> 00:03:19.030 align:start position:0%
+else. Number two, automated PR review.
+Every<00:03:17.280><c> morning,</c><00:03:17.760><c> Claude</c><00:03:18.159><c> reviews</c><00:03:18.640><c> all</c><00:03:18.800><c> the</c>
+
+00:03:19.030 --> 00:03:19.040 align:start position:0%
+Every morning, Claude reviews all the
+ 
+
+00:03:19.040 --> 00:03:21.509 align:start position:0%
+Every morning, Claude reviews all the
+new<00:03:19.200><c> pull</c><00:03:19.519><c> requests</c><00:03:20.080><c> in</c><00:03:20.400><c> your</c><00:03:20.640><c> repo.</c><00:03:21.120><c> It</c><00:03:21.280><c> reads</c>
+
+00:03:21.509 --> 00:03:21.519 align:start position:0%
+new pull requests in your repo. It reads
+ 
+
+00:03:21.519 --> 00:03:23.589 align:start position:0%
+new pull requests in your repo. It reads
+the<00:03:21.760><c> code,</c><00:03:22.159><c> spots</c><00:03:22.640><c> problems,</c><00:03:23.280><c> leaves</c>
+
+00:03:23.589 --> 00:03:23.599 align:start position:0%
+the code, spots problems, leaves
+ 
+
+00:03:23.599 --> 00:03:25.509 align:start position:0%
+the code, spots problems, leaves
+comments.<00:03:24.319><c> Before</c><00:03:24.560><c> your</c><00:03:24.720><c> team</c><00:03:24.959><c> even</c><00:03:25.200><c> opens</c>
+
+00:03:25.509 --> 00:03:25.519 align:start position:0%
+comments. Before your team even opens
+ 
+
+00:03:25.519 --> 00:03:27.350 align:start position:0%
+comments. Before your team even opens
+their<00:03:25.760><c> laptops,</c><00:03:26.319><c> Claude</c><00:03:26.640><c> has</c><00:03:26.879><c> already</c><00:03:27.200><c> done</c>
+
+00:03:27.350 --> 00:03:27.360 align:start position:0%
+their laptops, Claude has already done
+ 
+
+00:03:27.360 --> 00:03:30.070 align:start position:0%
+their laptops, Claude has already done
+the<00:03:27.680><c> first</c><00:03:28.000><c> pass.</c><00:03:28.720><c> Number</c><00:03:28.959><c> three,</c><00:03:29.440><c> dependency</c>
+
+00:03:30.070 --> 00:03:30.080 align:start position:0%
+the first pass. Number three, dependency
+ 
+
+00:03:30.080 --> 00:03:32.149 align:start position:0%
+the first pass. Number three, dependency
+updates.<00:03:30.720><c> Once</c><00:03:30.959><c> a</c><00:03:31.040><c> week,</c><00:03:31.280><c> Claude</c><00:03:31.599><c> checks</c><00:03:31.920><c> your</c>
+
+00:03:32.149 --> 00:03:32.159 align:start position:0%
+updates. Once a week, Claude checks your
+ 
+
+00:03:32.159 --> 00:03:34.229 align:start position:0%
+updates. Once a week, Claude checks your
+packages,<00:03:32.879><c> finds</c><00:03:33.200><c> anything</c><00:03:33.519><c> outdated,</c>
+
+00:03:34.229 --> 00:03:34.239 align:start position:0%
+packages, finds anything outdated,
+ 
+
+00:03:34.239 --> 00:03:36.070 align:start position:0%
+packages, finds anything outdated,
+updates<00:03:34.720><c> them,</c><00:03:35.040><c> and</c><00:03:35.280><c> creates</c><00:03:35.599><c> a</c><00:03:35.760><c> pull</c>
+
+00:03:36.070 --> 00:03:36.080 align:start position:0%
+updates them, and creates a pull
+ 
+
+00:03:36.080 --> 00:03:38.229 align:start position:0%
+updates them, and creates a pull
+request.<00:03:36.720><c> No</c><00:03:36.959><c> more</c><00:03:37.120><c> forgetting</c><00:03:37.519><c> to</c><00:03:37.760><c> update</c>
+
+00:03:38.229 --> 00:03:38.239 align:start position:0%
+request. No more forgetting to update
+ 
+
+00:03:38.239 --> 00:03:39.430 align:start position:0%
+request. No more forgetting to update
+stuff<00:03:38.400><c> for</c><00:03:38.640><c> six</c><00:03:38.879><c> months,</c><00:03:39.120><c> and</c><00:03:39.280><c> then</c>
+
+00:03:39.430 --> 00:03:39.440 align:start position:0%
+stuff for six months, and then
+ 
+
+00:03:39.440 --> 00:03:41.830 align:start position:0%
+stuff for six months, and then
+everything<00:03:39.760><c> breaks.</c><00:03:40.480><c> Number</c><00:03:40.720><c> four,</c><00:03:41.440><c> morning</c>
+
+00:03:41.830 --> 00:03:41.840 align:start position:0%
+everything breaks. Number four, morning
+ 
+
+00:03:41.840 --> 00:03:44.229 align:start position:0%
+everything breaks. Number four, morning
+developer<00:03:42.400><c> briefings.</c><00:03:43.280><c> Every</c><00:03:43.519><c> weekday</c><00:03:43.920><c> at</c><00:03:44.080><c> 8</c>
+
+00:03:44.229 --> 00:03:44.239 align:start position:0%
+developer briefings. Every weekday at 8
+ 
+
+00:03:44.239 --> 00:03:46.470 align:start position:0%
+developer briefings. Every weekday at 8
+am,<00:03:44.879><c> Claude</c><00:03:45.200><c> pulls</c><00:03:45.599><c> together</c><00:03:45.920><c> all</c><00:03:46.159><c> the</c><00:03:46.319><c> new</c>
+
+00:03:46.470 --> 00:03:46.480 align:start position:0%
+am, Claude pulls together all the new
+ 
+
+00:03:46.480 --> 00:03:48.710 align:start position:0%
+am, Claude pulls together all the new
+GitHub<00:03:46.959><c> issues,</c><00:03:47.760><c> all</c><00:03:47.920><c> the</c><00:03:48.080><c> open</c><00:03:48.400><c> pull</c>
+
+00:03:48.710 --> 00:03:48.720 align:start position:0%
+GitHub issues, all the open pull
+ 
+
+00:03:48.720 --> 00:03:51.110 align:start position:0%
+GitHub issues, all the open pull
+requests,<00:03:49.519><c> all</c><00:03:49.680><c> the</c><00:03:49.840><c> failing</c><00:03:50.319><c> tests,</c><00:03:50.720><c> and</c><00:03:50.879><c> it</c>
+
+00:03:51.110 --> 00:03:51.120 align:start position:0%
+requests, all the failing tests, and it
+ 
+
+00:03:51.120 --> 00:03:52.949 align:start position:0%
+requests, all the failing tests, and it
+creates<00:03:51.360><c> a</c><00:03:51.519><c> nice</c><00:03:51.760><c> clean</c><00:03:52.080><c> report</c><00:03:52.400><c> so</c><00:03:52.560><c> you</c><00:03:52.799><c> know</c>
+
+00:03:52.949 --> 00:03:52.959 align:start position:0%
+creates a nice clean report so you know
+ 
+
+00:03:52.959 --> 00:03:54.789 align:start position:0%
+creates a nice clean report so you know
+exactly<00:03:53.360><c> what's</c><00:03:53.680><c> going</c><00:03:53.840><c> on</c><00:03:54.159><c> before</c><00:03:54.480><c> your</c>
+
+00:03:54.789 --> 00:03:54.799 align:start position:0%
+exactly what's going on before your
+ 
+
+00:03:54.799 --> 00:03:57.830 align:start position:0%
+exactly what's going on before your
+first<00:03:55.519><c> sip</c><00:03:55.840><c> of</c><00:03:56.080><c> coffee.</c><00:03:56.560><c> Number</c><00:03:56.799><c> five,</c><00:03:57.360><c> AI</c>
+
+00:03:57.830 --> 00:03:57.840 align:start position:0%
+first sip of coffee. Number five, AI
+ 
+
+00:03:57.840 --> 00:03:59.830 align:start position:0%
+first sip of coffee. Number five, AI
+DevOps<00:03:58.319><c> agent.</c><00:03:58.879><c> Claude</c><00:03:59.280><c> monitors</c><00:03:59.680><c> your</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+DevOps agent. Claude monitors your
+ 
+
+00:03:59.840 --> 00:04:01.910 align:start position:0%
+DevOps agent. Claude monitors your
+server<00:04:00.159><c> logs,</c><00:04:00.799><c> test</c><00:04:01.120><c> results,</c><00:04:01.599><c> and</c>
+
+00:04:01.910 --> 00:04:01.920 align:start position:0%
+server logs, test results, and
+ 
+
+00:04:01.920 --> 00:04:03.750 align:start position:0%
+server logs, test results, and
+deployments,<00:04:02.799><c> and</c><00:04:03.040><c> it</c><00:04:03.200><c> responds</c>
+
+00:04:03.750 --> 00:04:03.760 align:start position:0%
+deployments, and it responds
+ 
+
+00:04:03.760 --> 00:04:05.350 align:start position:0%
+deployments, and it responds
+automatically.<00:04:04.640><c> That's</c><00:04:04.879><c> not</c><00:04:04.959><c> a</c><00:04:05.120><c> tool</c>
+
+00:04:05.350 --> 00:04:05.360 align:start position:0%
+automatically. That's not a tool
+ 
+
+00:04:05.360 --> 00:04:07.429 align:start position:0%
+automatically. That's not a tool
+anymore.<00:04:05.840><c> That's</c><00:04:06.000><c> a</c><00:04:06.159><c> team</c><00:04:06.400><c> member.</c><00:04:06.959><c> Now,</c><00:04:07.200><c> if</c>
+
+00:04:07.429 --> 00:04:07.439 align:start position:0%
+anymore. That's a team member. Now, if
+ 
+
+00:04:07.439 --> 00:04:09.110 align:start position:0%
+anymore. That's a team member. Now, if
+you<00:04:07.519><c> want</c><00:04:07.599><c> to</c><00:04:07.680><c> go</c><00:04:07.840><c> even</c><00:04:08.080><c> deeper</c><00:04:08.400><c> on</c><00:04:08.640><c> stuff</c><00:04:08.879><c> like</c>
+
+00:04:09.110 --> 00:04:09.120 align:start position:0%
+you want to go even deeper on stuff like
+ 
+
+00:04:09.120 --> 00:04:11.830 align:start position:0%
+you want to go even deeper on stuff like
+this<00:04:09.680><c> and</c><00:04:10.000><c> learn</c><00:04:10.239><c> how</c><00:04:10.400><c> to</c><00:04:10.640><c> actually</c><00:04:10.959><c> use</c><00:04:11.200><c> AI</c><00:04:11.599><c> to</c>
+
+00:04:11.830 --> 00:04:11.840 align:start position:0%
+this and learn how to actually use AI to
+ 
+
+00:04:11.840 --> 00:04:13.270 align:start position:0%
+this and learn how to actually use AI to
+scale<00:04:12.159><c> your</c><00:04:12.319><c> business</c><00:04:12.560><c> and</c><00:04:12.799><c> automate</c><00:04:13.120><c> your</c>
+
+00:04:13.270 --> 00:04:13.280 align:start position:0%
+scale your business and automate your
+ 
+
+00:04:13.280 --> 00:04:15.350 align:start position:0%
+scale your business and automate your
+workflows,<00:04:14.080><c> check</c><00:04:14.239><c> out</c><00:04:14.400><c> the</c><00:04:14.640><c> AI</c><00:04:15.040><c> Profit</c>
+
+00:04:15.350 --> 00:04:15.360 align:start position:0%
+workflows, check out the AI Profit
+ 
+
+00:04:15.360 --> 00:04:17.270 align:start position:0%
+workflows, check out the AI Profit
+Boardroom.<00:04:16.079><c> It's</c><00:04:16.239><c> the</c><00:04:16.479><c> best</c><00:04:16.639><c> place</c><00:04:16.799><c> to</c><00:04:17.040><c> learn</c>
+
+00:04:17.270 --> 00:04:17.280 align:start position:0%
+Boardroom. It's the best place to learn
+ 
+
+00:04:17.280 --> 00:04:19.349 align:start position:0%
+Boardroom. It's the best place to learn
+how<00:04:17.440><c> to</c><00:04:17.600><c> use</c><00:04:17.840><c> tools</c><00:04:18.160><c> like</c><00:04:18.400><c> Claude</c><00:04:18.799><c> Code</c><00:04:19.040><c> to</c><00:04:19.199><c> get</c>
+
+00:04:19.349 --> 00:04:19.359 align:start position:0%
+how to use tools like Claude Code to get
+ 
+
+00:04:19.359 --> 00:04:21.110 align:start position:0%
+how to use tools like Claude Code to get
+more<00:04:19.600><c> customers</c><00:04:20.079><c> and</c><00:04:20.400><c> save</c><00:04:20.639><c> hundreds</c><00:04:20.959><c> of</c>
+
+00:04:21.110 --> 00:04:21.120 align:start position:0%
+more customers and save hundreds of
+ 
+
+00:04:21.120 --> 00:04:23.189 align:start position:0%
+more customers and save hundreds of
+hours<00:04:21.280><c> with</c><00:04:21.440><c> AI</c><00:04:21.759><c> automation.</c><00:04:22.400><c> Link</c><00:04:22.639><c> is</c><00:04:22.800><c> in</c><00:04:22.960><c> the</c>
+
+00:04:23.189 --> 00:04:23.199 align:start position:0%
+hours with AI automation. Link is in the
+ 
+
+00:04:23.199 --> 00:04:25.110 align:start position:0%
+hours with AI automation. Link is in the
+description<00:04:23.759><c> and</c><00:04:24.000><c> comments.</c><00:04:24.639><c> All</c><00:04:24.639><c> right,</c><00:04:24.960><c> let</c>
+
+00:04:25.110 --> 00:04:25.120 align:start position:0%
+description and comments. All right, let
+ 
+
+00:04:25.120 --> 00:04:26.790 align:start position:0%
+description and comments. All right, let
+me<00:04:25.199><c> give</c><00:04:25.360><c> you</c><00:04:25.520><c> some</c><00:04:25.680><c> actual</c><00:04:26.080><c> prompts</c><00:04:26.479><c> you</c><00:04:26.639><c> can</c>
+
+00:04:26.790 --> 00:04:26.800 align:start position:0%
+me give you some actual prompts you can
+ 
+
+00:04:26.800 --> 00:04:29.350 align:start position:0%
+me give you some actual prompts you can
+copy<00:04:27.040><c> and</c><00:04:27.280><c> use</c><00:04:27.520><c> right</c><00:04:27.759><c> now.</c><00:04:28.560><c> Prompt</c><00:04:28.880><c> one,</c>
+
+00:04:29.350 --> 00:04:29.360 align:start position:0%
+copy and use right now. Prompt one,
+ 
+
+00:04:29.360 --> 00:04:31.749 align:start position:0%
+copy and use right now. Prompt one,
+daily<00:04:29.759><c> code</c><00:04:30.080><c> review.</c><00:04:30.479><c> You</c><00:04:30.639><c> type</c><00:04:30.880><c> this</c><00:04:31.520><c> every</c>
+
+00:04:31.749 --> 00:04:31.759 align:start position:0%
+daily code review. You type this every
+ 
+
+00:04:31.759 --> 00:04:33.990 align:start position:0%
+daily code review. You type this every
+weekday<00:04:32.160><c> at</c><00:04:32.400><c> 9:00</c><00:04:32.720><c> a.m.</c><00:04:33.120><c> Review</c><00:04:33.440><c> the</c><00:04:33.680><c> latest</c>
+
+00:04:33.990 --> 00:04:34.000 align:start position:0%
+weekday at 9:00 a.m. Review the latest
+ 
+
+00:04:34.000 --> 00:04:36.150 align:start position:0%
+weekday at 9:00 a.m. Review the latest
+commits<00:04:34.320><c> in</c><00:04:34.479><c> this</c><00:04:34.639><c> repository.</c><00:04:35.520><c> Identify</c>
+
+00:04:36.150 --> 00:04:36.160 align:start position:0%
+commits in this repository. Identify
+ 
+
+00:04:36.160 --> 00:04:38.230 align:start position:0%
+commits in this repository. Identify
+potential<00:04:36.560><c> bugs</c><00:04:36.880><c> or</c><00:04:37.040><c> performance</c><00:04:37.440><c> issues.</c>
+
+00:04:38.230 --> 00:04:38.240 align:start position:0%
+potential bugs or performance issues.
+ 
+
+00:04:38.240 --> 00:04:40.230 align:start position:0%
+potential bugs or performance issues.
+Write<00:04:38.479><c> a</c><00:04:38.639><c> summary</c><00:04:39.120><c> report</c><00:04:39.440><c> and</c><00:04:39.759><c> suggest</c>
+
+00:04:40.230 --> 00:04:40.240 align:start position:0%
+Write a summary report and suggest
+ 
+
+00:04:40.240 --> 00:04:43.110 align:start position:0%
+Write a summary report and suggest
+improvements.<00:04:41.360><c> That's</c><00:04:41.680><c> it.</c><00:04:42.320><c> Claude</c><00:04:42.800><c> handles</c>
+
+00:04:43.110 --> 00:04:43.120 align:start position:0%
+improvements. That's it. Claude handles
+ 
+
+00:04:43.120 --> 00:04:45.430 align:start position:0%
+improvements. That's it. Claude handles
+the<00:04:43.360><c> rest.</c><00:04:43.840><c> Prompt</c><00:04:44.240><c> to</c><00:04:44.560><c> automated</c><00:04:45.120><c> bug</c>
+
+00:04:45.430 --> 00:04:45.440 align:start position:0%
+the rest. Prompt to automated bug
+ 
+
+00:04:45.440 --> 00:04:47.990 align:start position:0%
+the rest. Prompt to automated bug
+fixing.<00:04:46.160><c> Every</c><00:04:46.479><c> 3</c><00:04:46.720><c> hours.</c><00:04:47.280><c> Scan</c><00:04:47.600><c> the</c><00:04:47.840><c> error</c>
+
+00:04:47.990 --> 00:04:48.000 align:start position:0%
+fixing. Every 3 hours. Scan the error
+ 
+
+00:04:48.000 --> 00:04:50.710 align:start position:0%
+fixing. Every 3 hours. Scan the error
+logs<00:04:48.320><c> in</c><00:04:48.560><c> /</c><00:04:48.960><c> logs.</c><00:04:49.520><c> If</c><00:04:49.759><c> any</c><00:04:49.919><c> recurring</c><00:04:50.479><c> errors</c>
+
+00:04:50.710 --> 00:04:50.720 align:start position:0%
+logs in / logs. If any recurring errors
+ 
+
+00:04:50.720 --> 00:04:53.189 align:start position:0%
+logs in / logs. If any recurring errors
+appear,<00:04:51.440><c> identify</c><00:04:51.840><c> the</c><00:04:52.000><c> root</c><00:04:52.320><c> cause</c><00:04:52.960><c> and</c>
+
+00:04:53.189 --> 00:04:53.199 align:start position:0%
+appear, identify the root cause and
+ 
+
+00:04:53.199 --> 00:04:54.950 align:start position:0%
+appear, identify the root cause and
+attempt<00:04:53.520><c> to</c><00:04:53.680><c> fix</c><00:04:53.919><c> them.</c><00:04:54.160><c> If</c><00:04:54.320><c> a</c><00:04:54.560><c> fix</c><00:04:54.720><c> is</c>
+
+00:04:54.950 --> 00:04:54.960 align:start position:0%
+attempt to fix them. If a fix is
+ 
+
+00:04:54.960 --> 00:04:57.189 align:start position:0%
+attempt to fix them. If a fix is
+possible,<00:04:55.680><c> create</c><00:04:55.919><c> a</c><00:04:56.160><c> branch</c><00:04:56.560><c> and</c><00:04:56.800><c> open</c><00:04:57.040><c> a</c>
+
+00:04:57.189 --> 00:04:57.199 align:start position:0%
+possible, create a branch and open a
+ 
+
+00:04:57.199 --> 00:04:59.749 align:start position:0%
+possible, create a branch and open a
+pull<00:04:57.520><c> request.</c><00:04:58.320><c> Imagine</c><00:04:58.720><c> waking</c><00:04:59.040><c> up</c><00:04:59.360><c> and</c><00:04:59.600><c> your</c>
+
+00:04:59.749 --> 00:04:59.759 align:start position:0%
+pull request. Imagine waking up and your
+ 
+
+00:04:59.759 --> 00:05:02.070 align:start position:0%
+pull request. Imagine waking up and your
+bugs<00:05:00.080><c> are</c><00:05:00.240><c> already</c><00:05:00.639><c> fixed.</c><00:05:01.360><c> That's</c><00:05:01.600><c> what</c><00:05:01.759><c> this</c>
+
+00:05:02.070 --> 00:05:02.080 align:start position:0%
+bugs are already fixed. That's what this
+ 
+
+00:05:02.080 --> 00:05:04.550 align:start position:0%
+bugs are already fixed. That's what this
+does.<00:05:02.560><c> Prompt</c><00:05:03.040><c> three,</c><00:05:03.680><c> morning</c><00:05:04.080><c> developer</c>
+
+00:05:04.550 --> 00:05:04.560 align:start position:0%
+does. Prompt three, morning developer
+ 
+
+00:05:04.560 --> 00:05:07.189 align:start position:0%
+does. Prompt three, morning developer
+briefing.<00:05:05.280><c> Every</c><00:05:05.600><c> weekday</c><00:05:06.000><c> at</c><00:05:06.240><c> 8:00</c><00:05:06.560><c> a.m.,</c>
+
+00:05:07.189 --> 00:05:07.199 align:start position:0%
+briefing. Every weekday at 8:00 a.m.,
+ 
+
+00:05:07.199 --> 00:05:09.670 align:start position:0%
+briefing. Every weekday at 8:00 a.m.,
+generate<00:05:07.600><c> a</c><00:05:07.759><c> summary</c><00:05:08.000><c> of</c><00:05:08.240><c> new</c><00:05:08.479><c> GitHub</c><00:05:08.880><c> issues.</c>
+
+00:05:09.670 --> 00:05:09.680 align:start position:0%
+generate a summary of new GitHub issues.
+ 
+
+00:05:09.680 --> 00:05:12.310 align:start position:0%
+generate a summary of new GitHub issues.
+Open<00:05:10.000><c> pull</c><00:05:10.320><c> requests</c><00:05:10.880><c> and</c><00:05:11.120><c> failing</c><00:05:11.520><c> tests.</c>
+
+00:05:12.310 --> 00:05:12.320 align:start position:0%
+Open pull requests and failing tests.
+ 
+
+00:05:12.320 --> 00:05:14.230 align:start position:0%
+Open pull requests and failing tests.
+Create<00:05:12.560><c> the</c><00:05:12.800><c> developer</c><00:05:13.199><c> briefing</c><00:05:13.680><c> report.</c>
+
+00:05:14.230 --> 00:05:14.240 align:start position:0%
+Create the developer briefing report.
+ 
+
+00:05:14.240 --> 00:05:16.230 align:start position:0%
+Create the developer briefing report.
+Your<00:05:14.560><c> entire</c><00:05:14.880><c> team</c><00:05:15.120><c> starts</c><00:05:15.440><c> the</c><00:05:15.680><c> day</c><00:05:15.919><c> knowing</c>
+
+00:05:16.230 --> 00:05:16.240 align:start position:0%
+Your entire team starts the day knowing
+ 
+
+00:05:16.240 --> 00:05:18.790 align:start position:0%
+Your entire team starts the day knowing
+exactly<00:05:16.639><c> what</c><00:05:16.880><c> matters.</c><00:05:17.440><c> Prompt</c><00:05:18.000><c> for</c><00:05:18.479><c> test</c>
+
+00:05:18.790 --> 00:05:18.800 align:start position:0%
+exactly what matters. Prompt for test
+ 
+
+00:05:18.800 --> 00:05:21.350 align:start position:0%
+exactly what matters. Prompt for test
+automation<00:05:19.600><c> every</c><00:05:20.000><c> 6</c><00:05:20.240><c> hours.</c><00:05:20.800><c> Run</c><00:05:21.039><c> the</c><00:05:21.199><c> test</c>
+
+00:05:21.350 --> 00:05:21.360 align:start position:0%
+automation every 6 hours. Run the test
+ 
+
+00:05:21.360 --> 00:05:23.590 align:start position:0%
+automation every 6 hours. Run the test
+suite<00:05:21.680><c> if</c><00:05:21.919><c> any</c><00:05:22.080><c> tests</c><00:05:22.320><c> fail.</c><00:05:22.880><c> Diagnose</c><00:05:23.440><c> the</c>
+
+00:05:23.590 --> 00:05:23.600 align:start position:0%
+suite if any tests fail. Diagnose the
+ 
+
+00:05:23.600 --> 00:05:26.390 align:start position:0%
+suite if any tests fail. Diagnose the
+issue<00:05:24.160><c> and</c><00:05:24.400><c> propose</c><00:05:24.800><c> a</c><00:05:25.039><c> fix.</c><00:05:25.600><c> Claude</c><00:05:26.080><c> becomes</c>
+
+00:05:26.390 --> 00:05:26.400 align:start position:0%
+issue and propose a fix. Claude becomes
+ 
+
+00:05:26.400 --> 00:05:29.189 align:start position:0%
+issue and propose a fix. Claude becomes
+your<00:05:26.639><c> QA</c><00:05:27.120><c> department</c><00:05:27.600><c> on</c><00:05:27.919><c> autopilot.</c><00:05:28.960><c> Now,</c>
+
+00:05:29.189 --> 00:05:29.199 align:start position:0%
+your QA department on autopilot. Now,
+ 
+
+00:05:29.199 --> 00:05:30.390 align:start position:0%
+your QA department on autopilot. Now,
+here's<00:05:29.360><c> a</c><00:05:29.520><c> few</c><00:05:29.680><c> things</c><00:05:29.840><c> you</c><00:05:30.080><c> need</c><00:05:30.160><c> to</c><00:05:30.240><c> know</c>
+
+00:05:30.390 --> 00:05:30.400 align:start position:0%
+here's a few things you need to know
+ 
+
+00:05:30.400 --> 00:05:32.469 align:start position:0%
+here's a few things you need to know
+before<00:05:30.639><c> you</c><00:05:30.800><c> go</c><00:05:31.039><c> set</c><00:05:31.199><c> this</c><00:05:31.440><c> up</c><00:05:31.840><c> because</c><00:05:32.240><c> there</c>
+
+00:05:32.469 --> 00:05:32.479 align:start position:0%
+before you go set this up because there
+ 
+
+00:05:32.479 --> 00:05:34.310 align:start position:0%
+before you go set this up because there
+are<00:05:32.639><c> some</c><00:05:32.800><c> limitations</c><00:05:33.600><c> and</c><00:05:33.759><c> I</c><00:05:33.919><c> want</c><00:05:34.080><c> to</c><00:05:34.160><c> be</c>
+
+00:05:34.310 --> 00:05:34.320 align:start position:0%
+are some limitations and I want to be
+ 
+
+00:05:34.320 --> 00:05:36.230 align:start position:0%
+are some limitations and I want to be
+straight<00:05:34.479><c> with</c><00:05:34.639><c> you</c><00:05:34.800><c> about</c><00:05:35.039><c> them.</c><00:05:35.680><c> First,</c>
+
+00:05:36.230 --> 00:05:36.240 align:start position:0%
+straight with you about them. First,
+ 
+
+00:05:36.240 --> 00:05:38.310 align:start position:0%
+straight with you about them. First,
+your<00:05:36.560><c> computer</c><00:05:36.960><c> has</c><00:05:37.199><c> to</c><00:05:37.280><c> be</c><00:05:37.440><c> awake.</c><00:05:37.919><c> If</c><00:05:38.160><c> your</c>
+
+00:05:38.310 --> 00:05:38.320 align:start position:0%
+your computer has to be awake. If your
+ 
+
+00:05:38.320 --> 00:05:39.990 align:start position:0%
+your computer has to be awake. If your
+machine<00:05:38.639><c> goes</c><00:05:38.800><c> to</c><00:05:38.960><c> sleep,</c><00:05:39.199><c> the</c><00:05:39.440><c> task</c><00:05:39.680><c> gets</c>
+
+00:05:39.990 --> 00:05:40.000 align:start position:0%
+machine goes to sleep, the task gets
+ 
+
+00:05:40.000 --> 00:05:41.830 align:start position:0%
+machine goes to sleep, the task gets
+skipped.<00:05:40.800><c> But</c><00:05:40.960><c> there's</c><00:05:41.199><c> a</c><00:05:41.440><c> nice</c><00:05:41.600><c> little</c>
+
+00:05:41.830 --> 00:05:41.840 align:start position:0%
+skipped. But there's a nice little
+ 
+
+00:05:41.840 --> 00:05:43.350 align:start position:0%
+skipped. But there's a nice little
+safety<00:05:42.160><c> net.</c><00:05:42.479><c> When</c><00:05:42.639><c> your</c><00:05:42.800><c> computer</c><00:05:43.039><c> wakes</c>
+
+00:05:43.350 --> 00:05:43.360 align:start position:0%
+safety net. When your computer wakes
+ 
+
+00:05:43.360 --> 00:05:45.590 align:start position:0%
+safety net. When your computer wakes
+back<00:05:43.520><c> up,</c><00:05:43.919><c> Claude</c><00:05:44.240><c> can</c><00:05:44.400><c> run</c><00:05:44.560><c> one</c><00:05:44.880><c> catchup</c><00:05:45.280><c> task</c>
+
+00:05:45.590 --> 00:05:45.600 align:start position:0%
+back up, Claude can run one catchup task
+ 
+
+00:05:45.600 --> 00:05:47.749 align:start position:0%
+back up, Claude can run one catchup task
+to<00:05:45.759><c> cover</c><00:05:46.000><c> what</c><00:05:46.160><c> it</c><00:05:46.320><c> missed.</c><00:05:46.960><c> And</c><00:05:47.120><c> Anthropic</c>
+
+00:05:47.749 --> 00:05:47.759 align:start position:0%
+to cover what it missed. And Anthropic
+ 
+
+00:05:47.759 --> 00:05:49.670 align:start position:0%
+to cover what it missed. And Anthropic
+also<00:05:48.000><c> added</c><00:05:48.240><c> an</c><00:05:48.479><c> option</c><00:05:48.880><c> where</c><00:05:49.120><c> Claude</c><00:05:49.520><c> can</c>
+
+00:05:49.670 --> 00:05:49.680 align:start position:0%
+also added an option where Claude can
+ 
+
+00:05:49.680 --> 00:05:51.029 align:start position:0%
+also added an option where Claude can
+keep<00:05:49.840><c> your</c><00:05:50.000><c> computer</c><00:05:50.240><c> awake</c><00:05:50.560><c> to</c><00:05:50.800><c> finish</c>
+
+00:05:51.029 --> 00:05:51.039 align:start position:0%
+keep your computer awake to finish
+ 
+
+00:05:51.039 --> 00:05:53.830 align:start position:0%
+keep your computer awake to finish
+scheduled<00:05:51.440><c> runs.</c><00:05:52.080><c> So,</c><00:05:52.240><c> that's</c><00:05:52.479><c> cool.</c><00:05:53.199><c> Second,</c>
+
+00:05:53.830 --> 00:05:53.840 align:start position:0%
+scheduled runs. So, that's cool. Second,
+ 
+
+00:05:53.840 --> 00:05:55.909 align:start position:0%
+scheduled runs. So, that's cool. Second,
+the<00:05:54.080><c> desktop</c><00:05:54.400><c> app</c><00:05:54.639><c> has</c><00:05:54.880><c> to</c><00:05:54.960><c> be</c><00:05:55.120><c> open.</c><00:05:55.600><c> This</c><00:05:55.759><c> is</c>
+
+00:05:55.909 --> 00:05:55.919 align:start position:0%
+the desktop app has to be open. This is
+ 
+
+00:05:55.919 --> 00:05:57.909 align:start position:0%
+the desktop app has to be open. This is
+not<00:05:56.080><c> cloud</c><00:05:56.479><c> automation.</c><00:05:57.280><c> Everything</c><00:05:57.600><c> runs</c>
+
+00:05:57.909 --> 00:05:57.919 align:start position:0%
+not cloud automation. Everything runs
+ 
+
+00:05:57.919 --> 00:05:59.590 align:start position:0%
+not cloud automation. Everything runs
+locally<00:05:58.320><c> on</c><00:05:58.479><c> your</c><00:05:58.639><c> machine.</c><00:05:59.039><c> So</c><00:05:59.120><c> if</c><00:05:59.280><c> you</c><00:05:59.440><c> close</c>
+
+00:05:59.590 --> 00:05:59.600 align:start position:0%
+locally on your machine. So if you close
+ 
+
+00:05:59.600 --> 00:06:02.230 align:start position:0%
+locally on your machine. So if you close
+the<00:05:59.840><c> app,</c><00:06:00.240><c> nothing</c><00:06:00.639><c> happens.</c><00:06:01.360><c> Third,</c><00:06:02.000><c> each</c>
+
+00:06:02.230 --> 00:06:02.240 align:start position:0%
+the app, nothing happens. Third, each
+ 
+
+00:06:02.240 --> 00:06:04.469 align:start position:0%
+the app, nothing happens. Third, each
+run<00:06:02.560><c> counts</c><00:06:02.880><c> against</c><00:06:03.280><c> your</c><00:06:03.440><c> usage.</c><00:06:04.080><c> Every</c>
+
+00:06:04.469 --> 00:06:04.479 align:start position:0%
+run counts against your usage. Every
+ 
+
+00:06:04.479 --> 00:06:06.790 align:start position:0%
+run counts against your usage. Every
+scheduled<00:06:04.960><c> run</c><00:06:05.360><c> is</c><00:06:05.680><c> treated</c><00:06:06.080><c> like</c><00:06:06.319><c> a</c><00:06:06.479><c> full</c>
+
+00:06:06.790 --> 00:06:06.800 align:start position:0%
+scheduled run is treated like a full
+ 
+
+00:06:06.800 --> 00:06:08.950 align:start position:0%
+scheduled run is treated like a full
+clawed<00:06:07.280><c> code</c><00:06:07.600><c> session.</c><00:06:08.240><c> So</c><00:06:08.479><c> keep</c><00:06:08.639><c> that</c><00:06:08.800><c> in</c>
+
+00:06:08.950 --> 00:06:08.960 align:start position:0%
+clawed code session. So keep that in
+ 
+
+00:06:08.960 --> 00:06:10.309 align:start position:0%
+clawed code session. So keep that in
+mind<00:06:09.039><c> when</c><00:06:09.280><c> you're</c><00:06:09.440><c> setting</c><00:06:09.759><c> stuff</c><00:06:09.919><c> to</c><00:06:10.160><c> run</c>
+
+00:06:10.309 --> 00:06:10.319 align:start position:0%
+mind when you're setting stuff to run
+ 
+
+00:06:10.319 --> 00:06:13.189 align:start position:0%
+mind when you're setting stuff to run
+every<00:06:10.639><c> hour.</c><00:06:11.280><c> Fourth,</c><00:06:12.080><c> this</c><00:06:12.240><c> works</c><00:06:12.479><c> on</c><00:06:12.639><c> Mac</c><00:06:12.880><c> OS</c>
+
+00:06:13.189 --> 00:06:13.199 align:start position:0%
+every hour. Fourth, this works on Mac OS
+ 
+
+00:06:13.199 --> 00:06:14.950 align:start position:0%
+every hour. Fourth, this works on Mac OS
+and<00:06:13.360><c> Windows</c><00:06:13.759><c> right</c><00:06:13.919><c> now.</c><00:06:14.160><c> Linux</c><00:06:14.560><c> support</c><00:06:14.800><c> for</c>
+
+00:06:14.950 --> 00:06:14.960 align:start position:0%
+and Windows right now. Linux support for
+ 
+
+00:06:14.960 --> 00:06:17.029 align:start position:0%
+and Windows right now. Linux support for
+the<00:06:15.120><c> desktop</c><00:06:15.600><c> scheduled</c><00:06:16.080><c> tasks</c><00:06:16.560><c> is</c><00:06:16.800><c> not</c>
+
+00:06:17.029 --> 00:06:17.039 align:start position:0%
+the desktop scheduled tasks is not
+ 
+
+00:06:17.039 --> 00:06:18.629 align:start position:0%
+the desktop scheduled tasks is not
+available<00:06:17.360><c> yet.</c><00:06:17.680><c> Now,</c><00:06:17.919><c> where</c><00:06:18.160><c> does</c><00:06:18.240><c> Claude</c>
+
+00:06:18.629 --> 00:06:18.639 align:start position:0%
+available yet. Now, where does Claude
+ 
+
+00:06:18.639 --> 00:06:20.550 align:start position:0%
+available yet. Now, where does Claude
+actually<00:06:18.880><c> store</c><00:06:19.120><c> these</c><00:06:19.360><c> tasks?</c><00:06:20.160><c> Every</c>
+
+00:06:20.550 --> 00:06:20.560 align:start position:0%
+actually store these tasks? Every
+ 
+
+00:06:20.560 --> 00:06:22.629 align:start position:0%
+actually store these tasks? Every
+scheduled<00:06:21.039><c> task</c><00:06:21.520><c> creates</c><00:06:21.840><c> a</c><00:06:22.000><c> folder</c><00:06:22.319><c> on</c><00:06:22.479><c> your</c>
+
+00:06:22.629 --> 00:06:22.639 align:start position:0%
+scheduled task creates a folder on your
+ 
+
+00:06:22.639 --> 00:06:24.309 align:start position:0%
+scheduled task creates a folder on your
+machine.<00:06:23.039><c> It</c><00:06:23.199><c> goes</c><00:06:23.360><c> in</c><00:06:23.520><c> a</c><00:06:23.600><c> hidden</c><00:06:23.919><c> claw</c>
+
+00:06:24.309 --> 00:06:24.319 align:start position:0%
+machine. It goes in a hidden claw
+ 
+
+00:06:24.319 --> 00:06:26.870 align:start position:0%
+machine. It goes in a hidden claw
+directory<00:06:25.039><c> under</c><00:06:25.440><c> scheduled</c><00:06:25.919><c> tasks</c><00:06:26.479><c> with</c><00:06:26.639><c> the</c>
+
+00:06:26.870 --> 00:06:26.880 align:start position:0%
+directory under scheduled tasks with the
+ 
+
+00:06:26.880 --> 00:06:29.189 align:start position:0%
+directory under scheduled tasks with the
+task<00:06:27.120><c> name.</c><00:06:27.680><c> Inside</c><00:06:28.000><c> that</c><00:06:28.240><c> folder,</c><00:06:28.800><c> there's</c><00:06:29.039><c> a</c>
+
+00:06:29.189 --> 00:06:29.199 align:start position:0%
+task name. Inside that folder, there's a
+ 
+
+00:06:29.199 --> 00:06:31.350 align:start position:0%
+task name. Inside that folder, there's a
+file<00:06:29.440><c> called</c><00:06:29.680><c> skill.mmd.</c><00:06:30.720><c> That</c><00:06:30.960><c> file</c><00:06:31.199><c> has</c>
+
+00:06:31.350 --> 00:06:31.360 align:start position:0%
+file called skill.mmd. That file has
+ 
+
+00:06:31.360 --> 00:06:33.189 align:start position:0%
+file called skill.mmd. That file has
+your<00:06:31.520><c> task</c><00:06:31.840><c> name,</c><00:06:32.080><c> description,</c><00:06:32.479><c> and</c><00:06:32.720><c> prompt.</c>
+
+00:06:33.189 --> 00:06:33.199 align:start position:0%
+your task name, description, and prompt.
+ 
+
+00:06:33.199 --> 00:06:35.029 align:start position:0%
+your task name, description, and prompt.
+If<00:06:33.440><c> you</c><00:06:33.520><c> want</c><00:06:33.600><c> to</c><00:06:33.759><c> tweak</c><00:06:34.000><c> what</c><00:06:34.240><c> Claude</c><00:06:34.639><c> does</c><00:06:34.880><c> on</c>
+
+00:06:35.029 --> 00:06:35.039 align:start position:0%
+If you want to tweak what Claude does on
+ 
+
+00:06:35.039 --> 00:06:37.909 align:start position:0%
+If you want to tweak what Claude does on
+the<00:06:35.280><c> next</c><00:06:35.600><c> run,</c><00:06:36.240><c> you</c><00:06:36.479><c> just</c><00:06:36.720><c> edit</c><00:06:37.039><c> that</c><00:06:37.280><c> file.</c>
+
+00:06:37.909 --> 00:06:37.919 align:start position:0%
+the next run, you just edit that file.
+ 
+
+00:06:37.919 --> 00:06:40.629 align:start position:0%
+the next run, you just edit that file.
+Super<00:06:38.319><c> clean,</c><00:06:38.880><c> super</c><00:06:39.280><c> simple.</c><00:06:39.840><c> Here's</c><00:06:40.160><c> why</c><00:06:40.400><c> I</c>
+
+00:06:40.629 --> 00:06:40.639 align:start position:0%
+Super clean, super simple. Here's why I
+ 
+
+00:06:40.639 --> 00:06:42.230 align:start position:0%
+Super clean, super simple. Here's why I
+think<00:06:40.800><c> this</c><00:06:41.120><c> matters</c><00:06:41.440><c> more</c><00:06:41.759><c> than</c><00:06:42.000><c> people</c>
+
+00:06:42.230 --> 00:06:42.240 align:start position:0%
+think this matters more than people
+ 
+
+00:06:42.240 --> 00:06:45.029 align:start position:0%
+think this matters more than people
+realize.<00:06:42.800><c> AI</c><00:06:43.199><c> has</c><00:06:43.360><c> been</c><00:06:43.520><c> reactive</c><00:06:44.479><c> since</c><00:06:44.800><c> the</c>
+
+00:06:45.029 --> 00:06:45.039 align:start position:0%
+realize. AI has been reactive since the
+ 
+
+00:06:45.039 --> 00:06:47.189 align:start position:0%
+realize. AI has been reactive since the
+beginning.<00:06:45.680><c> You</c><00:06:45.840><c> ask,</c><00:06:46.240><c> it</c><00:06:46.400><c> answers.</c><00:06:46.880><c> That's</c>
+
+00:06:47.189 --> 00:06:47.199 align:start position:0%
+beginning. You ask, it answers. That's
+ 
+
+00:06:47.199 --> 00:06:49.110 align:start position:0%
+beginning. You ask, it answers. That's
+been<00:06:47.360><c> the</c><00:06:47.520><c> entire</c><00:06:47.919><c> model.</c><00:06:48.479><c> This</c><00:06:48.720><c> update</c>
+
+00:06:49.110 --> 00:06:49.120 align:start position:0%
+been the entire model. This update
+ 
+
+00:06:49.120 --> 00:06:50.710 align:start position:0%
+been the entire model. This update
+breaks<00:06:49.360><c> that</c><00:06:49.600><c> model.</c><00:06:50.000><c> Claude</c><00:06:50.319><c> doesn't</c><00:06:50.560><c> wait</c>
+
+00:06:50.710 --> 00:06:50.720 align:start position:0%
+breaks that model. Claude doesn't wait
+ 
+
+00:06:50.720 --> 00:06:52.390 align:start position:0%
+breaks that model. Claude doesn't wait
+for<00:06:50.880><c> you</c><00:06:51.039><c> anymore.</c><00:06:51.360><c> It</c><00:06:51.600><c> just</c><00:06:51.759><c> works</c><00:06:52.000><c> on</c><00:06:52.240><c> a</c>
+
+00:06:52.390 --> 00:06:52.400 align:start position:0%
+for you anymore. It just works on a
+ 
+
+00:06:52.400 --> 00:06:54.629 align:start position:0%
+for you anymore. It just works on a
+schedule<00:06:53.039><c> in</c><00:06:53.280><c> the</c><00:06:53.440><c> background</c><00:06:53.919><c> doing</c><00:06:54.319><c> real</c>
+
+00:06:54.629 --> 00:06:54.639 align:start position:0%
+schedule in the background doing real
+ 
+
+00:06:54.639 --> 00:06:56.870 align:start position:0%
+schedule in the background doing real
+work.<00:06:55.039><c> That's</c><00:06:55.280><c> not</c><00:06:55.440><c> an</c><00:06:55.680><c> assistant.</c><00:06:56.479><c> That's</c><00:06:56.720><c> an</c>
+
+00:06:56.870 --> 00:06:56.880 align:start position:0%
+work. That's not an assistant. That's an
+ 
+
+00:06:56.880 --> 00:06:58.629 align:start position:0%
+work. That's not an assistant. That's an
+autonomous<00:06:57.520><c> developer.</c><00:06:58.000><c> And</c><00:06:58.160><c> we're</c><00:06:58.319><c> only</c><00:06:58.479><c> at</c>
+
+00:06:58.629 --> 00:06:58.639 align:start position:0%
+autonomous developer. And we're only at
+ 
+
+00:06:58.639 --> 00:07:00.550 align:start position:0%
+autonomous developer. And we're only at
+the<00:06:58.800><c> beginning</c><00:06:58.960><c> of</c><00:06:59.199><c> this</c><00:06:59.840><c> right</c><00:07:00.000><c> now.</c><00:07:00.319><c> It's</c>
+
+00:07:00.550 --> 00:07:00.560 align:start position:0%
+the beginning of this right now. It's
+ 
+
+00:07:00.560 --> 00:07:03.029 align:start position:0%
+the beginning of this right now. It's
+scheduled<00:07:01.039><c> tasks</c><00:07:01.919><c> on</c><00:07:02.160><c> your</c><00:07:02.400><c> desktop.</c><00:07:02.880><c> But</c>
+
+00:07:03.029 --> 00:07:03.039 align:start position:0%
+scheduled tasks on your desktop. But
+ 
+
+00:07:03.039 --> 00:07:04.710 align:start position:0%
+scheduled tasks on your desktop. But
+think<00:07:03.199><c> about</c><00:07:03.360><c> where</c><00:07:03.520><c> this</c><00:07:03.759><c> goes</c><00:07:04.000><c> next.</c><00:07:04.400><c> Cloud</c>
+
+00:07:04.710 --> 00:07:04.720 align:start position:0%
+think about where this goes next. Cloud
+ 
+
+00:07:04.720 --> 00:07:07.510 align:start position:0%
+think about where this goes next. Cloud
+tasks,<00:07:05.520><c> multi-</c><00:07:06.000><c> aent</c><00:07:06.400><c> coordination,</c><00:07:07.199><c> AI</c>
+
+00:07:07.510 --> 00:07:07.520 align:start position:0%
+tasks, multi- aent coordination, AI
+ 
+
+00:07:07.520 --> 00:07:09.029 align:start position:0%
+tasks, multi- aent coordination, AI
+teams<00:07:07.759><c> that</c><00:07:08.000><c> run</c><00:07:08.160><c> projects</c><00:07:08.479><c> without</c><00:07:08.800><c> any</c>
+
+00:07:09.029 --> 00:07:09.039 align:start position:0%
+teams that run projects without any
+ 
+
+00:07:09.039 --> 00:07:11.029 align:start position:0%
+teams that run projects without any
+human<00:07:09.280><c> input</c><00:07:09.680><c> at</c><00:07:09.919><c> all.</c><00:07:10.160><c> This</c><00:07:10.400><c> is</c><00:07:10.479><c> a</c><00:07:10.720><c> huge</c>
+
+00:07:11.029 --> 00:07:11.039 align:start position:0%
+human input at all. This is a huge
+ 
+
+00:07:11.039 --> 00:07:12.629 align:start position:0%
+human input at all. This is a huge
+shift.<00:07:11.759><c> And</c><00:07:11.919><c> if</c><00:07:12.080><c> you're</c><00:07:12.240><c> not</c><00:07:12.400><c> paying</c>
+
+00:07:12.629 --> 00:07:12.639 align:start position:0%
+shift. And if you're not paying
+ 
+
+00:07:12.639 --> 00:07:14.070 align:start position:0%
+shift. And if you're not paying
+attention<00:07:12.960><c> to</c><00:07:13.120><c> this</c><00:07:13.360><c> stuff,</c><00:07:13.599><c> you're</c><00:07:13.759><c> going</c><00:07:13.919><c> to</c>
+
+00:07:14.070 --> 00:07:14.080 align:start position:0%
+attention to this stuff, you're going to
+ 
+
+00:07:14.080 --> 00:07:16.790 align:start position:0%
+attention to this stuff, you're going to
+fall<00:07:14.400><c> behind</c><00:07:14.960><c> fast.</c><00:07:15.680><c> So,</c><00:07:16.000><c> let</c><00:07:16.160><c> me</c><00:07:16.319><c> recap.</c>
+
+00:07:16.790 --> 00:07:16.800 align:start position:0%
+fall behind fast. So, let me recap.
+ 
+
+00:07:16.800 --> 00:07:19.909 align:start position:0%
+fall behind fast. So, let me recap.
+Claude<00:07:17.199><c> Code</c><00:07:17.680><c> now</c><00:07:17.919><c> has</c><00:07:18.319><c> scheduled</c><00:07:18.800><c> tasks.</c><00:07:19.680><c> You</c>
+
+00:07:19.909 --> 00:07:19.919 align:start position:0%
+Claude Code now has scheduled tasks. You
+ 
+
+00:07:19.919 --> 00:07:22.390 align:start position:0%
+Claude Code now has scheduled tasks. You
+set<00:07:20.080><c> a</c><00:07:20.240><c> prompt.</c><00:07:20.800><c> You</c><00:07:21.039><c> set</c><00:07:21.199><c> a</c><00:07:21.360><c> schedule,</c><00:07:22.000><c> Claude</c>
+
+00:07:22.390 --> 00:07:22.400 align:start position:0%
+set a prompt. You set a schedule, Claude
+ 
+
+00:07:22.400 --> 00:07:24.950 align:start position:0%
+set a prompt. You set a schedule, Claude
+runs<00:07:22.639><c> it</c><00:07:22.800><c> automatically.</c><00:07:23.520><c> It</c><00:07:23.759><c> can</c><00:07:23.919><c> fix</c><00:07:24.160><c> bugs,</c>
+
+00:07:24.950 --> 00:07:24.960 align:start position:0%
+runs it automatically. It can fix bugs,
+ 
+
+00:07:24.960 --> 00:07:27.430 align:start position:0%
+runs it automatically. It can fix bugs,
+review<00:07:25.360><c> code,</c><00:07:26.000><c> update</c><00:07:26.400><c> packages,</c><00:07:27.120><c> write</c>
+
+00:07:27.430 --> 00:07:27.440 align:start position:0%
+review code, update packages, write
+ 
+
+00:07:27.440 --> 00:07:29.589 align:start position:0%
+review code, update packages, write
+reports,<00:07:28.000><c> monitor</c><00:07:28.400><c> systems,</c><00:07:29.120><c> all</c><00:07:29.360><c> on</c>
+
+00:07:29.589 --> 00:07:29.599 align:start position:0%
+reports, monitor systems, all on
+ 
+
+00:07:29.599 --> 00:07:31.990 align:start position:0%
+reports, monitor systems, all on
+autopilot.<00:07:30.400><c> The</c><00:07:30.560><c> setup</c><00:07:30.960><c> takes</c><00:07:31.199><c> 2</c><00:07:31.440><c> minutes</c><00:07:31.840><c> and</c>
+
+00:07:31.990 --> 00:07:32.000 align:start position:0%
+autopilot. The setup takes 2 minutes and
+ 
+
+00:07:32.000 --> 00:07:34.150 align:start position:0%
+autopilot. The setup takes 2 minutes and
+the<00:07:32.240><c> use</c><00:07:32.400><c> cases</c><00:07:32.800><c> are</c><00:07:33.039><c> endless.</c><00:07:33.680><c> Now,</c><00:07:33.919><c> if</c><00:07:34.080><c> you</c>
+
+00:07:34.150 --> 00:07:34.160 align:start position:0%
+the use cases are endless. Now, if you
+ 
+
+00:07:34.160 --> 00:07:36.469 align:start position:0%
+the use cases are endless. Now, if you
+want<00:07:34.319><c> the</c><00:07:34.560><c> full</c><00:07:34.800><c> process,</c><00:07:35.280><c> SOPs,</c><00:07:35.919><c> and</c><00:07:36.080><c> over</c>
+
+00:07:36.469 --> 00:07:36.479 align:start position:0%
+want the full process, SOPs, and over
+ 
+
+00:07:36.479 --> 00:07:39.110 align:start position:0%
+want the full process, SOPs, and over
+100<00:07:36.800><c> AI</c><00:07:37.199><c> use</c><00:07:37.440><c> cases</c><00:07:37.759><c> like</c><00:07:38.000><c> this</c><00:07:38.240><c> one,</c><00:07:38.639><c> join</c><00:07:38.880><c> the</c>
+
+00:07:39.110 --> 00:07:39.120 align:start position:0%
+100 AI use cases like this one, join the
+ 
+
+00:07:39.120 --> 00:07:41.029 align:start position:0%
+100 AI use cases like this one, join the
+AI<00:07:39.520><c> profit</c><00:07:39.840><c> boardroom.</c><00:07:40.479><c> Learn</c><00:07:40.720><c> how</c><00:07:40.880><c> to</c>
+
+00:07:41.029 --> 00:07:41.039 align:start position:0%
+AI profit boardroom. Learn how to
+ 
+
+00:07:41.039 --> 00:07:42.790 align:start position:0%
+AI profit boardroom. Learn how to
+automate<00:07:41.440><c> your</c><00:07:41.599><c> workflows</c><00:07:42.080><c> with</c><00:07:42.240><c> tools</c><00:07:42.560><c> like</c>
+
+00:07:42.790 --> 00:07:42.800 align:start position:0%
+automate your workflows with tools like
+ 
+
+00:07:42.800 --> 00:07:44.870 align:start position:0%
+automate your workflows with tools like
+Cloud<00:07:43.199><c> Code</c><00:07:43.680><c> and</c><00:07:43.919><c> scale</c><00:07:44.160><c> your</c><00:07:44.400><c> business</c><00:07:44.639><c> with</c>
+
+00:07:44.870 --> 00:07:44.880 align:start position:0%
+Cloud Code and scale your business with
+ 
+
+00:07:44.880 --> 00:07:46.790 align:start position:0%
+Cloud Code and scale your business with
+AI.<00:07:45.520><c> The</c><00:07:45.680><c> link</c><00:07:45.840><c> is</c><00:07:46.000><c> in</c><00:07:46.160><c> the</c><00:07:46.319><c> comments</c><00:07:46.639><c> and</c>
+
+00:07:46.790 --> 00:07:46.800 align:start position:0%
+AI. The link is in the comments and
+ 
+
+00:07:46.800 --> 00:07:48.629 align:start position:0%
+AI. The link is in the comments and
+description.<00:07:47.440><c> And</c><00:07:47.680><c> if</c><00:07:47.840><c> you</c><00:07:47.919><c> want</c><00:07:48.080><c> free</c><00:07:48.400><c> access</c>
+
+00:07:48.629 --> 00:07:48.639 align:start position:0%
+description. And if you want free access
+ 
+
+00:07:48.639 --> 00:07:50.469 align:start position:0%
+description. And if you want free access
+to<00:07:48.880><c> all</c><00:07:49.039><c> the</c><00:07:49.199><c> video</c><00:07:49.440><c> notes,</c><00:07:49.840><c> prompts,</c><00:07:50.160><c> and</c><00:07:50.319><c> a</c>
+
+00:07:50.469 --> 00:07:50.479 align:start position:0%
+to all the video notes, prompts, and a
+ 
+
+00:07:50.479 --> 00:07:52.309 align:start position:0%
+to all the video notes, prompts, and a
+community<00:07:50.720><c> of</c><00:07:50.960><c> 38,000</c><00:07:51.759><c> members</c><00:07:52.000><c> who</c><00:07:52.240><c> are</c>
+
+00:07:52.309 --> 00:07:52.319 align:start position:0%
+community of 38,000 members who are
+ 
+
+00:07:52.319 --> 00:07:54.869 align:start position:0%
+community of 38,000 members who are
+crushing<00:07:52.639><c> it</c><00:07:52.800><c> with</c><00:07:52.960><c> AI,</c><00:07:53.520><c> join</c><00:07:53.759><c> the</c><00:07:53.919><c> AI</c><00:07:54.400><c> success</c>
+
+00:07:54.869 --> 00:07:54.879 align:start position:0%
+crushing it with AI, join the AI success
+ 
+
+00:07:54.879 --> 00:07:57.110 align:start position:0%
+crushing it with AI, join the AI success
+lab.<00:07:55.280><c> It's</c><00:07:55.520><c> completely</c><00:07:55.840><c> free.</c><00:07:56.400><c> Link</c><00:07:56.720><c> is</c><00:07:56.960><c> in</c>
+
+00:07:57.110 --> 00:07:57.120 align:start position:0%
+lab. It's completely free. Link is in
+ 
+
+00:07:57.120 --> 00:07:58.710 align:start position:0%
+lab. It's completely free. Link is in
+the<00:07:57.280><c> comments</c><00:07:57.599><c> and</c><00:07:57.840><c> description.</c><00:07:58.319><c> You'll</c><00:07:58.560><c> get</c>
+
+00:07:58.710 --> 00:07:58.720 align:start position:0%
+the comments and description. You'll get
+ 
+
+00:07:58.720 --> 00:08:00.629 align:start position:0%
+the comments and description. You'll get
+everything<00:07:59.039><c> from</c><00:07:59.280><c> this</c><00:07:59.520><c> video,</c><00:07:59.840><c> plus</c><00:08:00.400><c> way</c>
+
+00:08:00.629 --> 00:08:00.639 align:start position:0%
+everything from this video, plus way
+ 
+
+00:08:00.639 --> 00:08:02.230 align:start position:0%
+everything from this video, plus way
+more<00:08:00.800><c> in</c><00:08:01.039><c> there.</c><00:08:01.360><c> Make</c><00:08:01.599><c> sure</c><00:08:01.680><c> you</c><00:08:01.840><c> like</c><00:08:02.080><c> this</c>
+
+00:08:02.230 --> 00:08:02.240 align:start position:0%
+more in there. Make sure you like this
+ 
+
+00:08:02.240 --> 00:08:04.469 align:start position:0%
+more in there. Make sure you like this
+video.<00:08:02.720><c> Subscribe</c><00:08:03.120><c> if</c><00:08:03.360><c> you</c><00:08:03.520><c> haven't</c><00:08:03.759><c> already.</c>
+
+00:08:04.469 --> 00:08:04.479 align:start position:0%
+video. Subscribe if you haven't already.
+ 
+
+00:08:04.479 --> 00:08:06.309 align:start position:0%
+video. Subscribe if you haven't already.
+And<00:08:04.720><c> drop</c><00:08:04.879><c> a</c><00:08:05.120><c> comment</c><00:08:05.360><c> below</c><00:08:05.680><c> telling</c><00:08:06.000><c> me</c><00:08:06.160><c> what</c>
+
+00:08:06.309 --> 00:08:06.319 align:start position:0%
+And drop a comment below telling me what
+ 
+
+00:08:06.319 --> 00:08:08.550 align:start position:0%
+And drop a comment below telling me what
+you'd<00:08:06.560><c> schedule</c><00:08:07.120><c> Claude</c><00:08:07.520><c> to</c><00:08:07.759><c> do</c><00:08:07.919><c> first.</c>
+
+00:08:08.550 --> 00:08:08.560 align:start position:0%
+you'd schedule Claude to do first.
+ 
+
+00:08:08.560 --> 00:08:10.469 align:start position:0%
+you'd schedule Claude to do first.
+Julian<00:08:09.039><c> reads</c><00:08:09.360><c> every</c><00:08:09.599><c> single</c><00:08:09.840><c> one.</c><00:08:10.080><c> I'll</c><00:08:10.319><c> see</c>
+
+00:08:10.469 --> 00:08:10.479 align:start position:0%
+Julian reads every single one. I'll see
+ 
+
+00:08:10.479 --> 00:08:13.360 align:start position:0%
+Julian reads every single one. I'll see
+you<00:08:10.560><c> in</c><00:08:10.720><c> the</c><00:08:10.879><c> next</c><00:08:10.960><c> one.</c>
+

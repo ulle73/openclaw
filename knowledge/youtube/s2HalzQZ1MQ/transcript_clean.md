@@ -1,0 +1,235 @@
+# Clean Transcript
+
+New Claude code update is insane. So
+Claude can now work while you sleep. No,
+I'm not joking. Anthropic just dropped
+an update that turns Claude into a robot
+that codes on a timer. You set it once,
+walk away, and it just keeps going.
+Today, I'm going to show you exactly how
+it works, how to set it up in like 2
+minutes, and the real use cases that are
+going to blow your mind. This is the
+biggest clawed update yet, and nobody is
+talking about it. So, here's the
+problem. Every AI tool right now works
+the same way. You type something, it
+does something. You type again, it does
+something again. It's like having an
+employee who only works when you tap
+them on the shoulder every single time.
+That gets all fast. Especially if you're
+a developer or you run a team or you
+just have stuff that needs to happen
+every single day without you thinking
+about it. What if I told you that's over
+now? Claude Code just launched something
+called scheduled tasks and it changes
+everything. You give Claude a job. You
+tell it when to do that job. And then
+Claude just does it every hour, every
+morning, every Monday, whatever you
+want. You set it up once and it runs on
+autopilot. Think about that for a
+second. That's not an assistant anymore.
+That's a worker. That's an autonomous
+agent sitting on your computer doing
+real work while you go live your life.
+Let me show you how this actually works.
+It's stupid simple. You open Claude Code
+on your desktop. You click schedule in
+the sidebar. You hit new task. Then you
+fill in four things. a name, a
+description, the prompt you want it to
+run, and how often you want it to run.
+That's it. You click run now to test it,
+and boom, it shows up in your scheduled
+sessions panel. Done. Now, here's the
+part that gets really fun. You don't
+even need to write fancy code to
+schedule things. You can literally type
+in plain English something like, "Run my
+tests every 6 hours or check for bugs
+every morning at 9." Claude understands
+that. It just works. And when the time
+comes, here's what happens behind the
+scenes. The desktop app checks the
+schedule every minute. When it's go
+time, Claude launches a brand new
+session. It runs your prompt and then it
+sends you a notification with the
+results. Every single run is a full
+Claude code session. That means Claude
+can edit files, run commands, create
+commits, open pull requests, even use
+MCP tools and APIs. This is not some
+watered down version. This is the full
+thing running on a clock. Hey, if we
+haven't met already, I'm the digital
+avatar of Julian Goldie, CEO of Goldie
+Agency. Whilst he's helping clients get
+more leads and customers, I'm here to
+help you get the latest AI updates.
+Julian Goldie reads every single
+comment. So, make sure you drop one
+below. All right, let me walk you
+through theululing options because
+they're really flexible. You've got
+manual, which means it only runs when
+you click it. Hourly, which runs every
+hour. Daily, which runs at a specific
+time, weekdays, which runs Monday
+through Friday. And weekly, which runs
+on a specific day and time. So, if you
+want Claude to check your dependencies
+every Monday morning, done. If you want
+it to run tests at midnight every night,
+done. If you want a morning briefing at
+8:00 a.m. on weekdays, done. You just
+tell it what to do and when. Now, let me
+give you the use cases because this is
+where it gets insane. Number one,
+automated bug fixing. You set Claude to
+scan your error logs every 4 hours. If
+it finds recurring errors, it figures
+out what's wrong. Then, it creates a
+branch, writes the fix, and opens a pull
+request or while you're eating lunch or
+sleeping or doing literally anything
+else. Number two, automated PR review.
+Every morning, Claude reviews all the
+new pull requests in your repo. It reads
+the code, spots problems, leaves
+comments. Before your team even opens
+their laptops, Claude has already done
+the first pass. Number three, dependency
+updates. Once a week, Claude checks your
+packages, finds anything outdated,
+updates them, and creates a pull
+request. No more forgetting to update
+stuff for six months, and then
+everything breaks. Number four, morning
+developer briefings. Every weekday at 8
+am, Claude pulls together all the new
+GitHub issues, all the open pull
+requests, all the failing tests, and it
+creates a nice clean report so you know
+exactly what's going on before your
+first sip of coffee. Number five, AI
+DevOps agent. Claude monitors your
+server logs, test results, and
+deployments, and it responds
+automatically. That's not a tool
+anymore. That's a team member. Now, if
+you want to go even deeper on stuff like
+this and learn how to actually use AI to
+scale your business and automate your
+Boardroom. It's the best place to learn
+how to use tools like Claude Code to get
+more customers and save hundreds of
+hours with AI automation. Link is in the
+description and comments. All right, let
+me give you some actual prompts you can
+copy and use right now. Prompt one,
+daily code review. You type this every
+weekday at 9:00 a.m. Review the latest
+commits in this repository. Identify
+potential bugs or performance issues.
+Write a summary report and suggest
+improvements. That's it. Claude handles
+the rest. Prompt to automated bug
+fixing. Every 3 hours. Scan the error
+logs in / logs. If any recurring errors
+appear, identify the root cause and
+attempt to fix them. If a fix is
+possible, create a branch and open a
+pull request. Imagine waking up and your
+bugs are already fixed. That's what this
+does. Prompt three, morning developer
+briefing. Every weekday at 8:00 a.m.,
+generate a summary of new GitHub issues.
+Open pull requests and failing tests.
+Create the developer briefing report.
+Your entire team starts the day knowing
+exactly what matters. Prompt for test
+automation every 6 hours. Run the test
+suite if any tests fail. Diagnose the
+issue and propose a fix. Claude becomes
+your QA department on autopilot. Now,
+here's a few things you need to know
+before you go set this up because there
+are some limitations and I want to be
+straight with you about them. First,
+your computer has to be awake. If your
+machine goes to sleep, the task gets
+skipped. But there's a nice little
+safety net. When your computer wakes
+back up, Claude can run one catchup task
+to cover what it missed. And Anthropic
+also added an option where Claude can
+keep your computer awake to finish
+scheduled runs. So, that's cool. Second,
+the desktop app has to be open. This is
+not cloud automation. Everything runs
+locally on your machine. So if you close
+the app, nothing happens. Third, each
+run counts against your usage. Every
+scheduled run is treated like a full
+clawed code session. So keep that in
+mind when you're setting stuff to run
+every hour. Fourth, this works on Mac OS
+and Windows right now. Linux support for
+the desktop scheduled tasks is not
+available yet. Now, where does Claude
+actually store these tasks? Every
+scheduled task creates a folder on your
+machine. It goes in a hidden claw
+directory under scheduled tasks with the
+task name. Inside that folder, there's a
+file called skill.mmd. That file has
+your task name, description, and prompt.
+If you want to tweak what Claude does on
+the next run, you just edit that file.
+Super clean, super simple. Here's why I
+think this matters more than people
+realize. AI has been reactive since the
+beginning. You ask, it answers. That's
+been the entire model. This update
+breaks that model. Claude doesn't wait
+for you anymore. It just works on a
+schedule in the background doing real
+work. That's not an assistant. That's an
+autonomous developer. And we're only at
+the beginning of this right now. It's
+scheduled tasks on your desktop. But
+think about where this goes next. Cloud
+tasks, multi- aent coordination, AI
+teams that run projects without any
+human input at all. This is a huge
+shift. And if you're not paying
+attention to this stuff, you're going to
+fall behind fast. So, let me recap.
+Claude Code now has scheduled tasks. You
+set a prompt. You set a schedule, Claude
+runs it automatically. It can fix bugs,
+review code, update packages, write
+reports, monitor systems, all on
+autopilot. The setup takes 2 minutes and
+the use cases are endless. Now, if you
+want the full process, SOPs, and over
+100 AI use cases like this one, join the
+automate your workflows with tools like
+Cloud Code and scale your business with
+AI. The link is in the comments and
+description. And if you want free access
+to all the video notes, prompts, and a
+crushing it with AI, join the AI success
+lab. It's completely free. Link is in
+the comments and description. You'll get
+everything from this video, plus way
+more in there. Make sure you like this
+video. Subscribe if you haven't already.
+And drop a comment below telling me what
+you'd schedule Claude to do first.
+Julian reads every single one. I'll see
+you in the next one.

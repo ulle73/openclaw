@@ -1,0 +1,11 @@
+from pathlib import Path
+path = Path('scripts/youtube_to_knowledge.py')
+text = path.read_text()
+text = text.replace('intäkt', 'intakt')
+text = text.replace('affär', 'affar')
+text = text.replace('flöde', 'flode')
+text = text.replace('varför', 'varfor')
+text = text.replace('här', 'har')
+text = text.replace('spår', 'spar')
+path.write_text(text)
+print('replaced accents')

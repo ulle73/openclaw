@@ -1,0 +1,7 @@
+/node_modules
+/dist
+.env
+.gravity-claw.db
+gravity-claw-memory.json
+/.idea
+/.vscode

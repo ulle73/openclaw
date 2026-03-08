@@ -1,0 +1,252 @@
+# Chunks
+
+## Chunk 01
+build anything with Devon 2.2. Devon 2.2
+just dropped and it's wild. This AI
+builds stuff for you. It writes the
+code. It tests the code. It fixes the
+code. You just watch it work. We're
+building real stuff with it today. Let's
+go. Today we're talking about Devon 2.2
+and I'm going to show you exactly what
+it can do, how to use it, and how we're
+boardroom. Stay with me because by the
+
+## Chunk 02
+end of this video, you're going to see
+something that changes how you think
+about building things online. Hey, if we
+haven't met already, I'm the digital
+avatar of Julian Goldie, CEO of SEO
+agency, Goldie Agency. Whilst he's
+helping clients get more leads and
+customers, I'm here to help you get the
+latest AI updates. Julian Goldie reads
+every comment, so make sure you comment
+
+## Chunk 03
+below. Okay, so first, what is Devon?
+Devon is an AI that works like a
+developer, but not just any developer.
+It writes code, then it runs the code,
+then it checks the results, then if
+something breaks, it fixes it all by
+itself. No handholding, no babysitting.
+Version 2.2 is the biggest update
+they've done, and it's not just a small
+tweak. This is a full rebuild. Here's
+
+## Chunk 04
+what changed. Number one, real computer
+use. Old versions of Devon just
+generated code and handed it to you.
+Now, it actually uses a computer like a
+real person. It clicks through
+interfaces. It interacts with front-end
+UI. It can test what a live page
+actually looks like and feels like.
+That's massive because most bugs don't
+show up in the code. They show up when
+
+## Chunk 05
+you actually use the thing. Number two,
+self-verification and autofix. So Devon
+builds something then it runs it. If
+something breaks, it doesn't stop and
+wait for you. It figures out what went
+wrong and fixes it. That loop build,
+test, fix happens without you touching
+anything. Number three, three times
+faster startup. The whole interface was
+rebuilt from scratch. It's faster. It's
+
+## Chunk 06
+cleaner. It actually makes sense now.
+Number four, parallel sessions. You can
+run multiple Devon agents at the same
+time. Each one works on a different
+task, different project, different
+problem, all running in parallel. And
+you can watch replays of exactly what
+each agent did, step by step, so you
+always know what happened and why.
+Number five, free tier. You can try
+
+## Chunk 07
+Devon 2.2 for free. No excuses, no
+credit card required to start. Here's
+what I want you to understand. Most AI
+tools help you do things faster. That's
+great. But Devon is different. Devon
+doesn't just help you. It does things.
+There's a big difference between AI
+helps me write faster and AI writes,
+tests, deploys, and fixes an entire
+project while I drink coffee. Think
+
+## Chunk 08
+automate their business with AI. We
+create landing pages. We build email
+sequences. We have systems and SOPs and
+onboarding flows. Imagine telling Devon,
+"Build me a new landing page for the AI
+value of AI automation. It needs to
+clear CTAs to get leads and signups.
+Devon doesn't just write some HTML. It
+builds the whole page. It tests it. It
+checks if the buttons work. It checks if
+
+## Chunk 09
+it loads correctly. It fixes what's
+broken. It shows you the result. That's
+the kind of leverage that saves you
+hours every single week. Or think about
+testing your existing site. You could
+say, "Go through every page on the AI
+broken or slow." Devon would actually
+click through every page like a real QA
+tester and give you a full report.
+That's what computer use AI unlocks.
+
+## Chunk 10
+Quick pause, real talk. If you want to
+use AI tools like Devon to grow your
+business, save time, and automate your
+systems, that's exactly what we do
+down the best AI tools. We show you how
+to actually use them for real business
+results. We give you templates, prompts,
+workflows, all built for people who want
+to move fast and get results. You don't
+need a tech background. You don't need
+
+## Chunk 11
+to be a developer. You just need to show
+up and apply what we teach. Link is in
+the description. Come join us. Now, back
+to Devon. Okay, let's make this
+practical. Step one, go to the Devon
+tier. Start there. Step two, create your
+first session. You'll choose your
+environment and describe what you want
+Devon to build or do. Be specific. The
+clearer your instructions, the better
+
+## Chunk 12
+the output. Here's an example prompt you
+Boardroom. Build a landing page for AI
+for, and why AI automation is the best
+way to grow a business in 2025. Include
+a headline, three benefit sections,
+testimonial placeholders, and a CTA
+button that says, "Join now." Make sure
+the page loads fast, and looks clean on
+mobile. That's a real prompt. You could
+paste that in right now. Devon takes
+
+## Chunk 13
+your prompt, builds the page, tests it,
+fixes any issues, and shows you the
+result. Step three, turn on session
+recording. This is important because now
+you can go back and watch exactly what
+Devon did. If you want to learn from it
+or audit it, the replay is right there.
+Step four, review the output. Look at
+what was built. Check the code if you
+want. Check the live result. Give Devon
+
+## Chunk 14
+feedback and let it iterate. Step five,
+scale up. Once you're comfortable, run
+multiple sessions in parallel. One agent
+working on your landing page, another
+building your onboarding email flow,
+another auditing your existing content.
+That's how you go from doing everything
+yourself to running an actual AI powered
+operation.
+Let me give you some real examples, real
+
+## Chunk 15
+prompts, things you can copy and use.
+Use case one, build a full AI automation
+Prompt. Create a one-page website that
+include a hero section with headline and
+sub headline, a what you get section
+with three columns, a FAQ section with
+five questions, and a footer with social
+links. Design it in dark mode with a
+blue and white color scheme. Devon
+builds it, tests it, done. Use case two,
+
+## Chunk 16
+audit and fix your existing site.
+landing page for broken links, slow
+loading images, missing alt text, and
+any layout issues on mobile. Give me a
+full report and fix what you can
+automatically. A few things I've
+learned. Give Devon clear instructions.
+Don't say make a website. Say make a
+landing page for X with these sections,
+this style, these CTAs for this
+
+## Chunk 17
+audience. Include tests if you can. Tell
+Devon what a successful result looks
+like. The page should load under 2
+seconds and all links should work. Now
+Devon knows what to verify. Use parallel
+sessions for big projects. Break your
+project into chunks. One session per
+chunk. Let them all run at once. Review
+the replay every time, especially early
+on. Watch what Devon did. You'll learn a
+
+## Chunk 18
+ton about how to prompt it better next
+time. Iterate fast. Devon isn't perfect,
+but it's fast. If something isn't right,
+give feedback and let it fix it. Don't
+try to do it manually. And remember,
+Devon integrates with GitHub, Slack, and
+Linear. So, if you're already using
+those tools for your team, Devon fits
+right in.
+Devon 2.2 is a real step change in what
+
+## Chunk 19
+AI agents can do. It uses a computer
+like a human. It builds, tests, and
+fixes automatically. It's three times
+faster than before. You can run multiple
+sessions at once, and you can try it for
+free today. For anyone building
+service, a product, this is the kind of
+tool that removes entire layers of work.
+boardroom, and it's already saving us
+serious time. Two things before you go.
+
+## Chunk 20
+First, if you want to learn how to use
+AI tools like Devon to build and
+automate your business, come join us
+the best tools, the best workflows, and
+the best strategies for using AI to
+grow. Link is in the description.
+Second, if you want something completely
+free, join the AI Success Lab. It's our
+who are all using AI to build better
+businesses. You'll get the full notes
+
+## Chunk 21
+from this video, 100 plus AI use cases,
+people who are actually doing this
+stuff. Links in the comments and the
+description. That's it for today. If
+this was useful, hit subscribe, drop a
+comment below. Julian reads every single
+one, and I'll see you in the next one.
+Word count bound to 500 words. Estimated
+runtime 911

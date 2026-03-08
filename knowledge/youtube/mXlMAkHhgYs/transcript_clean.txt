@@ -1,0 +1,370 @@
+In this video, you will learn how you
+can create websites like this with
+animations. And I'll show you the exact
+way to create and get the animation for
+the background like these, get the
+animation for the images, and also I'll
+show you how to create this slip with
+glass that you see here in the
+background. So, in this video, you will
+learn how you can create this within one
+shot. I'm going to be using Lovable.
+Feel free to use any AI builder that of
+your choice. And the first step is to
+actually find the inspiration for our
+website. So, I'm going to go to
+Pinterest and then just type something
+like hero section or
+just look through these and see any kind
+of design style that I like. So,
+basically, here is a lot of different
+designs that look unique that does not
+look like something from a template. So,
+here is where we're going to be looking
+for our inspiration today. So, I found
+this. I really like this kind of design
+style. Of course, it's not a website,
+but we can make it into a website, and
+I'll show you the exact way to do that.
+So, for the background, I'm just going
+to zoom in really close. I'm going to
+expand this. And I'm just going to take
+a screenshot of this. Let's make sure
+that there is no other elements. Don't
+worry if that the quality is low. We're
+going to work with this image using AI.
+And then I'm just going to go to Nana
+Banana or whatever tool you're using. I
+would not suggest going to this website.
+This expensive. So go to directly to
+Nano Banana and work with that. And here
+I'm just going to upload this image.
+And the prompt that I've used to get
+this result was give me the background
+of it. Exact
+or buttons and the button on logos. Same
+color creating of the background as in
+shot but in higher quality. So this way
+it will recreate this exact image but
+using without text. So just by having
+few results I like this result. So as
+you can see the prompt is absolutely the
+same. It just recreated this image. Then
+I go to video. So go directly to the
+cling link 3.0
+and using cling 3.0 Oh, I had this
+prompt which is fixed camera, locked
+lens, no camera movements, ultra slow
+cinematic motion, a very gentle breeze
+move through the scene. And the result
+was very cool animation effect, very
+clean animation that I can now use on my
+website and start building it. So for
+the website, I'm going to go to Lovable
+and to get a first draft of our hero
+section, I'm going to go to a website
+called motionsize.io. I this is a free
+website. You can get a lot of different
+hero sections here. So, I'm not I don't
+need the video. I'm just going to copy
+this uh UI elements cuz I like the uh
+the liquid glass here. And I'm just
+going to send that.
+And while it creates, this is the
+prompt. So, it just basically described
+the fonts. It describes the background
+video, which we're going to change
+later. It describes also the liquid
+glass. So this is the exact prompt that
+will recreate this beautiful liquid
+glass that you saw in the beginning of
+the video. So let's wait and see what it
+comes back with. And here is our
+beautiful website. Let's preview it. As
+you can see, we have this beautiful
+animation. Now let's get the video that
+we just generated with our AI. So I'm
+going to open it. In your case, you
+would need to upload it to any website
+hosting platform video. I would suggest
+either. So now let's just go to our
+lovable site and let's say upload this
+video uh to the background. Basically
+just change the link of the video to be
+this one.
+So and let's just paste the link and see
+what it comes back with. So this is what
+we received. Obviously we can improve it
+for better readability. But before that,
+let's build the rest of the landing
+page. So, I'm going to say build out the
+rest of the landing page. So, I'm
+building a web design AI agency landing
+page. So, rewrite all of the text on
+here to fit that but keep the same
+number of characters as well as build
+the rest of the landing page. So I
+assume we would have a feature section,
+a benefit section uh with a chess kind
+of style where we have the content on
+the left and then the picture on the
+right and then on the bottom section we
+have the section where the uh the
+content is on the right and the picture
+is on the left. So just two sections
+like that. Then have some feature
+section which would be a four cards
+section. Then let's have a testimonial
+section and maybe we would have some
+stats and any other sections that you
+think would fit about five to six
+sections. Build that in the same style
+that we already created in the hero
+section. So the same colors, the same
+fonts, the same styles for the buttons,
+for the cards. This keep this liquid
+glass. Keep the same sizes for the fonts
+etc. And keep the background pure black.
+Do not add any gradients. Do not add any
+animation to the background. Just keep
+it pure pure black.
+Okay, that was a long prompt, but let's
+just send that and see what it comes
+back with. So then we can improving and
+making our website look more beautiful.
+And here is our beautiful hero section
+with the next section which what we do
+with this generated images which we're
+going to replace with some video. Then
+we have why choose us. This beautiful
+icons with the liquid glass. And then we
+have stats section loved by founders and
+the the CTA section. As you can see it
+looks much more better than what you
+would get from AI generated results. And
+mind you we just spent two prompts. So
+in two prompts you would get this
+beautiful results. To get it even more
+beautiful I can go and take some more
+videos from this section. For example, I
+think this video looks pretty cool. I
+can just copy this. I can paste into my
+thing and I can find the video link
+here.
+So, here is the source video.
+I'm going to copy that and I'm going to
+go to our AI and I'm going to say in the
+stats section, let's place this video as
+the background of our section. Make the
+video fade from the top and fade on the
+bottom of the section so the transition
+is not very visible. Place the video
+behind the content.
+And I'm going to paste the link here.
+And let's wait and see what it comes
+back with. This is what it created
+because the voice recognition app says
+let's place a video as a background of
+our section, not not the start section.
+So this is what we've got. I think it
+still looks cool. We can place another
+video there. Um, but for this images,
+let's put a designs, actual designs
+here. So, what I'm going to do is I'm
+going to go to motion sides. I'm just
+going to take any design and just going
+to save image as
+it's going to save as gift. GIF and I'm
+going to say
+let's place the this GIF in place of the
+actually I like kind of this style.
+Okay,
+let's play this GIF in AI crafted
+website that convert visitors instead of
+laptop. Let's place this GIF
+and in the section below intelligent
+system that learn and adapt. Let's play
+this gift. Second gift.
+Let's place
+this one.
+And let's just upload these two gifts.
+And for this section, I want to paste
+another video. So, we're going to do
+that as well.
+Let's paste that. And let's find another
+video that I'm going to paste there. So
+maybe
+maybe actually go to motion sites to
+design rocket and find a video there. It
+have way more videos.
+So I think I'm going to take this one.
+By the way, if you're not on Design
+Rocket, I'd highly suggest join. I post
+weekly uh exclusive tutorials that are
+not on YouTube and you cannot find them
+anywhere. How to build beautiful website
+with spline, how to build beautiful
+website with uh Gemini, how to find
+clients, how to make money on Upwork.
+Also, there was trainings which is the
+full course that you can find here and
+learn how to create websites like these.
+There are also very large library of
+templates that I'm adding weekly here
+for AI tools. So, make sure to join. And
+yeah, let's get back to our website. And
+I'm going to say, yeah, as you can see,
+we have this beautiful gifts here. And
+for the next section, for the stats
+section,
+let's have this video as the background
+of the stats section. Again, let's fade
+it from the top and bottom. So, the
+smooth smooth. And also, let's make this
+video have zero saturation.
+And let's just upload this and let's see
+what it comes back with. And here is our
+section. As you can see, it looks
+really, really cool as well. So, for the
+last section, let's add a video as well.
+I think we can add let's go to video
+backgrounds and let's add this video.
+So, I'm going to say
+for the CTA section, let's add this
+video to as the background of the CTA
+section.
+bottom CTA section and let's just place
+the link and see what it comes back
+with. And here is the section with this
+beautiful liquid glass button and also
+the navbar is also very cool here. So
+let's build another page. I'm going to
+say
+let's using I'm going to just copy that
+prompt um the same styles that we had.
+Oh, where is it?
+Yeah, I'm going to copy this
+and I'm going to set build out the about
+us page
+and I'm going to use the same style
+five six sections or above our page.
+And let's just wait and see what it
+comes back with.
+And here is our about page about us. As
+you can see, it looks really cool as
+well in the exact style as we need. Now
+we can just add the background videos
+from the motion uh or either from design
+rocket or from motion sites and we'll
+have beautiful website with all of
+videos with beautiful typography text
+just like that. In the next video, I'll
+show you how to take that and how to
+actually create a parallax effect. So,
+we're going to create generate another
+asset that will go on top of the video
+and then we I'll show you how to create
+revealing type of animation styles. So,
+make sure to subscribe because this will
+be the best tutorial on this channel.
+I'll go in details how to create the
+parallax, how to create all of these
+beautiful elements, how to generate this
+website. So, stay tuned. But it is very
+important to actually make your landing
+page sell. So before we finish this
+video, I'm going to show you one
+typography technique that would improve
+the content on this website way way
+better. So I'm going to say
+let's go to homepage.
+I'm going to say rewrite the text on the
+on our website, but make sure it is
+written in the style of apple.com.
+use the same short sentences, the same
+kind of premium look and just copy their
+typography and copyrightiting frameworks
+to write on our website.
+So, this will basically improve our
+text. Let's go to homepage. Make sure
+we're here.
+And I'm just going to paste this. And
+let's see what it comes back with. Here
+is our rewritten text. The website your
+brand deserves. In my opinion, it's much
+more clear what we do now. You dream it,
+we ship it. Again, it causes a lot of
+emotion. Pro feature zero complexity.
+Designed to convert, build to perform.
+It gets smarter automatically. The
+difference is everything. Days, not
+months. Obsessively crafted. Built to
+convert. As you can see, it does call
+more emotion and yeah, so just to give
+an example of what you would receive if
+you were not to use the prompt because
+again AI is here and if you're not using
+it, you will get replaced. So let's say
+build me a AI web design agency landing
+page.
+So if we're just saying this, this is
+the result that you would receive.
+Again, AI will not replace you just now,
+but the designers who use AI will
+replace those who do not use because
+this was created in 10 prompts.
+And to create this with Figma and then
+to build out a framework to animate this
+and then to create about us page, it
+would take you probably like a few days
+at minimum, but we just created in less
+than 15 minutes. So yeah, definitely
+learn how to use AI and you'll get ahead
+by far for the designers who do not use
+AI or for people who just use AI but
+without the skills that I'm teaching
+you. Do not learn a lot. Just use the
+skills. Just use the templates and the
+prompts that I provided in this video
+and get started building, get started
+posting on Twitter. Just go on Twitter
+and literally screen record whatever you
+created and then just post it on Twitter
+and say here is a created this using V3
+or whatever animation technique that you
+use. Just put whatever you created and
+just the hero section as you can see I
+did here and say liquid glass on the
+website. it differently and then maybe
+post and tag a company that you build a
+website with for a chance that they will
+repost your tweet or tag me. Again, I
+said this before and I'm saying this
+again. If you tag me,
+I'm every day reviewing everybody who
+posted something and if I see that
+something looks good, I will just make a
+repost of it like this guy. And yeah, so
+make sure to do that to do that to grow
+your Twitter account. But yeah, let's
+look at what you would receive if you
+were not using the prompts. This is the
+result you would receive without
+providing any sort of instruction. As
+you can see, it looks really really AI
+generated. Doesn't stand out with
+nothing special using very standard
+layout but just pro by providing a
+little bit details. We're able to
+achieve results like these. And also
+it's not finished. We can of course make
+it look much much better by adding some
+kind of AI generated icons. I can go to
+AI and I can say generate me some icons
+in the style like of this button for
+example or in the style of this images.
+I can say make a similar image but in
+3D. So definitely there is way more room
+for improvement. Make sure to use all of
+these tips and tricks and see you in the
+next video. Thank you for watching.
