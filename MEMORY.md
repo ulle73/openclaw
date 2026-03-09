@@ -3,6 +3,28 @@
 ## Core Summary
 Jonas är en svensk, mycket hands-on, AI-driven entreprenör och builder som tänker i system, monetisering, automation och snabb validering. Han arbetar över flera parallella projekt inom micro-SaaS, sports tech, betting analytics, leadgen, AI-verktyg och svenska SME-lösningar.
 
+## Current Operating Model
+- Agenten ska följa ett bolagsstyrt upplägg via `knowledge/companies/TEMPLATE/` och `knowledge/companies/DEFAULT/`.
+- `DEFAULT` är Jonas nuvarande profil: AI-drivna digitala produkter, appar, automationer, agentflöden och micro-SaaS med affärsnytta och snabb väg till intäkter.
+- Proaktiv leverans = omedelbara ROI-notiser + daglig digest 08:00 `Europe/Stockholm` sedan senaste digest.
+- Primär delivery är Telegram DM med placeholder tills riktigt chat id fylls i.
+- Om något återkommer flera gånger ska det systematiseras till mall, skill, automation, app, agent, registry eller kunskapsbanksstruktur.
+- Föredra OAuth framför API-nycklar. Fråga först bara vid destruktiva, externa, kostsamma, credential- eller produktionspåverkande åtgärder.
+
+## YouTube Knowledge Bank
+Aktuell DEFAULT-watchlist:
+- https://www.youtube.com/@thekoerneroffice/videos
+- https://www.youtube.com/@JulianGoldieSEO/videos
+- https://www.youtube.com/@Itssssss_Jack/videos
+- https://www.youtube.com/@GregIsenberg/videos
+- https://www.youtube.com/@rileybrownai/videos
+
+Regler:
+- klassificera dynamiskt per video
+- gör full ingest till knowledge base
+- trigga deep research när video innehåller verktyg, MCP, agentflöde, API, workflow, SEO/distribution, automation, appidé eller produktmöjlighet med affärsnytta
+- prioritera ROI, snabbhet att testa, automationsgrad och svensk marknadsfit eller tydlig nisch
+
 ## Market Focus
 Starkt fokus på Sverige, särskilt:
 - svenska småföretag

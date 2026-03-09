@@ -10,6 +10,7 @@ from typing import List
 BASE_DIR = Path(__file__).resolve().parents[1]
 KNOWLEDGE_DIR = BASE_DIR / "knowledge" / "youtube"
 INDEX_FILE = BASE_DIR / "knowledge" / "INDEX.md"
+INDEX_JSONL_FILE = KNOWLEDGE_DIR / "INDEX.jsonl"
 
 CLASSIFICATION_OPTIONS = [
     "tutorial",
@@ -151,6 +152,39 @@ def generate_summary_tags(cleaned_text: str, info: dict) -> list[str]:
     return tags[:6]
 
 
+CATEGORY_KEYWORDS = {
+    "tool": ["tool", "verktyg", "software", "saas", "platform", "app"],
+    "workflow": ["workflow", "process", "playbook", "steps", "system"],
+    "business_idea": ["business idea", "affärsidé", "offer", "service idea", "startup"],
+    "seo_distribution": ["seo", "distribution", "traffic", "ranking", "backlink", "content strategy"],
+    "agent_flow": ["agent flow", "multi-agent", "agent", "agents"],
+    "automation": ["automation", "automate", "automatis"],
+    "app_idea": ["app idea", "micro-saas", "build an app", "app business"],
+    "product_opportunity": ["product", "pricing", "package", "product opportunity", "offer"],
+    "mcp": ["mcp", "model context protocol"],
+    "api": ["api", "sdk", "endpoint", "oauth"],
+}
+
+SWEDISH_LABELS = {
+    "low": "låg",
+    "medium": "medel",
+    "high": "hög",
+}
+
+ACTION_BY_CATEGORY = {
+    "tool": "Testa verktyget i ett av Jonas aktiva projekt och dokumentera fit/gap.",
+    "workflow": "Bryt ner workflowet till en återanvändbar mall eller automation.",
+    "business_idea": "Gör en snabb Idea Fit Report för svensk marknad eller tydlig nisch.",
+    "seo_distribution": "Formulera ett konkret distributions- eller SEO-experiment som kan testas direkt.",
+    "agent_flow": "Avgör om detta ska bli ett agentflöde eller en skill i den befintliga stacken.",
+    "automation": "Identifiera vad som kan automatiseras direkt och vad som kräver manuell validering först.",
+    "app_idea": "Bedöm om detta passar som app eller micro-SaaS med tydlig monetiseringsväg.",
+    "product_opportunity": "Skissa ett säljbart erbjudande med tydlig ROI och nästa teststeg.",
+    "mcp": "Utvärdera om MCP-spåret ger bättre hävstång än nuvarande implementation.",
+    "api": "Kontrollera integration, auth-modell och om OAuth-vägen är möjlig.",
+}
+
+
 def write_chunks(target: Path, lines: List[str], chunk_size: int = 10) -> None:
     out = ['# Chunks', '']
     for idx in range(0, len(lines), chunk_size):
@@ -163,23 +197,224 @@ def write_chunks(target: Path, lines: List[str], chunk_size: int = 10) -> None:
     target.joinpath('chunks.md').write_text('\n'.join(out).strip() + '\n', encoding='utf-8')
 
 
-def write_summary(target: Path, cleaned_text: str, info: dict) -> None:
+def dedupe_keep_order(items: List[str]) -> List[str]:
+    seen = set()
+    result = []
+    for item in items:
+        normalized = item.strip()
+        if not normalized:
+            continue
+        key = normalized.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        result.append(normalized)
+    return result
+
+
+def yaml_quote(value: str) -> str:
+    return str(value or "").replace("\\", "\\\\").replace('"', '\\"')
+
+
+def to_iso_date(raw_date: str | None) -> str:
+    if not raw_date:
+        return ""
+    if len(raw_date) == 8 and raw_date.isdigit():
+        return f"{raw_date[0:4]}-{raw_date[4:6]}-{raw_date[6:8]}"
+    return raw_date
+
+
+def detect_categories(cleaned_text: str, info: dict, analysis: dict) -> List[str]:
+    data = " ".join(
+        [
+            cleaned_text,
+            info.get("title", ""),
+            info.get("description", ""),
+            " ".join(analysis.get("classification", []) or []),
+        ]
+    ).lower()
+    found: List[str] = []
+    for category, keywords in CATEGORY_KEYWORDS.items():
+        if any(keyword in data for keyword in keywords):
+            found.append(category)
+    if "workflow" in (analysis.get("classification") or []) and "workflow" not in found:
+        found.append("workflow")
+    return dedupe_keep_order(found)
+
+
+def label_for_score(score: int) -> str:
+    if score >= 8:
+        return "high"
+    if score >= 5:
+        return "medium"
+    return "low"
+
+
+def build_summary_metadata(cleaned_text: str, info: dict, analysis: dict) -> dict:
+    categories = detect_categories(cleaned_text, info, analysis)
+    roi_score = 3
+    relevance_score = 4
+
+    if any(category in categories for category in ["business_idea", "product_opportunity", "app_idea"]):
+        roi_score += 3
+        relevance_score += 2
+    if any(category in categories for category in ["tool", "workflow", "automation", "agent_flow", "mcp", "api"]):
+        roi_score += 2
+        relevance_score += 2
+    if "seo_distribution" in categories:
+        roi_score += 1
+        relevance_score += 1
+    if analysis.get("monetization"):
+        roi_score += 1
+    if analysis.get("automation_opportunities"):
+        relevance_score += 1
+
+    roi_score = min(10, roi_score)
+    relevance_score = min(10, relevance_score)
+
+    should = {
+        "skill": bool(analysis.get("skill_candidate", {}).get("should_create")) or any(
+            category in categories for category in ["tool", "workflow", "agent_flow", "mcp", "api"]
+        ),
+        "automation": any(category in categories for category in ["automation", "workflow", "agent_flow"]),
+        "idea_bank": any(category in categories for category in ["business_idea", "app_idea", "product_opportunity"]),
+        "system_improvement": any(
+            category in categories for category in ["workflow", "automation", "seo_distribution", "tool"]
+        ),
+        "app": "app_idea" in categories,
+        "product": any(category in categories for category in ["product_opportunity", "business_idea"]),
+    }
+
+    return {
+        "categories": categories,
+        "roi_score": roi_score,
+        "relevance_score": relevance_score,
+        "roi_label": label_for_score(roi_score),
+        "relevance_label": label_for_score(relevance_score),
+        "should": should,
+    }
+
+
+def build_takeaways(normalized_sentences: List[str], analysis: dict) -> List[str]:
+    preferred: List[str] = []
+    for key in [
+        "strategic_insights",
+        "tools",
+        "workflows",
+        "features",
+        "automation_opportunities",
+        "monetization",
+    ]:
+        preferred.extend(analysis.get(key) or [])
+    if not preferred:
+        preferred = normalized_sentences[:3]
+    return dedupe_keep_order(preferred)[:3]
+
+
+def build_usage_for_jonas(summary_meta: dict, analysis: dict) -> List[str]:
+    ideas = [analysis.get("relevance_to_me", "").strip()]
+    categories = summary_meta.get("categories", [])
+    if any(category in categories for category in ["tool", "automation", "workflow", "agent_flow"]):
+        ideas.append("Detta kan omsättas till ett återanvändbart system, skill eller intern automation.")
+    if any(category in categories for category in ["business_idea", "product_opportunity", "app_idea"]):
+        ideas.append("Detta kan användas för att utvärdera nya intäktsdrivna idéer tidigt och snabbare välja rätt spår.")
+    if "seo_distribution" in categories:
+        ideas.append("Detta kan användas för att hitta distributionsvinklar och SEO-spår som går att testa snabbt.")
+    return dedupe_keep_order([idea for idea in ideas if idea])[:3] or [
+        "Spara detta i kunskapsbanken och bevaka om temat återkommer i fler relevanta videos."
+    ]
+
+
+def build_next_actions(summary_meta: dict) -> List[str]:
+    actions: List[str] = []
+    for category in summary_meta.get("categories", []):
+        action = ACTION_BY_CATEGORY.get(category)
+        if action:
+            actions.append(action)
+    if not actions:
+        actions.append("Spara videon i kunskapsbanken och återkom om temat dyker upp igen.")
+    return dedupe_keep_order(actions)[:3]
+
+
+def build_should_lines(summary_meta: dict) -> List[str]:
+    should = summary_meta["should"]
+    categories = summary_meta["categories"]
+    return [
+        f"- Skill: {'ja' if should['skill'] else 'nej'} + {'Passar som återanvändbar komponent eller operativ mall.' if should['skill'] else 'Ingen tydlig återanvändbar skill ännu.'}",
+        f"- Automation: {'ja' if should['automation'] else 'nej'} + {'Innehållet pekar på ett flöde som sannolikt går att automatisera.' if should['automation'] else 'Saknar tydligt automationscase just nu.'}",
+        f"- Idébank: {'ja' if should['idea_bank'] else 'nej'} + {'Bör sparas som idéspår med affärsvinkel.' if should['idea_bank'] else 'Mer execution-spår än nytt idéspår.'}",
+        f"- Systemförbättring: {'ja' if should['system_improvement'] else 'nej'} + {'Kan förbättra befintligt arbetssätt eller knowledge-flöde.' if should['system_improvement'] else 'Ger ingen tydlig systemförbättring nu.'}",
+        f"- App: {'ja' if should['app'] else 'nej'} + {'Har tydlig app- eller micro-SaaS-vinkel.' if should['app'] else 'Inte stark nog som appspår ännu.'}",
+        f"- Produkt: {'ja' if should['product'] else 'nej'} + {'Kan paketeras som säljbart erbjudande eller produktspår.' if should['product'] else 'Inte tillräckligt tydlig produktmöjlighet ännu.'}",
+        f"- Kategorier: {', '.join(categories) if categories else 'inga tydliga kategorier identifierade'}",
+    ]
+
+
+def build_label_reason(label: str, summary_meta: dict, axis: str) -> str:
+    categories = summary_meta.get("categories", [])
+    if axis == "roi":
+        if label == "high":
+            return "Flera kategorier pekar på snabb testbarhet, tydlig hävstång eller produktmöjlighet."
+        if label == "medium":
+            return "Det finns användbarhet här, men affärsnyttan kräver mer validering."
+        return "Innehållet verkar mer informativt än direkt intäkts- eller hävstångsdrivande."
+    if label == "high":
+        return "Det ligger nära Jonas fokus på AI-produkter, automation, agentflöden eller svensk marknadsfit."
+    if label == "medium":
+        return "Det är delvis relevant, men kopplingen till aktuella spår är inte helt självklar."
+    return "Kopplingen till Jonas nuvarande prioriteringar är svag eller indirekt."
+
+
+def write_summary(target: Path, cleaned_text: str, info: dict, analysis: dict) -> dict:
     normalized_sentences = [normalize_sentence(s) for s in split_sentences(cleaned_text) if normalize_sentence(s)]
     tldr = normalized_sentences[:3] if normalized_sentences else ([normalize_sentence(cleaned_text)] if cleaned_text.strip() else [])
-    key = normalized_sentences[3:7] if len(normalized_sentences) > 3 else normalized_sentences[:3]
-    tags = generate_summary_tags(cleaned_text, info)
-    parts = ['# Summary', '', '## TL;DR']
-    parts.extend([f'- {sentence}' for sentence in tldr if sentence])
-    if not tldr:
-        parts.append('- No transcript content available to summarize.')
-    parts.extend(['', '## Key takeaways'])
-    if key:
-        parts.extend([f'- {sentence}' for sentence in key if sentence])
-    else:
-        parts.append('- Nothing beyond the TL;DR stood out.')
-    parts.extend(['', '## Suggested tags'])
-    parts.extend([f'- {tag}' for tag in tags])
-    target.joinpath('summary.md').write_text('\n'.join(parts).strip() + '\n', encoding='utf-8')
+    takeaways = build_takeaways(normalized_sentences, analysis)
+    summary_meta = build_summary_metadata(cleaned_text, info, analysis)
+    usage_for_jonas = build_usage_for_jonas(summary_meta, analysis)
+    next_actions = build_next_actions(summary_meta)
+    roi_label = summary_meta["roi_label"]
+    relevance_label = summary_meta["relevance_label"]
+    should_lines = build_should_lines(summary_meta)
+
+    frontmatter = [
+        "---",
+        f'videoId: "{yaml_quote(info.get("id", ""))}"',
+        f'sourceUrl: "{yaml_quote(f"https://www.youtube.com/watch?v={info.get("id", "")}")}"',
+        f'title: "{yaml_quote(info.get("title", ""))}"',
+        f'channel: "{yaml_quote(info.get("uploader") or info.get("channel") or "")}"',
+        f'published: "{to_iso_date(info.get("upload_date"))}"',
+        "categories: [" + ", ".join(f'"{category}"' for category in summary_meta["categories"]) + "]",
+        "",
+        f'roi_label: "{roi_label}"',
+        f'relevance_label: "{relevance_label}"',
+        "",
+        "should:",
+        f"  skill: {'true' if summary_meta['should']['skill'] else 'false'}",
+        f"  automation: {'true' if summary_meta['should']['automation'] else 'false'}",
+        f"  idea_bank: {'true' if summary_meta['should']['idea_bank'] else 'false'}",
+        f"  system_improvement: {'true' if summary_meta['should']['system_improvement'] else 'false'}",
+        f"  app: {'true' if summary_meta['should']['app'] else 'false'}",
+        f"  product: {'true' if summary_meta['should']['product'] else 'false'}",
+        "---",
+        "# TL;DR",
+    ]
+
+    body = list(frontmatter)
+    body.extend([f"- {sentence}" for sentence in tldr if sentence] or ["- Ingen tydlig transcripttext fanns att sammanfatta."])
+    body.extend(["", "# 3 viktigaste takeaways"])
+    body.extend([f"{index}. {item}" for index, item in enumerate(takeaways or ["Inget tydligt stack ut utöver TL;DR."], start=1)])
+    body.extend(["", "# Hur detta kan användas för mig"])
+    body.extend([f"- {item}" for item in usage_for_jonas])
+    body.extend(["", "# Next actions (max 3)"])
+    body.extend([f"{index}. {item}" for index, item in enumerate(next_actions, start=1)])
+    body.extend(["", "# Bör detta bli?"])
+    body.extend(should_lines[:6])
+    body.extend(["", "# ROI / potential"])
+    body.append(f"- {SWEDISH_LABELS[roi_label]} — {build_label_reason(roi_label, summary_meta, 'roi')}")
+    body.extend(["", "# Relevans för mig"])
+    body.append(f"- {SWEDISH_LABELS[relevance_label]} — {build_label_reason(relevance_label, summary_meta, 'relevance')}")
+    target.joinpath('summary.md').write_text('\n'.join(body).strip() + '\n', encoding='utf-8')
+    return summary_meta
 
 
 def write_transcript_md(target: Path, canonical_url: str, vid: str, info: dict, text: str) -> None:
@@ -380,6 +615,53 @@ def update_index(info: dict, learned_path: str, classification: list, skill_flag
     INDEX_FILE.write_text("\n".join(table) + "\n", encoding='utf-8')
 
 
+def load_index_video_ids() -> set[str]:
+    if not INDEX_JSONL_FILE.exists():
+        return set()
+    ids: set[str] = set()
+    for line in INDEX_JSONL_FILE.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            row = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        video_id = row.get("videoId")
+        if video_id:
+            ids.add(video_id)
+    return ids
+
+
+def append_index_jsonl(info: dict, summary_meta: dict, discovered_at: str, ingested_at: str) -> None:
+    INDEX_JSONL_FILE.parent.mkdir(parents=True, exist_ok=True)
+    video_id = info.get("id")
+    if not video_id:
+        return
+    if video_id in load_index_video_ids():
+        return
+    row = {
+        "videoId": video_id,
+        "sourceUrl": f"https://www.youtube.com/watch?v={video_id}",
+        "title": info.get("title", ""),
+        "channel": info.get("uploader") or info.get("channel") or "",
+        "published": to_iso_date(info.get("upload_date")),
+        "discoveredAt": discovered_at,
+        "ingestedAt": ingested_at,
+        "categories": summary_meta.get("categories", []),
+        "roi_label": summary_meta.get("roi_label", "low"),
+        "relevance_label": summary_meta.get("relevance_label", "low"),
+        "paths": {
+            "baseDir": f"knowledge/youtube/{video_id}",
+            "summary": f"knowledge/youtube/{video_id}/summary.md",
+            "chunks": f"knowledge/youtube/{video_id}/chunks.md",
+            "transcript": f"knowledge/youtube/{video_id}/transcript.md",
+        },
+    }
+    with INDEX_JSONL_FILE.open("a", encoding="utf-8") as handle:
+        handle.write(json.dumps(row, ensure_ascii=False) + "\n")
+
+
 def ingest(url: str):
     if not KNOWLEDGE_DIR.exists():
         KNOWLEDGE_DIR.mkdir(parents=True)
@@ -412,15 +694,17 @@ def ingest(url: str):
     write_source_url(target, canonical_url)
     write_excluded_ads(target, excluded_segments)
     write_chunks(target, cleaned_lines)
-    write_summary(target, cleaned_text, info)
     analysis_input = cleaned_text if cleaned_text.strip() else clean_text
     analysis_raw = local_analysis(analysis_input, info)
     analysis = ensure_analysis(analysis_raw, info)
+    summary_meta = write_summary(target, cleaned_text, info, analysis)
     (target / "learned.md").write_text(build_learned(info, analysis), encoding="utf-8")
     (target / "skill_candidate.md").write_text(evaluate_skill(analysis), encoding="utf-8")
-    classification = analysis.get('classification') or []
+    classification = summary_meta.get("categories") or analysis.get('classification') or []
     skill_flag = analysis.get('skill_candidate', {}).get('should_create', False)
     update_index(info, f"youtube/{vid}/learned.md", classification, bool(skill_flag))
+    now_iso = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    append_index_jsonl(info, summary_meta, now_iso, now_iso)
     meta = {
         "id": info.get('id'),
         "title": info.get('title'),
@@ -428,8 +712,11 @@ def ingest(url: str):
         "upload_date": info.get('upload_date'),
         "description": info.get('description'),
         "classifications": classification,
+        "roi_label": summary_meta.get("roi_label"),
+        "relevance_label": summary_meta.get("relevance_label"),
+        "should": summary_meta.get("should"),
         "skill_candidate": bool(skill_flag),
-        "updated_at": datetime.now(timezone.utc).isoformat(),
+        "updated_at": now_iso,
     }
     (target / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Ingested {vid}")
