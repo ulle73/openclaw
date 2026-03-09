@@ -64,5 +64,23 @@ updates and how to use them.
 - strategy
 - automation idea
 
+## Topic Tags
+- notebooklm
+- nano-banana-2
+- openclaw
+- ai-video-generation
+- workflow-automation
+- seo-content
+- seo-distribution
+- agent-flow
+- agent-automation
+
+## Similar Videos
+- obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | shared: nano-banana-2, notebooklm, ai-video-generation, seo-content, workflow-automation
+- Wxf9oqxODU0 | Claude Code just became UNSTOPPABLE (Skills 2.0) | shared: nano-banana-2, notebooklm, agent-automation, ai-video-generation, seo-content, workflow-automation
+- ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: nano-banana-2, openclaw, workflow-automation
+- C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: openclaw, agent-automation, agent-flow, workflow-automation
+- esuPIJeRotI | This Openclaw Trick Makes Single Agents Obsolete | shared: openclaw, agent-automation, workflow-automation
+
 ## Classification
 tutorial, tool demo, feature breakdown, strategy, automation idea

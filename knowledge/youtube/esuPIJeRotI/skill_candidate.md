@@ -11,10 +11,10 @@
 2. Collect prompts/data references
 3. Build a repeatable assistant flow
 - Existing related videos:
-  - ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: openclaw, prompt engineering, prompt-design, tool demo, workflow-automation | cluster match: no
-  - C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: openclaw, agent-automation, onboarding-training, prompt-design, workflow-automation | cluster match: no
-  - xAw3IZgX7Tc | Build Anything with Qwen's NEW Model's! | shared: onboarding-training, prompt engineering, prompt-design, technical guide, tool demo, workflow-automation | cluster match: no
-  - pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: marketing-explainers, onboarding-training, prompt engineering, prompt-design, tool demo, workflow-automation | cluster match: no
+  - C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: openclaw, agent-automation, agent-flow, onboarding-training, product-opportunity, prompt-design | cluster match: no
+  - 9T1yWEq5kP0 | SaaS is minting millionaires again (here's how) | shared: openclaw, agent-flow, onboarding-training, workflow-automation | cluster match: no
+  - 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | shared: openclaw, agent-automation, agent-flow, workflow-automation | cluster match: no
   - YnzsnqsrqXs | OpenClaw + Star Office is INSANE! | shared: openclaw, onboarding-training, workflow-automation | cluster match: no
+  - ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: openclaw, prompt-design, workflow-automation | cluster match: no
 - Question:
   Vill du att denna skill byggs nu?

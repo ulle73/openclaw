@@ -48,9 +48,6 @@ prompt dashboard, claude AI skills, and
 also connecting cloud as well.
 - You
 got rules and you've got workflows.
-- Do
-you want the skill to actually build an
-N10 workflow?
 
 ## Step-by-step Guides
 - And you'll also get access to these
@@ -58,8 +55,6 @@ guides for shortcuts, starter pack, nine
 cloud code workflows, an executive
 prompt dashboard, claude AI skills, and
 also connecting cloud as well.
-- So creating an invoice
-in our brand guidelines, right?
 
 ## Strategic Insights
 - Claude Code is the most powerful coding
@@ -80,14 +75,6 @@ your Claude subscription.
 ## Automation Opportunities
 - And now I run a profitable AI automation
 business using Claude Code.
-- Effectively what they led us to do is
-create something that is excellent and
-automate any task that we find ourselves
-doing more than once.
-- So, the idea here is
-that you build the skills for everything
-that you want to automate in your
-business.
 
 ## Relevance for Jonas
 I use Claude every
@@ -95,7 +82,6 @@ single day in my business.
 
 ## Related Concepts / Videos
 - tutorial
-- tool demo
 - feature breakdown
 - strategy
 - workflow
@@ -103,5 +89,25 @@ single day in my business.
 - business idea
 - prompt engineering
 
+## Topic Tags
+- antigravity
+- mcp
+- workflow-automation
+- prompt-design
+- business-idea
+- business-opportunity
+- agent-flow
+- agent-automation
+- product-opportunity
+- api
+- api-integration
+
+## Similar Videos
+- s2HalzQZ1MQ | NEW Claude Code Update is INSANE! | shared: mcp, prompt-design, workflow-automation
+- wX_neSx7-Ls | How to Make Claude Code 100X Better in 1 Click! | shared: workflow-automation
+- C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: antigravity, agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity
+- 9T1yWEq5kP0 | SaaS is minting millionaires again (here's how) | shared: mcp, agent-flow, business-idea, business-opportunity, workflow-automation
+- -hYE5U6FGk8 | AntiGravity just became UNSTOPPABLE (GravityClaw) | shared: antigravity, agent-automation, agent-flow, workflow-automation
+
 ## Classification
-tutorial, tool demo, feature breakdown, strategy, workflow, automation idea, business idea, prompt engineering
+tutorial, feature breakdown, strategy, workflow, automation idea, business idea, prompt engineering

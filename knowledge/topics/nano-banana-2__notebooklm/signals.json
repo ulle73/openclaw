@@ -1,0 +1,146 @@
+{
+  "clusterKey": "nano-banana-2__notebooklm",
+  "label": "notebooklm och nano banana 2",
+  "entity_tags": [
+    "notebooklm",
+    "nano-banana-2",
+    "openclaw",
+    "claude",
+    "gemini"
+  ],
+  "topic_tags": [
+    "notebooklm",
+    "nano-banana-2",
+    "openclaw",
+    "ai-video-generation",
+    "workflow-automation",
+    "seo-content",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "content-repurposing",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "business_idea",
+    "product_opportunity"
+  ],
+  "videoIds": [
+    "99EoVMtEA2A",
+    "obIeqXJH3d4"
+  ],
+  "count": 2,
+  "avg_roi_score": 7.5,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 48,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 26,
+      "shared_signals": [
+        "seo-content",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 26,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 24,
+      "shared_signals": [
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera notebooklm och nano banana 2 i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Temat overlappar med Coastworks via seo-content och automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt notebooklm och nano banana 2",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for notebooklm och nano banana 2",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "99EoVMtEA2A",
+      "title": "New FREE Google AI Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "medium",
+      "relevance_label": "high",
+      "tldr": [
+        "Videon visar hur FREE Google AI Updates kan förvandla dokument och annat källmaterial till färdiga videor med AI-visuals och voiceover utan traditionell produktion.",
+        "Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen.",
+        "Workflowet är tydligt: generera en video overview och välja visuell stil."
+      ]
+    },
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Videon visar hur Nano Banana 2 + NoteBookLM kan förvandla dokument och annat källmaterial till färdiga videor med AI-visuals och voiceover utan traditionell produktion.",
+        "Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen.",
+        "Workflowet är tydligt: ladda upp källmaterial, generera en video overview, välja visuell stil, sätta en tydlig fokusprompt och exportera och publicera."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/nano-banana-2__notebooklm/overview.md",
+    "signals": "knowledge/topics/nano-banana-2__notebooklm/signals.json",
+    "decision": "knowledge/topics/nano-banana-2__notebooklm/decision.md",
+    "opportunity": "knowledge/topics/nano-banana-2__notebooklm/opportunity.md"
+  }
+}

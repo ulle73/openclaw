@@ -4,74 +4,63 @@
 NEW ChatGPT 5.4 Update is INSANE! 🤯
 
 ## Core Idea
-Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about
+Want to make money and save time with AI?
 
 ## Features & Highlights
-- Now, let me talk about
-something that a lot of people are
-sleeping on, the spreadsheet and
-document features.
+- 00:00 - Intro: GPT 5.4 is Here
+00:39 - 1 Million Token Context Window
+01:34 - New "Computer Use" Feature
+02:14 - Advanced Coding & App Building
+02:49 - Spreadsheet & Excel Integration
+03:57 - Solving AI Hallucinations
+04:34 - 4 Mind-Blowing Use Cases
+06:18 - How to Get Access
 
 ## Tools Mentioned
-- This thing can
-read entire books, control your
-computer, and build full apps for you.
-- This is happening right now.
-- GPT 5.4 for
-basically merged their best reasoning
-with their best coding tools.
+- 00:00 - Intro: GPT 5.4 is Here
+00:39 - 1 Million Token Context Window
+01:34 - New "Computer Use" Feature
+02:14 - Advanced Coding & App Building
+02:49 - Spreadsheet & Excel Integration
+03:57 - Solving AI Hallucinations
+04:34 - 4 Mind-Blowing Use Cases
+06:18 - How to Get Access
 
 ## Workflows
-- Now, if you want to take
-things even further with AI tools like
-chat GPT, GPT 5.4, and you want to learn
-how to actually use this stuff to scale
-your business, get more customers, and
-automate your workflows, check out the
-AI profit boardroom.
-- We've got
-step-by-step processes, live sessions,
-and a community of people who are
-already doing this every single day.
-- It's doing multi-step
-workflows without you having to hold its
-hand every step of the way.
-
-## Step-by-step Guides
-- We share new use
-cases, breakdowns, and tutorials every
-single week, so you never fall behind on
-what's new.
-
-## Strategic Insights
-- Use case one, full business plans.
-- You
-tell GPT 5.4, Four, create a full
-startup business plan with market
-research, growth projections, and a
-marketing strategy.
-- And it builds the
-whole thing, not some halfbaked outline,
-a real detailed plan.
+- OpenAI just released GPT 5.4, a massive leap forward that allows AI to control your computer and process 1 million tokens of data.
 
 ## Automation Opportunities
-- Open AAI
-tested it on some really hard benchmarks
-for tool use and automation, and it
-crushed them.
+- Discover how this update transforms coding, spreadsheets, and business automation into a seamless experience.
 
 ## Relevance for Jonas
-Beskriver varfor det har kan vara relevant for nuvarande spar.
+Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about
+
+Get a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about
+
+Want to know how I make videos like these?
 
 ## Related Concepts / Videos
 - tutorial
-- tool demo
 - feature breakdown
-- strategy
 - workflow
 - automation idea
 - business idea
-- prompt engineering
+
+## Topic Tags
+- workflow-automation
+- business-idea
+- business-opportunity
+- seo-distribution
+- seo-content
+- agent-flow
+- agent-automation
+
+## Similar Videos
+- iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: agent-automation, agent-flow, business-idea, business-opportunity, seo-content, seo-distribution
+- FXfAnWMxQao | New Claude Code Scheduled Tasks Update! | shared: agent-automation, agent-flow, business-idea, business-opportunity, seo-content, seo-distribution
+- 9T1yWEq5kP0 | SaaS is minting millionaires again (here's how) | shared: agent-flow, business-idea, business-opportunity, seo-content, seo-distribution, workflow-automation
+- ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: agent-automation, agent-flow, business-idea, business-opportunity, workflow-automation
+- DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: agent-automation, agent-flow, business-idea, business-opportunity, workflow-automation
 
 ## Classification
-tutorial, tool demo, feature breakdown, strategy, workflow, automation idea, business idea, prompt engineering
+tutorial, feature breakdown, workflow, automation idea, business idea

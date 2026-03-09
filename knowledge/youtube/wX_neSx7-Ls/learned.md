@@ -4,77 +4,46 @@
 How to Make Claude Code 100X Better in 1 Click!
 
 ## Core Idea
-Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about
+Want to make money and save time with AI?
 
-## Tools Mentioned
-- Checking
-the code, seeing what the skill says, uh
-making sure it's secure, running it
-through Claude, um checking that you're
-happy with it before installing
-anything.
-- So, Claude Code
-is a tool made by Anthropic, the company
-behind Claude.
-- Claude Code
-templates is like an app store of free
-apps you can instantly install on that
-phone.
+## Features & Highlights
+- 00:00 - Introduction to Claude Code Templates
+01:05 - Installing Skills & Security Tips
+01:54 - Setting Up the Visual Dashboard
+02:41 - Exploring Agents & Analytics
+04:22 - Claude Code vs.
 
 ## Workflows
-- So, if you
-want to run the actual visual agent
-teams workflow, which you can see right
-here, this tweet from Daniel Sam, then
-what we're going to do is take this
-prompt like so.
-- So
-it's beginning to build out
-the agent teams workflow.
+- This guide covers installing specialized AI agents, setting up visual workflows, and automating scheduled tasks to maximize your coding productivity.
 
 ## Step-by-step Guides
-- And every day we update this
-community with new guides, new
-templates, new tutorials, and new
-videos.
-- And
-then also inside the SOP update section,
-you can see here that this is where we
-drop the new guides daily.
-- So everything
-that comes out, we look at all of it and
-we're like, "Right, okay, this is the
-best thing to focus on right now." And
-we create a new guide for it.
-
-## Strategic Insights
-- So, like the product strategist,
-content marketer, business analyst, etc.
-
-## Automation Opportunities
-- And you basically go from
-like claw code with no setup to claw
-code with a team of full AI specialists
-and automations in literally seconds.
-- As you can see, now this is my
-AI automation community, the AR
-profitable boardroom.
-- It shows you how
-to save time, scale, and grow with
-automation.
+- This guide covers installing specialized AI agents, setting up visual workflows, and automating scheduled tasks to maximize your coding productivity.
 
 ## Relevance for Jonas
-Beskriver varfor det har kan vara relevant for nuvarande spar.
+Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about
+
+Get a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about
+
+Want to know how I make videos like these?
 
 ## Related Concepts / Videos
 - tutorial
-- tool demo
-- strategy
 - workflow
-- automation idea
-- business idea
-- prompt engineering
-- technical guide
+
+## Topic Tags
+- workflow-automation
+- seo-distribution
+- seo-content
+- agent-flow
+- agent-automation
+- product-opportunity
+
+## Similar Videos
+- s2HalzQZ1MQ | NEW Claude Code Update is INSANE! | shared: agent-automation, agent-flow, product-opportunity, seo-content, seo-distribution, workflow-automation
+- DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: agent-automation, agent-flow, product-opportunity, workflow-automation
+- pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: agent-automation, agent-flow, product-opportunity, seo-content, seo-distribution, workflow-automation
+- jyVRbD6fqic | New OpenAI Codex Update is INSANE! | shared: agent-automation, agent-flow, product-opportunity, seo-content, seo-distribution, workflow-automation
+- iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: agent-automation, agent-flow, seo-content, seo-distribution, workflow-automation
 
 ## Classification
-tutorial, tool demo, strategy, workflow, automation idea, business idea, prompt engineering, technical guide
+tutorial, workflow

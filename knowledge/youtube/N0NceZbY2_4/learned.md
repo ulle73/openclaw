@@ -43,5 +43,18 @@ All in one place — ⁠Plans of Grandeur Content Mastery⁠: https://buy.stripe
 - strategy
 - business idea
 
+## Topic Tags
+- selling-magnets
+- business-idea
+- business-opportunity
+- product-opportunity
+
+## Similar Videos
+- jyVRbD6fqic | New OpenAI Codex Update is INSANE! | shared: business-idea, business-opportunity, product-opportunity
+- iuQ_Y-qSz78 | The Most Overlooked $13K/Day Business Anyone Can Start | shared: business-idea, business-opportunity, product-opportunity
+- ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: business-idea, business-opportunity, product-opportunity
+- DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: business-idea, business-opportunity, product-opportunity
+- C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: business-idea, business-opportunity, product-opportunity
+
 ## Classification
 tool demo, strategy, business idea

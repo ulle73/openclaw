@@ -1,0 +1,113 @@
+{
+  "clusterKey": "000-hours__editing-tutorials__openclaw",
+  "label": "openclaw och 000 hours",
+  "entity_tags": [
+    "openclaw",
+    "000-hours",
+    "editing-tutorials",
+    "claude"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "000-hours",
+    "editing-tutorials",
+    "prompt-design",
+    "agent-flow",
+    "agent-automation",
+    "api",
+    "api-integration"
+  ],
+  "categories": [
+    "tool",
+    "agent_flow",
+    "api"
+  ],
+  "videoIds": [
+    "Yt6imPC1FhA"
+  ],
+  "count": 1,
+  "avg_roi_score": 6.0,
+  "avg_relevance_score": 6.0,
+  "opportunity_score": 39,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 24,
+      "shared_signals": [
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "score": 15,
+      "shared_signals": [],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 11,
+      "shared_signals": [],
+      "projectRole": "offer",
+      "projectPriority": 10
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera openclaw och 000 hours i Gravity Claw",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "medel",
+      "why": "Temat overlappar med Gravity Claw via openclaw, knowledge-systems och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt openclaw och 000 hours",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for openclaw och 000 hours",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "Yt6imPC1FhA",
+      "title": "OpenClaw Just Replaced 1,000 Hours of Video Editing Tutorials",
+      "channel": "Riley Brown",
+      "roi_label": "medium",
+      "relevance_label": "medium",
+      "tldr": [
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "This is going to be a 45se secondond video generating useful dashboards and a financial analyst tool."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/000-hours__editing-tutorials__openclaw/overview.md",
+    "signals": "knowledge/topics/000-hours__editing-tutorials__openclaw/signals.json",
+    "decision": "knowledge/topics/000-hours__editing-tutorials__openclaw/decision.md",
+    "opportunity": "knowledge/topics/000-hours__editing-tutorials__openclaw/opportunity.md"
+  }
+}

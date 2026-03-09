@@ -11,10 +11,10 @@
 2. Collect prompts/data references
 3. Build a repeatable assistant flow
 - Existing related videos:
-  - iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: automation idea, business idea, marketing-explainers, onboarding-training, prompt-design, seo-content | cluster match: no
-  - xAw3IZgX7Tc | Build Anything with Qwen's NEW Model's! | shared: automation idea, business idea, onboarding-training, prompt engineering, prompt-design, seo-content | cluster match: no
-  - DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: automation idea, business idea, prompt engineering, prompt-design, strategy, tool demo | cluster match: no
-  - wX_neSx7-Ls | How to Make Claude Code 100X Better in 1 Click! | shared: automation idea, business idea, prompt engineering, strategy, tool demo, workflow-automation | cluster match: no
-  - s2HalzQZ1MQ | NEW Claude Code Update is INSANE! | shared: automation idea, business idea, prompt engineering, prompt-design, tool demo, workflow-automation | cluster match: no
+  - iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: agent-automation, agent-flow, business-idea, business-opportunity, marketing-explainers, onboarding-training | cluster match: no
+  - jyVRbD6fqic | New OpenAI Codex Update is INSANE! | shared: agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity, seo-content | cluster match: no
+  - C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: agent-automation, agent-flow, business-idea, business-opportunity, onboarding-training, product-opportunity | cluster match: no
+  - obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | shared: business-idea, business-opportunity, marketing-explainers, onboarding-training, prompt-design, seo-content | cluster match: no
+  - esuPIJeRotI | This Openclaw Trick Makes Single Agents Obsolete | shared: agent-automation, agent-flow, marketing-explainers, onboarding-training, product-opportunity, prompt-design | cluster match: no
 - Question:
   Vill du att denna skill byggs nu?

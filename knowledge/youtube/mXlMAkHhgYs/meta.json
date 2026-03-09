@@ -5,13 +5,20 @@
   "upload_date": "20260308",
   "description": "FREE Access ALL prompts from the video for stunning animated heros in one click: https://motionsites.ai/\n\nAccess temapltes & exclusive tutorials and course: http://designrocket.io\n\n00:00 — Find the Inspiration\n02:16 — Build the Hero Section\n04:33 — Generate the Full Landing Page\n06:49 — Add GIFs and Background Videos\n09:06 — Build the About Us Page\n11:22 — Upgrade the Copywriting\n13:39 — Post It on Twitter\n\nTwitter -  https://x.com/viktoroddy\nThreads - https://www.threads.com/@viktoroddy\nTelegram- https://t.me/webdesign_project",
   "classifications": [
-    "tutorial",
-    "tool demo",
-    "feature breakdown",
-    "prompt engineering"
+    "tool",
+    "workflow"
   ],
+  "roi_label": "medium",
+  "relevance_label": "medium",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": false,
+    "system_improvement": true,
+    "app": false,
+    "product": false
+  },
   "skill_candidate": true,
-  "updated_at": "2026-03-08T15:52:00.394395+00:00",
   "entity_tags": [
     "gemini",
     "web-design",
@@ -22,36 +29,17 @@
     "nano-banana-2",
     "workflow-automation",
     "marketing-explainers",
-    "prompt-design",
-    "tool demo",
-    "feature breakdown",
-    "prompt engineering"
+    "prompt-design"
   ],
   "topic_cluster_key": "gemini__web-design",
   "related_video_ids": [
-    "ISb0nrlNoKQ",
     "obIeqXJH3d4",
+    "ISb0nrlNoKQ",
+    "Wxf9oqxODU0",
     "99EoVMtEA2A",
-    "pSQE1SsGfSQ",
-    "iBVMutY4Ot0"
+    "pSQE1SsGfSQ"
   ],
   "related_videos": [
-    {
-      "videoId": "ISb0nrlNoKQ",
-      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
-      "channel": "Riley Brown",
-      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
-      "topic_cluster_key": "openclaw__specialized-agents",
-      "shared_tags": [
-        "nano-banana-2",
-        "prompt engineering",
-        "prompt-design",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 8
-    },
     {
       "videoId": "obIeqXJH3d4",
       "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
@@ -68,6 +56,33 @@
       "score": 7
     },
     {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "nano-banana-2",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "Wxf9oqxODU0",
+      "title": "Claude Code just became UNSTOPPABLE (Skills 2.0)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/Wxf9oqxODU0/summary.md",
+      "topic_cluster_key": "claude__skills-2__unstoppable",
+      "shared_tags": [
+        "nano-banana-2",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 5
+    },
+    {
       "videoId": "99EoVMtEA2A",
       "title": "New FREE Google AI Updates are INSANE!",
       "channel": "Julian Goldie SEO",
@@ -75,12 +90,10 @@
       "topic_cluster_key": "nano-banana-2__notebooklm",
       "shared_tags": [
         "nano-banana-2",
-        "feature breakdown",
-        "tool demo",
         "workflow-automation"
       ],
       "cluster_match": false,
-      "score": 7
+      "score": 5
     },
     {
       "videoId": "pSQE1SsGfSQ",
@@ -90,29 +103,11 @@
       "topic_cluster_key": "devin-2",
       "shared_tags": [
         "marketing-explainers",
-        "prompt engineering",
         "prompt-design",
-        "tool demo",
         "workflow-automation"
       ],
       "cluster_match": false,
-      "score": 5
-    },
-    {
-      "videoId": "iBVMutY4Ot0",
-      "title": "NEW Perplexity Computer Updates are INSANE!",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
-      "topic_cluster_key": "perplexity-computer",
-      "shared_tags": [
-        "feature breakdown",
-        "marketing-explainers",
-        "prompt-design",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 5
+      "score": 3
     }
   ],
   "skill_recommendation": {
@@ -121,11 +116,12 @@
     "duplicate_risk": "medium",
     "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
     "related_video_ids": [
-      "ISb0nrlNoKQ",
       "obIeqXJH3d4",
+      "ISb0nrlNoKQ",
+      "Wxf9oqxODU0",
       "99EoVMtEA2A",
-      "pSQE1SsGfSQ",
-      "iBVMutY4Ot0"
+      "pSQE1SsGfSQ"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

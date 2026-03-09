@@ -24,7 +24,6 @@
     "product": true
   },
   "skill_candidate": true,
-  "updated_at": "2026-03-09T00:29:57Z",
   "entity_tags": [
     "openclaw",
     "antigravity"
@@ -46,10 +45,10 @@
   "topic_cluster_key": "antigravity__openclaw",
   "related_video_ids": [
     "esuPIJeRotI",
+    "99EoVMtEA2A",
     "-hYE5U6FGk8",
     "obIeqXJH3d4",
-    "YnzsnqsrqXs",
-    "ISb0nrlNoKQ"
+    "YnzsnqsrqXs"
   ],
   "related_videos": [
     {
@@ -67,6 +66,21 @@
       ],
       "cluster_match": false,
       "score": 8
+    },
+    {
+      "videoId": "99EoVMtEA2A",
+      "title": "New FREE Google AI Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/99EoVMtEA2A/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 7
     },
     {
       "videoId": "-hYE5U6FGk8",
@@ -113,20 +127,6 @@
       ],
       "cluster_match": false,
       "score": 6
-    },
-    {
-      "videoId": "ISb0nrlNoKQ",
-      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
-      "channel": "Riley Brown",
-      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
-      "topic_cluster_key": "openclaw__specialized-agents",
-      "shared_tags": [
-        "openclaw",
-        "prompt-design",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 6
     }
   ],
   "skill_recommendation": {
@@ -136,10 +136,11 @@
     "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
     "related_video_ids": [
       "esuPIJeRotI",
+      "99EoVMtEA2A",
       "-hYE5U6FGk8",
       "obIeqXJH3d4",
-      "YnzsnqsrqXs",
-      "ISb0nrlNoKQ"
+      "YnzsnqsrqXs"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

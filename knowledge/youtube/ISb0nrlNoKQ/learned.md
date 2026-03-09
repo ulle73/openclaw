@@ -61,12 +61,32 @@ have very narrow AI agents that operate
 in a team.
 
 ## Related Concepts / Videos
-- tutorial
 - tool demo
 - strategy
 - workflow
 - business idea
 - prompt engineering
 
+## Topic Tags
+- openclaw
+- specialized-agents
+- nano-banana-2
+- telegram
+- workflow-automation
+- prompt-design
+- business-idea
+- business-opportunity
+- agent-flow
+- agent-automation
+- product-opportunity
+- api
+
+## Similar Videos
+- C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: openclaw, agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity
+- 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | shared: nano-banana-2, openclaw, agent-automation, agent-flow, workflow-automation
+- esuPIJeRotI | This Openclaw Trick Makes Single Agents Obsolete | shared: openclaw, agent-automation, agent-flow, product-opportunity, prompt-design, workflow-automation
+- obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | shared: nano-banana-2, business-idea, business-opportunity, prompt-design, workflow-automation
+- DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: agent-automation, agent-flow, api, business-idea, business-opportunity, product-opportunity
+
 ## Classification
-tutorial, tool demo, strategy, workflow, business idea, prompt engineering
+tool demo, strategy, workflow, business idea, prompt engineering

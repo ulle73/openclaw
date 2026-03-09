@@ -5,11 +5,24 @@
   "upload_date": "20260307",
   "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nStar Office UI: The Best Way to Visualize OpenClaw AI Agents\n\nDiscover Star Office UI, a viral pixel-art interface that lets you watch your OpenClaw agents work in real-time within a retro virtual office. Learn how to set up this engaging dashboard and optimize your AI workflow with easy-to-follow steps.\n\n00:00 - Intro to Star Office UI\n00:23 - The Pixel Art Concept\n00:41 - Real-Time Features & Customization\n01:11 - Compatibility & Use Cases\n01:33 - Installation Guide & Resources",
   "classifications": [
-    "tutorial",
-    "business idea"
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
   ],
-  "skill_candidate": false,
-  "updated_at": "2026-03-07T23:36:54.362743+00:00",
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
   "entity_tags": [
     "openclaw",
     "star-office"
@@ -19,44 +32,38 @@
     "star-office",
     "workflow-automation",
     "onboarding-training",
-    "business idea"
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
   ],
   "topic_cluster_key": "openclaw__star-office",
   "related_video_ids": [
-    "esuPIJeRotI",
-    "ISb0nrlNoKQ",
+    "9T1yWEq5kP0",
     "C4fTWiOGXpM",
+    "ISb0nrlNoKQ",
     "99EoVMtEA2A",
     "xAw3IZgX7Tc"
   ],
   "related_videos": [
     {
-      "videoId": "esuPIJeRotI",
-      "title": "This Openclaw Trick Makes Single Agents Obsolete",
-      "channel": "Openclaw Labs",
-      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
-      "topic_cluster_key": "openclaw__single-agents",
+      "videoId": "9T1yWEq5kP0",
+      "title": "SaaS is minting millionaires again (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/9T1yWEq5kP0/summary.md",
+      "topic_cluster_key": "saas",
       "shared_tags": [
         "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
         "onboarding-training",
-        "workflow-automation"
+        "seo-content"
       ],
       "cluster_match": false,
-      "score": 6
-    },
-    {
-      "videoId": "ISb0nrlNoKQ",
-      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
-      "channel": "Riley Brown",
-      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
-      "topic_cluster_key": "openclaw__specialized-agents",
-      "shared_tags": [
-        "openclaw",
-        "business idea",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 6
+      "score": 11
     },
     {
       "videoId": "C4fTWiOGXpM",
@@ -66,11 +73,31 @@
       "topic_cluster_key": "antigravity__openclaw",
       "shared_tags": [
         "openclaw",
-        "onboarding-training",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
         "workflow-automation"
       ],
       "cluster_match": false,
-      "score": 6
+      "score": 9
     },
     {
       "videoId": "99EoVMtEA2A",
@@ -80,10 +107,14 @@
       "topic_cluster_key": "nano-banana-2__notebooklm",
       "shared_tags": [
         "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "seo-content",
+        "seo-distribution",
         "workflow-automation"
       ],
       "cluster_match": false,
-      "score": 5
+      "score": 9
     },
     {
       "videoId": "xAw3IZgX7Tc",
@@ -92,25 +123,29 @@
       "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
       "topic_cluster_key": "model",
       "shared_tags": [
-        "business idea",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
         "onboarding-training",
-        "workflow-automation"
+        "seo-content"
       ],
       "cluster_match": false,
-      "score": 3
+      "score": 8
     }
   ],
   "skill_recommendation": {
-    "should_create": false,
-    "mode": "watch",
+    "should_create": true,
+    "mode": "synthesize_cluster",
     "duplicate_risk": "medium",
-    "reason": "Temat ar inte tillrackligt starkt som skill just nu.",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
     "related_video_ids": [
-      "esuPIJeRotI",
-      "ISb0nrlNoKQ",
+      "9T1yWEq5kP0",
       "C4fTWiOGXpM",
+      "ISb0nrlNoKQ",
       "99EoVMtEA2A",
       "xAw3IZgX7Tc"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

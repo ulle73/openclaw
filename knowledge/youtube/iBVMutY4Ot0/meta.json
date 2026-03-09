@@ -5,17 +5,24 @@
   "upload_date": "20260308",
   "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nPerplexity Computer Massive Updates: 5 Features That Change Everything\n\nDiscover how Perplexity AI is evolving from a search engine into a full AI operating system with its latest groundbreaking updates. We break down the new custom skills, coding sub-agents, and the power of GPT 5.4 to help you automate your entire workflow.\n\n00:00 - Intro: The Perplexity Revolution\n00:29 - What is Perplexity Computer?\n01:19 - Update 1: Custom AI Skills\n02:50 - Update 2: Model Council Consensus\n04:09 - Update 3: Conversational Voice Mode\n05:00 - Update 4: The New Coding Sub-agent\n06:08 - Update 5: GPT 5.4 Reasoning\n07:01 - The Future: AI Operating Systems",
   "classifications": [
-    "tutorial",
-    "tool demo",
-    "feature breakdown",
-    "strategy",
+    "tool",
     "workflow",
-    "automation idea",
-    "business idea",
-    "prompt engineering"
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
   ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
   "skill_candidate": true,
-  "updated_at": "2026-03-08T21:30:05.567314+00:00",
   "entity_tags": [
     "perplexity-computer",
     "claude",
@@ -29,72 +36,21 @@
     "marketing-explainers",
     "seo-content",
     "prompt-design",
-    "tool demo",
-    "feature breakdown",
-    "strategy",
-    "automation idea",
-    "business idea"
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
   ],
   "topic_cluster_key": "perplexity-computer",
   "related_video_ids": [
-    "pSQE1SsGfSQ",
-    "xAw3IZgX7Tc",
-    "DSKO9ZtbHFA",
     "obIeqXJH3d4",
-    "IWKOcumdMUE"
+    "C4fTWiOGXpM",
+    "FXfAnWMxQao",
+    "9T1yWEq5kP0",
+    "esuPIJeRotI"
   ],
   "related_videos": [
-    {
-      "videoId": "pSQE1SsGfSQ",
-      "title": "Build Anything with Devin 2.2! 🤯",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
-      "topic_cluster_key": "devin-2",
-      "shared_tags": [
-        "automation idea",
-        "business idea",
-        "marketing-explainers",
-        "onboarding-training",
-        "prompt-design",
-        "seo-content"
-      ],
-      "cluster_match": false,
-      "score": 9
-    },
-    {
-      "videoId": "xAw3IZgX7Tc",
-      "title": "Build Anything with Qwen's NEW Model's!",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
-      "topic_cluster_key": "model",
-      "shared_tags": [
-        "automation idea",
-        "business idea",
-        "onboarding-training",
-        "prompt-design",
-        "seo-content",
-        "tool demo"
-      ],
-      "cluster_match": false,
-      "score": 7
-    },
-    {
-      "videoId": "DSKO9ZtbHFA",
-      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
-      "channel": "Jack Roberts",
-      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
-      "topic_cluster_key": "claude",
-      "shared_tags": [
-        "automation idea",
-        "business idea",
-        "feature breakdown",
-        "prompt-design",
-        "strategy",
-        "tool demo"
-      ],
-      "cluster_match": false,
-      "score": 7
-    },
     {
       "videoId": "obIeqXJH3d4",
       "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
@@ -102,28 +58,79 @@
       "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
       "topic_cluster_key": "nano-banana-2__notebooklm",
       "shared_tags": [
+        "business-idea",
+        "business-opportunity",
         "knowledge-management",
         "marketing-explainers",
         "onboarding-training",
-        "prompt-design",
-        "seo-content",
-        "workflow-automation"
+        "prompt-design"
       ],
       "cluster_match": false,
-      "score": 6
+      "score": 8
     },
     {
-      "videoId": "IWKOcumdMUE",
-      "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/IWKOcumdMUE/summary.md",
-      "topic_cluster_key": "chatgpt",
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
       "shared_tags": [
-        "automation idea",
-        "business idea",
-        "feature breakdown",
-        "strategy",
-        "tool demo",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "FXfAnWMxQao",
+      "title": "New Claude Code Scheduled Tasks Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/FXfAnWMxQao/summary.md",
+      "topic_cluster_key": "claude__scheduled-tasks",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "9T1yWEq5kP0",
+      "title": "SaaS is minting millionaires again (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/9T1yWEq5kP0/summary.md",
+      "topic_cluster_key": "saas",
+      "shared_tags": [
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "esuPIJeRotI",
+      "title": "This Openclaw Trick Makes Single Agents Obsolete",
+      "channel": "Openclaw Labs",
+      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
+      "topic_cluster_key": "openclaw__single-agents",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design",
         "workflow-automation"
       ],
       "cluster_match": false,
@@ -136,11 +143,12 @@
     "duplicate_risk": "medium",
     "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
     "related_video_ids": [
-      "pSQE1SsGfSQ",
-      "xAw3IZgX7Tc",
-      "DSKO9ZtbHFA",
       "obIeqXJH3d4",
-      "IWKOcumdMUE"
+      "C4fTWiOGXpM",
+      "FXfAnWMxQao",
+      "9T1yWEq5kP0",
+      "esuPIJeRotI"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

@@ -1,0 +1,110 @@
+{
+  "clusterKey": "antigravity__gravityclaw__unstoppable",
+  "label": "antigravity och unstoppable",
+  "entity_tags": [
+    "antigravity",
+    "unstoppable",
+    "gravityclaw"
+  ],
+  "topic_tags": [
+    "antigravity",
+    "unstoppable",
+    "gravityclaw",
+    "workflow-automation",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "agent_flow"
+  ],
+  "videoIds": [
+    "-hYE5U6FGk8"
+  ],
+  "count": 1,
+  "avg_roi_score": 6.0,
+  "avg_relevance_score": 6.0,
+  "opportunity_score": 43,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 27,
+      "shared_signals": [
+        "gravityclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "score": 15,
+      "shared_signals": [],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 11,
+      "shared_signals": [],
+      "projectRole": "offer",
+      "projectPriority": 10
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera antigravity och unstoppable i Gravity Claw",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Temat overlappar med Gravity Claw via gravityclaw, knowledge-systems och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt antigravity och unstoppable",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for antigravity och unstoppable",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "-hYE5U6FGk8",
+      "title": "AntiGravity just became UNSTOPPABLE (GravityClaw)",
+      "channel": "Jack Roberts",
+      "roi_label": "medium",
+      "relevance_label": "medium",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "📈 ALL Systems: https://bit.ly/4kol0y5 💎 Agentic Voice: https://glaido.com 🤩 My Goofy pod: https://bit.ly/46nLQ3U FREE Resources 👉 https://bit.ly/4rrTgLX -- CORE Software 🧑‍💻 Hosting: https://bit.ly/3N7zV3F 🎤 Eleven Labs: elevenlabs.io/?from=partnermiller7651 💎 Work with me: https://scalewithteddy.com/ 🤖 Claude - https://claude.ai/ 🛠️ Antigravity - https://antigravity.google/ 📂 OpenClaw - https://openclaw.ai/ 🦎 Maemo bot - https://t.me/maemo_bot 🏗️ Docker - https://www.docker.com/ 🟢 Node.js - https://nodejs.org/ ✈️ Telegram - https://telegram.org/ 👴 BotFather - https://t.me/botfather 📡 OpenRouter - https://openrouter.ai/ 🔍 User Info Bot - https://t.me/userinfobot 🌩️ Grok (xAI) - https://console.x.ai/ 💬 OpenAI - https://openai.com/ 📱 WhatsApp - https://whatsapp.com/ 🤖 Nanobot - https://github.com/HKUDS/nanobot Correction: the 11Labs summit was a few days ago (looked ace) you can check it out here: https://www.youtube.com/watch?v=JwK3uU-D_Nk ⌚️ Stamps: 00:00 Intro 00:44 What is gravityclaw 03:16 5 steps frame work 03:22 C 08:51 L 16:18 A 22:07 W 27:24 S"
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/antigravity__gravityclaw__unstoppable/overview.md",
+    "signals": "knowledge/topics/antigravity__gravityclaw__unstoppable/signals.json",
+    "decision": "knowledge/topics/antigravity__gravityclaw__unstoppable/decision.md",
+    "opportunity": "knowledge/topics/antigravity__gravityclaw__unstoppable/opportunity.md"
+  }
+}

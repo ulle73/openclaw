@@ -12,9 +12,9 @@
 3. Build a repeatable assistant flow
 - Existing related videos:
   - 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | shared: nano-banana-2, notebooklm, ai-video-generation, seo-content, workflow-automation | cluster match: yes
+  - Wxf9oqxODU0 | Claude Code just became UNSTOPPABLE (Skills 2.0) | shared: nano-banana-2, notebooklm, ai-video-generation, content-repurposing, knowledge-management, onboarding-training | cluster match: no
+  - iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: business-idea, business-opportunity, knowledge-management, marketing-explainers, onboarding-training, prompt-design | cluster match: no
+  - ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: nano-banana-2, business-idea, business-opportunity, prompt-design, workflow-automation | cluster match: no
   - mXlMAkHhgYs | Gemini 3.1 Just Changed Web Design Forever! (FULL PROCESS) | shared: nano-banana-2, marketing-explainers, prompt-design, workflow-automation | cluster match: no
-  - iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: knowledge-management, marketing-explainers, onboarding-training, prompt-design, seo-content, workflow-automation | cluster match: no
-  - ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: nano-banana-2, prompt-design, workflow-automation | cluster match: no
-  - C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: business-idea, business-opportunity, knowledge-management, onboarding-training, prompt-design, workflow-automation | cluster match: no
 - Question:
   Vill du att denna skill byggs nu?

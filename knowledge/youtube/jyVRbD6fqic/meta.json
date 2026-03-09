@@ -5,92 +5,67 @@
   "upload_date": "20260308",
   "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nOpenAI's New AI Security Engineer: Codex Security Explained\n\nOpenAI's new Codex Security agent is a game-changer that automatically identifies and patches critical vulnerabilities in your code. Discover how this AI security engineer works and why it is revolutionizing the entire software development lifecycle.\n\n00:00 - Intro: OpenAI Codex Security\n00:37 - The Crisis in Manual Bug Hunting\n01:04 - AI That Writes Its Own Patches\n01:48 - Mind-Blowing Research Stats\n02:31 - 5 Steps to Secure Your Code\n03:33 - The End of Traditional Security?\n05:46 - 4 Real-World Use Cases\n06:54 - How to Stay Ahead with AI",
   "classifications": [
-    "tutorial",
-    "tool demo",
+    "tool",
     "workflow",
-    "automation idea",
-    "business idea"
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
   ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
   "skill_candidate": true,
-  "updated_at": "2026-03-08T11:36:20.113026+00:00",
   "entity_tags": [
     "openai-codex"
   ],
   "topic_tags": [
     "openai-codex",
     "workflow-automation",
-    "tool demo",
-    "automation idea",
-    "business idea"
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api",
+    "api-integration"
   ],
   "topic_cluster_key": "openai-codex",
   "related_video_ids": [
-    "xAw3IZgX7Tc",
-    "wX_neSx7-Ls",
-    "s2HalzQZ1MQ",
-    "pSQE1SsGfSQ",
-    "iBVMutY4Ot0"
+    "DSKO9ZtbHFA",
+    "iBVMutY4Ot0",
+    "IWKOcumdMUE",
+    "ISb0nrlNoKQ",
+    "FXfAnWMxQao"
   ],
   "related_videos": [
     {
-      "videoId": "xAw3IZgX7Tc",
-      "title": "Build Anything with Qwen's NEW Model's!",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
-      "topic_cluster_key": "model",
-      "shared_tags": [
-        "automation idea",
-        "business idea",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 4
-    },
-    {
-      "videoId": "wX_neSx7-Ls",
-      "title": "How to Make Claude Code 100X Better in 1 Click!",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/wX_neSx7-Ls/summary.md",
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
       "topic_cluster_key": "claude",
       "shared_tags": [
-        "automation idea",
-        "business idea",
-        "tool demo",
-        "workflow-automation"
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
       ],
       "cluster_match": false,
-      "score": 4
-    },
-    {
-      "videoId": "s2HalzQZ1MQ",
-      "title": "NEW Claude Code Update is INSANE!",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
-      "topic_cluster_key": "claude",
-      "shared_tags": [
-        "automation idea",
-        "business idea",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 4
-    },
-    {
-      "videoId": "pSQE1SsGfSQ",
-      "title": "Build Anything with Devin 2.2! 🤯",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
-      "topic_cluster_key": "devin-2",
-      "shared_tags": [
-        "automation idea",
-        "business idea",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 4
+      "score": 8
     },
     {
       "videoId": "iBVMutY4Ot0",
@@ -99,13 +74,66 @@
       "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
       "topic_cluster_key": "perplexity-computer",
       "shared_tags": [
-        "automation idea",
-        "business idea",
-        "tool demo",
-        "workflow-automation"
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content",
+        "seo-distribution"
       ],
       "cluster_match": false,
-      "score": 4
+      "score": 7
+    },
+    {
+      "videoId": "IWKOcumdMUE",
+      "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/IWKOcumdMUE/summary.md",
+      "topic_cluster_key": "chatgpt",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "FXfAnWMxQao",
+      "title": "New Claude Code Scheduled Tasks Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/FXfAnWMxQao/summary.md",
+      "topic_cluster_key": "claude__scheduled-tasks",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 7
     }
   ],
   "skill_recommendation": {
@@ -114,11 +142,12 @@
     "duplicate_risk": "medium",
     "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
     "related_video_ids": [
-      "xAw3IZgX7Tc",
-      "wX_neSx7-Ls",
-      "s2HalzQZ1MQ",
-      "pSQE1SsGfSQ",
-      "iBVMutY4Ot0"
+      "DSKO9ZtbHFA",
+      "iBVMutY4Ot0",
+      "IWKOcumdMUE",
+      "ISb0nrlNoKQ",
+      "FXfAnWMxQao"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

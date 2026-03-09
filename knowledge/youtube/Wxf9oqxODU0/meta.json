@@ -1,0 +1,157 @@
+{
+  "id": "Wxf9oqxODU0",
+  "title": "Claude Code just became UNSTOPPABLE (Skills 2.0)",
+  "channel": "Jack Roberts",
+  "upload_date": "20260306",
+  "description": "📈 ALL Systems: https://bit.ly/4kol0y5\n🎁 FREE Resources: https://bit.ly/4bafNpJ\n🤩 My Goofy pod: https://bit.ly/46nLQ3U\n\n-*Video Overview*\nAnthropic just dropped Skills 2.0 and it's genuinely wild. Now you can build AI employees that actually work consistently and tell you when they're working. I'm showing you exactly how to set up five practical business skills that'll save you hours and make you money.\n\n*CORE Software*\n☁️ Claude: https://claude.ai/\n🌲 Pinecone: https://www.pinecone.io/\n🚀 AntiGravity: https://antigravity.google/\n\n⌚️ Stamps:\n00:00 What's new in Skills 2.0\n03:42 Set up Claude Skills Creator\n07:15 Skill 1: SEO optimisation\n12:30 Skill 2: Infographic generator\n18:45 Skill 3: Lead magnet creator\n22:10 Skill 4: RAG database builder\n26:35 Skill 5: Invoice generator\n28:15 Bonus: Competitive intelligence",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "automation",
+    "product_opportunity",
+    "mcp",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "unstoppable",
+    "skills-2",
+    "nano-banana-2",
+    "gemini",
+    "mcp"
+  ],
+  "topic_tags": [
+    "unstoppable",
+    "skills-2",
+    "nano-banana-2",
+    "mcp",
+    "ai-video-generation",
+    "workflow-automation",
+    "agent-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "seo-content",
+    "prompt-design",
+    "business-idea"
+  ],
+  "topic_cluster_key": "claude__skills-2__unstoppable",
+  "related_video_ids": [
+    "obIeqXJH3d4",
+    "s2HalzQZ1MQ",
+    "9T1yWEq5kP0",
+    "ISb0nrlNoKQ",
+    "DSKO9ZtbHFA"
+  ],
+  "related_videos": [
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "nano-banana-2",
+        "ai-video-generation",
+        "business-idea",
+        "knowledge-management",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "business-idea",
+        "prompt-design",
+        "seo-content",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "9T1yWEq5kP0",
+      "title": "SaaS is minting millionaires again (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/9T1yWEq5kP0/summary.md",
+      "topic_cluster_key": "saas",
+      "shared_tags": [
+        "mcp",
+        "ai-video-generation",
+        "business-idea",
+        "onboarding-training",
+        "seo-content",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "nano-banana-2",
+        "agent-automation",
+        "business-idea",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "business-idea",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "obIeqXJH3d4",
+      "s2HalzQZ1MQ",
+      "9T1yWEq5kP0",
+      "ISb0nrlNoKQ",
+      "DSKO9ZtbHFA"
+    ]
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
+}

@@ -1,0 +1,112 @@
+{
+  "clusterKey": "gemini__web-design",
+  "label": "gemini och web design",
+  "entity_tags": [
+    "gemini",
+    "web-design",
+    "nano-banana-2"
+  ],
+  "topic_tags": [
+    "web-design",
+    "nano-banana-2",
+    "workflow-automation",
+    "marketing-explainers",
+    "prompt-design"
+  ],
+  "categories": [
+    "tool",
+    "workflow"
+  ],
+  "videoIds": [
+    "mXlMAkHhgYs"
+  ],
+  "count": 1,
+  "avg_roi_score": 6.0,
+  "avg_relevance_score": 6.0,
+  "opportunity_score": 34,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 21,
+      "shared_signals": [
+        "seo-content"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 21,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 17,
+      "shared_signals": [
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera gemini och web design i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Temat overlappar med Coastworks via seo-content."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt gemini och web design",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for gemini och web design",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "mXlMAkHhgYs",
+      "title": "Gemini 3.1 Just Changed Web Design Forever! (FULL PROCESS)",
+      "channel": "Viktor Oddy",
+      "roi_label": "medium",
+      "relevance_label": "medium",
+      "tldr": [
+        "Workflowet är tydligt: välja visuell stil.",
+        "De starkaste use casen är marketing och explainers, vilket gör att samma upplägg kan användas både internt och externt.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/gemini__web-design/overview.md",
+    "signals": "knowledge/topics/gemini__web-design/signals.json",
+    "decision": "knowledge/topics/gemini__web-design/decision.md",
+    "opportunity": "knowledge/topics/gemini__web-design/opportunity.md"
+  }
+}

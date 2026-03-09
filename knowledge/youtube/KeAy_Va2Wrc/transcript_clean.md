@@ -1,0 +1,449 @@
+# Clean Transcript
+
+So today we're going to be testing out
+GPT 5.4 with open core. If you've never
+done this before, um basically there's a
+new update from open core that actually
+makes GPT 5.4 the native model if you
+connect chat GBT to open core. I
+actually set this up this morning and
+the update just came out a few hours
+ago. You can see for example we've asked
+what API you using and it says the
+session is running on open AI codeex GPT
+5.4 via open claw right and this is a
+powerful way to use this. Now,
+this is really interesting because GPT
+5.4 is not just like another model
+upgrade. It's one of the first AI that
+can literally control your computer like
+a human. And if you're wondering, okay,
+like why should you care? Well, imagine
+your AI assistant can actually do things
+on your computer for you. You not just
+talk to you, not just give you answers,
+but actually open apps, click buttons,
+fill out spreadsheets, browse the web,
+or complete full tasks all on its own.
+That's basically what GT5.4 can do. And
+when you combine it with open core, you
+now have a personal AI assistant that
+works across your gateway, WhatsApp,
+platforms powered by one of the smartest
+AI models ever released. Now, the other
+thing is well, if you're using for
+example uh Claude, well, Claude can get
+pretty expensive. Whereas, for example,
+with this, you can go um directly here.
+Now, before we get into this quickly,
+what is open claw? So, let's start from
+scratch. Openclaw is a free open source
+personal AI assistant you can install on
+your computer or server. Think of it
+like having your own private chat GPT,
+but way more powerful and personalized,
+right? So, it connects to all the
+messaging apps you use. You talk through
+it through those apps and it responds
+using AI. You can also browse the web,
+control a browser, run schedule C uh run
+scheduled tasks, manage files and use
+skills, right? And the key thing is you
+choose which AI brain powers it. You
+could use claude, you could use GPT,
+Gemini, Grock, etc. or even local models
+running on your machine. And that's
+where GPT 5.4 comes in. Now, if you're
+wondering what is GPT 5.4, GPT 5.4 is
+OpenAI's newest and most powerful AI
+model. It was released on March 5th in
+chat GPT, the API and codecs and it
+brings together the best of Open's
+recent advances in reasoning, coding and
+agent workflows into a single model.
+Now, there's been a lot of a lot of
+people saying that they didn't like for
+example GPT5 and those sort of models,
+but I would say GPT 5.4 is a lot better
+than previous versions of GT5. And um if
+you're wondering, okay, what are some of
+the biggest upgrades? Well, I'll talk
+you through those in a second, but we'll
+just get straight into this. So, for
+example, we're going to do a test task
+here. So, I'm going to say, okay, um,
+let's see how responsive it is. So, I'm
+going to say, you know, what is what is
+2 plus2? And we're just going to see how
+fast it is, just to see if it's fast
+enough when it responds. Now, it's
+pretty quick when it responds, like you
+see right here. If you're using
+something like Gemini 3.1 Flashlight,
+that's going to be even faster to be for
+to be fair versus something like GPT
+5.4, before but at the same time it's
+quick enough to use and the other thing
+about uh using chat GBT codeex is that
+the limits reset every single week right
+and so I've never hit the usage limits
+on openclaw with GD 5 point for any
+other GP models using the codeex or
+whereas for example if you're using
+something like u claude af well number
+one claude are like cutting back on that
+and they say you shouldn't do that but
+number two is you can hit the weekly
+usage limits like really quickly uh
+within claude and it also has session
+limit usages as well. So, if you're
+using GPT 5.4, typically you're going to
+get more out of it. You're going to get
+more tokens. You can use it more often.
+You can use it more frequently without
+running into session limits. So, that's
+a big benefit, too. Now, we're going to
+test browser control. So, I'm going to
+say, okay, open up a browser
+and check in the latest AI automation
+news. Let's see if we can do that. See
+how quick it takes as well. And what
+I'll do is I'll share my whole screen so
+you can see what's going on in the
+background. So if we have a look here,
+it's actually opened up a browser and
+then we just have to allow permissions
+like you can see and now it's beginning
+to look through permissions. It's using
+the browser. There were actual
+benchmarks tested on this and actually
+found that with GP 5.4 it can use a
+computer better than a human apparently
+according to the benchmarks. Now if you
+believe that benchmarks are not, I'm not
+here to debate that. I usually don't pay
+much attention to them. But you can see
+how it works right here. And it's it's
+also got web fetch as well as a tool. So
+it's using that to come up with ideas.
+is now finding a bunch of stuff as you
+can see and it's researching the ideas
+right here
+and then it's replied really quickly. So
+now it's come back with a bunch of ideas
+on the latest news and that sort of
+thing and it seemed to use the browser
+pretty quickly. It's very responsive as
+well, which is pretty good. Does seem to
+be a lot faster than previous versions
+of GPT as well that I've used. It's
+actually giving pretty good answers on
+the responses as well. So, for example,
+it's looked at the new um OpenAI codeex
+update, given us a full breakdown,
+formatted it pretty nicely, given us a
+stats breakdown as well. It seems to
+work really well natively with OpenClaw,
+like better than anything else I've seen
+previously. So, it's pretty good for
+that. Now it says you know we can do a
+second test here as well if you wanted
+to find out information um even more
+information but basically it has got a
+bunch of new updates and these are new
+things that recently came out so it's
+pretty useful. Let's say uh schedule
+this task um to happen daily at 4:00
+a.m. See if it could do that. And then
+it's given a suggestion on how we could
+prompt the scheduled update as well. And
+then we should have that scheduled in
+done nice and easy. All right. So that
+was pretty simple and easy. Let's try
+something a bit more complex like for
+example installing a GitHub um
+repository. So what I'm going to do from
+here is we're going to install this
+workflow like you can see and this
+basically turns um openclaw into like an
+agency right so an agency team. So for
+example you can create agency agents and
+then they give you a full specialized
+team that can for example be like one
+one can be a front-end developer,
+backend architect, mobile app developer
+etc. Right? We could plug this into open
+cloth to just make it a lot more
+powerful. So, I'm going to see how long
+this takes to install and set the
+stopwatch over here and then we'll
+install this and see how long it takes
+and and whether it can actually complete
+the task properly or not. So, you can
+see here it's breaking down the
+installation
+and the GitHub details. And then it says
+it should be available now to claw code
+to use on this machine. And that took
+1 minute to install or 1 minute 15
+seconds. Pretty cool. So, let's talk
+about the seven biggest upgrades inside
+GPT 5.4. Number one is native computer
+use, right? So, GPT 5.4 is OpenAI's
+first general purpose model with native
+computer use capabilities, enabling
+agents to operate computers and carry
+out complex workflows across
+applications. This basically means the
+AI can literally look at your screen,
+move the mouse, click buttons, type
+text, and navigate software just like a
+human would. Right? Before GPT 5.4, if
+you wanted AI to do something on your
+computer, you had to build complicated
+scripts and workarounds. Now, it's built
+right into the model. Now the
+interesting thing here is on the OS
+world benchmark which measures how well
+AI navigates desktop computers um GP 5.4
+hit 75%. Whereas the human expert score
+is 72.4%. So that's the first time any
+AI model has beaten humans at
+controlling a computer. Number two, it's
+got much smarter reasoning. Right? So
+GT5.4's individual claims are 33% less
+likely to be false and its full
+responses are 18% less likely to contain
+any errors. Right? So basically it makes
+fewer mistakes. It hallucinates less. It
+follows your instructions more
+accurately. And this is huge for anyone
+using it inside Open Claw because you
+need the AI to be reliable, not creative
+with the truth. Additionally, a big
+upgrade here is the context window. So
+it supports up to 1 million tokens of
+context allowing agents to plan,
+execute, and verify tasks along long
+horizons. What does that actually mean?
+Well, it can remember and work with
+roughly 750,000 words at once. That's
+about 10 full novels worth of text in a
+single conversation. So for openclaw
+users, this means your assistant can
+handle much longer, more complex tasks
+without losing track of what you ask
+for. And then it uses way fewer tasks um
+and way fewer tokens, right? So OpenAI
+reports that GP 5.4 uses um 47% fewer
+tokens on some tasks than its
+predecessors. Now, in terms of costs,
+this isn't really a big issue unless
+you're using the API, but I thought it
+would cover it. So with the oorthth you
+don't really need to worry about this so
+far um because you're unlikely to hit
+the usage limits anyway but basically
+fewer tokens equals lower cost equals
+faster responses right so if you're
+running open claw with an API key and
+paying per token this is a direct cost
+sim tool search as well so previously
+system prompts would lay out definitions
+for all available tools when calling the
+model the new system allows models to
+look up tool definitions as needed
+resulting in faster and cheaper requests
+right now openclaw uses tons of tools
+like browser um schedule tag class,
+canvas, skills, etc. Before GPT 5.4,
+every tool had to be described in every
+single message, eating up tokens. Now,
+the AI only loads the tools as she needs
+for each task. Now, before we move on to
+the next updates, let's just test
+something else out. So, what I'm going
+to do over here is we're going to take
+this information like so. And this is
+going to see if OpenCL can build out
+something nice when it comes to creating
+a website. So, I'm going to say create a
+beautiful,
+modern,
+interesting,
+and fun to use website
+profit blog,
+and then open it up. We'll see how that
+performs. Let's see what questions we
+got here. Kobe says, "No walking pad.
+Not today." Riley says, "What's the odds
+we can run open claw locally using all
+three models for open router?" I I
+haven't the only free model I used with
+open claw and open router was directly
+with uh something that was pony alpha
+and that was basically like a stealth
+model for the new GLM release. But I
+would recommend if you want to run free
+models, just run it locally through OAMA
+and you can run local free models like
+Quen 3.5 or GLM 4.7 Flash and those
+models will run uh better, but you do
+need a good setup if you're going to run
+free models on Open Plus. So you need
+like a Mac Studio minimum really to run
+like at a decent spec. So it's going to
+build out a landing page right here as
+you can see. Let's just set the timer.
+We'll see how long that takes. And you
+can see it's it's just going to work in
+the background and start working through
+that. In the meantime, what we can do
+over here is just run through the last
+few outputs. So, um, the other thing
+here as well is like GPT 5.4 has its
+best ever professional work output. So,
+on OpenAI's internal benchmarks, for
+spreadsheet modeling, tasks, GPT 5.4
+scored 87.3% compared with 68.4% for GP
+5.2. Spreadsheets, presentations,
+financial models, um, legal analysis,
+GPT 5.4 outperforms most. And then
+you've got better vision and document
+reading. So on MMU Pro, GPT5.4 achieves
+an 81.2% success rate without tool use.
+And on Omni.bench,
+average error rates dropped as well. So
+basically, it can see images better,
+read documents more accurately, and can
+pro process full resolution images up to
+10.24 million pixels. So it's still
+building that out. As you can see, if
+you come back here, basically, what's a
+before and after? Well, you know, before
+it could browse the web in a basic way.
+It could answer questions and summarize
+things. But it struggled with long
+complex multi-step tasks, right? It
+would burn through tokens fast. It
+couldn't reliably control your computer.
+Sometimes lost track of instructions
+over low long conversations and
+professional outputs were not that
+great. Now with OpenClaw plus GP 5.4,
+you get faster responses. You can now
+reliably control your browser and
+desktop apps. It can complete multi-step
+workflows. It supports hot swapping,
+right? And then it handles 10 times more
+context, meaning longer, more complex
+SAS without breaking. I don't know if I
+wouldn't say that's 100% true. I would
+say it just handles more context, not 10
+times more. It uses nearly half the
+tokens for the same work and it's
+dramatically more accurate and less
+likely to hallucinate. So, let's see how
+it's performing. So, it's still running
+through that. As you can see, I'm going
+to just ask how it's getting on. It's
+been 2 minutes so far. So, what are some
+real world use cases? Well, for example,
+you could build like a customer service
+bar. You could build automated research
+assistants, web automation agents, uh
+productivity assistants. So you could
+actually summarize your slack channels,
+answer questions from your documents,
+trigger automation tasks. Um and then
+finally, you know, desktop automation as
+well, which is a big one, too. And if
+you want to switch, just update your
+open call first, and then from there,
+you're going to just switch inside the
+onboarding to GP 5.4, and you're good to
+go. So it's still building out our
+website as you can see, but just to
+recap on the key takeaways here. So GP
+5.4 for is OpenAI's most powerful model
+released on March the 5th. It's the
+first AI model with native computer use.
+It uses 47% fewer tokens on most tasks.
+It's 33% more accurate and 18% less
+likely to have errors in its responses.
+It supports up to 1 million tokens of
+context and OpenClaw 3.7 beta already
+supports GT 5.4 natively, right? And you
+can switch with a simple command. And
+the best way to set this up really um is
+just use the oz. So, thanks so much for
+watching. If you haven't already, feel
+free to check out the AR profit
+boardroom. This is my AI automation
+learn AI, and grow with AI automation.
+members, which means there's always
+people online, so you can ask questions,
+get help, get support whenever you need
+to. You can also, for example, join our
+daily accountability group where you can
+post your goals and stay 100% laser
+focused on what you want to achieve
+today. Additionally, we do weekly
+updates where I basically
+type up what I've learned this week,
+what's actually useful and what you can
+safely ignore. And then additionally,
+you get weekly video coaching calls. You
+get help and support in real time on
+video calls. You can share your screen,
+ask questions, etc. On the map, you can
+meet people in your local area depending
+on where you are. So, you just zoom in
+and then you can DM people, ask to meet
+up, jump on a Zoom call, etc. And then
+inside the this section, inside the
+classroom, you get all of my best
+training. So, for example, you can learn
+how to go from beginner to expert with
+AI automation and how to build your
+first AI agent in under 5 minutes. You
+can also, for example, learn how to
+and Instagram and avatar videos. And
+these are all systems that are working
+for me. And we basically give you the
+full setup and the step by step guides
+as well. Now, you can see that the
+website has been built and it's um set
+up. It's working. It's running locally,
+etc. So, that was fully built with
+OpenClaw. It's even created like a nice
+little uh icon for the website as well.
+And this was coded with open core
+directly, right? So we built out a whole
+website just using open core as you can
+see. So that took 5 minutes to build a
+whole new website using openclaw and we
+hosted it locally, built it out. Um it
+even previewed it for us and actually
+broke it down. It also said if you want
+I can do another polish uh to just make
+it more visual, more animated, more
+salesy, etc. And then also you can get
+my daily updates plus a six-hour course
+on how to use OpenClaw and a three-hour
+course over here. And I do new daily
+updates on OpenClaw and all the latest
+things going on in AI automation here.
+Right? So this gets updated daily new
+step-by-step guides, video tutorials,
+etc. So you never fall behind again. On
+top of that, you can learn how to get
+more clients with the agency course. You
+can watch about the video coaching calls
+over here. You can learn how to rank
+number one with AICO. And then you can
+also learn how to grow a YouTube channel
+with AI based on what's working for me.
+boardroom. Feel free to check out link
+in the comments description or go to the
+aiprofitboarding.com.

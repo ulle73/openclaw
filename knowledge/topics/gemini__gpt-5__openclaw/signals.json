@@ -1,0 +1,130 @@
+{
+  "clusterKey": "gemini__gpt-5__openclaw",
+  "label": "openclaw och gemini",
+  "entity_tags": [
+    "openclaw",
+    "gemini",
+    "gpt-5",
+    "1-flash",
+    "claude",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "gpt-5",
+    "1-flash",
+    "telegram",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "seo-content",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "api"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
+  ],
+  "videoIds": [
+    "5dy2ahf_EKQ"
+  ],
+  "count": 1,
+  "avg_roi_score": 6.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 47,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 28,
+      "shared_signals": [
+        "telegram",
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 22,
+      "shared_signals": [
+        "seo-content",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 22,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera openclaw och gemini i Gravity Claw",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Temat overlappar med Gravity Claw via telegram, openclaw, knowledge-systems och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt openclaw och gemini",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for openclaw och gemini",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "5dy2ahf_EKQ",
+      "title": "New FREE OpenClaw Update: GPT 5.4 + Gemini 3.1 Flash-Lite",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "medium",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Det här är lika mycket ett distributionsverktyg som ett produktionsverktyg, eftersom samma material kan återanvändas i flera format och kanaler."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/gemini__gpt-5__openclaw/overview.md",
+    "signals": "knowledge/topics/gemini__gpt-5__openclaw/signals.json",
+    "decision": "knowledge/topics/gemini__gpt-5__openclaw/decision.md",
+    "opportunity": "knowledge/topics/gemini__gpt-5__openclaw/opportunity.md"
+  }
+}

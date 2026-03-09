@@ -1,0 +1,121 @@
+{
+  "clusterKey": "openclaw__single-agents",
+  "label": "openclaw och single agents",
+  "entity_tags": [
+    "openclaw",
+    "single-agents"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "single-agents",
+    "workflow-automation",
+    "agent-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "prompt-design",
+    "agent-flow",
+    "product-opportunity"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "videoIds": [
+    "esuPIJeRotI"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 45,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 24,
+      "shared_signals": [
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 22,
+      "shared_signals": [
+        "seo-content",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 22,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera openclaw och single agents i Gravity Claw",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Temat overlappar med Gravity Claw via openclaw, knowledge-systems och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt openclaw och single agents",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for openclaw och single agents",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "esuPIJeRotI",
+      "title": "This Openclaw Trick Makes Single Agents Obsolete",
+      "channel": "Openclaw Labs",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/openclaw__single-agents/overview.md",
+    "signals": "knowledge/topics/openclaw__single-agents/signals.json",
+    "decision": "knowledge/topics/openclaw__single-agents/decision.md",
+    "opportunity": "knowledge/topics/openclaw__single-agents/opportunity.md"
+  }
+}

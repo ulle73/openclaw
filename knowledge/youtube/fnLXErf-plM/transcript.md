@@ -1,0 +1,256 @@
+# Transcript
+
+- URL: https://www.youtube.com/watch?v=fnLXErf-plM
+- VideoId: fnLXErf-plM
+- Title: Claude Skills 2.0 Is INSANE!
+
+## Transcript
+Claude Skills 2.0 is insane. Claude just
+dropped Skills 2.0 and it is a big deal.
+We are talking about AI that can now
+test itself, fix itself, and stack on
+top of itself. Build once, run forever.
+No babysitting. I am going to show you
+exactly what Skills 2.0 is, how it
+works, and how to use it right now to
+build smarter AI workflows. Stay with me
+because the stuff at the end is going to
+blow your mind. So, what is Claude
+Skills 2.0 0. Here is the simple
+version. A skill is like a folder.
+Inside that folder, you have three
+things. First, a file called skilled.md.
+That is a plain text file with
+instructions that tells Claude what to
+do and how to do it. Second, reference
+materials like templates, data, and
+examples that Claude can pull from when
+doing the task. Third, scripts, which
+are bits of code that handle specific
+ jobs like processing data or
+creating a file. Put all of that
+together and you get a reusable AI
+workflow. You build it once and Claude
+follows it every time.  Now, here
+is where Skills 2.0 goes way beyond the
+first version. And this is where it gets
+exciting. Hey, if we haven't met
+already, I'm the digital avatar of
+Julian Goldie, CEO of SEO agency Goldie
+Agency. Whilst he's helping clients get
+more leads and customers, I'm here to
+help you get the latest AI updates.
+Julian Goldie reads every comment, so
+make sure you comment below. Skills 2.0
+has three massive upgrades. The first
+one is Evals. Evals means Claude can now
+test your skill before you use it in the
+real world. You give it sample inputs.
+Claude runs through them and it checks
+if the output matches what you wanted.
+If it does not, it flags the problem.
+Think about that. Your AI workflow now
+gets quality checked automatically. No
+more hoping it works. You know it works.
+The second upgrade is auto refinement.
+This means Claude does not just find the
+problem, it fixes it based on the
+feedback from the evals. Claude rewrites
+and improves the skill.mmd instructions
+on its own, so your skill gets better
+over time without you having to go back
+in and manually tweak things. That is
+the difference between a tool you have
+to maintain and a system that maintains
+itself. The third upgrade is
+composability.
+This means you can stack skills on top
+of each other. One skill handles
+research, another handles writing,
+another handles formatting.
+You combine them and you have got a
+complex multi-step AI agent running from
+start to finish. And all of this is
+portable across Claude.AI, Claude code,
+the Claude API, and across Pro, Max,
+Team, and Enterprise plans. Skills are
+also secure. Claude only loads the
+relevant parts of a skill when it needs
+them. Nothing extra gets pulled in. By
+the way, if you want to see real
+examples of AI skills like this being
+used to automate businesses, get more
+customers, and save hundreds of hours,
+that is exactly what we do inside the AI
+profit boardroom. is the best place to
+learn how to use AI automation to grow
+your business. Link is in the comment
+and description. Go check it out. Now,
+let me show you how to actually build a
+skill. The tool you need is called the
+skill creator and it is built right into
+Claude. Here is how it works. Step one,
+open Claude and tell it you want to
+create a new skill. Step two, describe
+what the skill should do. Be specific
+because the more detail you give, the
+better the output. Let me give you a
+real example using the AI profit
+boardroom. The prompt I would use is
+this. Create a skill that writes high
+converting landing page copy for the AI
+profit boardroom. The page should
+explain what AI automation is. Show the
+value of joining our community.
+Highlight the key benefits for business
+owners and end with a strong call to
+action. The tone should be clear,
+direct, and confident with no fluff.
+Claude will then build out the skilled
+MD file with full instructions, suggests
+reference templates to include and set
+up the whole structure. Step three, run
+the evals. You give Claude a few test
+inputs and it runs through the skill and
+checks the outputs. For the landing page
+skill, you might test it with inputs
+like new product launch, free trial,
+offer, or premium membership. Claude
+runs each one through and shows you what
+the output looks like. If the copy is
+not hitting right, Claude flags it and
+then auto refinement kicks in and the
+skill gets updated automatically. Step
+four, stack it with other skills if you
+need to. For the AI profit boardroom,
+you could stack the landing page skill
+with a traffic research skill and an
+email follow-up skill. Now you have got
+a full customer acquisition funnel
+running on AI. And here is the open loop
+I promised you earlier. There is a
+specific structure for your skill.mmd
+file that makes Claude follow it almost
+perfectly every single time. Your
+skill.mmd file needs four things. First,
+a clear name and description at the top
+that tells Claude exactly what this
+skill is for in one or two sentences.
+Second, a step-by-step process because
+Claude follows numbered steps, much
+better than big walls of text. Third,
+examples that show Claude what good
+output looks like because when Claude
+can see the target, it hits the target.
+Fourth, rules and constraints that tell
+Claude what not to do. Things like do
+not add fluff, do not use formal
+language, always end with a call to
+action. Here is a real template you can
+use for the AI profit boardroom landing
+page skill name. Landing page writer for
+AI profit boardroom goal. Write a high
+converting landing page that explains AI
+automation, shows the value of the
+community, and drives signups. Steps
+one, write a headline that calls out the
+target audience. Two, write three to
+five benefit focused bullet points.
+Three, write a short paragraph on who
+this is for. Four, write a direct and
+compelling call to action example output
+headline. Automate your business with AI
+and get more customers without working
+more hours. Rules: Keep it simple, no
+jargon, no corporate speak, and every
+line should make the reader want to keep
+reading. That is the structure. Simple,
+specific, and it works. Now, let me show
+you what composability actually looks
+like in practice. Say I want to build a
+full content system for the AI profit
+boardroom. Not just one piece of
+content, but a full machine that finds
+topics, writes content, formats it, and
+gets it ready to publish. Skill one
+handles research where Claude searches
+for trending AI topics that the audience
+cares about and outputs a list of five
+topics with notes on why each one is
+relevant right now. Skill 2 handles
+writing where Claude takes each topic
+and writes a YouTube script, a LinkedIn
+post, and a short email following the
+tone guidelines in the skill.md file.
+Skill 3 handles formatting where Claude
+takes the written content and formats it
+correctly for each platform with
+timestamps for YouTube, line breaks for
+LinkedIn, and a subject line and preview
+text for email. Stack all three
+together, and you have a content
+machine. One input, three platform ready
+outputs. Done. Skills 2.0 also includes
+benchmarking with variance analysis. And
+this is something most people are going
+to skip past. Do not. Benchmarking means
+you can run your skill multiple times on
+the same inputs and measure how
+consistent the outputs are. If your
+skill produces very different results
+each time, something's off with the
+instructions and the benchmarking tool
+shows you exactly where the variance is
+happening. For the AI profit boardroom
+landing page skill, you would run it
+five times on the same brief and check
+if the tone, structure, and messaging
+stay consistent. Reliability is
+everything when you are running a
+business and benchmarking gives you that
+reliability. Claude Skills 2.0 is
+available right now through Claude.ai on
+Pro, Max, Team, and Enterprise plans,
+through Claude Code for more advanced
+setups, and through the Claude API if
+you are building your own tools. The
+skill creator is built in with no
+installs needed. The people who move
+fast on this are going to have a serious
+edge because skills compound. The more
+you build, the more powerful your setup
+becomes. While everyone else is still
+doing things one prompt at a time, you
+have systems running in the background
+doing the heavy lifting. So, here's what
+we covered today. Claude Skills 2.0 lets
+you build reusable AI workflows using a
+skill.md file, reference materials and
+scripts. The three upgrades are evals
+for testing, auto refinement for fixing,
+and composability for stacking skills
+together into complex agents. You build
+using the skill creator inside Claude.
+Run evals, let auto refinement improve
+the output, and stack skills to build
+full AI systems. The people who build
+this out now are going to be way ahead
+of everyone else 6 months from now. If
+you want to see how to use Claude Skills
+2.0 and tools like it to automate your
+business, save time and get more
+customers. Come join us inside the AI
+profit ballroom is the best place to
+scale your business with AI automation
+with hands-on training done for you
+templates and a community of people who
+are actually building this stuff in the
+real world. Link is in the comment and
+description. And if you want the full
+process, SOPs, and 100 plus AI use cases
+like this one for free, join the AI
+success lab. Links in the comments and
+description. You will get all the video
+notes from this video, plus access to
+our community of 45,000 members who are
+crushing it with AI.

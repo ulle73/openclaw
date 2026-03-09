@@ -75,5 +75,26 @@ your phone.
 - prompt engineering
 - technical guide
 
+## Topic Tags
+- model
+- content-repurposing
+- workflow-automation
+- onboarding-training
+- seo-content
+- prompt-design
+- business-idea
+- business-opportunity
+- seo-distribution
+- agent-flow
+- agent-automation
+- api
+
+## Similar Videos
+- s2HalzQZ1MQ | NEW Claude Code Update is INSANE! | shared: agent-automation, agent-flow, api, business-idea, business-opportunity, prompt-design
+- pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: agent-automation, agent-flow, business-idea, business-opportunity, onboarding-training, prompt-design
+- iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: agent-automation, agent-flow, business-idea, business-opportunity, onboarding-training, prompt-design
+- jyVRbD6fqic | New OpenAI Codex Update is INSANE! | shared: agent-automation, agent-flow, api, business-idea, business-opportunity, seo-content
+- obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | shared: business-idea, business-opportunity, content-repurposing, onboarding-training, prompt-design, seo-content
+
 ## Classification
 tutorial, tool demo, workflow, automation idea, business idea, prompt engineering, technical guide

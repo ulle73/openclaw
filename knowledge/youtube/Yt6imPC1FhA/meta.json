@@ -1,0 +1,138 @@
+{
+  "id": "Yt6imPC1FhA",
+  "title": "OpenClaw Just Replaced 1,000 Hours of Video Editing Tutorials",
+  "channel": "Riley Brown",
+  "upload_date": "20260225",
+  "description": "OpenClaw can create animate videos if use this skill\n\nYou can now vibecode a viral video with OpenClaw\n(Works with Claude Code).\n\n00:00 Intro\n00:55 1st prompt\n02:11 Video Generated\n03:29 Editing video w openclaw\n07:28 Music w/ elevenlabsio skill\n09:22 Final Video ✅\n11:07 Where to find skill 👇\n\nRemotion-Video-Skill for Openclaw:  http://superskills.vibecode.run",
+  "classifications": [
+    "tool",
+    "agent_flow",
+    "api"
+  ],
+  "roi_label": "medium",
+  "relevance_label": "medium",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": false,
+    "system_improvement": true,
+    "app": false,
+    "product": false
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "000-hours",
+    "editing-tutorials",
+    "claude"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "000-hours",
+    "editing-tutorials",
+    "prompt-design",
+    "agent-flow",
+    "agent-automation",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "000-hours__editing-tutorials__openclaw",
+  "related_video_ids": [
+    "ISb0nrlNoKQ",
+    "esuPIJeRotI",
+    "C4fTWiOGXpM",
+    "0b8qQx3FaLE",
+    "YnzsnqsrqXs"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "esuPIJeRotI",
+      "title": "This Openclaw Trick Makes Single Agents Obsolete",
+      "channel": "Openclaw Labs",
+      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
+      "topic_cluster_key": "openclaw__single-agents",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "0b8qQx3FaLE",
+      "title": "The AI stack behind 20M+ views (Full Breakdown)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/0b8qQx3FaLE/summary.md",
+      "topic_cluster_key": "breakdown__the",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "YnzsnqsrqXs",
+      "title": "OpenClaw + Star Office is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/YnzsnqsrqXs/summary.md",
+      "topic_cluster_key": "openclaw__star-office",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow"
+      ],
+      "cluster_match": false,
+      "score": 6
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "ISb0nrlNoKQ",
+      "esuPIJeRotI",
+      "C4fTWiOGXpM",
+      "0b8qQx3FaLE",
+      "YnzsnqsrqXs"
+    ]
+  },
+  "updated_at": "2026-03-09T01:30:17Z"
+}

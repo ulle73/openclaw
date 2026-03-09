@@ -1,0 +1,128 @@
+{
+  "clusterKey": "breakdown__the",
+  "label": "the och breakdown",
+  "entity_tags": [
+    "the",
+    "breakdown",
+    "openclaw",
+    "claude",
+    "gemini"
+  ],
+  "topic_tags": [
+    "the",
+    "breakdown",
+    "openclaw",
+    "ai-video-generation",
+    "workflow-automation",
+    "knowledge-management",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "videoIds": [
+    "0b8qQx3FaLE"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 47,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 26,
+      "shared_signals": [
+        "seo-content",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 26,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 24,
+      "shared_signals": [
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera the och breakdown i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Temat overlappar med Coastworks via seo-content och automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt the och breakdown",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for the och breakdown",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "0b8qQx3FaLE",
+      "title": "The AI stack behind 20M+ views (Full Breakdown)",
+      "channel": "Greg Isenberg",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    }
+  ],
+  "is_noise": true,
+  "paths": {
+    "overview": "knowledge/topics/breakdown__the/overview.md",
+    "signals": "knowledge/topics/breakdown__the/signals.json",
+    "decision": "knowledge/topics/breakdown__the/decision.md",
+    "opportunity": "knowledge/topics/breakdown__the/opportunity.md"
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "generatedAt": "2026-03-09T14:51:41Z",
+  "projects": [
+    {
+      "projectId": "coastworks",
+      "name": "Coastworks",
+      "status": "Aktivt eller återkommande viktigt affärsspår.",
+      "summary": "kopplat till tjänsteerbjudanden, webb, paketering, bolagsnärvaro och kommersiell positionering",
+      "tags": [
+        "web-offer",
+        "design-offer",
+        "seo-content",
+        "automation",
+        "service-offer"
+      ],
+      "stack": [],
+      "signals": [
+        "web-offer",
+        "design-offer",
+        "seo-content",
+        "automation",
+        "service-offer"
+      ],
+      "repoPaths": [],
+      "sourceTypes": [
+        "active_projects"
+      ],
+      "whyItMatters": [
+        "kopplat till tjänsteerbjudanden, webb, paketering, bolagsnärvaro och kommersiell positionering"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "name": "AI Visibility Audit",
+      "status": "Lovande kommersiellt spår med tydlig svensk SME-relevans.",
+      "summary": "kombinerar AI, synlighet, audit-logik och säljbar tjänstepaketering passar Jonas styrkor inom automation, analys och företagsnytta",
+      "tags": [
+        "audit-offer",
+        "seo-content",
+        "automation",
+        "service-offer",
+        "workflow-automation"
+      ],
+      "stack": [],
+      "signals": [
+        "audit-offer",
+        "seo-content",
+        "automation",
+        "service-offer",
+        "workflow-automation"
+      ],
+      "repoPaths": [],
+      "sourceTypes": [
+        "active_projects"
+      ],
+      "whyItMatters": [
+        "kombinerar AI, synlighet, audit-logik och säljbar tjänstepaketering",
+        "passar Jonas styrkor inom automation, analys och företagsnytta"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    },
+    {
+      "projectId": "ullebets",
+      "name": "UlleBets",
+      "status": "Viktigt och strategiskt projektspår.",
+      "summary": "Datadriven bettingprodukt med oddsanalys, modeller, dashboards och automation.",
+      "tags": [
+        "betting-analytics",
+        "sports-data",
+        "ml-models",
+        "telegram",
+        "app-product"
+      ],
+      "stack": [
+        "node",
+        "python",
+        "nextjs",
+        "react",
+        "tailwind",
+        "mongodb"
+      ],
+      "signals": [
+        "app-product",
+        "betting-analytics",
+        "ml-models",
+        "mongodb",
+        "nextjs",
+        "node",
+        "python",
+        "react",
+        "sports-data",
+        "tailwind",
+        "telegram"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\ullebets-vecel"
+      ],
+      "sourceTypes": [
+        "active_projects",
+        "repo_scan"
+      ],
+      "whyItMatters": [
+        "starkt data- och monetiseringsorienterat spår",
+        "visar Jonas fokus på edge, modeller, automatisering och verklig intjäningslogik"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "vibecoda",
+      "name": "VibeCoda",
+      "status": "Strategiskt viktigt paketerings- och erbjudandespår.",
+      "summary": "stark betoning på premium hemsida, design, paketering och professionellt uttryck relevant för hur Jonas säljer kompetens, teknik och design till företag",
+      "tags": [
+        "web-offer",
+        "design-offer",
+        "ai-product",
+        "service-offer"
+      ],
+      "stack": [],
+      "signals": [
+        "web-offer",
+        "design-offer",
+        "ai-product",
+        "service-offer"
+      ],
+      "repoPaths": [],
+      "sourceTypes": [
+        "active_projects"
+      ],
+      "whyItMatters": [
+        "stark betoning på premium hemsida, design, paketering och professionellt uttryck",
+        "relevant för hur Jonas säljer kompetens, teknik och design till företag"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 7
+    },
+    {
+      "projectId": "westcoastline-labs",
+      "name": "Westcoastline Labs",
+      "status": "Strategiskt viktigt paraplyspår.",
+      "summary": "samlande struktur för flera digitala projekt, appar och AI-spår speglar Jonas ambition att bygga flera produkter under gemensam riktning",
+      "tags": [
+        "venture-studio",
+        "product-platform",
+        "ai-product"
+      ],
+      "stack": [],
+      "signals": [
+        "venture-studio",
+        "product-platform",
+        "ai-product"
+      ],
+      "repoPaths": [],
+      "sourceTypes": [
+        "active_projects"
+      ],
+      "whyItMatters": [
+        "samlande struktur för flera digitala projekt, appar och AI-spår",
+        "speglar Jonas ambition att bygga flera produkter under gemensam riktning"
+      ],
+      "projectRole": "venture_platform",
+      "projectPriority": 7
+    },
+    {
+      "projectId": "edel-ventures",
+      "name": "Edel Ventures",
+      "status": "Strategiskt brand- och strukturspår.",
+      "summary": "del av större ambition att bygga flera produkter under gemensamt ramverk",
+      "tags": [
+        "venture-studio",
+        "brand-platform",
+        "product-platform"
+      ],
+      "stack": [],
+      "signals": [
+        "venture-studio",
+        "brand-platform",
+        "product-platform"
+      ],
+      "repoPaths": [],
+      "sourceTypes": [
+        "active_projects"
+      ],
+      "whyItMatters": [
+        "del av större ambition att bygga flera produkter under gemensamt ramverk"
+      ],
+      "projectRole": "venture_platform",
+      "projectPriority": 6
+    },
+    {
+      "projectId": "tournado-golf",
+      "name": "TourNado Golf",
+      "status": "Legacy. Inte så viktigt",
+      "summary": "ett av Jonas tydligaste och viktigaste projekt kombinerar golfintresse, produktbygge och kommersiell potential",
+      "tags": [
+        "golf-tech",
+        "app-product",
+        "mobile-app",
+        "subscription-product",
+        "design-offer"
+      ],
+      "stack": [],
+      "signals": [
+        "golf-tech",
+        "app-product",
+        "mobile-app",
+        "subscription-product",
+        "design-offer"
+      ],
+      "repoPaths": [],
+      "sourceTypes": [
+        "active_projects"
+      ],
+      "whyItMatters": [
+        "ett av Jonas tydligaste och viktigaste projekt",
+        "kombinerar golfintresse, produktbygge och kommersiell potential",
+        "förenar nisch, premiumpaketering och återkommande intäktsmöjlighet"
+      ],
+      "projectRole": "product",
+      "projectPriority": 2
+    },
+    {
+      "projectId": "gravity-claw",
+      "name": "Gravity Claw",
+      "status": "repo-detected",
+      "summary": "Telegram-nativ AI-copilot med minne, voice, automation och proactive loops.",
+      "tags": [
+        "gravityclaw",
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "knowledge-systems",
+        "voice-ai"
+      ],
+      "stack": [
+        "node",
+        "python",
+        "telegram-bot",
+        "openai",
+        "pinecone",
+        "voice-ai",
+        "typescript",
+        "node-tooling"
+      ],
+      "signals": [
+        "agent-automation",
+        "gravityclaw",
+        "knowledge-systems",
+        "node",
+        "node-tooling",
+        "openai",
+        "openclaw",
+        "pinecone",
+        "python",
+        "telegram",
+        "telegram-bot",
+        "typescript",
+        "voice-ai"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\gravity-claw"
+      ],
+      "sourceTypes": [
+        "repo_scan"
+      ],
+      "whyItMatters": [],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "workspace",
+      "name": "OpenClaw Workspace",
+      "status": "repo-detected",
+      "summary": "Jonas lokala OpenClaw workspace med hooks, YouTube knowledge flow, skills och agent-automation.",
+      "tags": [
+        "openclaw",
+        "agent-automation",
+        "knowledge-systems",
+        "workflow-automation"
+      ],
+      "stack": [
+        "python"
+      ],
+      "signals": [
+        "agent-automation",
+        "knowledge-systems",
+        "openclaw",
+        "python",
+        "workflow-automation"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace"
+      ],
+      "sourceTypes": [
+        "repo_scan"
+      ],
+      "whyItMatters": [],
+      "projectRole": "operating_system",
+      "projectPriority": 3
+    },
+    {
+      "projectId": "awesome-openclaw-skills",
+      "name": "Awesome Openclaw Skills",
+      "status": "repo-detected",
+      "summary": "Referensrepo och inspiration for OpenClaw skills, inte ett primart kund- eller produktprojekt.",
+      "tags": [
+        "openclaw",
+        "skill-library",
+        "reference-library"
+      ],
+      "stack": [],
+      "signals": [
+        "openclaw",
+        "reference-library",
+        "skill-library"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\awesome-openclaw-skills"
+      ],
+      "sourceTypes": [
+        "repo_scan"
+      ],
+      "whyItMatters": [],
+      "projectRole": "reference_library",
+      "projectPriority": 1
+    }
+  ]
+}

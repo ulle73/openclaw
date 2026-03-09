@@ -11,10 +11,10 @@
 2. Collect prompts/data references
 3. Build a repeatable assistant flow
 - Existing related videos:
-  - DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: mcp, automation idea, business idea, prompt engineering, prompt-design, tool demo | cluster match: yes
-  - wX_neSx7-Ls | How to Make Claude Code 100X Better in 1 Click! | shared: automation idea, business idea, prompt engineering, technical guide, tool demo, workflow-automation | cluster match: yes
-  - xAw3IZgX7Tc | Build Anything with Qwen's NEW Model's! | shared: automation idea, business idea, prompt engineering, prompt-design, technical guide, tool demo | cluster match: no
-  - pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: automation idea, business idea, prompt engineering, prompt-design, tool demo, workflow-automation | cluster match: no
-  - iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: automation idea, business idea, prompt-design, tool demo, workflow-automation | cluster match: no
+  - DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: mcp, agent-automation, agent-flow, api, api-integration, business-idea | cluster match: yes
+  - wX_neSx7-Ls | How to Make Claude Code 100X Better in 1 Click! | shared: workflow-automation | cluster match: yes
+  - jyVRbD6fqic | New OpenAI Codex Update is INSANE! | shared: agent-automation, agent-flow, api, api-integration, business-idea, business-opportunity | cluster match: no
+  - 9T1yWEq5kP0 | SaaS is minting millionaires again (here's how) | shared: mcp, agent-flow, business-idea, business-opportunity, seo-content, seo-distribution | cluster match: no
+  - pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity, prompt-design | cluster match: no
 - Question:
   Vill du att denna skill byggs nu?

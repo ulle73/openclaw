@@ -210,6 +210,30 @@ USE_CASE_GROUPS = {
     "snabba veckouppdateringar": ["weekly updates", "ai news", "roundup doc", "visually engaging update"],
 }
 
+SALIENT_SENTENCE_HINTS = [
+    "workflow",
+    "system",
+    "dashboard",
+    "command center",
+    "mission control",
+    "clickup",
+    "supabase",
+    "railway",
+    "api",
+    "automation",
+    "assistant",
+    "employee",
+    "save time",
+    "make more money",
+    "one click",
+    "24/7",
+    "voiceover",
+    "publish",
+    "cost",
+    "use case",
+    "product",
+]
+
 ENTITY_ALIAS_GROUPS = {
     "notebooklm": ["notebooklm", "notebook lm"],
     "nano-banana-2": ["nano banana 2", "nano banana two", "nano banana"],
@@ -417,6 +441,28 @@ def collect_use_cases(lower_text: str) -> List[str]:
         if contains_any(lower_text, keywords):
             found.append(label)
     return found
+
+
+def rank_salient_sentences(sentences: List[str]) -> List[str]:
+    scored: List[tuple[int, str]] = []
+    for sentence in sentences:
+        lower = sentence.lower()
+        score = 0
+        word_count = len(sentence.split())
+        if 8 <= word_count <= 36:
+            score += 2
+        if re.search(r"\b\d+\b", lower):
+            score += 1
+        if any(hint in lower for hint in SALIENT_SENTENCE_HINTS):
+            score += 3
+        if contains_any(lower, ["how", "why", "because", "so that", "which means", "effectively"]):
+            score += 1
+        if is_low_signal_sentence(sentence):
+            score -= 5
+        if score > 0:
+            scored.append((score, sentence))
+    scored.sort(key=lambda item: (item[0], len(item[1])), reverse=True)
+    return [sentence for _, sentence in scored]
 
 
 def slugify_tag(value: str) -> str:
@@ -840,68 +886,108 @@ def build_takeaways(
 ) -> List[str]:
     lower_text = cleaned_text.lower()
     filtered_sentences = [sentence for sentence in normalized_sentences if not is_low_signal_sentence(sentence)]
+    salient_sentences = rank_salient_sentences(filtered_sentences)
     topic = clean_title_for_summary(info.get("title", "")) or analysis.get("core_topic") or "verktygskombinationen"
     takeaways: List[str] = []
 
-    if contains_any(lower_text, ["upload a document", "upload your sources", "full narrated video", "video overviews"]):
-        takeaways.append(
-            f"Videon visar hur {topic} kan förvandla dokument och annat källmaterial till färdiga videor med AI-visuals och voiceover utan traditionell produktion."
-        )
-
-    if contains_any(lower_text, ["brain", "art department", "powers the visuals", "research tool"]):
-        takeaways.append(
-            "Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen."
-        )
-
-    step_labels = collect_step_labels(lower_text)
-    if step_labels:
-        takeaways.append(f"Workflowet är tydligt: {natural_join(step_labels)}.")
-
-    use_cases = collect_use_cases(lower_text)
-    if use_cases:
-        takeaways.append(
-            f"De starkaste use casen är {natural_join(use_cases)}, vilket gör att samma upplägg kan användas både internt och externt."
-        )
-
-    if contains_any(
+    is_content_workflow = contains_any(
         lower_text,
-        [
-            "depends almost entirely on the prompts and sources",
-            "bad input equals generic output",
-            "great input equals content",
-            "focus prompt changes the entire direction",
-        ],
-    ):
-        takeaways.append(
-            "Den avgörande faktorn är inputen: bättre källor och skarpare prompts ger fokuserad output, medan svag input ger generiskt material."
-        )
-
-    if contains_any(
+        ["notebook lm", "notebooklm", "nano banana", "video overview", "voiceover", "upload your sources"],
+    )
+    is_agent_system = contains_any(
         lower_text,
-        [
-            "ahead of everyone",
-            "ahead of your competitors",
-            "grow faster with less effort",
-            "save time",
-            "content machine",
-        ],
-    ):
-        takeaways.append(
-            "Affärsvärdet ligger i fart och edge: du kan skapa mer content snabbare, återanvända gammalt material och få en tidig distributionsfördel."
-        )
+        ["antigravity", "gravity claw", "open claw", "mission control", "clickup", "supabase", "railway", "ai employee"],
+    )
+
+    if is_content_workflow:
+        if contains_any(lower_text, ["upload a document", "upload your sources", "full narrated video", "video overviews"]):
+            takeaways.append(
+                f"Videon visar hur {topic} kan förvandla dokument och annat källmaterial till färdiga videor med AI-visuals och voiceover utan traditionell produktion."
+            )
+
+        if contains_any(lower_text, ["brain", "art department", "powers the visuals", "research tool"]):
+            takeaways.append(
+                "Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen."
+            )
+
+        step_labels = collect_step_labels(lower_text)
+        if step_labels:
+            takeaways.append(f"Workflowet är tydligt: {natural_join(step_labels)}.")
+
+        use_cases = collect_use_cases(lower_text)
+        if use_cases:
+            takeaways.append(
+                f"De starkaste use casen är {natural_join(use_cases)}, vilket gör att samma upplägg kan användas både internt och externt."
+            )
+
+        if contains_any(
+            lower_text,
+            [
+                "depends almost entirely on the prompts and sources",
+                "bad input equals generic output",
+                "great input equals content",
+                "focus prompt changes the entire direction",
+            ],
+        ):
+            takeaways.append(
+                "Den avgörande faktorn är inputen: bättre källor och skarpare prompts ger fokuserad output, medan svag input ger generiskt material."
+            )
+
+        if contains_any(
+            lower_text,
+            [
+                "ahead of everyone",
+                "ahead of your competitors",
+                "grow faster with less effort",
+                "save time",
+                "content machine",
+            ],
+        ):
+            takeaways.append(
+                "Affärsvärdet ligger i fart och edge: du kan skapa mer content snabbare, återanvända gammalt material och få en tidig distributionsfördel."
+            )
+
+    if is_agent_system:
+        if contains_any(lower_text, ["ai employee", "personal assistant", "24/7", "chief ai operating officer"]):
+            takeaways.append(
+                "Kärnpositioneringen är inte bara ett nytt verktyg utan en AI-assistent som ska kunna bära mer av det löpande operativa arbetet."
+            )
+        if contains_any(lower_text, ["mission control", "command center", "dashboard", "productivity section"]):
+            takeaways.append(
+                "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen."
+            )
+        if contains_any(lower_text, ["clickup", "single source of truth", "tasks and projects", "api key"]):
+            takeaways.append(
+                "Den verkliga hävstången kommer när agenten kopplas till arbetsverktyg som ClickUp och blir en del av samma system för tasks, status och uppföljning."
+            )
+        if contains_any(lower_text, ["no vps", "one click", "railway", "laptop is shut down"]):
+            takeaways.append(
+                "Setupen är byggd för låg friktion: hosted körning, låg driftbörda och åtkomst även när den lokala datorn inte är aktiv."
+            )
+        if contains_any(
+            lower_text,
+            ["anti-gravity is for building", "software creation anti-gravity", "build the things in anti-gravity"],
+        ):
+            takeaways.append(
+                "Rollfördelningen mellan verktygen är tydlig: AntiGravity används för att bygga och ändra systemen, medan Gravity Claw/OpenClaw används som operativ assistent ovanpå dem."
+            )
+        if contains_any(lower_text, ["cost", "how much money i'm spending", "low case", "mid case", "high high case"]):
+            takeaways.append(
+                "Kostnadsbild och transparens lyfts som en del av produkten, vilket gör lösningen lättare att styra och räkna hem."
+            )
 
     categories = summary_meta.get("categories", [])
     if "workflow" in categories:
-        takeaways.append("Det här bör ses som ett repeterbart content-workflow, inte bara som en enskild feature-demo.")
+        takeaways.append("Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.")
     if "automation" in categories or "agent_flow" in categories:
-        takeaways.append("Potentialen ligger i att systematisera och automatisera produktionen snarare än att skapa varje video manuellt.")
+        takeaways.append("Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.")
     if "product_opportunity" in categories or "business_idea" in categories:
         takeaways.append("Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande.")
     if "seo_distribution" in categories:
         takeaways.append("Det här är lika mycket ett distributionsverktyg som ett produktionsverktyg, eftersom samma material kan återanvändas i flera format och kanaler.")
 
     if len(takeaways) < 5:
-        for sentence in filtered_sentences:
+        for sentence in salient_sentences or filtered_sentences:
             if len(sentence.split()) < 8:
                 continue
             takeaways.append(sentence)

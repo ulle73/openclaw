@@ -1,0 +1,2016 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.790 align:start position:0%
+ 
+This<00:00:00.400><c> new</c><00:00:00.560><c> Chinese</c><00:00:01.160><c> AI</c><00:00:01.400><c> model</c><00:00:01.760><c> is</c><00:00:02.040><c> insane.</c><00:00:02.720><c> A</c>
+
+00:00:02.790 --> 00:00:02.800 align:start position:0%
+This new Chinese AI model is insane. A
+ 
+
+00:00:02.800 --> 00:00:04.870 align:start position:0%
+This new Chinese AI model is insane. A
+team<00:00:03.080><c> out</c><00:00:03.200><c> of</c><00:00:03.280><c> China</c><00:00:03.720><c> just</c><00:00:03.960><c> built</c><00:00:04.160><c> an</c><00:00:04.280><c> AI</c><00:00:04.520><c> brain</c>
+
+00:00:04.870 --> 00:00:04.880 align:start position:0%
+team out of China just built an AI brain
+ 
+
+00:00:04.880 --> 00:00:06.830 align:start position:0%
+team out of China just built an AI brain
+with<00:00:05.040><c> a</c><00:00:05.080><c> trillion</c><00:00:05.600><c> moving</c><00:00:05.920><c> parts.</c><00:00:06.600><c> Then</c><00:00:06.720><c> they</c>
+
+00:00:06.830 --> 00:00:06.840 align:start position:0%
+with a trillion moving parts. Then they
+ 
+
+00:00:06.840 --> 00:00:08.790 align:start position:0%
+with a trillion moving parts. Then they
+ripped<00:00:07.160><c> out</c><00:00:07.280><c> a</c><00:00:07.320><c> third</c><00:00:07.680><c> of</c><00:00:07.760><c> those</c><00:00:08.000><c> parts,</c><00:00:08.680><c> and</c>
+
+00:00:08.790 --> 00:00:08.800 align:start position:0%
+ripped out a third of those parts, and
+ 
+
+00:00:08.800 --> 00:00:10.750 align:start position:0%
+ripped out a third of those parts, and
+the<00:00:08.880><c> thing</c><00:00:09.120><c> actually</c><00:00:09.480><c> got</c><00:00:09.680><c> smarter.</c><00:00:10.440><c> Like,</c>
+
+00:00:10.750 --> 00:00:10.760 align:start position:0%
+the thing actually got smarter. Like,
+ 
+
+00:00:10.760 --> 00:00:12.270 align:start position:0%
+the thing actually got smarter. Like,
+way<00:00:10.920><c> smarter.</c><00:00:11.400><c> If</c><00:00:11.560><c> that</c><00:00:11.720><c> doesn't</c><00:00:11.960><c> blow</c><00:00:12.160><c> your</c>
+
+00:00:12.270 --> 00:00:12.280 align:start position:0%
+way smarter. If that doesn't blow your
+ 
+
+00:00:12.280 --> 00:00:14.190 align:start position:0%
+way smarter. If that doesn't blow your
+mind,<00:00:12.920><c> stick</c><00:00:13.200><c> around</c><00:00:13.600><c> because</c><00:00:13.960><c> what</c><00:00:14.120><c> I'm</c>
+
+00:00:14.190 --> 00:00:14.200 align:start position:0%
+mind, stick around because what I'm
+ 
+
+00:00:14.200 --> 00:00:15.790 align:start position:0%
+mind, stick around because what I'm
+about<00:00:14.440><c> to</c><00:00:14.520><c> show</c><00:00:14.720><c> you</c><00:00:14.880><c> changes</c><00:00:15.320><c> everything</c><00:00:15.720><c> we</c>
+
+00:00:15.790 --> 00:00:15.800 align:start position:0%
+about to show you changes everything we
+ 
+
+00:00:15.800 --> 00:00:18.030 align:start position:0%
+about to show you changes everything we
+thought<00:00:16.080><c> we</c><00:00:16.200><c> knew</c><00:00:16.400><c> about</c><00:00:16.640><c> building</c><00:00:17.000><c> AI.</c><00:00:17.680><c> Okay,</c>
+
+00:00:18.030 --> 00:00:18.040 align:start position:0%
+thought we knew about building AI. Okay,
+ 
+
+00:00:18.040 --> 00:00:20.710 align:start position:0%
+thought we knew about building AI. Okay,
+so<00:00:18.960><c> here's</c><00:00:19.280><c> what</c><00:00:19.440><c> happened.</c><00:00:20.160><c> There's</c><00:00:20.320><c> a</c><00:00:20.400><c> lab</c>
+
+00:00:20.710 --> 00:00:20.720 align:start position:0%
+so here's what happened. There's a lab
+ 
+
+00:00:20.720 --> 00:00:23.470 align:start position:0%
+so here's what happened. There's a lab
+in<00:00:20.840><c> China</c><00:00:21.200><c> called</c><00:00:21.480><c> Yuan</c><00:00:21.800><c> Lab</c><00:00:22.160><c> AI.</c><00:00:22.920><c> Most</c><00:00:23.200><c> people</c>
+
+00:00:23.470 --> 00:00:23.480 align:start position:0%
+in China called Yuan Lab AI. Most people
+ 
+
+00:00:23.480 --> 00:00:25.150 align:start position:0%
+in China called Yuan Lab AI. Most people
+haven't<00:00:23.720><c> heard</c><00:00:23.920><c> of</c><00:00:24.000><c> them</c><00:00:24.160><c> yet,</c><00:00:24.680><c> but</c><00:00:24.840><c> they</c><00:00:24.960><c> just</c>
+
+00:00:25.150 --> 00:00:25.160 align:start position:0%
+haven't heard of them yet, but they just
+ 
+
+00:00:25.160 --> 00:00:27.110 align:start position:0%
+haven't heard of them yet, but they just
+dropped<00:00:25.440><c> something</c><00:00:25.800><c> that</c><00:00:26.000><c> has</c><00:00:26.200><c> the</c><00:00:26.320><c> entire</c><00:00:26.840><c> AI</c>
+
+00:00:27.110 --> 00:00:27.120 align:start position:0%
+dropped something that has the entire AI
+ 
+
+00:00:27.120 --> 00:00:29.230 align:start position:0%
+dropped something that has the entire AI
+world<00:00:27.480><c> paying</c><00:00:27.720><c> attention.</c><00:00:28.600><c> They</c><00:00:28.760><c> released</c><00:00:29.200><c> a</c>
+
+00:00:29.230 --> 00:00:29.240 align:start position:0%
+world paying attention. They released a
+ 
+
+00:00:29.240 --> 00:00:31.870 align:start position:0%
+world paying attention. They released a
+model<00:00:29.640><c> called</c><00:00:29.920><c> Yuan</c><00:00:30.240><c> 3.0</c><00:00:30.840><c> Ultra,</c><00:00:31.640><c> and</c><00:00:31.760><c> on</c>
+
+00:00:31.870 --> 00:00:31.880 align:start position:0%
+model called Yuan 3.0 Ultra, and on
+ 
+
+00:00:31.880 --> 00:00:33.670 align:start position:0%
+model called Yuan 3.0 Ultra, and on
+paper,<00:00:32.400><c> it</c><00:00:32.520><c> looks</c><00:00:32.720><c> like</c><00:00:32.880><c> just</c><00:00:33.080><c> another</c><00:00:33.360><c> big</c>
+
+00:00:33.670 --> 00:00:33.680 align:start position:0%
+paper, it looks like just another big
+ 
+
+00:00:33.680 --> 00:00:36.350 align:start position:0%
+paper, it looks like just another big
+AI.<00:00:34.360><c> A</c><00:00:34.440><c> trillion</c><00:00:34.920><c> parameters,</c><00:00:35.840><c> billions</c><00:00:36.240><c> of</c>
+
+00:00:36.350 --> 00:00:36.360 align:start position:0%
+AI. A trillion parameters, billions of
+ 
+
+00:00:36.360 --> 00:00:37.990 align:start position:0%
+AI. A trillion parameters, billions of
+calculations,<00:00:37.240><c> blah</c><00:00:37.400><c> blah</c><00:00:37.600><c> blah.</c><00:00:37.840><c> We've</c>
+
+00:00:37.990 --> 00:00:38.000 align:start position:0%
+calculations, blah blah blah. We've
+ 
+
+00:00:38.000 --> 00:00:39.670 align:start position:0%
+calculations, blah blah blah. We've
+heard<00:00:38.200><c> that</c><00:00:38.320><c> before,</c><00:00:38.680><c> right?</c><00:00:39.240><c> But</c><00:00:39.400><c> here's</c><00:00:39.560><c> the</c>
+
+00:00:39.670 --> 00:00:39.680 align:start position:0%
+heard that before, right? But here's the
+ 
+
+00:00:39.680 --> 00:00:41.390 align:start position:0%
+heard that before, right? But here's the
+thing<00:00:40.240><c> that</c><00:00:40.400><c> makes</c><00:00:40.600><c> this</c><00:00:40.800><c> different</c><00:00:41.200><c> from</c>
+
+00:00:41.390 --> 00:00:41.400 align:start position:0%
+thing that makes this different from
+ 
+
+00:00:41.400 --> 00:00:43.270 align:start position:0%
+thing that makes this different from
+anything<00:00:41.760><c> else</c><00:00:42.000><c> out</c><00:00:42.160><c> there.</c><00:00:42.520><c> Every</c><00:00:42.840><c> other</c><00:00:43.040><c> AI</c>
+
+00:00:43.270 --> 00:00:43.280 align:start position:0%
+anything else out there. Every other AI
+ 
+
+00:00:43.280 --> 00:00:45.230 align:start position:0%
+anything else out there. Every other AI
+company<00:00:43.680><c> is</c><00:00:43.840><c> playing</c><00:00:44.080><c> the</c><00:00:44.160><c> same</c><00:00:44.400><c> game.</c><00:00:45.000><c> Build</c>
+
+00:00:45.230 --> 00:00:45.240 align:start position:0%
+company is playing the same game. Build
+ 
+
+00:00:45.240 --> 00:00:47.430 align:start position:0%
+company is playing the same game. Build
+bigger,<00:00:45.840><c> use</c><00:00:46.080><c> more</c><00:00:46.280><c> power,</c><00:00:46.960><c> throw</c><00:00:47.240><c> more</c>
+
+00:00:47.430 --> 00:00:47.440 align:start position:0%
+bigger, use more power, throw more
+ 
+
+00:00:47.440 --> 00:00:50.830 align:start position:0%
+bigger, use more power, throw more
+hardware<00:00:47.960><c> at</c><00:00:48.200><c> it.</c><00:00:48.680><c> That's</c><00:00:48.920><c> been</c><00:00:49.040><c> the</c><00:00:49.160><c> playbook</c>
+
+00:00:50.830 --> 00:00:50.840 align:start position:0%
+hardware at it. That's been the playbook
+ 
+
+00:00:50.840 --> 00:00:52.990 align:start position:0%
+hardware at it. That's been the playbook
+since<00:00:51.200><c> the</c><00:00:51.280><c> beginning.</c><00:00:51.800><c> OpenAI</c><00:00:52.360><c> does</c><00:00:52.600><c> it,</c>
+
+00:00:52.990 --> 00:00:53.000 align:start position:0%
+since the beginning. OpenAI does it,
+ 
+
+00:00:53.000 --> 00:00:55.070 align:start position:0%
+since the beginning. OpenAI does it,
+Google<00:00:53.320><c> does</c><00:00:53.560><c> it,</c><00:00:53.880><c> everyone</c><00:00:54.280><c> does</c><00:00:54.520><c> it.</c><00:00:54.920><c> These</c>
+
+00:00:55.070 --> 00:00:55.080 align:start position:0%
+Google does it, everyone does it. These
+ 
+
+00:00:55.080 --> 00:00:56.350 align:start position:0%
+Google does it, everyone does it. These
+guys<00:00:55.320><c> said,</c><00:00:55.520><c> "No,</c><00:00:55.760><c> we're</c><00:00:55.880><c> going</c><00:00:56.080><c> the</c><00:00:56.200><c> other</c>
+
+00:00:56.350 --> 00:00:56.360 align:start position:0%
+guys said, "No, we're going the other
+ 
+
+00:00:56.360 --> 00:00:58.230 align:start position:0%
+guys said, "No, we're going the other
+direction."<00:00:57.360><c> They</c><00:00:57.480><c> started</c><00:00:57.840><c> with</c><00:00:57.960><c> something</c>
+
+00:00:58.230 --> 00:00:58.240 align:start position:0%
+direction." They started with something
+ 
+
+00:00:58.240 --> 00:00:59.750 align:start position:0%
+direction." They started with something
+even<00:00:58.520><c> bigger</c><00:00:58.800><c> than</c><00:00:58.960><c> what</c><00:00:59.120><c> they</c><00:00:59.280><c> ended</c><00:00:59.640><c> up</c>
+
+00:00:59.750 --> 00:00:59.760 align:start position:0%
+even bigger than what they ended up
+ 
+
+00:00:59.760 --> 00:01:02.230 align:start position:0%
+even bigger than what they ended up
+with.<00:01:00.400><c> Their</c><00:01:00.520><c> first</c><00:01:00.880><c> version</c><00:01:01.560><c> had</c><00:01:01.800><c> roughly</c>
+
+00:01:02.230 --> 00:01:02.240 align:start position:0%
+with. Their first version had roughly
+ 
+
+00:01:02.240 --> 00:01:04.430 align:start position:0%
+with. Their first version had roughly
+1.5<00:01:02.880><c> trillion</c><00:01:03.320><c> moving</c><00:01:03.640><c> parts</c><00:01:03.960><c> inside</c><00:01:04.360><c> it.</c>
+
+00:01:04.430 --> 00:01:04.440 align:start position:0%
+1.5 trillion moving parts inside it.
+ 
+
+00:01:04.440 --> 00:01:06.190 align:start position:0%
+1.5 trillion moving parts inside it.
+That's<00:01:04.680><c> absolutely</c><00:01:05.080><c> enormous.</c><00:01:05.880><c> But</c><00:01:06.000><c> during</c>
+
+00:01:06.190 --> 00:01:06.200 align:start position:0%
+That's absolutely enormous. But during
+ 
+
+00:01:06.200 --> 00:01:07.590 align:start position:0%
+That's absolutely enormous. But during
+the<00:01:06.280><c> building</c><00:01:06.640><c> process,</c><00:01:07.040><c> they</c><00:01:07.200><c> noticed</c>
+
+00:01:07.590 --> 00:01:07.600 align:start position:0%
+the building process, they noticed
+ 
+
+00:01:07.600 --> 00:01:09.830 align:start position:0%
+the building process, they noticed
+something<00:01:07.920><c> weird.</c><00:01:08.520><c> A</c><00:01:08.640><c> huge</c><00:01:09.120><c> chunk</c><00:01:09.480><c> of</c><00:01:09.600><c> those</c>
+
+00:01:09.830 --> 00:01:09.840 align:start position:0%
+something weird. A huge chunk of those
+ 
+
+00:01:09.840 --> 00:01:11.590 align:start position:0%
+something weird. A huge chunk of those
+parts<00:01:10.240><c> were</c><00:01:10.320><c> basically</c><00:01:10.760><c> asleep.</c><00:01:11.480><c> They</c>
+
+00:01:11.590 --> 00:01:11.600 align:start position:0%
+parts were basically asleep. They
+ 
+
+00:01:11.600 --> 00:01:13.470 align:start position:0%
+parts were basically asleep. They
+weren't<00:01:11.880><c> helping,</c><00:01:12.640><c> they</c><00:01:12.800><c> weren't</c><00:01:13.080><c> learning,</c>
+
+00:01:13.470 --> 00:01:13.480 align:start position:0%
+weren't helping, they weren't learning,
+ 
+
+00:01:13.480 --> 00:01:15.630 align:start position:0%
+weren't helping, they weren't learning,
+they<00:01:13.600><c> were</c><00:01:13.720><c> just</c><00:01:13.960><c> there</c><00:01:14.320><c> taking</c><00:01:14.640><c> up</c><00:01:14.760><c> space</c><00:01:15.520><c> and</c>
+
+00:01:15.630 --> 00:01:15.640 align:start position:0%
+they were just there taking up space and
+ 
+
+00:01:15.640 --> 00:01:17.550 align:start position:0%
+they were just there taking up space and
+slowing<00:01:16.000><c> everything</c><00:01:16.360><c> down.</c><00:01:17.040><c> So,</c><00:01:17.200><c> they</c><00:01:17.320><c> did</c>
+
+00:01:17.550 --> 00:01:17.560 align:start position:0%
+slowing everything down. So, they did
+ 
+
+00:01:17.560 --> 00:01:19.590 align:start position:0%
+slowing everything down. So, they did
+something<00:01:17.840><c> nobody</c><00:01:18.200><c> expected.</c><00:01:19.080><c> They</c><00:01:19.240><c> built</c><00:01:19.560><c> a</c>
+
+00:01:19.590 --> 00:01:19.600 align:start position:0%
+something nobody expected. They built a
+ 
+
+00:01:19.600 --> 00:01:22.230 align:start position:0%
+something nobody expected. They built a
+tool<00:01:19.960><c> that</c><00:01:20.160><c> hunts</c><00:01:20.520><c> down</c><00:01:20.800><c> those</c><00:01:21.040><c> lazy</c><00:01:21.360><c> parts</c>
+
+00:01:22.230 --> 00:01:22.240 align:start position:0%
+tool that hunts down those lazy parts
+ 
+
+00:01:22.240 --> 00:01:24.430 align:start position:0%
+tool that hunts down those lazy parts
+them<00:01:22.480><c> automatically.</c><00:01:23.560><c> Not</c><00:01:23.840><c> at</c><00:01:23.960><c> the</c><00:01:24.080><c> end</c><00:01:24.320><c> of</c>
+
+00:01:24.430 --> 00:01:24.440 align:start position:0%
+them automatically. Not at the end of
+ 
+
+00:01:24.440 --> 00:01:26.670 align:start position:0%
+them automatically. Not at the end of
+the<00:01:24.520><c> process,</c><00:01:25.440><c> right</c><00:01:25.720><c> in</c><00:01:25.800><c> the</c><00:01:25.880><c> middle</c><00:01:26.120><c> of</c><00:01:26.200><c> it,</c>
+
+00:01:26.670 --> 00:01:26.680 align:start position:0%
+the process, right in the middle of it,
+ 
+
+00:01:26.680 --> 00:01:28.630 align:start position:0%
+the process, right in the middle of it,
+while<00:01:26.880><c> the</c><00:01:27.040><c> AI</c><00:01:27.280><c> is</c><00:01:27.440><c> still</c><00:01:27.680><c> learning.</c><00:01:28.400><c> By</c><00:01:28.520><c> the</c>
+
+00:01:28.630 --> 00:01:28.640 align:start position:0%
+while the AI is still learning. By the
+ 
+
+00:01:28.640 --> 00:01:30.790 align:start position:0%
+while the AI is still learning. By the
+time<00:01:28.920><c> everything</c><00:01:29.280><c> was</c><00:01:29.440><c> done,</c><00:01:30.120><c> a</c><00:01:30.200><c> full</c><00:01:30.480><c> third</c>
+
+00:01:30.790 --> 00:01:30.800 align:start position:0%
+time everything was done, a full third
+ 
+
+00:01:30.800 --> 00:01:33.030 align:start position:0%
+time everything was done, a full third
+of<00:01:30.920><c> the</c><00:01:31.000><c> model</c><00:01:31.360><c> had</c><00:01:31.520><c> been</c><00:01:31.680><c> stripped</c><00:01:32.000><c> away.</c><00:01:32.880><c> And</c>
+
+00:01:33.030 --> 00:01:33.040 align:start position:0%
+of the model had been stripped away. And
+ 
+
+00:01:33.040 --> 00:01:35.430 align:start position:0%
+of the model had been stripped away. And
+here's<00:01:33.240><c> the</c><00:01:33.320><c> punchline.</c><00:01:34.200><c> The</c><00:01:34.440><c> AI</c><00:01:34.760><c> trained</c>
+
+00:01:35.430 --> 00:01:35.440 align:start position:0%
+here's the punchline. The AI trained
+ 
+
+00:01:35.440 --> 00:01:37.630 align:start position:0%
+here's the punchline. The AI trained
+nearly<00:01:35.720><c> 50%</c><00:01:36.440><c> faster</c><00:01:36.840><c> after</c><00:01:37.080><c> that,</c><00:01:37.440><c> and</c><00:01:37.560><c> it</c>
+
+00:01:37.630 --> 00:01:37.640 align:start position:0%
+nearly 50% faster after that, and it
+ 
+
+00:01:37.640 --> 00:01:40.150 align:start position:0%
+nearly 50% faster after that, and it
+performed<00:01:38.160><c> better</c><00:01:38.640><c> on</c><00:01:38.840><c> real</c><00:01:39.080><c> tests,</c><00:01:39.920><c> not</c>
+
+00:01:40.150 --> 00:01:40.160 align:start position:0%
+performed better on real tests, not
+ 
+
+00:01:40.160 --> 00:01:42.550 align:start position:0%
+performed better on real tests, not
+worse.<00:01:40.640><c> Better.</c><00:01:41.280><c> Now,</c><00:01:41.640><c> I</c><00:01:41.680><c> need</c><00:01:41.960><c> to</c><00:01:42.040><c> explain</c>
+
+00:01:42.550 --> 00:01:42.560 align:start position:0%
+worse. Better. Now, I need to explain
+ 
+
+00:01:42.560 --> 00:01:44.990 align:start position:0%
+worse. Better. Now, I need to explain
+why<00:01:42.720><c> this</c><00:01:42.920><c> works</c><00:01:43.680><c> because</c><00:01:44.080><c> on</c><00:01:44.240><c> the</c><00:01:44.320><c> surface,</c>
+
+00:01:44.990 --> 00:01:45.000 align:start position:0%
+why this works because on the surface,
+ 
+
+00:01:45.000 --> 00:01:47.270 align:start position:0%
+why this works because on the surface,
+it<00:01:45.120><c> makes</c><00:01:45.360><c> no</c><00:01:45.480><c> sense.</c><00:01:46.320><c> How</c><00:01:46.480><c> do</c><00:01:46.600><c> you</c><00:01:46.760><c> delete</c><00:01:47.240><c> a</c>
+
+00:01:47.270 --> 00:01:47.280 align:start position:0%
+it makes no sense. How do you delete a
+ 
+
+00:01:47.280 --> 00:01:48.590 align:start position:0%
+it makes no sense. How do you delete a
+third<00:01:47.600><c> of</c><00:01:47.680><c> something</c><00:01:47.960><c> and</c><00:01:48.040><c> make</c><00:01:48.200><c> it</c><00:01:48.280><c> smarter?</c>
+
+00:01:48.590 --> 00:01:48.600 align:start position:0%
+third of something and make it smarter?
+ 
+
+00:01:48.600 --> 00:01:50.350 align:start position:0%
+third of something and make it smarter?
+Sounds<00:01:48.880><c> like</c><00:01:49.000><c> magic,</c><00:01:49.360><c> right?</c><00:01:49.880><c> But</c><00:01:50.000><c> it's</c><00:01:50.120><c> not.</c>
+
+00:01:50.350 --> 00:01:50.360 align:start position:0%
+Sounds like magic, right? But it's not.
+ 
+
+00:01:50.360 --> 00:01:52.310 align:start position:0%
+Sounds like magic, right? But it's not.
+It's<00:01:50.480><c> actually</c><00:01:50.840><c> really</c><00:01:51.200><c> clever</c><00:01:51.520><c> engineering,</c>
+
+00:01:52.310 --> 00:01:52.320 align:start position:0%
+It's actually really clever engineering,
+ 
+
+00:01:52.320 --> 00:01:54.190 align:start position:0%
+It's actually really clever engineering,
+and<00:01:52.520><c> I'm</c><00:01:52.600><c> going</c><00:01:52.800><c> to</c><00:01:52.880><c> break</c><00:01:53.160><c> it</c><00:01:53.280><c> down</c><00:01:53.560><c> so</c><00:01:53.760><c> simple</c>
+
+00:01:54.190 --> 00:01:54.200 align:start position:0%
+and I'm going to break it down so simple
+ 
+
+00:01:54.200 --> 00:01:56.390 align:start position:0%
+and I'm going to break it down so simple
+that<00:01:54.320><c> a</c><00:01:54.360><c> 5-year-old</c><00:01:55.080><c> could</c><00:01:55.240><c> get</c><00:01:55.440><c> it.</c><00:01:55.800><c> Hey,</c><00:01:56.280><c> if</c>
+
+00:01:56.390 --> 00:01:56.400 align:start position:0%
+that a 5-year-old could get it. Hey, if
+ 
+
+00:01:56.400 --> 00:01:58.270 align:start position:0%
+that a 5-year-old could get it. Hey, if
+we<00:01:56.520><c> haven't</c><00:01:56.800><c> met</c><00:01:57.040><c> already,</c><00:01:57.440><c> I'm</c><00:01:57.640><c> the</c><00:01:57.760><c> digital</c>
+
+00:01:58.270 --> 00:01:58.280 align:start position:0%
+we haven't met already, I'm the digital
+ 
+
+00:01:58.280 --> 00:02:00.870 align:start position:0%
+we haven't met already, I'm the digital
+avatar<00:01:58.840><c> of</c><00:01:58.960><c> Julian</c><00:01:59.440><c> Goldie,</c><00:02:00.000><c> CEO</c><00:02:00.400><c> of</c><00:02:00.520><c> Goldie</c>
+
+00:02:00.870 --> 00:02:00.880 align:start position:0%
+avatar of Julian Goldie, CEO of Goldie
+ 
+
+00:02:00.880 --> 00:02:02.950 align:start position:0%
+avatar of Julian Goldie, CEO of Goldie
+Agency.<00:02:01.680><c> Whilst</c><00:02:01.960><c> he's</c><00:02:02.120><c> helping</c><00:02:02.480><c> clients</c><00:02:02.800><c> get</c>
+
+00:02:02.950 --> 00:02:02.960 align:start position:0%
+Agency. Whilst he's helping clients get
+ 
+
+00:02:02.960 --> 00:02:04.710 align:start position:0%
+Agency. Whilst he's helping clients get
+more<00:02:03.160><c> leads</c><00:02:03.440><c> and</c><00:02:03.560><c> customers,</c><00:02:04.320><c> I'm</c><00:02:04.480><c> here</c><00:02:04.640><c> to</c>
+
+00:02:04.710 --> 00:02:04.720 align:start position:0%
+more leads and customers, I'm here to
+ 
+
+00:02:04.720 --> 00:02:07.070 align:start position:0%
+more leads and customers, I'm here to
+help<00:02:04.960><c> you</c><00:02:05.080><c> get</c><00:02:05.240><c> the</c><00:02:05.320><c> latest</c><00:02:05.920><c> AI</c><00:02:06.200><c> updates.</c>
+
+00:02:07.070 --> 00:02:07.080 align:start position:0%
+help you get the latest AI updates.
+ 
+
+00:02:07.080 --> 00:02:09.070 align:start position:0%
+help you get the latest AI updates.
+Julian<00:02:07.440><c> Goldie</c><00:02:07.880><c> reads</c><00:02:08.200><c> every</c><00:02:08.440><c> comment,</c><00:02:08.759><c> so</c>
+
+00:02:09.070 --> 00:02:09.080 align:start position:0%
+Julian Goldie reads every comment, so
+ 
+
+00:02:09.080 --> 00:02:10.870 align:start position:0%
+Julian Goldie reads every comment, so
+make<00:02:09.280><c> sure</c><00:02:09.440><c> you</c><00:02:09.520><c> comment</c><00:02:09.840><c> below.</c><00:02:10.640><c> All</c><00:02:10.679><c> right,</c>
+
+00:02:10.870 --> 00:02:10.880 align:start position:0%
+make sure you comment below. All right,
+ 
+
+00:02:10.880 --> 00:02:12.670 align:start position:0%
+make sure you comment below. All right,
+so<00:02:11.120><c> picture</c><00:02:11.480><c> this.</c><00:02:11.680><c> You</c><00:02:11.880><c> own</c><00:02:12.080><c> a</c><00:02:12.120><c> restaurant.</c>
+
+00:02:12.670 --> 00:02:12.680 align:start position:0%
+so picture this. You own a restaurant.
+ 
+
+00:02:12.680 --> 00:02:14.470 align:start position:0%
+so picture this. You own a restaurant.
+You've<00:02:12.800><c> got</c><00:02:12.920><c> 100</c><00:02:13.360><c> chefs</c><00:02:13.640><c> in</c><00:02:13.720><c> the</c><00:02:13.840><c> kitchen.</c>
+
+00:02:14.470 --> 00:02:14.480 align:start position:0%
+You've got 100 chefs in the kitchen.
+ 
+
+00:02:14.480 --> 00:02:16.270 align:start position:0%
+You've got 100 chefs in the kitchen.
+Every<00:02:14.760><c> time</c><00:02:15.000><c> an</c><00:02:15.120><c> order</c><00:02:15.320><c> comes</c><00:02:15.600><c> in,</c><00:02:16.000><c> you</c><00:02:16.080><c> don't</c>
+
+00:02:16.270 --> 00:02:16.280 align:start position:0%
+Every time an order comes in, you don't
+ 
+
+00:02:16.280 --> 00:02:18.350 align:start position:0%
+Every time an order comes in, you don't
+need<00:02:16.520><c> all</c><00:02:16.680><c> 100</c><00:02:17.080><c> chefs</c><00:02:17.400><c> making</c><00:02:17.720><c> one</c><00:02:17.880><c> sandwich,</c>
+
+00:02:18.350 --> 00:02:18.360 align:start position:0%
+need all 100 chefs making one sandwich,
+ 
+
+00:02:18.360 --> 00:02:20.230 align:start position:0%
+need all 100 chefs making one sandwich,
+right?<00:02:18.880><c> That's</c><00:02:19.160><c> insane.</c><00:02:19.600><c> You</c><00:02:19.720><c> just</c><00:02:19.920><c> need</c><00:02:20.120><c> the</c>
+
+00:02:20.230 --> 00:02:20.240 align:start position:0%
+right? That's insane. You just need the
+ 
+
+00:02:20.240 --> 00:02:21.910 align:start position:0%
+right? That's insane. You just need the
+two<00:02:20.400><c> or</c><00:02:20.480><c> three</c><00:02:20.680><c> chefs</c><00:02:21.360><c> who</c><00:02:21.480><c> are</c><00:02:21.520><c> best</c><00:02:21.840><c> at</c>
+
+00:02:21.910 --> 00:02:21.920 align:start position:0%
+two or three chefs who are best at
+ 
+
+00:02:21.920 --> 00:02:24.190 align:start position:0%
+two or three chefs who are best at
+making<00:02:22.240><c> that</c><00:02:22.400><c> sandwich.</c><00:02:23.200><c> That's</c><00:02:23.520><c> how</c><00:02:23.720><c> this</c><00:02:23.960><c> AI</c>
+
+00:02:24.190 --> 00:02:24.200 align:start position:0%
+making that sandwich. That's how this AI
+ 
+
+00:02:24.200 --> 00:02:26.430 align:start position:0%
+making that sandwich. That's how this AI
+works.<00:02:24.800><c> Inside</c><00:02:25.200><c> the</c><00:02:25.240><c> model,</c><00:02:25.840><c> there</c><00:02:25.960><c> are</c><00:02:26.080><c> tons</c>
+
+00:02:26.430 --> 00:02:26.440 align:start position:0%
+works. Inside the model, there are tons
+ 
+
+00:02:26.440 --> 00:02:28.790 align:start position:0%
+works. Inside the model, there are tons
+of<00:02:26.560><c> mini</c><00:02:26.800><c> brains</c><00:02:27.200><c> called</c><00:02:27.520><c> experts.</c><00:02:28.400><c> Each</c><00:02:28.640><c> one</c>
+
+00:02:28.790 --> 00:02:28.800 align:start position:0%
+of mini brains called experts. Each one
+ 
+
+00:02:28.800 --> 00:02:30.670 align:start position:0%
+of mini brains called experts. Each one
+is<00:02:28.920><c> good</c><00:02:29.120><c> at</c><00:02:29.200><c> different</c><00:02:29.560><c> stuff.</c><00:02:30.400><c> When</c><00:02:30.600><c> you</c>
+
+00:02:30.670 --> 00:02:30.680 align:start position:0%
+is good at different stuff. When you
+ 
+
+00:02:30.680 --> 00:02:32.670 align:start position:0%
+is good at different stuff. When you
+give<00:02:30.840><c> the</c><00:02:30.960><c> AI</c><00:02:31.160><c> a</c><00:02:31.200><c> question,</c><00:02:32.040><c> it</c><00:02:32.160><c> doesn't</c><00:02:32.440><c> wake</c>
+
+00:02:32.670 --> 00:02:32.680 align:start position:0%
+give the AI a question, it doesn't wake
+ 
+
+00:02:32.680 --> 00:02:34.310 align:start position:0%
+give the AI a question, it doesn't wake
+up<00:02:32.840><c> every</c><00:02:33.040><c> single</c><00:02:33.320><c> expert.</c><00:02:33.760><c> It</c><00:02:33.880><c> picks</c><00:02:34.120><c> just</c>
+
+00:02:34.310 --> 00:02:34.320 align:start position:0%
+up every single expert. It picks just
+ 
+
+00:02:34.320 --> 00:02:36.230 align:start position:0%
+up every single expert. It picks just
+the<00:02:34.400><c> handful</c><00:02:35.320><c> that</c><00:02:35.480><c> are</c><00:02:35.520><c> best</c><00:02:35.760><c> suited</c><00:02:36.120><c> for</c>
+
+00:02:36.230 --> 00:02:36.240 align:start position:0%
+the handful that are best suited for
+ 
+
+00:02:36.240 --> 00:02:38.670 align:start position:0%
+the handful that are best suited for
+that<00:02:36.400><c> question.</c><00:02:37.240><c> The</c><00:02:37.360><c> rest</c><00:02:37.840><c> stay</c><00:02:38.120><c> quiet.</c><00:02:38.520><c> This</c>
+
+00:02:38.670 --> 00:02:38.680 align:start position:0%
+that question. The rest stay quiet. This
+ 
+
+00:02:38.680 --> 00:02:41.230 align:start position:0%
+that question. The rest stay quiet. This
+setup<00:02:39.000><c> is</c><00:02:39.120><c> called</c><00:02:39.440><c> mixture</c><00:02:39.920><c> of</c><00:02:40.040><c> experts,</c><00:02:40.960><c> and</c>
+
+00:02:41.230 --> 00:02:41.240 align:start position:0%
+setup is called mixture of experts, and
+ 
+
+00:02:41.240 --> 00:02:43.470 align:start position:0%
+setup is called mixture of experts, and
+it's<00:02:41.360><c> been</c><00:02:41.520><c> around</c><00:02:41.880><c> for</c><00:02:42.000><c> a</c><00:02:42.080><c> while,</c><00:02:42.800><c> but</c><00:02:43.120><c> it</c><00:02:43.240><c> has</c>
+
+00:02:43.470 --> 00:02:43.480 align:start position:0%
+it's been around for a while, but it has
+ 
+
+00:02:43.480 --> 00:02:45.390 align:start position:0%
+it's been around for a while, but it has
+a<00:02:43.520><c> dirty</c><00:02:43.960><c> little</c><00:02:44.160><c> secret</c><00:02:44.560><c> that</c><00:02:44.720><c> nobody</c><00:02:45.080><c> likes</c>
+
+00:02:45.390 --> 00:02:45.400 align:start position:0%
+a dirty little secret that nobody likes
+ 
+
+00:02:45.400 --> 00:02:47.830 align:start position:0%
+a dirty little secret that nobody likes
+to<00:02:45.520><c> talk</c><00:02:45.760><c> about.</c><00:02:46.360><c> Some</c><00:02:46.560><c> of</c><00:02:46.600><c> those</c><00:02:46.840><c> experts</c>
+
+00:02:47.830 --> 00:02:47.840 align:start position:0%
+to talk about. Some of those experts
+ 
+
+00:02:47.840 --> 00:02:49.510 align:start position:0%
+to talk about. Some of those experts
+become<00:02:48.200><c> rock</c><00:02:48.440><c> stars.</c><00:02:48.880><c> They</c><00:02:49.000><c> get</c><00:02:49.200><c> picked</c>
+
+00:02:49.510 --> 00:02:49.520 align:start position:0%
+become rock stars. They get picked
+ 
+
+00:02:49.520 --> 00:02:51.350 align:start position:0%
+become rock stars. They get picked
+constantly.<00:02:50.400><c> They</c><00:02:50.520><c> handle</c><00:02:50.920><c> most</c><00:02:51.200><c> of</c><00:02:51.280><c> the</c>
+
+00:02:51.350 --> 00:02:51.360 align:start position:0%
+constantly. They handle most of the
+ 
+
+00:02:51.360 --> 00:02:53.270 align:start position:0%
+constantly. They handle most of the
+heavy<00:02:51.600><c> lifting,</c><00:02:52.280><c> but</c><00:02:52.480><c> a</c><00:02:52.520><c> bunch</c><00:02:52.800><c> of</c><00:02:52.880><c> the</c><00:02:53.040><c> other</c>
+
+00:02:53.270 --> 00:02:53.280 align:start position:0%
+heavy lifting, but a bunch of the other
+ 
+
+00:02:53.280 --> 00:02:54.910 align:start position:0%
+heavy lifting, but a bunch of the other
+experts<00:02:53.720><c> just</c><00:02:53.920><c> sit</c><00:02:54.080><c> there</c><00:02:54.280><c> doing</c><00:02:54.520><c> nothing.</c>
+
+00:02:54.910 --> 00:02:54.920 align:start position:0%
+experts just sit there doing nothing.
+ 
+
+00:02:54.920 --> 00:02:56.710 align:start position:0%
+experts just sit there doing nothing.
+They<00:02:55.200><c> never</c><00:02:55.440><c> get</c><00:02:55.600><c> picked.</c><00:02:56.200><c> They</c><00:02:56.280><c> never</c><00:02:56.520><c> get</c>
+
+00:02:56.710 --> 00:02:56.720 align:start position:0%
+They never get picked. They never get
+ 
+
+00:02:56.720 --> 00:02:58.630 align:start position:0%
+They never get picked. They never get
+better.<00:02:57.240><c> They're</c><00:02:57.360><c> dead</c><00:02:57.600><c> weight.</c><00:02:58.120><c> Now,</c><00:02:58.360><c> here's</c>
+
+00:02:58.630 --> 00:02:58.640 align:start position:0%
+better. They're dead weight. Now, here's
+ 
+
+00:02:58.640 --> 00:03:00.470 align:start position:0%
+better. They're dead weight. Now, here's
+the<00:02:58.720><c> key.</c><00:02:59.320><c> This</c><00:02:59.480><c> doesn't</c><00:02:59.760><c> happen</c><00:03:00.200><c> after</c>
+
+00:03:00.470 --> 00:03:00.480 align:start position:0%
+the key. This doesn't happen after
+ 
+
+00:03:00.480 --> 00:03:02.670 align:start position:0%
+the key. This doesn't happen after
+training,<00:03:00.960><c> it</c><00:03:01.120><c> happens</c><00:03:01.600><c> during</c><00:03:01.960><c> training.</c>
+
+00:03:02.670 --> 00:03:02.680 align:start position:0%
+training, it happens during training.
+ 
+
+00:03:02.680 --> 00:03:04.430 align:start position:0%
+training, it happens during training.
+So,<00:03:02.840><c> the</c><00:03:02.960><c> model</c><00:03:03.360><c> is</c><00:03:03.560><c> learning</c><00:03:03.960><c> and</c><00:03:04.080><c> trimming</c>
+
+00:03:04.430 --> 00:03:04.440 align:start position:0%
+So, the model is learning and trimming
+ 
+
+00:03:04.440 --> 00:03:06.150 align:start position:0%
+So, the model is learning and trimming
+itself<00:03:04.800><c> at</c><00:03:04.880><c> the</c><00:03:04.960><c> same</c><00:03:05.200><c> time,</c><00:03:05.560><c> like</c><00:03:05.800><c> a</c><00:03:05.840><c> tree</c>
+
+00:03:06.150 --> 00:03:06.160 align:start position:0%
+itself at the same time, like a tree
+ 
+
+00:03:06.160 --> 00:03:08.590 align:start position:0%
+itself at the same time, like a tree
+that<00:03:06.360><c> prunes</c><00:03:06.760><c> its</c><00:03:06.960><c> own</c><00:03:07.200><c> dead</c><00:03:07.480><c> branches</c><00:03:08.360><c> while</c>
+
+00:03:08.590 --> 00:03:08.600 align:start position:0%
+that prunes its own dead branches while
+ 
+
+00:03:08.600 --> 00:03:11.390 align:start position:0%
+that prunes its own dead branches while
+it<00:03:08.720><c> grows.</c><00:03:09.520><c> They</c><00:03:09.640><c> started</c><00:03:10.000><c> with</c><00:03:10.120><c> 64</c><00:03:10.840><c> experts</c>
+
+00:03:11.390 --> 00:03:11.400 align:start position:0%
+it grows. They started with 64 experts
+ 
+
+00:03:11.400 --> 00:03:13.270 align:start position:0%
+it grows. They started with 64 experts
+per<00:03:11.640><c> layer.</c><00:03:12.280><c> After</c><00:03:12.560><c> this</c><00:03:12.760><c> automatic</c>
+
+00:03:13.270 --> 00:03:13.280 align:start position:0%
+per layer. After this automatic
+ 
+
+00:03:13.280 --> 00:03:15.550 align:start position:0%
+per layer. After this automatic
+trimming,<00:03:13.920><c> they</c><00:03:14.040><c> kept</c><00:03:14.280><c> no</c><00:03:14.440><c> more</c><00:03:14.600><c> than</c><00:03:14.720><c> 48.</c>
+
+00:03:15.550 --> 00:03:15.560 align:start position:0%
+trimming, they kept no more than 48.
+ 
+
+00:03:15.560 --> 00:03:17.230 align:start position:0%
+trimming, they kept no more than 48.
+That<00:03:15.760><c> alone</c><00:03:16.080><c> wiped</c><00:03:16.360><c> out</c><00:03:16.480><c> a</c><00:03:16.560><c> massive</c><00:03:16.920><c> amount</c><00:03:17.160><c> of</c>
+
+00:03:17.230 --> 00:03:17.240 align:start position:0%
+That alone wiped out a massive amount of
+ 
+
+00:03:17.240 --> 00:03:19.390 align:start position:0%
+That alone wiped out a massive amount of
+wasted<00:03:17.640><c> space,</c><00:03:18.240><c> but</c><00:03:18.360><c> they</c><00:03:18.480><c> didn't</c><00:03:18.840><c> stop</c><00:03:19.120><c> there</c>
+
+00:03:19.390 --> 00:03:19.400 align:start position:0%
+wasted space, but they didn't stop there
+ 
+
+00:03:19.400 --> 00:03:21.190 align:start position:0%
+wasted space, but they didn't stop there
+because<00:03:19.640><c> there</c><00:03:19.800><c> was</c><00:03:20.000><c> a</c><00:03:20.040><c> second</c><00:03:20.440><c> problem.</c><00:03:21.000><c> When</c>
+
+00:03:21.190 --> 00:03:21.200 align:start position:0%
+because there was a second problem. When
+ 
+
+00:03:21.200 --> 00:03:23.190 align:start position:0%
+because there was a second problem. When
+you<00:03:21.320><c> run</c><00:03:21.480><c> an</c><00:03:21.680><c> AI</c><00:03:21.960><c> this</c><00:03:22.240><c> big,</c><00:03:22.720><c> you</c><00:03:22.880><c> need</c>
+
+00:03:23.190 --> 00:03:23.200 align:start position:0%
+you run an AI this big, you need
+ 
+
+00:03:23.200 --> 00:03:24.910 align:start position:0%
+you run an AI this big, you need
+hundreds<00:03:23.720><c> of</c><00:03:23.840><c> computer</c><00:03:24.280><c> chips</c><00:03:24.600><c> working</c>
+
+00:03:24.910 --> 00:03:24.920 align:start position:0%
+hundreds of computer chips working
+ 
+
+00:03:24.920 --> 00:03:26.830 align:start position:0%
+hundreds of computer chips working
+together.<00:03:25.440><c> Each</c><00:03:25.720><c> chip</c><00:03:26.040><c> handles</c><00:03:26.480><c> some</c><00:03:26.680><c> of</c><00:03:26.720><c> the</c>
+
+00:03:26.830 --> 00:03:26.840 align:start position:0%
+together. Each chip handles some of the
+ 
+
+00:03:26.840 --> 00:03:28.910 align:start position:0%
+together. Each chip handles some of the
+experts,<00:03:27.760><c> but</c><00:03:27.880><c> when</c><00:03:28.040><c> certain</c><00:03:28.400><c> experts</c><00:03:28.880><c> are</c>
+
+00:03:28.910 --> 00:03:28.920 align:start position:0%
+experts, but when certain experts are
+ 
+
+00:03:28.920 --> 00:03:30.910 align:start position:0%
+experts, but when certain experts are
+super<00:03:29.200><c> popular</c><00:03:29.760><c> and</c><00:03:29.880><c> others</c><00:03:30.160><c> aren't,</c><00:03:30.680><c> you</c><00:03:30.800><c> get</c>
+
+00:03:30.910 --> 00:03:30.920 align:start position:0%
+super popular and others aren't, you get
+ 
+
+00:03:30.920 --> 00:03:33.030 align:start position:0%
+super popular and others aren't, you get
+a<00:03:30.960><c> traffic</c><00:03:31.400><c> jam.</c><00:03:31.880><c> Some</c><00:03:32.120><c> chips</c><00:03:32.360><c> are</c><00:03:32.440><c> maxed</c><00:03:32.800><c> out,</c>
+
+00:03:33.030 --> 00:03:33.040 align:start position:0%
+a traffic jam. Some chips are maxed out,
+ 
+
+00:03:33.040 --> 00:03:35.390 align:start position:0%
+a traffic jam. Some chips are maxed out,
+others<00:03:33.320><c> are</c><00:03:33.400><c> bored.</c><00:03:33.960><c> That's</c><00:03:34.240><c> wasted</c><00:03:34.640><c> power.</c>
+
+00:03:35.390 --> 00:03:35.400 align:start position:0%
+others are bored. That's wasted power.
+ 
+
+00:03:35.400 --> 00:03:37.230 align:start position:0%
+others are bored. That's wasted power.
+So,<00:03:35.680><c> they</c><00:03:35.840><c> built</c><00:03:36.080><c> another</c><00:03:36.360><c> system</c><00:03:36.840><c> on</c><00:03:36.960><c> top</c><00:03:37.160><c> of</c>
+
+00:03:37.230 --> 00:03:37.240 align:start position:0%
+So, they built another system on top of
+ 
+
+00:03:37.240 --> 00:03:38.870 align:start position:0%
+So, they built another system on top of
+the<00:03:37.320><c> first</c><00:03:37.600><c> one.</c><00:03:38.000><c> This</c><00:03:38.200><c> one</c><00:03:38.360><c> constantly</c>
+
+00:03:38.870 --> 00:03:38.880 align:start position:0%
+the first one. This one constantly
+ 
+
+00:03:38.880 --> 00:03:40.910 align:start position:0%
+the first one. This one constantly
+shuffles<00:03:39.480><c> which</c><00:03:39.760><c> experts</c><00:03:40.280><c> live</c><00:03:40.480><c> on</c><00:03:40.600><c> which</c>
+
+00:03:40.910 --> 00:03:40.920 align:start position:0%
+shuffles which experts live on which
+ 
+
+00:03:40.920 --> 00:03:43.510 align:start position:0%
+shuffles which experts live on which
+chips.<00:03:41.800><c> The</c><00:03:41.880><c> busy</c><00:03:42.160><c> experts</c><00:03:42.840><c> get</c><00:03:43.120><c> spread</c>
+
+00:03:43.510 --> 00:03:43.520 align:start position:0%
+chips. The busy experts get spread
+ 
+
+00:03:43.520 --> 00:03:45.710 align:start position:0%
+chips. The busy experts get spread
+across<00:03:43.920><c> different</c><00:03:44.280><c> chips,</c><00:03:44.960><c> so</c><00:03:45.160><c> no</c><00:03:45.400><c> single</c>
+
+00:03:45.710 --> 00:03:45.720 align:start position:0%
+across different chips, so no single
+ 
+
+00:03:45.720 --> 00:03:47.910 align:start position:0%
+across different chips, so no single
+chip<00:03:46.000><c> gets</c><00:03:46.240><c> overwhelmed.</c><00:03:47.280><c> Over</c><00:03:47.560><c> time,</c>
+
+00:03:47.910 --> 00:03:47.920 align:start position:0%
+chip gets overwhelmed. Over time,
+ 
+
+00:03:47.920 --> 00:03:50.270 align:start position:0%
+chip gets overwhelmed. Over time,
+everything<00:03:48.360><c> balances</c><00:03:48.880><c> out</c><00:03:49.080><c> perfectly.</c><00:03:50.120><c> Put</c>
+
+00:03:50.270 --> 00:03:50.280 align:start position:0%
+everything balances out perfectly. Put
+ 
+
+00:03:50.280 --> 00:03:52.030 align:start position:0%
+everything balances out perfectly. Put
+those<00:03:50.520><c> two</c><00:03:50.720><c> systems</c><00:03:51.200><c> together,</c><00:03:51.880><c> and</c><00:03:51.960><c> the</c>
+
+00:03:52.030 --> 00:03:52.040 align:start position:0%
+those two systems together, and the
+ 
+
+00:03:52.040 --> 00:03:54.070 align:start position:0%
+those two systems together, and the
+training<00:03:52.400><c> speed</c><00:03:52.920><c> went</c><00:03:53.160><c> through</c><00:03:53.400><c> the</c><00:03:53.520><c> roof.</c>
+
+00:03:54.070 --> 00:03:54.080 align:start position:0%
+training speed went through the roof.
+ 
+
+00:03:54.080 --> 00:03:56.990 align:start position:0%
+training speed went through the roof.
+We're<00:03:54.280><c> talking</c><00:03:54.680><c> a</c><00:03:54.760><c> 49%</c><00:03:55.800><c> jump.</c><00:03:56.440><c> The</c><00:03:56.560><c> pruning</c>
+
+00:03:56.990 --> 00:03:57.000 align:start position:0%
+We're talking a 49% jump. The pruning
+ 
+
+00:03:57.000 --> 00:04:00.070 align:start position:0%
+We're talking a 49% jump. The pruning
+alone<00:03:57.440><c> gave</c><00:03:57.680><c> about</c><00:03:57.960><c> a</c><00:03:58.000><c> 32%</c><00:03:59.000><c> boost.</c><00:03:59.720><c> The</c><00:03:59.800><c> load</c>
+
+00:04:00.070 --> 00:04:00.080 align:start position:0%
+alone gave about a 32% boost. The load
+ 
+
+00:04:00.080 --> 00:04:01.990 align:start position:0%
+alone gave about a 32% boost. The load
+balancing<00:04:00.640><c> added</c><00:04:01.000><c> another</c><00:04:01.280><c> 15</c><00:04:01.680><c> on</c><00:04:01.800><c> top</c><00:04:01.920><c> of</c>
+
+00:04:01.990 --> 00:04:02.000 align:start position:0%
+balancing added another 15 on top of
+ 
+
+00:04:02.000 --> 00:04:03.950 align:start position:0%
+balancing added another 15 on top of
+that.<00:04:02.520><c> Now,</c><00:04:02.680><c> quick</c><00:04:02.920><c> pause</c><00:04:03.160><c> here.</c><00:04:03.720><c> If</c><00:04:03.840><c> you're</c>
+
+00:04:03.950 --> 00:04:03.960 align:start position:0%
+that. Now, quick pause here. If you're
+ 
+
+00:04:03.960 --> 00:04:05.510 align:start position:0%
+that. Now, quick pause here. If you're
+watching<00:04:04.360><c> this</c><00:04:04.520><c> and</c><00:04:04.640><c> thinking,</c><00:04:04.920><c> "Okay,</c><00:04:05.280><c> this</c>
+
+00:04:05.510 --> 00:04:05.520 align:start position:0%
+watching this and thinking, "Okay, this
+ 
+
+00:04:05.520 --> 00:04:07.670 align:start position:0%
+watching this and thinking, "Okay, this
+AI<00:04:05.760><c> stuff</c><00:04:06.000><c> is</c><00:04:06.080><c> moving</c><00:04:06.440><c> fast,</c><00:04:07.200><c> and</c><00:04:07.320><c> I</c><00:04:07.400><c> need</c><00:04:07.600><c> to</c>
+
+00:04:07.670 --> 00:04:07.680 align:start position:0%
+AI stuff is moving fast, and I need to
+ 
+
+00:04:07.680 --> 00:04:08.790 align:start position:0%
+AI stuff is moving fast, and I need to
+figure<00:04:07.920><c> out</c><00:04:08.040><c> how</c><00:04:08.120><c> to</c><00:04:08.240><c> use</c><00:04:08.480><c> it</c><00:04:08.600><c> for</c><00:04:08.680><c> my</c>
+
+00:04:08.790 --> 00:04:08.800 align:start position:0%
+figure out how to use it for my
+ 
+
+00:04:08.800 --> 00:04:10.630 align:start position:0%
+figure out how to use it for my
+business."<00:04:09.240><c> I</c><00:04:09.280><c> get</c><00:04:09.480><c> it.</c><00:04:09.800><c> That's</c><00:04:10.000><c> exactly</c><00:04:10.360><c> why</c>
+
+00:04:10.630 --> 00:04:10.640 align:start position:0%
+business." I get it. That's exactly why
+ 
+
+00:04:10.640 --> 00:04:12.830 align:start position:0%
+business." I get it. That's exactly why
+I<00:04:10.720><c> built</c><00:04:11.160><c> the</c><00:04:11.400><c> AI</c><00:04:11.760><c> Profit</c><00:04:12.200><c> Boardroom.</c><00:04:12.680><c> It's</c>
+
+00:04:12.830 --> 00:04:12.840 align:start position:0%
+I built the AI Profit Boardroom. It's
+ 
+
+00:04:12.840 --> 00:04:14.670 align:start position:0%
+I built the AI Profit Boardroom. It's
+the<00:04:12.920><c> best</c><00:04:13.280><c> place</c><00:04:13.600><c> to</c><00:04:13.720><c> scale</c><00:04:14.000><c> your</c><00:04:14.120><c> business,</c>
+
+00:04:14.670 --> 00:04:14.680 align:start position:0%
+the best place to scale your business,
+ 
+
+00:04:14.680 --> 00:04:16.910 align:start position:0%
+the best place to scale your business,
+get<00:04:14.880><c> more</c><00:04:15.080><c> customers,</c><00:04:15.880><c> and</c><00:04:16.000><c> save</c><00:04:16.359><c> hundreds</c><00:04:16.799><c> of</c>
+
+00:04:16.910 --> 00:04:16.920 align:start position:0%
+get more customers, and save hundreds of
+ 
+
+00:04:16.920 --> 00:04:19.229 align:start position:0%
+get more customers, and save hundreds of
+hours<00:04:17.280><c> with</c><00:04:17.519><c> AI</c><00:04:17.799><c> automation.</c><00:04:18.480><c> We</c><00:04:18.640><c> break</c><00:04:18.959><c> down</c>
+
+00:04:19.229 --> 00:04:19.239 align:start position:0%
+hours with AI automation. We break down
+ 
+
+00:04:19.239 --> 00:04:21.030 align:start position:0%
+hours with AI automation. We break down
+AI<00:04:19.480><c> breakthroughs</c><00:04:20.280><c> like</c><00:04:20.480><c> this</c><00:04:20.640><c> Chinese</c>
+
+00:04:21.030 --> 00:04:21.040 align:start position:0%
+AI breakthroughs like this Chinese
+ 
+
+00:04:21.040 --> 00:04:23.670 align:start position:0%
+AI breakthroughs like this Chinese
+model,<00:04:21.640><c> and</c><00:04:21.760><c> show</c><00:04:21.959><c> you</c><00:04:22.160><c> step-by-step</c><00:04:23.280><c> how</c><00:04:23.480><c> to</c>
+
+00:04:23.670 --> 00:04:23.680 align:start position:0%
+model, and show you step-by-step how to
+ 
+
+00:04:23.680 --> 00:04:26.150 align:start position:0%
+model, and show you step-by-step how to
+use<00:04:23.960><c> these</c><00:04:24.200><c> tools</c><00:04:24.640><c> in</c><00:04:24.760><c> the</c><00:04:24.880><c> real</c><00:04:25.160><c> world.</c><00:04:25.800><c> Link</c>
+
+00:04:26.150 --> 00:04:26.160 align:start position:0%
+use these tools in the real world. Link
+ 
+
+00:04:26.160 --> 00:04:27.790 align:start position:0%
+use these tools in the real world. Link
+is<00:04:26.280><c> in</c><00:04:26.400><c> the</c><00:04:26.480><c> description</c><00:04:27.080><c> and</c><00:04:27.200><c> comments.</c>
+
+00:04:27.790 --> 00:04:27.800 align:start position:0%
+is in the description and comments.
+ 
+
+00:04:27.800 --> 00:04:29.590 align:start position:0%
+is in the description and comments.
+Okay,<00:04:28.240><c> back</c><00:04:28.560><c> to</c><00:04:28.680><c> it</c><00:04:28.800><c> because</c><00:04:29.040><c> we</c><00:04:29.160><c> haven't</c><00:04:29.400><c> even</c>
+
+00:04:29.590 --> 00:04:29.600 align:start position:0%
+Okay, back to it because we haven't even
+ 
+
+00:04:29.600 --> 00:04:31.470 align:start position:0%
+Okay, back to it because we haven't even
+gotten<00:04:29.840><c> to</c><00:04:29.920><c> the</c><00:04:30.040><c> results</c><00:04:30.480><c> yet,</c><00:04:31.040><c> and</c><00:04:31.160><c> this</c><00:04:31.360><c> is</c>
+
+00:04:31.470 --> 00:04:31.480 align:start position:0%
+gotten to the results yet, and this is
+ 
+
+00:04:31.480 --> 00:04:33.230 align:start position:0%
+gotten to the results yet, and this is
+where<00:04:31.640><c> it</c><00:04:31.720><c> gets</c><00:04:31.960><c> really</c><00:04:32.200><c> fun.</c><00:04:32.800><c> Before</c><00:04:33.120><c> they</c>
+
+00:04:33.230 --> 00:04:33.240 align:start position:0%
+where it gets really fun. Before they
+ 
+
+00:04:33.240 --> 00:04:35.990 align:start position:0%
+where it gets really fun. Before they
+went<00:04:33.480><c> all</c><00:04:33.720><c> in</c><00:04:34.000><c> on</c><00:04:34.640><c> the</c><00:04:34.920><c> big</c><00:04:35.160><c> model,</c><00:04:35.840><c> they</c>
+
+00:04:35.990 --> 00:04:36.000 align:start position:0%
+went all in on the big model, they
+ 
+
+00:04:36.000 --> 00:04:38.230 align:start position:0%
+went all in on the big model, they
+tested<00:04:36.520><c> this</c><00:04:36.720><c> pruning</c><00:04:37.040><c> approach</c><00:04:37.600><c> on</c><00:04:37.840><c> smaller</c>
+
+00:04:38.230 --> 00:04:38.240 align:start position:0%
+tested this pruning approach on smaller
+ 
+
+00:04:38.240 --> 00:04:40.950 align:start position:0%
+tested this pruning approach on smaller
+versions<00:04:39.120><c> first.</c><00:04:40.000><c> Smart,</c><00:04:40.360><c> right?</c><00:04:40.640><c> They</c><00:04:40.720><c> tried</c>
+
+00:04:40.950 --> 00:04:40.960 align:start position:0%
+versions first. Smart, right? They tried
+ 
+
+00:04:40.960 --> 00:04:42.470 align:start position:0%
+versions first. Smart, right? They tried
+a<00:04:41.040><c> 10</c><00:04:41.240><c> billion</c><00:04:41.600><c> parameter</c><00:04:42.000><c> version.</c><00:04:42.360><c> They</c>
+
+00:04:42.470 --> 00:04:42.480 align:start position:0%
+a 10 billion parameter version. They
+ 
+
+00:04:42.480 --> 00:04:44.630 align:start position:0%
+a 10 billion parameter version. They
+pushed<00:04:42.800><c> the</c><00:04:42.880><c> pruning</c><00:04:43.280><c> hard,</c><00:04:43.920><c> removed</c><00:04:44.320><c> a</c><00:04:44.400><c> ton</c>
+
+00:04:44.630 --> 00:04:44.640 align:start position:0%
+pushed the pruning hard, removed a ton
+ 
+
+00:04:44.640 --> 00:04:46.910 align:start position:0%
+pushed the pruning hard, removed a ton
+of<00:04:44.760><c> experts,</c><00:04:45.640><c> and</c><00:04:45.760><c> guess</c><00:04:46.040><c> what?</c><00:04:46.200><c> The</c><00:04:46.320><c> accuracy</c>
+
+00:04:46.910 --> 00:04:46.920 align:start position:0%
+of experts, and guess what? The accuracy
+ 
+
+00:04:46.920 --> 00:04:48.750 align:start position:0%
+of experts, and guess what? The accuracy
+barely<00:04:47.280><c> budged.</c><00:04:48.000><c> In</c><00:04:48.160><c> some</c><00:04:48.360><c> tests,</c><00:04:48.680><c> the</c>
+
+00:04:48.750 --> 00:04:48.760 align:start position:0%
+barely budged. In some tests, the
+ 
+
+00:04:48.760 --> 00:04:50.830 align:start position:0%
+barely budged. In some tests, the
+trimmed-down<00:04:49.360><c> version</c><00:04:50.080><c> actually</c><00:04:50.480><c> scored</c>
+
+00:04:50.830 --> 00:04:50.840 align:start position:0%
+trimmed-down version actually scored
+ 
+
+00:04:50.840 --> 00:04:53.110 align:start position:0%
+trimmed-down version actually scored
+higher<00:04:51.160><c> than</c><00:04:51.320><c> the</c><00:04:51.440><c> full</c><00:04:51.680><c> version.</c>
+
+00:04:53.110 --> 00:04:53.120 align:start position:0%
+higher than the full version.
+ 
+
+00:04:53.120 --> 00:04:54.830 align:start position:0%
+higher than the full version.
+Because<00:04:53.480><c> when</c><00:04:53.640><c> you</c><00:04:53.760><c> remove</c><00:04:54.120><c> the</c><00:04:54.200><c> passengers,</c>
+
+00:04:54.830 --> 00:04:54.840 align:start position:0%
+Because when you remove the passengers,
+ 
+
+00:04:54.840 --> 00:04:56.790 align:start position:0%
+Because when you remove the passengers,
+the<00:04:54.920><c> workers</c><00:04:55.280><c> get</c><00:04:55.480><c> more</c><00:04:55.720><c> room</c><00:04:55.880><c> to</c><00:04:56.000><c> shine.</c><00:04:56.680><c> They</c>
+
+00:04:56.790 --> 00:04:56.800 align:start position:0%
+the workers get more room to shine. They
+ 
+
+00:04:56.800 --> 00:04:58.430 align:start position:0%
+the workers get more room to shine. They
+did<00:04:56.960><c> the</c><00:04:57.040><c> same</c><00:04:57.280><c> thing</c><00:04:57.520><c> on</c><00:04:57.600><c> a</c><00:04:57.680><c> 20</c><00:04:58.040><c> billion</c>
+
+00:04:58.430 --> 00:04:58.440 align:start position:0%
+did the same thing on a 20 billion
+ 
+
+00:04:58.440 --> 00:05:00.310 align:start position:0%
+did the same thing on a 20 billion
+parameter<00:04:58.880><c> version,</c><00:04:59.600><c> ran</c><00:04:59.800><c> it</c><00:04:59.880><c> through</c><00:05:00.040><c> math</c>
+
+00:05:00.310 --> 00:05:00.320 align:start position:0%
+parameter version, ran it through math
+ 
+
+00:05:00.320 --> 00:05:02.790 align:start position:0%
+parameter version, ran it through math
+tests,<00:05:01.040><c> knowledge</c><00:05:01.440><c> tests,</c><00:05:02.040><c> logic</c><00:05:02.360><c> puzzles,</c>
+
+00:05:02.790 --> 00:05:02.800 align:start position:0%
+tests, knowledge tests, logic puzzles,
+ 
+
+00:05:02.800 --> 00:05:04.590 align:start position:0%
+tests, knowledge tests, logic puzzles,
+trivia.<00:05:03.560><c> Across</c><00:05:03.880><c> the</c><00:05:03.960><c> board,</c><00:05:04.240><c> the</c><00:05:04.360><c> lean</c>
+
+00:05:04.590 --> 00:05:04.600 align:start position:0%
+trivia. Across the board, the lean
+ 
+
+00:05:04.600 --> 00:05:06.910 align:start position:0%
+trivia. Across the board, the lean
+version<00:05:05.320><c> held</c><00:05:05.600><c> up</c><00:05:05.800><c> or</c><00:05:05.880><c> beat</c><00:05:06.080><c> the</c><00:05:06.160><c> original.</c>
+
+00:05:06.910 --> 00:05:06.920 align:start position:0%
+version held up or beat the original.
+ 
+
+00:05:06.920 --> 00:05:08.670 align:start position:0%
+version held up or beat the original.
+Then<00:05:07.120><c> they</c><00:05:07.240><c> got</c><00:05:07.480><c> bold.</c><00:05:08.120><c> They</c><00:05:08.240><c> doubled</c><00:05:08.600><c> the</c>
+
+00:05:08.670 --> 00:05:08.680 align:start position:0%
+Then they got bold. They doubled the
+ 
+
+00:05:08.680 --> 00:05:11.150 align:start position:0%
+Then they got bold. They doubled the
+number<00:05:08.960><c> of</c><00:05:09.080><c> experts</c><00:05:09.960><c> and</c><00:05:10.080><c> tried</c><00:05:10.360><c> again.</c><00:05:10.840><c> Still</c>
+
+00:05:11.150 --> 00:05:11.160 align:start position:0%
+number of experts and tried again. Still
+ 
+
+00:05:11.160 --> 00:05:12.990 align:start position:0%
+number of experts and tried again. Still
+worked.<00:05:11.480><c> They</c><00:05:11.600><c> quadrupled</c><00:05:12.280><c> it.</c><00:05:12.680><c> Still</c>
+
+00:05:12.990 --> 00:05:13.000 align:start position:0%
+worked. They quadrupled it. Still
+ 
+
+00:05:13.000 --> 00:05:15.310 align:start position:0%
+worked. They quadrupled it. Still
+worked.<00:05:13.600><c> Every</c><00:05:13.960><c> time</c><00:05:14.240><c> they</c><00:05:14.360><c> scaled</c><00:05:14.760><c> up,</c><00:05:15.200><c> the</c>
+
+00:05:15.310 --> 00:05:15.320 align:start position:0%
+worked. Every time they scaled up, the
+ 
+
+00:05:15.320 --> 00:05:17.270 align:start position:0%
+worked. Every time they scaled up, the
+pruning<00:05:15.720><c> kept</c><00:05:16.000><c> delivering.</c><00:05:16.840><c> Now,</c><00:05:17.040><c> here's</c>
+
+00:05:17.270 --> 00:05:17.280 align:start position:0%
+pruning kept delivering. Now, here's
+ 
+
+00:05:17.280 --> 00:05:18.710 align:start position:0%
+pruning kept delivering. Now, here's
+another<00:05:17.560><c> thing</c><00:05:17.760><c> they</c><00:05:17.880><c> did</c><00:05:18.120><c> that</c><00:05:18.320><c> I</c><00:05:18.360><c> think</c><00:05:18.600><c> is</c>
+
+00:05:18.710 --> 00:05:18.720 align:start position:0%
+another thing they did that I think is
+ 
+
+00:05:18.720 --> 00:05:20.390 align:start position:0%
+another thing they did that I think is
+genius.<00:05:19.320><c> After</c><00:05:19.600><c> the</c><00:05:19.680><c> main</c><00:05:19.920><c> training</c><00:05:20.240><c> was</c>
+
+00:05:20.390 --> 00:05:20.400 align:start position:0%
+genius. After the main training was
+ 
+
+00:05:20.400 --> 00:05:24.150 align:start position:0%
+genius. After the main training was
+done,<00:05:21.240><c> they</c><00:05:21.640><c> moved</c><00:05:22.080><c> to</c><00:05:22.840><c> what</c><00:05:23.000><c> I'd</c><00:05:23.120><c> call</c><00:05:23.920><c> the</c>
+
+00:05:24.150 --> 00:05:24.160 align:start position:0%
+done, they moved to what I'd call the
+ 
+
+00:05:24.160 --> 00:05:25.550 align:start position:0%
+done, they moved to what I'd call the
+finishing<00:05:24.520><c> school</c><00:05:24.760><c> phase.</c><00:05:25.080><c> This</c><00:05:25.320><c> is</c><00:05:25.440><c> where</c>
+
+00:05:25.550 --> 00:05:25.560 align:start position:0%
+finishing school phase. This is where
+ 
+
+00:05:25.560 --> 00:05:28.070 align:start position:0%
+finishing school phase. This is where
+the<00:05:25.720><c> AI</c><00:05:26.200><c> learns</c><00:05:26.640><c> how</c><00:05:26.880><c> to</c><00:05:27.120><c> reason</c><00:05:27.440><c> better</c><00:05:27.960><c> and</c>
+
+00:05:28.070 --> 00:05:28.080 align:start position:0%
+the AI learns how to reason better and
+ 
+
+00:05:28.080 --> 00:05:30.030 align:start position:0%
+the AI learns how to reason better and
+give<00:05:28.320><c> sharper</c><00:05:28.760><c> answers,</c><00:05:29.240><c> and</c><00:05:29.400><c> they</c><00:05:29.520><c> ran</c><00:05:29.800><c> into</c>
+
+00:05:30.030 --> 00:05:30.040 align:start position:0%
+give sharper answers, and they ran into
+ 
+
+00:05:30.040 --> 00:05:32.590 align:start position:0%
+give sharper answers, and they ran into
+a<00:05:30.120><c> problem</c><00:05:30.880><c> that</c><00:05:31.080><c> tons</c><00:05:31.360><c> of</c><00:05:31.480><c> AI</c><00:05:31.720><c> models</c><00:05:32.160><c> have.</c>
+
+00:05:32.590 --> 00:05:32.600 align:start position:0%
+a problem that tons of AI models have.
+ 
+
+00:05:32.600 --> 00:05:34.350 align:start position:0%
+a problem that tons of AI models have.
+The<00:05:32.760><c> AI</c><00:05:32.960><c> was</c><00:05:33.160><c> overthinking.</c><00:05:33.880><c> You</c><00:05:33.960><c> ever</c><00:05:34.160><c> ask</c>
+
+00:05:34.350 --> 00:05:34.360 align:start position:0%
+The AI was overthinking. You ever ask
+ 
+
+00:05:34.360 --> 00:05:35.750 align:start position:0%
+The AI was overthinking. You ever ask
+someone<00:05:34.680><c> what</c><00:05:34.840><c> time</c><00:05:35.080><c> it</c><00:05:35.200><c> is</c><00:05:35.360><c> and</c><00:05:35.440><c> they</c><00:05:35.560><c> tell</c>
+
+00:05:35.750 --> 00:05:35.760 align:start position:0%
+someone what time it is and they tell
+ 
+
+00:05:35.760 --> 00:05:37.790 align:start position:0%
+someone what time it is and they tell
+you<00:05:35.840><c> the</c><00:05:35.960><c> entire</c><00:05:36.360><c> history</c><00:05:36.720><c> of</c><00:05:36.840><c> clocks?</c><00:05:37.560><c> That's</c>
+
+00:05:37.790 --> 00:05:37.800 align:start position:0%
+you the entire history of clocks? That's
+ 
+
+00:05:37.800 --> 00:05:39.790 align:start position:0%
+you the entire history of clocks? That's
+what<00:05:37.920><c> the</c><00:05:38.040><c> AI</c><00:05:38.280><c> was</c><00:05:38.480><c> doing.</c><00:05:38.720><c> Simple</c><00:05:39.040><c> question,</c>
+
+00:05:39.790 --> 00:05:39.800 align:start position:0%
+what the AI was doing. Simple question,
+ 
+
+00:05:39.800 --> 00:05:41.910 align:start position:0%
+what the AI was doing. Simple question,
+massive<00:05:40.240><c> long-winded</c><00:05:40.760><c> answer,</c><00:05:41.400><c> pages</c><00:05:41.800><c> of</c>
+
+00:05:41.910 --> 00:05:41.920 align:start position:0%
+massive long-winded answer, pages of
+ 
+
+00:05:41.920 --> 00:05:43.750 align:start position:0%
+massive long-winded answer, pages of
+unnecessary<00:05:42.600><c> reasoning</c><00:05:43.080><c> just</c><00:05:43.320><c> to</c><00:05:43.400><c> get</c><00:05:43.600><c> to</c><00:05:43.720><c> a</c>
+
+00:05:43.750 --> 00:05:43.760 align:start position:0%
+unnecessary reasoning just to get to a
+ 
+
+00:05:43.760 --> 00:05:45.790 align:start position:0%
+unnecessary reasoning just to get to a
+basic<00:05:44.160><c> conclusion.</c><00:05:45.200><c> So,</c><00:05:45.320><c> they</c><00:05:45.480><c> built</c><00:05:45.760><c> a</c>
+
+00:05:45.790 --> 00:05:45.800 align:start position:0%
+basic conclusion. So, they built a
+ 
+
+00:05:45.800 --> 00:05:47.670 align:start position:0%
+basic conclusion. So, they built a
+reward<00:05:46.160><c> system.</c><00:05:46.800><c> If</c><00:05:46.960><c> the</c><00:05:47.080><c> AI</c><00:05:47.280><c> solves</c><00:05:47.600><c> a</c>
+
+00:05:47.670 --> 00:05:47.680 align:start position:0%
+reward system. If the AI solves a
+ 
+
+00:05:47.680 --> 00:05:50.030 align:start position:0%
+reward system. If the AI solves a
+problem<00:05:48.000><c> in</c><00:05:48.120><c> fewer</c><00:05:48.400><c> steps,</c><00:05:49.120><c> it</c><00:05:49.240><c> gets</c><00:05:49.440><c> a</c><00:05:49.480><c> treat.</c>
+
+00:05:50.030 --> 00:05:50.040 align:start position:0%
+problem in fewer steps, it gets a treat.
+ 
+
+00:05:50.040 --> 00:05:51.870 align:start position:0%
+problem in fewer steps, it gets a treat.
+Good<00:05:50.200><c> job.</c><00:05:50.800><c> But</c><00:05:51.000><c> if</c><00:05:51.120><c> it</c><00:05:51.200><c> takes</c><00:05:51.520><c> too</c><00:05:51.680><c> many</c>
+
+00:05:51.870 --> 00:05:51.880 align:start position:0%
+Good job. But if it takes too many
+ 
+
+00:05:51.880 --> 00:05:53.670 align:start position:0%
+Good job. But if it takes too many
+steps,<00:05:52.280><c> especially</c><00:05:52.760><c> more</c><00:05:52.920><c> than</c><00:05:53.080><c> three</c><00:05:53.360><c> rounds</c>
+
+00:05:53.670 --> 00:05:53.680 align:start position:0%
+steps, especially more than three rounds
+ 
+
+00:05:53.680 --> 00:05:55.430 align:start position:0%
+steps, especially more than three rounds
+of<00:05:53.760><c> back</c><00:05:54.000><c> and</c><00:05:54.120><c> forth</c><00:05:54.360><c> with</c><00:05:54.480><c> itself,</c><00:05:55.360><c> the</c>
+
+00:05:55.430 --> 00:05:55.440 align:start position:0%
+of back and forth with itself, the
+ 
+
+00:05:55.440 --> 00:05:57.310 align:start position:0%
+of back and forth with itself, the
+reward<00:05:55.840><c> drops.</c><00:05:56.200><c> It</c><00:05:56.320><c> might</c><00:05:56.480><c> even</c><00:05:56.680><c> get</c><00:05:56.880><c> punished</c>
+
+00:05:57.310 --> 00:05:57.320 align:start position:0%
+reward drops. It might even get punished
+ 
+
+00:05:57.320 --> 00:05:59.270 align:start position:0%
+reward drops. It might even get punished
+for<00:05:57.480><c> overthinking.</c><00:05:58.520><c> After</c><00:05:58.800><c> training</c><00:05:59.160><c> with</c>
+
+00:05:59.270 --> 00:05:59.280 align:start position:0%
+for overthinking. After training with
+ 
+
+00:05:59.280 --> 00:06:01.870 align:start position:0%
+for overthinking. After training with
+this<00:05:59.400><c> system,</c><00:06:00.120><c> the</c><00:06:00.400><c> AI's</c><00:06:00.840><c> reasoning</c><00:06:01.280><c> accuracy</c>
+
+00:06:01.870 --> 00:06:01.880 align:start position:0%
+this system, the AI's reasoning accuracy
+ 
+
+00:06:01.880 --> 00:06:04.470 align:start position:0%
+this system, the AI's reasoning accuracy
+jumped<00:06:02.280><c> by</c><00:06:02.400><c> about</c><00:06:02.720><c> 16%,</c><00:06:03.920><c> and</c><00:06:04.080><c> the</c><00:06:04.160><c> average</c>
+
+00:06:04.470 --> 00:06:04.480 align:start position:0%
+jumped by about 16%, and the average
+ 
+
+00:06:04.480 --> 00:06:07.150 align:start position:0%
+jumped by about 16%, and the average
+answer<00:06:04.760><c> length</c><00:06:05.360><c> dropped</c><00:06:05.720><c> by</c><00:06:05.880><c> about</c><00:06:06.160><c> 14%.</c>
+
+00:06:07.150 --> 00:06:07.160 align:start position:0%
+answer length dropped by about 14%.
+ 
+
+00:06:07.160 --> 00:06:09.150 align:start position:0%
+answer length dropped by about 14%.
+Smarter<00:06:07.880><c> and</c><00:06:08.000><c> shorter.</c><00:06:08.480><c> That's</c><00:06:08.760><c> the</c><00:06:08.840><c> dream</c>
+
+00:06:09.150 --> 00:06:09.160 align:start position:0%
+Smarter and shorter. That's the dream
+ 
+
+00:06:09.160 --> 00:06:11.310 align:start position:0%
+Smarter and shorter. That's the dream
+combo<00:06:09.560><c> right</c><00:06:09.880><c> there.</c><00:06:10.160><c> So,</c><00:06:10.840><c> what</c><00:06:11.040><c> happened</c>
+
+00:06:11.310 --> 00:06:11.320 align:start position:0%
+combo right there. So, what happened
+ 
+
+00:06:11.320 --> 00:06:12.950 align:start position:0%
+combo right there. So, what happened
+when<00:06:11.480><c> they</c><00:06:11.720><c> put</c><00:06:12.000><c> it</c><00:06:12.120><c> all</c><00:06:12.240><c> together</c><00:06:12.600><c> and</c><00:06:12.720><c> ran</c>
+
+00:06:12.950 --> 00:06:12.960 align:start position:0%
+when they put it all together and ran
+ 
+
+00:06:12.960 --> 00:06:15.230 align:start position:0%
+when they put it all together and ran
+the<00:06:13.040><c> final</c><00:06:13.400><c> test</c><00:06:13.640><c> against</c><00:06:13.920><c> the</c><00:06:14.000><c> big</c><00:06:14.200><c> dogs?</c><00:06:15.040><c> On</c>
+
+00:06:15.230 --> 00:06:15.240 align:start position:0%
+the final test against the big dogs? On
+ 
+
+00:06:15.240 --> 00:06:17.270 align:start position:0%
+the final test against the big dogs? On
+document<00:06:15.640><c> retrieval,</c><00:06:16.560><c> which</c><00:06:16.760><c> is</c><00:06:16.880><c> basically</c>
+
+00:06:17.270 --> 00:06:17.280 align:start position:0%
+document retrieval, which is basically
+ 
+
+00:06:17.280 --> 00:06:19.270 align:start position:0%
+document retrieval, which is basically
+finding<00:06:17.640><c> specific</c><00:06:18.120><c> info</c><00:06:18.520><c> inside</c><00:06:18.920><c> a</c><00:06:18.960><c> pile</c><00:06:19.200><c> of</c>
+
+00:06:19.270 --> 00:06:19.280 align:start position:0%
+finding specific info inside a pile of
+ 
+
+00:06:19.280 --> 00:06:22.310 align:start position:0%
+finding specific info inside a pile of
+documents,<00:06:20.120><c> Yuan</c><00:06:20.520><c> 3.0</c><00:06:21.240><c> Ultra</c><00:06:21.760><c> scored</c><00:06:22.080><c> higher</c>
+
+00:06:22.310 --> 00:06:22.320 align:start position:0%
+documents, Yuan 3.0 Ultra scored higher
+ 
+
+00:06:22.320 --> 00:06:24.430 align:start position:0%
+documents, Yuan 3.0 Ultra scored higher
+than<00:06:22.520><c> GPT,</c><00:06:23.080><c> Claude,</c><00:06:23.480><c> and</c><00:06:23.600><c> Gemini</c><00:06:24.120><c> on</c><00:06:24.240><c> that</c>
+
+00:06:24.430 --> 00:06:24.440 align:start position:0%
+than GPT, Claude, and Gemini on that
+ 
+
+00:06:24.440 --> 00:06:26.390 align:start position:0%
+than GPT, Claude, and Gemini on that
+test.<00:06:25.160><c> That's</c><00:06:25.360><c> not</c><00:06:25.520><c> a</c><00:06:25.560><c> small</c><00:06:25.880><c> thing.</c><00:06:26.200><c> Those</c>
+
+00:06:26.390 --> 00:06:26.400 align:start position:0%
+test. That's not a small thing. Those
+ 
+
+00:06:26.400 --> 00:06:28.670 align:start position:0%
+test. That's not a small thing. Those
+are<00:06:26.480><c> the</c><00:06:26.560><c> three</c><00:06:27.240><c> biggest</c><00:06:27.600><c> names</c><00:06:28.000><c> in</c><00:06:28.160><c> AI.</c><00:06:28.560><c> On</c>
+
+00:06:28.670 --> 00:06:28.680 align:start position:0%
+are the three biggest names in AI. On
+ 
+
+00:06:28.680 --> 00:06:30.790 align:start position:0%
+are the three biggest names in AI. On
+long-form<00:06:29.160><c> retrieval</c><00:06:29.720><c> across</c><00:06:30.200><c> 10</c><00:06:30.480><c> different</c>
+
+00:06:30.790 --> 00:06:30.800 align:start position:0%
+long-form retrieval across 10 different
+ 
+
+00:06:30.800 --> 00:06:33.430 align:start position:0%
+long-form retrieval across 10 different
+tasks,<00:06:31.600><c> it</c><00:06:31.720><c> led</c><00:06:31.920><c> nine</c><00:06:32.200><c> out</c><00:06:32.320><c> of</c><00:06:32.400><c> 10.</c><00:06:33.000><c> On</c><00:06:33.120><c> table</c>
+
+00:06:33.430 --> 00:06:33.440 align:start position:0%
+tasks, it led nine out of 10. On table
+ 
+
+00:06:33.440 --> 00:06:35.710 align:start position:0%
+tasks, it led nine out of 10. On table
+understanding<00:06:33.960><c> and</c><00:06:34.040><c> data</c><00:06:34.320><c> analysis,</c><00:06:35.200><c> it</c><00:06:35.400><c> beat</c>
+
+00:06:35.710 --> 00:06:35.720 align:start position:0%
+understanding and data analysis, it beat
+ 
+
+00:06:35.720 --> 00:06:37.590 align:start position:0%
+understanding and data analysis, it beat
+multiple<00:06:36.200><c> leading</c><00:06:36.480><c> models</c><00:06:36.880><c> across</c><00:06:37.200><c> 15</c>
+
+00:06:37.590 --> 00:06:37.600 align:start position:0%
+multiple leading models across 15
+ 
+
+00:06:37.600 --> 00:06:39.870 align:start position:0%
+multiple leading models across 15
+different<00:06:37.960><c> data</c><00:06:38.240><c> sets.</c><00:06:38.960><c> On</c><00:06:39.080><c> summarization,</c>
+
+00:06:39.870 --> 00:06:39.880 align:start position:0%
+different data sets. On summarization,
+ 
+
+00:06:39.880 --> 00:06:41.550 align:start position:0%
+different data sets. On summarization,
+same<00:06:40.120><c> story.</c><00:06:40.760><c> Beat</c><00:06:41.000><c> several</c><00:06:41.360><c> top</c>
+
+00:06:41.550 --> 00:06:41.560 align:start position:0%
+same story. Beat several top
+ 
+
+00:06:41.560 --> 00:06:44.590 align:start position:0%
+same story. Beat several top
+competitors,<00:06:42.560><c> coding</c><00:06:42.920><c> tests,</c><00:06:43.520><c> math</c><00:06:43.840><c> tests,</c>
+
+00:06:44.590 --> 00:06:44.600 align:start position:0%
+competitors, coding tests, math tests,
+ 
+
+00:06:44.600 --> 00:06:46.510 align:start position:0%
+competitors, coding tests, math tests,
+database<00:06:45.120><c> queries,</c><00:06:45.520><c> strong</c><00:06:45.840><c> numbers</c><00:06:46.200><c> across</c>
+
+00:06:46.510 --> 00:06:46.520 align:start position:0%
+database queries, strong numbers across
+ 
+
+00:06:46.520 --> 00:06:48.590 align:start position:0%
+database queries, strong numbers across
+the<00:06:46.600><c> board.</c><00:06:47.160><c> Over</c><00:06:47.440><c> 90%</c><00:06:48.080><c> on</c><00:06:48.200><c> some</c><00:06:48.360><c> math</c>
+
+00:06:48.590 --> 00:06:48.600 align:start position:0%
+the board. Over 90% on some math
+ 
+
+00:06:48.600 --> 00:06:51.110 align:start position:0%
+the board. Over 90% on some math
+benchmarks,<00:06:49.160><c> over</c><00:06:49.440><c> 80%</c><00:06:49.960><c> on</c><00:06:50.080><c> coding</c><00:06:50.440><c> tests,</c>
+
+00:06:51.110 --> 00:06:51.120 align:start position:0%
+benchmarks, over 80% on coding tests,
+ 
+
+00:06:51.120 --> 00:06:53.710 align:start position:0%
+benchmarks, over 80% on coding tests,
+nearly<00:06:51.520><c> 88%</c><00:06:52.240><c> on</c><00:06:52.360><c> broad</c><00:06:52.640><c> knowledge</c><00:06:53.080><c> tests.</c>
+
+00:06:53.710 --> 00:06:53.720 align:start position:0%
+nearly 88% on broad knowledge tests.
+ 
+
+00:06:53.720 --> 00:06:55.510 align:start position:0%
+nearly 88% on broad knowledge tests.
+Now,<00:06:53.880><c> am</c><00:06:54.040><c> I</c><00:06:54.120><c> saying</c><00:06:54.440><c> this</c><00:06:54.640><c> is</c><00:06:54.760><c> the</c><00:06:54.840><c> best</c><00:06:55.200><c> AI</c>
+
+00:06:55.510 --> 00:06:55.520 align:start position:0%
+Now, am I saying this is the best AI
+ 
+
+00:06:55.520 --> 00:06:57.310 align:start position:0%
+Now, am I saying this is the best AI
+ever<00:06:55.760><c> made?</c><00:06:56.120><c> No.</c><00:06:56.560><c> Different</c><00:06:56.920><c> models</c><00:06:57.240><c> are</c>
+
+00:06:57.310 --> 00:06:57.320 align:start position:0%
+ever made? No. Different models are
+ 
+
+00:06:57.320 --> 00:06:58.470 align:start position:0%
+ever made? No. Different models are
+better<00:06:57.560><c> at</c><00:06:57.640><c> different</c><00:06:58.000><c> things.</c><00:06:58.240><c> That's</c>
+
+00:06:58.470 --> 00:06:58.480 align:start position:0%
+better at different things. That's
+ 
+
+00:06:58.480 --> 00:07:00.190 align:start position:0%
+better at different things. That's
+always<00:06:58.720><c> going</c><00:06:58.840><c> to</c><00:06:58.920><c> be</c><00:06:59.040><c> true.</c><00:06:59.640><c> But</c><00:06:59.800><c> here's</c><00:07:00.040><c> what</c>
+
+00:07:00.190 --> 00:07:00.200 align:start position:0%
+always going to be true. But here's what
+ 
+
+00:07:00.200 --> 00:07:02.430 align:start position:0%
+always going to be true. But here's what
+matters.<00:07:00.640><c> This</c><00:07:00.840><c> team</c><00:07:01.080><c> just</c><00:07:01.320><c> proved</c><00:07:02.160><c> that</c><00:07:02.360><c> the</c>
+
+00:07:02.430 --> 00:07:02.440 align:start position:0%
+matters. This team just proved that the
+ 
+
+00:07:02.440 --> 00:07:04.190 align:start position:0%
+matters. This team just proved that the
+future<00:07:02.800><c> of</c><00:07:02.920><c> AI</c><00:07:03.240><c> isn't</c><00:07:03.600><c> about</c><00:07:03.920><c> being</c><00:07:04.120><c> the</c>
+
+00:07:04.190 --> 00:07:04.200 align:start position:0%
+future of AI isn't about being the
+ 
+
+00:07:04.200 --> 00:07:06.750 align:start position:0%
+future of AI isn't about being the
+biggest,<00:07:05.000><c> it's</c><00:07:05.160><c> about</c><00:07:05.440><c> being</c><00:07:05.680><c> the</c><00:07:05.760><c> smartest.</c>
+
+00:07:06.750 --> 00:07:06.760 align:start position:0%
+biggest, it's about being the smartest.
+ 
+
+00:07:06.760 --> 00:07:08.150 align:start position:0%
+biggest, it's about being the smartest.
+They<00:07:06.880><c> showed</c><00:07:07.200><c> that</c><00:07:07.400><c> you</c><00:07:07.520><c> can</c><00:07:07.640><c> take</c><00:07:07.840><c> something</c>
+
+00:07:08.150 --> 00:07:08.160 align:start position:0%
+They showed that you can take something
+ 
+
+00:07:08.160 --> 00:07:10.630 align:start position:0%
+They showed that you can take something
+massive,<00:07:08.880><c> strip</c><00:07:09.200><c> away</c><00:07:09.440><c> the</c><00:07:09.560><c> waste,</c><00:07:10.240><c> and</c><00:07:10.440><c> end</c>
+
+00:07:10.630 --> 00:07:10.640 align:start position:0%
+massive, strip away the waste, and end
+ 
+
+00:07:10.640 --> 00:07:12.110 align:start position:0%
+massive, strip away the waste, and end
+up<00:07:10.720><c> with</c><00:07:10.840><c> something</c><00:07:11.120><c> that's</c><00:07:11.360><c> faster</c><00:07:11.800><c> and</c><00:07:11.920><c> more</c>
+
+00:07:12.110 --> 00:07:12.120 align:start position:0%
+up with something that's faster and more
+ 
+
+00:07:12.120 --> 00:07:14.230 align:start position:0%
+up with something that's faster and more
+accurate.<00:07:12.560><c> That's</c><00:07:12.760><c> a</c><00:07:12.800><c> massive</c><00:07:13.240><c> shift</c><00:07:13.920><c> because</c>
+
+00:07:14.230 --> 00:07:14.240 align:start position:0%
+accurate. That's a massive shift because
+ 
+
+00:07:14.240 --> 00:07:16.310 align:start position:0%
+accurate. That's a massive shift because
+for<00:07:14.360><c> years,</c><00:07:14.680><c> everyone</c><00:07:15.080><c> assumed</c><00:07:15.920><c> bigger</c>
+
+00:07:16.310 --> 00:07:16.320 align:start position:0%
+for years, everyone assumed bigger
+ 
+
+00:07:16.320 --> 00:07:18.230 align:start position:0%
+for years, everyone assumed bigger
+equals<00:07:16.680><c> better.</c><00:07:17.200><c> More</c><00:07:17.440><c> parameters,</c><00:07:18.040><c> more</c>
+
+00:07:18.230 --> 00:07:18.240 align:start position:0%
+equals better. More parameters, more
+ 
+
+00:07:18.240 --> 00:07:19.590 align:start position:0%
+equals better. More parameters, more
+chips,<00:07:18.600><c> more</c><00:07:18.760><c> electricity,</c><00:07:19.400><c> more</c>
+
+00:07:19.590 --> 00:07:19.600 align:start position:0%
+chips, more electricity, more
+ 
+
+00:07:19.600 --> 00:07:21.190 align:start position:0%
+chips, more electricity, more
+everything.<00:07:20.240><c> And</c><00:07:20.440><c> these</c><00:07:20.600><c> guys</c><00:07:20.840><c> just</c><00:07:21.000><c> said,</c>
+
+00:07:21.190 --> 00:07:21.200 align:start position:0%
+everything. And these guys just said,
+ 
+
+00:07:21.200 --> 00:07:22.550 align:start position:0%
+everything. And these guys just said,
+"Actually,<00:07:21.520><c> no.</c><00:07:21.720><c> If</c><00:07:21.880><c> you're</c><00:07:21.960><c> smart</c><00:07:22.320><c> about</c>
+
+00:07:22.550 --> 00:07:22.560 align:start position:0%
+"Actually, no. If you're smart about
+ 
+
+00:07:22.560 --> 00:07:24.910 align:start position:0%
+"Actually, no. If you're smart about
+what<00:07:22.680><c> you</c><00:07:22.800><c> keep</c><00:07:23.480><c> and</c><00:07:23.600><c> what</c><00:07:23.760><c> you</c><00:07:23.840><c> cut,</c><00:07:24.520><c> less</c><00:07:24.800><c> can</c>
+
+00:07:24.910 --> 00:07:24.920 align:start position:0%
+what you keep and what you cut, less can
+ 
+
+00:07:24.920 --> 00:07:26.510 align:start position:0%
+what you keep and what you cut, less can
+be<00:07:25.040><c> more."</c><00:07:25.560><c> Think</c><00:07:25.800><c> about</c><00:07:26.000><c> what</c><00:07:26.120><c> that</c><00:07:26.240><c> means</c>
+
+00:07:26.510 --> 00:07:26.520 align:start position:0%
+be more." Think about what that means
+ 
+
+00:07:26.520 --> 00:07:28.070 align:start position:0%
+be more." Think about what that means
+going<00:07:26.760><c> forward,</c><00:07:27.160><c> right?</c><00:07:27.320><c> If</c><00:07:27.440><c> this</c><00:07:27.600><c> approach</c>
+
+00:07:28.070 --> 00:07:28.080 align:start position:0%
+going forward, right? If this approach
+ 
+
+00:07:28.080 --> 00:07:30.590 align:start position:0%
+going forward, right? If this approach
+catches<00:07:28.480><c> on,</c><00:07:29.040><c> we</c><00:07:29.200><c> could</c><00:07:29.400><c> see</c><00:07:29.720><c> AI</c><00:07:30.000><c> models</c><00:07:30.480><c> that</c>
+
+00:07:30.590 --> 00:07:30.600 align:start position:0%
+catches on, we could see AI models that
+ 
+
+00:07:30.600 --> 00:07:33.070 align:start position:0%
+catches on, we could see AI models that
+are<00:07:30.680><c> way</c><00:07:30.840><c> more</c><00:07:31.040><c> efficient,</c><00:07:31.840><c> that</c><00:07:32.080><c> run</c><00:07:32.280><c> faster,</c>
+
+00:07:33.070 --> 00:07:33.080 align:start position:0%
+are way more efficient, that run faster,
+ 
+
+00:07:33.080 --> 00:07:35.110 align:start position:0%
+are way more efficient, that run faster,
+that<00:07:33.280><c> need</c><00:07:33.520><c> less</c><00:07:33.800><c> hardware.</c><00:07:34.560><c> That</c><00:07:34.760><c> means</c>
+
+00:07:35.110 --> 00:07:35.120 align:start position:0%
+that need less hardware. That means
+ 
+
+00:07:35.120 --> 00:07:37.270 align:start position:0%
+that need less hardware. That means
+better<00:07:35.400><c> tools</c><00:07:35.840><c> for</c><00:07:36.000><c> everyone,</c><00:07:36.760><c> better</c><00:07:36.960><c> tools</c>
+
+00:07:37.270 --> 00:07:37.280 align:start position:0%
+better tools for everyone, better tools
+ 
+
+00:07:37.280 --> 00:07:38.630 align:start position:0%
+better tools for everyone, better tools
+for<00:07:37.400><c> businesses,</c><00:07:38.000><c> better</c><00:07:38.240><c> tools</c><00:07:38.520><c> for</c>
+
+00:07:38.630 --> 00:07:38.640 align:start position:0%
+for businesses, better tools for
+ 
+
+00:07:38.640 --> 00:07:40.910 align:start position:0%
+for businesses, better tools for
+creators,<00:07:39.240><c> better</c><00:07:39.480><c> tools</c><00:07:39.800><c> for</c><00:07:39.920><c> you.</c>
+
+00:07:40.910 --> 00:07:40.920 align:start position:0%
+creators, better tools for you.
+ 
+
+00:07:40.920 --> 00:07:42.710 align:start position:0%
+creators, better tools for you.
+The<00:07:41.160><c> AI</c><00:07:41.440><c> race</c><00:07:41.760><c> just</c><00:07:41.960><c> got</c><00:07:42.120><c> a</c><00:07:42.160><c> whole</c><00:07:42.360><c> lot</c><00:07:42.520><c> more</c>
+
+00:07:42.710 --> 00:07:42.720 align:start position:0%
+The AI race just got a whole lot more
+ 
+
+00:07:42.720 --> 00:07:44.550 align:start position:0%
+The AI race just got a whole lot more
+interesting.<00:07:43.320><c> It's</c><00:07:43.560><c> not</c><00:07:43.760><c> just</c><00:07:43.960><c> about</c><00:07:44.240><c> who</c><00:07:44.400><c> can</c>
+
+00:07:44.550 --> 00:07:44.560 align:start position:0%
+interesting. It's not just about who can
+ 
+
+00:07:44.560 --> 00:07:46.390 align:start position:0%
+interesting. It's not just about who can
+build<00:07:44.800><c> the</c><00:07:44.880><c> biggest</c><00:07:45.240><c> brain</c><00:07:45.520><c> anymore.</c><00:07:46.280><c> It's</c>
+
+00:07:46.390 --> 00:07:46.400 align:start position:0%
+build the biggest brain anymore. It's
+ 
+
+00:07:46.400 --> 00:07:48.390 align:start position:0%
+build the biggest brain anymore. It's
+about<00:07:46.840><c> who</c><00:07:46.960><c> can</c><00:07:47.120><c> build</c><00:07:47.320><c> the</c><00:07:47.400><c> sharpest</c><00:07:47.880><c> one.</c>
+
+00:07:48.390 --> 00:07:48.400 align:start position:0%
+about who can build the sharpest one.
+ 
+
+00:07:48.400 --> 00:07:50.710 align:start position:0%
+about who can build the sharpest one.
+And<00:07:48.520><c> right</c><00:07:48.720><c> now,</c><00:07:49.320><c> this</c><00:07:49.600><c> team</c><00:07:49.880><c> from</c><00:07:50.080><c> China</c><00:07:50.480><c> just</c>
+
+00:07:50.710 --> 00:07:50.720 align:start position:0%
+And right now, this team from China just
+ 
+
+00:07:50.720 --> 00:07:52.790 align:start position:0%
+And right now, this team from China just
+made<00:07:50.880><c> a</c><00:07:50.920><c> very</c><00:07:51.240><c> loud</c><00:07:51.560><c> statement.</c><00:07:52.440><c> So,</c><00:07:52.600><c> if</c><00:07:52.720><c> you</c>
+
+00:07:52.790 --> 00:07:52.800 align:start position:0%
+made a very loud statement. So, if you
+ 
+
+00:07:52.800 --> 00:07:55.070 align:start position:0%
+made a very loud statement. So, if you
+want<00:07:52.920><c> to</c><00:07:53.000><c> stay</c><00:07:53.320><c> on</c><00:07:53.520><c> top</c><00:07:53.840><c> of</c><00:07:54.360><c> every</c><00:07:54.760><c> AI</c>
+
+00:07:55.070 --> 00:07:55.080 align:start position:0%
+want to stay on top of every AI
+ 
+
+00:07:55.080 --> 00:07:57.070 align:start position:0%
+want to stay on top of every AI
+breakthrough<00:07:55.560><c> like</c><00:07:55.800><c> this,</c><00:07:56.400><c> and</c><00:07:56.560><c> learn</c><00:07:56.760><c> how</c><00:07:56.920><c> to</c>
+
+00:07:57.070 --> 00:07:57.080 align:start position:0%
+breakthrough like this, and learn how to
+ 
+
+00:07:57.080 --> 00:07:58.790 align:start position:0%
+breakthrough like this, and learn how to
+actually<00:07:57.400><c> apply</c><00:07:57.760><c> these</c><00:07:58.000><c> tools</c><00:07:58.320><c> to</c><00:07:58.440><c> grow</c><00:07:58.640><c> your</c>
+
+00:07:58.790 --> 00:07:58.800 align:start position:0%
+actually apply these tools to grow your
+ 
+
+00:07:58.800 --> 00:08:00.550 align:start position:0%
+actually apply these tools to grow your
+business<00:07:59.160><c> and</c><00:07:59.240><c> get</c><00:07:59.400><c> more</c><00:07:59.520><c> customers,</c><00:08:00.280><c> join</c>
+
+00:08:00.550 --> 00:08:00.560 align:start position:0%
+business and get more customers, join
+ 
+
+00:08:00.560 --> 00:08:02.830 align:start position:0%
+business and get more customers, join
+the<00:08:00.760><c> AI</c><00:08:01.000><c> Profit</c><00:08:01.440><c> Boardroom.</c><00:08:02.240><c> We</c><00:08:02.360><c> cover</c><00:08:02.720><c> the</c>
+
+00:08:02.830 --> 00:08:02.840 align:start position:0%
+the AI Profit Boardroom. We cover the
+ 
+
+00:08:02.840 --> 00:08:05.510 align:start position:0%
+the AI Profit Boardroom. We cover the
+latest<00:08:03.440><c> AI</c><00:08:03.680><c> automation</c><00:08:04.240><c> strategies</c><00:08:05.160><c> and</c><00:08:05.280><c> help</c>
+
+00:08:05.510 --> 00:08:05.520 align:start position:0%
+latest AI automation strategies and help
+ 
+
+00:08:05.520 --> 00:08:07.190 align:start position:0%
+latest AI automation strategies and help
+you<00:08:05.600><c> put</c><00:08:05.760><c> them</c><00:08:05.920><c> to</c><00:08:06.040><c> work.</c><00:08:06.680><c> It's</c><00:08:06.840><c> the</c><00:08:06.920><c> best</c>
+
+00:08:07.190 --> 00:08:07.200 align:start position:0%
+you put them to work. It's the best
+ 
+
+00:08:07.200 --> 00:08:09.110 align:start position:0%
+you put them to work. It's the best
+community<00:08:07.680><c> out</c><00:08:07.920><c> there</c><00:08:08.360><c> for</c><00:08:08.480><c> staying</c><00:08:08.800><c> ahead</c><00:08:09.040><c> of</c>
+
+00:08:09.110 --> 00:08:09.120 align:start position:0%
+community out there for staying ahead of
+ 
+
+00:08:09.120 --> 00:08:11.230 align:start position:0%
+community out there for staying ahead of
+the<00:08:09.200><c> curve.</c><00:08:09.880><c> Link</c><00:08:10.200><c> in</c><00:08:10.280><c> the</c><00:08:10.360><c> description</c><00:08:11.120><c> and</c>
+
+00:08:11.230 --> 00:08:11.240 align:start position:0%
+the curve. Link in the description and
+ 
+
+00:08:11.240 --> 00:08:12.910 align:start position:0%
+the curve. Link in the description and
+comments.<00:08:12.000><c> And</c><00:08:12.200><c> if</c><00:08:12.320><c> you</c><00:08:12.440><c> want</c><00:08:12.600><c> the</c><00:08:12.680><c> full</c>
+
+00:08:12.910 --> 00:08:12.920 align:start position:0%
+comments. And if you want the full
+ 
+
+00:08:12.920 --> 00:08:16.270 align:start position:0%
+comments. And if you want the full
+process<00:08:13.440><c> SOPs</c><00:08:14.480><c> and</c><00:08:14.720><c> over</c><00:08:14.920><c> 100</c><00:08:15.440><c> AI</c><00:08:15.680><c> use</c><00:08:15.920><c> cases</c>
+
+00:08:16.270 --> 00:08:16.280 align:start position:0%
+process SOPs and over 100 AI use cases
+ 
+
+00:08:16.280 --> 00:08:18.910 align:start position:0%
+process SOPs and over 100 AI use cases
+like<00:08:16.480><c> this</c><00:08:16.720><c> one,</c><00:08:17.240><c> join</c><00:08:17.520><c> the</c><00:08:17.720><c> AI</c><00:08:18.040><c> Success</c><00:08:18.520><c> Lab.</c>
+
+00:08:18.910 --> 00:08:18.920 align:start position:0%
+like this one, join the AI Success Lab.
+ 
+
+00:08:18.920 --> 00:08:21.550 align:start position:0%
+like this one, join the AI Success Lab.
+It's<00:08:19.120><c> our</c><00:08:19.240><c> free</c><00:08:19.640><c> AI</c><00:08:19.960><c> community.</c><00:08:20.680><c> Links</c><00:08:21.280><c> in</c><00:08:21.480><c> the</c>
+
+00:08:21.550 --> 00:08:21.560 align:start position:0%
+It's our free AI community. Links in the
+ 
+
+00:08:21.560 --> 00:08:23.390 align:start position:0%
+It's our free AI community. Links in the
+comments<00:08:21.920><c> and</c><00:08:22.000><c> description.</c><00:08:22.840><c> You'll</c><00:08:23.000><c> get</c><00:08:23.240><c> all</c>
+
+00:08:23.390 --> 00:08:23.400 align:start position:0%
+comments and description. You'll get all
+ 
+
+00:08:23.400 --> 00:08:25.070 align:start position:0%
+comments and description. You'll get all
+of<00:08:23.480><c> the</c><00:08:23.560><c> video</c><00:08:23.880><c> notes</c><00:08:24.160><c> from</c><00:08:24.320><c> there,</c><00:08:24.800><c> plus</c>
+
+00:08:25.070 --> 00:08:25.080 align:start position:0%
+of the video notes from there, plus
+ 
+
+00:08:25.080 --> 00:08:27.710 align:start position:0%
+of the video notes from there, plus
+access<00:08:25.840><c> to</c><00:08:26.000><c> our</c><00:08:26.120><c> community</c><00:08:26.680><c> of</c><00:08:26.840><c> 38,000</c>
+
+00:08:27.710 --> 00:08:27.720 align:start position:0%
+access to our community of 38,000
+ 
+
+00:08:27.720 --> 00:08:29.990 align:start position:0%
+access to our community of 38,000
+members<00:08:28.360><c> who</c><00:08:28.440><c> are</c><00:08:28.520><c> crushing</c><00:08:28.920><c> it</c><00:08:29.000><c> with</c><00:08:29.200><c> AI.</c>
+
+00:08:29.990 --> 00:08:30.000 align:start position:0%
+members who are crushing it with AI.
+ 
+
+00:08:30.000 --> 00:08:31.870 align:start position:0%
+members who are crushing it with AI.
+Drop<00:08:30.280><c> a</c><00:08:30.320><c> comment</c><00:08:30.640><c> below.</c><00:08:31.200><c> Tell</c><00:08:31.360><c> me</c><00:08:31.520><c> what</c><00:08:31.760><c> you</c>
+
+00:08:31.870 --> 00:08:31.880 align:start position:0%
+Drop a comment below. Tell me what you
+ 
+
+00:08:31.880 --> 00:08:33.990 align:start position:0%
+Drop a comment below. Tell me what you
+think.<00:08:32.680><c> Can</c><00:08:32.840><c> smaller,</c><00:08:33.240><c> smarter</c><00:08:33.599><c> models</c>
+
+00:08:33.990 --> 00:08:34.000 align:start position:0%
+think. Can smaller, smarter models
+ 
+
+00:08:34.000 --> 00:08:36.029 align:start position:0%
+think. Can smaller, smarter models
+actually<00:08:34.400><c> take</c><00:08:34.599><c> down</c><00:08:34.840><c> the</c><00:08:34.919><c> giants?</c><00:08:35.719><c> Julian</c>
+
+00:08:36.029 --> 00:08:36.039 align:start position:0%
+actually take down the giants? Julian
+ 
+
+00:08:36.039 --> 00:08:37.510 align:start position:0%
+actually take down the giants? Julian
+reads<00:08:36.240><c> every</c><00:08:36.440><c> single</c><00:08:36.680><c> one.</c><00:08:37.039><c> I'll</c><00:08:37.159><c> catch</c><00:08:37.440><c> you</c>
+
+00:08:37.510 --> 00:08:37.520 align:start position:0%
+reads every single one. I'll catch you
+ 
+
+00:08:37.520 --> 00:08:40.400 align:start position:0%
+reads every single one. I'll catch you
+in<00:08:37.560><c> the</c><00:08:37.640><c> next</c><00:08:37.960><c> video.</c>
+

@@ -11,7 +11,10 @@
 2. Collect prompts/data references
 3. Build a repeatable assistant flow
 - Existing related videos:
-  - pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: business idea, marketing-explainers, tool demo | cluster match: no
-  - iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: business idea, marketing-explainers, tool demo | cluster match: no
+  - iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: agent-automation, agent-flow, business-idea, business-opportunity, marketing-explainers | cluster match: no
+  - ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity | cluster match: no
+  - DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity | cluster match: no
+  - C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity | cluster match: no
+  - esuPIJeRotI | This Openclaw Trick Makes Single Agents Obsolete | shared: agent-automation, agent-flow, marketing-explainers, product-opportunity | cluster match: no
 - Question:
   Vill du att denna skill byggs nu?

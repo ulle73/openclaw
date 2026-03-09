@@ -5,12 +5,22 @@
   "upload_date": "20260306",
   "description": "I’m proud to have Bizee sponsor this video. I’ve been using their platform for years to start my LLCs and continue to gain valuable support from their service. It’s a company I genuinely trust and am excited to recommend to you. https://bizee.com/\n━\nCheck out my newsletter at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://TKOPOD.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and join my new community at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://TKOwners.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n━\nHunter on X:\n⁠https://x.com/HSchenewark\nHunter’s website:\n⁠https://417striping.com\nHunter’s guide:\nhttps://startstriping.gumroad.com/l/jabsjk\n\nHunter Schenewark heard about line striping on this podcast, grabbed a machine, and nine weeks later walked away with nearly $50,000 in revenue,  with zero experience and a beat-up minivan. We met up with Hunter at a church parking lot in action to break down exactly how he did it. Starting with a free job posted on a local Facebook group and a handful of cold emails, he built a pipeline fast enough to have 10 to 12 hour days six days a week in just his second month. We walk through how he prices striping by the line, why seal coating became the real money maker, how he landed a $26,000 job showing up in a minivan, the equipment he bought to get started, and the cold email strategy that brought it all together — no door knocking required.\n\nEnjoy! \n⸻\nAudio podcast on all podcast platforms: https://toolkit.tkopod.com/podcast\nFree weekly business ideas newsletter: https://tkopod.com\nPrivate community where we build cool businesses together: https://TKOwners.com\nLearn more about me: https://www.chrisjkoerner.com/\nBusiness ideas shorts channel: @thekoernerofficeideas     \nThe Koerner Office highlights: @thekoernerofficesegments      \nAI-enabled accounting software, because Quickbooks SUCKS: https://lazybooks.com/\n---\nThis video is for educational and entertainment purposes only. It does not constitute financial, business, or legal advice. Any business examples, tools, or strategies shown are for demonstration only and may not produce the same results for you. We do not guarantee earnings, outcomes, or success. Always conduct your own due diligence, comply with applicable laws, and use these ideas responsibly.\n\nWe do not encourage duplication of copyrighted material or existing business assets. Always ensure your use complies with copyright and intellectual-property laws.\n\nSome links may be affiliate links, meaning I may earn a commission at no extra cost to you.\n---\n\nFor the Algorithm:\n\n#TKOPodcast #TheKoernerOffice #ChrisKoerner #Hunter #LineStriping #SealCoating #ParkingLotBusiness #DrivewaySealing #ParkingLotStriping #AsphaltBusiness #ServiceBusiness #SideHustleIdeas #BusinessIdeas #LowCostBusiness #StartABusiness #SmallBusinessIdeas #MakeMoreMoney #LocalBusiness #HomeServiceBusiness #PressureWashingStyleBusiness #CrackFilling #ParkingLotMaintenance #AsphaltSealing #StripingBusiness #BlueCollarBusiness #Entrepreneurship #BusinessTips #StartupTips #ProfitableBusiness #LowStartupCost #SweatyStartup #ChurchMarketing #ColdEmail #LeadGeneration #FacebookMarketing #QuoteJobs #MakeMoneyIdeas #SimpleBusiness #BeginnerBusiness #WorkForYourself",
   "classifications": [
-    "tutorial",
-    "tool demo",
-    "business idea"
+    "tool",
+    "business_idea",
+    "agent_flow",
+    "product_opportunity"
   ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
   "skill_candidate": true,
-  "updated_at": "2026-03-08T11:36:16.947552+00:00",
   "entity_tags": [
     "the",
     "chatgpt"
@@ -18,29 +28,21 @@
   "topic_tags": [
     "the",
     "marketing-explainers",
-    "tool demo",
-    "business idea"
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
   ],
   "topic_cluster_key": "the",
   "related_video_ids": [
-    "pSQE1SsGfSQ",
-    "iBVMutY4Ot0"
+    "iBVMutY4Ot0",
+    "ISb0nrlNoKQ",
+    "DSKO9ZtbHFA",
+    "C4fTWiOGXpM",
+    "esuPIJeRotI"
   ],
   "related_videos": [
-    {
-      "videoId": "pSQE1SsGfSQ",
-      "title": "Build Anything with Devin 2.2! 🤯",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
-      "topic_cluster_key": "devin-2",
-      "shared_tags": [
-        "business idea",
-        "marketing-explainers",
-        "tool demo"
-      ],
-      "cluster_match": false,
-      "score": 3
-    },
     {
       "videoId": "iBVMutY4Ot0",
       "title": "NEW Perplexity Computer Updates are INSANE!",
@@ -48,12 +50,77 @@
       "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
       "topic_cluster_key": "perplexity-computer",
       "shared_tags": [
-        "business idea",
-        "marketing-explainers",
-        "tool demo"
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
       ],
       "cluster_match": false,
-      "score": 3
+      "score": 5
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 5
+    },
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 5
+    },
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 5
+    },
+    {
+      "videoId": "esuPIJeRotI",
+      "title": "This Openclaw Trick Makes Single Agents Obsolete",
+      "channel": "Openclaw Labs",
+      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
+      "topic_cluster_key": "openclaw__single-agents",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "marketing-explainers",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 4
     }
   ],
   "skill_recommendation": {
@@ -62,8 +129,12 @@
     "duplicate_risk": "medium",
     "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
     "related_video_ids": [
-      "pSQE1SsGfSQ",
-      "iBVMutY4Ot0"
+      "iBVMutY4Ot0",
+      "ISb0nrlNoKQ",
+      "DSKO9ZtbHFA",
+      "C4fTWiOGXpM",
+      "esuPIJeRotI"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

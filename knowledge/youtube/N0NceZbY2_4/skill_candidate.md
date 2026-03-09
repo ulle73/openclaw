@@ -11,10 +11,10 @@
 2. Collect prompts/data references
 3. Build a repeatable assistant flow
 - Existing related videos:
-  - wX_neSx7-Ls | How to Make Claude Code 100X Better in 1 Click! | shared: business idea, strategy, tool demo | cluster match: no
-  - pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: business idea, strategy, tool demo | cluster match: no
-  - iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: business idea, strategy, tool demo | cluster match: no
-  - IWKOcumdMUE | NEW ChatGPT 5.4 Update is INSANE! 🤯 | shared: business idea, strategy, tool demo | cluster match: no
-  - ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: business idea, strategy, tool demo | cluster match: no
+  - jyVRbD6fqic | New OpenAI Codex Update is INSANE! | shared: business-idea, business-opportunity, product-opportunity | cluster match: no
+  - iuQ_Y-qSz78 | The Most Overlooked $13K/Day Business Anyone Can Start | shared: business-idea, business-opportunity, product-opportunity | cluster match: no
+  - ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: business-idea, business-opportunity, product-opportunity | cluster match: no
+  - DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: business-idea, business-opportunity, product-opportunity | cluster match: no
+  - C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: business-idea, business-opportunity, product-opportunity | cluster match: no
 - Question:
   Vill du att denna skill byggs nu?

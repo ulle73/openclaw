@@ -1,0 +1,12 @@
+# Decision - the och chatgpt
+
+- Action: project_upgrade
+- Opportunity score: 42
+- Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
+
+## Recommended next move
+Applicera the och chatgpt i Coastworks
+
+## Best project match
+- Coastworks (role: offer, score: 21)
+- Shared signals: seo-content

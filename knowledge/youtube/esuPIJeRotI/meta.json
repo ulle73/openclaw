@@ -5,14 +5,23 @@
   "upload_date": "20260304",
   "description": "Most OpenClaw users are making a common error by using a single agent for various tasks, leading to context loss.\n\nThis video demonstrates how to implement effective multi agent systems within OpenClaw, ensuring better performance and specialized functions. Learn two distinct methods for openclaw setup to optimize your ai agents and prevent inefficiency. #openclaw #clawdbot #ai \n\n🔗 Join the Openclaw Labs Skool community for more strategies: https://www.skool.com/titan-9535\n\nHere's what you'll learn:\n🔹 Why single-agent setups break down (context overload, prompt pollution, zero parallelism)\n🔹 Method 1 — The Route Method: How to create specialized sub-agents inside the same project using agents.md and sub-folders\n🔹 Method 2 — The Terminal Method: How to spin up fully isolated agent workspaces with openclaw agents add\n🔹 When to use each method (and why most advanced setups use both)Start with the Route Method for 2-3 sub-agents, then graduate to the Terminal Method when you need true isolation.This is how you go from one overloaded agent to a team of specialists — each with its own prompt, tools, and focus.\n\n🔗 Join the Openclaw Labs Skool community for more strategies: https://www.skool.com/titan-9535\n🔗 Get the step-by-step guide for a multi-ageint setup: https://openclaw-multi-agent-systems-guide.vercel.app\n\nTimestamps:\n00:00 - What most people do wrong with Openclaw\n00:29 - Why using multiple agents is a better system\n02:00 - Two ways to build multi-agent systems in Openclaw\n02:24 - Option 1: The route method\n04:50 - Option 2: The terminal method\n06:40 - Which method should you pick\n07:00 - Next steps\n\n#openclaw #aiagents #multiagent #aiautomation #agentic #productivity",
   "classifications": [
-    "tutorial",
-    "tool demo",
+    "tool",
     "workflow",
-    "prompt engineering",
-    "technical guide"
+    "agent_flow",
+    "automation",
+    "product_opportunity"
   ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
   "skill_candidate": true,
-  "updated_at": "2026-03-08T15:46:55.954175+00:00",
   "entity_tags": [
     "openclaw",
     "single-agents"
@@ -25,35 +34,18 @@
     "onboarding-training",
     "marketing-explainers",
     "prompt-design",
-    "tool demo",
-    "prompt engineering",
-    "technical guide"
+    "agent-flow",
+    "product-opportunity"
   ],
   "topic_cluster_key": "openclaw__single-agents",
   "related_video_ids": [
-    "ISb0nrlNoKQ",
     "C4fTWiOGXpM",
-    "xAw3IZgX7Tc",
-    "pSQE1SsGfSQ",
-    "YnzsnqsrqXs"
+    "9T1yWEq5kP0",
+    "99EoVMtEA2A",
+    "YnzsnqsrqXs",
+    "ISb0nrlNoKQ"
   ],
   "related_videos": [
-    {
-      "videoId": "ISb0nrlNoKQ",
-      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
-      "channel": "Riley Brown",
-      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
-      "topic_cluster_key": "openclaw__specialized-agents",
-      "shared_tags": [
-        "openclaw",
-        "prompt engineering",
-        "prompt-design",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 8
-    },
     {
       "videoId": "C4fTWiOGXpM",
       "title": "I replaced OpenClaw with AntiGravity... its WILD",
@@ -63,46 +55,43 @@
       "shared_tags": [
         "openclaw",
         "agent-automation",
+        "agent-flow",
         "onboarding-training",
-        "prompt-design",
-        "workflow-automation"
+        "product-opportunity",
+        "prompt-design"
       ],
       "cluster_match": false,
-      "score": 8
+      "score": 10
     },
     {
-      "videoId": "xAw3IZgX7Tc",
-      "title": "Build Anything with Qwen's NEW Model's!",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
-      "topic_cluster_key": "model",
+      "videoId": "9T1yWEq5kP0",
+      "title": "SaaS is minting millionaires again (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/9T1yWEq5kP0/summary.md",
+      "topic_cluster_key": "saas",
       "shared_tags": [
+        "openclaw",
+        "agent-flow",
         "onboarding-training",
-        "prompt engineering",
-        "prompt-design",
-        "technical guide",
-        "tool demo",
         "workflow-automation"
       ],
       "cluster_match": false,
-      "score": 6
+      "score": 7
     },
     {
-      "videoId": "pSQE1SsGfSQ",
-      "title": "Build Anything with Devin 2.2! 🤯",
+      "videoId": "99EoVMtEA2A",
+      "title": "New FREE Google AI Updates are INSANE!",
       "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
-      "topic_cluster_key": "devin-2",
+      "summary_path": "knowledge/youtube/99EoVMtEA2A/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
       "shared_tags": [
-        "marketing-explainers",
-        "onboarding-training",
-        "prompt engineering",
-        "prompt-design",
-        "tool demo",
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
         "workflow-automation"
       ],
       "cluster_match": false,
-      "score": 6
+      "score": 7
     },
     {
       "videoId": "YnzsnqsrqXs",
@@ -117,6 +106,20 @@
       ],
       "cluster_match": false,
       "score": 6
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "openclaw",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
     }
   ],
   "skill_recommendation": {
@@ -125,11 +128,12 @@
     "duplicate_risk": "medium",
     "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
     "related_video_ids": [
-      "ISb0nrlNoKQ",
       "C4fTWiOGXpM",
-      "xAw3IZgX7Tc",
-      "pSQE1SsGfSQ",
-      "YnzsnqsrqXs"
+      "9T1yWEq5kP0",
+      "99EoVMtEA2A",
+      "YnzsnqsrqXs",
+      "ISb0nrlNoKQ"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

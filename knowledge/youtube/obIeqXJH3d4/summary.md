@@ -8,7 +8,7 @@ categories: ["tool", "workflow", "business_idea", "seo_distribution", "agent_flo
 entity_tags: ["notebooklm", "nano-banana-2", "gemini"]
 topic_tags: ["notebooklm", "nano-banana-2", "ai-video-generation", "content-repurposing", "workflow-automation", "knowledge-management", "onboarding-training", "marketing-explainers", "seo-content", "prompt-design", "business-idea", "business-opportunity"]
 topic_cluster_key: "nano-banana-2__notebooklm"
-related_video_ids: ["99EoVMtEA2A", "mXlMAkHhgYs", "iBVMutY4Ot0", "ISb0nrlNoKQ", "C4fTWiOGXpM"]
+related_video_ids: ["99EoVMtEA2A", "Wxf9oqxODU0", "iBVMutY4Ot0", "ISb0nrlNoKQ", "mXlMAkHhgYs"]
 
 roi_label: "high"
 relevance_label: "high"

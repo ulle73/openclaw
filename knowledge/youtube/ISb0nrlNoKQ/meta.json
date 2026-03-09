@@ -5,15 +5,25 @@
   "upload_date": "20260302",
   "description": "Why Narrow AI Agents Will Win (and How I’m Building 15 Agents to Run Growth)\n\nAfter two weeks building and testing hundreds of AI agent workflows with Open Claw, Manus, Claude Code, and Perplexity Computer, the speaker concludes that companies will rely on teams of narrow, goal-driven agents rather than one general “command center” agent. Perplexity Computer and Manus spin up a cloud computer per task, but the speaker prefers Open Claw: a single agent on a computer with structured, extensible skills, strong memory, and messaging access via tools like Telegram, Slack, and Discord. Adding too many skills reduced reliability, so the proposed sweet spot is 7–10 skills per agent. Examples include a focused YouTube content agent optimizing for subs, views, and conversions, plus a journal agent that logs activity to Notion to inform other agents like a newsletter agent optimizing open rate and click-through. Narrow agents are easier to duplicate, share, evaluate, and automate via predictable loops.\n\n00:00 Intro\n00:48 Perplexity Computer and Manus \n02:43 OpenClaw\n03:52 Too many Skills to my first AI Agent\n06:09 People want an employee\n07:35 Testing Narrow AI Agents\n08:33 Narrow Agent Example (YouTube Agent)\n11:32 A Team of Narrow Agents... Why?\n16:27 In Summary",
   "classifications": [
-    "tutorial",
-    "tool demo",
-    "strategy",
+    "tool",
     "workflow",
-    "business idea",
-    "prompt engineering"
+    "business_idea",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
   ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
   "skill_candidate": true,
-  "updated_at": "2026-03-08T11:36:23.331981+00:00",
   "entity_tags": [
     "openclaw",
     "specialized-agents",
@@ -27,20 +37,39 @@
     "telegram",
     "workflow-automation",
     "prompt-design",
-    "tool demo",
-    "strategy",
-    "business idea",
-    "prompt engineering"
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api"
   ],
   "topic_cluster_key": "openclaw__specialized-agents",
   "related_video_ids": [
+    "C4fTWiOGXpM",
     "99EoVMtEA2A",
-    "mXlMAkHhgYs",
     "esuPIJeRotI",
-    "pSQE1SsGfSQ",
-    "obIeqXJH3d4"
+    "obIeqXJH3d4",
+    "DSKO9ZtbHFA"
   ],
   "related_videos": [
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
     {
       "videoId": "99EoVMtEA2A",
       "title": "New FREE Google AI Updates are INSANE!",
@@ -50,28 +79,12 @@
       "shared_tags": [
         "nano-banana-2",
         "openclaw",
-        "strategy",
-        "tool demo",
+        "agent-automation",
+        "agent-flow",
         "workflow-automation"
       ],
       "cluster_match": false,
       "score": 11
-    },
-    {
-      "videoId": "mXlMAkHhgYs",
-      "title": "Gemini 3.1 Just Changed Web Design Forever! (FULL PROCESS)",
-      "channel": "Viktor Oddy",
-      "summary_path": "knowledge/youtube/mXlMAkHhgYs/summary.md",
-      "topic_cluster_key": "gemini__web-design",
-      "shared_tags": [
-        "nano-banana-2",
-        "prompt engineering",
-        "prompt-design",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 8
     },
     {
       "videoId": "esuPIJeRotI",
@@ -81,30 +94,14 @@
       "topic_cluster_key": "openclaw__single-agents",
       "shared_tags": [
         "openclaw",
-        "prompt engineering",
+        "agent-automation",
+        "agent-flow",
+        "product-opportunity",
         "prompt-design",
-        "tool demo",
         "workflow-automation"
       ],
       "cluster_match": false,
-      "score": 8
-    },
-    {
-      "videoId": "pSQE1SsGfSQ",
-      "title": "Build Anything with Devin 2.2! 🤯",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
-      "topic_cluster_key": "devin-2",
-      "shared_tags": [
-        "business idea",
-        "prompt engineering",
-        "prompt-design",
-        "strategy",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 6
+      "score": 9
     },
     {
       "videoId": "obIeqXJH3d4",
@@ -114,11 +111,30 @@
       "topic_cluster_key": "nano-banana-2__notebooklm",
       "shared_tags": [
         "nano-banana-2",
+        "business-idea",
+        "business-opportunity",
         "prompt-design",
         "workflow-automation"
       ],
       "cluster_match": false,
-      "score": 6
+      "score": 8
+    },
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 8
     }
   ],
   "skill_recommendation": {
@@ -127,11 +143,12 @@
     "duplicate_risk": "medium",
     "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
     "related_video_ids": [
+      "C4fTWiOGXpM",
       "99EoVMtEA2A",
-      "mXlMAkHhgYs",
       "esuPIJeRotI",
-      "pSQE1SsGfSQ",
-      "obIeqXJH3d4"
+      "obIeqXJH3d4",
+      "DSKO9ZtbHFA"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

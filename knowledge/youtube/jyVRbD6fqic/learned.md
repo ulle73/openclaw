@@ -67,5 +67,25 @@ going to blow your mind.
 - automation idea
 - business idea
 
+## Topic Tags
+- openai-codex
+- workflow-automation
+- business-idea
+- business-opportunity
+- seo-distribution
+- seo-content
+- agent-flow
+- agent-automation
+- product-opportunity
+- api
+- api-integration
+
+## Similar Videos
+- DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: agent-automation, agent-flow, api, api-integration, business-idea, business-opportunity
+- iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: agent-automation, agent-flow, business-idea, business-opportunity, seo-content, seo-distribution
+- IWKOcumdMUE | NEW ChatGPT 5.4 Update is INSANE! 🤯 | shared: agent-automation, agent-flow, business-idea, business-opportunity, seo-content, seo-distribution
+- ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: agent-automation, agent-flow, api, business-idea, business-opportunity, product-opportunity
+- FXfAnWMxQao | New Claude Code Scheduled Tasks Update! | shared: agent-automation, agent-flow, business-idea, business-opportunity, seo-content, seo-distribution
+
 ## Classification
 tutorial, tool demo, workflow, automation idea, business idea

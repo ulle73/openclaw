@@ -26,9 +26,6 @@ generic applications.
 to get Laney to go and buy 16 eggs for
 the Supreme Egg Festival happening, but
 we need to get that done by 10:00 p.m.
-- And then the
-really cool thing is it's not updated to
-Laney cuz she's disappeared.
 
 ## Workflows
 - And then what
@@ -49,24 +46,11 @@ I'm going to say brand guidelines.
 - I've added my
 brand guidelines there.
 
-## Strategic Insights
-- So you could
-call like Claude a sonet big brain and
-you could say hey switch to dum dum mode
-or switch to plank whatever it is right
-and it can switch dynamically in the
-conversation which can help to save you
-money.
-
 ## Automation Opportunities
 - I built and sold
 my last tech startup with over 60,000
 customers, and now I run very profitable
 AI automation business.
-- So if I can automate it, you can
-guarantee that I will.
-- There's some stuff that I
-will never automate.
 
 ## Relevance for Jonas
 Well, I did
@@ -76,11 +60,31 @@ way that I work.
 ## Related Concepts / Videos
 - tutorial
 - feature breakdown
-- strategy
 - workflow
 - automation idea
 - business idea
 - prompt engineering
 
+## Topic Tags
+- openclaw
+- antigravity
+- workflow-automation
+- agent-automation
+- knowledge-management
+- onboarding-training
+- prompt-design
+- proactive-assistant
+- business-idea
+- business-opportunity
+- agent-flow
+- product-opportunity
+
+## Similar Videos
+- esuPIJeRotI | This Openclaw Trick Makes Single Agents Obsolete | shared: openclaw, agent-automation, onboarding-training, prompt-design, workflow-automation
+- 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | shared: openclaw, agent-automation, agent-flow, workflow-automation
+- -hYE5U6FGk8 | AntiGravity just became UNSTOPPABLE (GravityClaw) | shared: antigravity, agent-automation, agent-flow, workflow-automation
+- obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | shared: business-idea, business-opportunity, knowledge-management, onboarding-training, prompt-design, workflow-automation
+- YnzsnqsrqXs | OpenClaw + Star Office is INSANE! | shared: openclaw, onboarding-training, workflow-automation
+
 ## Classification
-tutorial, feature breakdown, strategy, workflow, automation idea, business idea, prompt engineering
+tutorial, feature breakdown, workflow, automation idea, business idea, prompt engineering

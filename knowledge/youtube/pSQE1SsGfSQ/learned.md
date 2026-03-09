@@ -61,5 +61,26 @@ just dropped and it's wild.
 - business idea
 - prompt engineering
 
+## Topic Tags
+- devin-2
+- workflow-automation
+- onboarding-training
+- marketing-explainers
+- seo-content
+- prompt-design
+- business-idea
+- business-opportunity
+- seo-distribution
+- agent-flow
+- agent-automation
+- product-opportunity
+
+## Similar Videos
+- iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: agent-automation, agent-flow, business-idea, business-opportunity, marketing-explainers, onboarding-training
+- jyVRbD6fqic | New OpenAI Codex Update is INSANE! | shared: agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity, seo-content
+- C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: agent-automation, agent-flow, business-idea, business-opportunity, onboarding-training, product-opportunity
+- obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | shared: business-idea, business-opportunity, marketing-explainers, onboarding-training, prompt-design, seo-content
+- esuPIJeRotI | This Openclaw Trick Makes Single Agents Obsolete | shared: agent-automation, agent-flow, marketing-explainers, onboarding-training, product-opportunity, prompt-design
+
 ## Classification
 tutorial, tool demo, strategy, workflow, automation idea, business idea, prompt engineering

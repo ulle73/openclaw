@@ -1,0 +1,126 @@
+{
+  "clusterKey": "openclaw__specialized-agents",
+  "label": "openclaw och specialized agents",
+  "entity_tags": [
+    "openclaw",
+    "specialized-agents",
+    "nano-banana-2",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "specialized-agents",
+    "nano-banana-2",
+    "telegram",
+    "workflow-automation",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "videoIds": [
+    "ISb0nrlNoKQ"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 49,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 28,
+      "shared_signals": [
+        "telegram",
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "score": 19,
+      "shared_signals": [
+        "telegram"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 12,
+      "shared_signals": [
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera openclaw och specialized agents i Gravity Claw",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Temat overlappar med Gravity Claw via telegram, openclaw, knowledge-systems och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt openclaw och specialized agents",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for openclaw och specialized agents",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "De starkaste use casen är marketing och explainers, vilket gör att samma upplägg kan användas både internt och externt.",
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/openclaw__specialized-agents/overview.md",
+    "signals": "knowledge/topics/openclaw__specialized-agents/signals.json",
+    "decision": "knowledge/topics/openclaw__specialized-agents/decision.md",
+    "opportunity": "knowledge/topics/openclaw__specialized-agents/opportunity.md"
+  }
+}

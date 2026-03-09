@@ -58,5 +58,19 @@ background.
 - feature breakdown
 - prompt engineering
 
+## Topic Tags
+- web-design
+- nano-banana-2
+- workflow-automation
+- marketing-explainers
+- prompt-design
+
+## Similar Videos
+- obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | shared: nano-banana-2, marketing-explainers, prompt-design, workflow-automation
+- ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: nano-banana-2, prompt-design, workflow-automation
+- Wxf9oqxODU0 | Claude Code just became UNSTOPPABLE (Skills 2.0) | shared: nano-banana-2, workflow-automation
+- 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | shared: nano-banana-2, workflow-automation
+- pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: marketing-explainers, prompt-design, workflow-automation
+
 ## Classification
 tutorial, tool demo, feature breakdown, prompt engineering

@@ -82,5 +82,26 @@ insane.
 - business idea
 - prompt engineering
 
+## Topic Tags
+- perplexity-computer
+- workflow-automation
+- knowledge-management
+- onboarding-training
+- marketing-explainers
+- seo-content
+- prompt-design
+- business-idea
+- business-opportunity
+- seo-distribution
+- agent-flow
+- agent-automation
+
+## Similar Videos
+- obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | shared: business-idea, business-opportunity, knowledge-management, marketing-explainers, onboarding-training, prompt-design
+- C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: agent-automation, agent-flow, business-idea, business-opportunity, knowledge-management, onboarding-training
+- FXfAnWMxQao | New Claude Code Scheduled Tasks Update! | shared: agent-automation, agent-flow, business-idea, business-opportunity, seo-content, seo-distribution
+- 9T1yWEq5kP0 | SaaS is minting millionaires again (here's how) | shared: agent-flow, business-idea, business-opportunity, onboarding-training, seo-content, seo-distribution
+- esuPIJeRotI | This Openclaw Trick Makes Single Agents Obsolete | shared: agent-automation, agent-flow, marketing-explainers, onboarding-training, prompt-design, workflow-automation
+
 ## Classification
 tutorial, tool demo, feature breakdown, strategy, workflow, automation idea, business idea, prompt engineering

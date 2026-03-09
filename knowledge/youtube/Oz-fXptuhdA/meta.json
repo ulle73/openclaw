@@ -1,0 +1,159 @@
+{
+  "id": "Oz-fXptuhdA",
+  "title": "OpenClaw FULL COURSE 5 HOURS (Build & Automate Anything)",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260309",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "mcp",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "5-hours",
+    "automate",
+    "notebooklm",
+    "nano-banana-2",
+    "chatgpt",
+    "claude",
+    "gemini"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "5-hours",
+    "automate",
+    "notebooklm",
+    "nano-banana-2",
+    "mcp",
+    "telegram",
+    "content-repurposing",
+    "workflow-automation",
+    "agent-automation",
+    "knowledge-management",
+    "onboarding-training"
+  ],
+  "topic_cluster_key": "5-hours__automate__openclaw",
+  "related_video_ids": [
+    "99EoVMtEA2A",
+    "obIeqXJH3d4",
+    "ISb0nrlNoKQ",
+    "Wxf9oqxODU0",
+    "C4fTWiOGXpM"
+  ],
+  "related_videos": [
+    {
+      "videoId": "99EoVMtEA2A",
+      "title": "New FREE Google AI Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/99EoVMtEA2A/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "nano-banana-2",
+        "notebooklm",
+        "openclaw",
+        "agent-automation",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 14
+    },
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "nano-banana-2",
+        "notebooklm",
+        "content-repurposing",
+        "knowledge-management",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "nano-banana-2",
+        "openclaw",
+        "agent-automation",
+        "telegram",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "Wxf9oqxODU0",
+      "title": "Claude Code just became UNSTOPPABLE (Skills 2.0)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/Wxf9oqxODU0/summary.md",
+      "topic_cluster_key": "claude__skills-2__unstoppable",
+      "shared_tags": [
+        "nano-banana-2",
+        "agent-automation",
+        "knowledge-management",
+        "mcp",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "99EoVMtEA2A",
+      "obIeqXJH3d4",
+      "ISb0nrlNoKQ",
+      "Wxf9oqxODU0",
+      "C4fTWiOGXpM"
+    ]
+  },
+  "updated_at": "2026-03-09T03:02:30Z"
+}

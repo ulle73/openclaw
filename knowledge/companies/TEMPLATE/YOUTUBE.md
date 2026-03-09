@@ -11,6 +11,13 @@ rate_limits:
 storage:
   root: "knowledge/youtube"
   index: "knowledge/youtube/INDEX.jsonl"
+  ideas_root: "knowledge/ideas"
+  topics_root: "knowledge/topics"
+  project_inventory: "knowledge/system/project_inventory.json"
+  project_index: "knowledge/projects/PROJECT_INDEX.md"
+synthesis:
+  daily_digest_mode: "since_last_digest"
+  max_research_candidates_per_run: 2
 ---
 # YouTube Sources — TEMPLATE
 

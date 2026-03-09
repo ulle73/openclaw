@@ -16,16 +16,6 @@ approved.
 already had a couple jobs lined up for
 November that were big.
 
-## Step-by-step Guides
-- You got exclusive guides,
-virtual meetups.
-- If you're looking for more
-for more uh help,
-&gt;&gt; yeah, you have free guides that that we
-can link below and as well as an option
-for inerson training, if that's
-something you're interested in.
-
 ## Monetization
 - So what did your first
 month look like as far as revenue is
@@ -42,8 +32,23 @@ just a roller and some paint.
 
 ## Related Concepts / Videos
 - tutorial
-- tool demo
 - business idea
 
+## Topic Tags
+- the
+- marketing-explainers
+- business-idea
+- business-opportunity
+- agent-flow
+- agent-automation
+- product-opportunity
+
+## Similar Videos
+- iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: agent-automation, agent-flow, business-idea, business-opportunity, marketing-explainers
+- ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity
+- DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity
+- C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity
+- esuPIJeRotI | This Openclaw Trick Makes Single Agents Obsolete | shared: agent-automation, agent-flow, marketing-explainers, product-opportunity
+
 ## Classification
-tutorial, tool demo, business idea
+tutorial, business idea

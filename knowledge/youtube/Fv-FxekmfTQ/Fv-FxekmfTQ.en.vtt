@@ -1,0 +1,2640 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:01.030 align:start position:0%
+ 
+Today<00:00:00.320><c> we're</c><00:00:00.480><c> going</c><00:00:00.560><c> to</c><00:00:00.640><c> be</c><00:00:00.719><c> talking</c><00:00:00.880><c> about</c>
+
+00:00:01.030 --> 00:00:01.040 align:start position:0%
+Today we're going to be talking about
+ 
+
+00:00:01.040 --> 00:00:04.070 align:start position:0%
+Today we're going to be talking about
+how<00:00:01.280><c> to</c><00:00:01.520><c> make</c><00:00:01.920><c> claw</c><00:00:02.320><c> code</c><00:00:02.800><c> 100</c><00:00:03.280><c> times</c><00:00:03.520><c> better</c>
+
+00:00:04.070 --> 00:00:04.080 align:start position:0%
+how to make claw code 100 times better
+ 
+
+00:00:04.080 --> 00:00:06.630 align:start position:0%
+how to make claw code 100 times better
+in<00:00:04.480><c> one</c><00:00:04.720><c> single</c><00:00:05.040><c> click</c><00:00:05.520><c> using</c><00:00:06.080><c> a</c><00:00:06.400><c> new</c>
+
+00:00:06.630 --> 00:00:06.640 align:start position:0%
+in one single click using a new
+ 
+
+00:00:06.640 --> 00:00:09.990 align:start position:0%
+in one single click using a new
+extension<00:00:07.520><c> called</c><00:00:07.919><c> the</c><00:00:08.320><c> free</c><00:00:08.720><c> AI</c><00:00:09.360><c> dream</c><00:00:09.679><c> team.</c>
+
+00:00:09.990 --> 00:00:10.000 align:start position:0%
+extension called the free AI dream team.
+ 
+
+00:00:10.000 --> 00:00:11.509 align:start position:0%
+extension called the free AI dream team.
+Right.<00:00:10.400><c> Basically</c><00:00:10.719><c> what</c><00:00:10.880><c> it</c><00:00:11.040><c> does</c><00:00:11.200><c> is</c><00:00:11.360><c> it</c>
+
+00:00:11.509 --> 00:00:11.519 align:start position:0%
+Right. Basically what it does is it
+ 
+
+00:00:11.519 --> 00:00:14.310 align:start position:0%
+Right. Basically what it does is it
+turns<00:00:11.759><c> your</c><00:00:11.920><c> claw</c><00:00:12.160><c> code</c><00:00:12.400><c> into</c><00:00:12.800><c> an</c><00:00:13.040><c> agency</c><00:00:14.080><c> um</c>
+
+00:00:14.310 --> 00:00:14.320 align:start position:0%
+turns your claw code into an agency um
+ 
+
+00:00:14.320 --> 00:00:17.670 align:start position:0%
+turns your claw code into an agency um
+using<00:00:14.880><c> 61</c><00:00:15.440><c> specialists</c><00:00:16.480><c> and</c><00:00:16.800><c> is</c><00:00:17.039><c> free</c><00:00:17.279><c> to</c><00:00:17.520><c> set</c>
+
+00:00:17.670 --> 00:00:17.680 align:start position:0%
+using 61 specialists and is free to set
+ 
+
+00:00:17.680 --> 00:00:19.109 align:start position:0%
+using 61 specialists and is free to set
+up.<00:00:17.920><c> So</c><00:00:18.240><c> I'm</c><00:00:18.400><c> going</c><00:00:18.480><c> to</c><00:00:18.560><c> show</c><00:00:18.640><c> you</c><00:00:18.800><c> exactly</c><00:00:19.039><c> how</c>
+
+00:00:19.109 --> 00:00:19.119 align:start position:0%
+up. So I'm going to show you exactly how
+ 
+
+00:00:19.119 --> 00:00:20.390 align:start position:0%
+up. So I'm going to show you exactly how
+it<00:00:19.279><c> works.</c><00:00:19.520><c> It's</c><00:00:19.600><c> a</c><00:00:19.760><c> free</c><00:00:19.920><c> open</c><00:00:20.160><c> source</c>
+
+00:00:20.390 --> 00:00:20.400 align:start position:0%
+it works. It's a free open source
+ 
+
+00:00:20.400 --> 00:00:22.950 align:start position:0%
+it works. It's a free open source
+project<00:00:20.720><c> on</c><00:00:20.880><c> GitHub</c><00:00:21.600><c> that</c><00:00:21.840><c> just</c><00:00:22.080><c> exploded</c><00:00:22.640><c> to</c>
+
+00:00:22.950 --> 00:00:22.960 align:start position:0%
+project on GitHub that just exploded to
+ 
+
+00:00:22.960 --> 00:00:25.189 align:start position:0%
+project on GitHub that just exploded to
+over<00:00:23.279><c> 12,000</c><00:00:23.920><c> stars.</c><00:00:24.400><c> It</c><00:00:24.560><c> could</c><00:00:24.720><c> completely</c>
+
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+over 12,000 stars. It could completely
+ 
+
+00:00:25.199 --> 00:00:26.630 align:start position:0%
+over 12,000 stars. It could completely
+change<00:00:25.439><c> how</c><00:00:25.680><c> you</c><00:00:25.840><c> use</c><00:00:26.000><c> tools</c><00:00:26.400><c> like</c><00:00:26.640><c> for</c>
+
+00:00:26.630 --> 00:00:26.640 align:start position:0%
+change how you use tools like for
+ 
+
+00:00:26.640 --> 00:00:28.550 align:start position:0%
+change how you use tools like for
+example<00:00:27.039><c> Claude</c><00:00:27.439><c> Cursor</c><00:00:27.760><c> and</c><00:00:27.920><c> Gemini.</c><00:00:28.400><c> And</c>
+
+00:00:28.550 --> 00:00:28.560 align:start position:0%
+example Claude Cursor and Gemini. And
+ 
+
+00:00:28.560 --> 00:00:29.830 align:start position:0%
+example Claude Cursor and Gemini. And
+I'm<00:00:28.800><c> going</c><00:00:28.880><c> to</c><00:00:28.960><c> break</c><00:00:29.119><c> down</c><00:00:29.359><c> everything</c><00:00:29.599><c> you</c>
+
+00:00:29.830 --> 00:00:29.840 align:start position:0%
+I'm going to break down everything you
+ 
+
+00:00:29.840 --> 00:00:31.269 align:start position:0%
+I'm going to break down everything you
+need<00:00:29.920><c> to</c><00:00:30.000><c> know</c><00:00:30.240><c> even</c><00:00:30.400><c> if</c><00:00:30.560><c> you've</c><00:00:30.800><c> never</c>
+
+00:00:31.269 --> 00:00:31.279 align:start position:0%
+need to know even if you've never
+ 
+
+00:00:31.279 --> 00:00:33.590 align:start position:0%
+need to know even if you've never
+touched<00:00:31.599><c> GitHub</c><00:00:32.079><c> before.</c><00:00:32.559><c> All</c><00:00:32.559><c> right,</c><00:00:33.120><c> so</c>
+
+00:00:33.590 --> 00:00:33.600 align:start position:0%
+touched GitHub before. All right, so
+ 
+
+00:00:33.600 --> 00:00:36.069 align:start position:0%
+touched GitHub before. All right, so
+this<00:00:34.079><c> is</c><00:00:34.320><c> the</c><00:00:34.719><c> update</c><00:00:35.120><c> as</c><00:00:35.280><c> you</c><00:00:35.440><c> can</c><00:00:35.520><c> see.</c><00:00:35.840><c> And</c>
+
+00:00:36.069 --> 00:00:36.079 align:start position:0%
+this is the update as you can see. And
+ 
+
+00:00:36.079 --> 00:00:38.310 align:start position:0%
+this is the update as you can see. And
+basically<00:00:36.559><c> what</c><00:00:36.800><c> it</c><00:00:37.040><c> does</c><00:00:37.200><c> is</c><00:00:37.360><c> it</c><00:00:38.000><c> gives</c>
+
+00:00:38.310 --> 00:00:38.320 align:start position:0%
+basically what it does is it gives
+ 
+
+00:00:38.320 --> 00:00:40.389 align:start position:0%
+basically what it does is it gives
+Claude<00:00:38.800><c> code</c><00:00:39.040><c> a</c><00:00:39.280><c> bunch</c><00:00:39.440><c> of</c><00:00:39.600><c> AI</c><00:00:40.000><c> specialists</c>
+
+00:00:40.389 --> 00:00:40.399 align:start position:0%
+Claude code a bunch of AI specialists
+ 
+
+00:00:40.399 --> 00:00:42.229 align:start position:0%
+Claude code a bunch of AI specialists
+that<00:00:40.640><c> they</c><00:00:40.800><c> can</c><00:00:40.960><c> start</c><00:00:41.120><c> using.</c><00:00:41.520><c> Now</c><00:00:41.920><c> if</c><00:00:42.160><c> you</c>
+
+00:00:42.229 --> 00:00:42.239 align:start position:0%
+that they can start using. Now if you
+ 
+
+00:00:42.239 --> 00:00:43.990 align:start position:0%
+that they can start using. Now if you
+want<00:00:42.399><c> to</c><00:00:42.719><c> get</c><00:00:42.879><c> started</c><00:00:43.120><c> with</c><00:00:43.360><c> this,</c><00:00:43.680><c> you</c><00:00:43.840><c> can</c>
+
+00:00:43.990 --> 00:00:44.000 align:start position:0%
+want to get started with this, you can
+ 
+
+00:00:44.000 --> 00:00:45.990 align:start position:0%
+want to get started with this, you can
+just<00:00:44.160><c> copy</c><00:00:44.480><c> this</c><00:00:44.719><c> command</c><00:00:45.040><c> into</c><00:00:45.360><c> claw</c><00:00:45.760><c> code.</c>
+
+00:00:45.990 --> 00:00:46.000 align:start position:0%
+just copy this command into claw code.
+ 
+
+00:00:46.000 --> 00:00:47.350 align:start position:0%
+just copy this command into claw code.
+So<00:00:46.160><c> let's</c><00:00:46.320><c> get</c><00:00:46.480><c> started</c><00:00:46.640><c> with</c><00:00:46.800><c> that.</c><00:00:47.120><c> Open</c><00:00:47.280><c> up</c>
+
+00:00:47.350 --> 00:00:47.360 align:start position:0%
+So let's get started with that. Open up
+ 
+
+00:00:47.360 --> 00:00:49.990 align:start position:0%
+So let's get started with that. Open up
+a<00:00:47.520><c> new</c><00:00:47.680><c> window</c><00:00:47.920><c> here</c><00:00:48.960><c> and</c><00:00:49.200><c> we'll</c><00:00:49.440><c> run</c><00:00:49.600><c> claw</c>
+
+00:00:49.990 --> 00:00:50.000 align:start position:0%
+a new window here and we'll run claw
+ 
+
+00:00:50.000 --> 00:00:57.110 align:start position:0%
+a new window here and we'll run claw
+code.
+
+00:00:57.110 --> 00:00:57.120 align:start position:0%
+ 
+ 
+
+00:00:57.120 --> 00:00:58.950 align:start position:0%
+ 
+We'll<00:00:57.360><c> paste</c><00:00:57.520><c> that</c><00:00:57.680><c> in</c><00:00:57.840><c> and</c><00:00:58.160><c> cl</c><00:00:58.480><c> code</c><00:00:58.640><c> can</c><00:00:58.800><c> set</c>
+
+00:00:58.950 --> 00:00:58.960 align:start position:0%
+We'll paste that in and cl code can set
+ 
+
+00:00:58.960 --> 00:01:00.790 align:start position:0%
+We'll paste that in and cl code can set
+this<00:00:59.120><c> all</c><00:00:59.280><c> up</c><00:00:59.359><c> for</c><00:00:59.600><c> you.</c><00:01:00.079><c> Right?</c><00:01:00.399><c> So</c><00:01:00.559><c> you</c><00:01:00.719><c> can</c>
+
+00:01:00.790 --> 00:01:00.800 align:start position:0%
+this all up for you. Right? So you can
+ 
+
+00:01:00.800 --> 00:01:02.229 align:start position:0%
+this all up for you. Right? So you can
+see<00:01:00.960><c> we've</c><00:01:01.280><c> literally</c><00:01:01.600><c> installed</c><00:01:02.000><c> that</c>
+
+00:01:02.229 --> 00:01:02.239 align:start position:0%
+see we've literally installed that
+ 
+
+00:01:02.239 --> 00:01:03.590 align:start position:0%
+see we've literally installed that
+straight<00:01:02.480><c> away.</c><00:01:02.719><c> It</c><00:01:02.879><c> says</c><00:01:03.039><c> your</c><00:01:03.199><c> agents</c><00:01:03.520><c> are</c>
+
+00:01:03.590 --> 00:01:03.600 align:start position:0%
+straight away. It says your agents are
+ 
+
+00:01:03.600 --> 00:01:05.189 align:start position:0%
+straight away. It says your agents are
+installed<00:01:03.920><c> and</c><00:01:04.080><c> organized</c><00:01:04.479><c> into</c><00:01:04.720><c> categories.</c>
+
+00:01:05.189 --> 00:01:05.199 align:start position:0%
+installed and organized into categories.
+ 
+
+00:01:05.199 --> 00:01:06.230 align:start position:0%
+installed and organized into categories.
+Here's<00:01:05.360><c> what</c><00:01:05.519><c> you</c><00:01:05.600><c> have.</c><00:01:05.760><c> So</c><00:01:05.840><c> you</c><00:01:06.000><c> have</c><00:01:06.159><c> an</c>
+
+00:01:06.230 --> 00:01:06.240 align:start position:0%
+Here's what you have. So you have an
+ 
+
+00:01:06.240 --> 00:01:07.990 align:start position:0%
+Here's what you have. So you have an
+engineering<00:01:06.720><c> team</c><00:01:06.880><c> and</c><00:01:07.119><c> a</c><00:01:07.280><c> design</c><00:01:07.600><c> team.</c>
+
+00:01:07.990 --> 00:01:08.000 align:start position:0%
+engineering team and a design team.
+ 
+
+00:01:08.000 --> 00:01:09.910 align:start position:0%
+engineering team and a design team.
+Right?<00:01:08.320><c> Plus</c><00:01:08.640><c> you've</c><00:01:08.880><c> got</c><00:01:09.200><c> more</c><00:01:09.520><c> agent</c>
+
+00:01:09.910 --> 00:01:09.920 align:start position:0%
+Right? Plus you've got more agent
+ 
+
+00:01:09.920 --> 00:01:11.910 align:start position:0%
+Right? Plus you've got more agent
+specialists<00:01:10.720><c> with</c><00:01:11.040><c> marketing,</c><00:01:11.520><c> product,</c>
+
+00:01:11.910 --> 00:01:11.920 align:start position:0%
+specialists with marketing, product,
+ 
+
+00:01:11.920 --> 00:01:13.109 align:start position:0%
+specialists with marketing, product,
+product<00:01:12.159><c> management,</c><00:01:12.640><c> everything</c><00:01:12.880><c> else,</c>
+
+00:01:13.109 --> 00:01:13.119 align:start position:0%
+product management, everything else,
+ 
+
+00:01:13.119 --> 00:01:14.310 align:start position:0%
+product management, everything else,
+right?<00:01:13.280><c> So</c><00:01:13.439><c> these</c><00:01:13.600><c> are</c><00:01:13.760><c> basically</c><00:01:14.080><c> skills</c>
+
+00:01:14.310 --> 00:01:14.320 align:start position:0%
+right? So these are basically skills
+ 
+
+00:01:14.320 --> 00:01:17.270 align:start position:0%
+right? So these are basically skills
+that<00:01:14.560><c> you</c><00:01:14.720><c> install</c><00:01:15.520><c> to</c><00:01:15.920><c> your</c><00:01:16.240><c> core</c><00:01:16.560><c> code</c><00:01:16.799><c> or</c><00:01:17.040><c> to</c>
+
+00:01:17.270 --> 00:01:17.280 align:start position:0%
+that you install to your core code or to
+ 
+
+00:01:17.280 --> 00:01:19.350 align:start position:0%
+that you install to your core code or to
+cursor<00:01:17.759><c> as</c><00:01:17.840><c> well.</c><00:01:18.159><c> And</c><00:01:18.400><c> basically</c><00:01:18.880><c> what</c><00:01:19.119><c> it</c>
+
+00:01:19.350 --> 00:01:19.360 align:start position:0%
+cursor as well. And basically what it
+ 
+
+00:01:19.360 --> 00:01:22.149 align:start position:0%
+cursor as well. And basically what it
+does<00:01:19.520><c> is</c><00:01:19.759><c> it</c><00:01:20.000><c> gives</c><00:01:20.159><c> you</c><00:01:20.320><c> an</c><00:01:20.640><c> AI</c><00:01:21.040><c> agency</c><00:01:22.000><c> um</c>
+
+00:01:22.149 --> 00:01:22.159 align:start position:0%
+does is it gives you an AI agency um
+ 
+
+00:01:22.159 --> 00:01:24.630 align:start position:0%
+does is it gives you an AI agency um
+with<00:01:22.479><c> like</c><00:01:22.720><c> front-end</c><00:01:23.520><c> developers.</c><00:01:24.320><c> You've</c>
+
+00:01:24.630 --> 00:01:24.640 align:start position:0%
+with like front-end developers. You've
+ 
+
+00:01:24.640 --> 00:01:26.950 align:start position:0%
+with like front-end developers. You've
+got,<00:01:24.880><c> for</c><00:01:24.960><c> example,</c><00:01:25.680><c> um,</c><00:01:26.080><c> agents</c><00:01:26.479><c> for</c><00:01:26.799><c> all</c>
+
+00:01:26.950 --> 00:01:26.960 align:start position:0%
+got, for example, um, agents for all
+ 
+
+00:01:26.960 --> 00:01:29.109 align:start position:0%
+got, for example, um, agents for all
+sorts<00:01:27.200><c> of</c><00:01:27.280><c> specialists,</c><00:01:27.840><c> as</c><00:01:28.000><c> you</c><00:01:28.159><c> can</c><00:01:28.240><c> see,</c>
+
+00:01:29.109 --> 00:01:29.119 align:start position:0%
+sorts of specialists, as you can see,
+ 
+
+00:01:29.119 --> 00:01:30.870 align:start position:0%
+sorts of specialists, as you can see,
+senior<00:01:29.520><c> developers.</c><00:01:30.240><c> There's</c><00:01:30.400><c> a</c><00:01:30.560><c> bunch</c><00:01:30.720><c> of</c>
+
+00:01:30.870 --> 00:01:30.880 align:start position:0%
+senior developers. There's a bunch of
+ 
+
+00:01:30.880 --> 00:01:33.109 align:start position:0%
+senior developers. There's a bunch of
+marketing<00:01:31.920><c> agents</c><00:01:32.320><c> as</c><00:01:32.479><c> well</c><00:01:32.640><c> inside</c><00:01:32.960><c> there,</c>
+
+00:01:33.109 --> 00:01:33.119 align:start position:0%
+marketing agents as well inside there,
+ 
+
+00:01:33.119 --> 00:01:34.149 align:start position:0%
+marketing agents as well inside there,
+which<00:01:33.280><c> is</c><00:01:33.439><c> pretty</c><00:01:33.600><c> awesome.</c><00:01:33.920><c> So,</c><00:01:34.079><c> for</c>
+
+00:01:34.149 --> 00:01:34.159 align:start position:0%
+which is pretty awesome. So, for
+ 
+
+00:01:34.159 --> 00:01:35.910 align:start position:0%
+which is pretty awesome. So, for
+example,<00:01:34.479><c> like</c><00:01:34.640><c> a</c><00:01:34.799><c> content</c><00:01:35.119><c> creator,</c>
+
+00:01:35.910 --> 00:01:35.920 align:start position:0%
+example, like a content creator,
+ 
+
+00:01:35.920 --> 00:01:38.230 align:start position:0%
+example, like a content creator,
+Instagram<00:01:36.400><c> curator,</c><00:01:37.439><c> Reddit</c><00:01:37.840><c> community</c>
+
+00:01:38.230 --> 00:01:38.240 align:start position:0%
+Instagram curator, Reddit community
+ 
+
+00:01:38.240 --> 00:01:39.910 align:start position:0%
+Instagram curator, Reddit community
+builder,<00:01:38.720><c> all</c><00:01:38.799><c> sorts</c><00:01:39.040><c> of</c><00:01:39.119><c> cool</c><00:01:39.360><c> stuff</c><00:01:39.680><c> right</c>
+
+00:01:39.910 --> 00:01:39.920 align:start position:0%
+builder, all sorts of cool stuff right
+ 
+
+00:01:39.920 --> 00:01:42.870 align:start position:0%
+builder, all sorts of cool stuff right
+here.<00:01:40.240><c> Right.</c><00:01:40.640><c> So,</c><00:01:41.680><c> now</c><00:01:41.920><c> what</c><00:01:42.079><c> we</c><00:01:42.240><c> can</c><00:01:42.320><c> do</c><00:01:42.640><c> is</c>
+
+00:01:42.870 --> 00:01:42.880 align:start position:0%
+here. Right. So, now what we can do is
+ 
+
+00:01:42.880 --> 00:01:44.310 align:start position:0%
+here. Right. So, now what we can do is
+we<00:01:43.119><c> can</c><00:01:43.200><c> say,</c><00:01:43.360><c> okay,</c><00:01:43.600><c> use</c><00:01:43.680><c> a</c><00:01:43.920><c> front-end</c>
+
+00:01:44.310 --> 00:01:44.320 align:start position:0%
+we can say, okay, use a front-end
+ 
+
+00:01:44.320 --> 00:01:46.149 align:start position:0%
+we can say, okay, use a front-end
+developer<00:01:44.880><c> agent</c><00:01:45.200><c> to</c><00:01:45.520><c> build</c><00:01:45.680><c> out</c><00:01:45.840><c> a</c><00:01:46.000><c> new</c>
+
+00:01:46.149 --> 00:01:46.159 align:start position:0%
+developer agent to build out a new
+ 
+
+00:01:46.159 --> 00:01:47.510 align:start position:0%
+developer agent to build out a new
+website.<00:01:46.560><c> So,</c><00:01:46.640><c> let's</c><00:01:46.880><c> test</c><00:01:47.119><c> out.</c><00:01:47.280><c> I'm</c><00:01:47.439><c> going</c>
+
+00:01:47.510 --> 00:01:47.520 align:start position:0%
+website. So, let's test out. I'm going
+ 
+
+00:01:47.520 --> 00:01:49.270 align:start position:0%
+website. So, let's test out. I'm going
+to<00:01:47.680><c> test</c><00:01:47.920><c> this</c><00:01:48.079><c> out</c><00:01:48.320><c> for</c><00:01:48.560><c> the</c><00:01:48.720><c> AR</c><00:01:49.040><c> profit</c>
+
+00:01:49.270 --> 00:01:49.280 align:start position:0%
+to test this out for the AR profit
+ 
+
+00:01:49.280 --> 00:01:52.069 align:start position:0%
+to test this out for the AR profit
+boardroom<00:01:49.920><c> and</c><00:01:50.240><c> we'll</c><00:01:50.560><c> use</c><00:01:51.040><c> this</c><00:01:51.360><c> new</c><00:01:51.600><c> agency</c>
+
+00:01:52.069 --> 00:01:52.079 align:start position:0%
+boardroom and we'll use this new agency
+ 
+
+00:01:52.079 --> 00:01:55.270 align:start position:0%
+boardroom and we'll use this new agency
+team<00:01:52.560><c> to</c><00:01:52.799><c> build</c><00:01:53.040><c> out</c><00:01:53.200><c> a</c><00:01:53.360><c> new</c><00:01:53.520><c> website</c><00:01:54.320><c> uh</c><00:01:54.560><c> for</c>
+
+00:01:55.270 --> 00:01:55.280 align:start position:0%
+team to build out a new website uh for
+ 
+
+00:01:55.280 --> 00:01:57.109 align:start position:0%
+team to build out a new website uh for
+the<00:01:55.600><c> AI</c><00:01:55.920><c> profit</c><00:01:56.159><c> boardroom</c><00:01:56.640><c> community.</c>
+
+00:01:57.109 --> 00:01:57.119 align:start position:0%
+the AI profit boardroom community.
+ 
+
+00:01:57.119 --> 00:02:00.550 align:start position:0%
+the AI profit boardroom community.
+Right.<00:01:57.600><c> So,</c><00:01:57.680><c> I'm</c><00:01:57.920><c> going</c><00:01:57.920><c> to</c><00:01:58.079><c> say</c><00:01:58.320><c> create</c><00:01:59.360><c> a</c><00:02:00.320><c> new</c>
+
+00:02:00.550 --> 00:02:00.560 align:start position:0%
+Right. So, I'm going to say create a new
+ 
+
+00:02:00.560 --> 00:02:02.069 align:start position:0%
+Right. So, I'm going to say create a new
+website
+
+00:02:02.069 --> 00:02:02.079 align:start position:0%
+website
+ 
+
+00:02:02.079 --> 00:02:05.670 align:start position:0%
+website
+for<00:02:02.320><c> the</c><00:02:02.560><c> AI</c><00:02:02.880><c> profit</c><00:02:03.200><c> boardroom,</c><00:02:03.840><c> my</c><00:02:05.200><c> AI</c>
+
+00:02:05.670 --> 00:02:05.680 align:start position:0%
+for the AI profit boardroom, my AI
+ 
+
+00:02:05.680 --> 00:02:09.190 align:start position:0%
+for the AI profit boardroom, my AI
+automation<00:02:06.320><c> community</c>
+
+00:02:09.190 --> 00:02:09.200 align:start position:0%
+automation community
+ 
+
+00:02:09.200 --> 00:02:12.869 align:start position:0%
+automation community
+using<00:02:09.440><c> the</c><00:02:09.679><c> content</c><00:02:10.000><c> below.</c>
+
+00:02:12.869 --> 00:02:12.879 align:start position:0%
+using the content below.
+ 
+
+00:02:12.879 --> 00:02:16.949 align:start position:0%
+using the content below.
+and<00:02:14.160><c> make</c><00:02:14.480><c> sure</c><00:02:14.879><c> you</c><00:02:15.280><c> use</c><00:02:15.760><c> the</c><00:02:16.239><c> front</c><00:02:16.480><c> end</c>
+
+00:02:16.949 --> 00:02:16.959 align:start position:0%
+and make sure you use the front end
+ 
+
+00:02:16.959 --> 00:02:20.869 align:start position:0%
+and make sure you use the front end
+developer<00:02:17.360><c> to</c><00:02:17.599><c> build</c><00:02:17.760><c> it.</c><00:02:18.160><c> Stick</c><00:02:18.400><c> to</c><00:02:18.800><c> HTML</c>
+
+00:02:20.869 --> 00:02:20.879 align:start position:0%
+developer to build it. Stick to HTML
+ 
+
+00:02:20.879 --> 00:02:24.070 align:start position:0%
+developer to build it. Stick to HTML
+as<00:02:21.200><c> a</c><00:02:21.599><c> simple</c><00:02:22.080><c> landing</c><00:02:22.480><c> page.</c>
+
+00:02:24.070 --> 00:02:24.080 align:start position:0%
+as a simple landing page.
+ 
+
+00:02:24.080 --> 00:02:26.150 align:start position:0%
+as a simple landing page.
+Copy<00:02:24.480><c> below</c><00:02:25.120><c> and</c><00:02:25.280><c> then</c><00:02:25.440><c> I'll</c><00:02:25.680><c> just</c><00:02:25.840><c> add</c><00:02:26.000><c> the</c>
+
+00:02:26.150 --> 00:02:26.160 align:start position:0%
+Copy below and then I'll just add the
+ 
+
+00:02:26.160 --> 00:02:28.470 align:start position:0%
+Copy below and then I'll just add the
+copy<00:02:26.720><c> from</c><00:02:26.959><c> the</c><00:02:27.200><c> website</c><00:02:27.840><c> and</c><00:02:28.000><c> we'll</c><00:02:28.239><c> see</c><00:02:28.319><c> if</c>
+
+00:02:28.470 --> 00:02:28.480 align:start position:0%
+copy from the website and we'll see if
+ 
+
+00:02:28.480 --> 00:02:29.910 align:start position:0%
+copy from the website and we'll see if
+it<00:02:28.640><c> can</c><00:02:28.720><c> build</c><00:02:28.959><c> out</c><00:02:29.200><c> something</c><00:02:29.440><c> better</c><00:02:29.680><c> than</c>
+
+00:02:29.910 --> 00:02:29.920 align:start position:0%
+it can build out something better than
+ 
+
+00:02:29.920 --> 00:02:31.110 align:start position:0%
+it can build out something better than
+we've<00:02:30.160><c> already</c><00:02:30.319><c> got.</c><00:02:30.560><c> Now,</c><00:02:30.720><c> what</c><00:02:30.879><c> you</c><00:02:31.040><c> could</c>
+
+00:02:31.110 --> 00:02:31.120 align:start position:0%
+we've already got. Now, what you could
+ 
+
+00:02:31.120 --> 00:02:32.150 align:start position:0%
+we've already got. Now, what you could
+actually<00:02:31.280><c> do</c><00:02:31.360><c> is</c><00:02:31.520><c> you</c><00:02:31.680><c> could</c><00:02:31.840><c> have</c><00:02:31.920><c> like</c>
+
+00:02:32.150 --> 00:02:32.160 align:start position:0%
+actually do is you could have like
+ 
+
+00:02:32.160 --> 00:02:34.150 align:start position:0%
+actually do is you could have like
+multiple<00:02:32.720><c> sessions</c><00:02:33.120><c> open.</c><00:02:33.599><c> So,</c><00:02:33.840><c> you</c><00:02:34.000><c> could</c>
+
+00:02:34.150 --> 00:02:34.160 align:start position:0%
+multiple sessions open. So, you could
+ 
+
+00:02:34.160 --> 00:02:35.910 align:start position:0%
+multiple sessions open. So, you could
+open<00:02:34.319><c> up</c><00:02:34.480><c> a</c><00:02:34.640><c> new</c><00:02:34.720><c> window</c><00:02:34.959><c> here</c><00:02:35.519><c> and</c><00:02:35.680><c> you</c><00:02:35.840><c> could</c>
+
+00:02:35.910 --> 00:02:35.920 align:start position:0%
+open up a new window here and you could
+ 
+
+00:02:35.920 --> 00:02:37.750 align:start position:0%
+open up a new window here and you could
+have<00:02:36.080><c> Claude</c><00:02:36.560><c> running</c><00:02:36.959><c> agents</c><00:02:37.360><c> for</c><00:02:37.519><c> something</c>
+
+00:02:37.750 --> 00:02:37.760 align:start position:0%
+have Claude running agents for something
+ 
+
+00:02:37.760 --> 00:02:39.430 align:start position:0%
+have Claude running agents for something
+else,<00:02:38.160><c> right?</c><00:02:38.400><c> So,</c><00:02:38.560><c> we</c><00:02:38.720><c> could</c><00:02:38.800><c> say,</c><00:02:38.959><c> okay,</c><00:02:39.280><c> do</c>
+
+00:02:39.430 --> 00:02:39.440 align:start position:0%
+else, right? So, we could say, okay, do
+ 
+
+00:02:39.440 --> 00:02:40.790 align:start position:0%
+else, right? So, we could say, okay, do
+this,<00:02:39.680><c> right?</c><00:02:39.920><c> And</c><00:02:40.080><c> you</c><00:02:40.239><c> can</c><00:02:40.319><c> see</c><00:02:40.480><c> how</c><00:02:40.640><c> it's</c>
+
+00:02:40.790 --> 00:02:40.800 align:start position:0%
+this, right? And you can see how it's
+ 
+
+00:02:40.800 --> 00:02:43.350 align:start position:0%
+this, right? And you can see how it's
+using<00:02:41.040><c> the</c><00:02:41.440><c> Reddit</c><00:02:42.239><c> uh</c><00:02:42.480><c> community</c><00:02:42.879><c> builder</c>
+
+00:02:43.350 --> 00:02:43.360 align:start position:0%
+using the Reddit uh community builder
+ 
+
+00:02:43.360 --> 00:02:44.869 align:start position:0%
+using the Reddit uh community builder
+skill<00:02:43.680><c> that</c><00:02:43.840><c> we've</c><00:02:44.080><c> installed.</c><00:02:44.480><c> So</c><00:02:44.640><c> you</c><00:02:44.800><c> can</c>
+
+00:02:44.869 --> 00:02:44.879 align:start position:0%
+skill that we've installed. So you can
+ 
+
+00:02:44.879 --> 00:02:46.710 align:start position:0%
+skill that we've installed. So you can
+see<00:02:44.959><c> it's</c><00:02:45.200><c> it's</c><00:02:45.680><c> using</c><00:02:46.000><c> that</c><00:02:46.239><c> front-end</c>
+
+00:02:46.710 --> 00:02:46.720 align:start position:0%
+see it's it's using that front-end
+ 
+
+00:02:46.720 --> 00:02:50.710 align:start position:0%
+see it's it's using that front-end
+developer<00:02:47.760><c> um</c><00:02:48.480><c> sub</c><00:02:48.720><c> agent</c><00:02:49.920><c> and</c><00:02:50.160><c> it's</c><00:02:50.400><c> spawning</c>
+
+00:02:50.710 --> 00:02:50.720 align:start position:0%
+developer um sub agent and it's spawning
+ 
+
+00:02:50.720 --> 00:02:53.030 align:start position:0%
+developer um sub agent and it's spawning
+one<00:02:50.959><c> right</c><00:02:51.120><c> there</c><00:02:51.680><c> to</c><00:02:51.920><c> build</c><00:02:52.160><c> out</c><00:02:52.400><c> the</c><00:02:52.720><c> website</c>
+
+00:02:53.030 --> 00:02:53.040 align:start position:0%
+one right there to build out the website
+ 
+
+00:02:53.040 --> 00:02:54.710 align:start position:0%
+one right there to build out the website
+that<00:02:53.280><c> we</c><00:02:53.440><c> just</c><00:02:53.599><c> asked</c><00:02:53.840><c> it</c><00:02:54.000><c> to</c><00:02:54.160><c> create.</c><00:02:54.400><c> Now</c><00:02:54.560><c> you</c>
+
+00:02:54.710 --> 00:02:54.720 align:start position:0%
+that we just asked it to create. Now you
+ 
+
+00:02:54.720 --> 00:02:56.630 align:start position:0%
+that we just asked it to create. Now you
+might<00:02:54.879><c> be</c><00:02:54.959><c> asking,</c><00:02:55.360><c> okay,</c><00:02:55.680><c> what</c><00:02:55.920><c> is</c><00:02:56.400><c> the</c>
+
+00:02:56.630 --> 00:02:56.640 align:start position:0%
+might be asking, okay, what is the
+ 
+
+00:02:56.640 --> 00:02:58.710 align:start position:0%
+might be asking, okay, what is the
+agency<00:02:57.200><c> like?</c><00:02:57.440><c> What</c><00:02:57.680><c> what's</c><00:02:58.000><c> all</c><00:02:58.239><c> this</c><00:02:58.400><c> about?</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+agency like? What what's all this about?
+ 
+
+00:02:58.720 --> 00:03:01.030 align:start position:0%
+agency like? What what's all this about?
+You<00:02:58.800><c> know,</c><00:02:58.879><c> the</c><00:02:59.120><c> agency</c><00:02:59.519><c> agents</c><00:03:00.160><c> uh</c><00:03:00.319><c> GitHub</c>
+
+00:03:01.030 --> 00:03:01.040 align:start position:0%
+You know, the agency agents uh GitHub
+ 
+
+00:03:01.040 --> 00:03:02.470 align:start position:0%
+You know, the agency agents uh GitHub
+project.<00:03:01.440><c> Well,</c><00:03:01.680><c> basically</c><00:03:02.080><c> think</c><00:03:02.239><c> of</c><00:03:02.400><c> it</c>
+
+00:03:02.470 --> 00:03:02.480 align:start position:0%
+project. Well, basically think of it
+ 
+
+00:03:02.480 --> 00:03:03.990 align:start position:0%
+project. Well, basically think of it
+like<00:03:02.640><c> this,</c><00:03:02.879><c> right?</c><00:03:03.200><c> Imagine</c><00:03:03.440><c> walking</c><00:03:03.680><c> into</c><00:03:03.840><c> a</c>
+
+00:03:03.990 --> 00:03:04.000 align:start position:0%
+like this, right? Imagine walking into a
+ 
+
+00:03:04.000 --> 00:03:06.390 align:start position:0%
+like this, right? Imagine walking into a
+building<00:03:04.800><c> um</c><00:03:04.959><c> and</c><00:03:05.200><c> picking</c><00:03:05.519><c> from</c><00:03:05.760><c> like</c><00:03:05.920><c> 61</c>
+
+00:03:06.390 --> 00:03:06.400 align:start position:0%
+building um and picking from like 61
+ 
+
+00:03:06.400 --> 00:03:07.830 align:start position:0%
+building um and picking from like 61
+different<00:03:06.640><c> experts.</c><00:03:07.200><c> for</c><00:03:07.280><c> example,</c><00:03:07.599><c> like</c><00:03:07.680><c> a</c>
+
+00:03:07.830 --> 00:03:07.840 align:start position:0%
+different experts. for example, like a
+ 
+
+00:03:07.840 --> 00:03:10.070 align:start position:0%
+different experts. for example, like a
+front-end<00:03:08.159><c> developer,</c><00:03:08.879><c> a</c><00:03:09.200><c> brand</c><00:03:09.440><c> designer,</c><00:03:09.920><c> a</c>
+
+00:03:10.070 --> 00:03:10.080 align:start position:0%
+front-end developer, a brand designer, a
+ 
+
+00:03:10.080 --> 00:03:11.750 align:start position:0%
+front-end developer, a brand designer, a
+Reddit<00:03:10.400><c> marketing</c><00:03:10.800><c> specialist,</c><00:03:11.280><c> right?</c><00:03:11.599><c> Each</c>
+
+00:03:11.750 --> 00:03:11.760 align:start position:0%
+Reddit marketing specialist, right? Each
+ 
+
+00:03:11.760 --> 00:03:13.350 align:start position:0%
+Reddit marketing specialist, right? Each
+one<00:03:12.000><c> knows</c><00:03:12.400><c> exactly</c><00:03:12.720><c> what</c><00:03:12.879><c> they're</c><00:03:13.040><c> doing.</c>
+
+00:03:13.350 --> 00:03:13.360 align:start position:0%
+one knows exactly what they're doing.
+ 
+
+00:03:13.360 --> 00:03:15.350 align:start position:0%
+one knows exactly what they're doing.
+Each<00:03:13.599><c> one</c><00:03:13.760><c> has</c><00:03:13.920><c> its</c><00:03:14.159><c> own</c><00:03:14.400><c> unique</c><00:03:14.879><c> personality</c>
+
+00:03:15.350 --> 00:03:15.360 align:start position:0%
+Each one has its own unique personality
+ 
+
+00:03:15.360 --> 00:03:18.550 align:start position:0%
+Each one has its own unique personality
+and<00:03:15.599><c> style.</c><00:03:16.480><c> And</c><00:03:16.800><c> each</c><00:03:17.040><c> one</c><00:03:17.280><c> gives</c><00:03:17.519><c> you</c><00:03:18.239><c> like</c>
+
+00:03:18.550 --> 00:03:18.560 align:start position:0%
+and style. And each one gives you like
+ 
+
+00:03:18.560 --> 00:03:20.630 align:start position:0%
+and style. And each one gives you like
+real<00:03:18.959><c> actionable</c><00:03:19.519><c> deliverables,</c><00:03:20.159><c> right?</c><00:03:20.400><c> And</c>
+
+00:03:20.630 --> 00:03:20.640 align:start position:0%
+real actionable deliverables, right? And
+ 
+
+00:03:20.640 --> 00:03:22.470 align:start position:0%
+real actionable deliverables, right? And
+so<00:03:20.879><c> that's</c><00:03:21.120><c> what</c><00:03:21.280><c> the</c><00:03:21.519><c> agency</c><00:03:21.840><c> is.</c><00:03:22.080><c> So</c><00:03:22.159><c> it's</c><00:03:22.319><c> a</c>
+
+00:03:22.470 --> 00:03:22.480 align:start position:0%
+so that's what the agency is. So it's a
+ 
+
+00:03:22.480 --> 00:03:24.070 align:start position:0%
+so that's what the agency is. So it's a
+collection<00:03:22.640><c> of</c><00:03:22.800><c> 61</c><00:03:23.200><c> agent</c><00:03:23.519><c> files</c><00:03:23.840><c> you</c><00:03:24.000><c> can</c>
+
+00:03:24.070 --> 00:03:24.080 align:start position:0%
+collection of 61 agent files you can
+ 
+
+00:03:24.080 --> 00:03:25.990 align:start position:0%
+collection of 61 agent files you can
+plug<00:03:24.239><c> into</c><00:03:24.400><c> tools</c><00:03:24.720><c> like</c><00:03:24.879><c> Cloud</c><00:03:25.200><c> Code,</c><00:03:25.519><c> Cursor,</c>
+
+00:03:25.990 --> 00:03:26.000 align:start position:0%
+plug into tools like Cloud Code, Cursor,
+ 
+
+00:03:26.000 --> 00:03:27.830 align:start position:0%
+plug into tools like Cloud Code, Cursor,
+Windsurf,<00:03:26.480><c> Gemini,</c><00:03:26.879><c> CLI,</c><00:03:27.200><c> and</c><00:03:27.360><c> more.</c><00:03:27.680><c> And</c>
+
+00:03:27.830 --> 00:03:27.840 align:start position:0%
+Windsurf, Gemini, CLI, and more. And
+ 
+
+00:03:27.840 --> 00:03:29.270 align:start position:0%
+Windsurf, Gemini, CLI, and more. And
+when<00:03:28.000><c> you</c><00:03:28.080><c> load</c><00:03:28.319><c> one</c><00:03:28.480><c> of</c><00:03:28.560><c> these</c><00:03:28.720><c> agents,</c><00:03:29.120><c> your</c>
+
+00:03:29.270 --> 00:03:29.280 align:start position:0%
+when you load one of these agents, your
+ 
+
+00:03:29.280 --> 00:03:30.949 align:start position:0%
+when you load one of these agents, your
+AI<00:03:29.599><c> tool</c><00:03:29.840><c> literally</c><00:03:30.159><c> transforms</c><00:03:30.640><c> into</c><00:03:30.799><c> a</c>
+
+00:03:30.949 --> 00:03:30.959 align:start position:0%
+AI tool literally transforms into a
+ 
+
+00:03:30.959 --> 00:03:32.869 align:start position:0%
+AI tool literally transforms into a
+specialist.<00:03:31.519><c> So</c><00:03:31.680><c> it's</c><00:03:31.840><c> not</c><00:03:32.000><c> like</c><00:03:32.319><c> at</c><00:03:32.560><c> like</c><00:03:32.720><c> a</c>
+
+00:03:32.869 --> 00:03:32.879 align:start position:0%
+specialist. So it's not like at like a
+ 
+
+00:03:32.879 --> 00:03:34.390 align:start position:0%
+specialist. So it's not like at like a
+developer.<00:03:33.280><c> It's</c><00:03:33.519><c> a</c><00:03:33.680><c> deeply</c><00:03:34.000><c> crafted</c>
+
+00:03:34.390 --> 00:03:34.400 align:start position:0%
+developer. It's a deeply crafted
+ 
+
+00:03:34.400 --> 00:03:36.149 align:start position:0%
+developer. It's a deeply crafted
+personality<00:03:35.040><c> with</c><00:03:35.280><c> workflows,</c><00:03:35.760><c> success</c>
+
+00:03:36.149 --> 00:03:36.159 align:start position:0%
+personality with workflows, success
+ 
+
+00:03:36.159 --> 00:03:38.390 align:start position:0%
+personality with workflows, success
+metrics,<00:03:36.959><c> um,</c><00:03:37.200><c> code</c><00:03:37.519><c> examples,</c><00:03:38.000><c> and</c><00:03:38.159><c> a</c>
+
+00:03:38.390 --> 00:03:38.400 align:start position:0%
+metrics, um, code examples, and a
+ 
+
+00:03:38.400 --> 00:03:40.229 align:start position:0%
+metrics, um, code examples, and a
+specific<00:03:38.879><c> communication</c><00:03:39.440><c> style.</c><00:03:39.840><c> Now,</c><00:03:40.080><c> one</c>
+
+00:03:40.229 --> 00:03:40.239 align:start position:0%
+specific communication style. Now, one
+ 
+
+00:03:40.239 --> 00:03:41.830 align:start position:0%
+specific communication style. Now, one
+thing<00:03:40.319><c> I</c><00:03:40.480><c> want</c><00:03:40.640><c> to</c><00:03:40.720><c> say</c><00:03:40.959><c> before</c><00:03:41.280><c> you</c><00:03:41.440><c> install</c>
+
+00:03:41.830 --> 00:03:41.840 align:start position:0%
+thing I want to say before you install
+ 
+
+00:03:41.840 --> 00:03:44.070 align:start position:0%
+thing I want to say before you install
+anything<00:03:42.080><c> like</c><00:03:42.319><c> this</c><00:03:42.879><c> is</c><00:03:43.200><c> I</c><00:03:43.440><c> always</c><00:03:43.760><c> check</c><00:03:43.920><c> the</c>
+
+00:03:44.070 --> 00:03:44.080 align:start position:0%
+anything like this is I always check the
+ 
+
+00:03:44.080 --> 00:03:45.750 align:start position:0%
+anything like this is I always check the
+skillmd<00:03:44.720><c> files.</c><00:03:45.120><c> You</c><00:03:45.280><c> just</c><00:03:45.440><c> want</c><00:03:45.519><c> to</c><00:03:45.680><c> be</c>
+
+00:03:45.750 --> 00:03:45.760 align:start position:0%
+skillmd files. You just want to be
+ 
+
+00:03:45.760 --> 00:03:47.190 align:start position:0%
+skillmd files. You just want to be
+careful<00:03:46.080><c> before</c><00:03:46.400><c> you</c><00:03:46.560><c> install</c><00:03:46.879><c> anything</c>
+
+00:03:47.190 --> 00:03:47.200 align:start position:0%
+careful before you install anything
+ 
+
+00:03:47.200 --> 00:03:49.750 align:start position:0%
+careful before you install anything
+external.<00:03:47.760><c> I</c><00:03:48.000><c> do</c><00:03:48.080><c> it</c><00:03:48.239><c> for</c><00:03:48.400><c> fun</c><00:03:48.879><c> to</c><00:03:49.120><c> show</c><00:03:49.280><c> you</c><00:03:49.519><c> as</c>
+
+00:03:49.750 --> 00:03:49.760 align:start position:0%
+external. I do it for fun to show you as
+ 
+
+00:03:49.760 --> 00:03:51.509 align:start position:0%
+external. I do it for fun to show you as
+experiments<00:03:50.319><c> on</c><00:03:50.560><c> YouTube.</c><00:03:51.120><c> But</c><00:03:51.200><c> if</c><00:03:51.360><c> you're</c>
+
+00:03:51.509 --> 00:03:51.519 align:start position:0%
+experiments on YouTube. But if you're
+ 
+
+00:03:51.519 --> 00:03:53.670 align:start position:0%
+experiments on YouTube. But if you're
+not<00:03:51.680><c> sure</c><00:03:51.840><c> about</c><00:03:52.080><c> installing</c><00:03:52.560><c> any</c><00:03:52.720><c> of</c><00:03:52.879><c> this</c><00:03:53.120><c> or</c>
+
+00:03:53.670 --> 00:03:53.680 align:start position:0%
+not sure about installing any of this or
+ 
+
+00:03:53.680 --> 00:03:55.270 align:start position:0%
+not sure about installing any of this or
+you<00:03:53.920><c> don't</c><00:03:54.080><c> want</c><00:03:54.239><c> to</c><00:03:54.319><c> do</c><00:03:54.400><c> it,</c><00:03:54.720><c> etc.,</c><00:03:55.040><c> don't</c>
+
+00:03:55.270 --> 00:03:55.280 align:start position:0%
+you don't want to do it, etc., don't
+ 
+
+00:03:55.280 --> 00:03:56.630 align:start position:0%
+you don't want to do it, etc., don't
+install<00:03:55.519><c> it.</c><00:03:55.760><c> Like,</c><00:03:55.920><c> just</c><00:03:56.080><c> watch</c><00:03:56.239><c> my</c><00:03:56.400><c> videos</c>
+
+00:03:56.630 --> 00:03:56.640 align:start position:0%
+install it. Like, just watch my videos
+ 
+
+00:03:56.640 --> 00:03:57.910 align:start position:0%
+install it. Like, just watch my videos
+and<00:03:56.799><c> learn</c><00:03:56.959><c> from</c><00:03:57.120><c> it.</c><00:03:57.280><c> And</c><00:03:57.439><c> also</c><00:03:57.680><c> check</c><00:03:57.760><c> the</c>
+
+00:03:57.910 --> 00:03:57.920 align:start position:0%
+and learn from it. And also check the
+ 
+
+00:03:57.920 --> 00:03:59.750 align:start position:0%
+and learn from it. And also check the
+skillmd<00:03:58.640><c> files.</c><00:03:59.040><c> You</c><00:03:59.200><c> can</c><00:03:59.280><c> run</c><00:03:59.439><c> them</c><00:03:59.599><c> through</c>
+
+00:03:59.750 --> 00:03:59.760 align:start position:0%
+skillmd files. You can run them through
+ 
+
+00:03:59.760 --> 00:04:01.429 align:start position:0%
+skillmd files. You can run them through
+claude<00:04:00.080><c> as</c><00:04:00.239><c> well.</c><00:04:00.480><c> You</c><00:04:00.640><c> could</c><00:04:00.799><c> even</c><00:04:00.959><c> rewrite</c>
+
+00:04:01.429 --> 00:04:01.439 align:start position:0%
+claude as well. You could even rewrite
+ 
+
+00:04:01.439 --> 00:04:02.869 align:start position:0%
+claude as well. You could even rewrite
+them<00:04:01.599><c> yourself</c><00:04:02.080><c> and</c><00:04:02.239><c> then</c><00:04:02.400><c> install</c><00:04:02.720><c> them</c>
+
+00:04:02.869 --> 00:04:02.879 align:start position:0%
+them yourself and then install them
+ 
+
+00:04:02.879 --> 00:04:04.470 align:start position:0%
+them yourself and then install them
+yourself<00:04:03.200><c> instead.</c><00:04:03.680><c> But</c><00:04:03.840><c> the</c><00:04:04.000><c> main</c><00:04:04.159><c> thing</c><00:04:04.239><c> is</c>
+
+00:04:04.470 --> 00:04:04.480 align:start position:0%
+yourself instead. But the main thing is
+ 
+
+00:04:04.480 --> 00:04:06.710 align:start position:0%
+yourself instead. But the main thing is
+like<00:04:04.879><c> just</c><00:04:05.120><c> be</c><00:04:05.200><c> careful</c><00:04:05.439><c> when</c><00:04:05.599><c> you</c><00:04:05.680><c> do</c><00:04:05.920><c> install</c>
+
+00:04:06.710 --> 00:04:06.720 align:start position:0%
+like just be careful when you do install
+ 
+
+00:04:06.720 --> 00:04:08.630 align:start position:0%
+like just be careful when you do install
+skills<00:04:07.040><c> to</c><00:04:07.280><c> something</c><00:04:07.439><c> like</c><00:04:07.680><c> claw</c><00:04:08.000><c> code.</c><00:04:08.400><c> So</c>
+
+00:04:08.630 --> 00:04:08.640 align:start position:0%
+skills to something like claw code. So
+ 
+
+00:04:08.640 --> 00:04:10.470 align:start position:0%
+skills to something like claw code. So
+for<00:04:08.720><c> example,</c><00:04:09.120><c> when</c><00:04:09.280><c> you</c><00:04:09.760><c> activate</c><00:04:10.159><c> the</c>
+
+00:04:10.470 --> 00:04:10.480 align:start position:0%
+for example, when you activate the
+ 
+
+00:04:10.480 --> 00:04:12.229 align:start position:0%
+for example, when you activate the
+front-end<00:04:10.879><c> developer</c><00:04:11.280><c> agent</c><00:04:11.599><c> for</c><00:04:11.680><c> example,</c>
+
+00:04:12.229 --> 00:04:12.239 align:start position:0%
+front-end developer agent for example,
+ 
+
+00:04:12.239 --> 00:04:14.390 align:start position:0%
+front-end developer agent for example,
+your<00:04:12.400><c> AI</c><00:04:12.799><c> suddenly</c><00:04:13.120><c> knows</c><00:04:13.519><c> React</c><00:04:14.000><c> Angular</c>
+
+00:04:14.390 --> 00:04:14.400 align:start position:0%
+your AI suddenly knows React Angular
+ 
+
+00:04:14.400 --> 00:04:16.550 align:start position:0%
+your AI suddenly knows React Angular
+deeply.<00:04:14.799><c> It</c><00:04:14.959><c> follows</c><00:04:15.200><c> a</c><00:04:15.439><c> specific</c><00:04:16.079><c> workflow</c>
+
+00:04:16.550 --> 00:04:16.560 align:start position:0%
+deeply. It follows a specific workflow
+ 
+
+00:04:16.560 --> 00:04:19.189 align:start position:0%
+deeply. It follows a specific workflow
+for<00:04:16.720><c> building</c><00:04:17.040><c> UIs.</c><00:04:17.519><c> It</c><00:04:17.680><c> measures</c><00:04:18.479><c> um</c><00:04:18.799><c> core</c>
+
+00:04:19.189 --> 00:04:19.199 align:start position:0%
+for building UIs. It measures um core
+ 
+
+00:04:19.199 --> 00:04:20.949 align:start position:0%
+for building UIs. It measures um core
+web<00:04:19.440><c> vitals.</c><00:04:19.840><c> It</c><00:04:20.000><c> has</c><00:04:20.079><c> a</c><00:04:20.320><c> personality</c><00:04:20.799><c> and</c>
+
+00:04:20.949 --> 00:04:20.959 align:start position:0%
+web vitals. It has a personality and
+ 
+
+00:04:20.959 --> 00:04:23.030 align:start position:0%
+web vitals. It has a personality and
+voice<00:04:21.359><c> that</c><00:04:21.680><c> keeps</c><00:04:21.919><c> things</c><00:04:22.240><c> focused</c><00:04:22.639><c> and</c><00:04:22.800><c> it's</c>
+
+00:04:23.030 --> 00:04:23.040 align:start position:0%
+voice that keeps things focused and it's
+ 
+
+00:04:23.040 --> 00:04:24.790 align:start position:0%
+voice that keeps things focused and it's
+like<00:04:23.199><c> going</c><00:04:23.360><c> from</c><00:04:23.600><c> a</c><00:04:23.840><c> random</c><00:04:24.160><c> intern</c><00:04:24.479><c> or</c>
+
+00:04:24.790 --> 00:04:24.800 align:start position:0%
+like going from a random intern or
+ 
+
+00:04:24.800 --> 00:04:25.990 align:start position:0%
+like going from a random intern or
+something<00:04:24.960><c> like</c><00:04:25.120><c> claw</c><00:04:25.440><c> code</c><00:04:25.680><c> straight</c><00:04:25.840><c> out</c><00:04:26.000><c> of</c>
+
+00:04:25.990 --> 00:04:26.000 align:start position:0%
+something like claw code straight out of
+ 
+
+00:04:26.000 --> 00:04:27.990 align:start position:0%
+something like claw code straight out of
+the<00:04:26.160><c> box</c><00:04:26.560><c> to</c><00:04:26.880><c> a</c><00:04:27.120><c> senior</c><00:04:27.520><c> specialist</c>
+
+00:04:27.990 --> 00:04:28.000 align:start position:0%
+the box to a senior specialist
+ 
+
+00:04:28.000 --> 00:04:29.749 align:start position:0%
+the box to a senior specialist
+instantly.<00:04:28.720><c> Right</c><00:04:29.040><c> now,</c><00:04:29.280><c> there's</c><00:04:29.520><c> nine</c>
+
+00:04:29.749 --> 00:04:29.759 align:start position:0%
+instantly. Right now, there's nine
+ 
+
+00:04:29.759 --> 00:04:31.350 align:start position:0%
+instantly. Right now, there's nine
+divisions<00:04:30.240><c> inside</c><00:04:30.639><c> the</c><00:04:30.800><c> team</c><00:04:30.960><c> that</c><00:04:31.199><c> you</c>
+
+00:04:31.350 --> 00:04:31.360 align:start position:0%
+divisions inside the team that you
+ 
+
+00:04:31.360 --> 00:04:32.870 align:start position:0%
+divisions inside the team that you
+install.<00:04:31.759><c> So,</c><00:04:31.840><c> the</c><00:04:32.000><c> agency</c><00:04:32.320><c> is</c><00:04:32.479><c> organized</c>
+
+00:04:32.870 --> 00:04:32.880 align:start position:0%
+install. So, the agency is organized
+ 
+
+00:04:32.880 --> 00:04:34.710 align:start position:0%
+install. So, the agency is organized
+into<00:04:33.120><c> nine</c><00:04:33.360><c> departments</c><00:04:33.759><c> just</c><00:04:33.919><c> like</c><00:04:34.240><c> a</c><00:04:34.479><c> real</c>
+
+00:04:34.710 --> 00:04:34.720 align:start position:0%
+into nine departments just like a real
+ 
+
+00:04:34.720 --> 00:04:35.590 align:start position:0%
+into nine departments just like a real
+company.<00:04:34.960><c> So,</c><00:04:35.040><c> you</c><00:04:35.199><c> got</c><00:04:35.280><c> like</c><00:04:35.440><c> the</c>
+
+00:04:35.590 --> 00:04:35.600 align:start position:0%
+company. So, you got like the
+ 
+
+00:04:35.600 --> 00:04:38.469 align:start position:0%
+company. So, you got like the
+engineering<00:04:36.080><c> division,</c><00:04:37.040><c> design</c><00:04:37.440><c> division,</c>
+
+00:04:38.469 --> 00:04:38.479 align:start position:0%
+engineering division, design division,
+ 
+
+00:04:38.479 --> 00:04:40.070 align:start position:0%
+engineering division, design division,
+um,<00:04:38.639><c> and</c><00:04:38.880><c> we've</c><00:04:39.040><c> got</c><00:04:39.120><c> the</c><00:04:39.360><c> website</c><00:04:39.680><c> ready</c><00:04:39.919><c> to</c>
+
+00:04:40.070 --> 00:04:40.080 align:start position:0%
+um, and we've got the website ready to
+ 
+
+00:04:40.080 --> 00:04:41.430 align:start position:0%
+um, and we've got the website ready to
+preview<00:04:40.400><c> right</c><00:04:40.560><c> here.</c><00:04:40.720><c> So,</c><00:04:40.960><c> let's</c><00:04:41.120><c> open</c><00:04:41.280><c> this</c>
+
+00:04:41.430 --> 00:04:41.440 align:start position:0%
+preview right here. So, let's open this
+ 
+
+00:04:41.440 --> 00:04:43.350 align:start position:0%
+preview right here. So, let's open this
+up.<00:04:41.600><c> And</c><00:04:41.759><c> you</c><00:04:41.840><c> can</c><00:04:42.000><c> also</c><00:04:42.160><c> see,</c><00:04:42.639><c> uh,</c><00:04:42.800><c> inside</c><00:04:43.120><c> the</c>
+
+00:04:43.350 --> 00:04:43.360 align:start position:0%
+up. And you can also see, uh, inside the
+ 
+
+00:04:43.360 --> 00:04:44.790 align:start position:0%
+up. And you can also see, uh, inside the
+other<00:04:43.520><c> window,</c><00:04:43.840><c> we</c><00:04:44.080><c> got</c><00:04:44.160><c> the</c><00:04:44.400><c> Reddit</c>
+
+00:04:44.790 --> 00:04:44.800 align:start position:0%
+other window, we got the Reddit
+ 
+
+00:04:44.800 --> 00:04:46.790 align:start position:0%
+other window, we got the Reddit
+community<00:04:45.199><c> builder,</c><00:04:45.919><c> um,</c><00:04:46.080><c> to</c><00:04:46.240><c> give</c><00:04:46.320><c> us</c><00:04:46.479><c> like</c><00:04:46.639><c> a</c>
+
+00:04:46.790 --> 00:04:46.800 align:start position:0%
+community builder, um, to give us like a
+ 
+
+00:04:46.800 --> 00:04:49.030 align:start position:0%
+community builder, um, to give us like a
+30-day<00:04:47.280><c> quick</c><00:04:47.520><c> start</c><00:04:47.840><c> plan,</c><00:04:48.560><c> uh,</c><00:04:48.720><c> core</c>
+
+00:04:49.030 --> 00:04:49.040 align:start position:0%
+30-day quick start plan, uh, core
+ 
+
+00:04:49.040 --> 00:04:51.830 align:start position:0%
+30-day quick start plan, uh, core
+principles,<00:04:49.919><c> and</c><00:04:50.160><c> also,</c><00:04:50.720><c> uh,</c><00:04:50.880><c> tools</c><00:04:51.440><c> that</c><00:04:51.680><c> we</c>
+
+00:04:51.830 --> 00:04:51.840 align:start position:0%
+principles, and also, uh, tools that we
+ 
+
+00:04:51.840 --> 00:04:53.749 align:start position:0%
+principles, and also, uh, tools that we
+can<00:04:52.000><c> use</c><00:04:52.240><c> as</c><00:04:52.400><c> well.</c><00:04:52.639><c> So,</c><00:04:53.199><c> it's</c><00:04:53.520><c> really</c>
+
+00:04:53.749 --> 00:04:53.759 align:start position:0%
+can use as well. So, it's really
+ 
+
+00:04:53.759 --> 00:04:56.310 align:start position:0%
+can use as well. So, it's really
+interesting<00:04:54.080><c> how</c><00:04:54.240><c> it's</c><00:04:54.400><c> built</c><00:04:54.560><c> out.</c><00:04:54.800><c> And,</c><00:04:55.199><c> um,</c>
+
+00:04:56.310 --> 00:04:56.320 align:start position:0%
+interesting how it's built out. And, um,
+ 
+
+00:04:56.320 --> 00:04:57.990 align:start position:0%
+interesting how it's built out. And, um,
+I<00:04:56.560><c> say</c><00:04:56.800><c> open</c><00:04:56.960><c> this</c><00:04:57.120><c> up.</c><00:04:57.360><c> So,</c><00:04:57.520><c> this</c><00:04:57.600><c> is</c><00:04:57.759><c> the</c><00:04:57.919><c> new</c>
+
+00:04:57.990 --> 00:04:58.000 align:start position:0%
+I say open this up. So, this is the new
+ 
+
+00:04:58.000 --> 00:04:59.909 align:start position:0%
+I say open this up. So, this is the new
+website<00:04:58.320><c> we</c><00:04:58.560><c> built.</c><00:04:59.120><c> And</c><00:04:59.360><c> boom,</c><00:04:59.600><c> we've</c><00:04:59.840><c> got</c>
+
+00:04:59.909 --> 00:04:59.919 align:start position:0%
+website we built. And boom, we've got
+ 
+
+00:04:59.919 --> 00:05:01.189 align:start position:0%
+website we built. And boom, we've got
+the<00:05:00.080><c> new</c><00:05:00.160><c> website</c><00:05:00.479><c> right</c><00:05:00.639><c> there.</c><00:05:00.880><c> So,</c><00:05:00.960><c> it's</c>
+
+00:05:01.189 --> 00:05:01.199 align:start position:0%
+the new website right there. So, it's
+ 
+
+00:05:01.199 --> 00:05:02.629 align:start position:0%
+the new website right there. So, it's
+created<00:05:01.360><c> the</c><00:05:01.520><c> full</c><00:05:01.680><c> website</c><00:05:02.000><c> as</c><00:05:02.160><c> you</c><00:05:02.320><c> can</c><00:05:02.400><c> see.</c>
+
+00:05:02.629 --> 00:05:02.639 align:start position:0%
+created the full website as you can see.
+ 
+
+00:05:02.639 --> 00:05:05.590 align:start position:0%
+created the full website as you can see.
+Fake<00:05:02.960><c> cues.</c>
+
+00:05:05.590 --> 00:05:05.600 align:start position:0%
+Fake cues.
+ 
+
+00:05:05.600 --> 00:05:08.150 align:start position:0%
+Fake cues.
+Pretty<00:05:05.840><c> nice</c><00:05:06.080><c> setup.</c><00:05:07.120><c> Um,</c><00:05:07.440><c> nice</c><00:05:07.759><c> animation</c>
+
+00:05:08.150 --> 00:05:08.160 align:start position:0%
+Pretty nice setup. Um, nice animation
+ 
+
+00:05:08.160 --> 00:05:09.670 align:start position:0%
+Pretty nice setup. Um, nice animation
+when<00:05:08.400><c> it</c><00:05:08.560><c> runs</c><00:05:08.720><c> through</c><00:05:08.880><c> the</c><00:05:09.039><c> page.</c><00:05:09.440><c> Super</c>
+
+00:05:09.670 --> 00:05:09.680 align:start position:0%
+when it runs through the page. Super
+ 
+
+00:05:09.680 --> 00:05:10.870 align:start position:0%
+when it runs through the page. Super
+simple<00:05:09.840><c> in</c><00:05:10.000><c> the</c><00:05:10.080><c> way</c><00:05:10.240><c> that's</c><00:05:10.479><c> designed,</c><00:05:10.720><c> but</c>
+
+00:05:10.870 --> 00:05:10.880 align:start position:0%
+simple in the way that's designed, but
+ 
+
+00:05:10.880 --> 00:05:12.150 align:start position:0%
+simple in the way that's designed, but
+it<00:05:11.039><c> looks</c><00:05:11.199><c> nice,</c><00:05:11.440><c> right?</c><00:05:11.600><c> And</c><00:05:11.759><c> so,</c><00:05:11.919><c> that</c><00:05:12.080><c> was</c>
+
+00:05:12.150 --> 00:05:12.160 align:start position:0%
+it looks nice, right? And so, that was
+ 
+
+00:05:12.160 --> 00:05:14.390 align:start position:0%
+it looks nice, right? And so, that was
+fully<00:05:12.400><c> automated</c><00:05:13.199><c> using</c><00:05:13.520><c> that</c><00:05:13.759><c> new</c><00:05:13.919><c> agency</c>
+
+00:05:14.390 --> 00:05:14.400 align:start position:0%
+fully automated using that new agency
+ 
+
+00:05:14.400 --> 00:05:15.990 align:start position:0%
+fully automated using that new agency
+team.<00:05:14.800><c> Now,</c><00:05:15.120><c> that</c><00:05:15.360><c> was</c><00:05:15.520><c> just</c><00:05:15.600><c> a</c><00:05:15.840><c> quick</c>
+
+00:05:15.990 --> 00:05:16.000 align:start position:0%
+team. Now, that was just a quick
+ 
+
+00:05:16.000 --> 00:05:17.510 align:start position:0%
+team. Now, that was just a quick
+example,<00:05:16.560><c> but</c><00:05:16.720><c> there's</c><00:05:16.960><c> so</c><00:05:17.039><c> much</c><00:05:17.199><c> more</c><00:05:17.360><c> you</c>
+
+00:05:17.510 --> 00:05:17.520 align:start position:0%
+example, but there's so much more you
+ 
+
+00:05:17.520 --> 00:05:18.790 align:start position:0%
+example, but there's so much more you
+could<00:05:17.600><c> do</c><00:05:17.680><c> with</c><00:05:17.759><c> this.</c><00:05:18.000><c> And</c><00:05:18.240><c> if</c><00:05:18.479><c> we</c><00:05:18.639><c> actually</c>
+
+00:05:18.790 --> 00:05:18.800 align:start position:0%
+could do with this. And if we actually
+ 
+
+00:05:18.800 --> 00:05:21.189 align:start position:0%
+could do with this. And if we actually
+compare<00:05:19.039><c> it</c><00:05:19.199><c> side</c><00:05:19.440><c> by</c><00:05:19.600><c> side.</c><00:05:19.919><c> So,</c><00:05:20.560><c> exactly</c><00:05:20.960><c> the</c>
+
+00:05:21.189 --> 00:05:21.199 align:start position:0%
+compare it side by side. So, exactly the
+ 
+
+00:05:21.199 --> 00:05:23.350 align:start position:0%
+compare it side by side. So, exactly the
+same<00:05:21.600><c> content,</c><00:05:22.320><c> but</c><00:05:22.639><c> look</c><00:05:22.720><c> at</c><00:05:22.880><c> the</c><00:05:23.039><c> way</c><00:05:23.120><c> that</c>
+
+00:05:23.350 --> 00:05:23.360 align:start position:0%
+same content, but look at the way that
+ 
+
+00:05:23.360 --> 00:05:25.350 align:start position:0%
+same content, but look at the way that
+it's<00:05:23.520><c> designed.</c><00:05:23.919><c> So,</c><00:05:24.080><c> this</c><00:05:24.240><c> is</c><00:05:24.320><c> the</c><00:05:24.560><c> original.</c>
+
+00:05:25.350 --> 00:05:25.360 align:start position:0%
+it's designed. So, this is the original.
+ 
+
+00:05:25.360 --> 00:05:26.870 align:start position:0%
+it's designed. So, this is the original.
+This<00:05:25.520><c> is</c><00:05:25.600><c> the</c><00:05:25.759><c> new</c><00:05:25.919><c> version.</c><00:05:26.400><c> You</c><00:05:26.560><c> see</c><00:05:26.720><c> how</c>
+
+00:05:26.870 --> 00:05:26.880 align:start position:0%
+This is the new version. You see how
+ 
+
+00:05:26.880 --> 00:05:28.870 align:start position:0%
+This is the new version. You see how
+it's<00:05:27.039><c> got</c><00:05:27.199><c> like</c><00:05:27.360><c> a</c><00:05:27.520><c> nice</c><00:05:27.759><c> little</c><00:05:28.400><c> banner</c><00:05:28.639><c> at</c>
+
+00:05:28.870 --> 00:05:28.880 align:start position:0%
+it's got like a nice little banner at
+ 
+
+00:05:28.880 --> 00:05:30.469 align:start position:0%
+it's got like a nice little banner at
+the<00:05:28.960><c> top?</c><00:05:29.199><c> It's</c><00:05:29.360><c> designed</c><00:05:29.680><c> nicely.</c><00:05:30.160><c> It's</c><00:05:30.400><c> got</c>
+
+00:05:30.469 --> 00:05:30.479 align:start position:0%
+the top? It's designed nicely. It's got
+ 
+
+00:05:30.479 --> 00:05:32.629 align:start position:0%
+the top? It's designed nicely. It's got
+like<00:05:30.639><c> these</c><00:05:30.800><c> nice</c><00:05:31.039><c> UI</c><00:05:31.360><c> elements.</c><00:05:32.000><c> The</c><00:05:32.320><c> new</c>
+
+00:05:32.629 --> 00:05:32.639 align:start position:0%
+like these nice UI elements. The new
+ 
+
+00:05:32.639 --> 00:05:34.469 align:start position:0%
+like these nice UI elements. The new
+version<00:05:33.120><c> looks</c><00:05:33.440><c> me</c><00:05:33.680><c> much</c><00:05:33.919><c> better</c><00:05:34.080><c> than</c><00:05:34.320><c> the</c>
+
+00:05:34.469 --> 00:05:34.479 align:start position:0%
+version looks me much better than the
+ 
+
+00:05:34.479 --> 00:05:36.150 align:start position:0%
+version looks me much better than the
+old<00:05:34.720><c> version.</c><00:05:35.120><c> This</c><00:05:35.280><c> is</c><00:05:35.440><c> the</c><00:05:35.600><c> old</c><00:05:35.759><c> version.</c>
+
+00:05:36.150 --> 00:05:36.160 align:start position:0%
+old version. This is the old version.
+ 
+
+00:05:36.160 --> 00:05:37.830 align:start position:0%
+old version. This is the old version.
+This<00:05:36.320><c> is</c><00:05:36.400><c> the</c><00:05:36.639><c> new</c><00:05:36.800><c> version,</c><00:05:37.199><c> right?</c><00:05:37.520><c> Using</c>
+
+00:05:37.830 --> 00:05:37.840 align:start position:0%
+This is the new version, right? Using
+ 
+
+00:05:37.840 --> 00:05:41.189 align:start position:0%
+This is the new version, right? Using
+that<00:05:38.320><c> new</c><00:05:38.960><c> um</c><00:05:39.199><c> agency</c><00:05:40.320><c> setup</c><00:05:40.800><c> with</c><00:05:41.039><c> the</c>
+
+00:05:41.189 --> 00:05:41.199 align:start position:0%
+that new um agency setup with the
+ 
+
+00:05:41.199 --> 00:05:42.870 align:start position:0%
+that new um agency setup with the
+specialist.<00:05:41.759><c> So,</c><00:05:42.000><c> it's</c><00:05:42.160><c> a</c><00:05:42.320><c> pretty</c><00:05:42.479><c> cool</c><00:05:42.639><c> tool.</c>
+
+00:05:42.870 --> 00:05:42.880 align:start position:0%
+specialist. So, it's a pretty cool tool.
+ 
+
+00:05:42.880 --> 00:05:44.310 align:start position:0%
+specialist. So, it's a pretty cool tool.
+You<00:05:42.960><c> also</c><00:05:43.199><c> got</c><00:05:43.360><c> like</c><00:05:43.440><c> a</c><00:05:43.600><c> testing</c><00:05:43.919><c> division</c>
+
+00:05:44.310 --> 00:05:44.320 align:start position:0%
+You also got like a testing division
+ 
+
+00:05:44.320 --> 00:05:46.710 align:start position:0%
+You also got like a testing division
+support<00:05:45.199><c> um</c><00:05:45.600><c> specialized</c><00:05:46.160><c> as</c><00:05:46.320><c> well.</c><00:05:46.479><c> And</c><00:05:46.639><c> if</c>
+
+00:05:46.710 --> 00:05:46.720 align:start position:0%
+support um specialized as well. And if
+ 
+
+00:05:46.720 --> 00:05:48.150 align:start position:0%
+support um specialized as well. And if
+you<00:05:46.800><c> want</c><00:05:46.880><c> to</c><00:05:47.039><c> set</c><00:05:47.120><c> it</c><00:05:47.199><c> up,</c><00:05:47.440><c> like</c><00:05:47.600><c> I</c><00:05:47.759><c> said,</c><00:05:48.000><c> you</c>
+
+00:05:48.150 --> 00:05:48.160 align:start position:0%
+you want to set it up, like I said, you
+ 
+
+00:05:48.160 --> 00:05:50.390 align:start position:0%
+you want to set it up, like I said, you
+can<00:05:48.320><c> just</c><00:05:48.479><c> go</c><00:05:48.639><c> into</c><00:05:49.039><c> claw</c><00:05:49.440><c> code,</c><00:05:49.919><c> give</c><00:05:50.080><c> it</c><00:05:50.240><c> that</c>
+
+00:05:50.390 --> 00:05:50.400 align:start position:0%
+can just go into claw code, give it that
+ 
+
+00:05:50.400 --> 00:05:51.510 align:start position:0%
+can just go into claw code, give it that
+command.<00:05:50.880><c> We've</c><00:05:51.039><c> got</c><00:05:51.120><c> the</c><00:05:51.280><c> setup</c>
+
+00:05:51.510 --> 00:05:51.520 align:start position:0%
+command. We've got the setup
+ 
+
+00:05:51.520 --> 00:05:53.350 align:start position:0%
+command. We've got the setup
+instructions<00:05:52.000><c> inside</c><00:05:52.320><c> the</c><00:05:52.720><c> video</c><00:05:52.960><c> notes</c><00:05:53.199><c> from</c>
+
+00:05:53.350 --> 00:05:53.360 align:start position:0%
+instructions inside the video notes from
+ 
+
+00:05:53.360 --> 00:05:54.710 align:start position:0%
+instructions inside the video notes from
+today<00:05:53.520><c> in</c><00:05:53.680><c> the</c><00:05:53.759><c> AR</c><00:05:54.000><c> profit</c><00:05:54.320><c> boarding,</c><00:05:54.479><c> but</c>
+
+00:05:54.710 --> 00:05:54.720 align:start position:0%
+today in the AR profit boarding, but
+ 
+
+00:05:54.720 --> 00:05:55.990 align:start position:0%
+today in the AR profit boarding, but
+that's<00:05:54.800><c> basically</c><00:05:55.120><c> it.</c><00:05:55.280><c> And</c><00:05:55.440><c> then</c><00:05:55.600><c> in</c><00:05:55.840><c> terms</c>
+
+00:05:55.990 --> 00:05:56.000 align:start position:0%
+that's basically it. And then in terms
+ 
+
+00:05:56.000 --> 00:05:57.670 align:start position:0%
+that's basically it. And then in terms
+of<00:05:56.160><c> like</c><00:05:56.320><c> real</c><00:05:56.639><c> world</c><00:05:56.880><c> examples,</c><00:05:57.360><c> I've</c><00:05:57.520><c> shown</c>
+
+00:05:57.670 --> 00:05:57.680 align:start position:0%
+of like real world examples, I've shown
+ 
+
+00:05:57.680 --> 00:05:59.830 align:start position:0%
+of like real world examples, I've shown
+you<00:05:57.840><c> how</c><00:05:58.000><c> I</c><00:05:58.240><c> built</c><00:05:58.479><c> a</c><00:05:58.720><c> new</c><00:05:58.880><c> website</c><00:05:59.360><c> using</c><00:05:59.600><c> this</c>
+
+00:05:59.830 --> 00:05:59.840 align:start position:0%
+you how I built a new website using this
+ 
+
+00:05:59.840 --> 00:06:01.270 align:start position:0%
+you how I built a new website using this
+agent<00:06:00.160><c> team,</c><00:06:00.400><c> but</c><00:06:00.560><c> you</c><00:06:00.720><c> could</c><00:06:00.960><c> for</c><00:06:00.960><c> example</c>
+
+00:06:01.270 --> 00:06:01.280 align:start position:0%
+agent team, but you could for example
+ 
+
+00:06:01.280 --> 00:06:03.110 align:start position:0%
+agent team, but you could for example
+like<00:06:01.520><c> activate</c><00:06:02.000><c> five</c><00:06:02.240><c> agents</c><00:06:02.560><c> at</c><00:06:02.720><c> once</c><00:06:02.960><c> and</c>
+
+00:06:03.110 --> 00:06:03.120 align:start position:0%
+like activate five agents at once and
+ 
+
+00:06:03.120 --> 00:06:05.510 align:start position:0%
+like activate five agents at once and
+you<00:06:03.280><c> could</c><00:06:03.440><c> create</c><00:06:03.600><c> like</c><00:06:03.840><c> a</c><00:06:04.479><c> you</c><00:06:04.639><c> know</c><00:06:05.039><c> a</c><00:06:05.280><c> new</c>
+
+00:06:05.510 --> 00:06:05.520 align:start position:0%
+you could create like a you know a new
+ 
+
+00:06:05.520 --> 00:06:07.029 align:start position:0%
+you could create like a you know a new
+marketing<00:06:05.840><c> campaign.</c><00:06:06.240><c> So</c><00:06:06.319><c> you</c><00:06:06.479><c> can</c><00:06:06.560><c> say</c><00:06:06.800><c> okay</c>
+
+00:06:07.029 --> 00:06:07.039 align:start position:0%
+marketing campaign. So you can say okay
+ 
+
+00:06:07.039 --> 00:06:08.629 align:start position:0%
+marketing campaign. So you can say okay
+content<00:06:07.360><c> creator</c><00:06:07.759><c> developers</c><00:06:08.240><c> campaign</c>
+
+00:06:08.629 --> 00:06:08.639 align:start position:0%
+content creator developers campaign
+ 
+
+00:06:08.639 --> 00:06:10.629 align:start position:0%
+content creator developers campaign
+Twitter<00:06:08.880><c> engager</c><00:06:09.280><c> handles</c><00:06:09.600><c> extract</c><00:06:10.080><c> G</c><00:06:10.400><c> etc.</c>
+
+00:06:10.629 --> 00:06:10.639 align:start position:0%
+Twitter engager handles extract G etc.
+ 
+
+00:06:10.639 --> 00:06:11.830 align:start position:0%
+Twitter engager handles extract G etc.
+So<00:06:10.800><c> let's</c><00:06:10.960><c> try</c><00:06:11.120><c> that.</c><00:06:11.360><c> So</c><00:06:11.520><c> we're</c><00:06:11.680><c> going</c><00:06:11.759><c> to</c>
+
+00:06:11.830 --> 00:06:11.840 align:start position:0%
+So let's try that. So we're going to
+ 
+
+00:06:11.840 --> 00:06:15.749 align:start position:0%
+So let's try that. So we're going to
+take<00:06:12.319><c> this</c><00:06:13.600><c> um</c><00:06:14.639><c> example</c><00:06:15.039><c> use</c><00:06:15.280><c> case</c><00:06:15.440><c> here.</c>
+
+00:06:15.749 --> 00:06:15.759 align:start position:0%
+take this um example use case here.
+ 
+
+00:06:15.759 --> 00:06:20.550 align:start position:0%
+take this um example use case here.
+We'll<00:06:16.000><c> go</c><00:06:16.160><c> back</c><00:06:16.319><c> into</c>
+
+00:06:20.550 --> 00:06:20.560 align:start position:0%
+ 
+ 
+
+00:06:20.560 --> 00:06:21.990 align:start position:0%
+ 
+the<00:06:20.880><c> builder</c><00:06:21.280><c> and</c><00:06:21.440><c> we're</c><00:06:21.600><c> going</c><00:06:21.759><c> to</c><00:06:21.840><c> say,</c>
+
+00:06:21.990 --> 00:06:22.000 align:start position:0%
+the builder and we're going to say,
+ 
+
+00:06:22.000 --> 00:06:26.150 align:start position:0%
+the builder and we're going to say,
+okay,<00:06:23.199><c> now</c><00:06:23.520><c> create</c><00:06:24.000><c> a</c><00:06:24.479><c> marketing</c><00:06:24.880><c> campaign</c>
+
+00:06:26.150 --> 00:06:26.160 align:start position:0%
+okay, now create a marketing campaign
+ 
+
+00:06:26.160 --> 00:06:30.309 align:start position:0%
+okay, now create a marketing campaign
+for<00:06:26.479><c> the</c><00:06:26.720><c> AI</c><00:06:27.039><c> profit</c><00:06:27.360><c> border</c>
+
+00:06:30.309 --> 00:06:30.319 align:start position:0%
+for the AI profit border
+ 
+
+00:06:30.319 --> 00:06:33.029 align:start position:0%
+for the AI profit border
+using<00:06:30.639><c> the</c><00:06:30.880><c> agency.</c><00:06:31.360><c> And</c><00:06:31.520><c> then</c><00:06:32.720><c> we're</c><00:06:32.960><c> going</c>
+
+00:06:33.029 --> 00:06:33.039 align:start position:0%
+using the agency. And then we're going
+ 
+
+00:06:33.039 --> 00:06:34.950 align:start position:0%
+using the agency. And then we're going
+to<00:06:33.120><c> stack</c><00:06:33.520><c> five</c><00:06:33.840><c> marketing</c><00:06:34.160><c> agents</c><00:06:34.560><c> together,</c>
+
+00:06:34.950 --> 00:06:34.960 align:start position:0%
+to stack five marketing agents together,
+ 
+
+00:06:34.960 --> 00:06:35.670 align:start position:0%
+to stack five marketing agents together,
+right?<00:06:35.120><c> So,</c><00:06:35.280><c> we're</c><00:06:35.360><c> going</c><00:06:35.440><c> to</c><00:06:35.520><c> create</c>
+
+00:06:35.670 --> 00:06:35.680 align:start position:0%
+right? So, we're going to create
+ 
+
+00:06:35.680 --> 00:06:37.590 align:start position:0%
+right? So, we're going to create
+multiple<00:06:36.080><c> sub</c><00:06:36.319><c> agents</c><00:06:36.639><c> together</c><00:06:37.280><c> that</c>
+
+00:06:37.590 --> 00:06:37.600 align:start position:0%
+multiple sub agents together that
+ 
+
+00:06:37.600 --> 00:06:39.350 align:start position:0%
+multiple sub agents together that
+working<00:06:37.919><c> together</c><00:06:38.160><c> in</c><00:06:38.319><c> Cycl</c><00:06:38.880><c> code.</c><00:06:39.280><c> And</c>
+
+00:06:39.350 --> 00:06:39.360 align:start position:0%
+working together in Cycl code. And
+ 
+
+00:06:39.360 --> 00:06:40.469 align:start position:0%
+working together in Cycl code. And
+again,<00:06:39.680><c> like</c><00:06:39.840><c> you</c><00:06:40.000><c> don't</c><00:06:40.160><c> need</c><00:06:40.240><c> to</c><00:06:40.319><c> be</c>
+
+00:06:40.469 --> 00:06:40.479 align:start position:0%
+again, like you don't need to be
+ 
+
+00:06:40.479 --> 00:06:42.070 align:start position:0%
+again, like you don't need to be
+technical<00:06:40.800><c> to</c><00:06:41.039><c> use</c><00:06:41.199><c> this.</c><00:06:41.520><c> You're</c><00:06:41.759><c> literally</c>
+
+00:06:42.070 --> 00:06:42.080 align:start position:0%
+technical to use this. You're literally
+ 
+
+00:06:42.080 --> 00:06:43.909 align:start position:0%
+technical to use this. You're literally
+just<00:06:42.560><c> speaking</c><00:06:42.880><c> in</c><00:06:43.039><c> plain</c><00:06:43.280><c> language.</c><00:06:43.680><c> It's</c>
+
+00:06:43.909 --> 00:06:43.919 align:start position:0%
+just speaking in plain language. It's
+ 
+
+00:06:43.919 --> 00:06:45.270 align:start position:0%
+just speaking in plain language. It's
+really,<00:06:44.080><c> really</c><00:06:44.319><c> simple</c><00:06:44.400><c> and</c><00:06:44.639><c> easy</c><00:06:44.800><c> to</c><00:06:44.960><c> use.</c>
+
+00:06:45.270 --> 00:06:45.280 align:start position:0%
+really, really simple and easy to use.
+ 
+
+00:06:45.280 --> 00:06:47.350 align:start position:0%
+really, really simple and easy to use.
+So<00:06:45.440><c> it's</c><00:06:45.680><c> now</c><00:06:46.080><c> launching</c><00:06:46.560><c> the</c><00:06:46.960><c> content</c>
+
+00:06:47.350 --> 00:06:47.360 align:start position:0%
+So it's now launching the content
+ 
+
+00:06:47.360 --> 00:06:49.270 align:start position:0%
+So it's now launching the content
+creator<00:06:47.840><c> to</c><00:06:48.160><c> develop</c><00:06:48.400><c> the</c><00:06:48.639><c> full</c><00:06:48.800><c> campaign</c>
+
+00:06:49.270 --> 00:06:49.280 align:start position:0%
+creator to develop the full campaign
+ 
+
+00:06:49.280 --> 00:06:51.029 align:start position:0%
+creator to develop the full campaign
+strategy<00:06:49.680><c> and</c><00:06:49.919><c> it's</c><00:06:50.080><c> launching</c><00:06:50.560><c> all</c><00:06:50.800><c> five</c>
+
+00:06:51.029 --> 00:06:51.039 align:start position:0%
+strategy and it's launching all five
+ 
+
+00:06:51.039 --> 00:06:53.270 align:start position:0%
+strategy and it's launching all five
+agents<00:06:51.440><c> in</c><00:06:51.680><c> parallel</c><00:06:52.160><c> right</c><00:06:52.319><c> now.</c><00:06:52.720><c> So</c><00:06:52.960><c> it's</c>
+
+00:06:53.270 --> 00:06:53.280 align:start position:0%
+agents in parallel right now. So it's
+ 
+
+00:06:53.280 --> 00:06:55.029 align:start position:0%
+agents in parallel right now. So it's
+set<00:06:53.440><c> up</c><00:06:53.520><c> the</c><00:06:53.759><c> Twitter</c><00:06:54.080><c> engager</c><00:06:54.560><c> as</c><00:06:54.720><c> well</c><00:06:54.880><c> and</c>
+
+00:06:55.029 --> 00:06:55.039 align:start position:0%
+set up the Twitter engager as well and
+ 
+
+00:06:55.039 --> 00:06:56.390 align:start position:0%
+set up the Twitter engager as well and
+you<00:06:55.199><c> can</c><00:06:55.280><c> see</c><00:06:55.360><c> how</c><00:06:55.520><c> it's</c><00:06:55.759><c> working</c><00:06:56.000><c> step</c><00:06:56.240><c> by</c>
+
+00:06:56.390 --> 00:06:56.400 align:start position:0%
+you can see how it's working step by
+ 
+
+00:06:56.400 --> 00:06:57.909 align:start position:0%
+you can see how it's working step by
+step.<00:06:56.720><c> Right</c><00:06:56.960><c> now</c><00:06:57.120><c> you</c><00:06:57.280><c> might</c><00:06:57.440><c> be</c><00:06:57.600><c> thinking</c><00:06:57.759><c> as</c>
+
+00:06:57.909 --> 00:06:57.919 align:start position:0%
+step. Right now you might be thinking as
+ 
+
+00:06:57.919 --> 00:06:59.830 align:start position:0%
+step. Right now you might be thinking as
+well<00:06:58.080><c> at</c><00:06:58.240><c> this</c><00:06:58.400><c> point</c><00:06:58.639><c> okay</c><00:06:59.039><c> what</c><00:06:59.360><c> makes</c><00:06:59.520><c> this</c>
+
+00:06:59.830 --> 00:06:59.840 align:start position:0%
+well at this point okay what makes this
+ 
+
+00:06:59.840 --> 00:07:01.749 align:start position:0%
+well at this point okay what makes this
+different<00:07:00.080><c> from</c><00:07:00.479><c> say</c><00:07:00.720><c> just</c><00:07:01.199><c> using</c><00:07:01.520><c> your</c>
+
+00:07:01.749 --> 00:07:01.759 align:start position:0%
+different from say just using your
+ 
+
+00:07:01.759 --> 00:07:03.830 align:start position:0%
+different from say just using your
+normal<00:07:02.000><c> workflows.</c><00:07:02.639><c> Well,</c><00:07:03.360><c> you</c><00:07:03.520><c> know,</c><00:07:03.599><c> if</c>
+
+00:07:03.830 --> 00:07:03.840 align:start position:0%
+normal workflows. Well, you know, if
+ 
+
+00:07:03.840 --> 00:07:05.749 align:start position:0%
+normal workflows. Well, you know, if
+you're<00:07:04.000><c> using</c><00:07:04.319><c> generic</c><00:07:04.720><c> prompts</c><00:07:05.280><c> that</c><00:07:05.520><c> say,</c>
+
+00:07:05.749 --> 00:07:05.759 align:start position:0%
+you're using generic prompts that say,
+ 
+
+00:07:05.759 --> 00:07:07.510 align:start position:0%
+you're using generic prompts that say,
+for example,<00:07:06.080><c> like</c><00:07:06.319><c> act</c><00:07:06.560><c> like</c><00:07:06.720><c> a</c><00:07:06.880><c> developer,</c>
+
+00:07:07.510 --> 00:07:07.520 align:start position:0%
+for example, like act like a developer,
+ 
+
+00:07:07.520 --> 00:07:09.189 align:start position:0%
+for example, like act like a developer,
+the<00:07:07.759><c> agency</c><00:07:08.160><c> gives</c><00:07:08.319><c> you</c><00:07:08.479><c> a</c><00:07:08.639><c> developer</c><00:07:08.960><c> with</c><00:07:09.039><c> a</c>
+
+00:07:09.189 --> 00:07:09.199 align:start position:0%
+the agency gives you a developer with a
+ 
+
+00:07:09.199 --> 00:07:12.230 align:start position:0%
+the agency gives you a developer with a
+personality,<00:07:10.400><c> um,</c><00:07:10.560><c> a</c><00:07:10.800><c> process,</c><00:07:11.919><c> code</c>
+
+00:07:12.230 --> 00:07:12.240 align:start position:0%
+personality, um, a process, code
+ 
+
+00:07:12.240 --> 00:07:14.230 align:start position:0%
+personality, um, a process, code
+examples,<00:07:12.800><c> a</c><00:07:12.960><c> specific</c><00:07:13.360><c> workflow,</c><00:07:13.919><c> right?</c>
+
+00:07:14.230 --> 00:07:14.240 align:start position:0%
+examples, a specific workflow, right?
+ 
+
+00:07:14.240 --> 00:07:15.670 align:start position:0%
+examples, a specific workflow, right?
+And<00:07:14.400><c> prompt</c><00:07:14.720><c> libraries</c><00:07:15.199><c> that</c><00:07:15.280><c> give</c><00:07:15.360><c> you</c><00:07:15.520><c> like</c>
+
+00:07:15.670 --> 00:07:15.680 align:start position:0%
+And prompt libraries that give you like
+ 
+
+00:07:15.680 --> 00:07:17.589 align:start position:0%
+And prompt libraries that give you like
+one-off<00:07:16.000><c> prompts</c><00:07:16.319><c> you</c><00:07:16.479><c> use</c><00:07:16.639><c> once</c><00:07:16.960><c> and</c><00:07:17.199><c> forget.</c>
+
+00:07:17.589 --> 00:07:17.599 align:start position:0%
+one-off prompts you use once and forget.
+ 
+
+00:07:17.599 --> 00:07:19.350 align:start position:0%
+one-off prompts you use once and forget.
+The<00:07:17.759><c> agency</c><00:07:18.160><c> gives</c><00:07:18.400><c> you</c><00:07:18.560><c> like</c><00:07:18.639><c> a</c><00:07:18.800><c> full</c><00:07:19.039><c> agent</c>
+
+00:07:19.350 --> 00:07:19.360 align:start position:0%
+The agency gives you like a full agent
+ 
+
+00:07:19.360 --> 00:07:21.830 align:start position:0%
+The agency gives you like a full agent
+system<00:07:19.759><c> you</c><00:07:20.000><c> can</c><00:07:20.160><c> use</c><00:07:20.400><c> and</c><00:07:20.639><c> reuse</c><00:07:21.120><c> forever,</c>
+
+00:07:21.830 --> 00:07:21.840 align:start position:0%
+system you can use and reuse forever,
+ 
+
+00:07:21.840 --> 00:07:24.870 align:start position:0%
+system you can use and reuse forever,
+right?<00:07:22.160><c> So,</c><00:07:23.039><c> um,</c><00:07:23.440><c> it's</c><00:07:23.759><c> a</c><00:07:23.919><c> lot</c><00:07:24.080><c> more</c><00:07:24.319><c> specific.</c>
+
+00:07:24.870 --> 00:07:24.880 align:start position:0%
+right? So, um, it's a lot more specific.
+ 
+
+00:07:24.880 --> 00:07:26.469 align:start position:0%
+right? So, um, it's a lot more specific.
+And<00:07:25.120><c> if</c><00:07:25.360><c> we</c><00:07:25.520><c> just</c><00:07:25.680><c> look</c><00:07:25.759><c> at</c><00:07:25.919><c> the</c><00:07:26.080><c> numbers</c><00:07:26.319><c> here,</c>
+
+00:07:26.469 --> 00:07:26.479 align:start position:0%
+And if we just look at the numbers here,
+ 
+
+00:07:26.479 --> 00:07:28.150 align:start position:0%
+And if we just look at the numbers here,
+you<00:07:26.720><c> can</c><00:07:26.880><c> see</c><00:07:27.039><c> how</c><00:07:27.199><c> it</c><00:07:27.360><c> works.</c><00:07:27.680><c> And</c><00:07:27.840><c> it</c><00:07:28.000><c> works</c>
+
+00:07:28.150 --> 00:07:28.160 align:start position:0%
+you can see how it works. And it works
+ 
+
+00:07:28.160 --> 00:07:29.909 align:start position:0%
+you can see how it works. And it works
+with<00:07:28.319><c> seven</c><00:07:28.560><c> tools,</c><00:07:28.960><c> right?</c><00:07:29.199><c> So</c><00:07:29.360><c> it</c><00:07:29.599><c> supports</c>
+
+00:07:29.909 --> 00:07:29.919 align:start position:0%
+with seven tools, right? So it supports
+ 
+
+00:07:29.919 --> 00:07:32.550 align:start position:0%
+with seven tools, right? So it supports
+C<00:07:30.240><c> code,</c><00:07:30.560><c> cursor,</c><00:07:30.960><c> wind</c><00:07:31.120><c> surf,</c><00:07:31.440><c> ADA,</c><00:07:32.160><c> um,</c><00:07:32.319><c> open</c>
+
+00:07:32.550 --> 00:07:32.560 align:start position:0%
+C code, cursor, wind surf, ADA, um, open
+ 
+
+00:07:32.560 --> 00:07:34.629 align:start position:0%
+C code, cursor, wind surf, ADA, um, open
+code<00:07:32.960><c> and</c><00:07:33.199><c> anti-gravity.</c><00:07:33.840><c> I</c><00:07:34.080><c> did</c><00:07:34.160><c> try</c><00:07:34.400><c> setting</c>
+
+00:07:34.629 --> 00:07:34.639 align:start position:0%
+code and anti-gravity. I did try setting
+ 
+
+00:07:34.639 --> 00:07:36.390 align:start position:0%
+code and anti-gravity. I did try setting
+this<00:07:34.800><c> up</c><00:07:34.960><c> inside</c><00:07:35.360><c> open</c><00:07:35.599><c> claw</c><00:07:35.840><c> as</c><00:07:36.000><c> well,</c><00:07:36.160><c> but</c>
+
+00:07:36.390 --> 00:07:36.400 align:start position:0%
+this up inside open claw as well, but
+ 
+
+00:07:36.400 --> 00:07:38.950 align:start position:0%
+this up inside open claw as well, but
+with<00:07:36.720><c> open</c><00:07:36.960><c> claw,</c><00:07:37.280><c> it</c><00:07:37.520><c> seemed</c><00:07:37.840><c> to</c><00:07:38.400><c> struggle</c>
+
+00:07:38.950 --> 00:07:38.960 align:start position:0%
+with open claw, it seemed to struggle
+ 
+
+00:07:38.960 --> 00:07:40.629 align:start position:0%
+with open claw, it seemed to struggle
+and<00:07:39.199><c> it</c><00:07:39.440><c> actually</c><00:07:39.759><c> came</c><00:07:39.919><c> back</c><00:07:40.080><c> to</c><00:07:40.160><c> me</c><00:07:40.319><c> and</c><00:07:40.479><c> said</c>
+
+00:07:40.629 --> 00:07:40.639 align:start position:0%
+and it actually came back to me and said
+ 
+
+00:07:40.639 --> 00:07:41.990 align:start position:0%
+and it actually came back to me and said
+like<00:07:40.800><c> it's</c><00:07:40.960><c> not</c><00:07:41.120><c> designed</c><00:07:41.280><c> for</c><00:07:41.440><c> this,</c><00:07:41.759><c> right?</c>
+
+00:07:41.990 --> 00:07:42.000 align:start position:0%
+like it's not designed for this, right?
+ 
+
+00:07:42.000 --> 00:07:44.230 align:start position:0%
+like it's not designed for this, right?
+So<00:07:42.160><c> don't</c><00:07:42.319><c> use</c><00:07:42.479><c> it</c><00:07:42.639><c> inside</c><00:07:43.039><c> open</c><00:07:43.360><c> claw.</c><00:07:43.759><c> So</c><00:07:44.080><c> I</c>
+
+00:07:44.230 --> 00:07:44.240 align:start position:0%
+So don't use it inside open claw. So I
+ 
+
+00:07:44.240 --> 00:07:45.670 align:start position:0%
+So don't use it inside open claw. So I
+think<00:07:44.319><c> you</c><00:07:44.560><c> could</c><00:07:44.639><c> use</c><00:07:44.800><c> it</c><00:07:44.960><c> inside</c><00:07:45.280><c> openclaw,</c>
+
+00:07:45.670 --> 00:07:45.680 align:start position:0%
+think you could use it inside openclaw,
+ 
+
+00:07:45.680 --> 00:07:47.270 align:start position:0%
+think you could use it inside openclaw,
+but<00:07:45.840><c> it</c><00:07:46.000><c> wouldn't</c><00:07:46.240><c> be</c><00:07:46.319><c> as</c><00:07:46.560><c> clean</c><00:07:46.800><c> and</c><00:07:47.039><c> it'd</c><00:07:47.199><c> be</c>
+
+00:07:47.270 --> 00:07:47.280 align:start position:0%
+but it wouldn't be as clean and it'd be
+ 
+
+00:07:47.280 --> 00:07:48.629 align:start position:0%
+but it wouldn't be as clean and it'd be
+a<00:07:47.440><c> lot</c><00:07:47.520><c> more</c><00:07:47.680><c> messy</c><00:07:47.919><c> than</c><00:07:48.160><c> using</c><00:07:48.400><c> something</c>
+
+00:07:48.629 --> 00:07:48.639 align:start position:0%
+a lot more messy than using something
+ 
+
+00:07:48.639 --> 00:07:50.469 align:start position:0%
+a lot more messy than using something
+like<00:07:48.960><c> claw</c><00:07:49.280><c> code,</c><00:07:49.599><c> which</c><00:07:49.919><c> you</c><00:07:50.000><c> can</c><00:07:50.080><c> see</c><00:07:50.319><c> like</c>
+
+00:07:50.469 --> 00:07:50.479 align:start position:0%
+like claw code, which you can see like
+ 
+
+00:07:50.479 --> 00:07:52.790 align:start position:0%
+like claw code, which you can see like
+formats<00:07:50.880><c> it</c><00:07:51.039><c> perfectly.</c><00:07:51.759><c> Um,</c><00:07:52.240><c> works</c><00:07:52.479><c> in</c><00:07:52.639><c> just</c>
+
+00:07:52.790 --> 00:07:52.800 align:start position:0%
+formats it perfectly. Um, works in just
+ 
+
+00:07:52.800 --> 00:07:54.550 align:start position:0%
+formats it perfectly. Um, works in just
+a<00:07:52.880><c> couple</c><00:07:53.039><c> of</c><00:07:53.199><c> minutes,</c><00:07:53.680><c> sets</c><00:07:54.080><c> everything</c><00:07:54.319><c> up</c>
+
+00:07:54.550 --> 00:07:54.560 align:start position:0%
+a couple of minutes, sets everything up
+ 
+
+00:07:54.560 --> 00:07:57.510 align:start position:0%
+a couple of minutes, sets everything up
+really<00:07:54.800><c> nicely,</c><00:07:55.520><c> and</c><00:07:56.000><c> uh,</c><00:07:56.720><c> it's</c><00:07:57.120><c> it's</c>
+
+00:07:57.510 --> 00:07:57.520 align:start position:0%
+really nicely, and uh, it's it's
+ 
+
+00:07:57.520 --> 00:07:58.950 align:start position:0%
+really nicely, and uh, it's it's
+organized<00:07:57.919><c> it</c><00:07:58.080><c> nicely,</c><00:07:58.319><c> too.</c><00:07:58.560><c> So</c><00:07:58.639><c> you</c><00:07:58.720><c> got</c><00:07:58.879><c> the</c>
+
+00:07:58.950 --> 00:07:58.960 align:start position:0%
+organized it nicely, too. So you got the
+ 
+
+00:07:58.960 --> 00:08:01.189 align:start position:0%
+organized it nicely, too. So you got the
+agent<00:07:59.199><c> team</c><00:07:59.440><c> here</c><00:08:00.080><c> um</c><00:08:00.240><c> all</c><00:08:00.479><c> working</c><00:08:00.720><c> together</c>
+
+00:08:01.189 --> 00:08:01.199 align:start position:0%
+agent team here um all working together
+ 
+
+00:08:01.199 --> 00:08:03.189 align:start position:0%
+agent team here um all working together
+the<00:08:01.440><c> status</c><00:08:02.000><c> the</c><00:08:02.240><c> deliverables</c><00:08:02.639><c> so</c><00:08:02.879><c> what</c><00:08:03.039><c> it's</c>
+
+00:08:03.189 --> 00:08:03.199 align:start position:0%
+the status the deliverables so what it's
+ 
+
+00:08:03.199 --> 00:08:04.790 align:start position:0%
+the status the deliverables so what it's
+going<00:08:03.280><c> to</c><00:08:03.360><c> do.</c><00:08:03.759><c> So</c><00:08:04.000><c> for</c><00:08:04.080><c> example</c><00:08:04.479><c> like</c><00:08:04.639><c> the</c>
+
+00:08:04.790 --> 00:08:04.800 align:start position:0%
+going to do. So for example like the
+ 
+
+00:08:04.800 --> 00:08:07.189 align:start position:0%
+going to do. So for example like the
+Instagram<00:08:05.280><c> curator</c><00:08:06.000><c> will</c><00:08:06.319><c> create</c><00:08:06.560><c> 30</c><00:08:06.879><c> post</c>
+
+00:08:07.189 --> 00:08:07.199 align:start position:0%
+Instagram curator will create 30 post
+ 
+
+00:08:07.199 --> 00:08:09.830 align:start position:0%
+Instagram curator will create 30 post
+concepts<00:08:08.000><c> um</c><00:08:08.160><c> some</c><00:08:08.400><c> scripts</c><00:08:08.879><c> story</c><00:08:09.199><c> strategy</c>
+
+00:08:09.830 --> 00:08:09.840 align:start position:0%
+concepts um some scripts story strategy
+ 
+
+00:08:09.840 --> 00:08:12.150 align:start position:0%
+concepts um some scripts story strategy
+etc.<00:08:10.240><c> Pretty</c><00:08:10.400><c> cool.</c><00:08:10.639><c> So</c><00:08:10.879><c> just</c><00:08:11.039><c> to</c><00:08:11.280><c> recap</c><00:08:11.840><c> the</c>
+
+00:08:12.150 --> 00:08:12.160 align:start position:0%
+etc. Pretty cool. So just to recap the
+ 
+
+00:08:12.160 --> 00:08:14.070 align:start position:0%
+etc. Pretty cool. So just to recap the
+agency<00:08:12.639><c> is</c><00:08:12.879><c> a</c><00:08:13.039><c> free</c><00:08:13.199><c> collection</c><00:08:13.440><c> of</c><00:08:13.680><c> 61</c>
+
+00:08:14.070 --> 00:08:14.080 align:start position:0%
+agency is a free collection of 61
+ 
+
+00:08:14.080 --> 00:08:15.749 align:start position:0%
+agency is a free collection of 61
+specialist<00:08:14.479><c> AI</c><00:08:14.720><c> agents</c><00:08:15.039><c> on</c><00:08:15.199><c> GitHub.</c><00:08:15.520><c> Each</c>
+
+00:08:15.749 --> 00:08:15.759 align:start position:0%
+specialist AI agents on GitHub. Each
+ 
+
+00:08:15.759 --> 00:08:17.589 align:start position:0%
+specialist AI agents on GitHub. Each
+agent<00:08:16.000><c> has</c><00:08:16.160><c> a</c><00:08:16.400><c> unique</c><00:08:16.639><c> personality</c><00:08:17.199><c> workflow</c>
+
+00:08:17.589 --> 00:08:17.599 align:start position:0%
+agent has a unique personality workflow
+ 
+
+00:08:17.599 --> 00:08:19.270 align:start position:0%
+agent has a unique personality workflow
+deliverables<00:08:18.160><c> and</c><00:08:18.319><c> metrics.</c><00:08:18.800><c> It</c><00:08:18.960><c> works</c><00:08:19.120><c> with</c>
+
+00:08:19.270 --> 00:08:19.280 align:start position:0%
+deliverables and metrics. It works with
+ 
+
+00:08:19.280 --> 00:08:21.830 align:start position:0%
+deliverables and metrics. It works with
+core<00:08:19.520><c> code</c><00:08:19.759><c> cursor</c><00:08:20.160><c> windsurf</c><00:08:20.560><c> gemini</c><00:08:20.960><c> cli</c>
+
+00:08:21.830 --> 00:08:21.840 align:start position:0%
+core code cursor windsurf gemini cli
+ 
+
+00:08:21.840 --> 00:08:23.270 align:start position:0%
+core code cursor windsurf gemini cli
+open<00:08:22.000><c> code</c><00:08:22.160><c> and</c><00:08:22.319><c> anti-gravity.</c><00:08:22.960><c> There</c><00:08:23.120><c> are</c>
+
+00:08:23.270 --> 00:08:23.280 align:start position:0%
+open code and anti-gravity. There are
+ 
+
+00:08:23.280 --> 00:08:24.550 align:start position:0%
+open code and anti-gravity. There are
+nine<00:08:23.440><c> divisions.</c><00:08:24.080><c> So</c><00:08:24.240><c> you've</c><00:08:24.400><c> got</c>
+
+00:08:24.550 --> 00:08:24.560 align:start position:0%
+nine divisions. So you've got
+ 
+
+00:08:24.560 --> 00:08:26.309 align:start position:0%
+nine divisions. So you've got
+engineering,<00:08:25.039><c> design,</c><00:08:25.520><c> marketing,</c><00:08:26.000><c> product,</c>
+
+00:08:26.309 --> 00:08:26.319 align:start position:0%
+engineering, design, marketing, product,
+ 
+
+00:08:26.319 --> 00:08:28.550 align:start position:0%
+engineering, design, marketing, product,
+project<00:08:26.639><c> management,</c><00:08:27.360><c> uh</c><00:08:27.520><c> testing,</c><00:08:28.160><c> support,</c>
+
+00:08:28.550 --> 00:08:28.560 align:start position:0%
+project management, uh testing, support,
+ 
+
+00:08:28.560 --> 00:08:30.309 align:start position:0%
+project management, uh testing, support,
+spatial<00:08:28.960><c> computing,</c><00:08:29.360><c> and</c><00:08:29.599><c> specialized.</c><00:08:30.240><c> You</c>
+
+00:08:30.309 --> 00:08:30.319 align:start position:0%
+spatial computing, and specialized. You
+ 
+
+00:08:30.319 --> 00:08:32.149 align:start position:0%
+spatial computing, and specialized. You
+can<00:08:30.400><c> set</c><00:08:30.560><c> it</c><00:08:30.720><c> up</c><00:08:30.960><c> literally</c><00:08:31.280><c> in</c><00:08:31.520><c> one</c><00:08:31.680><c> click,</c><00:08:32.000><c> as</c>
+
+00:08:32.149 --> 00:08:32.159 align:start position:0%
+can set it up literally in one click, as
+ 
+
+00:08:32.159 --> 00:08:33.829 align:start position:0%
+can set it up literally in one click, as
+I've<00:08:32.320><c> done</c><00:08:32.479><c> today.</c><00:08:32.880><c> It's</c><00:08:33.120><c> open</c><00:08:33.360><c> source</c><00:08:33.680><c> as</c>
+
+00:08:33.829 --> 00:08:33.839 align:start position:0%
+I've done today. It's open source as
+ 
+
+00:08:33.839 --> 00:08:35.110 align:start position:0%
+I've done today. It's open source as
+well,<00:08:34.000><c> so</c><00:08:34.159><c> you</c><00:08:34.320><c> can</c><00:08:34.399><c> use</c><00:08:34.479><c> it</c><00:08:34.640><c> however</c><00:08:34.959><c> you</c>
+
+00:08:35.110 --> 00:08:35.120 align:start position:0%
+well, so you can use it however you
+ 
+
+00:08:35.120 --> 00:08:37.350 align:start position:0%
+well, so you can use it however you
+want.<00:08:35.360><c> It</c><00:08:35.519><c> has</c><00:08:35.760><c> 12,000</c><00:08:36.320><c> stars</c><00:08:36.640><c> on</c><00:08:36.880><c> GitHub.</c><00:08:37.200><c> I</c>
+
+00:08:37.350 --> 00:08:37.360 align:start position:0%
+want. It has 12,000 stars on GitHub. I
+ 
+
+00:08:37.360 --> 00:08:38.790 align:start position:0%
+want. It has 12,000 stars on GitHub. I
+honestly<00:08:37.760><c> don't</c><00:08:37.839><c> pay</c><00:08:38.000><c> too</c><00:08:38.240><c> much</c><00:08:38.399><c> attention</c><00:08:38.640><c> to</c>
+
+00:08:38.790 --> 00:08:38.800 align:start position:0%
+honestly don't pay too much attention to
+ 
+
+00:08:38.800 --> 00:08:40.870 align:start position:0%
+honestly don't pay too much attention to
+that<00:08:39.039><c> because</c><00:08:39.599><c> that</c><00:08:39.839><c> can</c><00:08:40.000><c> be</c><00:08:40.159><c> manipulated.</c>
+
+00:08:40.870 --> 00:08:40.880 align:start position:0%
+that because that can be manipulated.
+ 
+
+00:08:40.880 --> 00:08:42.790 align:start position:0%
+that because that can be manipulated.
+But<00:08:40.959><c> the</c><00:08:41.120><c> main</c><00:08:41.279><c> point</c><00:08:41.440><c> is</c><00:08:42.080><c> instead</c><00:08:42.399><c> of</c><00:08:42.560><c> using</c>
+
+00:08:42.790 --> 00:08:42.800 align:start position:0%
+But the main point is instead of using
+ 
+
+00:08:42.800 --> 00:08:44.230 align:start position:0%
+But the main point is instead of using
+generic<00:08:43.200><c> AI</c><00:08:43.519><c> prompts,</c><00:08:43.919><c> you</c><00:08:44.000><c> can</c><00:08:44.080><c> get</c>
+
+00:08:44.230 --> 00:08:44.240 align:start position:0%
+generic AI prompts, you can get
+ 
+
+00:08:44.240 --> 00:08:46.150 align:start position:0%
+generic AI prompts, you can get
+specialists<00:08:45.040><c> and</c><00:08:45.200><c> you</c><00:08:45.360><c> can</c><00:08:45.440><c> set</c><00:08:45.519><c> up</c><00:08:45.680><c> an</c><00:08:45.839><c> AI</c>
+
+00:08:46.150 --> 00:08:46.160 align:start position:0%
+specialists and you can set up an AI
+ 
+
+00:08:46.160 --> 00:08:47.910 align:start position:0%
+specialists and you can set up an AI
+dream<00:08:46.399><c> team</c><00:08:46.800><c> like</c><00:08:47.040><c> we've</c><00:08:47.200><c> done</c><00:08:47.360><c> today</c><00:08:47.680><c> and</c>
+
+00:08:47.910 --> 00:08:47.920 align:start position:0%
+dream team like we've done today and
+ 
+
+00:08:47.920 --> 00:08:49.590 align:start position:0%
+dream team like we've done today and
+create<00:08:48.160><c> really</c><00:08:48.399><c> good</c><00:08:48.560><c> outputs</c><00:08:49.040><c> like</c><00:08:49.279><c> we</c><00:08:49.440><c> did</c>
+
+00:08:49.590 --> 00:08:49.600 align:start position:0%
+create really good outputs like we did
+ 
+
+00:08:49.600 --> 00:08:51.590 align:start position:0%
+create really good outputs like we did
+with<00:08:49.920><c> this</c><00:08:50.240><c> website.</c><00:08:51.040><c> And</c><00:08:51.120><c> that's</c><00:08:51.360><c> basically</c>
+
+00:08:51.590 --> 00:08:51.600 align:start position:0%
+with this website. And that's basically
+ 
+
+00:08:51.600 --> 00:08:53.670 align:start position:0%
+with this website. And that's basically
+how<00:08:51.760><c> it</c><00:08:51.920><c> works.</c><00:08:52.160><c> and</c><00:08:52.399><c> the</c><00:08:52.800><c> new</c><00:08:53.040><c> website</c><00:08:53.360><c> is</c>
+
+00:08:53.670 --> 00:08:53.680 align:start position:0%
+how it works. and the new website is
+ 
+
+00:08:53.680 --> 00:08:55.670 align:start position:0%
+how it works. and the new website is
+much<00:08:53.920><c> nicer</c><00:08:54.320><c> than</c><00:08:54.560><c> the</c><00:08:54.720><c> old</c><00:08:54.959><c> website.</c><00:08:55.360><c> So,</c>
+
+00:08:55.670 --> 00:08:55.680 align:start position:0%
+much nicer than the old website. So,
+ 
+
+00:08:55.680 --> 00:08:56.949 align:start position:0%
+much nicer than the old website. So,
+thanks<00:08:55.760><c> so</c><00:08:55.920><c> much</c><00:08:56.080><c> for</c><00:08:56.240><c> watching.</c><00:08:56.560><c> If</c><00:08:56.800><c> you</c><00:08:56.880><c> want</c>
+
+00:08:56.949 --> 00:08:56.959 align:start position:0%
+thanks so much for watching. If you want
+ 
+
+00:08:56.959 --> 00:08:58.150 align:start position:0%
+thanks so much for watching. If you want
+to<00:08:57.040><c> get</c><00:08:57.120><c> all</c><00:08:57.279><c> the</c><00:08:57.440><c> video</c><00:08:57.600><c> notes</c><00:08:57.839><c> from</c><00:08:58.000><c> today,</c>
+
+00:08:58.150 --> 00:08:58.160 align:start position:0%
+to get all the video notes from today,
+ 
+
+00:08:58.160 --> 00:08:59.670 align:start position:0%
+to get all the video notes from today,
+you<00:08:58.240><c> can</c><00:08:58.320><c> get</c><00:08:58.480><c> that</c><00:08:58.640><c> inside</c><00:08:58.880><c> the</c><00:08:59.120><c> AI</c><00:08:59.360><c> profit</c>
+
+00:08:59.670 --> 00:08:59.680 align:start position:0%
+you can get that inside the AI profit
+ 
+
+00:08:59.680 --> 00:09:01.269 align:start position:0%
+you can get that inside the AI profit
+boardroom.<00:09:00.080><c> This</c><00:09:00.160><c> is</c><00:09:00.320><c> my</c><00:09:00.480><c> AI</c><00:09:00.800><c> automation</c>
+
+00:09:01.269 --> 00:09:01.279 align:start position:0%
+boardroom. This is my AI automation
+ 
+
+00:09:01.279 --> 00:09:02.870 align:start position:0%
+boardroom. This is my AI automation
+community<00:09:01.600><c> that</c><00:09:01.839><c> helps</c><00:09:02.000><c> you</c><00:09:02.160><c> save</c><00:09:02.399><c> time,</c>
+
+00:09:02.870 --> 00:09:02.880 align:start position:0%
+community that helps you save time,
+ 
+
+00:09:02.880 --> 00:09:05.190 align:start position:0%
+community that helps you save time,
+scale,<00:09:03.200><c> and</c><00:09:03.440><c> grow</c><00:09:03.920><c> with</c><00:09:04.160><c> AI</c><00:09:04.560><c> automation.</c>
+
+00:09:05.190 --> 00:09:05.200 align:start position:0%
+scale, and grow with AI automation.
+ 
+
+00:09:05.200 --> 00:09:07.110 align:start position:0%
+scale, and grow with AI automation.
+That's<00:09:05.440><c> 2,600</c><00:09:06.240><c> members.</c><00:09:06.560><c> So,</c><00:09:06.720><c> inside</c><00:09:06.959><c> the</c>
+
+00:09:07.110 --> 00:09:07.120 align:start position:0%
+That's 2,600 members. So, inside the
+ 
+
+00:09:07.120 --> 00:09:08.389 align:start position:0%
+That's 2,600 members. So, inside the
+community,<00:09:07.440><c> you</c><00:09:07.600><c> can</c><00:09:07.680><c> ask</c><00:09:07.839><c> questions,</c><00:09:08.240><c> get</c>
+
+00:09:08.389 --> 00:09:08.399 align:start position:0%
+community, you can ask questions, get
+ 
+
+00:09:08.399 --> 00:09:09.829 align:start position:0%
+community, you can ask questions, get
+help,<00:09:08.640><c> get</c><00:09:08.880><c> support</c><00:09:09.120><c> whenever</c><00:09:09.360><c> you</c><00:09:09.519><c> need</c><00:09:09.600><c> to.</c>
+
+00:09:09.829 --> 00:09:09.839 align:start position:0%
+help, get support whenever you need to.
+ 
+
+00:09:09.839 --> 00:09:11.910 align:start position:0%
+help, get support whenever you need to.
+You<00:09:10.000><c> can</c><00:09:10.080><c> also</c><00:09:10.320><c> jump</c><00:09:10.640><c> on</c><00:09:11.040><c> weekly</c><00:09:11.600><c> video</c>
+
+00:09:11.910 --> 00:09:11.920 align:start position:0%
+You can also jump on weekly video
+ 
+
+00:09:11.920 --> 00:09:13.910 align:start position:0%
+You can also jump on weekly video
+coaching<00:09:12.320><c> calls.</c><00:09:12.640><c> So,</c><00:09:12.880><c> we</c><00:09:13.120><c> have</c><00:09:13.279><c> four</c><00:09:13.519><c> weekly</c>
+
+00:09:13.910 --> 00:09:13.920 align:start position:0%
+coaching calls. So, we have four weekly
+ 
+
+00:09:13.920 --> 00:09:15.670 align:start position:0%
+coaching calls. So, we have four weekly
+video<00:09:14.240><c> coaching</c><00:09:14.640><c> calls</c><00:09:14.880><c> where</c><00:09:15.200><c> you</c><00:09:15.440><c> can</c><00:09:15.519><c> jump</c>
+
+00:09:15.670 --> 00:09:15.680 align:start position:0%
+video coaching calls where you can jump
+ 
+
+00:09:15.680 --> 00:09:17.590 align:start position:0%
+video coaching calls where you can jump
+on<00:09:15.839><c> a</c><00:09:16.000><c> live</c><00:09:16.160><c> Zoom</c><00:09:16.399><c> meeting,</c><00:09:16.880><c> ask</c><00:09:17.120><c> questions,</c>
+
+00:09:17.590 --> 00:09:17.600 align:start position:0%
+on a live Zoom meeting, ask questions,
+ 
+
+00:09:17.600 --> 00:09:19.110 align:start position:0%
+on a live Zoom meeting, ask questions,
+get<00:09:17.760><c> help</c><00:09:17.920><c> and</c><00:09:18.160><c> support</c><00:09:18.320><c> in</c><00:09:18.560><c> real</c><00:09:18.720><c> time.</c><00:09:18.959><c> You</c>
+
+00:09:19.110 --> 00:09:19.120 align:start position:0%
+get help and support in real time. You
+ 
+
+00:09:19.120 --> 00:09:20.630 align:start position:0%
+get help and support in real time. You
+can<00:09:19.200><c> see</c><00:09:19.360><c> our</c><00:09:19.600><c> testimonials</c><00:09:20.160><c> right</c><00:09:20.320><c> here.</c><00:09:20.480><c> So</c>
+
+00:09:20.630 --> 00:09:20.640 align:start position:0%
+can see our testimonials right here. So
+ 
+
+00:09:20.640 --> 00:09:22.710 align:start position:0%
+can see our testimonials right here. So
+we<00:09:20.800><c> actually</c><00:09:20.959><c> have</c><00:09:21.200><c> over</c>
+
+00:09:22.710 --> 00:09:22.720 align:start position:0%
+we actually have over
+ 
+
+00:09:22.720 --> 00:09:25.590 align:start position:0%
+we actually have over
+135<00:09:23.360><c> pages</c><00:09:24.000><c> of</c><00:09:24.399><c> wins</c><00:09:24.800><c> with</c><00:09:25.120><c> people</c><00:09:25.360><c> just</c>
+
+00:09:25.590 --> 00:09:25.600 align:start position:0%
+135 pages of wins with people just
+ 
+
+00:09:25.600 --> 00:09:27.670 align:start position:0%
+135 pages of wins with people just
+getting<00:09:25.839><c> awesome</c><00:09:26.240><c> results</c><00:09:26.800><c> with</c><00:09:27.120><c> the</c><00:09:27.360><c> AR</c>
+
+00:09:27.670 --> 00:09:27.680 align:start position:0%
+getting awesome results with the AR
+ 
+
+00:09:27.680 --> 00:09:29.430 align:start position:0%
+getting awesome results with the AR
+profit<00:09:27.920><c> boarding</c><00:09:28.240><c> as</c><00:09:28.399><c> you</c><00:09:28.480><c> can</c><00:09:28.560><c> see.</c><00:09:28.880><c> So</c><00:09:29.200><c> lots</c>
+
+00:09:29.430 --> 00:09:29.440 align:start position:0%
+profit boarding as you can see. So lots
+ 
+
+00:09:29.440 --> 00:09:31.190 align:start position:0%
+profit boarding as you can see. So lots
+of<00:09:29.519><c> cool</c><00:09:29.680><c> wins</c><00:09:29.920><c> here</c><00:09:30.080><c> and</c><00:09:30.320><c> this</c><00:09:30.480><c> is</c><00:09:30.800><c> basically</c>
+
+00:09:31.190 --> 00:09:31.200 align:start position:0%
+of cool wins here and this is basically
+ 
+
+00:09:31.200 --> 00:09:33.750 align:start position:0%
+of cool wins here and this is basically
+an<00:09:31.440><c> infinite</c><00:09:31.839><c> scroll</c><00:09:32.160><c> of</c><00:09:32.320><c> of</c><00:09:32.959><c> um</c><00:09:33.440><c> you</c><00:09:33.600><c> know</c>
+
+00:09:33.750 --> 00:09:33.760 align:start position:0%
+an infinite scroll of of um you know
+ 
+
+00:09:33.760 --> 00:09:35.030 align:start position:0%
+an infinite scroll of of um you know
+people<00:09:34.000><c> getting</c><00:09:34.240><c> results</c><00:09:34.480><c> with</c><00:09:34.640><c> this</c><00:09:34.800><c> stuff</c>
+
+00:09:35.030 --> 00:09:35.040 align:start position:0%
+people getting results with this stuff
+ 
+
+00:09:35.040 --> 00:09:41.990 align:start position:0%
+people getting results with this stuff
+which<00:09:35.200><c> is</c><00:09:35.279><c> what</c><00:09:35.440><c> we</c><00:09:35.600><c> love</c><00:09:35.760><c> to</c><00:09:35.839><c> see.</c><00:09:36.160><c> Also</c>
+
+00:09:41.990 --> 00:09:42.000 align:start position:0%
+ 
+ 
+
+00:09:42.000 --> 00:09:43.430 align:start position:0%
+ 
+you<00:09:42.240><c> can</c><00:09:42.320><c> meet</c><00:09:42.480><c> cool</c><00:09:42.720><c> people</c><00:09:42.880><c> in</c><00:09:43.040><c> your</c><00:09:43.200><c> local</c>
+
+00:09:43.430 --> 00:09:43.440 align:start position:0%
+you can meet cool people in your local
+ 
+
+00:09:43.440 --> 00:09:45.269 align:start position:0%
+you can meet cool people in your local
+area.<00:09:44.000><c> You</c><00:09:44.240><c> can</c><00:09:44.399><c> join</c><00:09:44.720><c> our</c><00:09:44.959><c> daily</c>
+
+00:09:45.269 --> 00:09:45.279 align:start position:0%
+area. You can join our daily
+ 
+
+00:09:45.279 --> 00:09:46.630 align:start position:0%
+area. You can join our daily
+accountability<00:09:45.839><c> group</c><00:09:46.080><c> so</c><00:09:46.240><c> you</c><00:09:46.320><c> can</c><00:09:46.480><c> post</c>
+
+00:09:46.630 --> 00:09:46.640 align:start position:0%
+accountability group so you can post
+ 
+
+00:09:46.640 --> 00:09:48.630 align:start position:0%
+accountability group so you can post
+your<00:09:46.720><c> goals</c><00:09:46.959><c> and</c><00:09:47.200><c> stay</c><00:09:47.440><c> held</c><00:09:47.760><c> accountable</c><00:09:48.240><c> and</c>
+
+00:09:48.630 --> 00:09:48.640 align:start position:0%
+your goals and stay held accountable and
+ 
+
+00:09:48.640 --> 00:09:49.990 align:start position:0%
+your goals and stay held accountable and
+see<00:09:48.800><c> what</c><00:09:48.959><c> other</c><00:09:49.200><c> people</c><00:09:49.440><c> working</c><00:09:49.600><c> on</c><00:09:49.760><c> as</c><00:09:49.920><c> well</c>
+
+00:09:49.990 --> 00:09:50.000 align:start position:0%
+see what other people working on as well
+ 
+
+00:09:50.000 --> 00:09:51.030 align:start position:0%
+see what other people working on as well
+and<00:09:50.160><c> connect</c><00:09:50.320><c> with</c><00:09:50.480><c> cool</c><00:09:50.720><c> people</c><00:09:50.880><c> who</c><00:09:50.880><c> are</c>
+
+00:09:51.030 --> 00:09:51.040 align:start position:0%
+and connect with cool people who are
+ 
+
+00:09:51.040 --> 00:09:52.470 align:start position:0%
+and connect with cool people who are
+working<00:09:51.200><c> on</c><00:09:51.360><c> the</c><00:09:51.440><c> same</c><00:09:51.680><c> stuff</c><00:09:51.920><c> inside</c><00:09:52.240><c> the</c>
+
+00:09:52.470 --> 00:09:52.480 align:start position:0%
+working on the same stuff inside the
+ 
+
+00:09:52.480 --> 00:09:54.389 align:start position:0%
+working on the same stuff inside the
+classroom<00:09:52.959><c> too.</c><00:09:53.440><c> You</c><00:09:53.600><c> can</c><00:09:53.680><c> also</c><00:09:53.920><c> see</c><00:09:54.080><c> our</c><00:09:54.240><c> best</c>
+
+00:09:54.389 --> 00:09:54.399 align:start position:0%
+classroom too. You can also see our best
+ 
+
+00:09:54.399 --> 00:09:55.670 align:start position:0%
+classroom too. You can also see our best
+training.<00:09:54.800><c> So</c><00:09:54.959><c> for</c><00:09:55.040><c> example,</c><00:09:55.279><c> you</c><00:09:55.440><c> can</c><00:09:55.519><c> go</c>
+
+00:09:55.670 --> 00:09:55.680 align:start position:0%
+training. So for example, you can go
+ 
+
+00:09:55.680 --> 00:09:57.269 align:start position:0%
+training. So for example, you can go
+from<00:09:55.839><c> beginner</c><00:09:56.240><c> to</c><00:09:56.480><c> expert</c><00:09:56.800><c> with</c><00:09:57.040><c> AI</c>
+
+00:09:57.269 --> 00:09:57.279 align:start position:0%
+from beginner to expert with AI
+ 
+
+00:09:57.279 --> 00:09:58.870 align:start position:0%
+from beginner to expert with AI
+automation<00:09:57.920><c> and</c><00:09:58.080><c> learn</c><00:09:58.240><c> how</c><00:09:58.399><c> to</c><00:09:58.560><c> build</c><00:09:58.720><c> your</c>
+
+00:09:58.870 --> 00:09:58.880 align:start position:0%
+automation and learn how to build your
+ 
+
+00:09:58.880 --> 00:10:00.949 align:start position:0%
+automation and learn how to build your
+first<00:09:59.120><c> AI</c><00:09:59.360><c> agent</c><00:09:59.680><c> in</c><00:09:59.839><c> under</c><00:10:00.160><c> 5</c><00:10:00.399><c> minutes.</c><00:10:00.800><c> You</c>
+
+00:10:00.949 --> 00:10:00.959 align:start position:0%
+first AI agent in under 5 minutes. You
+ 
+
+00:10:00.959 --> 00:10:02.389 align:start position:0%
+first AI agent in under 5 minutes. You
+can<00:10:01.040><c> also</c><00:10:01.360><c> for</c><00:10:01.440><c> example</c><00:10:01.839><c> get</c><00:10:02.000><c> my</c><00:10:02.240><c> best</c>
+
+00:10:02.389 --> 00:10:02.399 align:start position:0%
+can also for example get my best
+ 
+
+00:10:02.399 --> 00:10:04.630 align:start position:0%
+can also for example get my best
+playbooks<00:10:02.800><c> on</c><00:10:02.959><c> how</c><00:10:03.120><c> I</c><00:10:03.279><c> automate</c><00:10:03.839><c> X</c><00:10:04.080><c> and</c>
+
+00:10:04.630 --> 00:10:04.640 align:start position:0%
+playbooks on how I automate X and
+ 
+
+00:10:04.640 --> 00:10:07.430 align:start position:0%
+playbooks on how I automate X and
+newsletters<00:10:05.360><c> and</c><00:10:06.000><c> shorts</c><00:10:06.399><c> and</c><00:10:06.720><c> Instagram</c><00:10:07.200><c> and</c>
+
+00:10:07.430 --> 00:10:07.440 align:start position:0%
+newsletters and shorts and Instagram and
+ 
+
+00:10:07.440 --> 00:10:09.750 align:start position:0%
+newsletters and shorts and Instagram and
+AI<00:10:07.760><c> avatar</c><00:10:08.160><c> videos</c><00:10:08.720><c> using</c><00:10:09.120><c> this</c><00:10:09.360><c> too.</c>
+
+00:10:09.750 --> 00:10:09.760 align:start position:0%
+AI avatar videos using this too.
+ 
+
+00:10:09.760 --> 00:10:11.990 align:start position:0%
+AI avatar videos using this too.
+Additionally,<00:10:10.320><c> you</c><00:10:10.560><c> can</c><00:10:10.720><c> get</c><00:10:10.880><c> my</c><00:10:11.120><c> latest</c><00:10:11.440><c> SP</c>
+
+00:10:11.990 --> 00:10:12.000 align:start position:0%
+Additionally, you can get my latest SP
+ 
+
+00:10:12.000 --> 00:10:13.590 align:start position:0%
+Additionally, you can get my latest SP
+updates.<00:10:12.480><c> So</c><00:10:12.720><c> basically</c><00:10:12.959><c> what</c><00:10:13.120><c> we</c><00:10:13.200><c> do</c><00:10:13.279><c> inside</c>
+
+00:10:13.590 --> 00:10:13.600 align:start position:0%
+updates. So basically what we do inside
+ 
+
+00:10:13.600 --> 00:10:15.670 align:start position:0%
+updates. So basically what we do inside
+this<00:10:13.760><c> section</c><00:10:14.399><c> is</c><00:10:14.720><c> we</c><00:10:14.959><c> look</c><00:10:15.120><c> at</c><00:10:15.279><c> all</c><00:10:15.360><c> the</c><00:10:15.519><c> new</c>
+
+00:10:15.670 --> 00:10:15.680 align:start position:0%
+this section is we look at all the new
+ 
+
+00:10:15.680 --> 00:10:17.670 align:start position:0%
+this section is we look at all the new
+updates.<00:10:16.240><c> We</c><00:10:16.399><c> create</c><00:10:16.640><c> video</c><00:10:17.040><c> tutorials</c><00:10:17.440><c> on</c>
+
+00:10:17.670 --> 00:10:17.680 align:start position:0%
+updates. We create video tutorials on
+ 
+
+00:10:17.680 --> 00:10:19.430 align:start position:0%
+updates. We create video tutorials on
+them<00:10:17.920><c> and</c><00:10:18.160><c> we</c><00:10:18.320><c> create</c><00:10:18.560><c> step-by-step</c><00:10:19.120><c> guides</c>
+
+00:10:19.430 --> 00:10:19.440 align:start position:0%
+them and we create step-by-step guides
+ 
+
+00:10:19.440 --> 00:10:21.110 align:start position:0%
+them and we create step-by-step guides
+on<00:10:19.600><c> exactly</c><00:10:19.920><c> how</c><00:10:20.079><c> to</c><00:10:20.240><c> use</c><00:10:20.320><c> them</c><00:10:20.560><c> and</c><00:10:20.800><c> implement</c>
+
+00:10:21.110 --> 00:10:21.120 align:start position:0%
+on exactly how to use them and implement
+ 
+
+00:10:21.120 --> 00:10:22.389 align:start position:0%
+on exactly how to use them and implement
+them<00:10:21.279><c> and</c><00:10:21.440><c> what</c><00:10:21.600><c> they</c><00:10:21.680><c> mean.</c><00:10:21.839><c> We</c><00:10:21.920><c> also</c><00:10:22.160><c> have</c><00:10:22.240><c> a</c>
+
+00:10:22.389 --> 00:10:22.399 align:start position:0%
+them and what they mean. We also have a
+ 
+
+00:10:22.399 --> 00:10:23.990 align:start position:0%
+them and what they mean. We also have a
+full<00:10:22.560><c> six-hour</c><00:10:22.959><c> course</c><00:10:23.120><c> on</c><00:10:23.279><c> open</c><00:10:23.600><c> core</c><00:10:23.839><c> here</c>
+
+00:10:23.990 --> 00:10:24.000 align:start position:0%
+full six-hour course on open core here
+ 
+
+00:10:24.000 --> 00:10:25.750 align:start position:0%
+full six-hour course on open core here
+and<00:10:24.240><c> another</c><00:10:24.560><c> three-hour</c><00:10:25.040><c> course</c><00:10:25.200><c> on</c><00:10:25.519><c> open</c>
+
+00:10:25.750 --> 00:10:25.760 align:start position:0%
+and another three-hour course on open
+ 
+
+00:10:25.760 --> 00:10:27.990 align:start position:0%
+and another three-hour course on open
+core<00:10:26.000><c> as</c><00:10:26.160><c> well</c><00:10:26.320><c> and</c><00:10:26.480><c> that</c><00:10:26.720><c> gets</c><00:10:26.959><c> updated</c><00:10:27.360><c> daily</c>
+
+00:10:27.990 --> 00:10:28.000 align:start position:0%
+core as well and that gets updated daily
+ 
+
+00:10:28.000 --> 00:10:29.350 align:start position:0%
+core as well and that gets updated daily
+and<00:10:28.240><c> I</c><00:10:28.399><c> talk</c><00:10:28.560><c> you</c><00:10:28.720><c> through</c><00:10:28.880><c> every</c><00:10:29.120><c> single</c>
+
+00:10:29.350 --> 00:10:29.360 align:start position:0%
+and I talk you through every single
+ 
+
+00:10:29.360 --> 00:10:31.190 align:start position:0%
+and I talk you through every single
+update.<00:10:30.160><c> Top</c><00:10:30.320><c> of</c><00:10:30.399><c> that</c><00:10:30.560><c> you</c><00:10:30.720><c> can</c><00:10:30.800><c> learn</c><00:10:30.959><c> how</c><00:10:31.040><c> to</c>
+
+00:10:31.190 --> 00:10:31.200 align:start position:0%
+update. Top of that you can learn how to
+ 
+
+00:10:31.200 --> 00:10:32.550 align:start position:0%
+update. Top of that you can learn how to
+get<00:10:31.279><c> more</c><00:10:31.440><c> clients</c><00:10:31.680><c> with</c><00:10:31.760><c> the</c><00:10:31.920><c> agency</c><00:10:32.240><c> course.</c>
+
+00:10:32.550 --> 00:10:32.560 align:start position:0%
+get more clients with the agency course.
+ 
+
+00:10:32.560 --> 00:10:33.910 align:start position:0%
+get more clients with the agency course.
+You<00:10:32.640><c> can</c><00:10:32.720><c> watch</c><00:10:32.959><c> about</c><00:10:33.120><c> the</c><00:10:33.279><c> coaching</c><00:10:33.519><c> course</c>
+
+00:10:33.910 --> 00:10:33.920 align:start position:0%
+You can watch about the coaching course
+ 
+
+00:10:33.920 --> 00:10:35.430 align:start position:0%
+You can watch about the coaching course
+over<00:10:34.160><c> here.</c><00:10:34.480><c> You</c><00:10:34.640><c> can</c><00:10:34.800><c> learn</c><00:10:34.959><c> how</c><00:10:35.040><c> to</c><00:10:35.200><c> rank</c>
+
+00:10:35.430 --> 00:10:35.440 align:start position:0%
+over here. You can learn how to rank
+ 
+
+00:10:35.440 --> 00:10:37.110 align:start position:0%
+over here. You can learn how to rank
+number<00:10:35.519><c> one</c><00:10:35.680><c> with</c><00:10:35.839><c> AIO</c><00:10:36.560><c> and</c><00:10:36.720><c> then</c><00:10:36.880><c> you</c><00:10:37.040><c> can</c>
+
+00:10:37.110 --> 00:10:37.120 align:start position:0%
+number one with AIO and then you can
+ 
+
+00:10:37.120 --> 00:10:38.949 align:start position:0%
+number one with AIO and then you can
+also<00:10:37.279><c> learn</c><00:10:37.519><c> how</c><00:10:37.600><c> to</c><00:10:37.760><c> grow</c><00:10:37.920><c> a</c><00:10:38.079><c> YouTube</c><00:10:38.320><c> channel</c>
+
+00:10:38.949 --> 00:10:38.959 align:start position:0%
+also learn how to grow a YouTube channel
+ 
+
+00:10:38.959 --> 00:10:40.870 align:start position:0%
+also learn how to grow a YouTube channel
+based<00:10:39.200><c> on</c><00:10:39.360><c> what's</c><00:10:39.600><c> working</c><00:10:39.839><c> for</c><00:10:40.000><c> me</c><00:10:40.240><c> with</c><00:10:40.560><c> AI.</c>
+
+00:10:40.870 --> 00:10:40.880 align:start position:0%
+based on what's working for me with AI.
+ 
+
+00:10:40.880 --> 00:10:42.630 align:start position:0%
+based on what's working for me with AI.
+So<00:10:41.120><c> that's</c><00:10:41.279><c> all</c><00:10:41.440><c> inside</c><00:10:41.680><c> our</c><00:10:41.839><c> profit</c><00:10:42.160><c> boarding</c>
+
+00:10:42.630 --> 00:10:42.640 align:start position:0%
+So that's all inside our profit boarding
+ 
+
+00:10:42.640 --> 00:10:44.310 align:start position:0%
+So that's all inside our profit boarding
+link<00:10:42.800><c> in</c><00:10:42.959><c> the</c><00:10:43.040><c> comments</c><00:10:43.360><c> description</c><00:10:43.839><c> or</c><00:10:44.160><c> just</c>
+
+00:10:44.310 --> 00:10:44.320 align:start position:0%
+link in the comments description or just
+ 
+
+00:10:44.320 --> 00:10:46.630 align:start position:0%
+link in the comments description or just
+go<00:10:44.480><c> to</c><00:10:44.720><c> the</c><00:10:45.040><c> aip</c><00:10:45.440><c> profitboarding.com.</c><00:10:46.399><c> Thanks</c>
+
+00:10:46.630 --> 00:10:46.640 align:start position:0%
+go to the aip profitboarding.com. Thanks
+ 
+
+00:10:46.640 --> 00:10:49.279 align:start position:0%
+go to the aip profitboarding.com. Thanks
+for<00:10:46.720><c> watching.</c><00:10:46.959><c> Appreciate</c><00:10:47.200><c> it.</c>
+

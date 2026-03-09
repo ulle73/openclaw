@@ -11,10 +11,10 @@
 2. Collect prompts/data references
 3. Build a repeatable assistant flow
 - Existing related videos:
-  - s2HalzQZ1MQ | NEW Claude Code Update is INSANE! | shared: mcp, automation idea, business idea, prompt engineering, prompt-design, tool demo | cluster match: yes
-  - wX_neSx7-Ls | How to Make Claude Code 100X Better in 1 Click! | shared: automation idea, business idea, prompt engineering, strategy, tool demo, workflow-automation | cluster match: yes
-  - pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: automation idea, business idea, prompt engineering, prompt-design, strategy, tool demo | cluster match: no
-  - iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: automation idea, business idea, feature breakdown, prompt-design, strategy, tool demo | cluster match: no
-  - IWKOcumdMUE | NEW ChatGPT 5.4 Update is INSANE! 🤯 | shared: automation idea, business idea, feature breakdown, prompt engineering, strategy, tool demo | cluster match: no
+  - s2HalzQZ1MQ | NEW Claude Code Update is INSANE! | shared: mcp, prompt-design, workflow-automation | cluster match: yes
+  - wX_neSx7-Ls | How to Make Claude Code 100X Better in 1 Click! | shared: workflow-automation | cluster match: yes
+  - C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: antigravity, agent-automation, agent-flow, business-idea, business-opportunity, product-opportunity | cluster match: no
+  - 9T1yWEq5kP0 | SaaS is minting millionaires again (here's how) | shared: mcp, agent-flow, business-idea, business-opportunity, workflow-automation | cluster match: no
+  - -hYE5U6FGk8 | AntiGravity just became UNSTOPPABLE (GravityClaw) | shared: antigravity, agent-automation, agent-flow, workflow-automation | cluster match: no
 - Question:
   Vill du att denna skill byggs nu?

@@ -42,5 +42,23 @@ context and going off the rails.
 - prompt engineering
 - technical guide
 
+## Topic Tags
+- openclaw
+- single-agents
+- workflow-automation
+- agent-automation
+- onboarding-training
+- marketing-explainers
+- prompt-design
+- agent-flow
+- product-opportunity
+
+## Similar Videos
+- C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | shared: openclaw, agent-automation, agent-flow, onboarding-training, product-opportunity, prompt-design
+- 9T1yWEq5kP0 | SaaS is minting millionaires again (here's how) | shared: openclaw, agent-flow, onboarding-training, workflow-automation
+- 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | shared: openclaw, agent-automation, agent-flow, workflow-automation
+- YnzsnqsrqXs | OpenClaw + Star Office is INSANE! | shared: openclaw, onboarding-training, workflow-automation
+- ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: openclaw, prompt-design, workflow-automation
+
 ## Classification
 tutorial, tool demo, workflow, prompt engineering, technical guide

@@ -1,0 +1,152 @@
+{
+  "id": "9T1yWEq5kP0",
+  "title": "SaaS is minting millionaires again (here's how)",
+  "channel": "Greg Isenberg",
+  "upload_date": "20260304",
+  "description": "I walk through a complete 30-step playbook for building a modern SaaS company using AI agents, media, and sub-niche positioning. The core argument is that SaaS is evolving rather than dying, and the builders who win are the ones who combine a focused workflow product with a media flywheel and agent-powered execution. Drawing on my experience advising TikTok, Reddit, and building three venture-backed companies, I lay out a step-by-step framework any solo builder or small team can follow from niche selection through to becoming the default execution layer in their market.\n\nI'm hosting a free workshop so you can build your business in the age of AI.\nSign up here: https://startup-ideas-pod.link/build-with-ai-2026\n\nTimestamps\n00:00 – Intro \n01:18 – Step 1: Start with a sub-niche inside a big market \n02:21 – Step 2-5: Map Workflow end to end \n06:37 – Step 6-7: Create scroll-stopping content \n10:15 – Steps 8–9: Double down on organic and run paid ads on winners \n11:11 – Step 10: Capture emails from day one \n11:47 – Steps 11–13: Manually perform the workflow and document every step \n13:40 – Steps 14–16: Turn mechanical tasks into agent workflows and connect to real tools \n14:47 – Step 17: Add orchestration, retries, and verifications \n16:32 – Steps 18–19: Store user preferences and launch with high-touch onboarding \n18:20 – Steps 20–21: Publish measurable proof and move to per-task pricing \n21:21 – Steps 22–23: Outcome pricing and compounding value \n22:07 – Steps 24–27: Expand workflows, build switching costs, create case studies \n23:25 – Steps 28–30: Hire from the niche, reinvest profits, become the default layer \n24:08 – Closing thoughts\n\nKey Points\n\n* Start in a specific sub-niche, not a broad market — that is where sustainable cash flow lives, not VC competition.\n* The future of SaaS starts as a service business: manually performing the workflow is how I learn what to automate.\n* Media is a core business function, not an afterthought — content creation runs in parallel with product development from day one.\n* Mechanical tasks are AI's strongest suit; separating judgment tasks from mechanical tasks is the key architectural decision.\n* Per-task and outcome-based pricing is replacing per-seat models, and indie builders have a structural advantage in making that shift.\n* Orchestration — coordinating agents, validating outputs, and resolving issues — is the new interface layer and the highest-value position to own.\n\nNumbered Section Summaries\n\n1. Sub-Niche: This the best moment in history to build SaaS because the cost to build, distribute, and sell is at an all-time low. The first move is picking a sub-niche inside a large market. Going narrow keeps indie builders out of direct competition with venture-backed players and makes cash flow achievable.\n\n2. Workflow Mapping and Money Identification: Mapping a niche operator's full daily workflow end to end, then highlighting exactly where money changes hands. Using a local roofing company as the example, I walk through how to do this manually, through operator interviews, or with AI tools like Manus and Claude Code. This becomes the product roadmap.\n\n3. Content and Audience Building: Building media in parallel with product is the unfair advantage. I describe using AI to generate content ideas, scripts, and scheduling — while personally tracking Instagram insights to develop content intuition. Organic content that earns saves and DMs becomes the creative brief for paid ads. The email list is the foundation that outlasts any algorithm.\n\n4. From Manual Service to Agent Automation: The operational core of the playbook. Starting by manually performing the workflow builds the understanding needed to automate it precisely. I emphasize separating mechanical tasks (where AI excels) from judgment tasks, then converting the mechanical ones into agent workflows connected to real tools — email, Slack, CRM, Stripe — using MCP integrations.\n\n5. Compounding Into the Default Execution Layer: The compounding value through deeper workflows and more data, expanding into adjacent workflows, building switching costs through memory and user preferences, turning power users into filmed case studies with paid distribution, hiring operators from inside the niche, and reinvesting in content and product depth until the product becomes the default execution layer for the sub-niche.\n\nThe #1 tool to find startup ideas/trends - https://www.ideabrowser.com/\n\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/\n\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/\n\nFIND ME ON SOCIAL\nX/Twitter: https://twitter.com/gregisenberg\nInstagram: https://instagram.com/gregisenberg/\nLinkedIn: https://www.linkedin.com/in/gisenberg/",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "mcp"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "saas",
+    "openclaw",
+    "chatgpt",
+    "claude",
+    "mcp"
+  ],
+  "topic_tags": [
+    "saas",
+    "openclaw",
+    "mcp",
+    "ai-video-generation",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "proactive-assistant",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "saas",
+  "related_video_ids": [
+    "C4fTWiOGXpM",
+    "Wxf9oqxODU0",
+    "99EoVMtEA2A",
+    "obIeqXJH3d4",
+    "esuPIJeRotI"
+  ],
+  "related_videos": [
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "proactive-assistant"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "Wxf9oqxODU0",
+      "title": "Claude Code just became UNSTOPPABLE (Skills 2.0)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/Wxf9oqxODU0/summary.md",
+      "topic_cluster_key": "claude__skills-2__unstoppable",
+      "shared_tags": [
+        "mcp",
+        "ai-video-generation",
+        "onboarding-training",
+        "seo-content",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "99EoVMtEA2A",
+      "title": "New FREE Google AI Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/99EoVMtEA2A/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "openclaw",
+        "ai-video-generation",
+        "seo-content",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "ai-video-generation",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "esuPIJeRotI",
+      "title": "This Openclaw Trick Makes Single Agents Obsolete",
+      "channel": "Openclaw Labs",
+      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
+      "topic_cluster_key": "openclaw__single-agents",
+      "shared_tags": [
+        "openclaw",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "C4fTWiOGXpM",
+      "Wxf9oqxODU0",
+      "99EoVMtEA2A",
+      "obIeqXJH3d4",
+      "esuPIJeRotI"
+    ]
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
+}

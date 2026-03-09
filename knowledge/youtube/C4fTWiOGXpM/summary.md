@@ -8,7 +8,7 @@ categories: ["tool", "workflow", "business_idea", "agent_flow", "automation", "p
 entity_tags: ["openclaw", "antigravity"]
 topic_tags: ["openclaw", "antigravity", "workflow-automation", "agent-automation", "knowledge-management", "onboarding-training", "prompt-design", "proactive-assistant", "business-idea", "business-opportunity", "agent-flow", "product-opportunity"]
 topic_cluster_key: "antigravity__openclaw"
-related_video_ids: ["esuPIJeRotI", "-hYE5U6FGk8", "obIeqXJH3d4", "YnzsnqsrqXs", "ISb0nrlNoKQ"]
+related_video_ids: ["esuPIJeRotI", "99EoVMtEA2A", "-hYE5U6FGk8", "obIeqXJH3d4", "YnzsnqsrqXs"]
 
 roi_label: "high"
 relevance_label: "high"
@@ -22,16 +22,16 @@ should:
   product: true
 ---
 # TL;DR
-- Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen.
-- De starkaste use casen är marketing och explainers, vilket gör att samma upplägg kan användas både internt och externt.
-- Det här bör ses som ett repeterbart content-workflow, inte bara som en enskild feature-demo.
+- Kärnpositioneringen är inte bara ett nytt verktyg utan en AI-assistent som ska kunna bära mer av det löpande operativa arbetet.
+- Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.
+- Den verkliga hävstången kommer när agenten kopplas till arbetsverktyg som ClickUp och blir en del av samma system för tasks, status och uppföljning.
 
 # 5 viktigaste takeaways
-1. Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen.
-2. De starkaste use casen är marketing och explainers, vilket gör att samma upplägg kan användas både internt och externt.
-3. Det här bör ses som ett repeterbart content-workflow, inte bara som en enskild feature-demo.
-4. Potentialen ligger i att systematisera och automatisera produktionen snarare än att skapa varje video manuellt.
-5. Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande.
+1. Kärnpositioneringen är inte bara ett nytt verktyg utan en AI-assistent som ska kunna bära mer av det löpande operativa arbetet.
+2. Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.
+3. Den verkliga hävstången kommer när agenten kopplas till arbetsverktyg som ClickUp och blir en del av samma system för tasks, status och uppföljning.
+4. Setupen är byggd för låg friktion: hosted körning, låg driftbörda och åtkomst även när den lokala datorn inte är aktiv.
+5. Rollfördelningen mellan verktygen är tydlig: AntiGravity används för att bygga och ändra systemen, medan Gravity Claw/OpenClaw används som operativ assistent ovanpå dem.
 
 # Hur detta kan användas för mig
 - Detta kan omsättas till ett återanvändbart system, skill eller intern automation för Jonas egna projekt eller kundcase.

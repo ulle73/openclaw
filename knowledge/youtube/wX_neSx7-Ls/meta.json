@@ -5,36 +5,40 @@
   "upload_date": "20260307",
   "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nHow to Make Claude Code 10x Better with These Templates\n\nLearn how to supercharge Anthropic's Claude Code using a free, open-source library of over 100 templates and visual dashboards. This guide covers installing specialized AI agents, setting up visual workflows, and automating scheduled tasks to maximize your coding productivity.\n\n00:00 - Introduction to Claude Code Templates\n01:05 - Installing Skills & Security Tips\n01:54 - Setting Up the Visual Dashboard\n02:41 - Exploring Agents & Analytics\n04:22 - Claude Code vs. Templates Explained\n05:35 - Automating Scheduled Tasks\n06:55 - How to Install Any Template\n07:46 - AI Profit Boardroom Community",
   "classifications": [
-    "tutorial",
-    "tool demo",
-    "strategy",
     "workflow",
-    "automation idea",
-    "business idea",
-    "prompt engineering",
-    "technical guide"
+    "seo_distribution",
+    "agent_flow",
+    "product_opportunity"
   ],
-  "skill_candidate": false,
-  "updated_at": "2026-03-07T22:33:43.213903+00:00",
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
   "entity_tags": [
     "claude"
   ],
   "topic_tags": [
     "workflow-automation",
-    "tool demo",
-    "strategy",
-    "automation idea",
-    "business idea",
-    "prompt engineering",
-    "technical guide"
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
   ],
   "topic_cluster_key": "claude",
   "related_video_ids": [
     "s2HalzQZ1MQ",
     "DSKO9ZtbHFA",
-    "xAw3IZgX7Tc",
     "pSQE1SsGfSQ",
-    "IWKOcumdMUE"
+    "jyVRbD6fqic",
+    "iBVMutY4Ot0"
   ],
   "related_videos": [
     {
@@ -44,11 +48,11 @@
       "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
       "topic_cluster_key": "claude",
       "shared_tags": [
-        "automation idea",
-        "business idea",
-        "prompt engineering",
-        "technical guide",
-        "tool demo",
+        "agent-automation",
+        "agent-flow",
+        "product-opportunity",
+        "seo-content",
+        "seo-distribution",
         "workflow-automation"
       ],
       "cluster_match": true,
@@ -61,32 +65,13 @@
       "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
       "topic_cluster_key": "claude",
       "shared_tags": [
-        "automation idea",
-        "business idea",
-        "prompt engineering",
-        "strategy",
-        "tool demo",
+        "agent-automation",
+        "agent-flow",
+        "product-opportunity",
         "workflow-automation"
       ],
       "cluster_match": true,
-      "score": 11
-    },
-    {
-      "videoId": "xAw3IZgX7Tc",
-      "title": "Build Anything with Qwen's NEW Model's!",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
-      "topic_cluster_key": "model",
-      "shared_tags": [
-        "automation idea",
-        "business idea",
-        "prompt engineering",
-        "technical guide",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 6
+      "score": 9
     },
     {
       "videoId": "pSQE1SsGfSQ",
@@ -95,45 +80,62 @@
       "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
       "topic_cluster_key": "devin-2",
       "shared_tags": [
-        "automation idea",
-        "business idea",
-        "prompt engineering",
-        "strategy",
-        "tool demo",
+        "agent-automation",
+        "agent-flow",
+        "product-opportunity",
+        "seo-content",
+        "seo-distribution",
         "workflow-automation"
       ],
       "cluster_match": false,
       "score": 6
     },
     {
-      "videoId": "IWKOcumdMUE",
-      "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
+      "videoId": "jyVRbD6fqic",
+      "title": "New OpenAI Codex Update is INSANE!",
       "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/IWKOcumdMUE/summary.md",
-      "topic_cluster_key": "chatgpt",
+      "summary_path": "knowledge/youtube/jyVRbD6fqic/summary.md",
+      "topic_cluster_key": "openai-codex",
       "shared_tags": [
-        "automation idea",
-        "business idea",
-        "prompt engineering",
-        "strategy",
-        "tool demo",
+        "agent-automation",
+        "agent-flow",
+        "product-opportunity",
+        "seo-content",
+        "seo-distribution",
         "workflow-automation"
       ],
       "cluster_match": false,
       "score": 6
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "seo-content",
+        "seo-distribution",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 5
     }
   ],
   "skill_recommendation": {
-    "should_create": false,
-    "mode": "watch",
+    "should_create": true,
+    "mode": "merge_existing",
     "duplicate_risk": "high",
-    "reason": "Temat ar inte tillrackligt starkt som skill just nu.",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
     "related_video_ids": [
       "s2HalzQZ1MQ",
       "DSKO9ZtbHFA",
-      "xAw3IZgX7Tc",
       "pSQE1SsGfSQ",
-      "IWKOcumdMUE"
+      "jyVRbD6fqic",
+      "iBVMutY4Ot0"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

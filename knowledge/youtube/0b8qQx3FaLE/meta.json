@@ -1,0 +1,156 @@
+{
+  "id": "0b8qQx3FaLE",
+  "title": "The AI stack behind 20M+ views (Full Breakdown)",
+  "channel": "Greg Isenberg",
+  "upload_date": "20260306",
+  "description": "I sit down with Cova, a creator known for racking up millions of views on Instagram Reels through her signature AI-enhanced visual style. She has worked with brands like NVIDIA and Adobe, and for the first time ever, she walks us through her entire creative workflow. I watch her use Manus AI to reverse-engineer viral video styles, FreePik's Nanobanana Pro model to transform plain talking-head shots into cinematic scenes, and AI video generators like SeaDance to create impossible transition shots. She also reveals how she plans and scales her content pipeline using Obsidian paired with Claude Code.\n\nCova’s Content Creation Stack: \n\nVideo Editing: Premiere Pro, After Effects (for visual effects)\n\nImage Generation: Freepik (Nanabanana Pro her preferred model)\n\nVideo Generation: Seedance (her current go-to), Kling (especially Kling 3)\n\nAI Research & Planning: Manus AI (for analyzing existing videos, creating style breakdowns, and building replication plans)\n\nProject Planning & Organization: Obsidian (for storing scripts, storyboard templates, style guides, and project files), Poke (for daily task management and scheduling)\n\nAI Coding / File Automation: Claude Code and Cursor (used alongside Obsidian to convert scripts into storyboards, restructure project folders, and execute on templates automatically)\n\nTimestamps\n00:00 – Intro\n02:59 – Using Manus AI to Analyze Creator Videos\n09:41 – Video Breakdown and Replication Plan\n20:57 – Using FreePik to Transform Static Shots\n28:46 – Using Seedance for AI-Powered Transitions \n33:44 – The Importance of Differentiation \n34:31 – Full Tool Stack Rundown\n35:44 – Obsidian & Claude Code for Content Planning & Scaling Systems\n39:23 – Closing Thoughts\n\nKey Points\n\n- Manus AI can watch a creator's video, break down the style and story structure, and produce a full replication plan with aesthetic keywords, script transcription, and step-by-step filming guidance.\n\n- FreePik's Nanobanana Pro model lets creators transform bare or average-looking rooms into visually rich, cinematic sets by generating and masking in new background elements — all from a single still frame.\n\n- AI video generators like Seedance create short transition clips (three to four seconds) from a start frame and a prompt, enabling \"impossible shots\" that hook viewers in the first seconds.\n\n- When prompting video generation models, use positive terminology and describe what the camera is doing rather than what it is avoiding. Models respond better to affirmative descriptions.\n\n- Pairing Obsidian with Claude Code (or Cursor) lets creators automate repetitive planning tasks — turning scripts into storyboards, restructuring project folders, and enforcing personal style guides across every edit.\n\n- Creator differentiation increasingly depends on smart tool use; Cova credits AI-driven artistry as the factor that made her content stand out and grow.\n\nNumbered Section Summaries\n\n1. Reverse-Engineering Viral Videos with Manus AI\n\nI watch Cova prompt Manus AI to analyze one of her own Instagram Reels. Manus runs scripts to download, transcribe, and visually parse the video frame by frame. It returns a detailed breakdown of style keywords, typography categories, and story sections — a process that would normally require hours of manual note-taking. Cova is visibly surprised by how accurately it captures her creative process.\n\n2. The Full Creator Tool Stack\n\nCova breaks down her daily toolkit: Adobe Premiere and After Effects for editing and VFX, Nanobanana Pro on FreePik for image generation, Seedance (and Kling 3) for video generation, Manus for video research and analysis, and Obsidian with Claude Code for project planning. She also mentions Poke for daily task management. Each tool serves a specific role in a system designed for repeatable, scalable content creation.\n\n3. Scaling Content with Obsidian, Templates, and Claude Code\n\nCova opens her Obsidian vault and shows her storyboard template, editor handoff template, and project folders. She demonstrates using Claude Code to instantly convert a script file into a formatted storyboard table using her own style guide. Her core message: creators who build documented systems and let AI execute the repetitive parts can scale their output while maintaining creative quality.\n\nThe #1 tool to find startup ideas/trends - https://www.ideabrowser.com/\n\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/\n\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/ \n\nFIND ME ON SOCIAL\n\nX/Twitter: https://twitter.com/gregisenberg\nInstagram: https://instagram.com/gregisenberg/\nLinkedIn: https://www.linkedin.com/in/gisenberg/\n\nFIND COVA ON SOCIAL\n\nInstagram: https://www.instagram.com/covacut/\nYoutube: https://www.youtube.com/@covacut\nX: https://x.com/covacut",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "the",
+    "breakdown",
+    "openclaw",
+    "claude",
+    "gemini"
+  ],
+  "topic_tags": [
+    "the",
+    "breakdown",
+    "openclaw",
+    "ai-video-generation",
+    "workflow-automation",
+    "knowledge-management",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
+  ],
+  "topic_cluster_key": "breakdown__the",
+  "related_video_ids": [
+    "C4fTWiOGXpM",
+    "ISb0nrlNoKQ",
+    "iuQ_Y-qSz78",
+    "esuPIJeRotI",
+    "YnzsnqsrqXs"
+  ],
+  "related_videos": [
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "iuQ_Y-qSz78",
+      "title": "The Most Overlooked $13K/Day Business Anyone Can Start",
+      "channel": "Chris Koerner on The Koerner Office Podcast",
+      "summary_path": "knowledge/youtube/iuQ_Y-qSz78/summary.md",
+      "topic_cluster_key": "the",
+      "shared_tags": [
+        "the",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "esuPIJeRotI",
+      "title": "This Openclaw Trick Makes Single Agents Obsolete",
+      "channel": "Openclaw Labs",
+      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
+      "topic_cluster_key": "openclaw__single-agents",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "product-opportunity",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "YnzsnqsrqXs",
+      "title": "OpenClaw + Star Office is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/YnzsnqsrqXs/summary.md",
+      "topic_cluster_key": "openclaw__star-office",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "C4fTWiOGXpM",
+      "ISb0nrlNoKQ",
+      "iuQ_Y-qSz78",
+      "esuPIJeRotI",
+      "YnzsnqsrqXs"
+    ]
+  },
+  "updated_at": "2026-03-09T01:30:14Z"
+}

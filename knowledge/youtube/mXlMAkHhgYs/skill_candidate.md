@@ -11,10 +11,10 @@
 2. Collect prompts/data references
 3. Build a repeatable assistant flow
 - Existing related videos:
-  - ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: nano-banana-2, prompt engineering, prompt-design, tool demo, workflow-automation | cluster match: no
   - obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | shared: nano-banana-2, marketing-explainers, prompt-design, workflow-automation | cluster match: no
-  - 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | shared: nano-banana-2, feature breakdown, tool demo, workflow-automation | cluster match: no
-  - pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: marketing-explainers, prompt engineering, prompt-design, tool demo, workflow-automation | cluster match: no
-  - iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: feature breakdown, marketing-explainers, prompt-design, tool demo, workflow-automation | cluster match: no
+  - ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: nano-banana-2, prompt-design, workflow-automation | cluster match: no
+  - Wxf9oqxODU0 | Claude Code just became UNSTOPPABLE (Skills 2.0) | shared: nano-banana-2, workflow-automation | cluster match: no
+  - 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | shared: nano-banana-2, workflow-automation | cluster match: no
+  - pSQE1SsGfSQ | Build Anything with Devin 2.2! 🤯 | shared: marketing-explainers, prompt-design, workflow-automation | cluster match: no
 - Question:
   Vill du att denna skill byggs nu?

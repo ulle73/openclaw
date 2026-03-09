@@ -12,9 +12,9 @@
 3. Build a repeatable assistant flow
 - Existing related videos:
   - esuPIJeRotI | This Openclaw Trick Makes Single Agents Obsolete | shared: openclaw, agent-automation, onboarding-training, prompt-design, workflow-automation | cluster match: no
+  - 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | shared: openclaw, agent-automation, agent-flow, workflow-automation | cluster match: no
   - -hYE5U6FGk8 | AntiGravity just became UNSTOPPABLE (GravityClaw) | shared: antigravity, agent-automation, agent-flow, workflow-automation | cluster match: no
   - obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | shared: business-idea, business-opportunity, knowledge-management, onboarding-training, prompt-design, workflow-automation | cluster match: no
   - YnzsnqsrqXs | OpenClaw + Star Office is INSANE! | shared: openclaw, onboarding-training, workflow-automation | cluster match: no
-  - ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: openclaw, prompt-design, workflow-automation | cluster match: no
 - Question:
   Vill du att denna skill byggs nu?

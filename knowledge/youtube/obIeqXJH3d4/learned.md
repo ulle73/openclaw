@@ -83,5 +83,26 @@ Notebook LM plus Nano Banana 2.
 - business idea
 - prompt engineering
 
+## Topic Tags
+- notebooklm
+- nano-banana-2
+- ai-video-generation
+- content-repurposing
+- workflow-automation
+- knowledge-management
+- onboarding-training
+- marketing-explainers
+- seo-content
+- prompt-design
+- business-idea
+- business-opportunity
+
+## Similar Videos
+- 99EoVMtEA2A | New FREE Google AI Updates are INSANE! | shared: nano-banana-2, notebooklm, ai-video-generation, seo-content, workflow-automation
+- Wxf9oqxODU0 | Claude Code just became UNSTOPPABLE (Skills 2.0) | shared: nano-banana-2, notebooklm, ai-video-generation, content-repurposing, knowledge-management, onboarding-training
+- iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | shared: business-idea, business-opportunity, knowledge-management, marketing-explainers, onboarding-training, prompt-design
+- ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: nano-banana-2, business-idea, business-opportunity, prompt-design, workflow-automation
+- mXlMAkHhgYs | Gemini 3.1 Just Changed Web Design Forever! (FULL PROCESS) | shared: nano-banana-2, marketing-explainers, prompt-design, workflow-automation
+
 ## Classification
 tutorial, tool demo, feature breakdown, workflow, automation idea, business idea, prompt engineering

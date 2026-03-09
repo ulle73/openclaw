@@ -1,0 +1,115 @@
+{
+  "clusterKey": "the",
+  "label": "the och chatgpt",
+  "entity_tags": [
+    "the",
+    "chatgpt"
+  ],
+  "topic_tags": [
+    "the",
+    "marketing-explainers",
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
+  ],
+  "categories": [
+    "tool",
+    "business_idea",
+    "agent_flow",
+    "product_opportunity"
+  ],
+  "videoIds": [
+    "iuQ_Y-qSz78"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 42,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 21,
+      "shared_signals": [
+        "seo-content"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 21,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 17,
+      "shared_signals": [
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera the och chatgpt i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "medel",
+      "why": "Temat overlappar med Coastworks via seo-content."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt the och chatgpt",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for the och chatgpt",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "iuQ_Y-qSz78",
+      "title": "The Most Overlooked $13K/Day Business Anyone Can Start",
+      "channel": "Chris Koerner on The Koerner Office Podcast",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande.",
+        "&gt;&gt; So, you're looking at conservatively $200 in cost or $550 in profit."
+      ]
+    }
+  ],
+  "is_noise": true,
+  "paths": {
+    "overview": "knowledge/topics/the/overview.md",
+    "signals": "knowledge/topics/the/signals.json",
+    "decision": "knowledge/topics/the/decision.md",
+    "opportunity": "knowledge/topics/the/opportunity.md"
+  }
+}

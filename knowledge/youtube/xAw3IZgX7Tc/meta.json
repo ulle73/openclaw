@@ -5,16 +5,25 @@
   "upload_date": "20260308",
   "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about",
   "classifications": [
-    "tutorial",
-    "tool demo",
+    "tool",
     "workflow",
-    "automation idea",
-    "business idea",
-    "prompt engineering",
-    "technical guide"
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
   ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
   "skill_candidate": true,
-  "updated_at": "2026-03-08T17:30:05.527111+00:00",
   "entity_tags": [
     "model"
   ],
@@ -25,38 +34,22 @@
     "onboarding-training",
     "seo-content",
     "prompt-design",
-    "tool demo",
-    "automation idea",
-    "business idea",
-    "prompt engineering",
-    "technical guide"
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "api"
   ],
   "topic_cluster_key": "model",
   "related_video_ids": [
-    "pSQE1SsGfSQ",
     "s2HalzQZ1MQ",
+    "pSQE1SsGfSQ",
     "iBVMutY4Ot0",
-    "wX_neSx7-Ls",
-    "esuPIJeRotI"
+    "jyVRbD6fqic",
+    "obIeqXJH3d4"
   ],
   "related_videos": [
-    {
-      "videoId": "pSQE1SsGfSQ",
-      "title": "Build Anything with Devin 2.2! 🤯",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
-      "topic_cluster_key": "devin-2",
-      "shared_tags": [
-        "automation idea",
-        "business idea",
-        "onboarding-training",
-        "prompt engineering",
-        "prompt-design",
-        "seo-content"
-      ],
-      "cluster_match": false,
-      "score": 8
-    },
     {
       "videoId": "s2HalzQZ1MQ",
       "title": "NEW Claude Code Update is INSANE!",
@@ -64,15 +57,32 @@
       "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
       "topic_cluster_key": "claude",
       "shared_tags": [
-        "automation idea",
-        "business idea",
-        "prompt engineering",
-        "prompt-design",
-        "technical guide",
-        "tool demo"
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design"
       ],
       "cluster_match": false,
-      "score": 7
+      "score": 9
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 9
     },
     {
       "videoId": "iBVMutY4Ot0",
@@ -81,49 +91,49 @@
       "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
       "topic_cluster_key": "perplexity-computer",
       "shared_tags": [
-        "automation idea",
-        "business idea",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "jyVRbD6fqic",
+      "title": "New OpenAI Codex Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/jyVRbD6fqic/summary.md",
+      "topic_cluster_key": "openai-codex",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "business-idea",
+        "business-opportunity",
+        "content-repurposing",
         "onboarding-training",
         "prompt-design",
-        "seo-content",
-        "tool demo"
+        "seo-content"
       ],
       "cluster_match": false,
       "score": 7
-    },
-    {
-      "videoId": "wX_neSx7-Ls",
-      "title": "How to Make Claude Code 100X Better in 1 Click!",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/wX_neSx7-Ls/summary.md",
-      "topic_cluster_key": "claude",
-      "shared_tags": [
-        "automation idea",
-        "business idea",
-        "prompt engineering",
-        "technical guide",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 6
-    },
-    {
-      "videoId": "esuPIJeRotI",
-      "title": "This Openclaw Trick Makes Single Agents Obsolete",
-      "channel": "Openclaw Labs",
-      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
-      "topic_cluster_key": "openclaw__single-agents",
-      "shared_tags": [
-        "onboarding-training",
-        "prompt engineering",
-        "prompt-design",
-        "technical guide",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 6
     }
   ],
   "skill_recommendation": {
@@ -132,11 +142,12 @@
     "duplicate_risk": "medium",
     "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
     "related_video_ids": [
-      "pSQE1SsGfSQ",
       "s2HalzQZ1MQ",
+      "pSQE1SsGfSQ",
       "iBVMutY4Ot0",
-      "wX_neSx7-Ls",
-      "esuPIJeRotI"
+      "jyVRbD6fqic",
+      "obIeqXJH3d4"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

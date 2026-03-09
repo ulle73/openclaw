@@ -5,14 +5,23 @@
   "upload_date": "20260308",
   "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nNEW Google Gemini Updates: 7 Free Features You Need to Try!\n\nGoogle just dropped seven massive updates to the Gemini ecosystem, including the lightning-fast 1.5 Flash model and new cinematic features for Notebook LM. Learn how to use these free tools to build apps, design infographics, and transform your Google Search experience with AI Canvas.\n\n00:00 - Intro: 7 New Google AI Updates\n01:04 - Gemini Flash: Build Apps for Free\n03:09 - Notebook LM Cinematic Video Overviews\n04:27 - Custom AI Infographic Styles\n05:22 - Google Search AI Canvas Mode\n07:10 - Gemini Pro Integration in Stitch\n08:08 - Recap: Speed & Performance Upgrades\n09:13 - AI Automation Community & Training",
   "classifications": [
-    "tutorial",
-    "tool demo",
-    "feature breakdown",
-    "strategy",
-    "automation idea"
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
   ],
+  "roi_label": "medium",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": false,
+    "system_improvement": true,
+    "app": false,
+    "product": false
+  },
   "skill_candidate": true,
-  "updated_at": "2026-03-08T12:12:56.912227+00:00",
   "entity_tags": [
     "notebooklm",
     "nano-banana-2",
@@ -27,17 +36,16 @@
     "ai-video-generation",
     "workflow-automation",
     "seo-content",
-    "tool demo",
-    "feature breakdown",
-    "strategy",
-    "automation idea"
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
   ],
   "topic_cluster_key": "nano-banana-2__notebooklm",
   "related_video_ids": [
     "obIeqXJH3d4",
+    "Wxf9oqxODU0",
     "ISb0nrlNoKQ",
-    "mXlMAkHhgYs",
-    "iBVMutY4Ot0",
+    "C4fTWiOGXpM",
     "esuPIJeRotI"
   ],
   "related_videos": [
@@ -58,6 +66,23 @@
       "score": 16
     },
     {
+      "videoId": "Wxf9oqxODU0",
+      "title": "Claude Code just became UNSTOPPABLE (Skills 2.0)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/Wxf9oqxODU0/summary.md",
+      "topic_cluster_key": "claude__skills-2__unstoppable",
+      "shared_tags": [
+        "nano-banana-2",
+        "notebooklm",
+        "agent-automation",
+        "ai-video-generation",
+        "seo-content",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
       "videoId": "ISb0nrlNoKQ",
       "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
       "channel": "Riley Brown",
@@ -66,44 +91,25 @@
       "shared_tags": [
         "nano-banana-2",
         "openclaw",
-        "strategy",
-        "tool demo",
         "workflow-automation"
       ],
       "cluster_match": false,
-      "score": 11
+      "score": 9
     },
     {
-      "videoId": "mXlMAkHhgYs",
-      "title": "Gemini 3.1 Just Changed Web Design Forever! (FULL PROCESS)",
-      "channel": "Viktor Oddy",
-      "summary_path": "knowledge/youtube/mXlMAkHhgYs/summary.md",
-      "topic_cluster_key": "gemini__web-design",
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
       "shared_tags": [
-        "nano-banana-2",
-        "feature breakdown",
-        "tool demo",
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
         "workflow-automation"
       ],
       "cluster_match": false,
       "score": 7
-    },
-    {
-      "videoId": "iBVMutY4Ot0",
-      "title": "NEW Perplexity Computer Updates are INSANE!",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
-      "topic_cluster_key": "perplexity-computer",
-      "shared_tags": [
-        "automation idea",
-        "feature breakdown",
-        "seo-content",
-        "strategy",
-        "tool demo",
-        "workflow-automation"
-      ],
-      "cluster_match": false,
-      "score": 6
     },
     {
       "videoId": "esuPIJeRotI",
@@ -113,7 +119,7 @@
       "topic_cluster_key": "openclaw__single-agents",
       "shared_tags": [
         "openclaw",
-        "tool demo",
+        "agent-automation",
         "workflow-automation"
       ],
       "cluster_match": false,
@@ -127,10 +133,11 @@
     "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
     "related_video_ids": [
       "obIeqXJH3d4",
+      "Wxf9oqxODU0",
       "ISb0nrlNoKQ",
-      "mXlMAkHhgYs",
-      "iBVMutY4Ot0",
+      "C4fTWiOGXpM",
       "esuPIJeRotI"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

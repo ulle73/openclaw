@@ -5,82 +5,63 @@
   "upload_date": "20260308",
   "description": "Get 30 days free on HighLevel only with my link: https://www.gohighlevel.com/TKOPOD\n━\nCheck out my newsletter at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://TKOPOD.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and join my new community at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://TKOwners.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n━\nEverything I've ever done to grow from zero to five million followers. All in one place — ⁠Plans of Grandeur Content Mastery⁠: https://buy.stripe.com/3cI5kE1lt2tygUObiD38422\n\n10% of all gross revenue will be publicly donated to the National Kidney Foundation. That one’s personal.\n━\n\nI sat down with Sariah Howell, the founder of Memory Magnets Co, and her story is wild. What started as a small idea to print more family photos turned into a business making custom photo magnets that completely took off.\nShe began with a $700 machine, started selling magnets at local markets, and eventually discovered a huge opportunity doing live magnet printing at weddings and events. From there the business exploded, reaching $1.63M in revenue in its first full year.\n\nWe talked about how the business works, how she gets customers, and why this simple product can be such a powerful side hustle.\n\nYou can find Sariah Howell and all of her links here:\n⁠https://linktr.ee/memorymagnetsco\n\nEnjoy! \n⸻\nAudio podcast on all podcast platforms: https://toolkit.tkopod.com/podcast\nFree weekly business ideas newsletter: https://tkopod.com\nPrivate community where we build cool businesses together: https://TKOwners.com\nLearn more about me: https://www.chrisjkoerner.com/\nBusiness ideas shorts channel: @thekoernerofficeideas     \nThe Koerner Office highlights: @thekoernerofficesegments      \nAI-enabled accounting software, because Quickbooks SUCKS: https://lazybooks.com/\n---\nThis video is for educational and entertainment purposes only. It does not constitute financial, business, or legal advice. Any business examples, tools, or strategies shown are for demonstration only and may not produce the same results for you. We do not guarantee earnings, outcomes, or success. Always conduct your own due diligence, comply with applicable laws, and use these ideas responsibly.\n\nWe do not encourage duplication of copyrighted material or existing business assets. Always ensure your use complies with copyright and intellectual-property laws.\n\nSome links may be affiliate links, meaning I may earn a commission at no extra cost to you.\n---\n\nFor the Algorithm:\n#TKOPodcast #ChrisKoerner #SariahHowell #SideHustleIdeas #SmallBusinessIdeas #MakeMoneyOnline #Entrepreneurship #StartABusiness #BusinessIdeas #SideHustle #PassiveIncomeIdeas #CreativeBusiness #OnlineBusiness #SmallBusinessOwner #StartupIdeas #WorkFromHomeBusiness #WorkFromHomeIdeas #PrintOnDemand #CustomProducts #EcommerceBusiness #ShopifyBusiness #LocalBusinessIdeas #WeddingBusiness #EventBusiness #CraftBusiness #HandmadeBusiness #MarketVendor #FarmersMarketBusiness #ProfitableSideHustle #MakeMoneyFromHome #MomEntrepreneur #StayAtHomeMomBusiness #ServiceBusinessIdeas #BeginnerBusinessIdeas #LowCostBusinessIdeas #StartSmallBusiness #SellCustomProducts #ProductBusiness #EcommerceTips #BusinessSuccess",
   "classifications": [
-    "tool demo",
-    "strategy",
-    "business idea"
+    "tool",
+    "business_idea",
+    "product_opportunity"
   ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": false,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
   "skill_candidate": true,
-  "updated_at": "2026-03-08T23:02:27.870244+00:00",
   "entity_tags": [
     "selling-magnets"
   ],
   "topic_tags": [
     "selling-magnets",
-    "tool demo",
-    "strategy",
-    "business idea"
+    "business-idea",
+    "business-opportunity",
+    "product-opportunity"
   ],
   "topic_cluster_key": "selling-magnets",
   "related_video_ids": [
-    "wX_neSx7-Ls",
-    "pSQE1SsGfSQ",
-    "iBVMutY4Ot0",
-    "IWKOcumdMUE",
-    "ISb0nrlNoKQ"
+    "jyVRbD6fqic",
+    "iuQ_Y-qSz78",
+    "ISb0nrlNoKQ",
+    "DSKO9ZtbHFA",
+    "C4fTWiOGXpM"
   ],
   "related_videos": [
     {
-      "videoId": "wX_neSx7-Ls",
-      "title": "How to Make Claude Code 100X Better in 1 Click!",
+      "videoId": "jyVRbD6fqic",
+      "title": "New OpenAI Codex Update is INSANE!",
       "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/wX_neSx7-Ls/summary.md",
-      "topic_cluster_key": "claude",
+      "summary_path": "knowledge/youtube/jyVRbD6fqic/summary.md",
+      "topic_cluster_key": "openai-codex",
       "shared_tags": [
-        "business idea",
-        "strategy",
-        "tool demo"
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
       ],
       "cluster_match": false,
       "score": 3
     },
     {
-      "videoId": "pSQE1SsGfSQ",
-      "title": "Build Anything with Devin 2.2! 🤯",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
-      "topic_cluster_key": "devin-2",
+      "videoId": "iuQ_Y-qSz78",
+      "title": "The Most Overlooked $13K/Day Business Anyone Can Start",
+      "channel": "Chris Koerner on The Koerner Office Podcast",
+      "summary_path": "knowledge/youtube/iuQ_Y-qSz78/summary.md",
+      "topic_cluster_key": "the",
       "shared_tags": [
-        "business idea",
-        "strategy",
-        "tool demo"
-      ],
-      "cluster_match": false,
-      "score": 3
-    },
-    {
-      "videoId": "iBVMutY4Ot0",
-      "title": "NEW Perplexity Computer Updates are INSANE!",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
-      "topic_cluster_key": "perplexity-computer",
-      "shared_tags": [
-        "business idea",
-        "strategy",
-        "tool demo"
-      ],
-      "cluster_match": false,
-      "score": 3
-    },
-    {
-      "videoId": "IWKOcumdMUE",
-      "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
-      "channel": "Julian Goldie SEO",
-      "summary_path": "knowledge/youtube/IWKOcumdMUE/summary.md",
-      "topic_cluster_key": "chatgpt",
-      "shared_tags": [
-        "business idea",
-        "strategy",
-        "tool demo"
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
       ],
       "cluster_match": false,
       "score": 3
@@ -92,9 +73,37 @@
       "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
       "topic_cluster_key": "openclaw__specialized-agents",
       "shared_tags": [
-        "business idea",
-        "strategy",
-        "tool demo"
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 3
+    },
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 3
+    },
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
       ],
       "cluster_match": false,
       "score": 3
@@ -106,11 +115,12 @@
     "duplicate_risk": "medium",
     "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
     "related_video_ids": [
-      "wX_neSx7-Ls",
-      "pSQE1SsGfSQ",
-      "iBVMutY4Ot0",
-      "IWKOcumdMUE",
-      "ISb0nrlNoKQ"
+      "jyVRbD6fqic",
+      "iuQ_Y-qSz78",
+      "ISb0nrlNoKQ",
+      "DSKO9ZtbHFA",
+      "C4fTWiOGXpM"
     ]
-  }
+  },
+  "updated_at": "2026-03-09T01:30:11Z"
 }

@@ -16,8 +16,12 @@ Vid heartbeat eller planerad körning:
 - läs `knowledge/companies/DEFAULT/PROFILE.md`
 - läs `knowledge/companies/DEFAULT/YOUTUBE.md`
 - läs `knowledge/companies/DEFAULT/CONTEXT.md`
+- läs `knowledge/system/project_inventory.json`
+- läs `knowledge/projects/PROJECT_INDEX.md`
 - behandla alla YouTube-kanaler dynamiskt per video
 - gör full ingest till knowledge base för relevanta videos
+- bygg eller uppdatera topic-kort i `knowledge/topics/`
+- rikta idéer mot riktiga projekt före referensrepon och interna system
 - kör deep research när något innehåller tydlig affärsnytta, särskilt verktyg, MCP, agentflöden, API:er, workflows, SEO/distribution, automationer, appidéer eller produktmöjligheter
 - uppdatera knowledge automatiskt och systematisera sådant som återkommer
 
