@@ -1,0 +1,153 @@
+{
+  "id": "KyXUJnYjjAo",
+  "title": "New OpenClaw Discord Update!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260309",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nTurn Discord into a Searchable Database: NEW OpenClaw Update\n\nStop struggling with Discord's broken search and start querying your server history like a professional database. This video introduces Discrawl, a powerful tool that indexes Discord messages into SQLite for instant searching and AI agent integration.\n\n00:00 - Intro: The Discord Database\n00:20 - Why Discord Search is Broken\n01:03 - Introducing Discrawl\n01:52 - How to Set Up Your Bot\n02:21 - Syncing and Live Tail Mode\n02:53 - Running Powerful SQL Queries\n03:34 - AI Agents & Local Databases\n06:13 - Installation and Tech Stack",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "openclaw",
+  "related_video_ids": [
+    "YnzsnqsrqXs",
+    "5dy2ahf_EKQ",
+    "KeAy_Va2Wrc",
+    "C4fTWiOGXpM",
+    "9T1yWEq5kP0"
+  ],
+  "related_videos": [
+    {
+      "videoId": "YnzsnqsrqXs",
+      "title": "OpenClaw + Star Office is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/YnzsnqsrqXs/summary.md",
+      "topic_cluster_key": "openclaw__star-office",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "5dy2ahf_EKQ",
+      "title": "New FREE OpenClaw Update: GPT 5.4 + Gemini 3.1 Flash-Lite",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/5dy2ahf_EKQ/summary.md",
+      "topic_cluster_key": "gemini__gpt-5__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "knowledge-management",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "KeAy_Va2Wrc",
+      "title": "GPT 5.4 + OpenClaw is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KeAy_Va2Wrc/summary.md",
+      "topic_cluster_key": "gpt-5__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "9T1yWEq5kP0",
+      "title": "SaaS is minting millionaires again (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/9T1yWEq5kP0/summary.md",
+      "topic_cluster_key": "saas",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "YnzsnqsrqXs",
+      "5dy2ahf_EKQ",
+      "KeAy_Va2Wrc",
+      "C4fTWiOGXpM",
+      "9T1yWEq5kP0"
+    ]
+  },
+  "updated_at": "2026-03-09T15:07:37Z"
+}

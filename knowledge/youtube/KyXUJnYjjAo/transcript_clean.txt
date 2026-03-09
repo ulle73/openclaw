@@ -1,0 +1,207 @@
+into a searchable database and it is
+changes everything. It is so simple even
+a kid could use it. And honestly, I
+think this is one of the biggest things
+me show you exactly how it works. Okay,
+so here is the problem. You know when
+need to find something, maybe a bug fix,
+maybe a solution someone posted like 6
+months ago, you type it into the search
+bar and what happens? Nothing useful.
+like genuinely broken for anything
+technical. You scroll and scroll, you
+click through random threads and half
+the time you just give up. You never
+find what you need. Now imagine this.
+What if you could search that entire
+database? like actual queries, not just
+typing words into a search bar and
+hoping for the best. I am talking about
+real searches that pull up exactly what
+you need in seconds. Every message,
+every thread, every attachment,
+everything. That is exactly what this
+new tool does. It is called disc crawl
+and it is part of the open claw
+ecosystem. Let me break it down for you.
+Discrawl is a tool that crawls an entire
+every single thread, every single
+message, every member, every attachment,
+all of it. And it takes all of that data
+and puts it into a local database on
+your machine, a Escalite database to be
+search, you can run real database
+queries on years of chat history
+instantly. Think about that for a
+second. Years of conversations,
+thousands of messages, all searchable in
+seconds, not minutes, not hours,
+seconds. And here's where it gets really
+cool. It does not just store the
+messages. It builds something called a
+full text search index. That is a fancy
+way of saying it makes search insanely
+fast. We're talking millions of messages
+and you still get results instantly.
+That is powerful. Now, let me walk you
+through how it actually works because it
+is surprisingly simple. You set up a
+sketchy workaround, a proper bot token.
+That means it is safe, it is stable, it
+business. Once your bot is set up, you
+run one command, literally one command.
+You type disc roll sync and it starts
+downloading everything, every channel,
+every thread, every message, all into a
+neat little database file on your
+computer. But wait, it gets better
+because Discroll does not just do a
+one-time download. It also has a live
+mode. You run disc crawl tail and it
+listens for new messages in real time.
+So your database stays current, is
+always up to date. New messages come in,
+they go straight into your database. No
+extra work. Hey, if we have not met
+already, I am the digital avatar of
+Julian Goldie, CEO of Goldie Agency.
+Whilst he is helping clients get more
+leads and customers, I am here to help
+you get the latest AI updates. Julian
+Goldie reads every comment, so make sure
+you comment below. Okay, so now you have
+this database. What do you do with it?
+Well, this is where it gets really fun.
+You can run SQL queries. So, let us say
+you are a developer and your AI agent
+keeps crashing. You want to find every
+that exact error, you just run a simple
+query. Something like search all
+messages where the content contains
+agent crash. Boom. Every single
+conversation about that error pops up.
+Every bug report, every fix, every
+workaround, all of it instantly. Or let
+us say you want to find all the messages
+from a specific person. Easy. One query
+done. Want to see which channels are
+most active? One query done. Want to
+find every stack trace or error log that
+was ever uploaded? One query done. Now,
+here's the part that blew my mind. This
+is not just for humans. This is for AI
+agents, too. And that is the real game
+changer. See, right now, if an AI agent
+API is slow. It has rate limits. It is
+clunky. It is not built for AI agents to
+search through massive amounts of data.
+But with Disc, the AI agent just queries
+the local database. No API calls, no
+rate limits, no waiting, just instant
+results. The agent asks a question, the
+database gives the answer. Done. The
+GB of message history. 4 GB. That is a
+massive amount of conversations about AI
+agents and tools and debugging. And now
+all of that knowledge is instantly
+searchable. The bot multi uses this to
+help developers find solutions faster
+than ever. Now, if you are sitting there
+thinking, okay, this is cool for
+developers, but what does this mean for
+me? Let me connect the dots. Now, if you
+want to learn how to use AI tools like
+this to automate your workflows and
+boardroom. It is the best place to learn
+how to use AI automation to get more
+customers and save hundreds of hours.
+The link is in the description and the
+comments. We break down tools like
+Descroll and show you exactly how to put
+them to work. Okay, let me keep going
+is one of the largest platforms on the
+internet. There are servers with
+millions of members, servers about
+coding, servers about AI, servers about
+business, servers about literally
+everything. And all of those servers are
+basically giant knowledge bases.
+Millions of people sharing solutions and
+ideas and fixes and strategies every
+single day. But all of that knowledge is
+locked behind a terrible search
+function. You cannot find anything. is
+like having a library with no catalog.
+The books are all there, but good luck
+finding the one you need. The scroll
+real knowledge base, a real searchable
+archive. And when you combine that with
+AI agents, it becomes something
+completely different. Now, your AI can
+search through years of discussions. It
+can find patterns. It can find
+solutions. It can find answers that no
+single person could find on their own.
+And this is part of a much bigger trend.
+People are turning all kinds of
+knowledge bases. Slack conversations are
+being turned into searchable databases.
+GitHub issues are being indexed. And now
+Think about what this means. Every
+conversation you have ever had, every
+solution that was ever posted, all of it
+could become searchable, queryable,
+useful. The tech stack behind disc roll
+is clean too. It is built and go, which
+means it is fast. It uses SQLite, so
+there is no complicated database setup.
+And the full text search is powered by
+FTS5, which is one of the fastest search
+engines you can use locally. Simple,
+fast, effective. To get started, you
+literally just install it with one
+command. Then you sync your server with
+another command. Then you open up the
+database and start searching. Three
+steps. That is it. The GitHub repo
+already has over 180 stars and it is
+growing fast. Developers are picking
+this up because it solves a real
+getting bigger and bigger, this is only
+going to become more important. Now, let
+me tell you why I think this matters
+world where AI agents need access to
+knowledge, real knowledge, not just what
+is on the internet, but what is inside
+communities, what is inside
+conversations, what is inside the places
+where real people solve real problems
+every day. Tools like Discroll are the
+bridge. They take unstructured, messy
+something an AI can actually use. And
+that is huge. So if you are a developer,
+mean to have your entire server
+searchable in seconds. And if you are
+building AI agents, this is a tool you
+need to know about. Now, I want to hear
+from you. Drop a comment below. Have you
+ever struggled to find something in
+search a server like a database? Julian
+reads every single comment, so let him
+know what you think. And if you want the
+full process, SOPs, and over 100 AI use
+cases like this one, join the AI success
+lab links in the comments and
+description. You will get all the video
+notes from there, plus access to our
+crushing it with AI. Also, if you want
+to take things further and learn how to
+use AI tools like Discroll and OpenClaw
+to automate your business and get more
+where you want to be. We show you step
+by step how to put AI automation to work
+so you can save hundreds of hours and
+scale faster. Link is in the
+description. Make sure you subscribe and
+hit the bell so you do not miss the next
+update. I will see you in the next
