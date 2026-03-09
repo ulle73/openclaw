@@ -14,5 +14,123 @@
     "prompt engineering"
   ],
   "skill_candidate": false,
-  "updated_at": "2026-03-07T14:52:17.770842+00:00"
+  "updated_at": "2026-03-07T14:52:17.770842+00:00",
+  "entity_tags": [
+    "claude",
+    "scheduled-tasks"
+  ],
+  "topic_tags": [
+    "scheduled-tasks",
+    "workflow-automation",
+    "feature breakdown",
+    "strategy",
+    "automation idea",
+    "business idea",
+    "prompt engineering"
+  ],
+  "topic_cluster_key": "claude__scheduled-tasks",
+  "related_video_ids": [
+    "IWKOcumdMUE",
+    "DSKO9ZtbHFA",
+    "wX_neSx7-Ls",
+    "pSQE1SsGfSQ",
+    "iBVMutY4Ot0"
+  ],
+  "related_videos": [
+    {
+      "videoId": "IWKOcumdMUE",
+      "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/IWKOcumdMUE/summary.md",
+      "topic_cluster_key": "chatgpt",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "feature breakdown",
+        "prompt engineering",
+        "strategy",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "feature breakdown",
+        "prompt engineering",
+        "strategy",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "wX_neSx7-Ls",
+      "title": "How to Make Claude Code 100X Better in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/wX_neSx7-Ls/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "prompt engineering",
+        "strategy",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 5
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "prompt engineering",
+        "strategy",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 5
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "feature breakdown",
+        "strategy",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 5
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": false,
+    "mode": "watch",
+    "duplicate_risk": "medium",
+    "reason": "Temat ar inte tillrackligt starkt som skill just nu.",
+    "related_video_ids": [
+      "IWKOcumdMUE",
+      "DSKO9ZtbHFA",
+      "wX_neSx7-Ls",
+      "pSQE1SsGfSQ",
+      "iBVMutY4Ot0"
+    ]
+  }
 }

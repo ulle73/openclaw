@@ -6,5 +6,63 @@
   "description": "📈 ALL Systems: https://bit.ly/4kol0y5\n💎 Agentic Voice: https://glaido.com\n🤩 My Goofy pod: https://bit.ly/46nLQ3U\n\nFREE Resources 👉 https://bit.ly/4rrTgLX\n\n-- CORE Software\n🧑‍💻 Hosting: https://bit.ly/3N7zV3F\n🎤 Eleven Labs: elevenlabs.io/?from=partnermiller7651\n💎 Work with me: https://scalewithteddy.com/\n🤖 Claude - https://claude.ai/\n🛠️ Antigravity - https://antigravity.google/\n📂 OpenClaw - https://openclaw.ai/\n🦎 Maemo bot - https://t.me/maemo_bot\n🏗️ Docker - https://www.docker.com/\n🟢 Node.js - https://nodejs.org/\n✈️ Telegram - https://telegram.org/\n👴 BotFather - https://t.me/botfather\n📡 OpenRouter - https://openrouter.ai/\n🔍 User Info Bot - https://t.me/userinfobot\n🌩️ Grok (xAI) - https://console.x.ai/\n💬 OpenAI - https://openai.com/\n📱 WhatsApp - https://whatsapp.com/\n🤖 Nanobot - https://github.com/HKUDS/nanobot\n\nCorrection: the 11Labs summit was a few days ago (looked ace) you can check it out here: https://www.youtube.com/watch?v=JwK3uU-D_Nk\n\n⌚️ Stamps:\n00:00 Intro\n00:44 What is gravityclaw\n03:16 5 steps frame work\n03:22 C\n08:51 L\n16:18 A\n22:07 W\n27:24 S",
   "classifications": [],
   "skill_candidate": false,
-  "updated_at": "2026-03-07T12:31:31.169486"
+  "updated_at": "2026-03-07T12:31:31.169486",
+  "entity_tags": [
+    "antigravity",
+    "unstoppable",
+    "gravityclaw"
+  ],
+  "topic_tags": [
+    "antigravity",
+    "unstoppable",
+    "gravityclaw",
+    "workflow-automation",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "antigravity__gravityclaw__unstoppable",
+  "related_video_ids": [
+    "C4fTWiOGXpM",
+    "DSKO9ZtbHFA"
+  ],
+  "related_videos": [
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "antigravity",
+        "agent-automation",
+        "agent-flow",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "antigravity",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 5
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": false,
+    "mode": "watch",
+    "duplicate_risk": "medium",
+    "reason": "Temat ar inte tillrackligt starkt som skill just nu.",
+    "related_video_ids": [
+      "C4fTWiOGXpM",
+      "DSKO9ZtbHFA"
+    ]
+  }
 }

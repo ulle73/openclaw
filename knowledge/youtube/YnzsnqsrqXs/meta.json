@@ -9,5 +9,108 @@
     "business idea"
   ],
   "skill_candidate": false,
-  "updated_at": "2026-03-07T23:36:54.362743+00:00"
+  "updated_at": "2026-03-07T23:36:54.362743+00:00",
+  "entity_tags": [
+    "openclaw",
+    "star-office"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "star-office",
+    "workflow-automation",
+    "onboarding-training",
+    "business idea"
+  ],
+  "topic_cluster_key": "openclaw__star-office",
+  "related_video_ids": [
+    "esuPIJeRotI",
+    "ISb0nrlNoKQ",
+    "C4fTWiOGXpM",
+    "99EoVMtEA2A",
+    "xAw3IZgX7Tc"
+  ],
+  "related_videos": [
+    {
+      "videoId": "esuPIJeRotI",
+      "title": "This Openclaw Trick Makes Single Agents Obsolete",
+      "channel": "Openclaw Labs",
+      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
+      "topic_cluster_key": "openclaw__single-agents",
+      "shared_tags": [
+        "openclaw",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "openclaw",
+        "business idea",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "99EoVMtEA2A",
+      "title": "New FREE Google AI Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/99EoVMtEA2A/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "openclaw",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 5
+    },
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "business idea",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 3
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": false,
+    "mode": "watch",
+    "duplicate_risk": "medium",
+    "reason": "Temat ar inte tillrackligt starkt som skill just nu.",
+    "related_video_ids": [
+      "esuPIJeRotI",
+      "ISb0nrlNoKQ",
+      "C4fTWiOGXpM",
+      "99EoVMtEA2A",
+      "xAw3IZgX7Tc"
+    ]
+  }
 }

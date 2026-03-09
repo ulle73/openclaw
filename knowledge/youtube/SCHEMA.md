@@ -23,6 +23,10 @@ Minimifält:
   "discoveredAt": "2026-03-08T20:10:00Z",
   "ingestedAt": "2026-03-08T20:25:00Z",
   "categories": ["workflow", "tool"],
+  "entity_tags": ["notebooklm", "nano-banana-2"],
+  "topic_tags": ["notebooklm", "nano-banana-2", "ai-video-generation"],
+  "topic_cluster_key": "nano-banana-2__notebooklm",
+  "related_video_ids": ["abc123xyz99"],
   "roi_label": "high",
   "relevance_label": "high",
   "paths": {
@@ -33,6 +37,12 @@ Minimifält:
   }
 }
 ```
+
+Valfria falt for amnesgruppering:
+- `entity_tags`: normaliserade verktygs- och produktnamn.
+- `topic_tags`: bredare amnestaggar for sokning, klustring och dedupe.
+- `topic_cluster_key`: stabil nyckel for narliggande videos.
+- `related_video_ids`: andra videos som overlappar tydligt i samma amne.
 
 ---
 
@@ -78,5 +88,39 @@ En rad per failure (append-only). Används för debug + backoff.
 {
   "lastDigestAt": "2026-03-08T08:00:00Z",
   "timezone": "Europe/Stockholm"
+}
+```
+
+---
+
+## 5) TOPICS â€” `knowledge/youtube/TOPICS.json`
+Samlad registry for amneskluster och tagg-till-video-kopplingar.
+
+```json
+{
+  "updatedAt": "2026-03-09T10:00:00Z",
+  "clusters": {
+    "nano-banana-2__notebooklm": {
+      "entity_tags": ["nano-banana-2", "notebooklm"],
+      "topic_tags": ["nano-banana-2", "notebooklm", "ai-video-generation"],
+      "videoIds": ["obIeqXJH3d4", "abc123xyz99"],
+      "videos": [
+        {
+          "videoId": "obIeqXJH3d4",
+          "title": "Nano Banana 2 + NotebookLM ...",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/obIeqXJH3d4/summary.md"
+        }
+      ],
+      "count": 2
+    }
+  },
+  "tags": {
+    "notebooklm": {
+      "videoIds": ["abc123xyz99", "obIeqXJH3d4"],
+      "clusters": ["nano-banana-2__notebooklm"],
+      "count": 2
+    }
+  }
 }
 ```

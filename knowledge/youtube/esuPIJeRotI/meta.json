@@ -12,5 +12,124 @@
     "technical guide"
   ],
   "skill_candidate": true,
-  "updated_at": "2026-03-08T15:46:55.954175+00:00"
+  "updated_at": "2026-03-08T15:46:55.954175+00:00",
+  "entity_tags": [
+    "openclaw",
+    "single-agents"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "single-agents",
+    "workflow-automation",
+    "agent-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "prompt-design",
+    "tool demo",
+    "prompt engineering",
+    "technical guide"
+  ],
+  "topic_cluster_key": "openclaw__single-agents",
+  "related_video_ids": [
+    "ISb0nrlNoKQ",
+    "C4fTWiOGXpM",
+    "xAw3IZgX7Tc",
+    "pSQE1SsGfSQ",
+    "YnzsnqsrqXs"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "openclaw",
+        "prompt engineering",
+        "prompt-design",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "onboarding-training",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "onboarding-training",
+        "prompt engineering",
+        "prompt-design",
+        "technical guide",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt engineering",
+        "prompt-design",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "YnzsnqsrqXs",
+      "title": "OpenClaw + Star Office is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/YnzsnqsrqXs/summary.md",
+      "topic_cluster_key": "openclaw__star-office",
+      "shared_tags": [
+        "openclaw",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "ISb0nrlNoKQ",
+      "C4fTWiOGXpM",
+      "xAw3IZgX7Tc",
+      "pSQE1SsGfSQ",
+      "YnzsnqsrqXs"
+    ]
+  }
 }

@@ -13,5 +13,125 @@
     "prompt engineering"
   ],
   "skill_candidate": true,
-  "updated_at": "2026-03-08T11:36:23.331981+00:00"
+  "updated_at": "2026-03-08T11:36:23.331981+00:00",
+  "entity_tags": [
+    "openclaw",
+    "specialized-agents",
+    "nano-banana-2",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "specialized-agents",
+    "nano-banana-2",
+    "telegram",
+    "workflow-automation",
+    "prompt-design",
+    "tool demo",
+    "strategy",
+    "business idea",
+    "prompt engineering"
+  ],
+  "topic_cluster_key": "openclaw__specialized-agents",
+  "related_video_ids": [
+    "99EoVMtEA2A",
+    "mXlMAkHhgYs",
+    "esuPIJeRotI",
+    "pSQE1SsGfSQ",
+    "obIeqXJH3d4"
+  ],
+  "related_videos": [
+    {
+      "videoId": "99EoVMtEA2A",
+      "title": "New FREE Google AI Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/99EoVMtEA2A/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "nano-banana-2",
+        "openclaw",
+        "strategy",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "mXlMAkHhgYs",
+      "title": "Gemini 3.1 Just Changed Web Design Forever! (FULL PROCESS)",
+      "channel": "Viktor Oddy",
+      "summary_path": "knowledge/youtube/mXlMAkHhgYs/summary.md",
+      "topic_cluster_key": "gemini__web-design",
+      "shared_tags": [
+        "nano-banana-2",
+        "prompt engineering",
+        "prompt-design",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "esuPIJeRotI",
+      "title": "This Openclaw Trick Makes Single Agents Obsolete",
+      "channel": "Openclaw Labs",
+      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
+      "topic_cluster_key": "openclaw__single-agents",
+      "shared_tags": [
+        "openclaw",
+        "prompt engineering",
+        "prompt-design",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "business idea",
+        "prompt engineering",
+        "prompt-design",
+        "strategy",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "nano-banana-2",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "99EoVMtEA2A",
+      "mXlMAkHhgYs",
+      "esuPIJeRotI",
+      "pSQE1SsGfSQ",
+      "obIeqXJH3d4"
+    ]
+  }
 }

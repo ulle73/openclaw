@@ -17,3 +17,4 @@
 | iBVMutY4Ot0 | NEW Perplexity Computer Updates are INSANE! | Julian Goldie SEO | 20260308 | tutorial, tool demo, feature breakdown, strategy, workflow, automation idea, business idea, prompt engineering | Yes | youtube/iBVMutY4Ot0/learned.md |
 | N0NceZbY2_4 | She Makes $3K/Day Selling Magnets | Chris Koerner on The Koerner Office Podcast | 20260308 | tool demo, strategy, business idea | Yes | youtube/N0NceZbY2_4/learned.md |
 | obIeqXJH3d4 | Nano Banana 2 + NoteBookLM is INSANE! 🤯 | Julian Goldie SEO | 20260308 | tool, workflow, business_idea, seo_distribution, agent_flow, automation, product_opportunity | Yes | youtube/obIeqXJH3d4/learned.md |
+| C4fTWiOGXpM | I replaced OpenClaw with AntiGravity... its WILD | Jack Roberts | 20260226 | tool, workflow, business_idea, agent_flow, automation, product_opportunity, api | Yes | youtube/C4fTWiOGXpM/learned.md |

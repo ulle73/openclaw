@@ -12,5 +12,113 @@
     "business idea"
   ],
   "skill_candidate": true,
-  "updated_at": "2026-03-08T11:36:20.113026+00:00"
+  "updated_at": "2026-03-08T11:36:20.113026+00:00",
+  "entity_tags": [
+    "openai-codex"
+  ],
+  "topic_tags": [
+    "openai-codex",
+    "workflow-automation",
+    "tool demo",
+    "automation idea",
+    "business idea"
+  ],
+  "topic_cluster_key": "openai-codex",
+  "related_video_ids": [
+    "xAw3IZgX7Tc",
+    "wX_neSx7-Ls",
+    "s2HalzQZ1MQ",
+    "pSQE1SsGfSQ",
+    "iBVMutY4Ot0"
+  ],
+  "related_videos": [
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 4
+    },
+    {
+      "videoId": "wX_neSx7-Ls",
+      "title": "How to Make Claude Code 100X Better in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/wX_neSx7-Ls/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 4
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 4
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 4
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 4
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "xAw3IZgX7Tc",
+      "wX_neSx7-Ls",
+      "s2HalzQZ1MQ",
+      "pSQE1SsGfSQ",
+      "iBVMutY4Ot0"
+    ]
+  }
 }

@@ -10,5 +10,60 @@
     "business idea"
   ],
   "skill_candidate": true,
-  "updated_at": "2026-03-08T11:36:16.947552+00:00"
+  "updated_at": "2026-03-08T11:36:16.947552+00:00",
+  "entity_tags": [
+    "the",
+    "chatgpt"
+  ],
+  "topic_tags": [
+    "the",
+    "marketing-explainers",
+    "tool demo",
+    "business idea"
+  ],
+  "topic_cluster_key": "the",
+  "related_video_ids": [
+    "pSQE1SsGfSQ",
+    "iBVMutY4Ot0"
+  ],
+  "related_videos": [
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "business idea",
+        "marketing-explainers",
+        "tool demo"
+      ],
+      "cluster_match": false,
+      "score": 3
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "business idea",
+        "marketing-explainers",
+        "tool demo"
+      ],
+      "cluster_match": false,
+      "score": 3
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "pSQE1SsGfSQ",
+      "iBVMutY4Ot0"
+    ]
+  }
 }

@@ -3,6 +3,8 @@ import argparse
 import json
 import re
 import subprocess
+import unicodedata
+from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import List
@@ -11,6 +13,7 @@ BASE_DIR = Path(__file__).resolve().parents[1]
 KNOWLEDGE_DIR = BASE_DIR / "knowledge" / "youtube"
 INDEX_FILE = BASE_DIR / "knowledge" / "INDEX.md"
 INDEX_JSONL_FILE = KNOWLEDGE_DIR / "INDEX.jsonl"
+TOPIC_INDEX_FILE = KNOWLEDGE_DIR / "TOPICS.json"
 
 CLASSIFICATION_OPTIONS = [
     "tutorial",
@@ -207,6 +210,130 @@ USE_CASE_GROUPS = {
     "snabba veckouppdateringar": ["weekly updates", "ai news", "roundup doc", "visually engaging update"],
 }
 
+ENTITY_ALIAS_GROUPS = {
+    "notebooklm": ["notebooklm", "notebook lm"],
+    "nano-banana-2": ["nano banana 2", "nano banana two", "nano banana"],
+    "openclaw": ["openclaw", "open claw"],
+    "antigravity": ["antigravity", "anti gravity"],
+    "n8n": ["n8n"],
+    "pinecone": ["pinecone"],
+    "chatgpt": ["chatgpt", "chat gpt"],
+    "claude": ["claude"],
+    "gemini": ["gemini"],
+    "mcp": ["model context protocol", "mcp"],
+    "oauth": ["oauth"],
+    "telegram": ["telegram"],
+    "skool": ["skool"],
+}
+
+TOPIC_ALIAS_GROUPS = {
+    "ai-video-generation": ["narrated ai video", "ai video", "video overview", "voiceover", "ai visuals"],
+    "content-repurposing": ["repurposing", "repurpose", "blog posts", "webinars", "pdf guides", "old content"],
+    "workflow-automation": ["workflow", "playbook", "step-by-step", "step by step", "automation", "system"],
+    "agent-automation": ["ai employee", "agent flow", "multi-agent", "multi agent", "assistant that manages"],
+    "knowledge-management": ["knowledge bank", "notebooklm", "remembers everything", "knowledge"],
+    "onboarding-training": ["onboarding", "training program", "students", "members", "internal training"],
+    "marketing-explainers": ["marketing", "landing page", "explainer video", "cold audiences"],
+    "seo-content": ["seo", "content strategy", "ranking", "backlink", "distribution"],
+    "prompt-design": ["focus prompt", "prompt", "prompts", "prompting"],
+    "proactive-assistant": ["24/7", "proactively reaches out", "reaches out when you need it"],
+}
+
+CATEGORY_TOPIC_TAGS = {
+    "tool": ["tooling"],
+    "workflow": ["workflow-automation"],
+    "business_idea": ["business-opportunity"],
+    "seo_distribution": ["seo-content"],
+    "agent_flow": ["agent-automation"],
+    "automation": ["workflow-automation"],
+    "app_idea": ["app-opportunity"],
+    "product_opportunity": ["product-opportunity"],
+    "mcp": ["mcp"],
+    "api": ["api-integration"],
+}
+
+GENERIC_TAGS = {
+    "ai",
+    "tool",
+    "tooling",
+    "video",
+    "youtube",
+    "workflow",
+    "automation",
+    "system",
+    "knowledge",
+    "guide",
+    "tutorial",
+    "update",
+    "google",
+    "business",
+    "content",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "skool",
+}
+
+ENTITY_PHRASE_STOPWORDS = {
+    "insane",
+    "wild",
+    "guide",
+    "video",
+    "videos",
+    "intro",
+    "conclusion",
+    "today",
+    "google",
+    "free",
+    "resources",
+    "new",
+    "update",
+    "updates",
+    "updated",
+    "just",
+    "changed",
+    "how",
+    "make",
+    "better",
+    "full",
+    "process",
+    "why",
+    "this",
+    "most",
+    "overlooked",
+    "can",
+    "start",
+    "she",
+    "makes",
+    "master",
+    "build",
+    "anything",
+    "day",
+    "business",
+    "anyone",
+    "click",
+    "forever",
+    "its",
+    "became",
+    "are",
+    "is",
+    "superior",
+    "tool",
+    "tools",
+}
+
+TAG_TEXT_SKIP_PREFIXES = (
+    "get ",
+    "join ",
+    "want to ",
+    "free ",
+    "all systems",
+    "my goofy",
+    "video tl",
+    "core software",
+    "what next",
+)
+
 
 def write_chunks(target: Path, lines: List[str], chunk_size: int = 10) -> None:
     out = ['# Chunks', '']
@@ -290,6 +417,335 @@ def collect_use_cases(lower_text: str) -> List[str]:
         if contains_any(lower_text, keywords):
             found.append(label)
     return found
+
+
+def slugify_tag(value: str) -> str:
+    normalized = unicodedata.normalize("NFKD", value or "")
+    ascii_value = normalized.encode("ascii", "ignore").decode("ascii")
+    ascii_value = ascii_value.lower().replace("&", " and ").replace("+", " plus ")
+    ascii_value = ascii_value.replace("'s", " ")
+    ascii_value = re.sub(r"[^a-z0-9]+", "-", ascii_value)
+    return re.sub(r"-{2,}", "-", ascii_value).strip("-")
+
+
+def collect_alias_tags(text: str, mapping: dict[str, list[str]]) -> List[str]:
+    lowered = text.lower()
+    tags: List[str] = []
+    for canonical, aliases in mapping.items():
+        if any(alias in lowered for alias in aliases):
+            tags.append(canonical)
+    return dedupe_keep_order(tags)
+
+
+def canonicalize_entity_phrase(phrase: str, uploader: str = "") -> str:
+    lowered = phrase.lower().replace("'s", " ")
+    for canonical, aliases in ENTITY_ALIAS_GROUPS.items():
+        if any(alias in lowered for alias in aliases):
+            return canonical
+    slug = slugify_tag(phrase)
+    uploader_slug = slugify_tag(uploader)
+    if not slug or slug == uploader_slug:
+        return ""
+    parts = [part for part in slug.split("-") if part]
+    if not parts:
+        return ""
+    specific_parts = [part for part in parts if part not in ENTITY_PHRASE_STOPWORDS and part not in GENERIC_TAGS]
+    if not specific_parts:
+        return ""
+    if all(part.isdigit() for part in specific_parts):
+        return ""
+    if len(parts) == 1:
+        if parts[0].isdigit():
+            return ""
+        if parts[0] in ENTITY_PHRASE_STOPWORDS or parts[0] in GENERIC_TAGS:
+            return ""
+        if len(parts[0]) < 4 and not any(char.isdigit() for char in parts[0]):
+            return ""
+        if not re.search(r"[a-z][A-Z]|[A-Z]{2,}", phrase) and not any(char.isdigit() for char in phrase):
+            return ""
+    if len(parts) > 1:
+        parts = specific_parts
+    if len(parts) > 4:
+        parts = parts[:4]
+    if slugify_tag("-".join(parts)) == uploader_slug:
+        return ""
+    return "-".join(parts)
+
+
+def extract_named_entity_tags(title: str, description: str, cleaned_text: str, uploader: str = "") -> List[str]:
+    snippets = "\n".join(
+        part for part in [title, description, cleaned_text[:2000] if cleaned_text else ""] if part
+    )
+    pattern = r"\b(?:[A-Z][A-Za-z0-9]+|[A-Z]{2,}|[A-Za-z]+[A-Z][A-Za-z0-9]*|\d+)(?:\s+(?:[A-Z][A-Za-z0-9]+|[A-Z]{2,}|\d+)){0,2}\b"
+    matches = re.findall(pattern, snippets)
+    tags: List[str] = []
+    for match in matches:
+        tag = canonicalize_entity_phrase(match, uploader=uploader)
+        if tag:
+            tags.append(tag)
+    return dedupe_keep_order(tags)
+
+
+def sanitize_tag_text(text: str) -> str:
+    filtered: List[str] = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        lower = stripped.lower()
+        if not stripped:
+            continue
+        if "http://" in lower or "https://" in lower or "www." in lower or ".com/" in lower or "bit.ly/" in lower:
+            continue
+        if stripped.startswith("---") or lower in {"tldr", "tl;dr"}:
+            continue
+        if re.match(r"^\d{2}:\d{2}", stripped):
+            continue
+        if any(prefix == lower or lower.startswith(prefix) for prefix in TAG_TEXT_SKIP_PREFIXES):
+            continue
+        if detect_ad_keyword(stripped):
+            continue
+        filtered.append(stripped)
+    return "\n".join(filtered)
+
+
+def build_topic_cluster_key(primary_entity_tags: List[str], topic_tags: List[str]) -> str:
+    cluster_parts = dedupe_keep_order(primary_entity_tags)
+    if not cluster_parts:
+        cluster_parts = [tag for tag in topic_tags if tag not in GENERIC_TAGS]
+    return "__".join(sorted(cluster_parts[:3]))
+
+
+def build_topic_metadata(cleaned_text: str, info: dict, summary_meta: dict) -> dict:
+    title = info.get("title", "")
+    description = sanitize_tag_text(info.get("description", ""))
+    cleaned_text = sanitize_tag_text(cleaned_text)
+    uploader = info.get("uploader") or info.get("channel") or ""
+    lowered = "\n".join(part for part in [title, description, cleaned_text] if part).lower()
+
+    title_entity_tags = dedupe_keep_order(
+        collect_alias_tags(title.lower(), ENTITY_ALIAS_GROUPS)
+        + extract_named_entity_tags(title, "", "", uploader=uploader)
+    )
+    entity_tags = dedupe_keep_order(
+        title_entity_tags
+        + collect_alias_tags(lowered, ENTITY_ALIAS_GROUPS)
+    )
+
+    topic_tags = list(entity_tags)
+    topic_tags.extend(collect_alias_tags(lowered, TOPIC_ALIAS_GROUPS))
+    for category in summary_meta.get("categories", []):
+        topic_tags.append(category.replace("_", "-"))
+        topic_tags.extend(CATEGORY_TOPIC_TAGS.get(category, []))
+    topic_tags = dedupe_keep_order(
+        [
+            tag
+            for tag in topic_tags
+            if tag and tag not in GENERIC_TAGS and tag not in {"high", "medium", "low"}
+        ]
+    )
+    primary_entity_tags = title_entity_tags or entity_tags[:2]
+    return {
+        "entity_tags": entity_tags[:8],
+        "topic_tags": topic_tags[:12],
+        "topic_cluster_key": build_topic_cluster_key(primary_entity_tags, topic_tags),
+    }
+
+
+def build_topic_record(video_id: str, info: dict, summary_meta: dict, topic_meta: dict) -> dict:
+    return {
+        "videoId": video_id,
+        "title": info.get("title", ""),
+        "channel": info.get("uploader") or info.get("channel") or "",
+        "published": to_iso_date(info.get("upload_date")),
+        "entity_tags": topic_meta.get("entity_tags", []),
+        "topic_tags": topic_meta.get("topic_tags", []),
+        "topic_cluster_key": topic_meta.get("topic_cluster_key", ""),
+        "paths": {
+            "summary": f"knowledge/youtube/{video_id}/summary.md",
+            "meta": f"knowledge/youtube/{video_id}/meta.json",
+        },
+        "categories": summary_meta.get("categories", []),
+    }
+
+
+def read_tag_source_text(video_dir: Path, fallback_text: str = "") -> str:
+    for name in ["transcript_clean.txt", "transcript_clean.md", "transcript.txt", "transcript.md"]:
+        path = video_dir / name
+        if not path.exists():
+            continue
+        text = path.read_text(encoding="utf-8")
+        if path.suffix == ".md":
+            text = re.sub(r"^# .*\n+", "", text, count=1)
+        text = text.strip()
+        if text:
+            return text[:16000]
+    return fallback_text or ""
+
+
+def load_library_topic_records(current_video_id: str | None = None) -> List[dict]:
+    records: List[dict] = []
+    if not KNOWLEDGE_DIR.exists():
+        return records
+    for child in KNOWLEDGE_DIR.iterdir():
+        if not child.is_dir():
+            continue
+        meta_path = child / "meta.json"
+        if not meta_path.exists():
+            continue
+        try:
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            continue
+        video_id = meta.get("id") or child.name
+        if not video_id or video_id == current_video_id:
+            continue
+        info = {
+            "id": video_id,
+            "title": meta.get("title", ""),
+            "description": meta.get("description", ""),
+            "uploader": meta.get("channel", ""),
+            "channel": meta.get("channel", ""),
+            "upload_date": meta.get("upload_date", ""),
+        }
+        summary_meta = {
+            "categories": meta.get("classifications", []),
+        }
+        topic_meta = {
+            "entity_tags": meta.get("entity_tags", []),
+            "topic_tags": meta.get("topic_tags", []),
+            "topic_cluster_key": meta.get("topic_cluster_key", ""),
+        }
+        if not topic_meta["topic_tags"]:
+            topic_meta = build_topic_metadata(read_tag_source_text(child, meta.get("description", "")), info, summary_meta)
+        record = build_topic_record(video_id, info, summary_meta, topic_meta)
+        records.append(record)
+    return records
+
+
+def score_related_record(current_record: dict, other_record: dict) -> dict | None:
+    current_entities = {tag for tag in current_record.get("entity_tags", []) if tag not in GENERIC_TAGS}
+    other_entities = {tag for tag in other_record.get("entity_tags", []) if tag not in GENERIC_TAGS}
+    current_topics = {tag for tag in current_record.get("topic_tags", []) if tag not in GENERIC_TAGS}
+    other_topics = {tag for tag in other_record.get("topic_tags", []) if tag not in GENERIC_TAGS}
+
+    shared_entities = sorted(current_entities & other_entities)
+    shared_topics = sorted((current_topics & other_topics) - set(shared_entities))
+    cluster_match = bool(
+        current_record.get("topic_cluster_key")
+        and current_record.get("topic_cluster_key") == other_record.get("topic_cluster_key")
+    )
+    score = len(shared_entities) * 4 + len(shared_topics)
+    if cluster_match:
+        score += 5
+    if score < 3 and not cluster_match:
+        return None
+    return {
+        "videoId": other_record.get("videoId", ""),
+        "title": other_record.get("title", ""),
+        "channel": other_record.get("channel", ""),
+        "summary_path": other_record.get("paths", {}).get("summary", ""),
+        "topic_cluster_key": other_record.get("topic_cluster_key", ""),
+        "shared_tags": dedupe_keep_order(shared_entities + shared_topics)[:6],
+        "cluster_match": cluster_match,
+        "score": score,
+    }
+
+
+def build_related_videos(current_record: dict, library_records: List[dict], limit: int = 5) -> List[dict]:
+    scored: List[dict] = []
+    for other_record in library_records:
+        related = score_related_record(current_record, other_record)
+        if related:
+            scored.append(related)
+    scored.sort(
+        key=lambda item: (
+            item.get("cluster_match", False),
+            item.get("score", 0),
+            item.get("videoId", ""),
+        ),
+        reverse=True,
+    )
+    return scored[:limit]
+
+
+def build_skill_recommendation(analysis: dict, topic_meta: dict) -> dict:
+    should_create = bool(analysis.get("skill_candidate", {}).get("should_create"))
+    related_videos = topic_meta.get("related_videos", [])
+    same_cluster = [item for item in related_videos if item.get("cluster_match")]
+    duplicate_risk = "high" if same_cluster else ("medium" if len(related_videos) >= 2 else "low")
+
+    if not should_create:
+        mode = "watch"
+        reason = "Temat ar inte tillrackligt starkt som skill just nu."
+    elif same_cluster:
+        mode = "merge_existing"
+        reason = "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill."
+    elif len(related_videos) >= 2:
+        mode = "synthesize_cluster"
+        reason = "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill."
+    else:
+        mode = "new"
+        reason = "Temat ser tillrackligt specifikt ut for en egen skill utan tydlig dupliceringsrisk."
+
+    return {
+        "should_create": should_create,
+        "mode": mode,
+        "duplicate_risk": duplicate_risk,
+        "reason": reason,
+        "related_video_ids": [item.get("videoId", "") for item in related_videos],
+    }
+
+
+def write_topic_index(records: List[dict], generated_at: str) -> None:
+    TOPIC_INDEX_FILE.parent.mkdir(parents=True, exist_ok=True)
+    clusters: dict[str, dict] = defaultdict(lambda: {"entity_tags": [], "topic_tags": [], "videos": []})
+    tags: dict[str, dict] = defaultdict(lambda: {"videoIds": [], "clusters": []})
+
+    for record in records:
+        video_id = record.get("videoId", "")
+        cluster_key = record.get("topic_cluster_key", "")
+        for tag in record.get("topic_tags", []):
+            tag_entry = tags[tag]
+            if video_id and video_id not in tag_entry["videoIds"]:
+                tag_entry["videoIds"].append(video_id)
+            if cluster_key and cluster_key not in tag_entry["clusters"]:
+                tag_entry["clusters"].append(cluster_key)
+        if not cluster_key:
+            continue
+        cluster = clusters[cluster_key]
+        cluster["entity_tags"] = dedupe_keep_order(cluster["entity_tags"] + record.get("entity_tags", []))
+        cluster["topic_tags"] = dedupe_keep_order(cluster["topic_tags"] + record.get("topic_tags", []))
+        cluster["videos"].append(
+            {
+                "videoId": video_id,
+                "title": record.get("title", ""),
+                "channel": record.get("channel", ""),
+                "summary": record.get("paths", {}).get("summary", ""),
+            }
+        )
+
+    payload = {
+        "updatedAt": generated_at,
+        "clusters": {},
+        "tags": {},
+    }
+    for cluster_key in sorted(clusters):
+        cluster = clusters[cluster_key]
+        cluster["videos"].sort(key=lambda item: item.get("videoId", ""))
+        payload["clusters"][cluster_key] = {
+            "entity_tags": cluster["entity_tags"],
+            "topic_tags": cluster["topic_tags"],
+            "videoIds": [video["videoId"] for video in cluster["videos"]],
+            "videos": cluster["videos"],
+            "count": len(cluster["videos"]),
+        }
+    for tag in sorted(tags):
+        entry = tags[tag]
+        payload["tags"][tag] = {
+            "videoIds": sorted(entry["videoIds"]),
+            "clusters": sorted(entry["clusters"]),
+            "count": len(entry["videoIds"]),
+        }
+    TOPIC_INDEX_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def yaml_quote(value: str) -> str:
@@ -520,9 +976,17 @@ def build_tldr(takeaways: List[str], normalized_sentences: List[str]) -> List[st
     return normalized_sentences[:3] if normalized_sentences else []
 
 
-def write_summary(target: Path, cleaned_text: str, info: dict, analysis: dict) -> dict:
+def write_summary(
+    target: Path,
+    cleaned_text: str,
+    info: dict,
+    analysis: dict,
+    summary_meta: dict | None = None,
+    topic_meta: dict | None = None,
+) -> dict:
     normalized_sentences = [normalize_sentence(s) for s in split_sentences(cleaned_text) if normalize_sentence(s)]
-    summary_meta = build_summary_metadata(cleaned_text, info, analysis)
+    summary_meta = summary_meta or build_summary_metadata(cleaned_text, info, analysis)
+    topic_meta = topic_meta or build_topic_metadata(cleaned_text, info, summary_meta)
     takeaways = build_takeaways(normalized_sentences, cleaned_text, info, analysis, summary_meta)
     tldr = build_tldr(takeaways, normalized_sentences) or ([normalize_sentence(cleaned_text)] if cleaned_text.strip() else [])
     usage_for_jonas = build_usage_for_jonas(summary_meta, takeaways)
@@ -539,6 +1003,10 @@ def write_summary(target: Path, cleaned_text: str, info: dict, analysis: dict) -
         f'channel: "{yaml_quote(info.get("uploader") or info.get("channel") or "")}"',
         f'published: "{to_iso_date(info.get("upload_date"))}"',
         "categories: [" + ", ".join(f'"{category}"' for category in summary_meta["categories"]) + "]",
+        "entity_tags: [" + ", ".join(f'"{tag}"' for tag in topic_meta.get("entity_tags", [])) + "]",
+        "topic_tags: [" + ", ".join(f'"{tag}"' for tag in topic_meta.get("topic_tags", [])) + "]",
+        f'topic_cluster_key: "{yaml_quote(topic_meta.get("topic_cluster_key", ""))}"',
+        "related_video_ids: [" + ", ".join(f'"{item.get("videoId", "")}"' for item in topic_meta.get("related_videos", [])) + "]",
         "",
         f'roi_label: "{roi_label}"',
         f'relevance_label: "{relevance_label}"',
@@ -711,7 +1179,7 @@ def ensure_analysis(analysis: dict, info: dict) -> dict:
     return base
 
 
-def build_learned(info: dict, analysis: dict) -> str:
+def build_learned(info: dict, analysis: dict, topic_meta: dict | None = None) -> str:
     sections = [f"# {info.get('title', 'Video')}\n"]
     sections.append(f"## Core Topic\n{analysis.get('core_topic')}\n")
     sections.append(f"## Core Idea\n{analysis.get('core_idea')}\n")
@@ -731,23 +1199,49 @@ def build_learned(info: dict, analysis: dict) -> str:
     related = analysis.get('related_concepts', [])
     if related:
         sections.append("## Related Concepts / Videos\n" + "\n".join(f"- {concept}" for concept in related) + "\n")
+    if topic_meta and topic_meta.get("topic_tags"):
+        sections.append("## Topic Tags\n" + "\n".join(f"- {tag}" for tag in topic_meta.get("topic_tags", [])) + "\n")
+    if topic_meta and topic_meta.get("related_videos"):
+        sections.append(
+            "## Similar Videos\n"
+            + "\n".join(
+                f"- {item.get('videoId')} | {item.get('title')} | shared: {', '.join(item.get('shared_tags', []))}"
+                for item in topic_meta.get("related_videos", [])
+            )
+            + "\n"
+        )
     classifications = analysis.get('classification') or []
     if classifications:
         sections.append("## Classification\n" + ", ".join(classifications) + "\n")
     return "\n".join(sections)
 
 
-def evaluate_skill(analysis: dict) -> str:
+def evaluate_skill(analysis: dict, topic_meta: dict | None = None) -> str:
     candidate = analysis.get('skill_candidate', {})
+    skill_recommendation = build_skill_recommendation(analysis, topic_meta or {})
     lines = ["# Skill Candidate"]
-    should = candidate.get('should_create')
+    should = skill_recommendation.get("should_create", candidate.get('should_create'))
     lines.append(f"- Should create: {'Yes' if should else 'No'}")
+    lines.append(f"- Suggested mode: {skill_recommendation.get('mode', 'watch')}")
+    lines.append(f"- Duplicate risk: {skill_recommendation.get('duplicate_risk', 'low')}")
+    if topic_meta and topic_meta.get("topic_cluster_key"):
+        lines.append(f"- Topic cluster key: {topic_meta.get('topic_cluster_key')}")
+    if skill_recommendation.get("reason"):
+        lines.append(f"- Recommendation: {skill_recommendation.get('reason')}")
     if reason := candidate.get('reason'):
         lines.append(f"- Reason: {reason}")
     if desc := candidate.get('skill_description'):
         lines.append(f"- Description: {desc}")
     if draft := candidate.get('draft_outline'):
         lines.append("- Draft:\n" + draft)
+    related_videos = (topic_meta or {}).get("related_videos", [])
+    if related_videos:
+        lines.append("- Existing related videos:")
+        for item in related_videos:
+            shared = ", ".join(item.get("shared_tags", []))
+            lines.append(
+                f"  - {item.get('videoId')} | {item.get('title')} | shared: {shared or 'n/a'} | cluster match: {'yes' if item.get('cluster_match') else 'no'}"
+            )
     lines.append("- Question:\n  Vill du att denna skill byggs nu?\n")
     return "\n".join(lines)
 
@@ -788,12 +1282,25 @@ def load_index_video_ids() -> set[str]:
     return ids
 
 
-def append_index_jsonl(info: dict, summary_meta: dict, discovered_at: str, ingested_at: str) -> None:
+def load_index_rows() -> List[dict]:
+    if not INDEX_JSONL_FILE.exists():
+        return []
+    rows: List[dict] = []
+    for line in INDEX_JSONL_FILE.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            rows.append(json.loads(line))
+        except json.JSONDecodeError:
+            continue
+    return rows
+
+
+def upsert_index_jsonl(info: dict, summary_meta: dict, topic_meta: dict, discovered_at: str, ingested_at: str) -> None:
     INDEX_JSONL_FILE.parent.mkdir(parents=True, exist_ok=True)
     video_id = info.get("id")
     if not video_id:
-        return
-    if video_id in load_index_video_ids():
         return
     row = {
         "videoId": video_id,
@@ -804,6 +1311,10 @@ def append_index_jsonl(info: dict, summary_meta: dict, discovered_at: str, inges
         "discoveredAt": discovered_at,
         "ingestedAt": ingested_at,
         "categories": summary_meta.get("categories", []),
+        "entity_tags": topic_meta.get("entity_tags", []),
+        "topic_tags": topic_meta.get("topic_tags", []),
+        "topic_cluster_key": topic_meta.get("topic_cluster_key", ""),
+        "related_video_ids": [item.get("videoId", "") for item in topic_meta.get("related_videos", [])],
         "roi_label": summary_meta.get("roi_label", "low"),
         "relevance_label": summary_meta.get("relevance_label", "low"),
         "paths": {
@@ -813,8 +1324,11 @@ def append_index_jsonl(info: dict, summary_meta: dict, discovered_at: str, inges
             "transcript": f"knowledge/youtube/{video_id}/transcript.md",
         },
     }
-    with INDEX_JSONL_FILE.open("a", encoding="utf-8") as handle:
-        handle.write(json.dumps(row, ensure_ascii=False) + "\n")
+    rows = [existing for existing in load_index_rows() if existing.get("videoId") != video_id]
+    rows.append(row)
+    with INDEX_JSONL_FILE.open("w", encoding="utf-8") as handle:
+        for existing in rows:
+            handle.write(json.dumps(existing, ensure_ascii=False) + "\n")
 
 
 def ingest(url: str):
@@ -852,14 +1366,19 @@ def ingest(url: str):
     analysis_input = cleaned_text if cleaned_text.strip() else clean_text
     analysis_raw = local_analysis(analysis_input, info)
     analysis = ensure_analysis(analysis_raw, info)
-    summary_meta = write_summary(target, cleaned_text, info, analysis)
-    (target / "learned.md").write_text(build_learned(info, analysis), encoding="utf-8")
-    (target / "skill_candidate.md").write_text(evaluate_skill(analysis), encoding="utf-8")
+    summary_meta = build_summary_metadata(cleaned_text, info, analysis)
+    topic_meta = build_topic_metadata(cleaned_text, info, summary_meta)
+    current_record = build_topic_record(vid, info, summary_meta, topic_meta)
+    topic_meta["related_videos"] = build_related_videos(current_record, load_library_topic_records(current_video_id=vid))
+    skill_recommendation = build_skill_recommendation(analysis, topic_meta)
+    summary_meta = write_summary(target, cleaned_text, info, analysis, summary_meta=summary_meta, topic_meta=topic_meta)
+    (target / "learned.md").write_text(build_learned(info, analysis, topic_meta=topic_meta), encoding="utf-8")
+    (target / "skill_candidate.md").write_text(evaluate_skill(analysis, topic_meta=topic_meta), encoding="utf-8")
     classification = summary_meta.get("categories") or analysis.get('classification') or []
     skill_flag = analysis.get('skill_candidate', {}).get('should_create', False)
     update_index(info, f"youtube/{vid}/learned.md", classification, bool(skill_flag))
     now_iso = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
-    append_index_jsonl(info, summary_meta, now_iso, now_iso)
+    upsert_index_jsonl(info, summary_meta, topic_meta, now_iso, now_iso)
     meta = {
         "id": info.get('id'),
         "title": info.get('title'),
@@ -871,9 +1390,19 @@ def ingest(url: str):
         "relevance_label": summary_meta.get("relevance_label"),
         "should": summary_meta.get("should"),
         "skill_candidate": bool(skill_flag),
+        "entity_tags": topic_meta.get("entity_tags", []),
+        "topic_tags": topic_meta.get("topic_tags", []),
+        "topic_cluster_key": topic_meta.get("topic_cluster_key", ""),
+        "related_video_ids": [item.get("videoId", "") for item in topic_meta.get("related_videos", [])],
+        "related_videos": topic_meta.get("related_videos", []),
+        "skill_recommendation": skill_recommendation,
         "updated_at": now_iso,
     }
     (target / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+    current_record["entity_tags"] = topic_meta.get("entity_tags", [])
+    current_record["topic_tags"] = topic_meta.get("topic_tags", [])
+    current_record["topic_cluster_key"] = topic_meta.get("topic_cluster_key", "")
+    write_topic_index(load_library_topic_records(current_video_id=vid) + [current_record], now_iso)
     print(f"Ingested {vid}")
 
 

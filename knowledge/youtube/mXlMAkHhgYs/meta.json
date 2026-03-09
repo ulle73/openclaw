@@ -11,5 +11,121 @@
     "prompt engineering"
   ],
   "skill_candidate": true,
-  "updated_at": "2026-03-08T15:52:00.394395+00:00"
+  "updated_at": "2026-03-08T15:52:00.394395+00:00",
+  "entity_tags": [
+    "gemini",
+    "web-design",
+    "nano-banana-2"
+  ],
+  "topic_tags": [
+    "web-design",
+    "nano-banana-2",
+    "workflow-automation",
+    "marketing-explainers",
+    "prompt-design",
+    "tool demo",
+    "feature breakdown",
+    "prompt engineering"
+  ],
+  "topic_cluster_key": "gemini__web-design",
+  "related_video_ids": [
+    "ISb0nrlNoKQ",
+    "obIeqXJH3d4",
+    "99EoVMtEA2A",
+    "pSQE1SsGfSQ",
+    "iBVMutY4Ot0"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "nano-banana-2",
+        "prompt engineering",
+        "prompt-design",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "nano-banana-2",
+        "marketing-explainers",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "99EoVMtEA2A",
+      "title": "New FREE Google AI Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/99EoVMtEA2A/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "nano-banana-2",
+        "feature breakdown",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "marketing-explainers",
+        "prompt engineering",
+        "prompt-design",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 5
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "feature breakdown",
+        "marketing-explainers",
+        "prompt-design",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 5
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "ISb0nrlNoKQ",
+      "obIeqXJH3d4",
+      "99EoVMtEA2A",
+      "pSQE1SsGfSQ",
+      "iBVMutY4Ot0"
+    ]
+  }
 }

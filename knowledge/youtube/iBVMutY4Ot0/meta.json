@@ -15,5 +15,132 @@
     "prompt engineering"
   ],
   "skill_candidate": true,
-  "updated_at": "2026-03-08T21:30:05.567314+00:00"
+  "updated_at": "2026-03-08T21:30:05.567314+00:00",
+  "entity_tags": [
+    "perplexity-computer",
+    "claude",
+    "gemini"
+  ],
+  "topic_tags": [
+    "perplexity-computer",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "tool demo",
+    "feature breakdown",
+    "strategy",
+    "automation idea",
+    "business idea"
+  ],
+  "topic_cluster_key": "perplexity-computer",
+  "related_video_ids": [
+    "pSQE1SsGfSQ",
+    "xAw3IZgX7Tc",
+    "DSKO9ZtbHFA",
+    "obIeqXJH3d4",
+    "IWKOcumdMUE"
+  ],
+  "related_videos": [
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content",
+        "tool demo"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "feature breakdown",
+        "prompt-design",
+        "strategy",
+        "tool demo"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "knowledge-management",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "IWKOcumdMUE",
+      "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/IWKOcumdMUE/summary.md",
+      "topic_cluster_key": "chatgpt",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "feature breakdown",
+        "strategy",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "pSQE1SsGfSQ",
+      "xAw3IZgX7Tc",
+      "DSKO9ZtbHFA",
+      "obIeqXJH3d4",
+      "IWKOcumdMUE"
+    ]
+  }
 }

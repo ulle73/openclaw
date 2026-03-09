@@ -1,5 +1,9 @@
 # Skill Candidate
 - Should create: Yes
+- Suggested mode: new
+- Duplicate risk: low
+- Topic cluster key: agent
+- Recommendation: Temat ser tillrackligt specifikt ut for en egen skill utan tydlig dupliceringsrisk.
 - Reason: Mentions agent which could justify a reusable automation skill
 - Description: Package the mentioned automation/playbook into a reusable agent or prompt
 - Draft:

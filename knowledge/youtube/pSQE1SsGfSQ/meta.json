@@ -14,5 +14,129 @@
     "prompt engineering"
   ],
   "skill_candidate": true,
-  "updated_at": "2026-03-08T13:30:05.250461+00:00"
+  "updated_at": "2026-03-08T13:30:05.250461+00:00",
+  "entity_tags": [
+    "devin-2"
+  ],
+  "topic_tags": [
+    "devin-2",
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "tool demo",
+    "strategy",
+    "automation idea",
+    "business idea",
+    "prompt engineering"
+  ],
+  "topic_cluster_key": "devin-2",
+  "related_video_ids": [
+    "iBVMutY4Ot0",
+    "xAw3IZgX7Tc",
+    "DSKO9ZtbHFA",
+    "wX_neSx7-Ls",
+    "s2HalzQZ1MQ"
+  ],
+  "related_videos": [
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "onboarding-training",
+        "prompt engineering",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "prompt engineering",
+        "prompt-design",
+        "strategy",
+        "tool demo"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "wX_neSx7-Ls",
+      "title": "How to Make Claude Code 100X Better in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/wX_neSx7-Ls/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "prompt engineering",
+        "strategy",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "automation idea",
+        "business idea",
+        "prompt engineering",
+        "prompt-design",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "iBVMutY4Ot0",
+      "xAw3IZgX7Tc",
+      "DSKO9ZtbHFA",
+      "wX_neSx7-Ls",
+      "s2HalzQZ1MQ"
+    ]
+  }
 }

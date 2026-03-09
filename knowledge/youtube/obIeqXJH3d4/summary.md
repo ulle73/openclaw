@@ -5,6 +5,10 @@ title: "Nano Banana 2 + NoteBookLM is INSANE! 🤯"
 channel: "Julian Goldie SEO"
 published: "2026-03-08"
 categories: ["tool", "workflow", "business_idea", "seo_distribution", "agent_flow", "automation", "product_opportunity"]
+entity_tags: ["notebooklm", "nano-banana-2", "gemini"]
+topic_tags: ["notebooklm", "nano-banana-2", "ai-video-generation", "content-repurposing", "workflow-automation", "knowledge-management", "onboarding-training", "marketing-explainers", "seo-content", "prompt-design", "business-idea", "business-opportunity"]
+topic_cluster_key: "nano-banana-2__notebooklm"
+related_video_ids: ["99EoVMtEA2A", "mXlMAkHhgYs", "iBVMutY4Ot0", "ISb0nrlNoKQ", "C4fTWiOGXpM"]
 
 roi_label: "high"
 relevance_label: "high"

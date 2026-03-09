@@ -12,5 +12,125 @@
     "automation idea"
   ],
   "skill_candidate": true,
-  "updated_at": "2026-03-08T12:12:56.912227+00:00"
+  "updated_at": "2026-03-08T12:12:56.912227+00:00",
+  "entity_tags": [
+    "notebooklm",
+    "nano-banana-2",
+    "openclaw",
+    "claude",
+    "gemini"
+  ],
+  "topic_tags": [
+    "notebooklm",
+    "nano-banana-2",
+    "openclaw",
+    "ai-video-generation",
+    "workflow-automation",
+    "seo-content",
+    "tool demo",
+    "feature breakdown",
+    "strategy",
+    "automation idea"
+  ],
+  "topic_cluster_key": "nano-banana-2__notebooklm",
+  "related_video_ids": [
+    "obIeqXJH3d4",
+    "ISb0nrlNoKQ",
+    "mXlMAkHhgYs",
+    "iBVMutY4Ot0",
+    "esuPIJeRotI"
+  ],
+  "related_videos": [
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "nano-banana-2",
+        "notebooklm",
+        "ai-video-generation",
+        "seo-content",
+        "workflow-automation"
+      ],
+      "cluster_match": true,
+      "score": 16
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "nano-banana-2",
+        "openclaw",
+        "strategy",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "mXlMAkHhgYs",
+      "title": "Gemini 3.1 Just Changed Web Design Forever! (FULL PROCESS)",
+      "channel": "Viktor Oddy",
+      "summary_path": "knowledge/youtube/mXlMAkHhgYs/summary.md",
+      "topic_cluster_key": "gemini__web-design",
+      "shared_tags": [
+        "nano-banana-2",
+        "feature breakdown",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "automation idea",
+        "feature breakdown",
+        "seo-content",
+        "strategy",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "esuPIJeRotI",
+      "title": "This Openclaw Trick Makes Single Agents Obsolete",
+      "channel": "Openclaw Labs",
+      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
+      "topic_cluster_key": "openclaw__single-agents",
+      "shared_tags": [
+        "openclaw",
+        "tool demo",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "obIeqXJH3d4",
+      "ISb0nrlNoKQ",
+      "mXlMAkHhgYs",
+      "iBVMutY4Ot0",
+      "esuPIJeRotI"
+    ]
+  }
 }

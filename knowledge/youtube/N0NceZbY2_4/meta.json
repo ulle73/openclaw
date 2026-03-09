@@ -10,5 +10,107 @@
     "business idea"
   ],
   "skill_candidate": true,
-  "updated_at": "2026-03-08T23:02:27.870244+00:00"
+  "updated_at": "2026-03-08T23:02:27.870244+00:00",
+  "entity_tags": [
+    "selling-magnets"
+  ],
+  "topic_tags": [
+    "selling-magnets",
+    "tool demo",
+    "strategy",
+    "business idea"
+  ],
+  "topic_cluster_key": "selling-magnets",
+  "related_video_ids": [
+    "wX_neSx7-Ls",
+    "pSQE1SsGfSQ",
+    "iBVMutY4Ot0",
+    "IWKOcumdMUE",
+    "ISb0nrlNoKQ"
+  ],
+  "related_videos": [
+    {
+      "videoId": "wX_neSx7-Ls",
+      "title": "How to Make Claude Code 100X Better in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/wX_neSx7-Ls/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "business idea",
+        "strategy",
+        "tool demo"
+      ],
+      "cluster_match": false,
+      "score": 3
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "business idea",
+        "strategy",
+        "tool demo"
+      ],
+      "cluster_match": false,
+      "score": 3
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "business idea",
+        "strategy",
+        "tool demo"
+      ],
+      "cluster_match": false,
+      "score": 3
+    },
+    {
+      "videoId": "IWKOcumdMUE",
+      "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/IWKOcumdMUE/summary.md",
+      "topic_cluster_key": "chatgpt",
+      "shared_tags": [
+        "business idea",
+        "strategy",
+        "tool demo"
+      ],
+      "cluster_match": false,
+      "score": 3
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "business idea",
+        "strategy",
+        "tool demo"
+      ],
+      "cluster_match": false,
+      "score": 3
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "wX_neSx7-Ls",
+      "pSQE1SsGfSQ",
+      "iBVMutY4Ot0",
+      "IWKOcumdMUE",
+      "ISb0nrlNoKQ"
+    ]
+  }
 }

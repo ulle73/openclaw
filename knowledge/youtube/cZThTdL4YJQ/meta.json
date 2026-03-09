@@ -8,5 +8,22 @@
     "strategy"
   ],
   "skill_candidate": true,
-  "updated_at": "2026-03-08T19:32:54.476097+00:00"
+  "updated_at": "2026-03-08T19:32:54.476097+00:00",
+  "entity_tags": [
+    "agent"
+  ],
+  "topic_tags": [
+    "agent",
+    "strategy"
+  ],
+  "topic_cluster_key": "agent",
+  "related_video_ids": [],
+  "related_videos": [],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "new",
+    "duplicate_risk": "low",
+    "reason": "Temat ser tillrackligt specifikt ut for en egen skill utan tydlig dupliceringsrisk.",
+    "related_video_ids": []
+  }
 }

@@ -1,0 +1,145 @@
+{
+  "id": "C4fTWiOGXpM",
+  "title": "I replaced OpenClaw with AntiGravity... its WILD",
+  "channel": "Jack Roberts",
+  "upload_date": "20260226",
+  "description": "📈 ALL Systems: https://www.skool.com/aiautomationsbyjack\n🎁 FREE Resources: https://bit.ly/40y9bfI\n🎙️ My Goofy pod: https://bit.ly/3Od4CV8\n\n--- Video TL;DR ---\nSo, I combined Open Claw and Google's AntiGravity to create an AI employee that genuinely works 24/7. I'm talking about an assistant that manages your tasks, remembers everything, creates documents, and proactively reaches out when you need it. And I'm showing you exactly how to build this yourself with 7 use cases I actually use every day.\n\n--- CORE Software ---\n📊 token costs: https://cost-optimizer-ten.vercel.app\n🚀 AntiGravity: https://antigravity.google/\n🌲 Pinecone: https://www.pinecone.io/\n🔥 n8n: https://n8n.partnerlinks.io/rkk4h07a86pv\n💬 ChatGPT: https://chatgpt.com/\n♊ Gemini: https://gemini.google.com/\n☁️ Claude: https://claude.ai/\n📝 NotebookLM: https://notebooklm.google.com/\n\n⌚️ Stamps:\n00:00 Intro\n02:56 Level 1\n10:35 Level 2\n15:14 Level 3\n21:44 Level 4\n24:23 Level 5\n29:31 Level 6\n31:45 Level 7\n34:12 Agent Costs Breakdown\n\n--- What Next? ---\nSo, if you want all the code and templates I showed here, they're waiting for you in the Skool community. And check out the full Gravity Claw build I did last week if you haven't yet — it's where this whole thing started.",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "updated_at": "2026-03-09T00:29:57Z",
+  "entity_tags": [
+    "openclaw",
+    "antigravity"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "antigravity",
+    "workflow-automation",
+    "agent-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "prompt-design",
+    "proactive-assistant",
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "product-opportunity"
+  ],
+  "topic_cluster_key": "antigravity__openclaw",
+  "related_video_ids": [
+    "esuPIJeRotI",
+    "-hYE5U6FGk8",
+    "obIeqXJH3d4",
+    "YnzsnqsrqXs",
+    "ISb0nrlNoKQ"
+  ],
+  "related_videos": [
+    {
+      "videoId": "esuPIJeRotI",
+      "title": "This Openclaw Trick Makes Single Agents Obsolete",
+      "channel": "Openclaw Labs",
+      "summary_path": "knowledge/youtube/esuPIJeRotI/summary.md",
+      "topic_cluster_key": "openclaw__single-agents",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "onboarding-training",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "-hYE5U6FGk8",
+      "title": "AntiGravity just became UNSTOPPABLE (GravityClaw)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/-hYE5U6FGk8/summary.md",
+      "topic_cluster_key": "antigravity__gravityclaw__unstoppable",
+      "shared_tags": [
+        "antigravity",
+        "agent-automation",
+        "agent-flow",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 7
+    },
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "onboarding-training",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "YnzsnqsrqXs",
+      "title": "OpenClaw + Star Office is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/YnzsnqsrqXs/summary.md",
+      "topic_cluster_key": "openclaw__star-office",
+      "shared_tags": [
+        "openclaw",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "openclaw",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 6
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "esuPIJeRotI",
+      "-hYE5U6FGk8",
+      "obIeqXJH3d4",
+      "YnzsnqsrqXs",
+      "ISb0nrlNoKQ"
+    ]
+  }
+}
