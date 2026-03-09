@@ -25,3 +25,4 @@
 UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f92f' in position 80: character maps to <undefined>
 2026-03-08T19:02:27+00:00Z | youtube_channel_cron | SUCCESS | [cron] Processed 1 new videos
 2026-03-08T23:02:30+00:00Z | youtube_channel_cron | SUCCESS | [cron] Processed 1 new videos
+2026-03-09T00:16:30Z | manual-youtube | SUCCESS | https://www.youtube.com/watch?v=obIeqXJH3d4 | Ingested obIeqXJH3d4

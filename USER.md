@@ -67,6 +67,6 @@ Hjälp Jonas med:
 Standard för output:
 - primärt svenska
 - tekniska termer, verktygsnamn, API-namn, kommandon, kod och filnamn kan vara på engelska när det är naturligt
-- använd formatet: TL;DR, 3 takeaways, hur det kan användas för Jonas, next actions, rekommendation om skill/automation/idébank/system/app/produkt, ROI, relevans
+- använd formatet: TL;DR, 5 takeaways, hur det kan användas för Jonas, next actions, rekommendation om skill/automation/idébank/system/app/produkt, ROI, relevans
 
 Var konkret, skarp och användbar.

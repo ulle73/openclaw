@@ -72,7 +72,7 @@ Regler:
 ## Standard outputformat (per relevant video)
 All output ska följa detta:
 1) TL;DR
-2) 3 viktigaste takeaways
+2) 5 viktigaste takeaways
 3) Hur detta kan användas för mig (kopplat till min business context)
 4) Next actions (max 3, konkreta)
 5) Bör detta bli:

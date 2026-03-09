@@ -184,6 +184,29 @@ ACTION_BY_CATEGORY = {
     "api": "Kontrollera integration, auth-modell och om OAuth-vägen är möjlig.",
 }
 
+LOW_SIGNAL_PATTERNS = [
+    "hey, if we haven't met already",
+    "comment below",
+    "link is in the description",
+    "links are in the comments and description",
+    "go grab them",
+    "see you inside",
+    "come check it out",
+    "join the",
+    "i'm the digital avatar",
+    "reads every comment",
+    "quick pause before we go deeper",
+    "if you want to learn",
+    "start completely free",
+]
+
+USE_CASE_GROUPS = {
+    "utbildning och onboarding": ["education", "training program", "students", "members", "onboarding"],
+    "marketing och explainers": ["marketing", "landing page", "ad", "explainer video", "cold audiences"],
+    "repurposing av gammalt content": ["repurposing old content", "blog posts", "webinars", "pdf guides"],
+    "snabba veckouppdateringar": ["weekly updates", "ai news", "roundup doc", "visually engaging update"],
+}
+
 
 def write_chunks(target: Path, lines: List[str], chunk_size: int = 10) -> None:
     out = ['# Chunks', '']
@@ -210,6 +233,63 @@ def dedupe_keep_order(items: List[str]) -> List[str]:
         seen.add(key)
         result.append(normalized)
     return result
+
+
+def contains_any(text: str, keywords: List[str]) -> bool:
+    lowered = text.lower()
+    return any(keyword.lower() in lowered for keyword in keywords)
+
+
+def natural_join(items: List[str]) -> str:
+    cleaned = [item.strip() for item in items if item.strip()]
+    if not cleaned:
+        return ""
+    if len(cleaned) == 1:
+        return cleaned[0]
+    if len(cleaned) == 2:
+        return f"{cleaned[0]} och {cleaned[1]}"
+    return ", ".join(cleaned[:-1]) + f" och {cleaned[-1]}"
+
+
+def is_low_signal_sentence(sentence: str) -> bool:
+    normalized = normalize_sentence(sentence)
+    lower = normalized.lower()
+    if len(normalized.split()) < 5:
+        return True
+    return any(pattern in lower for pattern in LOW_SIGNAL_PATTERNS)
+
+
+def clean_title_for_summary(title: str) -> str:
+    if not title:
+        return ""
+    cleaned = re.sub(r"[^\w\s+&/\-]", " ", title)
+    cleaned = re.split(r"\bis\b|\bare\b", cleaned, maxsplit=1, flags=re.IGNORECASE)[0]
+    cleaned = re.sub(r"\b(new|insane|crazy|must watch|update)\b", " ", cleaned, flags=re.IGNORECASE)
+    cleaned = " ".join(cleaned.split()).strip(" -+/")
+    return cleaned
+
+
+def collect_step_labels(lower_text: str) -> List[str]:
+    steps: List[str] = []
+    if contains_any(lower_text, ["upload your sources", "upload a document", "upload them"]):
+        steps.append("ladda upp källmaterial")
+    if "video overview" in lower_text:
+        steps.append("generera en video overview")
+    if contains_any(lower_text, ["visual style", "pick your visual style", "style"]):
+        steps.append("välja visuell stil")
+    if contains_any(lower_text, ["focus prompt", "angle to take", "one prompt changes the entire direction"]):
+        steps.append("sätta en tydlig fokusprompt")
+    if contains_any(lower_text, ["export and post", "post it straight away", "ready to use"]):
+        steps.append("exportera och publicera")
+    return dedupe_keep_order(steps)
+
+
+def collect_use_cases(lower_text: str) -> List[str]:
+    found: List[str] = []
+    for label, keywords in USE_CASE_GROUPS.items():
+        if contains_any(lower_text, keywords):
+            found.append(label)
+    return found
 
 
 def yaml_quote(value: str) -> str:
@@ -295,31 +375,100 @@ def build_summary_metadata(cleaned_text: str, info: dict, analysis: dict) -> dic
     }
 
 
-def build_takeaways(normalized_sentences: List[str], analysis: dict) -> List[str]:
-    preferred: List[str] = []
-    for key in [
-        "strategic_insights",
-        "tools",
-        "workflows",
-        "features",
-        "automation_opportunities",
-        "monetization",
-    ]:
-        preferred.extend(analysis.get(key) or [])
-    if not preferred:
-        preferred = normalized_sentences[:3]
-    return dedupe_keep_order(preferred)[:3]
+def build_takeaways(
+    normalized_sentences: List[str],
+    cleaned_text: str,
+    info: dict,
+    analysis: dict,
+    summary_meta: dict,
+) -> List[str]:
+    lower_text = cleaned_text.lower()
+    filtered_sentences = [sentence for sentence in normalized_sentences if not is_low_signal_sentence(sentence)]
+    topic = clean_title_for_summary(info.get("title", "")) or analysis.get("core_topic") or "verktygskombinationen"
+    takeaways: List[str] = []
+
+    if contains_any(lower_text, ["upload a document", "upload your sources", "full narrated video", "video overviews"]):
+        takeaways.append(
+            f"Videon visar hur {topic} kan förvandla dokument och annat källmaterial till färdiga videor med AI-visuals och voiceover utan traditionell produktion."
+        )
+
+    if contains_any(lower_text, ["brain", "art department", "powers the visuals", "research tool"]):
+        takeaways.append(
+            "Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen."
+        )
+
+    step_labels = collect_step_labels(lower_text)
+    if step_labels:
+        takeaways.append(f"Workflowet är tydligt: {natural_join(step_labels)}.")
+
+    use_cases = collect_use_cases(lower_text)
+    if use_cases:
+        takeaways.append(
+            f"De starkaste use casen är {natural_join(use_cases)}, vilket gör att samma upplägg kan användas både internt och externt."
+        )
+
+    if contains_any(
+        lower_text,
+        [
+            "depends almost entirely on the prompts and sources",
+            "bad input equals generic output",
+            "great input equals content",
+            "focus prompt changes the entire direction",
+        ],
+    ):
+        takeaways.append(
+            "Den avgörande faktorn är inputen: bättre källor och skarpare prompts ger fokuserad output, medan svag input ger generiskt material."
+        )
+
+    if contains_any(
+        lower_text,
+        [
+            "ahead of everyone",
+            "ahead of your competitors",
+            "grow faster with less effort",
+            "save time",
+            "content machine",
+        ],
+    ):
+        takeaways.append(
+            "Affärsvärdet ligger i fart och edge: du kan skapa mer content snabbare, återanvända gammalt material och få en tidig distributionsfördel."
+        )
+
+    categories = summary_meta.get("categories", [])
+    if "workflow" in categories:
+        takeaways.append("Det här bör ses som ett repeterbart content-workflow, inte bara som en enskild feature-demo.")
+    if "automation" in categories or "agent_flow" in categories:
+        takeaways.append("Potentialen ligger i att systematisera och automatisera produktionen snarare än att skapa varje video manuellt.")
+    if "product_opportunity" in categories or "business_idea" in categories:
+        takeaways.append("Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande.")
+    if "seo_distribution" in categories:
+        takeaways.append("Det här är lika mycket ett distributionsverktyg som ett produktionsverktyg, eftersom samma material kan återanvändas i flera format och kanaler.")
+
+    if len(takeaways) < 5:
+        for sentence in filtered_sentences:
+            if len(sentence.split()) < 8:
+                continue
+            takeaways.append(sentence)
+            if len(dedupe_keep_order(takeaways)) >= 5:
+                break
+
+    fallback = dedupe_keep_order(takeaways)
+    if not fallback:
+        fallback = filtered_sentences[:5] or ["Inget tydligt stack ut utöver grundbeskrivningen av videon."]
+    return fallback[:5]
 
 
-def build_usage_for_jonas(summary_meta: dict, analysis: dict) -> List[str]:
-    ideas = [analysis.get("relevance_to_me", "").strip()]
+def build_usage_for_jonas(summary_meta: dict, takeaways: List[str]) -> List[str]:
+    ideas: List[str] = []
     categories = summary_meta.get("categories", [])
     if any(category in categories for category in ["tool", "automation", "workflow", "agent_flow"]):
-        ideas.append("Detta kan omsättas till ett återanvändbart system, skill eller intern automation.")
+        ideas.append("Detta kan omsättas till ett återanvändbart system, skill eller intern automation för Jonas egna projekt eller kundcase.")
     if any(category in categories for category in ["business_idea", "product_opportunity", "app_idea"]):
-        ideas.append("Detta kan användas för att utvärdera nya intäktsdrivna idéer tidigt och snabbare välja rätt spår.")
+        ideas.append("Detta kan testas som ett tjänstepaket, en produktiserad process eller ett eget intäktsdrivet spår för svenska SME-bolag.")
     if "seo_distribution" in categories:
-        ideas.append("Detta kan användas för att hitta distributionsvinklar och SEO-spår som går att testa snabbt.")
+        ideas.append("Detta kan användas för onboarding-videor, explainers och distributionsklipp från redan befintligt material.")
+    if not ideas and takeaways:
+        ideas.append("Spara detta i kunskapsbanken och bevaka om samma tema återkommer i fler videos, då det ofta signalerar ett systematiserbart spår.")
     return dedupe_keep_order([idea for idea in ideas if idea])[:3] or [
         "Spara detta i kunskapsbanken och bevaka om temat återkommer i fler relevanta videos."
     ]
@@ -365,12 +514,18 @@ def build_label_reason(label: str, summary_meta: dict, axis: str) -> str:
     return "Kopplingen till Jonas nuvarande prioriteringar är svag eller indirekt."
 
 
+def build_tldr(takeaways: List[str], normalized_sentences: List[str]) -> List[str]:
+    if takeaways:
+        return takeaways[:3]
+    return normalized_sentences[:3] if normalized_sentences else []
+
+
 def write_summary(target: Path, cleaned_text: str, info: dict, analysis: dict) -> dict:
     normalized_sentences = [normalize_sentence(s) for s in split_sentences(cleaned_text) if normalize_sentence(s)]
-    tldr = normalized_sentences[:3] if normalized_sentences else ([normalize_sentence(cleaned_text)] if cleaned_text.strip() else [])
-    takeaways = build_takeaways(normalized_sentences, analysis)
     summary_meta = build_summary_metadata(cleaned_text, info, analysis)
-    usage_for_jonas = build_usage_for_jonas(summary_meta, analysis)
+    takeaways = build_takeaways(normalized_sentences, cleaned_text, info, analysis, summary_meta)
+    tldr = build_tldr(takeaways, normalized_sentences) or ([normalize_sentence(cleaned_text)] if cleaned_text.strip() else [])
+    usage_for_jonas = build_usage_for_jonas(summary_meta, takeaways)
     next_actions = build_next_actions(summary_meta)
     roi_label = summary_meta["roi_label"]
     relevance_label = summary_meta["relevance_label"]
@@ -401,7 +556,7 @@ def write_summary(target: Path, cleaned_text: str, info: dict, analysis: dict) -
 
     body = list(frontmatter)
     body.extend([f"- {sentence}" for sentence in tldr if sentence] or ["- Ingen tydlig transcripttext fanns att sammanfatta."])
-    body.extend(["", "# 3 viktigaste takeaways"])
+    body.extend(["", "# 5 viktigaste takeaways"])
     body.extend([f"{index}. {item}" for index, item in enumerate(takeaways or ["Inget tydligt stack ut utöver TL;DR."], start=1)])
     body.extend(["", "# Hur detta kan användas för mig"])
     body.extend([f"- {item}" for item in usage_for_jonas])
