@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T15:07:37Z",
+  "updatedAt": "2026-03-09T17:30:13Z",
   "clusters": {
     "000-hours__editing-tutorials__openclaw": {
       "entity_tags": [
@@ -252,7 +252,8 @@
         "antigravity",
         "gemini",
         "mcp",
-        "openclaw"
+        "openclaw",
+        "nano-banana-2"
       ],
       "topic_tags": [
         "antigravity",
@@ -270,11 +271,13 @@
         "marketing-explainers",
         "seo-content",
         "seo-distribution",
-        "openclaw"
+        "openclaw",
+        "nano-banana-2"
       ],
       "videoIds": [
         "DSKO9ZtbHFA",
         "Fv-FxekmfTQ",
+        "KAX0cWk1fJE",
         "fnLXErf-plM",
         "s2HalzQZ1MQ",
         "wX_neSx7-Ls"
@@ -291,6 +294,12 @@
           "title": "How to Make Claude Code 100X Better in 1 Click",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/Fv-FxekmfTQ/summary.md"
+        },
+        {
+          "videoId": "KAX0cWk1fJE",
+          "title": "Claude Code Just Became a Designer",
+          "channel": "Riley Brown",
+          "summary": "knowledge/youtube/KAX0cWk1fJE/summary.md"
         },
         {
           "videoId": "fnLXErf-plM",
@@ -311,7 +320,7 @@
           "summary": "knowledge/youtube/wX_neSx7-Ls/summary.md"
         }
       ],
-      "count": 5
+      "count": 6
     },
     "claude__scheduled-tasks": {
       "entity_tags": [
@@ -645,26 +654,36 @@
     },
     "openclaw": {
       "entity_tags": [
-        "openclaw"
+        "openclaw",
+        "telegram"
       ],
       "topic_tags": [
         "openclaw",
+        "telegram",
         "workflow-automation",
-        "knowledge-management",
         "onboarding-training",
-        "business-idea",
-        "business-opportunity",
-        "seo-distribution",
         "seo-content",
+        "proactive-assistant",
+        "seo-distribution",
         "agent-flow",
         "agent-automation",
         "api",
-        "api-integration"
+        "api-integration",
+        "knowledge-management",
+        "business-idea",
+        "business-opportunity"
       ],
       "videoIds": [
+        "JmFkYj3__xc",
         "KyXUJnYjjAo"
       ],
       "videos": [
+        {
+          "videoId": "JmFkYj3__xc",
+          "title": "New FREE OpenClaw Update!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/JmFkYj3__xc/summary.md"
+        },
         {
           "videoId": "KyXUJnYjjAo",
           "title": "New OpenClaw Discord Update!",
@@ -672,7 +691,7 @@
           "summary": "knowledge/youtube/KyXUJnYjjAo/summary.md"
         }
       ],
-      "count": 1
+      "count": 2
     },
     "openclaw__single-agents": {
       "entity_tags": [
@@ -936,6 +955,8 @@
         "Fv-FxekmfTQ",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
+        "JmFkYj3__xc",
+        "KAX0cWk1fJE",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "Oz-fXptuhdA",
@@ -980,7 +1001,7 @@
         "perplexity-computer",
         "the"
       ],
-      "count": 28
+      "count": 30
     },
     "agent-flow": {
       "videoIds": [
@@ -996,6 +1017,8 @@
         "Fv-FxekmfTQ",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
+        "JmFkYj3__xc",
+        "KAX0cWk1fJE",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "YnzsnqsrqXs",
@@ -1037,7 +1060,7 @@
         "saas",
         "the"
       ],
-      "count": 27
+      "count": 29
     },
     "ai-video-generation": {
       "videoIds": [
@@ -1073,6 +1096,8 @@
         "5dy2ahf_EKQ",
         "DSKO9ZtbHFA",
         "ISb0nrlNoKQ",
+        "JmFkYj3__xc",
+        "KAX0cWk1fJE",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "Yt6imPC1FhA",
@@ -1091,11 +1116,13 @@
         "openclaw",
         "openclaw__specialized-agents"
       ],
-      "count": 10
+      "count": 12
     },
     "api-integration": {
       "videoIds": [
         "DSKO9ZtbHFA",
+        "JmFkYj3__xc",
+        "KAX0cWk1fJE",
         "KyXUJnYjjAo",
         "Yt6imPC1FhA",
         "jyVRbD6fqic",
@@ -1107,7 +1134,7 @@
         "openai-codex",
         "openclaw"
       ],
-      "count": 5
+      "count": 7
     },
     "automate": {
       "videoIds": [
@@ -1137,6 +1164,7 @@
         "FXfAnWMxQao",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
+        "KAX0cWk1fJE",
         "KyXUJnYjjAo",
         "N0NceZbY2_4",
         "Wxf9oqxODU0",
@@ -1172,7 +1200,7 @@
         "selling-magnets",
         "the"
       ],
-      "count": 21
+      "count": 22
     },
     "business-opportunity": {
       "videoIds": [
@@ -1184,6 +1212,7 @@
         "FXfAnWMxQao",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
+        "KAX0cWk1fJE",
         "KyXUJnYjjAo",
         "N0NceZbY2_4",
         "YnzsnqsrqXs",
@@ -1217,7 +1246,7 @@
         "selling-magnets",
         "the"
       ],
-      "count": 20
+      "count": 21
     },
     "chinese": {
       "videoIds": [
@@ -1307,6 +1336,7 @@
     "marketing-explainers": {
       "videoIds": [
         "Fv-FxekmfTQ",
+        "KAX0cWk1fJE",
         "KeAy_Va2Wrc",
         "ZgnQb40aiTU",
         "esuPIJeRotI",
@@ -1328,12 +1358,13 @@
         "perplexity-computer",
         "the"
       ],
-      "count": 10
+      "count": 11
     },
     "mcp": {
       "videoIds": [
         "9T1yWEq5kP0",
         "DSKO9ZtbHFA",
+        "KAX0cWk1fJE",
         "Oz-fXptuhdA",
         "Wxf9oqxODU0",
         "s2HalzQZ1MQ"
@@ -1344,7 +1375,7 @@
         "claude__skills-2__unstoppable",
         "saas"
       ],
-      "count": 5
+      "count": 6
     },
     "model": {
       "videoIds": [
@@ -1361,6 +1392,7 @@
       "videoIds": [
         "99EoVMtEA2A",
         "ISb0nrlNoKQ",
+        "KAX0cWk1fJE",
         "Oz-fXptuhdA",
         "Wxf9oqxODU0",
         "mXlMAkHhgYs",
@@ -1368,12 +1400,13 @@
       ],
       "clusters": [
         "5-hours__automate__openclaw",
+        "claude",
         "claude__skills-2__unstoppable",
         "gemini__web-design",
         "nano-banana-2__notebooklm",
         "openclaw__specialized-agents"
       ],
-      "count": 6
+      "count": 7
     },
     "notebooklm": {
       "videoIds": [
@@ -1396,6 +1429,7 @@
         "9T1yWEq5kP0",
         "C4fTWiOGXpM",
         "Fv-FxekmfTQ",
+        "JmFkYj3__xc",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "Oz-fXptuhdA",
@@ -1427,7 +1461,7 @@
         "perplexity-computer",
         "saas"
       ],
-      "count": 17
+      "count": 18
     },
     "openai-codex": {
       "videoIds": [
@@ -1447,6 +1481,8 @@
         "C4fTWiOGXpM",
         "Fv-FxekmfTQ",
         "ISb0nrlNoKQ",
+        "JmFkYj3__xc",
+        "KAX0cWk1fJE",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "Oz-fXptuhdA",
@@ -1469,7 +1505,7 @@
         "openclaw__star-office",
         "saas"
       ],
-      "count": 13
+      "count": 15
     },
     "perplexity-computer": {
       "videoIds": [
@@ -1483,13 +1519,15 @@
     "proactive-assistant": {
       "videoIds": [
         "9T1yWEq5kP0",
-        "C4fTWiOGXpM"
+        "C4fTWiOGXpM",
+        "JmFkYj3__xc"
       ],
       "clusters": [
         "antigravity__openclaw",
+        "openclaw",
         "saas"
       ],
-      "count": 2
+      "count": 3
     },
     "product-opportunity": {
       "videoIds": [
@@ -1531,6 +1569,7 @@
         "DSKO9ZtbHFA",
         "Fv-FxekmfTQ",
         "ISb0nrlNoKQ",
+        "KAX0cWk1fJE",
         "KeAy_Va2Wrc",
         "Wxf9oqxODU0",
         "Yt6imPC1FhA",
@@ -1558,7 +1597,7 @@
         "openclaw__specialized-agents",
         "perplexity-computer"
       ],
-      "count": 16
+      "count": 17
     },
     "saas": {
       "videoIds": [
@@ -1596,6 +1635,7 @@
         "FXfAnWMxQao",
         "Fv-FxekmfTQ",
         "IWKOcumdMUE",
+        "JmFkYj3__xc",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "Wxf9oqxODU0",
@@ -1630,7 +1670,7 @@
         "perplexity-computer",
         "saas"
       ],
-      "count": 21
+      "count": 22
     },
     "seo-distribution": {
       "videoIds": [
@@ -1641,6 +1681,7 @@
         "FXfAnWMxQao",
         "Fv-FxekmfTQ",
         "IWKOcumdMUE",
+        "JmFkYj3__xc",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "YnzsnqsrqXs",
@@ -1672,7 +1713,7 @@
         "perplexity-computer",
         "saas"
       ],
-      "count": 19
+      "count": 20
     },
     "single-agents": {
       "videoIds": [
@@ -1714,14 +1755,16 @@
       "videoIds": [
         "5dy2ahf_EKQ",
         "ISb0nrlNoKQ",
+        "JmFkYj3__xc",
         "Oz-fXptuhdA"
       ],
       "clusters": [
         "5-hours__automate__openclaw",
         "gemini__gpt-5__openclaw",
+        "openclaw",
         "openclaw__specialized-agents"
       ],
-      "count": 3
+      "count": 4
     },
     "the": {
       "videoIds": [
@@ -1768,6 +1811,8 @@
         "Fv-FxekmfTQ",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
+        "JmFkYj3__xc",
+        "KAX0cWk1fJE",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "Oz-fXptuhdA",
@@ -1810,7 +1855,7 @@
         "perplexity-computer",
         "saas"
       ],
-      "count": 28
+      "count": 30
     }
   }
 }

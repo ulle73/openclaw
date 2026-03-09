@@ -49,3 +49,5 @@
 | KeAy_Va2Wrc | GPT 5.4 + OpenClaw is INSANE! | Julian Goldie SEO | 20260309 | tool, workflow, seo_distribution, agent_flow, automation, product_opportunity, api | Yes | youtube/KeAy_Va2Wrc/learned.md |
 | Fv-FxekmfTQ | How to Make Claude Code 100X Better in 1 Click | Julian Goldie SEO | 20260309 | tool, workflow, seo_distribution, agent_flow, automation, product_opportunity | Yes | youtube/Fv-FxekmfTQ/learned.md |
 | KyXUJnYjjAo | New OpenClaw Discord Update! | Julian Goldie SEO | 20260309 | tool, workflow, business_idea, seo_distribution, agent_flow, automation, api | Yes | youtube/KyXUJnYjjAo/learned.md |
+| JmFkYj3__xc | New FREE OpenClaw Update! | Julian Goldie SEO | 20260309 | tool, workflow, seo_distribution, agent_flow, automation, api | Yes | youtube/JmFkYj3__xc/learned.md |
+| KAX0cWk1fJE | Claude Code Just Became a Designer | Riley Brown | 20260309 | tool, workflow, business_idea, agent_flow, mcp, api | Yes | youtube/KAX0cWk1fJE/learned.md |

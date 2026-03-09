@@ -1,0 +1,2664 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:02.149 align:start position:0%
+ 
+Today,<00:00:00.480><c> we're</c><00:00:00.640><c> going</c><00:00:00.719><c> to</c><00:00:00.880><c> use</c><00:00:01.120><c> Claude</c><00:00:01.520><c> Code</c><00:00:01.839><c> to</c>
+
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+Today, we're going to use Claude Code to
+ 
+
+00:00:02.159 --> 00:00:05.670 align:start position:0%
+Today, we're going to use Claude Code to
+design<00:00:02.560><c> our</c><00:00:02.960><c> personal</c><00:00:03.439><c> site</c><00:00:03.919><c> on</c><00:00:04.319><c> Figma.</c><00:00:05.359><c> Wait,</c>
+
+00:00:05.670 --> 00:00:05.680 align:start position:0%
+design our personal site on Figma. Wait,
+ 
+
+00:00:05.680 --> 00:00:07.590 align:start position:0%
+design our personal site on Figma. Wait,
+no,<00:00:06.240><c> not</c><00:00:06.480><c> Figma.</c><00:00:07.040><c> We're</c><00:00:07.200><c> actually</c><00:00:07.440><c> going</c><00:00:07.520><c> to</c>
+
+00:00:07.590 --> 00:00:07.600 align:start position:0%
+no, not Figma. We're actually going to
+ 
+
+00:00:07.600 --> 00:00:09.589 align:start position:0%
+no, not Figma. We're actually going to
+be<00:00:07.759><c> using</c><00:00:08.000><c> a</c><00:00:08.320><c> different</c><00:00:08.559><c> tool,</c><00:00:09.040><c> one</c><00:00:09.280><c> that</c><00:00:09.440><c> is</c>
+
+00:00:09.589 --> 00:00:09.599 align:start position:0%
+be using a different tool, one that is
+ 
+
+00:00:09.599 --> 00:00:12.470 align:start position:0%
+be using a different tool, one that is
+built<00:00:10.160><c> specifically</c><00:00:10.960><c> for</c><00:00:11.360><c> AI</c><00:00:11.759><c> agents,</c><00:00:12.240><c> and</c>
+
+00:00:12.470 --> 00:00:12.480 align:start position:0%
+built specifically for AI agents, and
+ 
+
+00:00:12.480 --> 00:00:14.470 align:start position:0%
+built specifically for AI agents, and
+it's<00:00:12.639><c> called</c><00:00:12.960><c> Paper.</c><00:00:13.519><c> And</c><00:00:13.759><c> many</c><00:00:14.080><c> designers</c>
+
+00:00:14.470 --> 00:00:14.480 align:start position:0%
+it's called Paper. And many designers
+ 
+
+00:00:14.480 --> 00:00:15.910 align:start position:0%
+it's called Paper. And many designers
+are<00:00:14.719><c> telling</c><00:00:14.880><c> me</c><00:00:15.040><c> that</c><00:00:15.280><c> they're</c><00:00:15.519><c> switching</c>
+
+00:00:15.910 --> 00:00:15.920 align:start position:0%
+are telling me that they're switching
+ 
+
+00:00:15.920 --> 00:00:18.150 align:start position:0%
+are telling me that they're switching
+from<00:00:16.160><c> Figma</c><00:00:16.640><c> to</c><00:00:16.880><c> Paper</c><00:00:17.279><c> because</c><00:00:17.520><c> it's</c><00:00:17.840><c> easier</c>
+
+00:00:18.150 --> 00:00:18.160 align:start position:0%
+from Figma to Paper because it's easier
+ 
+
+00:00:18.160 --> 00:00:20.790 align:start position:0%
+from Figma to Paper because it's easier
+to<00:00:18.400><c> use</c><00:00:18.800><c> with</c><00:00:18.960><c> AI</c><00:00:19.359><c> agents</c><00:00:19.760><c> like</c><00:00:20.080><c> Claude</c><00:00:20.480><c> Code</c>
+
+00:00:20.790 --> 00:00:20.800 align:start position:0%
+to use with AI agents like Claude Code
+ 
+
+00:00:20.800 --> 00:00:22.630 align:start position:0%
+to use with AI agents like Claude Code
+and<00:00:21.039><c> OpenClaw.</c><00:00:21.760><c> So,</c><00:00:21.920><c> in</c><00:00:22.080><c> this</c><00:00:22.240><c> video,</c><00:00:22.480><c> we're</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+and OpenClaw. So, in this video, we're
+ 
+
+00:00:22.640 --> 00:00:24.070 align:start position:0%
+and OpenClaw. So, in this video, we're
+going<00:00:22.720><c> to</c><00:00:22.800><c> download</c><00:00:23.119><c> Paper.</c><00:00:23.680><c> Then,</c><00:00:23.920><c> we're</c>
+
+00:00:24.070 --> 00:00:24.080 align:start position:0%
+going to download Paper. Then, we're
+ 
+
+00:00:24.080 --> 00:00:26.470 align:start position:0%
+going to download Paper. Then, we're
+going<00:00:24.160><c> to</c><00:00:24.320><c> connect</c><00:00:24.880><c> Paper</c><00:00:25.199><c> to</c><00:00:25.439><c> Claude</c><00:00:25.920><c> Code.</c>
+
+00:00:26.470 --> 00:00:26.480 align:start position:0%
+going to connect Paper to Claude Code.
+ 
+
+00:00:26.480 --> 00:00:28.310 align:start position:0%
+going to connect Paper to Claude Code.
+Then<00:00:26.720><c> we're</c><00:00:26.880><c> going</c><00:00:26.960><c> to</c><00:00:27.039><c> use</c><00:00:27.359><c> Claude</c><00:00:27.760><c> Code</c><00:00:28.080><c> to</c>
+
+00:00:28.310 --> 00:00:28.320 align:start position:0%
+Then we're going to use Claude Code to
+ 
+
+00:00:28.320 --> 00:00:30.470 align:start position:0%
+Then we're going to use Claude Code to
+design<00:00:28.720><c> our</c><00:00:28.960><c> site.</c><00:00:29.760><c> Then</c><00:00:30.000><c> we're</c><00:00:30.160><c> going</c><00:00:30.240><c> to</c>
+
+00:00:30.470 --> 00:00:30.480 align:start position:0%
+design our site. Then we're going to
+ 
+
+00:00:30.480 --> 00:00:33.670 align:start position:0%
+design our site. Then we're going to
+turn<00:00:30.800><c> that</c><00:00:31.119><c> site</c><00:00:31.519><c> into</c><00:00:31.840><c> an</c><00:00:32.079><c> actual</c><00:00:32.880><c> web</c><00:00:33.200><c> page</c>
+
+00:00:33.670 --> 00:00:33.680 align:start position:0%
+turn that site into an actual web page
+ 
+
+00:00:33.680 --> 00:00:35.910 align:start position:0%
+turn that site into an actual web page
+that<00:00:33.920><c> I</c><00:00:34.160><c> will</c><00:00:34.399><c> use</c><00:00:34.559><c> and</c><00:00:34.880><c> put</c><00:00:35.040><c> on</c><00:00:35.280><c> the</c><00:00:35.440><c> internet.</c>
+
+00:00:35.910 --> 00:00:35.920 align:start position:0%
+that I will use and put on the internet.
+ 
+
+00:00:35.920 --> 00:00:37.910 align:start position:0%
+that I will use and put on the internet.
+And<00:00:36.079><c> so</c><00:00:36.399><c> this</c><00:00:36.640><c> channel</c><00:00:36.960><c> is</c><00:00:37.200><c> all</c><00:00:37.360><c> about</c><00:00:37.600><c> using</c>
+
+00:00:37.910 --> 00:00:37.920 align:start position:0%
+And so this channel is all about using
+ 
+
+00:00:37.920 --> 00:00:40.069 align:start position:0%
+And so this channel is all about using
+AI<00:00:38.320><c> agents</c><00:00:38.719><c> to</c><00:00:39.040><c> run</c><00:00:39.200><c> your</c><00:00:39.440><c> business</c>
+
+00:00:40.069 --> 00:00:40.079 align:start position:0%
+AI agents to run your business
+ 
+
+00:00:40.079 --> 00:00:41.750 align:start position:0%
+AI agents to run your business
+effectively.<00:00:40.800><c> And</c><00:00:40.960><c> if</c><00:00:41.120><c> you</c><00:00:41.200><c> like</c><00:00:41.360><c> these</c><00:00:41.600><c> types</c>
+
+00:00:41.750 --> 00:00:41.760 align:start position:0%
+effectively. And if you like these types
+ 
+
+00:00:41.760 --> 00:00:43.350 align:start position:0%
+effectively. And if you like these types
+of<00:00:41.920><c> videos,</c><00:00:42.239><c> I</c><00:00:42.399><c> make</c><00:00:42.559><c> them</c><00:00:42.800><c> multiple</c><00:00:43.200><c> times</c>
+
+00:00:43.350 --> 00:00:43.360 align:start position:0%
+of videos, I make them multiple times
+ 
+
+00:00:43.360 --> 00:00:45.750 align:start position:0%
+of videos, I make them multiple times
+per<00:00:43.680><c> week.</c><00:00:44.079><c> So</c><00:00:44.320><c> consider</c><00:00:44.719><c> subscribing.</c><00:00:45.440><c> Let's</c>
+
+00:00:45.750 --> 00:00:45.760 align:start position:0%
+per week. So consider subscribing. Let's
+ 
+
+00:00:45.760 --> 00:00:47.270 align:start position:0%
+per week. So consider subscribing. Let's
+dive<00:00:45.920><c> into</c><00:00:46.079><c> the</c><00:00:46.239><c> video.</c><00:00:46.559><c> Okay,</c><00:00:46.800><c> so</c><00:00:46.960><c> in</c><00:00:47.200><c> order</c>
+
+00:00:47.270 --> 00:00:47.280 align:start position:0%
+dive into the video. Okay, so in order
+ 
+
+00:00:47.280 --> 00:00:48.869 align:start position:0%
+dive into the video. Okay, so in order
+to<00:00:47.520><c> do</c><00:00:47.680><c> this</c><00:00:47.840><c> workflow,</c><00:00:48.399><c> we're</c><00:00:48.559><c> going</c><00:00:48.640><c> to</c><00:00:48.719><c> need</c>
+
+00:00:48.869 --> 00:00:48.879 align:start position:0%
+to do this workflow, we're going to need
+ 
+
+00:00:48.879 --> 00:00:50.630 align:start position:0%
+to do this workflow, we're going to need
+two<00:00:49.120><c> tools.</c><00:00:49.520><c> We're</c><00:00:49.680><c> going</c><00:00:49.760><c> to</c><00:00:49.920><c> need</c><00:00:50.239><c> Claude</c>
+
+00:00:50.630 --> 00:00:50.640 align:start position:0%
+two tools. We're going to need Claude
+ 
+
+00:00:50.640 --> 00:00:53.590 align:start position:0%
+two tools. We're going to need Claude
+Code<00:00:51.200><c> and</c><00:00:51.440><c> we</c><00:00:51.680><c> are</c><00:00:51.920><c> also</c><00:00:52.399><c> going</c><00:00:52.719><c> to</c><00:00:52.960><c> need</c>
+
+00:00:53.590 --> 00:00:53.600 align:start position:0%
+Code and we are also going to need
+ 
+
+00:00:53.600 --> 00:00:55.590 align:start position:0%
+Code and we are also going to need
+paper.<00:00:54.079><c> This</c><00:00:54.399><c> can</c><00:00:54.559><c> be</c><00:00:54.719><c> found</c><00:00:55.039><c> on</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+paper. This can be found on
+ 
+
+00:00:55.600 --> 00:00:58.709 align:start position:0%
+paper. This can be found on
+paper.design.<00:00:56.960><c> Go</c><00:00:57.120><c> to</c><00:00:57.360><c> paper.design.</c><00:00:58.559><c> We're</c>
+
+00:00:58.709 --> 00:00:58.719 align:start position:0%
+paper.design. Go to paper.design. We're
+ 
+
+00:00:58.719 --> 00:01:00.310 align:start position:0%
+paper.design. Go to paper.design. We're
+going<00:00:58.800><c> to</c><00:00:58.960><c> download</c><00:00:59.359><c> paper.</c><00:00:59.920><c> This</c><00:01:00.160><c> will</c>
+
+00:01:00.310 --> 00:01:00.320 align:start position:0%
+going to download paper. This will
+ 
+
+00:01:00.320 --> 00:01:02.229 align:start position:0%
+going to download paper. This will
+trigger<00:01:00.559><c> a</c><00:01:00.800><c> download.</c><00:01:01.440><c> Select</c><00:01:01.760><c> this</c><00:01:02.000><c> right</c>
+
+00:01:02.229 --> 00:01:02.239 align:start position:0%
+trigger a download. Select this right
+ 
+
+00:01:02.239 --> 00:01:04.229 align:start position:0%
+trigger a download. Select this right
+here.<00:01:02.559><c> We're</c><00:01:02.800><c> going</c><00:01:02.879><c> to</c><00:01:02.960><c> drag</c><00:01:03.440><c> paper</c><00:01:03.760><c> into</c><00:01:04.000><c> the</c>
+
+00:01:04.229 --> 00:01:04.239 align:start position:0%
+here. We're going to drag paper into the
+ 
+
+00:01:04.239 --> 00:01:06.149 align:start position:0%
+here. We're going to drag paper into the
+applications.<00:01:05.280><c> Right.</c><00:01:05.519><c> We're</c><00:01:05.760><c> going</c><00:01:05.840><c> to</c><00:01:05.920><c> type</c>
+
+00:01:06.149 --> 00:01:06.159 align:start position:0%
+applications. Right. We're going to type
+ 
+
+00:01:06.159 --> 00:01:10.310 align:start position:0%
+applications. Right. We're going to type
+in<00:01:06.720><c> paper</c><00:01:08.080><c> open.</c><00:01:08.880><c> Now,</c><00:01:09.119><c> we</c><00:01:09.360><c> have</c><00:01:09.600><c> paper</c><00:01:10.000><c> open</c>
+
+00:01:10.310 --> 00:01:10.320 align:start position:0%
+in paper open. Now, we have paper open
+ 
+
+00:01:10.320 --> 00:01:12.710 align:start position:0%
+in paper open. Now, we have paper open
+on<00:01:10.560><c> our</c><00:01:10.799><c> desktop.</c><00:01:11.520><c> And</c><00:01:11.760><c> when</c><00:01:12.000><c> you</c><00:01:12.320><c> first</c><00:01:12.560><c> come</c>
+
+00:01:12.710 --> 00:01:12.720 align:start position:0%
+on our desktop. And when you first come
+ 
+
+00:01:12.720 --> 00:01:14.149 align:start position:0%
+on our desktop. And when you first come
+to<00:01:12.880><c> paper,</c><00:01:13.280><c> you're</c><00:01:13.439><c> going</c><00:01:13.520><c> to</c><00:01:13.600><c> be</c><00:01:13.680><c> met</c><00:01:13.920><c> with</c>
+
+00:01:14.149 --> 00:01:14.159 align:start position:0%
+to paper, you're going to be met with
+ 
+
+00:01:14.159 --> 00:01:15.910 align:start position:0%
+to paper, you're going to be met with
+this.<00:01:14.400><c> This</c><00:01:14.560><c> will</c><00:01:14.720><c> look</c><00:01:14.880><c> a</c><00:01:15.040><c> lot</c><00:01:15.119><c> like</c><00:01:15.360><c> Figma</c><00:01:15.760><c> if</c>
+
+00:01:15.910 --> 00:01:15.920 align:start position:0%
+this. This will look a lot like Figma if
+ 
+
+00:01:15.920 --> 00:01:17.670 align:start position:0%
+this. This will look a lot like Figma if
+you're<00:01:16.000><c> used</c><00:01:16.080><c> to</c><00:01:16.240><c> Figma.</c><00:01:16.799><c> And</c><00:01:17.040><c> so,</c><00:01:17.280><c> in</c><00:01:17.520><c> order</c>
+
+00:01:17.670 --> 00:01:17.680 align:start position:0%
+you're used to Figma. And so, in order
+ 
+
+00:01:17.680 --> 00:01:19.749 align:start position:0%
+you're used to Figma. And so, in order
+to<00:01:18.159><c> control</c><00:01:18.560><c> paper,</c><00:01:19.119><c> I'm</c><00:01:19.280><c> going</c><00:01:19.360><c> to</c><00:01:19.439><c> go</c><00:01:19.520><c> ahead</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+to control paper, I'm going to go ahead
+ 
+
+00:01:19.759 --> 00:01:22.070 align:start position:0%
+to control paper, I'm going to go ahead
+and<00:01:19.920><c> open</c><00:01:20.159><c> up</c><00:01:20.479><c> cursor.</c><00:01:21.360><c> And</c><00:01:21.520><c> so</c><00:01:21.759><c> I'm</c><00:01:21.920><c> going</c><00:01:22.000><c> to</c>
+
+00:01:22.070 --> 00:01:22.080 align:start position:0%
+and open up cursor. And so I'm going to
+ 
+
+00:01:22.080 --> 00:01:23.830 align:start position:0%
+and open up cursor. And so I'm going to
+hit<00:01:22.240><c> command</c><00:01:22.560><c> shift</c><00:01:22.880><c> N</c><00:01:23.119><c> to</c><00:01:23.280><c> create</c><00:01:23.439><c> a</c><00:01:23.680><c> new</c>
+
+00:01:23.830 --> 00:01:23.840 align:start position:0%
+hit command shift N to create a new
+ 
+
+00:01:23.840 --> 00:01:26.469 align:start position:0%
+hit command shift N to create a new
+project.<00:01:24.720><c> And</c><00:01:25.040><c> I'm</c><00:01:25.360><c> going</c><00:01:25.520><c> to</c><00:01:25.680><c> just</c><00:01:25.840><c> hit</c><00:01:26.080><c> open</c>
+
+00:01:26.469 --> 00:01:26.479 align:start position:0%
+project. And I'm going to just hit open
+ 
+
+00:01:26.479 --> 00:01:29.190 align:start position:0%
+project. And I'm going to just hit open
+project.<00:01:27.280><c> We're</c><00:01:27.439><c> going</c><00:01:27.520><c> to</c><00:01:27.680><c> hit</c><00:01:27.920><c> new</c><00:01:28.479><c> folder.</c>
+
+00:01:29.190 --> 00:01:29.200 align:start position:0%
+project. We're going to hit new folder.
+ 
+
+00:01:29.200 --> 00:01:32.550 align:start position:0%
+project. We're going to hit new folder.
+I'm<00:01:29.360><c> going</c><00:01:29.439><c> to</c><00:01:29.600><c> call</c><00:01:29.759><c> this</c><00:01:30.400><c> control</c><00:01:31.439><c> paper.</c><00:01:32.320><c> By</c>
+
+00:01:32.550 --> 00:01:32.560 align:start position:0%
+I'm going to call this control paper. By
+ 
+
+00:01:32.560 --> 00:01:35.350 align:start position:0%
+I'm going to call this control paper. By
+the<00:01:32.720><c> way,</c><00:01:33.200><c> I</c><00:01:33.520><c> like</c><00:01:33.759><c> to</c><00:01:34.000><c> use</c><00:01:34.320><c> claude</c><00:01:34.799><c> code</c>
+
+00:01:35.350 --> 00:01:35.360 align:start position:0%
+the way, I like to use claude code
+ 
+
+00:01:35.360 --> 00:01:37.190 align:start position:0%
+the way, I like to use claude code
+within<00:01:35.840><c> cursor.</c><00:01:36.400><c> It's</c><00:01:36.560><c> just</c><00:01:36.720><c> what</c><00:01:36.880><c> I'm</c><00:01:37.040><c> used</c>
+
+00:01:37.190 --> 00:01:37.200 align:start position:0%
+within cursor. It's just what I'm used
+ 
+
+00:01:37.200 --> 00:01:38.630 align:start position:0%
+within cursor. It's just what I'm used
+to.<00:01:37.439><c> I</c><00:01:37.600><c> don't</c><00:01:37.680><c> know</c><00:01:37.759><c> if</c><00:01:37.920><c> it's</c><00:01:38.079><c> the</c><00:01:38.240><c> best</c><00:01:38.400><c> way</c><00:01:38.479><c> to</c>
+
+00:01:38.630 --> 00:01:38.640 align:start position:0%
+to. I don't know if it's the best way to
+ 
+
+00:01:38.640 --> 00:01:40.789 align:start position:0%
+to. I don't know if it's the best way to
+do<00:01:38.720><c> it,</c><00:01:38.880><c> but</c><00:01:39.040><c> I</c><00:01:39.200><c> just</c><00:01:39.360><c> open</c><00:01:39.520><c> up</c><00:01:39.680><c> a</c><00:01:39.840><c> terminal</c><00:01:40.400><c> in</c>
+
+00:01:40.789 --> 00:01:40.799 align:start position:0%
+do it, but I just open up a terminal in
+ 
+
+00:01:40.799 --> 00:01:42.789 align:start position:0%
+do it, but I just open up a terminal in
+cursor.<00:01:41.600><c> And</c><00:01:41.840><c> what</c><00:01:42.000><c> I'm</c><00:01:42.240><c> going</c><00:01:42.320><c> to</c><00:01:42.400><c> do</c><00:01:42.479><c> is</c><00:01:42.640><c> I'm</c>
+
+00:01:42.789 --> 00:01:42.799 align:start position:0%
+cursor. And what I'm going to do is I'm
+ 
+
+00:01:42.799 --> 00:01:44.710 align:start position:0%
+cursor. And what I'm going to do is I'm
+going<00:01:42.880><c> to</c><00:01:42.960><c> go</c><00:01:43.200><c> claude</c><00:01:43.840><c> in</c><00:01:44.000><c> the</c><00:01:44.159><c> terminal.</c><00:01:44.560><c> I'm</c>
+
+00:01:44.710 --> 00:01:44.720 align:start position:0%
+going to go claude in the terminal. I'm
+ 
+
+00:01:44.720 --> 00:01:49.910 align:start position:0%
+going to go claude in the terminal. I'm
+in<00:01:44.880><c> the</c><00:01:45.040><c> terminal</c><00:01:45.840><c> space</c><00:01:46.560><c> dash</c><00:01:47.680><c> dangerously</c>
+
+00:01:49.910 --> 00:01:49.920 align:start position:0%
+in the terminal space dash dangerously
+ 
+
+00:01:49.920 --> 00:01:52.389 align:start position:0%
+in the terminal space dash dangerously
+skip<00:01:50.479><c> permissions</c><00:01:51.520><c> and</c><00:01:51.759><c> we're</c><00:01:52.000><c> going</c><00:01:52.079><c> to</c><00:01:52.159><c> use</c>
+
+00:01:52.389 --> 00:01:52.399 align:start position:0%
+skip permissions and we're going to use
+ 
+
+00:01:52.399 --> 00:01:54.550 align:start position:0%
+skip permissions and we're going to use
+high<00:01:52.720><c> effort.</c><00:01:53.119><c> So</c><00:01:53.200><c> I</c><00:01:53.439><c> just</c><00:01:53.600><c> open</c><00:01:53.920><c> cloud</c><00:01:54.240><c> code.</c>
+
+00:01:54.550 --> 00:01:54.560 align:start position:0%
+high effort. So I just open cloud code.
+ 
+
+00:01:54.560 --> 00:01:56.870 align:start position:0%
+high effort. So I just open cloud code.
+We're<00:01:54.720><c> using</c><00:01:54.960><c> bypass</c><00:01:55.520><c> permissions</c><00:01:56.079><c> mode</c><00:01:56.640><c> and</c>
+
+00:01:56.870 --> 00:01:56.880 align:start position:0%
+We're using bypass permissions mode and
+ 
+
+00:01:56.880 --> 00:01:59.270 align:start position:0%
+We're using bypass permissions mode and
+I<00:01:57.040><c> say</c><00:01:57.200><c> and</c><00:01:57.360><c> I'm</c><00:01:57.520><c> going</c><00:01:57.600><c> to</c><00:01:57.759><c> say</c><00:01:58.000><c> okay</c><00:01:58.719><c> I</c><00:01:59.040><c> want</c>
+
+00:01:59.270 --> 00:01:59.280 align:start position:0%
+I say and I'm going to say okay I want
+ 
+
+00:01:59.280 --> 00:02:03.350 align:start position:0%
+I say and I'm going to say okay I want
+you<00:01:59.759><c> to</c><00:02:00.320><c> search</c><00:02:01.040><c> the</c><00:02:01.439><c> internet</c><00:02:02.079><c> and</c><00:02:02.640><c> figure</c>
+
+00:02:03.350 --> 00:02:03.360 align:start position:0%
+you to search the internet and figure
+ 
+
+00:02:03.360 --> 00:02:08.150 align:start position:0%
+you to search the internet and figure
+out<00:02:03.840><c> how</c><00:02:04.560><c> to</c><00:02:04.960><c> set</c><00:02:05.439><c> up</c><00:02:06.000><c> paper.designs</c><00:02:07.200><c> designs</c>
+
+00:02:08.150 --> 00:02:08.160 align:start position:0%
+out how to set up paper.designs designs
+ 
+
+00:02:08.160 --> 00:02:13.830 align:start position:0%
+out how to set up paper.designs designs
+MCP<00:02:08.959><c> server</c><00:02:09.840><c> so</c><00:02:10.160><c> you</c><00:02:10.720><c> can</c><00:02:11.360><c> control</c><00:02:12.400><c> my</c><00:02:13.040><c> paper</c>
+
+00:02:13.830 --> 00:02:13.840 align:start position:0%
+MCP server so you can control my paper
+ 
+
+00:02:13.840 --> 00:02:18.229 align:start position:0%
+MCP server so you can control my paper
+design<00:02:14.560><c> and</c><00:02:15.120><c> create</c><00:02:15.760><c> and</c><00:02:16.239><c> edit</c><00:02:17.040><c> designs.</c><00:02:17.920><c> Do</c>
+
+00:02:18.229 --> 00:02:18.239 align:start position:0%
+design and create and edit designs. Do
+ 
+
+00:02:18.239 --> 00:02:22.710 align:start position:0%
+design and create and edit designs. Do
+the<00:02:18.640><c> full</c><00:02:19.280><c> process.</c><00:02:20.400><c> Do</c><00:02:20.640><c> not</c><00:02:21.120><c> ask</c><00:02:21.520><c> me</c><00:02:22.239><c> when</c><00:02:22.480><c> you</c>
+
+00:02:22.710 --> 00:02:22.720 align:start position:0%
+the full process. Do not ask me when you
+ 
+
+00:02:22.720 --> 00:02:26.390 align:start position:0%
+the full process. Do not ask me when you
+are<00:02:22.879><c> done.</c><00:02:23.280><c> I</c><00:02:23.599><c> expect</c><00:02:24.080><c> you</c><00:02:24.800><c> to</c><00:02:25.599><c> let</c><00:02:25.760><c> me</c><00:02:25.920><c> know</c><00:02:26.160><c> if</c>
+
+00:02:26.390 --> 00:02:26.400 align:start position:0%
+are done. I expect you to let me know if
+ 
+
+00:02:26.400 --> 00:02:28.229 align:start position:0%
+are done. I expect you to let me know if
+you<00:02:26.560><c> can</c><00:02:26.720><c> control</c><00:02:27.120><c> the</c><00:02:27.440><c> board</c><00:02:27.760><c> that</c><00:02:28.000><c> I'm</c>
+
+00:02:28.229 --> 00:02:28.239 align:start position:0%
+you can control the board that I'm
+ 
+
+00:02:28.239 --> 00:02:30.869 align:start position:0%
+you can control the board that I'm
+currently<00:02:28.560><c> looking</c><00:02:28.800><c> at</c><00:02:29.040><c> in</c><00:02:29.360><c> paper</c><00:02:30.080><c> and</c><00:02:30.400><c> add</c>
+
+00:02:30.869 --> 00:02:30.879 align:start position:0%
+currently looking at in paper and add
+ 
+
+00:02:30.879 --> 00:02:33.110 align:start position:0%
+currently looking at in paper and add
+simple<00:02:31.280><c> text</c><00:02:31.520><c> that</c><00:02:31.840><c> says</c><00:02:32.160><c> hello.</c><00:02:32.720><c> Yeah.</c><00:02:32.959><c> So,</c>
+
+00:02:33.110 --> 00:02:33.120 align:start position:0%
+simple text that says hello. Yeah. So,
+ 
+
+00:02:33.120 --> 00:02:34.630 align:start position:0%
+simple text that says hello. Yeah. So,
+it<00:02:33.360><c> should</c><00:02:33.519><c> be</c><00:02:33.599><c> able</c><00:02:33.760><c> to</c><00:02:33.920><c> see</c><00:02:34.080><c> this.</c><00:02:34.319><c> I'm</c><00:02:34.560><c> just</c>
+
+00:02:34.630 --> 00:02:34.640 align:start position:0%
+it should be able to see this. I'm just
+ 
+
+00:02:34.640 --> 00:02:36.390 align:start position:0%
+it should be able to see this. I'm just
+going<00:02:34.720><c> to</c><00:02:34.800><c> run</c><00:02:35.040><c> this</c><00:02:35.200><c> prompt.</c><00:02:35.680><c> So,</c><00:02:35.840><c> I</c><00:02:36.080><c> told</c><00:02:36.239><c> it</c>
+
+00:02:36.390 --> 00:02:36.400 align:start position:0%
+going to run this prompt. So, I told it
+ 
+
+00:02:36.400 --> 00:02:38.550 align:start position:0%
+going to run this prompt. So, I told it
+to<00:02:36.560><c> go</c><00:02:36.720><c> ahead</c><00:02:36.879><c> and</c><00:02:37.040><c> set</c><00:02:37.200><c> up</c><00:02:37.360><c> the</c><00:02:37.599><c> MCP</c><00:02:38.160><c> server.</c>
+
+00:02:38.550 --> 00:02:38.560 align:start position:0%
+to go ahead and set up the MCP server.
+ 
+
+00:02:38.560 --> 00:02:39.750 align:start position:0%
+to go ahead and set up the MCP server.
+If<00:02:38.720><c> you</c><00:02:38.800><c> don't</c><00:02:38.879><c> know</c><00:02:38.959><c> what</c><00:02:39.120><c> that</c><00:02:39.280><c> is,</c><00:02:39.599><c> don't</c>
+
+00:02:39.750 --> 00:02:39.760 align:start position:0%
+If you don't know what that is, don't
+ 
+
+00:02:39.760 --> 00:02:41.350 align:start position:0%
+If you don't know what that is, don't
+worry<00:02:39.920><c> about</c><00:02:40.080><c> it.</c><00:02:40.319><c> Claude</c><00:02:40.720><c> Code</c><00:02:40.959><c> knows</c><00:02:41.200><c> what</c>
+
+00:02:41.350 --> 00:02:41.360 align:start position:0%
+worry about it. Claude Code knows what
+ 
+
+00:02:41.360 --> 00:02:43.430 align:start position:0%
+worry about it. Claude Code knows what
+it<00:02:41.440><c> is.</c><00:02:41.920><c> It's</c><00:02:42.239><c> basically</c><00:02:42.640><c> going</c><00:02:42.800><c> to</c><00:02:42.959><c> establish</c>
+
+00:02:43.430 --> 00:02:43.440 align:start position:0%
+it is. It's basically going to establish
+ 
+
+00:02:43.440 --> 00:02:46.070 align:start position:0%
+it is. It's basically going to establish
+a<00:02:43.680><c> connection</c><00:02:44.160><c> between</c><00:02:44.640><c> Claude</c><00:02:45.120><c> Code</c><00:02:45.680><c> and</c>
+
+00:02:46.070 --> 00:02:46.080 align:start position:0%
+a connection between Claude Code and
+ 
+
+00:02:46.080 --> 00:02:47.990 align:start position:0%
+a connection between Claude Code and
+Paper.design,
+
+00:02:47.990 --> 00:02:48.000 align:start position:0%
+Paper.design,
+ 
+
+00:02:48.000 --> 00:02:49.990 align:start position:0%
+Paper.design,
+which<00:02:48.239><c> we</c><00:02:48.400><c> have</c><00:02:48.560><c> open.</c><00:02:49.040><c> So,</c><00:02:49.280><c> it</c><00:02:49.519><c> should</c><00:02:49.760><c> be</c>
+
+00:02:49.990 --> 00:02:50.000 align:start position:0%
+which we have open. So, it should be
+ 
+
+00:02:50.000 --> 00:02:52.390 align:start position:0%
+which we have open. So, it should be
+able<00:02:50.239><c> to</c><00:02:50.640><c> read</c><00:02:50.959><c> this</c><00:02:51.200><c> and</c><00:02:51.519><c> see</c><00:02:51.680><c> it.</c><00:02:52.000><c> Okay,</c><00:02:52.239><c> here</c>
+
+00:02:52.390 --> 00:02:52.400 align:start position:0%
+able to read this and see it. Okay, here
+ 
+
+00:02:52.400 --> 00:02:56.229 align:start position:0%
+able to read this and see it. Okay, here
+it<00:02:52.640><c> says</c><00:02:52.879><c> paper</c><00:02:53.599><c> is</c><00:02:54.160><c> installed.</c><00:02:54.800><c> MCP</c><00:02:55.840><c> uh</c><00:02:55.920><c> is</c>
+
+00:02:56.229 --> 00:02:56.239 align:start position:0%
+it says paper is installed. MCP uh is
+ 
+
+00:02:56.239 --> 00:02:59.110 align:start position:0%
+it says paper is installed. MCP uh is
+running<00:02:56.400><c> on</c><00:02:56.640><c> port</c><00:02:57.040><c> 29979,</c>
+
+00:02:59.110 --> 00:02:59.120 align:start position:0%
+running on port 29979,
+ 
+
+00:02:59.120 --> 00:03:01.270 align:start position:0%
+running on port 29979,
+responding<00:02:59.599><c> with</c><00:02:59.760><c> 404.</c><00:03:00.560><c> Okay,</c><00:03:00.800><c> so</c><00:03:00.959><c> it</c><00:03:01.120><c> looks</c>
+
+00:03:01.270 --> 00:03:01.280 align:start position:0%
+responding with 404. Okay, so it looks
+ 
+
+00:03:01.280 --> 00:03:02.630 align:start position:0%
+responding with 404. Okay, so it looks
+like<00:03:01.360><c> it's</c><00:03:01.519><c> failing.</c><00:03:02.000><c> Let's</c><00:03:02.239><c> see</c><00:03:02.319><c> if</c><00:03:02.480><c> it</c>
+
+00:03:02.630 --> 00:03:02.640 align:start position:0%
+like it's failing. Let's see if it
+ 
+
+00:03:02.640 --> 00:03:04.949 align:start position:0%
+like it's failing. Let's see if it
+figures<00:03:02.879><c> it</c><00:03:03.040><c> out.</c><00:03:03.360><c> Okay,</c><00:03:03.680><c> I</c><00:03:03.920><c> forgot</c><00:03:04.400><c> that</c><00:03:04.720><c> once</c>
+
+00:03:04.949 --> 00:03:04.959 align:start position:0%
+figures it out. Okay, I forgot that once
+ 
+
+00:03:04.959 --> 00:03:07.110 align:start position:0%
+figures it out. Okay, I forgot that once
+it<00:03:05.200><c> sets</c><00:03:05.360><c> up</c><00:03:05.519><c> an</c><00:03:05.680><c> MCP</c><00:03:06.159><c> server,</c><00:03:06.560><c> it</c><00:03:06.720><c> can't</c><00:03:06.959><c> use</c>
+
+00:03:07.110 --> 00:03:07.120 align:start position:0%
+it sets up an MCP server, it can't use
+ 
+
+00:03:07.120 --> 00:03:09.270 align:start position:0%
+it sets up an MCP server, it can't use
+it<00:03:07.280><c> until</c><00:03:07.519><c> you</c><00:03:07.840><c> reset.</c><00:03:08.480><c> So,</c><00:03:08.720><c> I'm</c><00:03:09.040><c> just</c><00:03:09.200><c> going</c>
+
+00:03:09.270 --> 00:03:09.280 align:start position:0%
+it until you reset. So, I'm just going
+ 
+
+00:03:09.280 --> 00:03:13.110 align:start position:0%
+it until you reset. So, I'm just going
+to<00:03:09.440><c> hit</c><00:03:09.920><c> I</c><00:03:10.159><c> think</c><00:03:10.239><c> I</c><00:03:10.480><c> just</c><00:03:10.640><c> go</c><00:03:11.200><c> uh</c><00:03:11.440><c> clear</c><00:03:12.400><c> new</c>
+
+00:03:13.110 --> 00:03:13.120 align:start position:0%
+to hit I think I just go uh clear new
+ 
+
+00:03:13.120 --> 00:03:16.470 align:start position:0%
+to hit I think I just go uh clear new
+and<00:03:13.280><c> I'm</c><00:03:13.519><c> going</c><00:03:13.599><c> to</c><00:03:13.760><c> say,</c><00:03:14.159><c> can</c><00:03:14.480><c> you</c><00:03:14.959><c> add</c><00:03:15.680><c> hello</c>
+
+00:03:16.470 --> 00:03:16.480 align:start position:0%
+and I'm going to say, can you add hello
+ 
+
+00:03:16.480 --> 00:03:19.589 align:start position:0%
+and I'm going to say, can you add hello
+to<00:03:16.800><c> my</c><00:03:17.440><c> paper</c><00:03:18.239><c> board?</c><00:03:18.800><c> Okay,</c><00:03:19.040><c> so</c><00:03:19.200><c> it</c><00:03:19.360><c> says</c>
+
+00:03:19.589 --> 00:03:19.599 align:start position:0%
+to my paper board? Okay, so it says
+ 
+
+00:03:19.599 --> 00:03:21.509 align:start position:0%
+to my paper board? Okay, so it says
+done.<00:03:19.840><c> I've</c><00:03:20.080><c> added</c><00:03:20.319><c> a</c><00:03:20.480><c> new</c><00:03:20.720><c> artboard</c><00:03:21.200><c> that</c>
+
+00:03:21.509 --> 00:03:21.519 align:start position:0%
+done. I've added a new artboard that
+ 
+
+00:03:21.519 --> 00:03:23.750 align:start position:0%
+done. I've added a new artboard that
+says<00:03:21.760><c> hello</c><00:03:22.159><c> with</c><00:03:22.400><c> the</c><00:03:22.640><c> text</c><00:03:22.959><c> hello</c><00:03:23.360><c> centered</c>
+
+00:03:23.750 --> 00:03:23.760 align:start position:0%
+says hello with the text hello centered
+ 
+
+00:03:23.760 --> 00:03:27.030 align:start position:0%
+says hello with the text hello centered
+on<00:03:24.000><c> it.</c><00:03:24.400><c> Let's</c><00:03:24.720><c> go</c><00:03:24.879><c> to</c><00:03:25.040><c> paper.</c><00:03:25.920><c> Boom.</c><00:03:26.800><c> There</c>
+
+00:03:27.030 --> 00:03:27.040 align:start position:0%
+on it. Let's go to paper. Boom. There
+ 
+
+00:03:27.040 --> 00:03:31.190 align:start position:0%
+on it. Let's go to paper. Boom. There
+you<00:03:27.280><c> go.</c><00:03:27.840><c> and</c><00:03:28.080><c> just</c><00:03:28.239><c> to</c><00:03:28.480><c> say</c><00:03:28.879><c> uh</c><00:03:29.200><c> change</c><00:03:29.840><c> it</c><00:03:30.239><c> to</c>
+
+00:03:31.190 --> 00:03:31.200 align:start position:0%
+you go. and just to say uh change it to
+ 
+
+00:03:31.200 --> 00:03:34.070 align:start position:0%
+you go. and just to say uh change it to
+hello,<00:03:32.000><c> I'm</c><00:03:32.560><c> Claude.</c><00:03:33.200><c> And</c><00:03:33.440><c> we</c><00:03:33.599><c> can</c><00:03:33.760><c> just</c><00:03:33.920><c> wait</c>
+
+00:03:34.070 --> 00:03:34.080 align:start position:0%
+hello, I'm Claude. And we can just wait
+ 
+
+00:03:34.080 --> 00:03:36.149 align:start position:0%
+hello, I'm Claude. And we can just wait
+for<00:03:34.239><c> it</c><00:03:34.400><c> to</c><00:03:34.560><c> be</c><00:03:34.640><c> updated.</c><00:03:35.280><c> Boom.</c><00:03:35.760><c> There</c><00:03:36.000><c> you</c>
+
+00:03:36.149 --> 00:03:36.159 align:start position:0%
+for it to be updated. Boom. There you
+ 
+
+00:03:36.159 --> 00:03:39.670 align:start position:0%
+for it to be updated. Boom. There you
+go.<00:03:36.480><c> Hello,</c><00:03:36.959><c> I'm</c><00:03:37.360><c> Claude.</c><00:03:38.239><c> So,</c><00:03:39.120><c> I'm</c><00:03:39.440><c> just</c>
+
+00:03:39.670 --> 00:03:39.680 align:start position:0%
+go. Hello, I'm Claude. So, I'm just
+ 
+
+00:03:39.680 --> 00:03:43.350 align:start position:0%
+go. Hello, I'm Claude. So, I'm just
+going<00:03:39.840><c> to</c><00:03:40.000><c> say,</c><00:03:40.720><c> please</c><00:03:41.360><c> remove</c><00:03:42.319><c> everything</c>
+
+00:03:43.350 --> 00:03:43.360 align:start position:0%
+going to say, please remove everything
+ 
+
+00:03:43.360 --> 00:03:47.750 align:start position:0%
+going to say, please remove everything
+on<00:03:43.840><c> this</c><00:03:44.159><c> page.</c><00:03:44.959><c> Let's</c><00:03:45.440><c> start</c><00:03:46.239><c> from</c><00:03:46.799><c> scratch.</c>
+
+00:03:47.750 --> 00:03:47.760 align:start position:0%
+on this page. Let's start from scratch.
+ 
+
+00:03:47.760 --> 00:03:52.949 align:start position:0%
+on this page. Let's start from scratch.
+I<00:03:48.239><c> am</c><00:03:48.799><c> going</c><00:03:49.280><c> to</c><00:03:49.840><c> design</c><00:03:50.640><c> a</c><00:03:51.280><c> personal</c><00:03:52.239><c> site.</c>
+
+00:03:52.949 --> 00:03:52.959 align:start position:0%
+I am going to design a personal site.
+ 
+
+00:03:52.959 --> 00:03:56.149 align:start position:0%
+I am going to design a personal site.
+It's<00:03:53.440><c> going</c><00:03:53.599><c> to</c><00:03:53.760><c> be</c><00:03:54.400><c> awesome,</c><00:03:55.120><c> but</c><00:03:55.599><c> clear</c><00:03:55.920><c> at</c>
+
+00:03:56.149 --> 00:03:56.159 align:start position:0%
+It's going to be awesome, but clear at
+ 
+
+00:03:56.159 --> 00:03:58.869 align:start position:0%
+It's going to be awesome, but clear at
+all.<00:03:56.560><c> And</c><00:03:56.879><c> now</c><00:03:57.280><c> it</c><00:03:57.599><c> should</c><00:03:57.920><c> clear</c><00:03:58.239><c> everything.</c>
+
+00:03:58.869 --> 00:03:58.879 align:start position:0%
+all. And now it should clear everything.
+ 
+
+00:03:58.879 --> 00:04:00.869 align:start position:0%
+all. And now it should clear everything.
+And<00:03:59.040><c> boom,</c><00:03:59.519><c> there</c><00:03:59.760><c> you</c><00:03:59.920><c> go.</c><00:04:00.239><c> All</c><00:04:00.239><c> right.</c><00:04:00.640><c> So</c>
+
+00:04:00.869 --> 00:04:00.879 align:start position:0%
+And boom, there you go. All right. So
+ 
+
+00:04:00.879 --> 00:04:02.550 align:start position:0%
+And boom, there you go. All right. So
+this<00:04:01.040><c> is</c><00:04:01.200><c> the</c><00:04:01.439><c> site</c><00:04:01.680><c> that</c><00:04:01.840><c> I</c><00:04:02.000><c> want</c><00:04:02.080><c> to</c><00:04:02.239><c> create.</c>
+
+00:04:02.550 --> 00:04:02.560 align:start position:0%
+this is the site that I want to create.
+ 
+
+00:04:02.560 --> 00:04:04.229 align:start position:0%
+this is the site that I want to create.
+So<00:04:02.640><c> I</c><00:04:02.879><c> saw</c><00:04:03.040><c> this</c><00:04:03.200><c> on</c><00:04:03.360><c> Twitter</c><00:04:03.599><c> and</c><00:04:03.840><c> I</c><00:04:04.000><c> really</c>
+
+00:04:04.229 --> 00:04:04.239 align:start position:0%
+So I saw this on Twitter and I really
+ 
+
+00:04:04.239 --> 00:04:06.470 align:start position:0%
+So I saw this on Twitter and I really
+like<00:04:04.480><c> this</c><00:04:04.799><c> design.</c><00:04:05.360><c> So</c><00:04:05.599><c> this</c><00:04:05.920><c> this</c><00:04:06.239><c> will</c><00:04:06.400><c> be</c>
+
+00:04:06.470 --> 00:04:06.480 align:start position:0%
+like this design. So this this will be
+ 
+
+00:04:06.480 --> 00:04:08.869 align:start position:0%
+like this design. So this this will be
+an<00:04:06.720><c> inspiration.</c><00:04:07.680><c> My</c><00:04:07.920><c> idea</c><00:04:08.239><c> is</c><00:04:08.400><c> just</c><00:04:08.560><c> so</c><00:04:08.799><c> this</c>
+
+00:04:08.869 --> 00:04:08.879 align:start position:0%
+an inspiration. My idea is just so this
+ 
+
+00:04:08.879 --> 00:04:11.350 align:start position:0%
+an inspiration. My idea is just so this
+is<00:04:09.040><c> just</c><00:04:09.200><c> a</c><00:04:09.439><c> personal</c><00:04:09.760><c> page</c><00:04:10.080><c> about</c><00:04:10.400><c> my</c><00:04:10.879><c> uh</c><00:04:11.040><c> my</c>
+
+00:04:11.350 --> 00:04:11.360 align:start position:0%
+is just a personal page about my uh my
+ 
+
+00:04:11.360 --> 00:04:14.070 align:start position:0%
+is just a personal page about my uh my
+agent<00:04:11.680><c> team.</c><00:04:12.159><c> So</c><00:04:12.400><c> my</c><00:04:12.640><c> team</c><00:04:12.799><c> of</c><00:04:13.200><c> openclaw</c>
+
+00:04:14.070 --> 00:04:14.080 align:start position:0%
+agent team. So my team of openclaw
+ 
+
+00:04:14.080 --> 00:04:16.069 align:start position:0%
+agent team. So my team of openclaw
+agents<00:04:14.720><c> and</c><00:04:14.879><c> so</c><00:04:15.040><c> the</c><00:04:15.200><c> left</c><00:04:15.439><c> panel</c><00:04:15.680><c> will</c><00:04:15.840><c> be</c><00:04:15.920><c> a</c>
+
+00:04:16.069 --> 00:04:16.079 align:start position:0%
+agents and so the left panel will be a
+ 
+
+00:04:16.079 --> 00:04:17.670 align:start position:0%
+agents and so the left panel will be a
+list<00:04:16.239><c> of</c><00:04:16.320><c> my</c><00:04:16.560><c> openclaw</c><00:04:17.040><c> agents.</c><00:04:17.359><c> The</c><00:04:17.519><c> right</c>
+
+00:04:17.670 --> 00:04:17.680 align:start position:0%
+list of my openclaw agents. The right
+ 
+
+00:04:17.680 --> 00:04:19.590 align:start position:0%
+list of my openclaw agents. The right
+side<00:04:17.840><c> will</c><00:04:18.000><c> be</c><00:04:18.160><c> info</c><00:04:18.479><c> about</c><00:04:18.720><c> these</c><00:04:19.040><c> agents.</c>
+
+00:04:19.590 --> 00:04:19.600 align:start position:0%
+side will be info about these agents.
+ 
+
+00:04:19.600 --> 00:04:21.590 align:start position:0%
+side will be info about these agents.
+Each<00:04:19.759><c> agent</c><00:04:20.160><c> will</c><00:04:20.320><c> have</c><00:04:20.479><c> info</c><00:04:20.959><c> on</c><00:04:21.199><c> the</c><00:04:21.359><c> right</c>
+
+00:04:21.590 --> 00:04:21.600 align:start position:0%
+Each agent will have info on the right
+ 
+
+00:04:21.600 --> 00:04:25.270 align:start position:0%
+Each agent will have info on the right
+side<00:04:22.160><c> that</c><00:04:22.560><c> matches</c><00:04:23.280><c> this</c><00:04:24.000><c> second</c><00:04:24.639><c> image.</c><00:04:25.040><c> So</c>
+
+00:04:25.270 --> 00:04:25.280 align:start position:0%
+side that matches this second image. So
+ 
+
+00:04:25.280 --> 00:04:27.590 align:start position:0%
+side that matches this second image. So
+this<00:04:25.520><c> image</c><00:04:25.759><c> right</c><00:04:26.000><c> here</c><00:04:26.400><c> is</c><00:04:26.720><c> just</c><00:04:26.960><c> to</c><00:04:27.280><c> show</c>
+
+00:04:27.590 --> 00:04:27.600 align:start position:0%
+this image right here is just to show
+ 
+
+00:04:27.600 --> 00:04:29.749 align:start position:0%
+this image right here is just to show
+what<00:04:27.840><c> I</c><00:04:28.000><c> want</c><00:04:28.240><c> included</c><00:04:28.880><c> on</c><00:04:29.120><c> this</c><00:04:29.360><c> side</c><00:04:29.520><c> of</c><00:04:29.600><c> the</c>
+
+00:04:29.749 --> 00:04:29.759 align:start position:0%
+what I want included on this side of the
+ 
+
+00:04:29.759 --> 00:04:32.550 align:start position:0%
+what I want included on this side of the
+page.<00:04:30.000><c> And</c><00:04:30.160><c> then</c><00:04:30.320><c> the</c><00:04:30.560><c> left</c><00:04:30.800><c> side</c><00:04:31.600><c> uh</c><00:04:31.759><c> B</c><00:04:32.160><c> I</c><00:04:32.320><c> I'll</c>
+
+00:04:32.550 --> 00:04:32.560 align:start position:0%
+page. And then the left side uh B I I'll
+ 
+
+00:04:32.560 --> 00:04:36.390 align:start position:0%
+page. And then the left side uh B I I'll
+include<00:04:32.880><c> this</c><00:04:33.280><c> the</c><00:04:33.680><c> left</c><00:04:34.240><c> side</c><00:04:34.960><c> of</c><00:04:35.360><c> the</c><00:04:35.600><c> page</c>
+
+00:04:36.390 --> 00:04:36.400 align:start position:0%
+include this the left side of the page
+ 
+
+00:04:36.400 --> 00:04:40.150 align:start position:0%
+include this the left side of the page
+should<00:04:36.720><c> be</c><00:04:37.360><c> a</c><00:04:37.919><c> list</c><00:04:38.240><c> of</c><00:04:38.479><c> agents</c><00:04:39.280><c> left</c><00:04:39.600><c> panel.</c>
+
+00:04:40.150 --> 00:04:40.160 align:start position:0%
+should be a list of agents left panel.
+ 
+
+00:04:40.160 --> 00:04:41.830 align:start position:0%
+should be a list of agents left panel.
+Okay.<00:04:40.560><c> So</c><00:04:40.720><c> now</c><00:04:40.880><c> what</c><00:04:41.120><c> I'm</c><00:04:41.199><c> going</c><00:04:41.280><c> to</c><00:04:41.360><c> do</c><00:04:41.440><c> is</c><00:04:41.600><c> I'm</c>
+
+00:04:41.830 --> 00:04:41.840 align:start position:0%
+Okay. So now what I'm going to do is I'm
+ 
+
+00:04:41.840 --> 00:04:43.749 align:start position:0%
+Okay. So now what I'm going to do is I'm
+just<00:04:41.919><c> going</c><00:04:42.080><c> to</c><00:04:42.320><c> basically</c><00:04:43.120><c> I</c><00:04:43.360><c> just</c><00:04:43.520><c> kind</c><00:04:43.680><c> of</c>
+
+00:04:43.749 --> 00:04:43.759 align:start position:0%
+just going to basically I just kind of
+ 
+
+00:04:43.759 --> 00:04:45.270 align:start position:0%
+just going to basically I just kind of
+wrote<00:04:44.000><c> this</c><00:04:44.160><c> out</c><00:04:44.479><c> and</c><00:04:44.720><c> what</c><00:04:44.880><c> I'm</c><00:04:45.040><c> going</c><00:04:45.040><c> to</c><00:04:45.120><c> do</c>
+
+00:04:45.270 --> 00:04:45.280 align:start position:0%
+wrote this out and what I'm going to do
+ 
+
+00:04:45.280 --> 00:04:47.270 align:start position:0%
+wrote this out and what I'm going to do
+is<00:04:45.440><c> I'm</c><00:04:45.600><c> just</c><00:04:45.759><c> going</c><00:04:45.840><c> to</c><00:04:45.919><c> go</c><00:04:46.080><c> back</c><00:04:46.240><c> to</c><00:04:46.560><c> cursor.</c>
+
+00:04:47.270 --> 00:04:47.280 align:start position:0%
+is I'm just going to go back to cursor.
+ 
+
+00:04:47.280 --> 00:04:50.790 align:start position:0%
+is I'm just going to go back to cursor.
+I'm<00:04:47.440><c> going</c><00:04:47.520><c> to</c><00:04:47.680><c> say</c><00:04:47.919><c> okay</c><00:04:48.639><c> I</c><00:04:48.960><c> just</c><00:04:49.680><c> put</c><00:04:50.080><c> all</c><00:04:50.479><c> the</c>
+
+00:04:50.790 --> 00:04:50.800 align:start position:0%
+I'm going to say okay I just put all the
+ 
+
+00:04:50.800 --> 00:04:54.710 align:start position:0%
+I'm going to say okay I just put all the
+info<00:04:51.600><c> there.</c><00:04:52.160><c> Please</c><00:04:52.960><c> create</c><00:04:53.680><c> the</c><00:04:54.000><c> design</c>
+
+00:04:54.710 --> 00:04:54.720 align:start position:0%
+info there. Please create the design
+ 
+
+00:04:54.720 --> 00:04:59.990 align:start position:0%
+info there. Please create the design
+based<00:04:55.360><c> on</c><00:04:55.919><c> what</c><00:04:56.320><c> I</c><00:04:56.720><c> wrote</c><00:04:57.600><c> and</c><00:04:58.400><c> use</c><00:04:58.800><c> the</c><00:04:59.120><c> two</c>
+
+00:04:59.990 --> 00:05:00.000 align:start position:0%
+based on what I wrote and use the two
+ 
+
+00:05:00.000 --> 00:05:05.430 align:start position:0%
+based on what I wrote and use the two
+images<00:05:00.960><c> as</c><00:05:01.520><c> input</c><00:05:02.400><c> because</c><00:05:03.120><c> one</c><00:05:03.600><c> is</c><00:05:03.919><c> a</c><00:05:04.560><c> design</c>
+
+00:05:05.430 --> 00:05:05.440 align:start position:0%
+images as input because one is a design
+ 
+
+00:05:05.440 --> 00:05:09.749 align:start position:0%
+images as input because one is a design
+that<00:05:05.759><c> I</c><00:05:06.000><c> want</c><00:05:06.400><c> you</c><00:05:06.800><c> to</c><00:05:07.520><c> emulate.</c><00:05:08.400><c> The</c><00:05:08.560><c> other</c><00:05:09.280><c> it</c>
+
+00:05:09.749 --> 00:05:09.759 align:start position:0%
+that I want you to emulate. The other it
+ 
+
+00:05:09.759 --> 00:05:13.749 align:start position:0%
+that I want you to emulate. The other it
+uh<00:05:10.000><c> shows</c><00:05:10.720><c> what</c><00:05:11.360><c> info</c><00:05:11.919><c> I</c><00:05:12.240><c> want</c><00:05:12.880><c> for</c><00:05:13.280><c> each</c>
+
+00:05:13.749 --> 00:05:13.759 align:start position:0%
+uh shows what info I want for each
+ 
+
+00:05:13.759 --> 00:05:15.110 align:start position:0%
+uh shows what info I want for each
+agent.<00:05:14.160><c> Quick</c><00:05:14.400><c> break</c><00:05:14.560><c> to</c><00:05:14.800><c> talk</c><00:05:14.880><c> about</c>
+
+00:05:15.110 --> 00:05:15.120 align:start position:0%
+agent. Quick break to talk about
+ 
+
+00:05:15.120 --> 00:05:17.270 align:start position:0%
+agent. Quick break to talk about
+vibecode.dev<00:05:16.000><c> dev,</c><00:05:16.320><c> which</c><00:05:16.479><c> is</c><00:05:16.639><c> the</c><00:05:16.880><c> easiest</c>
+
+00:05:17.270 --> 00:05:17.280 align:start position:0%
+vibecode.dev dev, which is the easiest
+ 
+
+00:05:17.280 --> 00:05:19.350 align:start position:0%
+vibecode.dev dev, which is the easiest
+way<00:05:17.440><c> to</c><00:05:17.759><c> build</c><00:05:18.000><c> a</c><00:05:18.320><c> professional</c><00:05:18.880><c> mobile</c><00:05:19.199><c> app</c>
+
+00:05:19.350 --> 00:05:19.360 align:start position:0%
+way to build a professional mobile app
+ 
+
+00:05:19.360 --> 00:05:21.990 align:start position:0%
+way to build a professional mobile app
+and<00:05:19.520><c> get</c><00:05:19.680><c> it</c><00:05:19.759><c> on</c><00:05:19.919><c> the</c><00:05:20.080><c> app</c><00:05:20.240><c> store</c><00:05:20.720><c> 100%</c><00:05:21.600><c> with</c>
+
+00:05:21.990 --> 00:05:22.000 align:start position:0%
+and get it on the app store 100% with
+ 
+
+00:05:22.000 --> 00:05:24.469 align:start position:0%
+and get it on the app store 100% with
+AI.<00:05:22.479><c> Here's</c><00:05:22.720><c> an</c><00:05:22.960><c> app</c><00:05:23.120><c> that</c><00:05:23.280><c> I</c><00:05:23.520><c> created</c><00:05:24.160><c> that</c>
+
+00:05:24.469 --> 00:05:24.479 align:start position:0%
+AI. Here's an app that I created that
+ 
+
+00:05:24.479 --> 00:05:27.029 align:start position:0%
+AI. Here's an app that I created that
+actually<00:05:24.800><c> allows</c><00:05:25.199><c> me</c><00:05:25.440><c> to</c><00:05:25.919><c> talk</c><00:05:26.160><c> to</c><00:05:26.560><c> my</c>
+
+00:05:27.029 --> 00:05:27.039 align:start position:0%
+actually allows me to talk to my
+ 
+
+00:05:27.039 --> 00:05:29.110 align:start position:0%
+actually allows me to talk to my
+openclaw.<00:05:27.680><c> And</c><00:05:27.919><c> I</c><00:05:28.160><c> created</c><00:05:28.479><c> this</c><00:05:28.639><c> app</c><00:05:28.880><c> in</c>
+
+00:05:29.110 --> 00:05:29.120 align:start position:0%
+openclaw. And I created this app in
+ 
+
+00:05:29.120 --> 00:05:31.830 align:start position:0%
+openclaw. And I created this app in
+about<00:05:29.440><c> 30</c><00:05:29.680><c> minutes</c><00:05:30.000><c> using</c><00:05:30.320><c> vibecode.dev.</c><00:05:31.600><c> I</c>
+
+00:05:31.830 --> 00:05:31.840 align:start position:0%
+about 30 minutes using vibecode.dev. I
+ 
+
+00:05:31.840 --> 00:05:34.070 align:start position:0%
+about 30 minutes using vibecode.dev. I
+can<00:05:32.080><c> also</c><00:05:32.400><c> use</c><00:05:32.639><c> this</c><00:05:32.880><c> design</c><00:05:33.199><c> tool.</c><00:05:33.600><c> So,</c><00:05:33.759><c> I</c><00:05:33.919><c> can</c>
+
+00:05:34.070 --> 00:05:34.080 align:start position:0%
+can also use this design tool. So, I can
+ 
+
+00:05:34.080 --> 00:05:35.830 align:start position:0%
+can also use this design tool. So, I can
+literally<00:05:34.479><c> select</c><00:05:34.800><c> an</c><00:05:34.960><c> element.</c><00:05:35.360><c> Let's</c><00:05:35.520><c> say</c><00:05:35.600><c> I</c>
+
+00:05:35.830 --> 00:05:35.840 align:start position:0%
+literally select an element. Let's say I
+ 
+
+00:05:35.840 --> 00:05:37.990 align:start position:0%
+literally select an element. Let's say I
+wanted<00:05:35.919><c> to</c><00:05:36.160><c> make</c><00:05:36.320><c> this</c><00:05:36.720><c> a</c><00:05:37.039><c> different</c><00:05:37.360><c> color.</c>
+
+00:05:37.990 --> 00:05:38.000 align:start position:0%
+wanted to make this a different color.
+ 
+
+00:05:38.000 --> 00:05:40.070 align:start position:0%
+wanted to make this a different color.
+We<00:05:38.160><c> could</c><00:05:38.320><c> just</c><00:05:38.479><c> select</c><00:05:38.880><c> this</c><00:05:39.360><c> and</c><00:05:39.759><c> uh</c><00:05:39.840><c> we</c>
+
+00:05:40.070 --> 00:05:40.080 align:start position:0%
+We could just select this and uh we
+ 
+
+00:05:40.080 --> 00:05:43.029 align:start position:0%
+We could just select this and uh we
+could<00:05:40.240><c> also</c><00:05:40.639><c> select</c><00:05:41.759><c> this</c><00:05:42.080><c> right</c><00:05:42.400><c> here.</c><00:05:42.880><c> And</c>
+
+00:05:43.029 --> 00:05:43.039 align:start position:0%
+could also select this right here. And
+ 
+
+00:05:43.039 --> 00:05:45.749 align:start position:0%
+could also select this right here. And
+we<00:05:43.280><c> could</c><00:05:43.440><c> say,</c><00:05:43.680><c> "Please</c><00:05:44.639><c> make</c><00:05:45.039><c> these</c>
+
+00:05:45.749 --> 00:05:45.759 align:start position:0%
+we could say, "Please make these
+ 
+
+00:05:45.759 --> 00:05:47.909 align:start position:0%
+we could say, "Please make these
+darker."<00:05:46.560><c> While</c><00:05:46.800><c> that's</c><00:05:47.199><c> running,</c><00:05:47.520><c> I</c><00:05:47.759><c> can</c>
+
+00:05:47.909 --> 00:05:47.919 align:start position:0%
+darker." While that's running, I can
+ 
+
+00:05:47.919 --> 00:05:51.510 align:start position:0%
+darker." While that's running, I can
+literally<00:05:48.320><c> add</c><00:05:48.639><c> any</c><00:05:48.960><c> API.</c><00:05:49.759><c> So</c><00:05:50.000><c> any</c><00:05:50.479><c> popular</c><00:05:50.960><c> AI</c>
+
+00:05:51.510 --> 00:05:51.520 align:start position:0%
+literally add any API. So any popular AI
+ 
+
+00:05:51.520 --> 00:05:53.350 align:start position:0%
+literally add any API. So any popular AI
+tool<00:05:51.840><c> that</c><00:05:52.000><c> you</c><00:05:52.160><c> might</c><00:05:52.320><c> want</c><00:05:52.400><c> to</c><00:05:52.560><c> add</c><00:05:52.800><c> to</c><00:05:53.039><c> your</c>
+
+00:05:53.350 --> 00:05:53.360 align:start position:0%
+tool that you might want to add to your
+ 
+
+00:05:53.360 --> 00:05:55.350 align:start position:0%
+tool that you might want to add to your
+application,<00:05:54.240><c> you</c><00:05:54.400><c> can</c><00:05:54.479><c> just</c><00:05:54.639><c> come</c><00:05:54.880><c> here</c><00:05:55.120><c> and</c>
+
+00:05:55.350 --> 00:05:55.360 align:start position:0%
+application, you can just come here and
+ 
+
+00:05:55.360 --> 00:05:57.830 align:start position:0%
+application, you can just come here and
+you<00:05:55.600><c> can</c><00:05:55.840><c> select</c><00:05:56.240><c> Nano</c><00:05:56.639><c> Banana.</c><00:05:57.280><c> Please</c>
+
+00:05:57.830 --> 00:05:57.840 align:start position:0%
+you can select Nano Banana. Please
+ 
+
+00:05:57.840 --> 00:06:01.270 align:start position:0%
+you can select Nano Banana. Please
+implement<00:05:58.720><c> Nano</c><00:05:59.600><c> Banana.</c><00:06:00.400><c> And</c><00:06:00.639><c> we</c><00:06:00.800><c> can</c><00:06:00.960><c> ceue</c>
+
+00:06:01.270 --> 00:06:01.280 align:start position:0%
+implement Nano Banana. And we can ceue
+ 
+
+00:06:01.280 --> 00:06:03.350 align:start position:0%
+implement Nano Banana. And we can ceue
+up<00:06:01.440><c> this</c><00:06:01.759><c> prompt.</c><00:06:02.400><c> In</c><00:06:02.639><c> one</c><00:06:02.880><c> click,</c><00:06:03.120><c> you</c><00:06:03.280><c> can</c>
+
+00:06:03.350 --> 00:06:03.360 align:start position:0%
+up this prompt. In one click, you can
+ 
+
+00:06:03.360 --> 00:06:05.029 align:start position:0%
+up this prompt. In one click, you can
+add<00:06:03.520><c> a</c><00:06:03.680><c> database.</c><00:06:04.240><c> You</c><00:06:04.400><c> can</c><00:06:04.479><c> even</c><00:06:04.720><c> add</c>
+
+00:06:05.029 --> 00:06:05.039 align:start position:0%
+add a database. You can even add
+ 
+
+00:06:05.039 --> 00:06:07.110 align:start position:0%
+add a database. You can even add
+payments<00:06:05.440><c> and</c><00:06:05.680><c> integrate</c><00:06:06.080><c> it</c><00:06:06.319><c> directly</c><00:06:06.639><c> into</c>
+
+00:06:07.110 --> 00:06:07.120 align:start position:0%
+payments and integrate it directly into
+ 
+
+00:06:07.120 --> 00:06:08.790 align:start position:0%
+payments and integrate it directly into
+RevenueCat.<00:06:07.840><c> And</c><00:06:08.080><c> when</c><00:06:08.240><c> you're</c><00:06:08.400><c> done,</c><00:06:08.639><c> you</c>
+
+00:06:08.790 --> 00:06:08.800 align:start position:0%
+RevenueCat. And when you're done, you
+ 
+
+00:06:08.800 --> 00:06:11.670 align:start position:0%
+RevenueCat. And when you're done, you
+can<00:06:08.960><c> hit</c><00:06:09.280><c> deploy</c><00:06:10.160><c> and</c><00:06:10.400><c> you</c><00:06:10.560><c> can</c><00:06:10.720><c> deploy</c><00:06:11.120><c> it</c><00:06:11.440><c> to</c>
+
+00:06:11.670 --> 00:06:11.680 align:start position:0%
+can hit deploy and you can deploy it to
+ 
+
+00:06:11.680 --> 00:06:13.990 align:start position:0%
+can hit deploy and you can deploy it to
+the<00:06:11.840><c> App</c><00:06:12.080><c> Store</c><00:06:12.400><c> in</c><00:06:12.720><c> just</c><00:06:12.880><c> a</c><00:06:13.039><c> few</c><00:06:13.199><c> clicks.</c><00:06:13.840><c> All</c>
+
+00:06:13.990 --> 00:06:14.000 align:start position:0%
+the App Store in just a few clicks. All
+ 
+
+00:06:14.000 --> 00:06:15.590 align:start position:0%
+the App Store in just a few clicks. All
+you<00:06:14.160><c> have</c><00:06:14.240><c> to</c><00:06:14.400><c> do</c><00:06:14.479><c> is</c><00:06:14.720><c> connect</c><00:06:14.960><c> your</c><00:06:15.120><c> Apple</c>
+
+00:06:15.590 --> 00:06:15.600 align:start position:0%
+you have to do is connect your Apple
+ 
+
+00:06:15.600 --> 00:06:17.430 align:start position:0%
+you have to do is connect your Apple
+developer<00:06:16.160><c> account</c><00:06:16.560><c> and</c><00:06:16.720><c> it'll</c><00:06:17.039><c> ship</c><00:06:17.280><c> it</c>
+
+00:06:17.430 --> 00:06:17.440 align:start position:0%
+developer account and it'll ship it
+ 
+
+00:06:17.440 --> 00:06:19.670 align:start position:0%
+developer account and it'll ship it
+directly<00:06:17.919><c> to</c><00:06:18.160><c> the</c><00:06:18.400><c> App</c><00:06:18.639><c> Store.</c><00:06:19.199><c> You</c><00:06:19.440><c> can</c><00:06:19.520><c> try</c>
+
+00:06:19.670 --> 00:06:19.680 align:start position:0%
+directly to the App Store. You can try
+ 
+
+00:06:19.680 --> 00:06:22.150 align:start position:0%
+directly to the App Store. You can try
+this<00:06:19.919><c> right</c><00:06:20.080><c> now</c><00:06:20.240><c> at</c><00:06:20.479><c> vibcode.dev.</c><00:06:21.759><c> Let's</c><00:06:22.080><c> get</c>
+
+00:06:22.150 --> 00:06:22.160 align:start position:0%
+this right now at vibcode.dev. Let's get
+ 
+
+00:06:22.160 --> 00:06:23.990 align:start position:0%
+this right now at vibcode.dev. Let's get
+back<00:06:22.319><c> to</c><00:06:22.479><c> the</c><00:06:22.639><c> video.</c><00:06:23.120><c> So,</c><00:06:23.360><c> it</c><00:06:23.600><c> should</c><00:06:23.759><c> know</c>
+
+00:06:23.990 --> 00:06:24.000 align:start position:0%
+back to the video. So, it should know
+ 
+
+00:06:24.000 --> 00:06:25.990 align:start position:0%
+back to the video. So, it should know
+what<00:06:24.160><c> to</c><00:06:24.319><c> do.</c><00:06:24.639><c> So,</c><00:06:24.800><c> it</c><00:06:25.039><c> should</c><00:06:25.199><c> just</c><00:06:25.440><c> go</c><00:06:25.759><c> look</c>
+
+00:06:25.990 --> 00:06:26.000 align:start position:0%
+what to do. So, it should just go look
+ 
+
+00:06:26.000 --> 00:06:28.070 align:start position:0%
+what to do. So, it should just go look
+at<00:06:26.319><c> paper.</c><00:06:26.960><c> You</c><00:06:27.199><c> can</c><00:06:27.280><c> see</c><00:06:27.360><c> what</c><00:06:27.600><c> it</c><00:06:27.759><c> does</c><00:06:27.919><c> in</c>
+
+00:06:28.070 --> 00:06:28.080 align:start position:0%
+at paper. You can see what it does in
+ 
+
+00:06:28.080 --> 00:06:29.749 align:start position:0%
+at paper. You can see what it does in
+real<00:06:28.319><c> time.</c><00:06:28.960><c> Look</c><00:06:29.120><c> at</c><00:06:29.199><c> this.</c><00:06:29.440><c> You</c><00:06:29.600><c> can</c><00:06:29.680><c> see</c>
+
+00:06:29.749 --> 00:06:29.759 align:start position:0%
+real time. Look at this. You can see
+ 
+
+00:06:29.759 --> 00:06:31.670 align:start position:0%
+real time. Look at this. You can see
+that<00:06:30.000><c> it's</c><00:06:30.240><c> kind</c><00:06:30.400><c> of</c><00:06:30.560><c> reading</c><00:06:30.960><c> both</c><00:06:31.199><c> of</c><00:06:31.280><c> these.</c>
+
+00:06:31.670 --> 00:06:31.680 align:start position:0%
+that it's kind of reading both of these.
+ 
+
+00:06:31.680 --> 00:06:33.350 align:start position:0%
+that it's kind of reading both of these.
+That's<00:06:31.840><c> what</c><00:06:32.000><c> I</c><00:06:32.160><c> really</c><00:06:32.319><c> like</c><00:06:32.479><c> about</c><00:06:32.560><c> this</c><00:06:32.800><c> MCP</c>
+
+00:06:33.350 --> 00:06:33.360 align:start position:0%
+That's what I really like about this MCP
+ 
+
+00:06:33.360 --> 00:06:36.550 align:start position:0%
+That's what I really like about this MCP
+server<00:06:33.840><c> is</c><00:06:34.160><c> it</c><00:06:34.400><c> like</c><00:06:34.960><c> it</c><00:06:35.280><c> animates</c><00:06:35.840><c> when</c><00:06:36.160><c> it's</c>
+
+00:06:36.550 --> 00:06:36.560 align:start position:0%
+server is it like it animates when it's
+ 
+
+00:06:36.560 --> 00:06:39.029 align:start position:0%
+server is it like it animates when it's
+using<00:06:36.960><c> stuff.</c><00:06:37.520><c> And</c><00:06:37.680><c> so</c><00:06:38.080><c> let's</c><00:06:38.319><c> see</c><00:06:38.560><c> how</c><00:06:38.800><c> it</c>
+
+00:06:39.029 --> 00:06:39.039 align:start position:0%
+using stuff. And so let's see how it
+ 
+
+00:06:39.039 --> 00:06:41.749 align:start position:0%
+using stuff. And so let's see how it
+does<00:06:39.280><c> here.</c><00:06:39.840><c> Okay,</c><00:06:40.160><c> so</c><00:06:40.319><c> it</c><00:06:40.560><c> created</c><00:06:40.960><c> this</c><00:06:41.520><c> up</c>
+
+00:06:41.749 --> 00:06:41.759 align:start position:0%
+does here. Okay, so it created this up
+ 
+
+00:06:41.759 --> 00:06:44.710 align:start position:0%
+does here. Okay, so it created this up
+here<00:06:42.479><c> which</c><00:06:42.720><c> kind</c><00:06:42.960><c> of</c><00:06:43.120><c> matches</c><00:06:43.600><c> this</c><00:06:44.000><c> styling</c>
+
+00:06:44.710 --> 00:06:44.720 align:start position:0%
+here which kind of matches this styling
+ 
+
+00:06:44.720 --> 00:06:46.550 align:start position:0%
+here which kind of matches this styling
+right<00:06:44.960><c> here.</c><00:06:45.600><c> Let's</c><00:06:45.919><c> see</c><00:06:46.000><c> what</c><00:06:46.160><c> else</c><00:06:46.319><c> it</c>
+
+00:06:46.550 --> 00:06:46.560 align:start position:0%
+right here. Let's see what else it
+ 
+
+00:06:46.560 --> 00:06:48.950 align:start position:0%
+right here. Let's see what else it
+creates.<00:06:47.360><c> YouTube</c><00:06:47.759><c> agent,</c><00:06:48.319><c> social</c><00:06:48.560><c> media</c>
+
+00:06:48.950 --> 00:06:48.960 align:start position:0%
+creates. YouTube agent, social media
+ 
+
+00:06:48.960 --> 00:06:51.430 align:start position:0%
+creates. YouTube agent, social media
+agent,<00:06:49.440><c> research</c><00:06:49.919><c> agent,</c><00:06:50.479><c> content</c><00:06:50.880><c> writer,</c>
+
+00:06:51.430 --> 00:06:51.440 align:start position:0%
+agent, research agent, content writer,
+ 
+
+00:06:51.440 --> 00:06:54.230 align:start position:0%
+agent, research agent, content writer,
+code<00:06:51.759><c> assistant.</c><00:06:52.479><c> This</c><00:06:52.639><c> is</c><00:06:52.800><c> pretty</c><00:06:53.120><c> crazy.</c><00:06:54.000><c> Oh</c>
+
+00:06:54.230 --> 00:06:54.240 align:start position:0%
+code assistant. This is pretty crazy. Oh
+ 
+
+00:06:54.240 --> 00:06:57.510 align:start position:0%
+code assistant. This is pretty crazy. Oh
+wow,<00:06:54.960><c> this</c><00:06:55.199><c> is</c><00:06:55.600><c> crazy.</c><00:06:56.319><c> This</c><00:06:56.479><c> is</c><00:06:56.720><c> exactly</c><00:06:57.280><c> what</c>
+
+00:06:57.510 --> 00:06:57.520 align:start position:0%
+wow, this is crazy. This is exactly what
+ 
+
+00:06:57.520 --> 00:07:00.870 align:start position:0%
+wow, this is crazy. This is exactly what
+I<00:06:57.759><c> was</c><00:06:57.919><c> going</c><00:06:58.080><c> for.</c><00:06:59.039><c> Yep.</c><00:06:59.759><c> Oh,</c><00:07:00.000><c> what's</c><00:07:00.319><c> this?</c>
+
+00:07:00.870 --> 00:07:00.880 align:start position:0%
+I was going for. Yep. Oh, what's this?
+ 
+
+00:07:00.880 --> 00:07:05.110 align:start position:0%
+I was going for. Yep. Oh, what's this?
+goals.<00:07:01.680><c> Oh,</c><00:07:02.000><c> let's</c><00:07:02.319><c> go.</c><00:07:02.960><c> This</c><00:07:03.199><c> is</c><00:07:03.440><c> insane.</c><00:07:04.800><c> Oh</c>
+
+00:07:05.110 --> 00:07:05.120 align:start position:0%
+goals. Oh, let's go. This is insane. Oh
+ 
+
+00:07:05.120 --> 00:07:08.469 align:start position:0%
+goals. Oh, let's go. This is insane. Oh
+my<00:07:05.520><c> god.</c><00:07:06.479><c> This</c><00:07:06.720><c> is</c><00:07:06.880><c> really</c><00:07:07.280><c> cool.</c><00:07:07.919><c> Please</c>
+
+00:07:08.469 --> 00:07:08.479 align:start position:0%
+my god. This is really cool. Please
+ 
+
+00:07:08.479 --> 00:07:13.670 align:start position:0%
+my god. This is really cool. Please
+create<00:07:09.440><c> another</c><00:07:10.639><c> exact</c><00:07:11.520><c> copy</c><00:07:12.080><c> of</c><00:07:12.400><c> this</c><00:07:12.960><c> except</c>
+
+00:07:13.670 --> 00:07:13.680 align:start position:0%
+create another exact copy of this except
+ 
+
+00:07:13.680 --> 00:07:18.230 align:start position:0%
+create another exact copy of this except
+use<00:07:14.160><c> the</c><00:07:14.479><c> font</c><00:07:15.360><c> instrument</c><00:07:16.400><c> sands</c><00:07:17.280><c> for</c><00:07:17.599><c> both</c>
+
+00:07:18.230 --> 00:07:18.240 align:start position:0%
+use the font instrument sands for both
+ 
+
+00:07:18.240 --> 00:07:22.150 align:start position:0%
+use the font instrument sands for both
+headers<00:07:19.120><c> and</c><00:07:19.520><c> body.</c><00:07:20.479><c> Please</c><00:07:21.199><c> download</c><00:07:21.840><c> the</c>
+
+00:07:22.150 --> 00:07:22.160 align:start position:0%
+headers and body. Please download the
+ 
+
+00:07:22.160 --> 00:07:27.189 align:start position:0%
+headers and body. Please download the
+font<00:07:23.120><c> if</c><00:07:23.680><c> you</c><00:07:24.000><c> don't</c><00:07:24.639><c> have</c><00:07:25.120><c> access</c><00:07:26.160><c> to</c><00:07:26.400><c> it.</c><00:07:26.960><c> put</c>
+
+00:07:27.189 --> 00:07:27.199 align:start position:0%
+font if you don't have access to it. put
+ 
+
+00:07:27.199 --> 00:07:31.830 align:start position:0%
+font if you don't have access to it. put
+it<00:07:27.840><c> right</c><00:07:28.479><c> next</c><00:07:29.039><c> to</c><00:07:29.599><c> the</c><00:07:29.919><c> current</c><00:07:30.479><c> version</c><00:07:31.440><c> we</c>
+
+00:07:31.830 --> 00:07:31.840 align:start position:0%
+it right next to the current version we
+ 
+
+00:07:31.840 --> 00:07:34.710 align:start position:0%
+it right next to the current version we
+have.<00:07:32.479><c> Okay,</c><00:07:32.960><c> looks</c><00:07:33.360><c> like</c><00:07:33.680><c> it</c><00:07:34.000><c> created</c><00:07:34.400><c> this</c>
+
+00:07:34.710 --> 00:07:34.720 align:start position:0%
+have. Okay, looks like it created this
+ 
+
+00:07:34.720 --> 00:07:36.790 align:start position:0%
+have. Okay, looks like it created this
+version<00:07:35.039><c> right</c><00:07:35.360><c> here.</c><00:07:35.919><c> I</c><00:07:36.160><c> think</c><00:07:36.240><c> I</c><00:07:36.400><c> like</c><00:07:36.639><c> this</c>
+
+00:07:36.790 --> 00:07:36.800 align:start position:0%
+version right here. I think I like this
+ 
+
+00:07:36.800 --> 00:07:39.189 align:start position:0%
+version right here. I think I like this
+font<00:07:37.199><c> a</c><00:07:37.520><c> little</c><00:07:37.680><c> bit</c><00:07:37.840><c> more.</c><00:07:38.560><c> This</c><00:07:38.720><c> is</c><00:07:38.880><c> really</c>
+
+00:07:39.189 --> 00:07:39.199 align:start position:0%
+font a little bit more. This is really
+ 
+
+00:07:39.199 --> 00:07:42.550 align:start position:0%
+font a little bit more. This is really
+cool.<00:07:39.759><c> Now</c><00:07:40.160><c> create</c><00:07:40.720><c> a</c><00:07:41.039><c> new</c><00:07:41.360><c> version</c><00:07:42.080><c> to</c><00:07:42.400><c> the</c>
+
+00:07:42.550 --> 00:07:42.560 align:start position:0%
+cool. Now create a new version to the
+ 
+
+00:07:42.560 --> 00:07:47.350 align:start position:0%
+cool. Now create a new version to the
+right<00:07:43.120><c> that</c><00:07:43.840><c> above</c><00:07:44.240><c> the</c><00:07:44.639><c> agents</c><00:07:45.520><c> it</c><00:07:45.759><c> has</c><00:07:46.319><c> a</c><00:07:46.880><c> new</c>
+
+00:07:47.350 --> 00:07:47.360 align:start position:0%
+right that above the agents it has a new
+ 
+
+00:07:47.360 --> 00:07:52.150 align:start position:0%
+right that above the agents it has a new
+section<00:07:48.160><c> called</c><00:07:48.880><c> learn</c><00:07:49.680><c> which</c><00:07:50.319><c> has</c><00:07:50.960><c> a</c><00:07:51.360><c> page</c>
+
+00:07:52.150 --> 00:07:52.160 align:start position:0%
+section called learn which has a page
+ 
+
+00:07:52.160 --> 00:07:56.790 align:start position:0%
+section called learn which has a page
+called<00:07:52.800><c> what</c><00:07:53.199><c> is</c><00:07:53.680><c> open</c><00:07:54.160><c> claw</c><00:07:54.720><c> and</c><00:07:55.039><c> this</c><00:07:55.520><c> is</c><00:07:56.000><c> a</c>
+
+00:07:56.790 --> 00:07:56.800 align:start position:0%
+called what is open claw and this is a
+ 
+
+00:07:56.800 --> 00:08:01.430 align:start position:0%
+called what is open claw and this is a
+learning<00:07:57.759><c> page</c><00:07:58.800><c> that</c><00:07:59.199><c> talks</c><00:08:00.000><c> about</c><00:08:00.560><c> what</c><00:08:00.960><c> open</c>
+
+00:08:01.430 --> 00:08:01.440 align:start position:0%
+learning page that talks about what open
+ 
+
+00:08:01.440 --> 00:08:05.990 align:start position:0%
+learning page that talks about what open
+claw<00:08:02.000><c> is</c><00:08:02.800><c> make</c><00:08:03.039><c> it</c><00:08:03.759><c> visual</c><00:08:04.639><c> and</c><00:08:05.039><c> it</c><00:08:05.360><c> should</c>
+
+00:08:05.990 --> 00:08:06.000 align:start position:0%
+claw is make it visual and it should
+ 
+
+00:08:06.000 --> 00:08:09.350 align:start position:0%
+claw is make it visual and it should
+show<00:08:06.240><c> up</c><00:08:06.800><c> on</c><00:08:07.440><c> the</c><00:08:07.680><c> right</c><00:08:08.160><c> here</c><00:08:08.400><c> it</c><00:08:08.560><c> is</c><00:08:09.120><c> created</c>
+
+00:08:09.350 --> 00:08:09.360 align:start position:0%
+show up on the right here it is created
+ 
+
+00:08:09.360 --> 00:08:11.830 align:start position:0%
+show up on the right here it is created
+creating<00:08:09.840><c> this</c><00:08:10.080><c> new</c><00:08:10.319><c> page.</c><00:08:11.120><c> It's</c><00:08:11.440><c> adding</c><00:08:11.680><c> my</c>
+
+00:08:11.830 --> 00:08:11.840 align:start position:0%
+creating this new page. It's adding my
+ 
+
+00:08:11.840 --> 00:08:15.990 align:start position:0%
+creating this new page. It's adding my
+agents.<00:08:12.879><c> Wow,</c><00:08:13.520><c> this</c><00:08:13.759><c> is</c><00:08:14.000><c> crazy,</c><00:08:14.560><c> man.</c><00:08:15.680><c> So</c>
+
+00:08:15.990 --> 00:08:16.000 align:start position:0%
+agents. Wow, this is crazy, man. So
+ 
+
+00:08:16.000 --> 00:08:19.350 align:start position:0%
+agents. Wow, this is crazy, man. So
+sick.<00:08:16.960><c> So</c><00:08:17.280><c> easy</c><00:08:17.520><c> to</c><00:08:17.759><c> use.</c><00:08:18.400><c> AI</c><00:08:18.879><c> generated</c>
+
+00:08:19.350 --> 00:08:19.360 align:start position:0%
+sick. So easy to use. AI generated
+ 
+
+00:08:19.360 --> 00:08:22.469 align:start position:0%
+sick. So easy to use. AI generated
+design,<00:08:19.840><c> huh?</c><00:08:20.400><c> It's</c><00:08:20.639><c> pretty</c><00:08:20.960><c> fun.</c><00:08:21.759><c> All</c><00:08:21.759><c> right.</c>
+
+00:08:22.469 --> 00:08:22.479 align:start position:0%
+design, huh? It's pretty fun. All right.
+ 
+
+00:08:22.479 --> 00:08:26.710 align:start position:0%
+design, huh? It's pretty fun. All right.
+Wow,<00:08:23.280><c> this</c><00:08:23.520><c> is</c><00:08:23.759><c> looking</c><00:08:24.080><c> good.</c><00:08:25.120><c> Okay,</c><00:08:26.000><c> so</c><00:08:26.560><c> now</c>
+
+00:08:26.710 --> 00:08:26.720 align:start position:0%
+Wow, this is looking good. Okay, so now
+ 
+
+00:08:26.720 --> 00:08:29.430 align:start position:0%
+Wow, this is looking good. Okay, so now
+what<00:08:26.960><c> I</c><00:08:27.039><c> want</c><00:08:27.199><c> to</c><00:08:27.280><c> do,</c><00:08:27.680><c> please</c><00:08:28.240><c> make</c><00:08:28.960><c> the</c>
+
+00:08:29.430 --> 00:08:29.440 align:start position:0%
+what I want to do, please make the
+ 
+
+00:08:29.440 --> 00:08:33.350 align:start position:0%
+what I want to do, please make the
+learning<00:08:30.319><c> lessons</c><00:08:31.440><c> simple</c><00:08:32.159><c> bullets</c><00:08:32.880><c> and</c><00:08:33.120><c> the</c>
+
+00:08:33.350 --> 00:08:33.360 align:start position:0%
+learning lessons simple bullets and the
+ 
+
+00:08:33.360 --> 00:08:37.909 align:start position:0%
+learning lessons simple bullets and the
+agents.<00:08:34.320><c> Please</c><00:08:34.959><c> use</c><00:08:35.680><c> better</c><00:08:36.560><c> icons</c><00:08:37.120><c> for</c><00:08:37.519><c> this</c>
+
+00:08:37.909 --> 00:08:37.919 align:start position:0%
+agents. Please use better icons for this
+ 
+
+00:08:37.919 --> 00:08:41.670 align:start position:0%
+agents. Please use better icons for this
+that<00:08:38.399><c> match</c><00:08:39.120><c> like</c><00:08:39.440><c> for</c><00:08:39.919><c> social</c><00:08:40.800><c> media.</c>
+
+00:08:41.670 --> 00:08:41.680 align:start position:0%
+that match like for social media.
+ 
+
+00:08:41.680 --> 00:08:45.509 align:start position:0%
+that match like for social media.
+Basically,<00:08:42.719><c> make</c><00:08:43.039><c> those</c><00:08:43.839><c> logos</c><00:08:44.959><c> better.</c>
+
+00:08:45.509 --> 00:08:45.519 align:start position:0%
+Basically, make those logos better.
+ 
+
+00:08:45.519 --> 00:08:47.509 align:start position:0%
+Basically, make those logos better.
+Okay.<00:08:45.839><c> Then</c><00:08:46.080><c> I</c><00:08:46.320><c> just</c><00:08:46.480><c> added</c><00:08:46.800><c> this</c><00:08:47.040><c> follow-up.</c>
+
+00:08:47.509 --> 00:08:47.519 align:start position:0%
+Okay. Then I just added this follow-up.
+ 
+
+00:08:47.519 --> 00:08:48.949 align:start position:0%
+Okay. Then I just added this follow-up.
+Then<00:08:47.680><c> I</c><00:08:47.839><c> want</c><00:08:47.920><c> you</c><00:08:48.000><c> to</c><00:08:48.080><c> iterate</c><00:08:48.399><c> on</c><00:08:48.560><c> the</c><00:08:48.720><c> open</c>
+
+00:08:48.949 --> 00:08:48.959 align:start position:0%
+Then I want you to iterate on the open
+ 
+
+00:08:48.959 --> 00:08:50.790 align:start position:0%
+Then I want you to iterate on the open
+claw<00:08:49.200><c> agents</c><00:08:49.519><c> 2</c><00:08:49.760><c> board.</c><00:08:50.240><c> I</c><00:08:50.399><c> want</c><00:08:50.560><c> you</c><00:08:50.640><c> to</c>
+
+00:08:50.790 --> 00:08:50.800 align:start position:0%
+claw agents 2 board. I want you to
+ 
+
+00:08:50.800 --> 00:08:52.630 align:start position:0%
+claw agents 2 board. I want you to
+create<00:08:51.040><c> a</c><00:08:51.279><c> new</c><00:08:51.440><c> cooler</c><00:08:51.839><c> way</c><00:08:52.000><c> to</c><00:08:52.160><c> show</c><00:08:52.320><c> skills</c>
+
+00:08:52.630 --> 00:08:52.640 align:start position:0%
+create a new cooler way to show skills
+ 
+
+00:08:52.640 --> 00:08:54.790 align:start position:0%
+create a new cooler way to show skills
+that<00:08:52.800><c> are</c><00:08:52.959><c> less</c><00:08:53.200><c> textheavy</c><00:08:54.000><c> and</c><00:08:54.240><c> make</c><00:08:54.480><c> three</c>
+
+00:08:54.790 --> 00:08:54.800 align:start position:0%
+that are less textheavy and make three
+ 
+
+00:08:54.800 --> 00:08:56.790 align:start position:0%
+that are less textheavy and make three
+versions<00:08:55.120><c> of</c><00:08:55.279><c> this</c><00:08:55.839><c> full</c><00:08:56.160><c> board</c><00:08:56.480><c> showing</c>
+
+00:08:56.790 --> 00:08:56.800 align:start position:0%
+versions of this full board showing
+ 
+
+00:08:56.800 --> 00:08:58.790 align:start position:0%
+versions of this full board showing
+different<00:08:57.120><c> options.</c><00:08:57.920><c> And</c><00:08:58.080><c> so</c><00:08:58.320><c> we</c><00:08:58.480><c> can</c><00:08:58.560><c> zoom</c>
+
+00:08:58.790 --> 00:08:58.800 align:start position:0%
+different options. And so we can zoom
+ 
+
+00:08:58.800 --> 00:09:01.110 align:start position:0%
+different options. And so we can zoom
+out<00:08:58.959><c> and</c><00:08:59.120><c> wait</c><00:08:59.279><c> for</c><00:08:59.440><c> it</c><00:08:59.600><c> to</c><00:09:00.320><c> kind</c><00:09:00.560><c> of</c><00:09:00.800><c> continue</c>
+
+00:09:01.110 --> 00:09:01.120 align:start position:0%
+out and wait for it to kind of continue
+ 
+
+00:09:01.120 --> 00:09:03.350 align:start position:0%
+out and wait for it to kind of continue
+working<00:09:01.360><c> on</c><00:09:01.600><c> this.</c><00:09:01.920><c> Okay,</c><00:09:02.240><c> here</c><00:09:02.480><c> they</c><00:09:02.720><c> are.</c>
+
+00:09:03.350 --> 00:09:03.360 align:start position:0%
+working on this. Okay, here they are.
+ 
+
+00:09:03.360 --> 00:09:05.430 align:start position:0%
+working on this. Okay, here they are.
+So,<00:09:04.000><c> here</c><00:09:04.240><c> are</c><00:09:04.399><c> the</c><00:09:04.640><c> three</c><00:09:04.880><c> that</c><00:09:05.120><c> they're</c>
+
+00:09:05.430 --> 00:09:05.440 align:start position:0%
+So, here are the three that they're
+ 
+
+00:09:05.440 --> 00:09:07.670 align:start position:0%
+So, here are the three that they're
+working<00:09:05.680><c> on</c><00:09:06.640><c> right</c><00:09:06.880><c> here.</c><00:09:07.200><c> It's</c><00:09:07.440><c> kind</c><00:09:07.600><c> of</c>
+
+00:09:07.670 --> 00:09:07.680 align:start position:0%
+working on right here. It's kind of
+ 
+
+00:09:07.680 --> 00:09:10.070 align:start position:0%
+working on right here. It's kind of
+working<00:09:07.920><c> on</c><00:09:08.399><c> Okay,</c><00:09:08.640><c> it's</c><00:09:08.880><c> using</c><00:09:09.120><c> all</c><00:09:09.360><c> of</c><00:09:09.440><c> these</c>
+
+00:09:10.070 --> 00:09:10.080 align:start position:0%
+working on Okay, it's using all of these
+ 
+
+00:09:10.080 --> 00:09:12.550 align:start position:0%
+working on Okay, it's using all of these
+at<00:09:10.480><c> once.</c><00:09:11.279><c> Okay,</c><00:09:11.519><c> so</c><00:09:11.680><c> it</c><00:09:11.839><c> just</c><00:09:12.000><c> removed</c><00:09:12.320><c> the</c>
+
+00:09:12.550 --> 00:09:12.560 align:start position:0%
+at once. Okay, so it just removed the
+ 
+
+00:09:12.560 --> 00:09:15.030 align:start position:0%
+at once. Okay, so it just removed the
+skills.<00:09:13.040><c> Let's</c><00:09:13.279><c> see</c><00:09:13.360><c> what</c><00:09:13.519><c> it</c><00:09:13.760><c> does</c><00:09:14.000><c> here.</c>
+
+00:09:15.030 --> 00:09:15.040 align:start position:0%
+skills. Let's see what it does here.
+ 
+
+00:09:15.040 --> 00:09:18.310 align:start position:0%
+skills. Let's see what it does here.
+Okay,<00:09:16.160><c> this</c><00:09:16.399><c> is</c><00:09:16.560><c> pretty</c><00:09:16.880><c> cool.</c><00:09:17.839><c> Skills</c>
+
+00:09:18.310 --> 00:09:18.320 align:start position:0%
+Okay, this is pretty cool. Skills
+ 
+
+00:09:18.320 --> 00:09:21.430 align:start position:0%
+Okay, this is pretty cool. Skills
+thumbnail<00:09:18.880><c> generator,</c><00:09:19.920><c> Gemini</c><00:09:20.399><c> API,</c><00:09:21.040><c> SER</c>
+
+00:09:21.430 --> 00:09:21.440 align:start position:0%
+thumbnail generator, Gemini API, SER
+ 
+
+00:09:21.440 --> 00:09:25.829 align:start position:0%
+thumbnail generator, Gemini API, SER
+API,<00:09:22.560><c> SUPA,</c><00:09:23.440><c> Katala,</c><00:09:24.000><c> and</c><00:09:24.160><c> Google</c><00:09:24.480><c> Workspace.</c>
+
+00:09:25.829 --> 00:09:25.839 align:start position:0%
+API, SUPA, Katala, and Google Workspace.
+ 
+
+00:09:25.839 --> 00:09:28.790 align:start position:0%
+API, SUPA, Katala, and Google Workspace.
+Actually,<00:09:26.320><c> this</c><00:09:26.480><c> is</c><00:09:26.640><c> pretty</c><00:09:26.959><c> cool.</c><00:09:27.760><c> Oh,</c><00:09:28.560><c> so</c>
+
+00:09:28.790 --> 00:09:28.800 align:start position:0%
+Actually, this is pretty cool. Oh, so
+ 
+
+00:09:28.800 --> 00:09:30.949 align:start position:0%
+Actually, this is pretty cool. Oh, so
+this<00:09:28.959><c> is</c><00:09:29.120><c> a</c><00:09:29.279><c> new</c><00:09:29.519><c> version.</c><00:09:30.000><c> This</c><00:09:30.160><c> is</c><00:09:30.560><c> another</c>
+
+00:09:30.949 --> 00:09:30.959 align:start position:0%
+this is a new version. This is another
+ 
+
+00:09:30.959 --> 00:09:32.710 align:start position:0%
+this is a new version. This is another
+possible<00:09:31.440><c> version</c><00:09:31.680><c> that</c><00:09:31.920><c> we</c><00:09:32.080><c> could</c><00:09:32.160><c> do.</c><00:09:32.480><c> It's</c>
+
+00:09:32.710 --> 00:09:32.720 align:start position:0%
+possible version that we could do. It's
+ 
+
+00:09:32.720 --> 00:09:34.630 align:start position:0%
+possible version that we could do. It's
+too<00:09:32.880><c> similar</c><00:09:33.200><c> to</c><00:09:33.360><c> this</c><00:09:33.600><c> side</c><00:09:33.839><c> panel</c><00:09:34.240><c> in</c><00:09:34.399><c> my</c>
+
+00:09:34.630 --> 00:09:34.640 align:start position:0%
+too similar to this side panel in my
+ 
+
+00:09:34.640 --> 00:09:37.750 align:start position:0%
+too similar to this side panel in my
+opinion.<00:09:35.200><c> I</c><00:09:35.440><c> like</c><00:09:35.680><c> these</c><00:09:36.480><c> a</c><00:09:36.720><c> little</c><00:09:36.880><c> bit</c><00:09:37.040><c> more.</c>
+
+00:09:37.750 --> 00:09:37.760 align:start position:0%
+opinion. I like these a little bit more.
+ 
+
+00:09:37.760 --> 00:09:41.030 align:start position:0%
+opinion. I like these a little bit more.
+Okay,<00:09:38.160><c> here</c><00:09:39.600><c> it</c><00:09:39.920><c> has</c><00:09:40.080><c> this</c><00:09:40.320><c> bar.</c><00:09:40.720><c> I</c><00:09:40.880><c> don't</c><00:09:40.959><c> know</c>
+
+00:09:41.030 --> 00:09:41.040 align:start position:0%
+Okay, here it has this bar. I don't know
+ 
+
+00:09:41.040 --> 00:09:43.350 align:start position:0%
+Okay, here it has this bar. I don't know
+what<00:09:41.200><c> these</c><00:09:41.440><c> bars</c><00:09:41.760><c> are</c><00:09:41.920><c> for,</c><00:09:42.480><c> but</c><00:09:42.640><c> I</c><00:09:42.880><c> do</c><00:09:43.120><c> like</c>
+
+00:09:43.350 --> 00:09:43.360 align:start position:0%
+what these bars are for, but I do like
+ 
+
+00:09:43.360 --> 00:09:45.910 align:start position:0%
+what these bars are for, but I do like
+it.<00:09:43.920><c> These</c><00:09:44.160><c> are</c><00:09:44.320><c> all</c><00:09:44.480><c> good</c><00:09:44.640><c> options.</c><00:09:45.519><c> So,</c><00:09:45.760><c> I</c>
+
+00:09:45.910 --> 00:09:45.920 align:start position:0%
+it. These are all good options. So, I
+ 
+
+00:09:45.920 --> 00:09:48.389 align:start position:0%
+it. These are all good options. So, I
+think<00:09:46.080><c> I</c><00:09:46.320><c> like</c><00:09:46.720><c> V1.</c><00:09:47.519><c> So,</c><00:09:47.680><c> we</c><00:09:47.839><c> can</c><00:09:47.920><c> just</c><00:09:48.080><c> tell</c><00:09:48.240><c> it</c>
+
+00:09:48.389 --> 00:09:48.399 align:start position:0%
+think I like V1. So, we can just tell it
+ 
+
+00:09:48.399 --> 00:09:51.990 align:start position:0%
+think I like V1. So, we can just tell it
+that<00:09:48.959><c> I</c><00:09:49.440><c> like</c><00:09:50.160><c> V1.</c><00:09:50.959><c> Let's</c><00:09:51.279><c> go</c><00:09:51.360><c> ahead</c><00:09:51.600><c> and</c><00:09:51.760><c> move</c>
+
+00:09:51.990 --> 00:09:52.000 align:start position:0%
+that I like V1. Let's go ahead and move
+ 
+
+00:09:52.000 --> 00:09:55.990 align:start position:0%
+that I like V1. Let's go ahead and move
+V1<00:09:52.480><c> down.</c><00:09:53.360><c> I</c><00:09:53.760><c> want</c><00:09:54.160><c> to</c><00:09:54.480><c> iterate</c><00:09:55.200><c> on</c><00:09:55.600><c> this</c>
+
+00:09:55.990 --> 00:09:56.000 align:start position:0%
+V1 down. I want to iterate on this
+ 
+
+00:09:56.000 --> 00:10:00.630 align:start position:0%
+V1 down. I want to iterate on this
+design.<00:09:56.959><c> Can</c><00:09:57.360><c> you</c><00:09:57.760><c> please</c><00:09:58.640><c> add</c><00:09:59.120><c> the</c><00:09:59.600><c> learn</c>
+
+00:10:00.630 --> 00:10:00.640 align:start position:0%
+design. Can you please add the learn
+ 
+
+00:10:00.640 --> 00:10:03.430 align:start position:0%
+design. Can you please add the learn
+section<00:10:01.600><c> on</c><00:10:02.000><c> this</c><00:10:02.240><c> one?</c><00:10:02.800><c> Right.</c><00:10:03.040><c> It</c><00:10:03.279><c> doesn't</c>
+
+00:10:03.430 --> 00:10:03.440 align:start position:0%
+section on this one? Right. It doesn't
+ 
+
+00:10:03.440 --> 00:10:06.310 align:start position:0%
+section on this one? Right. It doesn't
+have<00:10:03.600><c> this</c><00:10:03.839><c> learn</c><00:10:04.240><c> section</c><00:10:04.880><c> from</c><00:10:05.440><c> this</c><00:10:05.680><c> one</c>
+
+00:10:06.310 --> 00:10:06.320 align:start position:0%
+have this learn section from this one
+ 
+
+00:10:06.320 --> 00:10:09.350 align:start position:0%
+have this learn section from this one
+that<00:10:06.720><c> we</c><00:10:07.040><c> did</c><00:10:07.680><c> earlier.</c><00:10:08.560><c> And</c><00:10:08.800><c> now</c><00:10:09.040><c> it's</c>
+
+00:10:09.350 --> 00:10:09.360 align:start position:0%
+that we did earlier. And now it's
+ 
+
+00:10:09.360 --> 00:10:11.670 align:start position:0%
+that we did earlier. And now it's
+working.<00:10:10.240><c> There</c><00:10:10.480><c> we</c><00:10:10.640><c> go.</c><00:10:10.880><c> It</c><00:10:11.040><c> added</c><00:10:11.440><c> the</c>
+
+00:10:11.670 --> 00:10:11.680 align:start position:0%
+working. There we go. It added the
+ 
+
+00:10:11.680 --> 00:10:14.230 align:start position:0%
+working. There we go. It added the
+learn.<00:10:12.640><c> And</c><00:10:12.880><c> now</c><00:10:13.040><c> it's</c><00:10:13.279><c> adding</c><00:10:13.519><c> the</c><00:10:13.760><c> agents</c>
+
+00:10:14.230 --> 00:10:14.240 align:start position:0%
+learn. And now it's adding the agents
+ 
+
+00:10:14.240 --> 00:10:17.030 align:start position:0%
+learn. And now it's adding the agents
+back<00:10:14.640><c> again.</c><00:10:15.279><c> This</c><00:10:15.519><c> looks</c><00:10:15.760><c> pretty</c><00:10:15.920><c> good.</c><00:10:16.560><c> Now,</c>
+
+00:10:17.030 --> 00:10:17.040 align:start position:0%
+back again. This looks pretty good. Now,
+ 
+
+00:10:17.040 --> 00:10:20.310 align:start position:0%
+back again. This looks pretty good. Now,
+can<00:10:17.200><c> you</c><00:10:17.360><c> add</c><00:10:17.519><c> a</c><00:10:17.839><c> settings</c><00:10:18.560><c> module</c><00:10:19.519><c> that</c><00:10:19.839><c> will</c>
+
+00:10:20.310 --> 00:10:20.320 align:start position:0%
+can you add a settings module that will
+ 
+
+00:10:20.320 --> 00:10:24.230 align:start position:0%
+can you add a settings module that will
+pop<00:10:20.800><c> up</c><00:10:21.200><c> when</c><00:10:21.519><c> I</c><00:10:21.839><c> click</c><00:10:22.480><c> on</c><00:10:22.880><c> the</c><00:10:23.200><c> thing</c><00:10:23.600><c> on</c><00:10:24.000><c> the</c>
+
+00:10:24.230 --> 00:10:24.240 align:start position:0%
+pop up when I click on the thing on the
+ 
+
+00:10:24.240 --> 00:10:28.710 align:start position:0%
+pop up when I click on the thing on the
+right?<00:10:25.040><c> And</c><00:10:25.680><c> there</c><00:10:26.240><c> should</c><00:10:26.640><c> be</c><00:10:27.279><c> an</c><00:10:27.839><c> enable</c>
+
+00:10:28.710 --> 00:10:28.720 align:start position:0%
+right? And there should be an enable
+ 
+
+00:10:28.720 --> 00:10:33.829 align:start position:0%
+right? And there should be an enable
+edit<00:10:29.440><c> mode</c><00:10:30.160><c> which</c><00:10:30.800><c> has</c><00:10:31.200><c> a</c><00:10:31.680><c> password</c><00:10:32.800><c> so</c><00:10:33.120><c> that</c>
+
+00:10:33.829 --> 00:10:33.839 align:start position:0%
+edit mode which has a password so that
+ 
+
+00:10:33.839 --> 00:10:38.389 align:start position:0%
+edit mode which has a password so that
+the<00:10:34.240><c> admin</c><00:10:35.040><c> can</c><00:10:35.839><c> edit</c><00:10:36.399><c> the</c><00:10:36.720><c> data</c><00:10:37.279><c> on</c><00:10:37.600><c> the</c><00:10:37.839><c> site</c>
+
+00:10:38.389 --> 00:10:38.399 align:start position:0%
+the admin can edit the data on the site
+ 
+
+00:10:38.399 --> 00:10:41.430 align:start position:0%
+the admin can edit the data on the site
+and<00:10:38.800><c> add</c><00:10:39.120><c> new</c><00:10:39.760><c> agents.</c><00:10:40.800><c> Wait,</c><00:10:41.120><c> I'm</c><00:10:41.279><c> going</c><00:10:41.360><c> to</c>
+
+00:10:41.430 --> 00:10:41.440 align:start position:0%
+and add new agents. Wait, I'm going to
+ 
+
+00:10:41.440 --> 00:10:45.190 align:start position:0%
+and add new agents. Wait, I'm going to
+stop<00:10:41.680><c> this</c><00:10:41.920><c> real</c><00:10:42.160><c> quick.</c><00:10:42.640><c> I</c><00:10:43.040><c> want</c><00:10:43.600><c> this</c><00:10:44.000><c> to</c><00:10:44.640><c> be</c>
+
+00:10:45.190 --> 00:10:45.200 align:start position:0%
+stop this real quick. I want this to be
+ 
+
+00:10:45.200 --> 00:10:49.110 align:start position:0%
+stop this real quick. I want this to be
+a<00:10:45.839><c> new</c><00:10:46.320><c> page</c><00:10:47.040><c> to</c><00:10:47.279><c> the</c><00:10:47.519><c> right</c><00:10:48.000><c> of</c><00:10:48.320><c> this</c><00:10:48.560><c> one.</c>
+
+00:10:49.110 --> 00:10:49.120 align:start position:0%
+a new page to the right of this one.
+ 
+
+00:10:49.120 --> 00:10:52.069 align:start position:0%
+a new page to the right of this one.
+Like<00:10:49.360><c> a</c><00:10:49.600><c> new</c><00:10:50.000><c> board.</c><00:10:50.560><c> Okay,</c><00:10:51.360><c> here</c><00:10:51.519><c> we</c><00:10:51.680><c> go.</c>
+
+00:10:52.069 --> 00:10:52.079 align:start position:0%
+Like a new board. Okay, here we go.
+ 
+
+00:10:52.079 --> 00:10:54.949 align:start position:0%
+Like a new board. Okay, here we go.
+Settings<00:10:52.560><c> modal.</c><00:10:53.360><c> This</c><00:10:53.600><c> is</c><00:10:53.839><c> awesome.</c><00:10:54.480><c> This</c><00:10:54.720><c> is</c>
+
+00:10:54.949 --> 00:10:54.959 align:start position:0%
+Settings modal. This is awesome. This is
+ 
+
+00:10:54.959 --> 00:10:58.069 align:start position:0%
+Settings modal. This is awesome. This is
+actually<00:10:55.519><c> so</c><00:10:56.240><c> cool.</c><00:10:56.880><c> I'm</c><00:10:57.360><c> pretty</c><00:10:57.600><c> blown</c><00:10:57.920><c> away</c>
+
+00:10:58.069 --> 00:10:58.079 align:start position:0%
+actually so cool. I'm pretty blown away
+ 
+
+00:10:58.079 --> 00:11:01.829 align:start position:0%
+actually so cool. I'm pretty blown away
+by<00:10:58.320><c> this.</c><00:10:58.880><c> Oh</c><00:10:59.360><c> yeah.</c><00:11:00.160><c> Okay.</c>
+
+00:11:01.829 --> 00:11:01.839 align:start position:0%
+by this. Oh yeah. Okay.
+ 
+
+00:11:01.839 --> 00:11:03.910 align:start position:0%
+by this. Oh yeah. Okay.
+There<00:11:02.079><c> it</c><00:11:02.320><c> is.</c><00:11:02.880><c> This</c><00:11:03.120><c> is</c><00:11:03.279><c> looking</c><00:11:03.600><c> pretty</c>
+
+00:11:03.910 --> 00:11:03.920 align:start position:0%
+There it is. This is looking pretty
+ 
+
+00:11:03.920 --> 00:11:07.110 align:start position:0%
+There it is. This is looking pretty
+good.<00:11:04.560><c> Password</c><00:11:05.200><c> to</c><00:11:05.680><c> Oh,</c><00:11:05.920><c> wow.</c><00:11:06.240><c> This</c><00:11:06.399><c> is</c><00:11:06.560><c> fire.</c>
+
+00:11:07.110 --> 00:11:07.120 align:start position:0%
+good. Password to Oh, wow. This is fire.
+ 
+
+00:11:07.120 --> 00:11:08.949 align:start position:0%
+good. Password to Oh, wow. This is fire.
+Oh,<00:11:07.440><c> so</c><00:11:07.600><c> it</c><00:11:07.839><c> added</c><00:11:08.079><c> this</c><00:11:08.240><c> dark</c><00:11:08.560><c> mode</c>
+
+00:11:08.949 --> 00:11:08.959 align:start position:0%
+Oh, so it added this dark mode
+ 
+
+00:11:08.959 --> 00:11:10.470 align:start position:0%
+Oh, so it added this dark mode
+notifications.
+
+00:11:10.470 --> 00:11:10.480 align:start position:0%
+notifications.
+ 
+
+00:11:10.480 --> 00:11:12.069 align:start position:0%
+notifications.
+Let's<00:11:10.720><c> be</c><00:11:10.880><c> disciplined</c><00:11:11.279><c> here.</c><00:11:11.600><c> We</c><00:11:11.839><c> don't</c><00:11:11.920><c> need</c>
+
+00:11:12.069 --> 00:11:12.079 align:start position:0%
+Let's be disciplined here. We don't need
+ 
+
+00:11:12.079 --> 00:11:14.230 align:start position:0%
+Let's be disciplined here. We don't need
+dark<00:11:12.320><c> mode</c><00:11:12.480><c> on</c><00:11:12.640><c> the</c><00:11:12.720><c> first</c><00:11:12.880><c> mode.</c><00:11:13.279><c> We</c><00:11:13.760><c> don't</c>
+
+00:11:14.230 --> 00:11:14.240 align:start position:0%
+dark mode on the first mode. We don't
+ 
+
+00:11:14.240 --> 00:11:18.790 align:start position:0%
+dark mode on the first mode. We don't
+need<00:11:15.040><c> those</c><00:11:15.839><c> other</c><00:11:16.560><c> options.</c><00:11:17.519><c> It</c><00:11:17.839><c> should</c><00:11:18.240><c> not</c>
+
+00:11:18.790 --> 00:11:18.800 align:start position:0%
+need those other options. It should not
+ 
+
+00:11:18.800 --> 00:11:24.470 align:start position:0%
+need those other options. It should not
+say<00:11:19.760><c> Riley</c><00:11:20.480><c> Brown.</c><00:11:21.440><c> It</c><00:11:21.839><c> should</c><00:11:22.320><c> say</c><00:11:23.519><c> settings</c>
+
+00:11:24.470 --> 00:11:24.480 align:start position:0%
+say Riley Brown. It should say settings
+ 
+
+00:11:24.480 --> 00:11:28.069 align:start position:0%
+say Riley Brown. It should say settings
+because<00:11:25.200><c> there</c><00:11:25.600><c> is</c><00:11:25.920><c> no</c><00:11:26.399><c> sign</c><00:11:26.720><c> in</c><00:11:27.519><c> only</c>
+
+00:11:28.069 --> 00:11:28.079 align:start position:0%
+because there is no sign in only
+ 
+
+00:11:28.079 --> 00:11:31.829 align:start position:0%
+because there is no sign in only
+password<00:11:28.959><c> for</c><00:11:29.279><c> edit</c><00:11:30.000><c> mode.</c><00:11:30.480><c> Edit</c><00:11:30.880><c> this</c><00:11:31.360><c> on</c>
+
+00:11:31.829 --> 00:11:31.839 align:start position:0%
+password for edit mode. Edit this on
+ 
+
+00:11:31.839 --> 00:11:35.030 align:start position:0%
+password for edit mode. Edit this on
+both<00:11:32.480><c> of</c><00:11:32.800><c> the</c><00:11:33.120><c> two</c><00:11:33.680><c> previous</c><00:11:34.560><c> boards.</c><00:11:35.040><c> All</c>
+
+00:11:35.030 --> 00:11:35.040 align:start position:0%
+both of the two previous boards. All
+ 
+
+00:11:35.040 --> 00:11:36.550 align:start position:0%
+both of the two previous boards. All
+right.<00:11:35.279><c> So,</c><00:11:35.360><c> it</c><00:11:35.519><c> should</c><00:11:35.680><c> edit</c><00:11:36.000><c> both</c><00:11:36.160><c> of</c><00:11:36.240><c> these.</c>
+
+00:11:36.550 --> 00:11:36.560 align:start position:0%
+right. So, it should edit both of these.
+ 
+
+00:11:36.560 --> 00:11:37.910 align:start position:0%
+right. So, it should edit both of these.
+It<00:11:36.720><c> should</c><00:11:36.880><c> just</c><00:11:37.040><c> say</c><00:11:37.279><c> settings</c><00:11:37.600><c> here.</c><00:11:37.760><c> It</c>
+
+00:11:37.910 --> 00:11:37.920 align:start position:0%
+It should just say settings here. It
+ 
+
+00:11:37.920 --> 00:11:39.910 align:start position:0%
+It should just say settings here. It
+already<00:11:38.079><c> edited</c><00:11:38.480><c> it</c><00:11:38.640><c> here.</c><00:11:39.279><c> It</c><00:11:39.440><c> should</c><00:11:39.600><c> add</c><00:11:39.760><c> it</c>
+
+00:11:39.910 --> 00:11:39.920 align:start position:0%
+already edited it here. It should add it
+ 
+
+00:11:39.920 --> 00:11:42.069 align:start position:0%
+already edited it here. It should add it
+here<00:11:40.079><c> as</c><00:11:40.320><c> well.</c><00:11:40.959><c> There</c><00:11:41.120><c> we</c><00:11:41.360><c> go.</c><00:11:41.600><c> I'm</c><00:11:41.839><c> going</c><00:11:42.000><c> to</c>
+
+00:11:42.069 --> 00:11:42.079 align:start position:0%
+here as well. There we go. I'm going to
+ 
+
+00:11:42.079 --> 00:11:46.470 align:start position:0%
+here as well. There we go. I'm going to
+say<00:11:42.480><c> make</c><00:11:42.880><c> it</c><00:11:43.120><c> a</c><00:11:43.760><c> settings</c><00:11:44.720><c> icon</c><00:11:45.440><c> instead</c><00:11:46.079><c> of</c>
+
+00:11:46.470 --> 00:11:46.480 align:start position:0%
+say make it a settings icon instead of
+ 
+
+00:11:46.480 --> 00:11:48.790 align:start position:0%
+say make it a settings icon instead of
+R.<00:11:47.120><c> And</c><00:11:47.279><c> this</c><00:11:47.519><c> is</c><00:11:47.680><c> looking</c><00:11:47.839><c> pretty</c><00:11:48.160><c> good.</c><00:11:48.560><c> So,</c>
+
+00:11:48.790 --> 00:11:48.800 align:start position:0%
+R. And this is looking pretty good. So,
+ 
+
+00:11:48.800 --> 00:11:50.470 align:start position:0%
+R. And this is looking pretty good. So,
+now<00:11:48.959><c> we're</c><00:11:49.200><c> going</c><00:11:49.200><c> to</c><00:11:49.360><c> go</c><00:11:49.440><c> to</c><00:11:49.600><c> a</c><00:11:49.760><c> new</c><00:11:49.920><c> chat.</c><00:11:50.240><c> I'm</c>
+
+00:11:50.470 --> 00:11:50.480 align:start position:0%
+now we're going to go to a new chat. I'm
+ 
+
+00:11:50.480 --> 00:11:53.430 align:start position:0%
+now we're going to go to a new chat. I'm
+going<00:11:50.560><c> to</c><00:11:50.640><c> say,</c><00:11:50.959><c> okay,</c><00:11:51.680><c> I</c><00:11:52.000><c> like</c><00:11:52.399><c> the</c><00:11:53.040><c> three</c>
+
+00:11:53.430 --> 00:11:53.440 align:start position:0%
+going to say, okay, I like the three
+ 
+
+00:11:53.440 --> 00:11:57.670 align:start position:0%
+going to say, okay, I like the three
+designs<00:11:54.560><c> that</c><00:11:54.959><c> remain.</c><00:11:55.760><c> These</c><00:11:56.320><c> are</c><00:11:56.560><c> the</c><00:11:56.880><c> ones</c>
+
+00:11:57.670 --> 00:11:57.680 align:start position:0%
+designs that remain. These are the ones
+ 
+
+00:11:57.680 --> 00:12:01.990 align:start position:0%
+designs that remain. These are the ones
+I<00:11:58.000><c> want</c><00:11:58.320><c> to</c><00:11:58.640><c> use</c><00:11:59.120><c> to</c><00:11:59.440><c> build</c><00:12:00.079><c> a</c><00:12:00.480><c> site.</c><00:12:01.360><c> Please</c>
+
+00:12:01.990 --> 00:12:02.000 align:start position:0%
+I want to use to build a site. Please
+ 
+
+00:12:02.000 --> 00:12:06.629 align:start position:0%
+I want to use to build a site. Please
+use<00:12:02.320><c> them</c><00:12:02.880><c> and</c><00:12:03.279><c> build</c><00:12:03.760><c> the</c><00:12:04.560><c> full</c><00:12:05.279><c> website</c><00:12:06.320><c> with</c>
+
+00:12:06.629 --> 00:12:06.639 align:start position:0%
+use them and build the full website with
+ 
+
+00:12:06.639 --> 00:12:11.030 align:start position:0%
+use them and build the full website with
+these<00:12:07.519><c> designs.</c><00:12:08.399><c> Don't</c><00:12:08.800><c> add</c><00:12:09.279><c> the</c><00:12:09.600><c> edit</c><00:12:10.160><c> mode.</c>
+
+00:12:11.030 --> 00:12:11.040 align:start position:0%
+these designs. Don't add the edit mode.
+ 
+
+00:12:11.040 --> 00:12:14.389 align:start position:0%
+these designs. Don't add the edit mode.
+Just<00:12:11.519><c> create</c><00:12:12.240><c> the</c><00:12:12.560><c> front</c><00:12:12.880><c> end</c><00:12:13.519><c> and</c><00:12:13.920><c> all</c><00:12:14.160><c> the</c>
+
+00:12:14.389 --> 00:12:14.399 align:start position:0%
+Just create the front end and all the
+ 
+
+00:12:14.399 --> 00:12:17.509 align:start position:0%
+Just create the front end and all the
+agent<00:12:15.120><c> info,</c><00:12:16.079><c> etc.</c><00:12:16.720><c> Okay,</c><00:12:16.959><c> so</c><00:12:17.120><c> let's</c><00:12:17.279><c> see</c><00:12:17.360><c> how</c>
+
+00:12:17.509 --> 00:12:17.519 align:start position:0%
+agent info, etc. Okay, so let's see how
+ 
+
+00:12:17.519 --> 00:12:18.710 align:start position:0%
+agent info, etc. Okay, so let's see how
+this<00:12:17.680><c> works.</c><00:12:18.000><c> I've</c><00:12:18.160><c> actually</c><00:12:18.320><c> never</c><00:12:18.480><c> tried</c>
+
+00:12:18.710 --> 00:12:18.720 align:start position:0%
+this works. I've actually never tried
+ 
+
+00:12:18.720 --> 00:12:19.990 align:start position:0%
+this works. I've actually never tried
+this<00:12:18.880><c> before,</c><00:12:19.200><c> but</c><00:12:19.360><c> I'm</c><00:12:19.519><c> pretty</c><00:12:19.680><c> sure</c><00:12:19.760><c> you</c><00:12:19.920><c> can</c>
+
+00:12:19.990 --> 00:12:20.000 align:start position:0%
+this before, but I'm pretty sure you can
+ 
+
+00:12:20.000 --> 00:12:21.590 align:start position:0%
+this before, but I'm pretty sure you can
+do<00:12:20.079><c> this.</c><00:12:20.480><c> So,</c><00:12:20.639><c> you</c><00:12:20.720><c> can</c><00:12:20.880><c> see</c><00:12:20.959><c> here</c><00:12:21.120><c> that</c><00:12:21.360><c> it's</c>
+
+00:12:21.590 --> 00:12:21.600 align:start position:0%
+do this. So, you can see here that it's
+ 
+
+00:12:21.600 --> 00:12:23.269 align:start position:0%
+do this. So, you can see here that it's
+reading<00:12:22.000><c> these</c><00:12:22.320><c> pages,</c><00:12:22.720><c> right?</c><00:12:22.959><c> These</c><00:12:23.120><c> are</c>
+
+00:12:23.269 --> 00:12:23.279 align:start position:0%
+reading these pages, right? These are
+ 
+
+00:12:23.279 --> 00:12:25.110 align:start position:0%
+reading these pages, right? These are
+the<00:12:23.440><c> three</c><00:12:23.600><c> designs</c><00:12:23.920><c> that</c><00:12:24.160><c> we're</c><00:12:24.320><c> using.</c><00:12:24.880><c> It's</c>
+
+00:12:25.110 --> 00:12:25.120 align:start position:0%
+the three designs that we're using. It's
+ 
+
+00:12:25.120 --> 00:12:26.870 align:start position:0%
+the three designs that we're using. It's
+pretty<00:12:25.360><c> simple</c><00:12:25.680><c> website.</c><00:12:26.160><c> Let's</c><00:12:26.399><c> see</c><00:12:26.480><c> if</c><00:12:26.639><c> this</c>
+
+00:12:26.870 --> 00:12:26.880 align:start position:0%
+pretty simple website. Let's see if this
+ 
+
+00:12:26.880 --> 00:12:29.110 align:start position:0%
+pretty simple website. Let's see if this
+works.<00:12:27.440><c> Okay,</c><00:12:27.760><c> it</c><00:12:27.920><c> looks</c><00:12:28.079><c> like</c><00:12:28.240><c> it's</c><00:12:28.560><c> done.</c><00:12:28.880><c> We</c>
+
+00:12:29.110 --> 00:12:29.120 align:start position:0%
+works. Okay, it looks like it's done. We
+ 
+
+00:12:29.120 --> 00:12:31.670 align:start position:0%
+works. Okay, it looks like it's done. We
+have<00:12:29.200><c> this</c><00:12:29.519><c> app</c><00:12:29.920><c> folder.</c><00:12:30.959><c> So,</c><00:12:31.120><c> it</c><00:12:31.360><c> looks</c><00:12:31.519><c> like</c>
+
+00:12:31.670 --> 00:12:31.680 align:start position:0%
+have this app folder. So, it looks like
+ 
+
+00:12:31.680 --> 00:12:34.470 align:start position:0%
+have this app folder. So, it looks like
+it<00:12:32.000><c> turned</c><00:12:32.160><c> it</c><00:12:32.399><c> into</c><00:12:32.720><c> a</c><00:12:33.040><c> React</c><00:12:33.519><c> app.</c><00:12:34.079><c> We</c><00:12:34.320><c> can</c><00:12:34.399><c> go</c>
+
+00:12:34.470 --> 00:12:34.480 align:start position:0%
+it turned it into a React app. We can go
+ 
+
+00:12:34.480 --> 00:12:37.190 align:start position:0%
+it turned it into a React app. We can go
+to<00:12:34.720><c> Comet.</c><00:12:35.440><c> Here</c><00:12:35.600><c> it</c><00:12:35.760><c> is.</c><00:12:36.079><c> It's</c><00:12:36.399><c> open</c><00:12:36.639><c> here</c><00:12:36.880><c> on</c>
+
+00:12:37.190 --> 00:12:37.200 align:start position:0%
+to Comet. Here it is. It's open here on
+ 
+
+00:12:37.200 --> 00:12:39.430 align:start position:0%
+to Comet. Here it is. It's open here on
+localhost<00:12:37.839><c> 5173.</c>
+
+00:12:39.430 --> 00:12:39.440 align:start position:0%
+localhost 5173.
+ 
+
+00:12:39.440 --> 00:12:41.430 align:start position:0%
+localhost 5173.
+You<00:12:39.600><c> can</c><00:12:39.760><c> see</c><00:12:39.920><c> here</c><00:12:40.160><c> we</c><00:12:40.399><c> have</c><00:12:40.480><c> the</c><00:12:40.800><c> remote</c>
+
+00:12:41.430 --> 00:12:41.440 align:start position:0%
+You can see here we have the remote
+ 
+
+00:12:41.440 --> 00:12:43.910 align:start position:0%
+You can see here we have the remote
+setup<00:12:42.160><c> and</c><00:12:42.480><c> everything</c><00:12:42.959><c> looks</c><00:12:43.279><c> like</c><00:12:43.440><c> it's</c>
+
+00:12:43.910 --> 00:12:43.920 align:start position:0%
+setup and everything looks like it's
+ 
+
+00:12:43.920 --> 00:12:46.870 align:start position:0%
+setup and everything looks like it's
+pretty<00:12:44.399><c> damn</c><00:12:44.880><c> close</c><00:12:45.360><c> to</c><00:12:45.600><c> the</c><00:12:45.839><c> spec.</c><00:12:46.399><c> If</c><00:12:46.560><c> we</c><00:12:46.720><c> go</c>
+
+00:12:46.870 --> 00:12:46.880 align:start position:0%
+pretty damn close to the spec. If we go
+ 
+
+00:12:46.880 --> 00:12:50.550 align:start position:0%
+pretty damn close to the spec. If we go
+back<00:12:46.959><c> to</c><00:12:47.200><c> paper,</c><00:12:47.920><c> we</c><00:12:48.160><c> can</c><00:12:48.320><c> see</c><00:12:48.480><c> here</c><00:12:49.360><c> it</c><00:12:49.600><c> looks</c>
+
+00:12:50.550 --> 00:12:50.560 align:start position:0%
+back to paper, we can see here it looks
+ 
+
+00:12:50.560 --> 00:12:53.910 align:start position:0%
+back to paper, we can see here it looks
+pretty<00:12:50.959><c> similar.</c><00:12:51.839><c> And</c><00:12:52.079><c> there</c><00:12:52.320><c> you</c><00:12:52.560><c> go.</c><00:12:53.120><c> We</c>
+
+00:12:53.910 --> 00:12:53.920 align:start position:0%
+pretty similar. And there you go. We
+ 
+
+00:12:53.920 --> 00:12:56.710 align:start position:0%
+pretty similar. And there you go. We
+basically<00:12:54.480><c> used</c><00:12:54.959><c> clawed</c><00:12:55.440><c> code.</c><00:12:56.000><c> I</c><00:12:56.240><c> did</c><00:12:56.399><c> it</c><00:12:56.480><c> in</c>
+
+00:12:56.710 --> 00:12:56.720 align:start position:0%
+basically used clawed code. I did it in
+ 
+
+00:12:56.720 --> 00:12:59.509 align:start position:0%
+basically used clawed code. I did it in
+cursor<00:12:57.440><c> and</c><00:12:57.760><c> we</c><00:12:58.160><c> were</c><00:12:58.399><c> able</c><00:12:58.720><c> to</c><00:12:59.120><c> create</c>
+
+00:12:59.509 --> 00:12:59.519 align:start position:0%
+cursor and we were able to create
+ 
+
+00:12:59.519 --> 00:13:02.710 align:start position:0%
+cursor and we were able to create
+designs<00:13:00.320><c> on</c><00:13:00.720><c> paper</c><00:13:01.440><c> just</c><00:13:01.680><c> like</c><00:13:01.920><c> this.</c><00:13:02.480><c> We</c>
+
+00:13:02.710 --> 00:13:02.720 align:start position:0%
+designs on paper just like this. We
+ 
+
+00:13:02.720 --> 00:13:05.190 align:start position:0%
+designs on paper just like this. We
+iterated.<00:13:03.360><c> We</c><00:13:03.600><c> found</c><00:13:03.839><c> a</c><00:13:04.240><c> a</c><00:13:04.560><c> style</c><00:13:04.800><c> that</c><00:13:05.040><c> we</c>
+
+00:13:05.190 --> 00:13:05.200 align:start position:0%
+iterated. We found a a style that we
+ 
+
+00:13:05.200 --> 00:13:07.509 align:start position:0%
+iterated. We found a a style that we
+liked<00:13:05.440><c> and</c><00:13:05.600><c> then</c><00:13:05.680><c> we</c><00:13:05.839><c> turned</c><00:13:06.000><c> it</c><00:13:06.320><c> into</c><00:13:06.800><c> a</c><00:13:07.120><c> React</c>
+
+00:13:07.509 --> 00:13:07.519 align:start position:0%
+liked and then we turned it into a React
+ 
+
+00:13:07.519 --> 00:13:10.069 align:start position:0%
+liked and then we turned it into a React
+app.<00:13:08.000><c> And</c><00:13:08.240><c> I</c><00:13:08.399><c> think</c><00:13:08.480><c> the</c><00:13:08.720><c> last</c><00:13:08.880><c> step</c><00:13:09.120><c> would</c><00:13:09.440><c> be</c>
+
+00:13:10.069 --> 00:13:10.079 align:start position:0%
+app. And I think the last step would be
+ 
+
+00:13:10.079 --> 00:13:15.030 align:start position:0%
+app. And I think the last step would be
+please<00:13:10.959><c> can</c><00:13:11.279><c> you</c><00:13:11.760><c> push</c><00:13:12.240><c> this</c><00:13:12.800><c> to</c><00:13:13.279><c> GitHub</c><00:13:14.399><c> and</c>
+
+00:13:15.030 --> 00:13:15.040 align:start position:0%
+please can you push this to GitHub and
+ 
+
+00:13:15.040 --> 00:13:18.710 align:start position:0%
+please can you push this to GitHub and
+Versel<00:13:15.920><c> using</c><00:13:16.399><c> the</c><00:13:16.880><c> CLI?</c><00:13:17.760><c> And</c><00:13:18.000><c> what</c><00:13:18.160><c> I</c><00:13:18.399><c> like</c><00:13:18.560><c> to</c>
+
+00:13:18.710 --> 00:13:18.720 align:start position:0%
+Versel using the CLI? And what I like to
+ 
+
+00:13:18.720 --> 00:13:20.550 align:start position:0%
+Versel using the CLI? And what I like to
+do<00:13:19.040><c> I</c><00:13:19.279><c> like</c><00:13:19.440><c> to</c><00:13:19.600><c> go</c><00:13:19.680><c> to</c><00:13:19.839><c> GitHub.</c><00:13:20.240><c> I'm</c><00:13:20.399><c> going</c><00:13:20.480><c> to</c>
+
+00:13:20.550 --> 00:13:20.560 align:start position:0%
+do I like to go to GitHub. I'm going to
+ 
+
+00:13:20.560 --> 00:13:22.310 align:start position:0%
+do I like to go to GitHub. I'm going to
+create<00:13:20.720><c> a</c><00:13:20.880><c> new</c><00:13:21.040><c> repository.</c><00:13:21.839><c> I'll</c><00:13:22.000><c> just</c><00:13:22.160><c> make</c>
+
+00:13:22.310 --> 00:13:22.320 align:start position:0%
+create a new repository. I'll just make
+ 
+
+00:13:22.320 --> 00:13:24.710 align:start position:0%
+create a new repository. I'll just make
+this<00:13:22.639><c> public.</c><00:13:23.200><c> This</c><00:13:23.360><c> will</c><00:13:23.519><c> just</c><00:13:23.760><c> be</c><00:13:24.079><c> landing</c>
+
+00:13:24.710 --> 00:13:24.720 align:start position:0%
+this public. This will just be landing
+ 
+
+00:13:24.720 --> 00:13:29.590 align:start position:0%
+this public. This will just be landing
+page<00:13:25.519><c> design</c><00:13:26.399><c> test.</c><00:13:27.279><c> Yes.</c><00:13:28.399><c> Test.</c><00:13:29.200><c> We</c><00:13:29.440><c> can</c>
+
+00:13:29.590 --> 00:13:29.600 align:start position:0%
+page design test. Yes. Test. We can
+ 
+
+00:13:29.600 --> 00:13:31.829 align:start position:0%
+page design test. Yes. Test. We can
+create<00:13:29.839><c> a</c><00:13:30.079><c> repository</c><00:13:30.720><c> on</c><00:13:31.040><c> GitHub.</c><00:13:31.600><c> Let</c><00:13:31.680><c> me</c>
+
+00:13:31.829 --> 00:13:31.839 align:start position:0%
+create a repository on GitHub. Let me
+ 
+
+00:13:31.839 --> 00:13:34.150 align:start position:0%
+create a repository on GitHub. Let me
+make<00:13:32.000><c> sure</c><00:13:32.079><c> we</c><00:13:32.399><c> put</c><00:13:32.800><c> my</c><00:13:33.440><c> name</c><00:13:33.760><c> right</c><00:13:33.920><c> here.</c>
+
+00:13:34.150 --> 00:13:34.160 align:start position:0%
+make sure we put my name right here.
+ 
+
+00:13:34.160 --> 00:13:36.150 align:start position:0%
+make sure we put my name right here.
+We're<00:13:34.320><c> going</c><00:13:34.399><c> to</c><00:13:34.560><c> copy</c><00:13:34.880><c> this.</c><00:13:35.600><c> Now</c><00:13:35.839><c> what</c><00:13:36.000><c> we're</c>
+
+00:13:36.150 --> 00:13:36.160 align:start position:0%
+We're going to copy this. Now what we're
+ 
+
+00:13:36.160 --> 00:13:37.750 align:start position:0%
+We're going to copy this. Now what we're
+going to<00:13:36.240><c> do</c><00:13:36.399><c> is</c><00:13:36.560><c> we're</c><00:13:36.800><c> going</c><00:13:36.880><c> to</c><00:13:36.959><c> go</c><00:13:37.120><c> back</c><00:13:37.360><c> to</c>
+
+00:13:37.750 --> 00:13:37.760 align:start position:0%
+going to do is we're going to go back to
+ 
+
+00:13:37.760 --> 00:13:42.790 align:start position:0%
+going to do is we're going to go back to
+cursor<00:13:38.639><c> say</c><00:13:39.279><c> here</c><00:13:39.760><c> is</c><00:13:40.079><c> the</c><00:13:40.399><c> repo</c><00:13:41.120><c> use</c><00:13:41.920><c> this</c>
+
+00:13:42.790 --> 00:13:42.800 align:start position:0%
+cursor say here is the repo use this
+ 
+
+00:13:42.800 --> 00:13:47.670 align:start position:0%
+cursor say here is the repo use this
+then<00:13:43.200><c> push</c><00:13:43.839><c> to</c><00:13:44.160><c> versel</c><00:13:45.360><c> give</c><00:13:45.680><c> me</c><00:13:46.399><c> public</c><00:13:47.120><c> link</c>
+
+00:13:47.670 --> 00:13:47.680 align:start position:0%
+then push to versel give me public link
+ 
+
+00:13:47.680 --> 00:13:49.590 align:start position:0%
+then push to versel give me public link
+and<00:13:47.839><c> this</c><00:13:48.000><c> will</c><00:13:48.320><c> actually</c><00:13:48.720><c> put</c><00:13:48.880><c> it</c><00:13:49.120><c> on</c><00:13:49.360><c> the</c>
+
+00:13:49.590 --> 00:13:49.600 align:start position:0%
+and this will actually put it on the
+ 
+
+00:13:49.600 --> 00:13:51.750 align:start position:0%
+and this will actually put it on the
+internet<00:13:50.160><c> where</c><00:13:50.399><c> we</c><00:13:50.639><c> can</c><00:13:50.800><c> then</c><00:13:51.040><c> add</c><00:13:51.279><c> a</c><00:13:51.440><c> custom</c>
+
+00:13:51.750 --> 00:13:51.760 align:start position:0%
+internet where we can then add a custom
+ 
+
+00:13:51.760 --> 00:13:53.670 align:start position:0%
+internet where we can then add a custom
+domain<00:13:52.399><c> and</c><00:13:52.560><c> this</c><00:13:52.720><c> is</c><00:13:52.880><c> kind</c><00:13:53.040><c> of</c><00:13:53.120><c> the</c><00:13:53.360><c> final</c>
+
+00:13:53.670 --> 00:13:53.680 align:start position:0%
+domain and this is kind of the final
+ 
+
+00:13:53.680 --> 00:13:55.670 align:start position:0%
+domain and this is kind of the final
+step.<00:13:54.079><c> So</c><00:13:54.240><c> we'll</c><00:13:54.480><c> wait</c><00:13:54.639><c> for</c><00:13:54.800><c> this</c><00:13:54.959><c> to</c><00:13:55.120><c> finish</c>
+
+00:13:55.670 --> 00:13:55.680 align:start position:0%
+step. So we'll wait for this to finish
+ 
+
+00:13:55.680 --> 00:13:57.269 align:start position:0%
+step. So we'll wait for this to finish
+and<00:13:55.839><c> here</c><00:13:56.000><c> it</c><00:13:56.240><c> looks</c><00:13:56.399><c> like</c><00:13:56.480><c> it's</c><00:13:56.720><c> done.</c><00:13:56.959><c> If</c><00:13:57.120><c> we</c>
+
+00:13:57.269 --> 00:13:57.279 align:start position:0%
+and here it looks like it's done. If we
+ 
+
+00:13:57.279 --> 00:13:59.189 align:start position:0%
+and here it looks like it's done. If we
+click<00:13:57.440><c> on</c><00:13:57.600><c> this</c><00:13:57.760><c> link,</c><00:13:58.240><c> we</c><00:13:58.480><c> should</c><00:13:58.800><c> see</c><00:13:59.040><c> that</c>
+
+00:13:59.189 --> 00:13:59.199 align:start position:0%
+click on this link, we should see that
+ 
+
+00:13:59.199 --> 00:14:02.069 align:start position:0%
+click on this link, we should see that
+the<00:13:59.440><c> repo</c><00:13:59.920><c> has</c><00:14:00.399><c> everything</c><00:14:00.800><c> in</c><00:14:01.120><c> it.</c><00:14:01.600><c> And</c><00:14:01.760><c> we</c>
+
+00:14:02.069 --> 00:14:02.079 align:start position:0%
+the repo has everything in it. And we
+ 
+
+00:14:02.079 --> 00:14:05.030 align:start position:0%
+the repo has everything in it. And we
+should<00:14:02.399><c> be</c><00:14:02.560><c> able,</c><00:14:03.199><c> if</c><00:14:03.440><c> we</c><00:14:03.600><c> go</c><00:14:03.760><c> back</c><00:14:03.920><c> to</c><00:14:04.160><c> cursor,</c>
+
+00:14:05.030 --> 00:14:05.040 align:start position:0%
+should be able, if we go back to cursor,
+ 
+
+00:14:05.040 --> 00:14:07.829 align:start position:0%
+should be able, if we go back to cursor,
+we<00:14:05.279><c> should</c><00:14:05.440><c> have</c><00:14:05.600><c> a</c><00:14:05.839><c> public</c><00:14:06.160><c> link</c><00:14:06.800><c> open.</c><00:14:07.600><c> Let's</c>
+
+00:14:07.829 --> 00:14:07.839 align:start position:0%
+we should have a public link open. Let's
+ 
+
+00:14:07.839 --> 00:14:10.470 align:start position:0%
+we should have a public link open. Let's
+see.<00:14:08.560><c> Bang.</c><00:14:09.120><c> There</c><00:14:09.360><c> we</c><00:14:09.519><c> go.</c><00:14:09.760><c> This</c><00:14:10.000><c> is</c><00:14:10.079><c> on</c><00:14:10.320><c> the</c>
+
+00:14:10.470 --> 00:14:10.480 align:start position:0%
+see. Bang. There we go. This is on the
+ 
+
+00:14:10.480 --> 00:14:12.389 align:start position:0%
+see. Bang. There we go. This is on the
+internet.<00:14:10.880><c> You</c><00:14:11.040><c> can</c><00:14:11.120><c> go</c><00:14:11.279><c> to</c><00:14:11.440><c> this</c><00:14:11.600><c> site.</c><00:14:12.240><c> This</c>
+
+00:14:12.389 --> 00:14:12.399 align:start position:0%
+internet. You can go to this site. This
+ 
+
+00:14:12.399 --> 00:14:14.949 align:start position:0%
+internet. You can go to this site. This
+is<00:14:12.560><c> the</c><00:14:12.800><c> design</c><00:14:13.040><c> that</c><00:14:13.279><c> we</c><00:14:13.519><c> created.</c><00:14:14.399><c> And</c><00:14:14.800><c> uh</c>
+
+00:14:14.949 --> 00:14:14.959 align:start position:0%
+is the design that we created. And uh
+ 
+
+00:14:14.959 --> 00:14:16.550 align:start position:0%
+is the design that we created. And uh
+yeah,<00:14:15.120><c> we</c><00:14:15.360><c> we</c><00:14:15.600><c> designed</c><00:14:15.839><c> this</c><00:14:16.000><c> with</c><00:14:16.240><c> cloud</c>
+
+00:14:16.550 --> 00:14:16.560 align:start position:0%
+yeah, we we designed this with cloud
+ 
+
+00:14:16.560 --> 00:14:19.430 align:start position:0%
+yeah, we we designed this with cloud
+code.<00:14:17.040><c> And</c><00:14:17.199><c> we</c><00:14:17.360><c> use</c><00:14:17.600><c> cloud</c><00:14:17.920><c> code</c><00:14:18.320><c> to</c><00:14:18.800><c> easily</c>
+
+00:14:19.430 --> 00:14:19.440 align:start position:0%
+code. And we use cloud code to easily
+ 
+
+00:14:19.440 --> 00:14:21.509 align:start position:0%
+code. And we use cloud code to easily
+create<00:14:19.680><c> a</c><00:14:19.920><c> site</c><00:14:20.160><c> and</c><00:14:20.480><c> put</c><00:14:20.639><c> it</c><00:14:20.800><c> on</c><00:14:21.040><c> the</c><00:14:21.199><c> internet</c>
+
+00:14:21.509 --> 00:14:21.519 align:start position:0%
+create a site and put it on the internet
+ 
+
+00:14:21.519 --> 00:14:23.910 align:start position:0%
+create a site and put it on the internet
+using<00:14:21.839><c> Verscell.</c><00:14:22.720><c> And</c><00:14:23.040><c> that's</c><00:14:23.279><c> it.</c><00:14:23.600><c> You</c><00:14:23.760><c> know,</c>
+
+00:14:23.910 --> 00:14:23.920 align:start position:0%
+using Verscell. And that's it. You know,
+ 
+
+00:14:23.920 --> 00:14:25.509 align:start position:0%
+using Verscell. And that's it. You know,
+this<00:14:24.079><c> was</c><00:14:24.240><c> actually</c><00:14:24.480><c> the</c><00:14:24.720><c> second</c><00:14:24.959><c> time</c><00:14:25.120><c> that</c><00:14:25.279><c> I</c>
+
+00:14:25.509 --> 00:14:25.519 align:start position:0%
+this was actually the second time that I
+ 
+
+00:14:25.519 --> 00:14:27.990 align:start position:0%
+this was actually the second time that I
+ever<00:14:25.839><c> used</c><00:14:26.079><c> this</c><00:14:26.240><c> tool,</c><00:14:26.720><c> so</c><00:14:26.959><c> I'm</c><00:14:27.360><c> going</c><00:14:27.600><c> to</c>
+
+00:14:27.990 --> 00:14:28.000 align:start position:0%
+ever used this tool, so I'm going to
+ 
+
+00:14:28.000 --> 00:14:29.670 align:start position:0%
+ever used this tool, so I'm going to
+play<00:14:28.240><c> around</c><00:14:28.480><c> with</c><00:14:28.639><c> this,</c><00:14:28.959><c> and</c><00:14:29.199><c> I'll</c><00:14:29.440><c> probably</c>
+
+00:14:29.670 --> 00:14:29.680 align:start position:0%
+play around with this, and I'll probably
+ 
+
+00:14:29.680 --> 00:14:31.590 align:start position:0%
+play around with this, and I'll probably
+make<00:14:29.839><c> a</c><00:14:30.079><c> much</c><00:14:30.320><c> more</c><00:14:30.560><c> in-depth</c><00:14:31.040><c> guide</c><00:14:31.279><c> in</c><00:14:31.519><c> the</c>
+
+00:14:31.590 --> 00:14:31.600 align:start position:0%
+make a much more in-depth guide in the
+ 
+
+00:14:31.600 --> 00:14:33.509 align:start position:0%
+make a much more in-depth guide in the
+next<00:14:31.839><c> few</c><00:14:32.000><c> weeks.</c><00:14:32.560><c> I</c><00:14:32.800><c> may</c><00:14:33.040><c> actually</c><00:14:33.279><c> use</c>
+
+00:14:33.509 --> 00:14:33.519 align:start position:0%
+next few weeks. I may actually use
+ 
+
+00:14:33.519 --> 00:14:35.910 align:start position:0%
+next few weeks. I may actually use
+OpenClaw<00:14:34.240><c> and</c><00:14:34.399><c> include</c><00:14:34.880><c> other</c><00:14:35.199><c> skills</c><00:14:35.600><c> like</c>
+
+00:14:35.910 --> 00:14:35.920 align:start position:0%
+OpenClaw and include other skills like
+ 
+
+00:14:35.920 --> 00:14:37.910 align:start position:0%
+OpenClaw and include other skills like
+adding<00:14:36.639><c> being</c><00:14:36.880><c> able</c><00:14:37.040><c> to</c><00:14:37.199><c> scrape</c><00:14:37.519><c> the</c><00:14:37.680><c> internet</c>
+
+00:14:37.910 --> 00:14:37.920 align:start position:0%
+adding being able to scrape the internet
+ 
+
+00:14:37.920 --> 00:14:40.150 align:start position:0%
+adding being able to scrape the internet
+and<00:14:38.160><c> add</c><00:14:38.399><c> images</c><00:14:38.880><c> directly</c><00:14:39.279><c> into</c><00:14:39.600><c> it,</c>
+
+00:14:40.150 --> 00:14:40.160 align:start position:0%
+and add images directly into it,
+ 
+
+00:14:40.160 --> 00:14:42.389 align:start position:0%
+and add images directly into it,
+automatically<00:14:40.880><c> scrape</c><00:14:41.279><c> company</c><00:14:41.680><c> logos</c><00:14:42.160><c> if</c>
+
+00:14:42.389 --> 00:14:42.399 align:start position:0%
+automatically scrape company logos if
+ 
+
+00:14:42.399 --> 00:14:44.550 align:start position:0%
+automatically scrape company logos if
+you<00:14:42.480><c> want</c><00:14:42.560><c> to</c><00:14:42.720><c> generate</c><00:14:43.040><c> like</c><00:14:43.360><c> reports,</c><00:14:44.320><c> like</c>
+
+00:14:44.550 --> 00:14:44.560 align:start position:0%
+you want to generate like reports, like
+ 
+
+00:14:44.560 --> 00:14:46.710 align:start position:0%
+you want to generate like reports, like
+business<00:14:44.880><c> reports</c><00:14:45.279><c> using</c><00:14:45.600><c> paper.</c><00:14:46.320><c> There's</c><00:14:46.560><c> a</c>
+
+00:14:46.710 --> 00:14:46.720 align:start position:0%
+business reports using paper. There's a
+ 
+
+00:14:46.720 --> 00:14:48.230 align:start position:0%
+business reports using paper. There's a
+lot<00:14:46.880><c> of</c><00:14:46.959><c> fun</c><00:14:47.279><c> things</c><00:14:47.440><c> that</c><00:14:47.600><c> are</c><00:14:47.760><c> coming</c><00:14:47.920><c> to</c><00:14:48.079><c> my</c>
+
+00:14:48.230 --> 00:14:48.240 align:start position:0%
+lot of fun things that are coming to my
+ 
+
+00:14:48.240 --> 00:14:50.550 align:start position:0%
+lot of fun things that are coming to my
+head.<00:14:48.480><c> This</c><00:14:48.639><c> is</c><00:14:48.800><c> kind</c><00:14:48.959><c> of</c><00:14:49.279><c> a</c><00:14:49.519><c> video</c><00:14:50.160><c> uh</c><00:14:50.320><c> showing</c>
+
+00:14:50.550 --> 00:14:50.560 align:start position:0%
+head. This is kind of a video uh showing
+ 
+
+00:14:50.560 --> 00:14:52.230 align:start position:0%
+head. This is kind of a video uh showing
+the<00:14:50.800><c> basics.</c><00:14:51.440><c> I'm</c><00:14:51.680><c> going</c><00:14:51.680><c> to</c><00:14:51.839><c> get</c><00:14:51.920><c> a</c><00:14:52.079><c> lot</c>
+
+00:14:52.230 --> 00:14:52.240 align:start position:0%
+the basics. I'm going to get a lot
+ 
+
+00:14:52.240 --> 00:14:54.150 align:start position:0%
+the basics. I'm going to get a lot
+better<00:14:52.560><c> at</c><00:14:52.800><c> using</c><00:14:53.120><c> this</c><00:14:53.279><c> tool</c><00:14:53.600><c> and</c><00:14:53.839><c> I'll</c><00:14:54.000><c> make</c>
+
+00:14:54.150 --> 00:14:54.160 align:start position:0%
+better at using this tool and I'll make
+ 
+
+00:14:54.160 --> 00:14:55.670 align:start position:0%
+better at using this tool and I'll make
+another<00:14:54.480><c> video.</c><00:14:54.959><c> Thank</c><00:14:55.120><c> you</c><00:14:55.279><c> guys</c><00:14:55.440><c> for</c>
+
+00:14:55.670 --> 00:14:55.680 align:start position:0%
+another video. Thank you guys for
+ 
+
+00:14:55.680 --> 00:14:57.920 align:start position:0%
+another video. Thank you guys for
+watching.
+

@@ -6,8 +6,10 @@ from pathlib import Path
 
 try:
     import ingest_youtube_url as ingest_helper
+    import output_bus
 except ModuleNotFoundError:
     from scripts import ingest_youtube_url as ingest_helper
+    from scripts import output_bus
 
 
 def ensure_utf8_output() -> None:
@@ -144,6 +146,13 @@ def main() -> int:
     problems = extract_problems(stdout, stderr)
 
     if process.returncode != 0:
+        output_bus.fanout_text(
+            "ops-alerts",
+            output_bus.build_ops_alert(
+                "YouTube channel scan",
+                summary_line,
+            ),
+        )
         print(
             "\n".join(
                 [
@@ -155,7 +164,9 @@ def main() -> int:
         )
         return process.returncode
 
-    print(build_scan_message(workspace, processed_video_ids, queue_size, problems))
+    message = build_scan_message(workspace, processed_video_ids, queue_size, problems)
+    output_bus.fanout_text("radar-feed", message)
+    print(message)
     return 0
 
 

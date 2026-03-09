@@ -6,9 +6,11 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 try:
+    import output_bus
     import project_inventory
     import youtube_synthesis
 except ModuleNotFoundError:
+    from scripts import output_bus
     from scripts import project_inventory, youtube_synthesis
 
 
@@ -389,6 +391,13 @@ def main() -> int:
 
     if process.returncode != 0:
         error_detail = process.stderr.strip() or summary
+        output_bus.fanout_text(
+            "ops-alerts",
+            output_bus.build_ops_alert(
+                "YouTube ingest",
+                f"URL: {url}\n\n{error_detail}",
+            ),
+        )
         print(f"❌ YouTube-ingest misslyckades.\n\n{error_detail}")
         return process.returncode
 
@@ -396,7 +405,9 @@ def main() -> int:
     update_processed(processed_path, video_meta, "manual")
     summary_sections = load_summary_sections(summary_path)
     topic_payload, project_payload = build_topic_context(workspace, video_meta)
-    print(build_message(video_meta, summary_sections, topic_payload, project_payload))
+    message = build_message(video_meta, summary_sections, topic_payload, project_payload)
+    output_bus.fanout_text("radar-feed", message)
+    print(message)
     return 0
 
 

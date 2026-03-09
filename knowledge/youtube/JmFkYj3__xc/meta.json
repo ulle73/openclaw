@@ -1,0 +1,152 @@
+{
+  "id": "JmFkYj3__xc",
+  "title": "New FREE OpenClaw Update!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260309",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nHuge OpenClaw Update! 4 New Features for Your AI Agents\n\nDiscover the latest OpenClaw update featuring ACP provenance, built-in backups, and critical bug fixes. This guide breaks down how to secure your AI agents and optimize your workflow with the newest March 2026 features.\n\n00:00 - Intro\n01:03 - What is OpenClaw?\n01:41 - ACP Provenance & Trace IDs\n03:07 - New Backup & Verify Commands\n04:24 - Telegram Duplicate Fixes\n05:18 - Security & Bonus Features\n06:48 - How to Update OpenClaw\n07:33 - How to Scale with AI Automation",
+  "classifications": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
+  ],
+  "roi_label": "medium",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": false,
+    "system_improvement": true,
+    "app": false,
+    "product": false
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "telegram",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "proactive-assistant",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "openclaw",
+  "related_video_ids": [
+    "KyXUJnYjjAo",
+    "5dy2ahf_EKQ",
+    "ISb0nrlNoKQ",
+    "KeAy_Va2Wrc",
+    "YnzsnqsrqXs"
+  ],
+  "related_videos": [
+    {
+      "videoId": "KyXUJnYjjAo",
+      "title": "New OpenClaw Discord Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KyXUJnYjjAo/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "onboarding-training"
+      ],
+      "cluster_match": true,
+      "score": 17
+    },
+    {
+      "videoId": "5dy2ahf_EKQ",
+      "title": "New FREE OpenClaw Update: GPT 5.4 + Gemini 3.1 Flash-Lite",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/5dy2ahf_EKQ/summary.md",
+      "topic_cluster_key": "gemini__gpt-5__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "KeAy_Va2Wrc",
+      "title": "GPT 5.4 + OpenClaw is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KeAy_Va2Wrc/summary.md",
+      "topic_cluster_key": "gpt-5__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "YnzsnqsrqXs",
+      "title": "OpenClaw + Star Office is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/YnzsnqsrqXs/summary.md",
+      "topic_cluster_key": "openclaw__star-office",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 10
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "KyXUJnYjjAo",
+      "5dy2ahf_EKQ",
+      "ISb0nrlNoKQ",
+      "KeAy_Va2Wrc",
+      "YnzsnqsrqXs"
+    ]
+  },
+  "updated_at": "2026-03-09T17:30:11Z"
+}

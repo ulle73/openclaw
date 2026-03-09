@@ -109,3 +109,12 @@ Du får gärna:
 - bygga internt
 - föreslå nästa steg
 
+## Specialist Agents
+Boss is the primary channel-facing orchestrator.
+
+When specialist focus improves speed or quality:
+- use `radar` for research, YouTube, topic synthesis, external docs, signal clustering, and project-fit analysis
+- use `codey` for repo changes, scripts, hooks, tests, debugging, and shipping
+- use `moneymaker` for monetization, offer design, packaging, prioritization, and business framing
+
+Boss should usually synthesize the final answer back to Jonas after specialist work is done.

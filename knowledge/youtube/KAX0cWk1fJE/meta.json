@@ -1,0 +1,153 @@
+{
+  "id": "KAX0cWk1fJE",
+  "title": "Claude Code Just Became a Designer",
+  "channel": "Riley Brown",
+  "upload_date": "20260309",
+  "description": "I wanted to design a personal site for my AI agent team, but instead of spending hours in Figma, I let Claude Code do all design work in Paper, a design tool built specifically for AI Agents.\n\nIf you have an idea for a mobile app, landing page or web app and don't have any technical experience, try out vibecode at vibecode.dev\n\nTIME STAMPS\n00:00 Introduction\n00:46 Installing Paper\n01:56 Connecting Claude Code to Paper (MCP Setup)\n03:38 Design goals + reference images\n06:23 Claude Code designs on Paper\n08:28 Iterating on the design\n11:48 Building the React app from designs\n13:37 Deploying live to the web (GitHub + Vercel)",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "agent_flow",
+    "mcp",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "nano-banana-2",
+    "openclaw",
+    "gemini",
+    "mcp"
+  ],
+  "topic_tags": [
+    "nano-banana-2",
+    "openclaw",
+    "mcp",
+    "workflow-automation",
+    "marketing-explainers",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "agent-automation",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "claude",
+  "related_video_ids": [
+    "s2HalzQZ1MQ",
+    "DSKO9ZtbHFA",
+    "Fv-FxekmfTQ",
+    "fnLXErf-plM",
+    "wX_neSx7-Ls"
+  ],
+  "related_videos": [
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea"
+      ],
+      "cluster_match": true,
+      "score": 17
+    },
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea"
+      ],
+      "cluster_match": true,
+      "score": 17
+    },
+    {
+      "videoId": "Fv-FxekmfTQ",
+      "title": "How to Make Claude Code 100X Better in 1 Click",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Fv-FxekmfTQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "marketing-explainers",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": true,
+      "score": 14
+    },
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "wX_neSx7-Ls",
+      "title": "How to Make Claude Code 100X Better in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/wX_neSx7-Ls/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "workflow-automation"
+      ],
+      "cluster_match": true,
+      "score": 8
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "s2HalzQZ1MQ",
+      "DSKO9ZtbHFA",
+      "Fv-FxekmfTQ",
+      "fnLXErf-plM",
+      "wX_neSx7-Ls"
+    ]
+  },
+  "updated_at": "2026-03-09T17:30:13Z"
+}
