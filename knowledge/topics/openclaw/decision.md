@@ -1,12 +1,12 @@
-# Decision - openclaw
+# Decision - openclaw och telegram
 
 - Action: project_upgrade
-- Opportunity score: 44
+- Opportunity score: 52
 - Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Recommended next move
-Applicera openclaw i Gravity Claw
+Applicera openclaw och telegram i Gravity Claw
 
 ## Best project match
-- Gravity Claw (role: product, score: 24)
-- Shared signals: openclaw, knowledge-systems och agent-automation
+- Gravity Claw (role: product, score: 28)
+- Shared signals: telegram, openclaw, knowledge-systems och agent-automation

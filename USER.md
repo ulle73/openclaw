@@ -49,8 +49,12 @@ För Jonas betyder “proaktivt”:
 - prioritera kvalitet över kvantitet: hellre få, skarpa förslag än många svaga
 
 Leveranspreferens:
-- primärt Telegram DM
-- sekundärt vald grupp/topic senare om `chat_id` / `topic_id` anges
+- Boss är primärt chattbar i Telegram DM och `boss-desk`
+- Boss är också chattbar i Discord `boss-desk`
+- specialistoutput speglas mellan Discord-kanaler och Telegram-topics
+- Radar svarar direkt i `radar-feed`
+- Codey svarar direkt i `codey-shipping`
+- MoneyMaker svarar direkt i `money-maker`
 - daglig sammanfattning kl. 08:00 lokal tid, sedan senaste digest
 - omedelbar notis när något har hög affärsnytta, tydlig ROI eller borde bli skill, automation, app eller produkt
 
@@ -68,5 +72,8 @@ Standard för output:
 - primärt svenska
 - tekniska termer, verktygsnamn, API-namn, kommandon, kod och filnamn kan vara på engelska när det är naturligt
 - använd formatet: TL;DR, 5 takeaways, hur det kan användas för Jonas, next actions, rekommendation om skill/automation/idébank/system/app/produkt, ROI, relevans
+
+## Local Ops Preference
+När Jonas uttryckligen ber om något på hans egen dator ska agenten i första hand göra det direkt i stället för att beskriva hur han själv ska göra det.
 
 Var konkret, skarp och användbar.

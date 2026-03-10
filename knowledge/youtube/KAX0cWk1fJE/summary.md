@@ -1,14 +1,14 @@
 ---
 videoId: "KAX0cWk1fJE"
 sourceUrl: "https://www.youtube.com/watch?v=KAX0cWk1fJE"
-title: "Claude Code Just Became a Designer"
+title: "Claude Code can Design Now (Figma is officially in trouble)"
 channel: "Riley Brown"
 published: "2026-03-09"
 categories: ["tool", "workflow", "business_idea", "agent_flow", "mcp", "api"]
-entity_tags: ["claude", "nano-banana-2", "openclaw", "gemini", "mcp"]
-topic_tags: ["nano-banana-2", "openclaw", "mcp", "workflow-automation", "marketing-explainers", "prompt-design", "business-idea", "business-opportunity", "agent-flow", "agent-automation", "api", "api-integration"]
-topic_cluster_key: "claude"
-related_video_ids: ["s2HalzQZ1MQ", "DSKO9ZtbHFA", "Fv-FxekmfTQ", "fnLXErf-plM", "wX_neSx7-Ls"]
+entity_tags: ["claude", "design-now", "nano-banana-2", "openclaw", "gemini", "mcp"]
+topic_tags: ["design-now", "nano-banana-2", "openclaw", "mcp", "workflow-automation", "marketing-explainers", "prompt-design", "business-idea", "business-opportunity", "agent-flow", "agent-automation", "api"]
+topic_cluster_key: "claude__design-now"
+related_video_ids: ["OV5eK91YY68", "ISb0nrlNoKQ", "RyxeYZ7TW3o", "Wxf9oqxODU0", "9T1yWEq5kP0"]
 
 roi_label: "high"
 relevance_label: "high"

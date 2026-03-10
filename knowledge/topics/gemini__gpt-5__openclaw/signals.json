@@ -21,7 +21,11 @@
     "seo-distribution",
     "agent-flow",
     "agent-automation",
-    "api"
+    "api",
+    "prompt-design",
+    "proactive-assistant",
+    "business-idea",
+    "business-opportunity"
   ],
   "categories": [
     "tool",
@@ -29,15 +33,18 @@
     "seo_distribution",
     "agent_flow",
     "automation",
-    "api"
+    "api",
+    "business_idea",
+    "product_opportunity"
   ],
   "videoIds": [
-    "5dy2ahf_EKQ"
+    "5dy2ahf_EKQ",
+    "NY22ChmcHvg"
   ],
-  "count": 1,
-  "avg_roi_score": 6.0,
+  "count": 2,
+  "avg_roi_score": 7.5,
   "avg_relevance_score": 9.0,
-  "opportunity_score": 47,
+  "opportunity_score": 50,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
@@ -117,6 +124,18 @@
         "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
         "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
         "Det här är lika mycket ett distributionsverktyg som ett produktionsverktyg, eftersom samma material kan återanvändas i flera format och kanaler."
+      ]
+    },
+    {
+      "videoId": "NY22ChmcHvg",
+      "title": "New Openclaw Update! (GPT 5.4, Gemini 3.1 Flash)",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Kärnpositioneringen är inte bara ett nytt verktyg utan en AI-assistent som ska kunna bära mer av det löpande operativa arbetet.",
+        "Kostnadsbild och transparens lyfts som en del av produkten, vilket gör lösningen lättare att styra och räkna hem.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo."
       ]
     }
   ],

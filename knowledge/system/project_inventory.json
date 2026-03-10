@@ -1,29 +1,45 @@
 {
-  "generatedAt": "2026-03-09T15:07:37Z",
+  "generatedAt": "2026-03-09T23:14:06Z",
   "projects": [
     {
       "projectId": "coastworks",
       "name": "Coastworks",
       "status": "Aktivt eller återkommande viktigt affärsspår.",
-      "summary": "kopplat till tjänsteerbjudanden, webb, paketering, bolagsnärvaro och kommersiell positionering",
+      "summary": "This contains everything you need to run your app locally.",
       "tags": [
         "web-offer",
         "design-offer",
         "seo-content",
         "automation",
-        "service-offer"
+        "service-offer",
+        "audit-offer"
       ],
-      "stack": [],
+      "stack": [
+        "node",
+        "react",
+        "tailwind",
+        "typescript",
+        "node-tooling"
+      ],
       "signals": [
-        "web-offer",
-        "design-offer",
-        "seo-content",
+        "audit-offer",
         "automation",
-        "service-offer"
+        "design-offer",
+        "node",
+        "node-tooling",
+        "react",
+        "seo-content",
+        "service-offer",
+        "tailwind",
+        "typescript",
+        "web-offer"
       ],
-      "repoPaths": [],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\coastworks-2"
+      ],
       "sourceTypes": [
-        "active_projects"
+        "active_projects",
+        "repo_scan"
       ],
       "whyItMatters": [
         "kopplat till tjänsteerbjudanden, webb, paketering, bolagsnärvaro och kommersiell positionering"

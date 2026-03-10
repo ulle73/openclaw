@@ -1,14 +1,16 @@
 import json
-import traceback
 import sys
+import traceback
 from datetime import datetime, timezone
 from pathlib import Path
 
 try:
     import ingest_youtube_url as ingest_helper
+    import output_bus
     import youtube_synthesis
 except ModuleNotFoundError:
     from scripts import ingest_youtube_url as ingest_helper
+    from scripts import output_bus
     from scripts import youtube_synthesis
 
 
@@ -63,7 +65,9 @@ def build_digest_message(workspace: Path, result: dict) -> str:
 
     lines.extend(["", "🔥 Viktigaste rörelser"])
     for topic in topic_payloads[:3]:
-        lines.append(f"• {topic.get('label', 'Okänt ämne')}: {ingest_helper.polish_text(topic.get('decision', {}).get('summary', ''))}")
+        lines.append(
+            f"• {topic.get('label', 'Okänt ämne')}: {ingest_helper.polish_text(topic.get('decision', {}).get('summary', ''))}"
+        )
         if topic.get("project_matches"):
             match = topic["project_matches"][0]
             project = project_index.get(match["projectId"], {})
@@ -132,13 +136,22 @@ def main() -> int:
         fh.write(log_line + "\n")
 
     if status != "SUCCESS":
+        output_bus.fanout_text(
+            "ops-alerts",
+            output_bus.build_ops_alert(
+                "YouTube synthesis digest",
+                "\n\n".join(part for part in [summary_line, error_trace.strip()] if part),
+            ),
+        )
         print("❌ Daily YouTube-digest misslyckades.\n")
         print(summary_line)
         if error_trace:
             print(error_trace)
         return 1
 
-    print(build_digest_message(workspace, result))
+    message = build_digest_message(workspace, result)
+    output_bus.fanout_text("boss-briefing", message)
+    print(message)
     return 0
 
 

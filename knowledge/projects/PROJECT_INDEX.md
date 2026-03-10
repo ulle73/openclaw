@@ -1,15 +1,15 @@
 # Project Index
 
-Generated: 2026-03-09T15:07:37Z
+Generated: 2026-03-09T23:14:06Z
 
 ## Coastworks
 - Priority: 10
 - Role: offer
 - Status: Aktivt eller återkommande viktigt affärsspår.
-- Summary: kopplat till tjänsteerbjudanden, webb, paketering, bolagsnärvaro och kommersiell positionering
-- Tags: web-offer, design-offer, seo-content, automation, service-offer
-- Stack: -
-- Repo paths: -
+- Summary: This contains everything you need to run your app locally.
+- Tags: web-offer, design-offer, seo-content, automation, service-offer, audit-offer
+- Stack: node, react, tailwind, typescript, node-tooling
+- Repo paths: C:\Users\ryd\.openclaw\workspace\coastworks-2
 - Why it matters: kopplat till tjänsteerbjudanden, webb, paketering, bolagsnärvaro och kommersiell positionering
 
 ## AI Visibility Audit

@@ -1,7 +1,7 @@
-# Claude Code Just Became a Designer
+# Claude Code can Design Now (Figma is officially in trouble)
 
 ## Core Topic
-Claude Code Just Became a Designer
+Claude Code can Design Now (Figma is officially in trouble)
 
 ## Core Idea
 Today, we're going to use Claude Code to
@@ -51,6 +51,7 @@ no, not Figma.
 - technical guide
 
 ## Topic Tags
+- design-now
 - nano-banana-2
 - openclaw
 - mcp
@@ -62,14 +63,13 @@ no, not Figma.
 - agent-flow
 - agent-automation
 - api
-- api-integration
 
 ## Similar Videos
-- s2HalzQZ1MQ | NEW Claude Code Update is INSANE! | shared: mcp, agent-automation, agent-flow, api, api-integration, business-idea
-- DSKO9ZtbHFA | Master 95% of Claude Code in 40 mins (NEW + UPDATED) | shared: mcp, agent-automation, agent-flow, api, api-integration, business-idea
-- Fv-FxekmfTQ | How to Make Claude Code 100X Better in 1 Click | shared: openclaw, agent-automation, agent-flow, marketing-explainers, prompt-design, workflow-automation
-- fnLXErf-plM | Claude Skills 2.0 Is INSANE! | shared: agent-automation, agent-flow, api, business-idea, business-opportunity, marketing-explainers
-- wX_neSx7-Ls | How to Make Claude Code 100X Better in 1 Click! | shared: agent-automation, agent-flow, workflow-automation
+- OV5eK91YY68 | I let OpenClaw run my organic marketing (here's how) | shared: nano-banana-2, openclaw, agent-automation, agent-flow, business-idea, business-opportunity
+- ISb0nrlNoKQ | Why Specialized Agents are Superior (How I Built an OpenClaw Superteam) | shared: nano-banana-2, openclaw, agent-automation, agent-flow, api, business-idea
+- RyxeYZ7TW3o | Super Claude: Claude Code Super Powers in 1 Click! | shared: mcp, openclaw, agent-automation, agent-flow, business-idea, business-opportunity
+- Wxf9oqxODU0 | Claude Code just became UNSTOPPABLE (Skills 2.0) | shared: mcp, nano-banana-2, agent-automation, business-idea, prompt-design, workflow-automation
+- 9T1yWEq5kP0 | SaaS is minting millionaires again (here's how) | shared: mcp, openclaw, agent-flow, business-idea, business-opportunity, workflow-automation
 
 ## Classification
 tutorial, tool demo, workflow, business idea, prompt engineering, technical guide

@@ -1,0 +1,157 @@
+{
+  "id": "NY22ChmcHvg",
+  "title": "New Openclaw Update! (GPT 5.4, Gemini 3.1 Flash)",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260309",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nOpenClaw 2026 & GPT 5.4: Huge New AI Agent Updates!\n\nExplore the latest AI breakthroughs including OpenClaw 2026, GPT 5.4, and Gemini 3.1 Flashlight. This guide breaks down how these updates improve reliability, security, and performance for building AI automation at scale.\n\n00:00 - Intro\n00:31 - OpenClaw 2026 & ACP Bindings\n02:15 - Faster AI with Multi-Stage Builds\n02:54 - New Security: Secret Ref & Auth\n03:55 - Pluggable Context Engines\n04:51 - GPT 5.4: Reasoning & Speed\n05:42 - Gemini 3.1 Flashlight Explained\n07:49 - Scaling Your AI Business",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "gemini",
+    "gpt-5",
+    "1-flash"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "gpt-5",
+    "1-flash",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "prompt-design",
+    "proactive-assistant",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "gemini__gpt-5__openclaw",
+  "related_video_ids": [
+    "5dy2ahf_EKQ",
+    "KeAy_Va2Wrc",
+    "RyxeYZ7TW3o",
+    "9T1yWEq5kP0",
+    "YnzsnqsrqXs"
+  ],
+  "related_videos": [
+    {
+      "videoId": "5dy2ahf_EKQ",
+      "title": "New FREE OpenClaw Update: GPT 5.4 + Gemini 3.1 Flash-Lite",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/5dy2ahf_EKQ/summary.md",
+      "topic_cluster_key": "gemini__gpt-5__openclaw",
+      "shared_tags": [
+        "1-flash",
+        "gpt-5",
+        "openclaw",
+        "agent-flow",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 22
+    },
+    {
+      "videoId": "KeAy_Va2Wrc",
+      "title": "GPT 5.4 + OpenClaw is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KeAy_Va2Wrc/summary.md",
+      "topic_cluster_key": "gpt-5__openclaw",
+      "shared_tags": [
+        "gpt-5",
+        "openclaw",
+        "agent-flow",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 14
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "9T1yWEq5kP0",
+      "title": "SaaS is minting millionaires again (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/9T1yWEq5kP0/summary.md",
+      "topic_cluster_key": "saas",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "proactive-assistant"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "YnzsnqsrqXs",
+      "title": "OpenClaw + Star Office is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/YnzsnqsrqXs/summary.md",
+      "topic_cluster_key": "openclaw__star-office",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "5dy2ahf_EKQ",
+      "KeAy_Va2Wrc",
+      "RyxeYZ7TW3o",
+      "9T1yWEq5kP0",
+      "YnzsnqsrqXs"
+    ]
+  },
+  "updated_at": "2026-03-09T23:10:29Z"
+}

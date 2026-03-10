@@ -51,3 +51,8 @@
 | KyXUJnYjjAo | New OpenClaw Discord Update! | Julian Goldie SEO | 20260309 | tool, workflow, business_idea, seo_distribution, agent_flow, automation, api | Yes | youtube/KyXUJnYjjAo/learned.md |
 | JmFkYj3__xc | New FREE OpenClaw Update! | Julian Goldie SEO | 20260309 | tool, workflow, seo_distribution, agent_flow, automation, api | Yes | youtube/JmFkYj3__xc/learned.md |
 | KAX0cWk1fJE | Claude Code Just Became a Designer | Riley Brown | 20260309 | tool, workflow, business_idea, agent_flow, mcp, api | Yes | youtube/KAX0cWk1fJE/learned.md |
+| OV5eK91YY68 | I let OpenClaw run my organic marketing (here's how) | Greg Isenberg | 20260309 | tool, workflow, business_idea, seo_distribution, agent_flow, automation, product_opportunity, api | Yes | youtube/OV5eK91YY68/learned.md |
+| RyxeYZ7TW3o | Super Claude: Claude Code Super Powers in 1 Click! | Julian Goldie SEO | 20260309 | tool, business_idea, seo_distribution, agent_flow, automation, mcp | Yes | youtube/RyxeYZ7TW3o/learned.md |
+| P2LIFtrRr2U | Hermes Agent: New FREE OpenClaw Alternative! | Julian Goldie SEO | 20260309 | tool, workflow, business_idea, seo_distribution, agent_flow, automation, product_opportunity, api | Yes | youtube/P2LIFtrRr2U/learned.md |
+| NY22ChmcHvg | New Openclaw Update! (GPT 5.4, Gemini 3.1 Flash) | Julian Goldie SEO | 20260309 | tool, workflow, business_idea, seo_distribution, agent_flow, automation, product_opportunity, api | Yes | youtube/NY22ChmcHvg/learned.md |
+| KAX0cWk1fJE | Claude Code can Design Now (Figma is officially in trouble) | Riley Brown | 20260309 | tool, workflow, business_idea, agent_flow, mcp, api | Yes | youtube/KAX0cWk1fJE/learned.md |

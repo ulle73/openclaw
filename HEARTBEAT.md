@@ -39,6 +39,15 @@ Daglig digest:
 - ska läsa `knowledge/system/digest_state.json`
 - ska uppdatera `lastDigestAt` efter genomförd digest
 
+## Lane Routing
+- `boss-desk` är Boss arbetsyta för dialog.
+- `boss-briefing` är Boss yta för viktiga sammanfattningar och briefings.
+- `radar-feed` ska användas för research, YouTube och topic synthesis.
+- `codey-shipping` ska användas för implementation, verifiering och shipping.
+- `money-maker` ska användas för kommersiella vinklar, paketering och prioritering.
+- `ops-alerts` ska användas för failures, blockers och driftvarningar.
+- Samma output kan och bör speglas till både Discord och Telegram när det är en lane-output.
+
 ## Execution Guardrails
 Kör autonomt som standard.
 
@@ -51,6 +60,8 @@ Fråga först bara om åtgärden:
 - kostar pengar
 - kommunicerar externt i Jonas namn
 - påverkar produktion eller live-miljö
+
+Lokal host control på Jonas egen dator är uttryckligen tillåten när han ber om det. Appstart, desktop-genvägar och lokal UI-styrning ska därför inte blockeras av interna standardfraser.
 
 ## Quality Bar
 Prioritera:

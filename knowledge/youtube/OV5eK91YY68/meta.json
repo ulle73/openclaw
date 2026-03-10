@@ -1,0 +1,158 @@
+{
+  "id": "OV5eK91YY68",
+  "title": "I let OpenClaw run my organic marketing (here's how)",
+  "channel": "Greg Isenberg",
+  "upload_date": "20260309",
+  "description": "I sit down with Oliver Henry, a full-time employee who is generating hundreds of dollars in monthly recurring revenue from mobile apps he barely touches, thanks to an AI marketing agent he built on OpenClaw called Larry. We walk through how Larry autonomously creates TikTok slideshow content, reads analytics, iterates on hooks and CTAs, and feeds performance data back into the content loop. Oliver also shares how he packaged the entire system as a free, downloadable skill on Larry Brain so anyone can replicate it. By the end of the episode, you will understand the full “Larry Loop”—from content creation to conversion optimization and why skills are poised to reshape how we think about SaaS altogether.\n\nI'm hosting a free workshop so you can build your business in the age of AI. \nSign up here: https://startup-ideas-pod.link/build-with-ai-2026\n\nLinks Mentioned:\nLarry Brain: https://startup-ideas-pod.link/Larry-brain\nQMD Skill: https://startup-ideas-pod.link/qmd-skill\n\nTimestamps\n00:00 – Intro\n01:25 – Background on Marketing IOS app with OpenClaw\n06:43 – Larry’s first posts and iterating\n03:55 – Posting Strategy and First viral hit: 137K views\n12:01 – Communicating with Larry via WhatsApp\n12:53 – Mission control vs. single-agent workflow\n14:36 – The CTA problem: views without conversions\n17:07 – The Larry Loop explained: analytics → content → metrics → iterate\n18:15 – Boomers, engagement bait, and the algorithm boost\n20:33 – The importance of iteration\n23:36 – How Larry brainstorms and validates new hooks\n27:57 – The power of OpenClaw\n30:04 – The vision for Larry\n31:49 – Model choices: Claude vs. OpenAI and over-optimization\n34:38 – OpenClaw vs. cloud alternatives (Manus, Cowork)\n37:39 – Getting started: Larry Brain onboarding and 80+ skills\n40:13 – Ernesto Lopez: $70K MRR using the Larry Loop\n41:27 – Doing all of this with a full-time job\n42:28 – QMD Skill for cutting token usage and closing thoughts\n\nKey Points\n\n* An AI agent (Larry) built on OpenClaw autonomously creates TikTok slideshows, reads analytics, and iterates on content—driving hundreds of dollars in MRR with almost zero manual effort.\n\n* The “Larry Loop” is a full-funnel feedback cycle: TikTok analytics feed into content creation, and app metrics feed back into the top of the funnel so the agent continuously improves.\n\n* Posting TikTok content as a draft (rather than directly via API) lets you add trending sounds and avoids the algorithm penalty for bot-posted content.\n\n* Hooks drive views; CTAs drive conversions. Diagnosing which is underperforming is the key to scaling.\n\n* OpenClaw skills are locally owned, fully editable, and free from hosting or subscription costs—Oliver argues they will change how we think about SaaS.\n\n* Picking a model (Claude or OpenAI) matters far less than learning how to work with it; 98% of users will see little difference between incremental model upgrades.\n\nSection Summaries\n\n1. Early Content Experiments and the Shift to AI Employees\n\nOliver tried manual hook-and-demo videos, a SaaS scheduling tool, and Canva slideshows before discovering OpenClaw. I highlight the broader mindset shift: instead of buying a tool to automate a function, you spin up an AI employee with a single job. That reframe led Oliver to create Larry.\n\n2. Iterating to Virality: Image Models, Hooks, and the First 137K-View Post\n\nLarry’s first posts flopped—AI-generated faces looked uncanny, formats were wrong, and engagement was low. But by combining a winning image model with a proven hook, they hit 137,000 views. Oliver explains how Larry uses TikTok analytics to trace back to previous winners and remix them.\n\n3. The Larry Loop: A Full-Funnel Feedback Engine\n\nOliver introduces the Larry Loop: TikTok analytics feed into content creation, and app-level metrics (downloads, subscriptions, churn) feed back into the top of the funnel. This loop is platform-agnostic—you can plug in video generation, drive traffic to a website, or sell a physical product.\n\nThe #1 tool to find startup ideas/trends - https://www.ideabrowser.com/\n\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/\n\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/\n\nFIND ME ON SOCIAL\nX/Twitter: https://twitter.com/gregisenberg\nInstagram: https://instagram.com/gregisenberg/\nLinkedIn: https://www.linkedin.com/in/gisenberg/\n\nFIND OLIVER ON SOCIAL\nX: https://x.com/oliverhenry\nLarry Brain: https://www.larrybrain.com/",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "nano-banana-2",
+    "claude",
+    "gemini",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "nano-banana-2",
+    "telegram",
+    "workflow-automation",
+    "agent-automation",
+    "marketing-explainers",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "openclaw",
+  "related_video_ids": [
+    "JmFkYj3__xc",
+    "KyXUJnYjjAo",
+    "ISb0nrlNoKQ",
+    "KAX0cWk1fJE",
+    "99EoVMtEA2A"
+  ],
+  "related_videos": [
+    {
+      "videoId": "JmFkYj3__xc",
+      "title": "New FREE OpenClaw Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/JmFkYj3__xc/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": true,
+      "score": 18
+    },
+    {
+      "videoId": "KyXUJnYjjAo",
+      "title": "New OpenClaw Discord Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KyXUJnYjjAo/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 16
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "nano-banana-2",
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea"
+      ],
+      "cluster_match": false,
+      "score": 18
+    },
+    {
+      "videoId": "KAX0cWk1fJE",
+      "title": "Claude Code Just Became a Designer",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/KAX0cWk1fJE/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "nano-banana-2",
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "99EoVMtEA2A",
+      "title": "New FREE Google AI Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/99EoVMtEA2A/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "nano-banana-2",
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "JmFkYj3__xc",
+      "KyXUJnYjjAo",
+      "ISb0nrlNoKQ",
+      "KAX0cWk1fJE",
+      "99EoVMtEA2A"
+    ]
+  },
+  "updated_at": "2026-03-09T19:02:30Z"
+}

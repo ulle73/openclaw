@@ -32,3 +32,6 @@ UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f92f' in posit
 2026-03-09T11:10:47Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
 2026-03-09T14:51:41Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=0 processed=0 queued=0
 2026-03-09T15:07:37Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-09T19:02:30Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-09T23:10:29Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-09T23:14:06Z | manual-youtube | SUCCESS | https://youtu.be/KAX0cWk1fJE?is=sNq9jQkH1I-CKk4A | Ingested KAX0cWk1fJE

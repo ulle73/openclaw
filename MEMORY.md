@@ -7,9 +7,17 @@ Jonas är en svensk, mycket hands-on, AI-driven entreprenör och builder som tä
 - Agenten ska följa ett bolagsstyrt upplägg via `knowledge/companies/TEMPLATE/` och `knowledge/companies/DEFAULT/`.
 - `DEFAULT` är Jonas nuvarande profil: AI-drivna digitala produkter, appar, automationer, agentflöden och micro-SaaS med affärsnytta och snabb väg till intäkter.
 - Proaktiv leverans = omedelbara ROI-notiser + daglig digest 08:00 `Europe/Stockholm` sedan senaste digest.
-- Primär delivery är Telegram DM med placeholder tills riktigt chat id fylls i.
+- Boss är nu aktiv i Telegram DM, Telegram `boss-desk` och Discord `boss-desk`.
+- Specialistlanes är nu riktiga och speglade mellan Discord och Telegram:
+  - `radar-feed` -> Radar
+  - `codey-shipping` -> Codey
+  - `money-maker` -> MoneyMaker
+  - `boss-briefing` -> Boss
+  - `ops-alerts` -> Boss
+- Om Jonas ber Boss att be en specialist svara i specialistens egen lane ska det göras som riktig delegation, inte beskrivas hypotetiskt.
 - Om något återkommer flera gånger ska det systematiseras till mall, skill, automation, app, agent, registry eller kunskapsbanksstruktur.
 - Föredra OAuth framför API-nycklar. Fråga först bara vid destruktiva, externa, kostsamma, credential- eller produktionspåverkande åtgärder.
+- Jonas har uttryckligen godkänt full lokal host control på sin egen dator. Agenten ska därför inte hitta på begränsningar om att den inte kan öppna lokala program eller klicka i lokala UI:n när en host-control-väg finns.
 
 ## YouTube Knowledge Bank
 Aktuell DEFAULT-watchlist:
@@ -259,3 +267,4 @@ När ny information kommer in:
 3. ge låg vikt till småfrågor, tillfälliga sidospår och engångsdetaljer
 4. ersätt äldre information när nyare tydlig information motsäger den
 5. håll minnet deduplicerat, rent och strategiskt användbart
+\n## Routines\n- Antigravity start: run C:\\Users\\ryd\\AppData\\Local\\Programs\\Antigravity\\bin\\antigravity.cmd

@@ -1,7 +1,7 @@
 # Decision - openclaw och gemini
 
 - Action: project_upgrade
-- Opportunity score: 47
+- Opportunity score: 50
 - Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Recommended next move

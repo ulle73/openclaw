@@ -44,6 +44,13 @@ LANE_TARGETS: dict[str, list[DeliveryTarget]] = {
     ],
 }
 
+AGENT_LANES: dict[str, str] = {
+    "boss": "boss-desk",
+    "radar": "radar-feed",
+    "codey": "codey-shipping",
+    "moneymaker": "money-maker",
+}
+
 
 def _fanout_disabled() -> bool:
     value = os.environ.get("OPENCLAW_DISABLE_OUTPUT_FANOUT", "").strip().lower()
@@ -112,6 +119,17 @@ def fanout_text(lane: str, message: str, *, silent: bool = False) -> list[dict]:
             }
         )
     return results
+
+
+def lane_for_agent(agent_id: str) -> str | None:
+    return AGENT_LANES.get((agent_id or "").strip().lower())
+
+
+def fanout_agent_message(agent_id: str, message: str, *, silent: bool = False) -> list[dict]:
+    lane = lane_for_agent(agent_id)
+    if not lane:
+        return [{"agent": agent_id, "skipped": True, "detail": "unknown agent lane"}]
+    return fanout_text(lane, message, silent=silent)
 
 
 def build_ops_alert(source: str, detail: str) -> str:

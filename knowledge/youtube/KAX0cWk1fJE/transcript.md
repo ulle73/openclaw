@@ -2,7 +2,7 @@
 
 - URL: https://www.youtube.com/watch?v=KAX0cWk1fJE
 - VideoId: KAX0cWk1fJE
-- Title: Claude Code Just Became a Designer
+- Title: Claude Code can Design Now (Figma is officially in trouble)
 
 ## Transcript
 Today, we're going to use Claude Code to
