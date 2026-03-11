@@ -1,8 +1,8 @@
 # Opportunity - claude och design now
 
 ## Best ideas
-1. Applicera claude och design now i Gravity Claw | impact: hog | effort: hog | speed: snabb
-   Why: Temat overlappar med Gravity Claw via openclaw, knowledge-systems och agent-automation.
+1. Applicera claude och design now i Coastworks | impact: hog | effort: hog | speed: snabb
+   Why: Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems och agent-automation.
 2. Bygg en intern skill eller automation runt claude och design now | impact: hog | effort: hog | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for claude och design now | impact: hog | effort: lag | speed: snabb

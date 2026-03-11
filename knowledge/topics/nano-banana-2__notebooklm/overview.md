@@ -1,7 +1,7 @@
 # notebooklm och nano banana 2
 
 - Cluster key: nano-banana-2__notebooklm
-- Opportunity score: 48
+- Opportunity score: 55
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Categories: tool, workflow, seo_distribution, agent_flow, automation, business_idea, product_opportunity
 - Entity tags: notebooklm, nano-banana-2, openclaw, claude, gemini
@@ -11,13 +11,13 @@
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
-- Coastworks (score 26): seo-content och automation
+- Coastworks (score 33): seo-content, openclaw, knowledge-systems, automation och agent-automation
 - AI Visibility Audit (score 26): seo-content, workflow-automation och automation
 - Gravity Claw (score 24): openclaw, knowledge-systems och agent-automation
 
 ## Best ideas
 1. Applicera notebooklm och nano banana 2 i Coastworks | impact: hog | effort: medel | speed: snabb
-   Why: Temat overlappar med Coastworks via seo-content och automation.
+   Why: Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation.
 2. Bygg en intern skill eller automation runt notebooklm och nano banana 2 | impact: hog | effort: medel | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for notebooklm och nano banana 2 | impact: hog | effort: lag | speed: snabb

@@ -1,12 +1,12 @@
 # Decision - openclaw och single agents
 
 - Action: project_upgrade
-- Opportunity score: 45
+- Opportunity score: 50
 - Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Recommended next move
-Applicera openclaw och single agents i Gravity Claw
+Applicera openclaw och single agents i Coastworks
 
 ## Best project match
-- Gravity Claw (role: product, score: 24)
-- Shared signals: openclaw, knowledge-systems och agent-automation
+- Coastworks (role: offer, score: 29)
+- Shared signals: seo-content, openclaw, knowledge-systems, automation och agent-automation

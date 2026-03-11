@@ -54,8 +54,11 @@
     {
       "projectId": "coastworks",
       "projectName": "Coastworks",
-      "score": 11,
-      "shared_signals": [],
+      "score": 13,
+      "shared_signals": [
+        "knowledge-systems",
+        "agent-automation"
+      ],
       "projectRole": "offer",
       "projectPriority": 10
     }

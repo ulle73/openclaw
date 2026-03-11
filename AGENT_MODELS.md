@@ -9,8 +9,8 @@ The live config is in:
 Each agent now has its own explicit `model.primary` entry, so you can change one agent without affecting the others.
 
 ## Current State
-- `main`: `openai-codex/gpt-5.1-codex-mini`
-- `boss`: `openai-codex/gpt-5.1-codex-mini`
+- `main`: `openai-codex/gpt-5.3-codex`
+- `boss`: `openai-codex/gpt-5.3-codex`
 - `radar`: `openai-codex/gpt-5.1-codex-mini`
 - `codey`: `openai-codex/gpt-5.1-codex-mini`
 - `moneymaker`: `openai-codex/gpt-5.1-codex-mini`

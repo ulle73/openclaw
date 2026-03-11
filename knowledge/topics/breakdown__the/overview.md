@@ -1,7 +1,7 @@
 # the och breakdown
 
 - Cluster key: breakdown__the
-- Opportunity score: 47
+- Opportunity score: 54
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Categories: tool, workflow, business_idea, agent_flow, automation, product_opportunity
 - Entity tags: the, breakdown, openclaw, claude, gemini
@@ -11,13 +11,13 @@
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
-- Coastworks (score 26): seo-content och automation
+- Coastworks (score 33): seo-content, openclaw, knowledge-systems, automation och agent-automation
 - AI Visibility Audit (score 26): seo-content, workflow-automation och automation
 - Gravity Claw (score 24): openclaw, knowledge-systems och agent-automation
 
 ## Best ideas
 1. Applicera the och breakdown i Coastworks | impact: hog | effort: medel | speed: snabb
-   Why: Temat overlappar med Coastworks via seo-content och automation.
+   Why: Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation.
 2. Bygg en intern skill eller automation runt the och breakdown | impact: hog | effort: medel | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for the och breakdown | impact: hog | effort: lag | speed: snabb

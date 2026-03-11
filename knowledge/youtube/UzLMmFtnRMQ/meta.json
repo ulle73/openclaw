@@ -1,0 +1,153 @@
+{
+  "id": "UzLMmFtnRMQ",
+  "title": "NotebookLM  New Update Just Changed Everything!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260310",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nCreate Cinematic AI Videos from Notes: Google Notebook LM Update\n\nGoogle just launched Cinematic Video Overviews in Notebook LM, allowing you to turn simple notes and documents into professional videos in minutes. This walkthrough shows you exactly how to leverage this AI tool to automate your content creation and grow your business.\n\n00:00 - Intro\n00:18 - What is Notebook LM?\n00:40 - Cinematic Video Overviews\n01:31 - Step-by-Step Tutorial\n02:00 - Business Use Case Example\n03:39 - The Power of Video Content\n04:11 - How to Get Access\n04:45 - Tips for Best Results\n06:49 - Recap & Workflow Strategy",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "notebooklm",
+    "everything"
+  ],
+  "topic_tags": [
+    "notebooklm",
+    "everything",
+    "ai-video-generation",
+    "content-repurposing",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity"
+  ],
+  "topic_cluster_key": "everything__notebooklm",
+  "related_video_ids": [
+    "obIeqXJH3d4",
+    "ZgnQb40aiTU",
+    "iBVMutY4Ot0",
+    "Oz-fXptuhdA",
+    "xAw3IZgX7Tc"
+  ],
+  "related_videos": [
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "notebooklm",
+        "ai-video-generation",
+        "business-idea",
+        "business-opportunity",
+        "content-repurposing",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 14
+    },
+    {
+      "videoId": "ZgnQb40aiTU",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ZgnQb40aiTU/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "notebooklm",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "Oz-fXptuhdA",
+      "title": "OpenClaw FULL COURSE 5 HOURS (Build & Automate Anything)",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Oz-fXptuhdA/summary.md",
+      "topic_cluster_key": "5-hours__automate__openclaw",
+      "shared_tags": [
+        "notebooklm",
+        "content-repurposing",
+        "knowledge-management",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "business-idea",
+        "business-opportunity",
+        "content-repurposing",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 7
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "obIeqXJH3d4",
+      "ZgnQb40aiTU",
+      "iBVMutY4Ot0",
+      "Oz-fXptuhdA",
+      "xAw3IZgX7Tc"
+    ]
+  },
+  "updated_at": "2026-03-10T19:02:30Z"
+}

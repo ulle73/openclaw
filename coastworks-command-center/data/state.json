@@ -1,0 +1,41 @@
+{
+  "youtubeRuns": [],
+  "taskRuns": [
+    {
+      "runId": "taskrun_1773106741493_6gabau",
+      "taskId": "task_1773106741484_yuyvsv",
+      "kind": "task",
+      "status": "completed",
+      "code": 0,
+      "startedAt": "2026-03-10T01:39:01.498Z",
+      "endedAt": "2026-03-10T01:39:19.100Z",
+      "stdout": "I’m not sure what “Smoke Assign 2” refers to—could you clarify?\r\n",
+      "stderr": "",
+      "command": "python -X utf8 scripts/delegate_agent_message.py --agent codey --message Smoke Assign 2\n\nSkriv hej från command center\n\nReturnera kort status när klart."
+    },
+    {
+      "runId": "taskrun_1773106660614_ed9j71",
+      "taskId": "task_1773106660604_pfssxd",
+      "kind": "task",
+      "status": "failed",
+      "code": 1,
+      "startedAt": "2026-03-10T01:37:40.619Z",
+      "endedAt": "2026-03-10T01:38:00.411Z",
+      "stdout": "Invalid JSON from openclaw agent: \r\n",
+      "stderr": "Exception in thread Thread-1 (_readerthread):\r\nTraceback (most recent call last):\r\n  File \"C:\\Python314\\Lib\\threading.py\", line 1082, in _bootstrap_inner\r\n    self._context.run(self.run)\r\n    ~~~~~~~~~~~~~~~~~^^^^^^^^^^\r\n  File \"C:\\Python314\\Lib\\threading.py\", line 1024, in run\r\n    self._target(*self._args, **self._kwargs)\r\n    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r\n  File \"C:\\Python314\\Lib\\subprocess.py\", line 1613, in _readerthread\r\n    buffer.append(fh.read())\r\n                  ~~~~~~~^^\r\n  File \"C:\\Python314\\Lib\\encodings\\cp1252.py\", line 23, in decode\r\n    return codecs.charmap_decode(input,self.errors,decoding_table)[0]\r\n           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\r\nUnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 52: character maps to <undefined>\r\n",
+      "command": "python scripts/delegate_agent_message.py --agent codey --message Smoke Assign\n\nSkriv hej från command center\n\nReturnera kort status när klart."
+    },
+    {
+      "runId": "taskrun_1773106633421_ctt3rr",
+      "taskId": "task_1773106629430_0jl0ll",
+      "kind": "task",
+      "status": "failed",
+      "code": 2,
+      "startedAt": "2026-03-10T01:37:13.428Z",
+      "endedAt": "2026-03-10T01:37:13.511Z",
+      "stdout": "",
+      "stderr": "usage: delegate_agent_message.py [-h] --agent AGENT --message MESSAGE\r\n                                 [--thinking THINKING] [--silent]\r\ndelegate_agent_message.py: error: unrecognized arguments: Command Center Task\r\n",
+      "command": "python scripts/delegate_agent_message.py --agent codey --message Test Command Center Task\n\nSkriv en kort hälsning i codey-shipping\n\nReturnera kort status när klart."
+    }
+  ]
+}

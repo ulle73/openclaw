@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Coastworks Command Center</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <h1>Coastworks<br/><span>Command Center</span></h1>
+      <button data-tab="overview" class="tab active">Översikt</button>
+      <button data-tab="agents" class="tab">Agenter</button>
+      <button data-tab="ceo" class="tab">CEO-vy</button>
+      <button data-tab="money" class="tab">Money Mode</button>
+      <button data-tab="kanban" class="tab">Kanban</button>
+      <button data-tab="youtube" class="tab">YouTube Ingest</button>
+      <button data-tab="knowledge" class="tab">Kunskapsbank</button>
+      <button data-tab="history" class="tab">Daglig historik</button>
+      <button data-tab="workspace" class="tab">Workspace Mirror</button>
+    </aside>
+
+    <main class="content">
+      <section id="overview" class="panel active"></section>
+      <section id="agents" class="panel"></section>
+      <section id="ceo" class="panel"></section>
+      <section id="money" class="panel"></section>
+      <section id="kanban" class="panel"></section>
+      <section id="youtube" class="panel"></section>
+      <section id="knowledge" class="panel"></section>
+      <section id="history" class="panel"></section>
+      <section id="workspace" class="panel"></section>
+    </main>
+  </div>
+
+  <template id="kanban-col-template">
+    <div class="kanban-col">
+      <h3></h3>
+      <div class="kanban-list"></div>
+    </div>
+  </template>
+
+  <script src="/app.js" type="module"></script>
+</body>
+</html>

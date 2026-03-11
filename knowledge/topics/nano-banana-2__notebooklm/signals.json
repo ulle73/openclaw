@@ -42,7 +42,7 @@
   "count": 2,
   "avg_roi_score": 7.5,
   "avg_relevance_score": 9.0,
-  "opportunity_score": 48,
+  "opportunity_score": 55,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
@@ -51,10 +51,13 @@
     {
       "projectId": "coastworks",
       "projectName": "Coastworks",
-      "score": 26,
+      "score": 33,
       "shared_signals": [
         "seo-content",
-        "automation"
+        "openclaw",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
       ],
       "projectRole": "offer",
       "projectPriority": 10
@@ -91,7 +94,7 @@
       "impact": "hog",
       "effort": "medel",
       "speed": "snabb",
-      "why": "Temat overlappar med Coastworks via seo-content och automation."
+      "why": "Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation."
     },
     {
       "title": "Bygg en intern skill eller automation runt notebooklm och nano banana 2",

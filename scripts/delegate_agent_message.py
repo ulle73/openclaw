@@ -63,6 +63,8 @@ def run_agent(agent_id: str, message: str, thinking: str | None = None) -> tuple
         command,
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
         cwd=WORKSPACE,
     )
     stdout = (process.stdout or "").strip()

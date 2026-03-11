@@ -23,7 +23,7 @@
   "count": 1,
   "avg_roi_score": 6.0,
   "avg_relevance_score": 6.0,
-  "opportunity_score": 34,
+  "opportunity_score": 36,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
@@ -32,9 +32,11 @@
     {
       "projectId": "coastworks",
       "projectName": "Coastworks",
-      "score": 21,
+      "score": 23,
       "shared_signals": [
-        "seo-content"
+        "seo-content",
+        "knowledge-systems",
+        "agent-automation"
       ],
       "projectRole": "offer",
       "projectPriority": 10
@@ -69,7 +71,7 @@
       "impact": "hog",
       "effort": "medel",
       "speed": "snabb",
-      "why": "Temat overlappar med Coastworks via seo-content."
+      "why": "Temat overlappar med Coastworks via seo-content, knowledge-systems och agent-automation."
     },
     {
       "title": "Bygg en intern skill eller automation runt gemini och web design",

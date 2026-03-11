@@ -35,3 +35,14 @@ UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f92f' in posit
 2026-03-09T19:02:30Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
 2026-03-09T23:10:29Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
 2026-03-09T23:14:06Z | manual-youtube | SUCCESS | https://youtu.be/KAX0cWk1fJE?is=sNq9jQkH1I-CKk4A | Ingested KAX0cWk1fJE
+2026-03-10T01:33:01Z | manual-youtube | FAIL | --help | Could not extract a YouTube video id from the URL
+2026-03-10T03:02:28Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-10T07:02:25Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=0 processed=0 queued=0
+2026-03-10T11:02:47Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-10T12:47:07Z | manual-youtube | SUCCESS | https://www.youtube.com/watch?v=9lbwgk29Db4 | Ingested 9lbwgk29Db4
+2026-03-10T12:48:50Z | manual-youtube | SUCCESS | https://www.youtube.com/watch?v=9lbwgk29Db4 | Ingested 9lbwgk29Db4
+2026-03-10T12:49:19Z | manual-youtube | SUCCESS | https://www.youtube.com/watch?v=95vDW6RKYgQ | Ingested 95vDW6RKYgQ
+2026-03-10T12:49:24Z | manual-youtube | SUCCESS | https://www.youtube.com/watch?v=95vDW6RKYgQ | Ingested 95vDW6RKYgQ
+2026-03-10T15:02:32Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=2 processed=2 queued=0
+2026-03-10T19:02:30Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-10T23:02:29Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=2 processed=2 queued=0

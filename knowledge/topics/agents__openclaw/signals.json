@@ -1,0 +1,127 @@
+{
+  "clusterKey": "agents__openclaw",
+  "label": "openclaw och agents",
+  "entity_tags": [
+    "openclaw",
+    "agents"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "agents",
+    "workflow-automation",
+    "agent-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "videoIds": [
+    "5lLC0o_D_Io"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 49,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 29,
+      "shared_signals": [
+        "seo-content",
+        "openclaw",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 24,
+      "shared_signals": [
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 22,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera openclaw och agents i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt openclaw och agents",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for openclaw och agents",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "5lLC0o_D_Io",
+      "title": "OpenClaw Virtual AI Agents Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Kostnadsbild och transparens lyfts som en del av produkten, vilket gör lösningen lättare att styra och räkna hem.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/agents__openclaw/overview.md",
+    "signals": "knowledge/topics/agents__openclaw/signals.json",
+    "decision": "knowledge/topics/agents__openclaw/decision.md",
+    "opportunity": "knowledge/topics/agents__openclaw/opportunity.md"
+  }
+}

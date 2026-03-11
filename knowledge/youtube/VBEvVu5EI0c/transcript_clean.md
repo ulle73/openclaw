@@ -1,0 +1,225 @@
+# Clean Transcript
+
+Open AAI new codeex update is insane.
+Open AAI just broke coding. Codeex is
+now 1.5x faster overnight. No warning,
+no buildup, just dropped. And developers
+are losing their minds over this. This
+isn't just a small update. This changes
+how fast you can build with AI. The new
+fast command is real. It's live and it
+works. We're talking instant AI
+responses while you code. No more
+waiting. No more flow breaking. No more
+staring at the screen. This is the
+update that turns Codeex into something
+completely different. Stay with me
+because by the end of this video, you're
+going to see exactly why this matters
+and exactly how to use it. Let's go.
+Hey, if we haven't met already, I'm the
+digital avatar of Julian Goldie, CEO of
+SEO agency, Goldie Agency. Whilst he's
+helping clients get more leads and
+customers, I'm here to help you get the
+latest AI updates. Julian Goldie reads
+every comment, so make sure you comment
+below. Here's the thing about AI coding
+tools right now. They're already
+incredible. You can ask AI to write
+code, fix bugs, build entire features.
+That used to take days. Now it takes
+minutes. But there's always been one
+problem that nobody talks about enough.
+Speed. Specifically, the waiting. Every
+single time you ask Codeex for help, you
+stop. You type your question. You sit
+there. You wait 8 seconds, 10 seconds,
+sometimes 15. And that gap breaks
+everything. There's a concept called
+flow state. is that zone where you're
+coding fast, thinking clearly, ideas are
+connecting, you're in the zone,
+everything feels effortless, and then
+you stop to ask AI something, and you
+wait, and the zone disappears. That one
+pause kills your momentum. You lose the
+thread, you start scrolling Twitter, 5
+minutes later, you're back trying to
+remember where you were. Developers know
+this feeling. It's the single biggest
+frustration with AI coding tools. The
+power is there, but the speed hasn't
+kept up until now. OpenAI just ships
+something simple but massive. A new
+command inside Codeex. It's called fast.
+You type fast in codeex and the whole
+experience changes. Responses come back
+1.5x faster. Suggestions fire instantly.
+Debugging answers land before you finish
+thinking about the next step. Same
+intelligence, same reasoning, same
+quality, just faster. No trade-off on
+the thinking side. This is the first
+time OpenAI has made speed a toggle
+inside a coding AI agent. You can flip
+into turbo mode. exactly when you need
+it, during debugging sessions, during
+rapid prototyping when you're in the
+zone and you need to stay there. The
+only trade-off is credits. Fast mode
+uses about 2x more credits than
+standard, but more on that in a second
+because the capability jump makes that
+completely worth it in the right
+situations. Quick pause here. This
+because if what I'm showing you right
+now gets you excited about what's
+possible with AI automation, you need to
+is where we take every update like this
+one and turn it into real practical
+systems. We don't just cover what the
+tools do. We show you how to actually
+use them to automate your business, save
+time, and build better. Whether you're
+running an agency, an online business, a
+tools like codecs, workflows, automation
+strategies, and the exact processes that
+make AI work in the real world, not
+theory, real systems. Link is in the
+description. Go check it out. Now, back
+to the update. Here is where it gets
+even wilder. The reason fast mode exists
+and works so well is because of the new
+model powering codeex right now. GPT
+5.4. Open AAI just dropped this and is
+their best coding model ever shipped.
+Let me break down what it actually does.
+First, native computer use. GPT 5.4 can
+control a computer like a human. Move
+the cursor, click buttons, read
+screenshots, type on a keyboard. This
+means codeex is no longer just writing
+code in a text box. It can actually
+operate the software a developer uses.
+It can see your screen. It can interact
+with your tools. Second, 1 million token
+context window. This is enormous. You
+can hand it an entire codebase, massive
+documentation, multi-file projects
+across dozens of files. It holds all of
+it in context at once. No more chopping
+up your code and feeding it in pieces.
+Just give it everything and let it work.
+Third, it's the strongest coding model.
+Open Air has ever released. It scores
+57.7% on S. S. S. S. S. S. S. S. S. S.
+S. Bench Pro. The previous version
+scored 56.8%.
+The jump looks small, but combine that
+with the speed and the computer use
+capabilities and you get something that
+feels completely different to work with.
+Let me show you what this looks like in
+practice because this is where things
+get genuinely hard to believe. Codeex
+with GPT 5.4 can now debug entire
+applications, not just single functions.
+The whole app. It reads the structure,
+finds the problems, fixes them, moves on
+to the next one, it can read
+screenshots. So if your UI is broken or
+looks wrong, you show codeex a
+screenshot and it diagnoses the issue
+visually. No more trying to describe in
+words what a visual bug looks like.
+There is also experimental playright
+integration. This means codeex can
+actually test the web apps it builds. It
+opens a browser, clicks through the app,
+checks the interface, finds bugs,
+reports back. It's testing its own work.
+Here's a real example. I want to build a
+boardroom. A page that explains what AI
+automation can do, shows the value of
+into members. I want it mobile first,
+fast loading and clean with codeex in
+fast mode. I type build a high
+converting landing page for the AI
+benefits. Make it mobile first with a
+strong call to action. Codeex writes the
+full HTML and CSS. Then with Playright,
+it opens the page in a browser, tests
+the layout, checks mobile
+responsiveness, finds any issues, and
+fixes them all without me touching it
+again. What used to take a developer
+hours now takes minutes inside one agent
+loop. This is the real shift happening
+right now. Codeex is no longer just a
+coding assistant. It's a coding agent.
+And there is a huge difference between
+the two. An assistant waits for you to
+tell it what to do next. An agent takes
+a goal and works through the whole thing
+on its own. Real talk.
+Fast mode has a cost and you should know
+it. Standard mode is slower but uses
+fewer credits. It is perfect for big
+long background tasks, large refactors,
+writing documentation, overnight
+processing jobs where speed is not the
+priority. Fast mode burns through about
+2x more credits. It is built for the
+moments when speed is everything. When
+you are actively debugging, when you are
+in flow and you need to stay there. when
+you are in a live session and waiting
+would break your concentration. The
+smart approach is to use both. Standard
+mode for everything that can wait. Fast
+mode for the sessions where being slow
+costs you more than the extra credits
+do. It is not a choice between one or
+the other. It is knowing when to flip
+the switch. Zoom out for a second
+because this update means more than just
+a faster response time. Every update
+OpenAI ships to Codeex moves us closer
+to autonomous development. AI that
+doesn't just help you code. AI that
+builds entire systems while you think
+about strategy and direction. The
+developers and builders who learn to
+work with tools like this right now are
+going to operate at a completely
+different speed than everyone else. That
+speed compounds, more experiments,
+faster iteration, more things shipped,
+more problems solved. AI coding just
+entered turbo mode, and this is only
+going to keep moving. Now, my question
+for you, would you flip your fast mode
+on and burn the credits, or would you
+stay on standard and keep it slow? Drop
+your answer in the comments. Julian
+reads every single one. If you want to
+go deeper and actually start using AI
+automation to build real systems and
+boardroom is where you want to be. We
+break down every update like this one,
+build real workflows, and show you
+exactly how to put AI to work in a way
+that actually makes a difference. link
+is in the description. And if you want
+to start for free right now, join the AI
+over 40,000 members who are already
+putting AI to work. You will get the
+full video notes from today, plus access
+to over 100 AI use cases, SOPs,
+are actually building with this stuff
+every day. Links are in the comments in
+the description. Do not just watch this
+and scroll on. Use it. Build something.
+The tools are here. The speed is here.
+The only thing left is for you to start.

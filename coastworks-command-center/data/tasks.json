@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2",
+    "title": "boss-dispatch-72a497c3-2fc0-4a31-bc8a-c452e8fd452b",
+    "description": "Claimed from Mission Control notification. Verified automatic dispatch reached Boss and was actioned.",
+    "status": "Done",
+    "agent": "boss",
+    "createdAt": "2026-03-10T12:05:52.000Z",
+    "updatedAt": "2026-03-10T12:06:30.000Z"
+  },
+  {
+    "id": "1",
+    "title": "fix x-integrations",
+    "description": "Claimed from Mission Control notification. Progress: fixed Mission Control X integrations handling and validation.",
+    "status": "In Progress",
+    "agent": "boss",
+    "createdAt": "2026-03-10T09:08:34.000Z",
+    "updatedAt": "2026-03-10T11:59:00.000Z"
+  },
+  {
+    "id": "task_1773106741484_yuyvsv",
+    "title": "Smoke Assign 2",
+    "description": "Skriv hej från command center",
+    "status": "Review",
+    "agent": "codey",
+    "createdAt": "2026-03-10T01:39:01.484Z",
+    "updatedAt": "2026-03-10T01:39:19.101Z",
+    "lastRunId": "taskrun_1773106741493_6gabau"
+  },
+  {
+    "id": "task_1773106660604_pfssxd",
+    "title": "Smoke Assign",
+    "description": "Skriv hej från command center",
+    "status": "Blocked",
+    "agent": "codey",
+    "createdAt": "2026-03-10T01:37:40.604Z",
+    "updatedAt": "2026-03-10T01:38:00.412Z",
+    "lastRunId": "taskrun_1773106660614_ed9j71"
+  },
+  {
+    "id": "task_1773106629430_0jl0ll",
+    "title": "Test Command Center Task",
+    "description": "Skriv en kort hälsning i codey-shipping",
+    "status": "Blocked",
+    "agent": "codey",
+    "createdAt": "2026-03-10T01:37:09.430Z",
+    "updatedAt": "2026-03-10T01:37:13.512Z",
+    "lastRunId": "taskrun_1773106633421_ctt3rr"
+  }
+]

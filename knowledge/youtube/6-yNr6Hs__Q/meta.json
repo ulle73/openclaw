@@ -1,0 +1,158 @@
+{
+  "id": "6-yNr6Hs__Q",
+  "title": "Tiiny AI Pocket Lab: The World's Smallest PC!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260310",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nWorld's Smallest AI PC: Tiny AI Pocket Lab (100B Models Local)\n\nDiscover the Tiny AI Pocket Lab, the world's smallest mini PC capable of running 100 billion parameter models locally and offline. This Guinness World Record holder offers military-grade encryption and a private \"second brain\" for your business data without any monthly subscription fees.\n\n00:00 - Intro: World's Smallest AI PC\n01:18 - Hardware & Performance Specs\n02:30 - Tiny OS & AI Agent Store\n03:28 - Image Generation & New Models\n04:08 - Private Local Knowledge (RAG)\n04:58 - Turbospar Speed & Optimization\n05:50 - Local AI vs. Cloud Services\n07:37 - How to Get the Pocket Lab",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "tiiny-pocket",
+    "the-world",
+    "smallest-pc",
+    "claude",
+    "gemini",
+    "telegram"
+  ],
+  "topic_tags": [
+    "tiiny-pocket",
+    "the-world",
+    "smallest-pc",
+    "telegram",
+    "workflow-automation",
+    "knowledge-management",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "smallest-pc__the-world__tiiny-pocket",
+  "related_video_ids": [
+    "P2LIFtrRr2U",
+    "OV5eK91YY68",
+    "5dy2ahf_EKQ",
+    "JmFkYj3__xc",
+    "ISb0nrlNoKQ"
+  ],
+  "related_videos": [
+    {
+      "videoId": "P2LIFtrRr2U",
+      "title": "Hermes Agent: New FREE OpenClaw Alternative!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/P2LIFtrRr2U/summary.md",
+      "topic_cluster_key": "hermes-agent__openclaw",
+      "shared_tags": [
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "5dy2ahf_EKQ",
+      "title": "New FREE OpenClaw Update: GPT 5.4 + Gemini 3.1 Flash-Lite",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/5dy2ahf_EKQ/summary.md",
+      "topic_cluster_key": "gemini__gpt-5__openclaw",
+      "shared_tags": [
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "knowledge-management",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "JmFkYj3__xc",
+      "title": "New FREE OpenClaw Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/JmFkYj3__xc/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "seo-content",
+        "seo-distribution",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "ISb0nrlNoKQ",
+      "title": "Why Specialized Agents are Superior (How I Built an OpenClaw Superteam)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/ISb0nrlNoKQ/summary.md",
+      "topic_cluster_key": "openclaw__specialized-agents",
+      "shared_tags": [
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "P2LIFtrRr2U",
+      "OV5eK91YY68",
+      "5dy2ahf_EKQ",
+      "JmFkYj3__xc",
+      "ISb0nrlNoKQ"
+    ]
+  },
+  "updated_at": "2026-03-10T03:02:28Z"
+}

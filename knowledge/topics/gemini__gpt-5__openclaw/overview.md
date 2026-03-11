@@ -1,7 +1,7 @@
 # openclaw och gemini
 
 - Cluster key: gemini__gpt-5__openclaw
-- Opportunity score: 50
+- Opportunity score: 51
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Categories: tool, workflow, seo_distribution, agent_flow, automation, api, business_idea, product_opportunity
 - Entity tags: openclaw, gemini, gpt-5, 1-flash, claude, telegram
@@ -11,13 +11,13 @@
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
+- Coastworks (score 29): seo-content, openclaw, knowledge-systems, automation och agent-automation
 - Gravity Claw (score 28): telegram, openclaw, knowledge-systems och agent-automation
-- Coastworks (score 22): seo-content och automation
 - AI Visibility Audit (score 22): seo-content, workflow-automation och automation
 
 ## Best ideas
-1. Applicera openclaw och gemini i Gravity Claw | impact: hog | effort: hog | speed: snabb
-   Why: Temat overlappar med Gravity Claw via telegram, openclaw, knowledge-systems och agent-automation.
+1. Applicera openclaw och gemini i Coastworks | impact: hog | effort: hog | speed: snabb
+   Why: Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation.
 2. Bygg en intern skill eller automation runt openclaw och gemini | impact: hog | effort: hog | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for openclaw och gemini | impact: hog | effort: lag | speed: snabb

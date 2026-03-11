@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-09T23:14:06Z",
+  "updatedAt": "2026-03-10T23:02:29Z",
   "clusters": {
     "000-hours__editing-tutorials__openclaw": {
       "entity_tags": [
@@ -27,6 +27,39 @@
           "title": "OpenClaw Just Replaced 1,000 Hours of Video Editing Tutorials",
           "channel": "Riley Brown",
           "summary": "knowledge/youtube/Yt6imPC1FhA/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "1-flash-lite__automate__gemini": {
+      "entity_tags": [
+        "gemini",
+        "automate",
+        "1-flash-lite"
+      ],
+      "topic_tags": [
+        "automate",
+        "1-flash-lite",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "rF8VXVn46co"
+      ],
+      "videos": [
+        {
+          "videoId": "rF8VXVn46co",
+          "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/rF8VXVn46co/summary.md"
         }
       ],
       "count": 1
@@ -93,6 +126,37 @@
       ],
       "count": 1
     },
+    "agents__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "agents"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "agents",
+        "workflow-automation",
+        "agent-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "seo-content",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow"
+      ],
+      "videoIds": [
+        "5lLC0o_D_Io"
+      ],
+      "videos": [
+        {
+          "videoId": "5lLC0o_D_Io",
+          "title": "OpenClaw Virtual AI Agents Update Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/5lLC0o_D_Io/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "antigravity__gravityclaw__unstoppable": {
       "entity_tags": [
         "antigravity",
@@ -148,6 +212,41 @@
           "title": "I replaced OpenClaw with AntiGravity... its WILD",
           "channel": "Jack Roberts",
           "summary": "knowledge/youtube/C4fTWiOGXpM/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "automate__claude__perplexity-computer": {
+      "entity_tags": [
+        "claude",
+        "perplexity-computer",
+        "automate",
+        "openclaw",
+        "gemini"
+      ],
+      "topic_tags": [
+        "perplexity-computer",
+        "automate",
+        "openclaw",
+        "ai-video-generation",
+        "workflow-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "seo-distribution",
+        "agent-flow"
+      ],
+      "videoIds": [
+        "Aq21uBOl9qE"
+      ],
+      "videos": [
+        {
+          "videoId": "Aq21uBOl9qE",
+          "title": "Perplexity Computer + Claude Code Subagents: Automate ANYTHING!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/Aq21uBOl9qE/summary.md"
         }
       ],
       "count": 1
@@ -209,6 +308,36 @@
           "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/IWKOcumdMUE/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "chatgpt__notebooklm": {
+      "entity_tags": [
+        "notebooklm",
+        "chatgpt"
+      ],
+      "topic_tags": [
+        "notebooklm",
+        "workflow-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "seo-content",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "iNNLfHMDCfk"
+      ],
+      "videos": [
+        {
+          "videoId": "iNNLfHMDCfk",
+          "title": "ChatGPT 5.4 + NoteBookLM is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/iNNLfHMDCfk/summary.md"
         }
       ],
       "count": 1
@@ -277,6 +406,7 @@
         "Fv-FxekmfTQ",
         "RyxeYZ7TW3o",
         "fnLXErf-plM",
+        "m9aBfbXMnZY",
         "s2HalzQZ1MQ",
         "wX_neSx7-Ls"
       ],
@@ -306,6 +436,12 @@
           "summary": "knowledge/youtube/fnLXErf-plM/summary.md"
         },
         {
+          "videoId": "m9aBfbXMnZY",
+          "title": "NEW Claude Code Update is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/m9aBfbXMnZY/summary.md"
+        },
+        {
           "videoId": "s2HalzQZ1MQ",
           "title": "NEW Claude Code Update is INSANE!",
           "channel": "Julian Goldie SEO",
@@ -318,7 +454,42 @@
           "summary": "knowledge/youtube/wX_neSx7-Ls/summary.md"
         }
       ],
-      "count": 6
+      "count": 7
+    },
+    "claude__course__employees": {
+      "entity_tags": [
+        "claude",
+        "course",
+        "employees",
+        "antigravity",
+        "mcp"
+      ],
+      "topic_tags": [
+        "course",
+        "employees",
+        "antigravity",
+        "mcp",
+        "agent-automation",
+        "prompt-design",
+        "workflow-automation",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "api",
+        "api-integration"
+      ],
+      "videoIds": [
+        "cNf7uVff11Y"
+      ],
+      "videos": [
+        {
+          "videoId": "cNf7uVff11Y",
+          "title": "Claude Cowork FULL COURSE (Build AI Employees)",
+          "channel": "Jack Roberts",
+          "summary": "knowledge/youtube/cNf7uVff11Y/summary.md"
+        }
+      ],
+      "count": 1
     },
     "claude__design-now": {
       "entity_tags": [
@@ -451,28 +622,106 @@
       ],
       "count": 1
     },
-    "gemini": {
+    "every-company__operating-systems__will-need-one": {
       "entity_tags": [
-        "gemini",
-        "notebooklm"
+        "operating-systems",
+        "every-company",
+        "will-need-one",
+        "chatgpt",
+        "claude"
       ],
       "topic_tags": [
-        "notebooklm",
+        "operating-systems",
+        "every-company",
+        "will-need-one",
         "workflow-automation",
-        "onboarding-training",
-        "marketing-explainers",
+        "seo-content",
         "business-idea",
         "business-opportunity",
         "seo-distribution",
-        "seo-content",
         "agent-flow",
         "agent-automation",
         "product-opportunity"
       ],
       "videoIds": [
+        "82qAMBBk2kc"
+      ],
+      "videos": [
+        {
+          "videoId": "82qAMBBk2kc",
+          "title": "AI Operating Systems Explained! (Why Every Company Will Need One)",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/82qAMBBk2kc/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "everything__notebooklm": {
+      "entity_tags": [
+        "notebooklm",
+        "everything"
+      ],
+      "topic_tags": [
+        "notebooklm",
+        "everything",
+        "ai-video-generation",
+        "content-repurposing",
+        "workflow-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "videoIds": [
+        "UzLMmFtnRMQ"
+      ],
+      "videos": [
+        {
+          "videoId": "UzLMmFtnRMQ",
+          "title": "NotebookLM  New Update Just Changed Everything!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/UzLMmFtnRMQ/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "gemini": {
+      "entity_tags": [
+        "gemini",
+        "claude",
+        "mcp",
+        "notebooklm"
+      ],
+      "topic_tags": [
+        "mcp",
+        "workflow-automation",
+        "onboarding-training",
+        "seo-content",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity",
+        "api",
+        "api-integration",
+        "notebooklm",
+        "marketing-explainers"
+      ],
+      "videoIds": [
+        "98bGqof0dUI",
         "ZgnQb40aiTU"
       ],
       "videos": [
+        {
+          "videoId": "98bGqof0dUI",
+          "title": "NEW Gemini CLI Update is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/98bGqof0dUI/summary.md"
+        },
         {
           "videoId": "ZgnQb40aiTU",
           "title": "Google Gemini New FREE Updates Are INSANE!",
@@ -480,7 +729,7 @@
           "summary": "knowledge/youtube/ZgnQb40aiTU/summary.md"
         }
       ],
-      "count": 1
+      "count": 2
     },
     "gemini__gpt-5__openclaw": {
       "entity_tags": [
@@ -623,6 +872,39 @@
       ],
       "count": 1
     },
+    "layers-explained__openclaw__the-3-memory": {
+      "entity_tags": [
+        "openclaw",
+        "the-3-memory",
+        "layers-explained"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "the-3-memory",
+        "layers-explained",
+        "workflow-automation",
+        "onboarding-training",
+        "seo-content",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity"
+      ],
+      "videoIds": [
+        "f8LJBh1AtKg"
+      ],
+      "videos": [
+        {
+          "videoId": "f8LJBh1AtKg",
+          "title": "Stop OpenClaw From Forgetting – The 3 Memory Layers Explained!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/f8LJBh1AtKg/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "model": {
       "entity_tags": [
         "model"
@@ -730,39 +1012,113 @@
       ],
       "count": 1
     },
+    "openai-model": {
+      "entity_tags": [
+        "openai-model"
+      ],
+      "topic_tags": [
+        "openai-model",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "api",
+        "api-integration"
+      ],
+      "videoIds": [
+        "VBEvVu5EI0c"
+      ],
+      "videos": [
+        {
+          "videoId": "VBEvVu5EI0c",
+          "title": "NEW OpenAI Model Update is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/VBEvVu5EI0c/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "openai__symphony": {
+      "entity_tags": [
+        "openai",
+        "symphony",
+        "mcp"
+      ],
+      "topic_tags": [
+        "openai",
+        "symphony",
+        "mcp",
+        "workflow-automation",
+        "onboarding-training",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "seo-content",
+        "agent-flow",
+        "agent-automation",
+        "api"
+      ],
+      "videoIds": [
+        "KOOBrzuGlcM"
+      ],
+      "videos": [
+        {
+          "videoId": "KOOBrzuGlcM",
+          "title": "OpenAI's NEW Symphony AI is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/KOOBrzuGlcM/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "openclaw": {
       "entity_tags": [
         "openclaw",
-        "telegram",
-        "nano-banana-2",
         "claude",
-        "gemini"
+        "telegram",
+        "gemini",
+        "nano-banana-2"
       ],
       "topic_tags": [
         "openclaw",
         "telegram",
         "workflow-automation",
         "onboarding-training",
+        "marketing-explainers",
         "seo-content",
-        "proactive-assistant",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
         "seo-distribution",
         "agent-flow",
         "agent-automation",
+        "proactive-assistant",
         "api",
         "api-integration",
         "knowledge-management",
-        "business-idea",
-        "business-opportunity",
-        "nano-banana-2",
-        "marketing-explainers",
-        "prompt-design"
+        "product-opportunity",
+        "nano-banana-2"
       ],
       "videoIds": [
+        "9lbwgk29Db4",
         "JmFkYj3__xc",
         "KyXUJnYjjAo",
-        "OV5eK91YY68"
+        "NiTOlYmthNg",
+        "OV5eK91YY68",
+        "S-HveAU5l7c"
       ],
       "videos": [
+        {
+          "videoId": "9lbwgk29Db4",
+          "title": "this openclaw content system is INSANE (self improving)",
+          "channel": "Kevin Jeppesen - The Operator Vault",
+          "summary": "knowledge/youtube/9lbwgk29Db4/summary.md"
+        },
         {
           "videoId": "JmFkYj3__xc",
           "title": "New FREE OpenClaw Update!",
@@ -776,13 +1132,25 @@
           "summary": "knowledge/youtube/KyXUJnYjjAo/summary.md"
         },
         {
+          "videoId": "NiTOlYmthNg",
+          "title": "OpenClaw New Update Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/NiTOlYmthNg/summary.md"
+        },
+        {
           "videoId": "OV5eK91YY68",
           "title": "I let OpenClaw run my organic marketing (here's how)",
           "channel": "Greg Isenberg",
           "summary": "knowledge/youtube/OV5eK91YY68/summary.md"
+        },
+        {
+          "videoId": "S-HveAU5l7c",
+          "title": "NEW OpenClaw Robot is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/S-HveAU5l7c/summary.md"
         }
       ],
-      "count": 3
+      "count": 6
     },
     "openclaw__single-agents": {
       "entity_tags": [
@@ -809,6 +1177,39 @@
           "title": "This Openclaw Trick Makes Single Agents Obsolete",
           "channel": "Openclaw Labs",
           "summary": "knowledge/youtube/esuPIJeRotI/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "openclaw__skills": {
+      "entity_tags": [
+        "openclaw",
+        "skills",
+        "claude"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "skills",
+        "workflow-automation",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "proactive-assistant",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "api",
+        "api-integration"
+      ],
+      "videoIds": [
+        "95vDW6RKYgQ"
+      ],
+      "videos": [
+        {
+          "videoId": "95vDW6RKYgQ",
+          "title": "New FREE OpenClaw Skills Update is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/95vDW6RKYgQ/summary.md"
         }
       ],
       "count": 1
@@ -968,6 +1369,42 @@
       ],
       "count": 1
     },
+    "smallest-pc__the-world__tiiny-pocket": {
+      "entity_tags": [
+        "tiiny-pocket",
+        "the-world",
+        "smallest-pc",
+        "claude",
+        "gemini",
+        "telegram"
+      ],
+      "topic_tags": [
+        "tiiny-pocket",
+        "the-world",
+        "smallest-pc",
+        "telegram",
+        "workflow-automation",
+        "knowledge-management",
+        "seo-content",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "6-yNr6Hs__Q"
+      ],
+      "videos": [
+        {
+          "videoId": "6-yNr6Hs__Q",
+          "title": "Tiiny AI Pocket Lab: The World's Smallest PC!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/6-yNr6Hs__Q/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "the": {
       "entity_tags": [
         "the",
@@ -1016,6 +1453,15 @@
       ],
       "count": 2
     },
+    "1-flash-lite": {
+      "videoIds": [
+        "rF8VXVn46co"
+      ],
+      "clusters": [
+        "1-flash-lite__automate__gemini"
+      ],
+      "count": 1
+    },
     "5-hours": {
       "videoIds": [
         "Oz-fXptuhdA"
@@ -1039,8 +1485,14 @@
         "-hYE5U6FGk8",
         "0b8qQx3FaLE",
         "5dy2ahf_EKQ",
+        "5lLC0o_D_Io",
+        "6-yNr6Hs__Q",
         "7JdUDyidwpg",
+        "82qAMBBk2kc",
+        "95vDW6RKYgQ",
+        "98bGqof0dUI",
         "99EoVMtEA2A",
+        "9lbwgk29Db4",
         "C4fTWiOGXpM",
         "DSKO9ZtbHFA",
         "FXfAnWMxQao",
@@ -1049,65 +1501,91 @@
         "IWKOcumdMUE",
         "JmFkYj3__xc",
         "KAX0cWk1fJE",
+        "KOOBrzuGlcM",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
+        "NiTOlYmthNg",
         "OV5eK91YY68",
         "Oz-fXptuhdA",
         "P2LIFtrRr2U",
         "RyxeYZ7TW3o",
+        "S-HveAU5l7c",
+        "VBEvVu5EI0c",
         "Wxf9oqxODU0",
         "YnzsnqsrqXs",
         "Yt6imPC1FhA",
         "ZgnQb40aiTU",
+        "cNf7uVff11Y",
         "cZThTdL4YJQ",
         "esuPIJeRotI",
+        "f8LJBh1AtKg",
         "fnLXErf-plM",
         "iBVMutY4Ot0",
+        "iNNLfHMDCfk",
         "iuQ_Y-qSz78",
         "jyVRbD6fqic",
+        "m9aBfbXMnZY",
         "pSQE1SsGfSQ",
+        "rF8VXVn46co",
         "s2HalzQZ1MQ",
         "wX_neSx7-Ls",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
+        "1-flash-lite__automate__gemini",
         "5-hours__automate__openclaw",
         "agent",
+        "agents__openclaw",
         "antigravity__gravityclaw__unstoppable",
         "antigravity__openclaw",
         "breakdown__the",
         "chatgpt",
+        "chatgpt__notebooklm",
         "chinese__model",
         "claude",
+        "claude__course__employees",
         "claude__design-now",
         "claude__scheduled-tasks",
         "claude__skills-2__unstoppable",
         "devin-2",
+        "every-company__operating-systems__will-need-one",
         "gemini",
         "gemini__gpt-5__openclaw",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
         "openai-codex",
+        "openai-model",
+        "openai__symphony",
         "openclaw",
         "openclaw__single-agents",
+        "openclaw__skills",
         "openclaw__specialized-agents",
         "openclaw__star-office",
         "perplexity-computer",
+        "smallest-pc__the-world__tiiny-pocket",
         "the"
       ],
-      "count": 33
+      "count": 48
     },
     "agent-flow": {
       "videoIds": [
         "-hYE5U6FGk8",
         "0b8qQx3FaLE",
         "5dy2ahf_EKQ",
+        "5lLC0o_D_Io",
+        "6-yNr6Hs__Q",
         "7JdUDyidwpg",
+        "82qAMBBk2kc",
+        "95vDW6RKYgQ",
+        "98bGqof0dUI",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
+        "9lbwgk29Db4",
+        "Aq21uBOl9qE",
         "C4fTWiOGXpM",
         "DSKO9ZtbHFA",
         "FXfAnWMxQao",
@@ -1116,94 +1594,133 @@
         "IWKOcumdMUE",
         "JmFkYj3__xc",
         "KAX0cWk1fJE",
+        "KOOBrzuGlcM",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "NY22ChmcHvg",
+        "NiTOlYmthNg",
         "OV5eK91YY68",
         "P2LIFtrRr2U",
         "RyxeYZ7TW3o",
+        "S-HveAU5l7c",
+        "VBEvVu5EI0c",
         "YnzsnqsrqXs",
         "Yt6imPC1FhA",
         "ZgnQb40aiTU",
         "cZThTdL4YJQ",
         "esuPIJeRotI",
+        "f8LJBh1AtKg",
         "fnLXErf-plM",
         "iBVMutY4Ot0",
+        "iNNLfHMDCfk",
         "iuQ_Y-qSz78",
         "jyVRbD6fqic",
+        "m9aBfbXMnZY",
         "pSQE1SsGfSQ",
+        "rF8VXVn46co",
         "s2HalzQZ1MQ",
         "wX_neSx7-Ls",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
+        "1-flash-lite__automate__gemini",
         "agent",
+        "agents__openclaw",
         "antigravity__gravityclaw__unstoppable",
         "antigravity__openclaw",
+        "automate__claude__perplexity-computer",
         "breakdown__the",
         "chatgpt",
+        "chatgpt__notebooklm",
         "chinese__model",
         "claude",
         "claude__design-now",
         "claude__scheduled-tasks",
         "devin-2",
+        "every-company__operating-systems__will-need-one",
         "gemini",
         "gemini__gpt-5__openclaw",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
         "openai-codex",
+        "openai-model",
+        "openai__symphony",
         "openclaw",
         "openclaw__single-agents",
+        "openclaw__skills",
         "openclaw__specialized-agents",
         "openclaw__star-office",
         "perplexity-computer",
         "saas",
+        "smallest-pc__the-world__tiiny-pocket",
         "the"
       ],
-      "count": 33
+      "count": 48
+    },
+    "agents": {
+      "videoIds": [
+        "5lLC0o_D_Io"
+      ],
+      "clusters": [
+        "agents__openclaw"
+      ],
+      "count": 1
     },
     "ai-video-generation": {
       "videoIds": [
         "0b8qQx3FaLE",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
+        "Aq21uBOl9qE",
+        "UzLMmFtnRMQ",
         "Wxf9oqxODU0",
         "obIeqXJH3d4"
       ],
       "clusters": [
+        "automate__claude__perplexity-computer",
         "breakdown__the",
         "claude__skills-2__unstoppable",
+        "everything__notebooklm",
         "nano-banana-2__notebooklm",
         "saas"
       ],
-      "count": 5
+      "count": 7
     },
     "antigravity": {
       "videoIds": [
         "-hYE5U6FGk8",
         "C4fTWiOGXpM",
-        "DSKO9ZtbHFA"
+        "DSKO9ZtbHFA",
+        "cNf7uVff11Y"
       ],
       "clusters": [
         "antigravity__gravityclaw__unstoppable",
         "antigravity__openclaw",
-        "claude"
+        "claude",
+        "claude__course__employees"
       ],
-      "count": 3
+      "count": 4
     },
     "api": {
       "videoIds": [
         "5dy2ahf_EKQ",
+        "95vDW6RKYgQ",
+        "98bGqof0dUI",
         "DSKO9ZtbHFA",
         "ISb0nrlNoKQ",
         "JmFkYj3__xc",
         "KAX0cWk1fJE",
+        "KOOBrzuGlcM",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
+        "NiTOlYmthNg",
+        "VBEvVu5EI0c",
         "Yt6imPC1FhA",
+        "cNf7uVff11Y",
         "fnLXErf-plM",
         "jyVRbD6fqic",
         "s2HalzQZ1MQ",
@@ -1212,41 +1729,59 @@
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
         "claude",
+        "claude__course__employees",
         "claude__design-now",
+        "gemini",
         "gemini__gpt-5__openclaw",
         "gpt-5__openclaw",
         "model",
         "openai-codex",
+        "openai-model",
+        "openai__symphony",
         "openclaw",
+        "openclaw__skills",
         "openclaw__specialized-agents"
       ],
-      "count": 12
+      "count": 18
     },
     "api-integration": {
       "videoIds": [
+        "95vDW6RKYgQ",
+        "98bGqof0dUI",
         "DSKO9ZtbHFA",
         "JmFkYj3__xc",
         "KyXUJnYjjAo",
+        "NiTOlYmthNg",
+        "VBEvVu5EI0c",
         "Yt6imPC1FhA",
+        "cNf7uVff11Y",
         "jyVRbD6fqic",
         "s2HalzQZ1MQ"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
         "claude",
+        "claude__course__employees",
+        "gemini",
         "openai-codex",
-        "openclaw"
+        "openai-model",
+        "openclaw",
+        "openclaw__skills"
       ],
-      "count": 6
+      "count": 11
     },
     "automate": {
       "videoIds": [
-        "Oz-fXptuhdA"
+        "Aq21uBOl9qE",
+        "Oz-fXptuhdA",
+        "rF8VXVn46co"
       ],
       "clusters": [
-        "5-hours__automate__openclaw"
+        "1-flash-lite__automate__gemini",
+        "5-hours__automate__openclaw",
+        "automate__claude__perplexity-computer"
       ],
-      "count": 1
+      "count": 3
     },
     "breakdown": {
       "videoIds": [
@@ -1260,110 +1795,160 @@
     "business-idea": {
       "videoIds": [
         "0b8qQx3FaLE",
+        "5lLC0o_D_Io",
+        "6-yNr6Hs__Q",
         "7JdUDyidwpg",
+        "82qAMBBk2kc",
+        "98bGqof0dUI",
         "9T1yWEq5kP0",
+        "9lbwgk29Db4",
         "C4fTWiOGXpM",
         "DSKO9ZtbHFA",
         "FXfAnWMxQao",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
         "KAX0cWk1fJE",
+        "KOOBrzuGlcM",
         "KyXUJnYjjAo",
         "N0NceZbY2_4",
         "NY22ChmcHvg",
+        "NiTOlYmthNg",
         "OV5eK91YY68",
         "P2LIFtrRr2U",
         "RyxeYZ7TW3o",
+        "S-HveAU5l7c",
+        "UzLMmFtnRMQ",
+        "VBEvVu5EI0c",
         "Wxf9oqxODU0",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
+        "cNf7uVff11Y",
+        "f8LJBh1AtKg",
         "fnLXErf-plM",
         "iBVMutY4Ot0",
+        "iNNLfHMDCfk",
         "iuQ_Y-qSz78",
         "jyVRbD6fqic",
+        "m9aBfbXMnZY",
         "obIeqXJH3d4",
         "pSQE1SsGfSQ",
+        "rF8VXVn46co",
         "s2HalzQZ1MQ",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
+        "1-flash-lite__automate__gemini",
+        "agents__openclaw",
         "antigravity__openclaw",
         "breakdown__the",
         "chatgpt",
+        "chatgpt__notebooklm",
         "chinese__model",
         "claude",
+        "claude__course__employees",
         "claude__design-now",
         "claude__scheduled-tasks",
         "claude__skills-2__unstoppable",
         "devin-2",
+        "every-company__operating-systems__will-need-one",
+        "everything__notebooklm",
         "gemini",
         "gemini__gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
         "openai-codex",
+        "openai-model",
+        "openai__symphony",
         "openclaw",
         "openclaw__specialized-agents",
         "openclaw__star-office",
         "perplexity-computer",
         "saas",
         "selling-magnets",
+        "smallest-pc__the-world__tiiny-pocket",
         "the"
       ],
-      "count": 26
+      "count": 41
     },
     "business-opportunity": {
       "videoIds": [
         "0b8qQx3FaLE",
+        "5lLC0o_D_Io",
+        "6-yNr6Hs__Q",
         "7JdUDyidwpg",
+        "82qAMBBk2kc",
+        "98bGqof0dUI",
         "9T1yWEq5kP0",
+        "9lbwgk29Db4",
         "C4fTWiOGXpM",
         "DSKO9ZtbHFA",
         "FXfAnWMxQao",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
         "KAX0cWk1fJE",
+        "KOOBrzuGlcM",
         "KyXUJnYjjAo",
         "N0NceZbY2_4",
         "NY22ChmcHvg",
+        "NiTOlYmthNg",
         "OV5eK91YY68",
         "P2LIFtrRr2U",
         "RyxeYZ7TW3o",
+        "S-HveAU5l7c",
+        "UzLMmFtnRMQ",
+        "VBEvVu5EI0c",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
+        "cNf7uVff11Y",
+        "f8LJBh1AtKg",
         "fnLXErf-plM",
         "iBVMutY4Ot0",
+        "iNNLfHMDCfk",
         "iuQ_Y-qSz78",
         "jyVRbD6fqic",
+        "m9aBfbXMnZY",
         "obIeqXJH3d4",
         "pSQE1SsGfSQ",
+        "rF8VXVn46co",
         "s2HalzQZ1MQ",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
+        "1-flash-lite__automate__gemini",
+        "agents__openclaw",
         "antigravity__openclaw",
         "breakdown__the",
         "chatgpt",
+        "chatgpt__notebooklm",
         "chinese__model",
         "claude",
+        "claude__course__employees",
         "claude__design-now",
         "claude__scheduled-tasks",
         "devin-2",
+        "every-company__operating-systems__will-need-one",
+        "everything__notebooklm",
         "gemini",
         "gemini__gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
         "openai-codex",
+        "openai-model",
+        "openai__symphony",
         "openclaw",
         "openclaw__specialized-agents",
         "openclaw__star-office",
         "perplexity-computer",
         "saas",
         "selling-magnets",
+        "smallest-pc__the-world__tiiny-pocket",
         "the"
       ],
-      "count": 25
+      "count": 40
     },
     "chinese": {
       "videoIds": [
@@ -1377,15 +1962,26 @@
     "content-repurposing": {
       "videoIds": [
         "Oz-fXptuhdA",
+        "UzLMmFtnRMQ",
         "obIeqXJH3d4",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
         "5-hours__automate__openclaw",
+        "everything__notebooklm",
         "model",
         "nano-banana-2__notebooklm"
       ],
-      "count": 3
+      "count": 4
+    },
+    "course": {
+      "videoIds": [
+        "cNf7uVff11Y"
+      ],
+      "clusters": [
+        "claude__course__employees"
+      ],
+      "count": 1
     },
     "design-now": {
       "videoIds": [
@@ -1411,6 +2007,33 @@
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw"
+      ],
+      "count": 1
+    },
+    "employees": {
+      "videoIds": [
+        "cNf7uVff11Y"
+      ],
+      "clusters": [
+        "claude__course__employees"
+      ],
+      "count": 1
+    },
+    "every-company": {
+      "videoIds": [
+        "82qAMBBk2kc"
+      ],
+      "clusters": [
+        "every-company__operating-systems__will-need-one"
+      ],
+      "count": 1
+    },
+    "everything": {
+      "videoIds": [
+        "UzLMmFtnRMQ"
+      ],
+      "clusters": [
+        "everything__notebooklm"
       ],
       "count": 1
     },
@@ -1448,75 +2071,112 @@
       "videoIds": [
         "0b8qQx3FaLE",
         "5dy2ahf_EKQ",
+        "5lLC0o_D_Io",
+        "6-yNr6Hs__Q",
         "7JdUDyidwpg",
+        "Aq21uBOl9qE",
         "C4fTWiOGXpM",
         "KyXUJnYjjAo",
         "Oz-fXptuhdA",
+        "UzLMmFtnRMQ",
         "Wxf9oqxODU0",
         "iBVMutY4Ot0",
+        "iNNLfHMDCfk",
         "obIeqXJH3d4"
       ],
       "clusters": [
         "5-hours__automate__openclaw",
+        "agents__openclaw",
         "antigravity__openclaw",
+        "automate__claude__perplexity-computer",
         "breakdown__the",
+        "chatgpt__notebooklm",
         "chinese__model",
         "claude__skills-2__unstoppable",
+        "everything__notebooklm",
         "gemini__gpt-5__openclaw",
         "nano-banana-2__notebooklm",
         "openclaw",
-        "perplexity-computer"
+        "perplexity-computer",
+        "smallest-pc__the-world__tiiny-pocket"
       ],
-      "count": 9
+      "count": 14
+    },
+    "layers-explained": {
+      "videoIds": [
+        "f8LJBh1AtKg"
+      ],
+      "clusters": [
+        "layers-explained__openclaw__the-3-memory"
+      ],
+      "count": 1
     },
     "marketing-explainers": {
       "videoIds": [
+        "95vDW6RKYgQ",
+        "9lbwgk29Db4",
+        "Aq21uBOl9qE",
         "Fv-FxekmfTQ",
         "KAX0cWk1fJE",
         "KeAy_Va2Wrc",
         "OV5eK91YY68",
+        "UzLMmFtnRMQ",
+        "VBEvVu5EI0c",
         "ZgnQb40aiTU",
         "esuPIJeRotI",
         "fnLXErf-plM",
         "iBVMutY4Ot0",
         "iuQ_Y-qSz78",
+        "m9aBfbXMnZY",
         "mXlMAkHhgYs",
         "obIeqXJH3d4",
-        "pSQE1SsGfSQ"
+        "pSQE1SsGfSQ",
+        "rF8VXVn46co"
       ],
       "clusters": [
+        "1-flash-lite__automate__gemini",
+        "automate__claude__perplexity-computer",
         "claude",
         "claude__design-now",
         "devin-2",
+        "everything__notebooklm",
         "gemini",
         "gemini__web-design",
         "gpt-5__openclaw",
         "nano-banana-2__notebooklm",
+        "openai-model",
         "openclaw",
         "openclaw__single-agents",
+        "openclaw__skills",
         "perplexity-computer",
         "the"
       ],
-      "count": 12
+      "count": 19
     },
     "mcp": {
       "videoIds": [
+        "98bGqof0dUI",
         "9T1yWEq5kP0",
         "DSKO9ZtbHFA",
         "KAX0cWk1fJE",
+        "KOOBrzuGlcM",
         "Oz-fXptuhdA",
         "RyxeYZ7TW3o",
         "Wxf9oqxODU0",
+        "cNf7uVff11Y",
         "s2HalzQZ1MQ"
       ],
       "clusters": [
         "5-hours__automate__openclaw",
         "claude",
+        "claude__course__employees",
         "claude__design-now",
         "claude__skills-2__unstoppable",
+        "gemini",
+        "openai__symphony",
         "saas"
       ],
-      "count": 7
+      "count": 10
     },
     "model": {
       "videoIds": [
@@ -1555,60 +2215,93 @@
       "videoIds": [
         "99EoVMtEA2A",
         "Oz-fXptuhdA",
+        "UzLMmFtnRMQ",
         "ZgnQb40aiTU",
+        "iNNLfHMDCfk",
         "obIeqXJH3d4"
       ],
       "clusters": [
         "5-hours__automate__openclaw",
+        "chatgpt__notebooklm",
+        "everything__notebooklm",
         "gemini",
         "nano-banana-2__notebooklm"
       ],
-      "count": 4
+      "count": 6
     },
     "onboarding-training": {
       "videoIds": [
         "5dy2ahf_EKQ",
+        "5lLC0o_D_Io",
         "7JdUDyidwpg",
+        "98bGqof0dUI",
         "9T1yWEq5kP0",
+        "9lbwgk29Db4",
+        "Aq21uBOl9qE",
         "C4fTWiOGXpM",
         "Fv-FxekmfTQ",
         "JmFkYj3__xc",
+        "KOOBrzuGlcM",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "NY22ChmcHvg",
+        "NiTOlYmthNg",
         "Oz-fXptuhdA",
         "P2LIFtrRr2U",
         "RyxeYZ7TW3o",
+        "S-HveAU5l7c",
+        "UzLMmFtnRMQ",
+        "VBEvVu5EI0c",
         "Wxf9oqxODU0",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
         "esuPIJeRotI",
+        "f8LJBh1AtKg",
         "fnLXErf-plM",
         "iBVMutY4Ot0",
+        "iNNLfHMDCfk",
         "obIeqXJH3d4",
         "pSQE1SsGfSQ",
+        "rF8VXVn46co",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
+        "1-flash-lite__automate__gemini",
         "5-hours__automate__openclaw",
+        "agents__openclaw",
         "antigravity__openclaw",
+        "automate__claude__perplexity-computer",
+        "chatgpt__notebooklm",
         "chinese__model",
         "claude",
         "claude__skills-2__unstoppable",
         "devin-2",
+        "everything__notebooklm",
         "gemini",
         "gemini__gpt-5__openclaw",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
+        "openai-model",
+        "openai__symphony",
         "openclaw",
         "openclaw__single-agents",
         "openclaw__star-office",
         "perplexity-computer",
         "saas"
       ],
-      "count": 21
+      "count": 33
+    },
+    "openai": {
+      "videoIds": [
+        "KOOBrzuGlcM"
+      ],
+      "clusters": [
+        "openai__symphony"
+      ],
+      "count": 1
     },
     "openai-codex": {
       "videoIds": [
@@ -1619,12 +2312,25 @@
       ],
       "count": 1
     },
+    "openai-model": {
+      "videoIds": [
+        "VBEvVu5EI0c"
+      ],
+      "clusters": [
+        "openai-model"
+      ],
+      "count": 1
+    },
     "openclaw": {
       "videoIds": [
         "0b8qQx3FaLE",
         "5dy2ahf_EKQ",
+        "5lLC0o_D_Io",
+        "95vDW6RKYgQ",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
+        "9lbwgk29Db4",
+        "Aq21uBOl9qE",
         "C4fTWiOGXpM",
         "Fv-FxekmfTQ",
         "ISb0nrlNoKQ",
@@ -1633,44 +2339,63 @@
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "NY22ChmcHvg",
+        "NiTOlYmthNg",
         "OV5eK91YY68",
         "Oz-fXptuhdA",
         "P2LIFtrRr2U",
         "RyxeYZ7TW3o",
+        "S-HveAU5l7c",
         "YnzsnqsrqXs",
         "Yt6imPC1FhA",
-        "esuPIJeRotI"
+        "esuPIJeRotI",
+        "f8LJBh1AtKg"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
         "5-hours__automate__openclaw",
+        "agents__openclaw",
         "antigravity__openclaw",
+        "automate__claude__perplexity-computer",
         "breakdown__the",
         "claude",
         "claude__design-now",
         "gemini__gpt-5__openclaw",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "layers-explained__openclaw__the-3-memory",
         "nano-banana-2__notebooklm",
         "openclaw",
         "openclaw__single-agents",
+        "openclaw__skills",
         "openclaw__specialized-agents",
         "openclaw__star-office",
         "saas"
       ],
-      "count": 19
+      "count": 26
     },
-    "perplexity-computer": {
+    "operating-systems": {
       "videoIds": [
-        "iBVMutY4Ot0"
+        "82qAMBBk2kc"
       ],
       "clusters": [
-        "perplexity-computer"
+        "every-company__operating-systems__will-need-one"
       ],
       "count": 1
     },
+    "perplexity-computer": {
+      "videoIds": [
+        "Aq21uBOl9qE",
+        "iBVMutY4Ot0"
+      ],
+      "clusters": [
+        "automate__claude__perplexity-computer",
+        "perplexity-computer"
+      ],
+      "count": 2
+    },
     "proactive-assistant": {
       "videoIds": [
+        "95vDW6RKYgQ",
         "9T1yWEq5kP0",
         "C4fTWiOGXpM",
         "JmFkYj3__xc",
@@ -1680,25 +2405,32 @@
         "antigravity__openclaw",
         "gemini__gpt-5__openclaw",
         "openclaw",
+        "openclaw__skills",
         "saas"
       ],
-      "count": 4
+      "count": 5
     },
     "product-opportunity": {
       "videoIds": [
         "0b8qQx3FaLE",
+        "82qAMBBk2kc",
+        "98bGqof0dUI",
         "C4fTWiOGXpM",
         "DSKO9ZtbHFA",
         "Fv-FxekmfTQ",
         "ISb0nrlNoKQ",
         "KeAy_Va2Wrc",
         "N0NceZbY2_4",
+        "NiTOlYmthNg",
         "P2LIFtrRr2U",
         "ZgnQb40aiTU",
+        "cNf7uVff11Y",
         "esuPIJeRotI",
+        "f8LJBh1AtKg",
         "fnLXErf-plM",
         "iuQ_Y-qSz78",
         "jyVRbD6fqic",
+        "m9aBfbXMnZY",
         "pSQE1SsGfSQ",
         "s2HalzQZ1MQ",
         "wX_neSx7-Ls"
@@ -1707,21 +2439,28 @@
         "antigravity__openclaw",
         "breakdown__the",
         "claude",
+        "claude__course__employees",
         "devin-2",
+        "every-company__operating-systems__will-need-one",
         "gemini",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "layers-explained__openclaw__the-3-memory",
         "openai-codex",
+        "openclaw",
         "openclaw__single-agents",
         "openclaw__specialized-agents",
         "selling-magnets",
         "the"
       ],
-      "count": 16
+      "count": 22
     },
     "prompt-design": {
       "videoIds": [
         "0b8qQx3FaLE",
+        "95vDW6RKYgQ",
+        "9lbwgk29Db4",
+        "Aq21uBOl9qE",
         "C4fTWiOGXpM",
         "DSKO9ZtbHFA",
         "Fv-FxekmfTQ",
@@ -1731,25 +2470,32 @@
         "NY22ChmcHvg",
         "OV5eK91YY68",
         "RyxeYZ7TW3o",
+        "UzLMmFtnRMQ",
         "Wxf9oqxODU0",
         "Yt6imPC1FhA",
+        "cNf7uVff11Y",
         "esuPIJeRotI",
         "fnLXErf-plM",
         "iBVMutY4Ot0",
         "mXlMAkHhgYs",
         "obIeqXJH3d4",
         "pSQE1SsGfSQ",
+        "rF8VXVn46co",
         "s2HalzQZ1MQ",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
+        "1-flash-lite__automate__gemini",
         "antigravity__openclaw",
+        "automate__claude__perplexity-computer",
         "breakdown__the",
         "claude",
+        "claude__course__employees",
         "claude__design-now",
         "claude__skills-2__unstoppable",
         "devin-2",
+        "everything__notebooklm",
         "gemini__gpt-5__openclaw",
         "gemini__web-design",
         "gpt-5__openclaw",
@@ -1757,10 +2503,11 @@
         "nano-banana-2__notebooklm",
         "openclaw",
         "openclaw__single-agents",
+        "openclaw__skills",
         "openclaw__specialized-agents",
         "perplexity-computer"
       ],
-      "count": 20
+      "count": 26
     },
     "saas": {
       "videoIds": [
@@ -1792,101 +2539,153 @@
     "seo-content": {
       "videoIds": [
         "5dy2ahf_EKQ",
+        "5lLC0o_D_Io",
+        "6-yNr6Hs__Q",
         "7JdUDyidwpg",
+        "82qAMBBk2kc",
+        "95vDW6RKYgQ",
+        "98bGqof0dUI",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
+        "9lbwgk29Db4",
+        "Aq21uBOl9qE",
         "FXfAnWMxQao",
         "Fv-FxekmfTQ",
         "IWKOcumdMUE",
         "JmFkYj3__xc",
+        "KOOBrzuGlcM",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "NY22ChmcHvg",
+        "NiTOlYmthNg",
         "OV5eK91YY68",
         "P2LIFtrRr2U",
         "RyxeYZ7TW3o",
+        "S-HveAU5l7c",
+        "UzLMmFtnRMQ",
+        "VBEvVu5EI0c",
         "Wxf9oqxODU0",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
         "cZThTdL4YJQ",
+        "f8LJBh1AtKg",
         "fnLXErf-plM",
         "iBVMutY4Ot0",
+        "iNNLfHMDCfk",
         "jyVRbD6fqic",
+        "m9aBfbXMnZY",
         "obIeqXJH3d4",
         "pSQE1SsGfSQ",
+        "rF8VXVn46co",
         "s2HalzQZ1MQ",
         "wX_neSx7-Ls",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
+        "1-flash-lite__automate__gemini",
         "agent",
+        "agents__openclaw",
+        "automate__claude__perplexity-computer",
         "chatgpt",
+        "chatgpt__notebooklm",
         "chinese__model",
         "claude",
         "claude__scheduled-tasks",
         "claude__skills-2__unstoppable",
         "devin-2",
+        "every-company__operating-systems__will-need-one",
+        "everything__notebooklm",
         "gemini",
         "gemini__gpt-5__openclaw",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
         "openai-codex",
+        "openai-model",
+        "openai__symphony",
         "openclaw",
+        "openclaw__skills",
         "openclaw__star-office",
         "perplexity-computer",
-        "saas"
+        "saas",
+        "smallest-pc__the-world__tiiny-pocket"
       ],
-      "count": 26
+      "count": 42
     },
     "seo-distribution": {
       "videoIds": [
         "5dy2ahf_EKQ",
+        "5lLC0o_D_Io",
+        "6-yNr6Hs__Q",
         "7JdUDyidwpg",
+        "82qAMBBk2kc",
+        "95vDW6RKYgQ",
+        "98bGqof0dUI",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
+        "9lbwgk29Db4",
+        "Aq21uBOl9qE",
         "FXfAnWMxQao",
         "Fv-FxekmfTQ",
         "IWKOcumdMUE",
         "JmFkYj3__xc",
+        "KOOBrzuGlcM",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "NY22ChmcHvg",
+        "NiTOlYmthNg",
         "OV5eK91YY68",
         "P2LIFtrRr2U",
         "RyxeYZ7TW3o",
+        "S-HveAU5l7c",
+        "VBEvVu5EI0c",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
         "cZThTdL4YJQ",
+        "f8LJBh1AtKg",
         "fnLXErf-plM",
         "iBVMutY4Ot0",
+        "iNNLfHMDCfk",
         "jyVRbD6fqic",
+        "m9aBfbXMnZY",
         "pSQE1SsGfSQ",
+        "rF8VXVn46co",
         "s2HalzQZ1MQ",
         "wX_neSx7-Ls",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
+        "1-flash-lite__automate__gemini",
         "agent",
+        "agents__openclaw",
+        "automate__claude__perplexity-computer",
         "chatgpt",
+        "chatgpt__notebooklm",
         "chinese__model",
         "claude",
         "claude__scheduled-tasks",
         "devin-2",
+        "every-company__operating-systems__will-need-one",
         "gemini",
         "gemini__gpt-5__openclaw",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
         "openai-codex",
+        "openai-model",
+        "openai__symphony",
         "openclaw",
+        "openclaw__skills",
         "openclaw__star-office",
         "perplexity-computer",
-        "saas"
+        "saas",
+        "smallest-pc__the-world__tiiny-pocket"
       ],
-      "count": 24
+      "count": 39
     },
     "single-agents": {
       "videoIds": [
@@ -1897,12 +2696,30 @@
       ],
       "count": 1
     },
+    "skills": {
+      "videoIds": [
+        "95vDW6RKYgQ"
+      ],
+      "clusters": [
+        "openclaw__skills"
+      ],
+      "count": 1
+    },
     "skills-2": {
       "videoIds": [
         "Wxf9oqxODU0"
       ],
       "clusters": [
         "claude__skills-2__unstoppable"
+      ],
+      "count": 1
+    },
+    "smallest-pc": {
+      "videoIds": [
+        "6-yNr6Hs__Q"
+      ],
+      "clusters": [
+        "smallest-pc__the-world__tiiny-pocket"
       ],
       "count": 1
     },
@@ -1924,9 +2741,20 @@
       ],
       "count": 1
     },
+    "symphony": {
+      "videoIds": [
+        "KOOBrzuGlcM"
+      ],
+      "clusters": [
+        "openai__symphony"
+      ],
+      "count": 1
+    },
     "telegram": {
       "videoIds": [
         "5dy2ahf_EKQ",
+        "6-yNr6Hs__Q",
+        "9lbwgk29Db4",
         "ISb0nrlNoKQ",
         "JmFkYj3__xc",
         "OV5eK91YY68",
@@ -1938,9 +2766,10 @@
         "gemini__gpt-5__openclaw",
         "hermes-agent__openclaw",
         "openclaw",
-        "openclaw__specialized-agents"
+        "openclaw__specialized-agents",
+        "smallest-pc__the-world__tiiny-pocket"
       ],
-      "count": 6
+      "count": 8
     },
     "the": {
       "videoIds": [
@@ -1952,6 +2781,33 @@
         "the"
       ],
       "count": 2
+    },
+    "the-3-memory": {
+      "videoIds": [
+        "f8LJBh1AtKg"
+      ],
+      "clusters": [
+        "layers-explained__openclaw__the-3-memory"
+      ],
+      "count": 1
+    },
+    "the-world": {
+      "videoIds": [
+        "6-yNr6Hs__Q"
+      ],
+      "clusters": [
+        "smallest-pc__the-world__tiiny-pocket"
+      ],
+      "count": 1
+    },
+    "tiiny-pocket": {
+      "videoIds": [
+        "6-yNr6Hs__Q"
+      ],
+      "clusters": [
+        "smallest-pc__the-world__tiiny-pocket"
+      ],
+      "count": 1
     },
     "unstoppable": {
       "videoIds": [
@@ -1973,14 +2829,30 @@
       ],
       "count": 1
     },
+    "will-need-one": {
+      "videoIds": [
+        "82qAMBBk2kc"
+      ],
+      "clusters": [
+        "every-company__operating-systems__will-need-one"
+      ],
+      "count": 1
+    },
     "workflow-automation": {
       "videoIds": [
         "-hYE5U6FGk8",
         "0b8qQx3FaLE",
         "5dy2ahf_EKQ",
+        "5lLC0o_D_Io",
+        "6-yNr6Hs__Q",
         "7JdUDyidwpg",
+        "82qAMBBk2kc",
+        "95vDW6RKYgQ",
+        "98bGqof0dUI",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
+        "9lbwgk29Db4",
+        "Aq21uBOl9qE",
         "C4fTWiOGXpM",
         "DSKO9ZtbHFA",
         "FXfAnWMxQao",
@@ -1989,55 +2861,77 @@
         "IWKOcumdMUE",
         "JmFkYj3__xc",
         "KAX0cWk1fJE",
+        "KOOBrzuGlcM",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "NY22ChmcHvg",
+        "NiTOlYmthNg",
         "OV5eK91YY68",
         "Oz-fXptuhdA",
         "P2LIFtrRr2U",
         "RyxeYZ7TW3o",
+        "S-HveAU5l7c",
+        "UzLMmFtnRMQ",
+        "VBEvVu5EI0c",
         "Wxf9oqxODU0",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
+        "cNf7uVff11Y",
         "esuPIJeRotI",
+        "f8LJBh1AtKg",
         "fnLXErf-plM",
         "iBVMutY4Ot0",
+        "iNNLfHMDCfk",
         "jyVRbD6fqic",
+        "m9aBfbXMnZY",
         "mXlMAkHhgYs",
         "obIeqXJH3d4",
         "pSQE1SsGfSQ",
+        "rF8VXVn46co",
         "s2HalzQZ1MQ",
         "wX_neSx7-Ls",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
+        "1-flash-lite__automate__gemini",
         "5-hours__automate__openclaw",
+        "agents__openclaw",
         "antigravity__gravityclaw__unstoppable",
         "antigravity__openclaw",
+        "automate__claude__perplexity-computer",
         "breakdown__the",
         "chatgpt",
+        "chatgpt__notebooklm",
         "chinese__model",
         "claude",
+        "claude__course__employees",
         "claude__design-now",
         "claude__scheduled-tasks",
         "claude__skills-2__unstoppable",
         "devin-2",
+        "every-company__operating-systems__will-need-one",
+        "everything__notebooklm",
         "gemini",
         "gemini__gpt-5__openclaw",
         "gemini__web-design",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
         "openai-codex",
+        "openai-model",
+        "openai__symphony",
         "openclaw",
         "openclaw__single-agents",
+        "openclaw__skills",
         "openclaw__specialized-agents",
         "openclaw__star-office",
         "perplexity-computer",
-        "saas"
+        "saas",
+        "smallest-pc__the-world__tiiny-pocket"
       ],
-      "count": 34
+      "count": 51
     }
   }
 }

@@ -1,7 +1,7 @@
 # openclaw och 5 hours
 
 - Cluster key: 5-hours__automate__openclaw
-- Opportunity score: 48
+- Opportunity score: 53
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Categories: tool, workflow, business_idea, seo_distribution, agent_flow, automation, product_opportunity, mcp, api
 - Entity tags: openclaw, 5-hours, automate, notebooklm, nano-banana-2, chatgpt, claude, gemini
@@ -11,13 +11,13 @@
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
+- Coastworks (score 33): seo-content, openclaw, knowledge-systems, automation och agent-automation
 - Gravity Claw (score 28): telegram, openclaw, knowledge-systems och agent-automation
-- Coastworks (score 26): seo-content och automation
 - AI Visibility Audit (score 26): seo-content, workflow-automation och automation
 
 ## Best ideas
-1. Applicera openclaw och 5 hours i Gravity Claw | impact: hog | effort: hog | speed: snabb
-   Why: Temat overlappar med Gravity Claw via telegram, openclaw, knowledge-systems och agent-automation.
+1. Applicera openclaw och 5 hours i Coastworks | impact: hog | effort: hog | speed: snabb
+   Why: Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation.
 2. Bygg en intern skill eller automation runt openclaw och 5 hours | impact: hog | effort: hog | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for openclaw och 5 hours | impact: hog | effort: lag | speed: snabb

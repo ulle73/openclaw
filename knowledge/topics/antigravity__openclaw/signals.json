@@ -53,22 +53,25 @@
       "projectPriority": 8
     },
     {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 19,
+      "shared_signals": [
+        "openclaw",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
       "projectId": "ullebets",
       "projectName": "UlleBets",
       "score": 15,
       "shared_signals": [],
       "projectRole": "product",
       "projectPriority": 8
-    },
-    {
-      "projectId": "coastworks",
-      "projectName": "Coastworks",
-      "score": 12,
-      "shared_signals": [
-        "automation"
-      ],
-      "projectRole": "offer",
-      "projectPriority": 10
     }
   ],
   "ideas": [

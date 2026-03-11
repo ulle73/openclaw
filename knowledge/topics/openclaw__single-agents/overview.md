@@ -1,7 +1,7 @@
 # openclaw och single agents
 
 - Cluster key: openclaw__single-agents
-- Opportunity score: 45
+- Opportunity score: 50
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Categories: tool, workflow, agent_flow, automation, product_opportunity
 - Entity tags: openclaw, single-agents
@@ -11,13 +11,13 @@
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
+- Coastworks (score 29): seo-content, openclaw, knowledge-systems, automation och agent-automation
 - Gravity Claw (score 24): openclaw, knowledge-systems och agent-automation
-- Coastworks (score 22): seo-content och automation
 - AI Visibility Audit (score 22): seo-content, workflow-automation och automation
 
 ## Best ideas
-1. Applicera openclaw och single agents i Gravity Claw | impact: hog | effort: medel | speed: snabb
-   Why: Temat overlappar med Gravity Claw via openclaw, knowledge-systems och agent-automation.
+1. Applicera openclaw och single agents i Coastworks | impact: hog | effort: medel | speed: snabb
+   Why: Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation.
 2. Bygg en intern skill eller automation runt openclaw och single agents | impact: hog | effort: medel | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for openclaw och single agents | impact: hog | effort: lag | speed: snabb

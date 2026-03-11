@@ -1,0 +1,210 @@
+Google just dropped something wild. It's
+called Gemini 3.1 Flashlight, and it is
+the cheapest, fastest AI model Google
+has ever released. We're talking a model
+so fast it starts answering before
+you've even finished blinking. So cheap,
+you can run hundreds of AI tasks for
+almost nothing. And smart enough to
+build you a full business system from
+scratch. I'm going to show you exactly
+what this model does. I'm going to show
+you how entrepreneurs, students,
+teachers, and marketing teams are
+already using it. And I'm going to show
+you real workflows you can copy today.
+Not theory, not hype. Real stuff that
+works. You don't need a big team. You
+don't need to be a developer. You just
+need the right prompts and the right
+model. Let's get into it. Hey, if we
+haven't met already, I'm the digital
+avatar of Julian Goldie, CEO of SEO
+agency Goldie Agency. Whilst he's
+helping clients get more leads and
+customers, I'm here to help you get the
+latest AI updates. Julian Goldie reads
+every comment, so make sure you comment
+below. Today we are talking about Gemini
+3.1 flashlight. This is Google's newest
+model and it just changed the game for
+anyone who wants to use AI to automate
+their business, build faster, and stop
+wasting time on tasks they shouldn't be
+doing manually. Let's start simple.
+Gemini 3.1 Flashlight is part of
+Google's Gemini 3 model family. Think of
+it like a lineup. Gemini 3 Pro is the
+big, heavy model, great for complex
+reasoning. Gemini 3 flash is fast and
+powerful, good for most everyday tasks.
+And then there's Gemini 3.1 flashlight.
+That's the one we're focusing on today.
+It is built to be ultra fast, ultra
+cheap, and highly scalable. That means
+it's designed to handle thousands of
+tasks at once without slowing down. It's
+not a model you use to have a casual
+chat. It is a model you use to build
+systems, pipelines, and automations. And
+it runs across text, images, audio,
+video, code, and PDFs. Fully multimodal
+right out of the box. Here's where it
+gets interesting. Gemini 3.1 flashlight
+is 2.5 times faster on first token. That
+means the moment you submit a prompt,
+it's already responding. It's also 45%
+faster on generation speed overall. And
+the pricing is one of the lowest of any
+advanced AI model available right now.
+What that means for you is simple. You
+can now run AI automations at scale
+without burning through your budget.
+every second you save across hundreds of
+tasks adds up. And when you're running
+automations for your content, your
+marketing, your customer support, or
+your systems, that speed and that cost
+efficiency is everything. This is not a
+small update. This is a shift in what's
+possible. Here's something most people
+don't even know yet. You can run Gemini
+3.1 Flashlight directly from your
+terminal using the Gemini CLI. The
+command is this gemin Gemini 3.1
+Flashlight preview. That's it. No
+browser, no dashboard. Just open your
+terminal, type that command, and you're
+connected to one of the fastest AI
+models on the planet. And this matters
+because once AI lives in your terminal,
+it becomes part of your workflow in a
+totally different way. You can build
+scripts around it. You can chain it into
+automations. You can have it generate
+code, copy content, and entire systems
+without ever switching Windows. Full
+support for running it as a /model
+command inside other tools is coming
+very soon, too. Quick pause before we
+get into the workflows. If you are
+watching this and thinking, I want to
+use AI to automate my business like
+where you need to be. It's our private
+use AI automation to grow their
+business, save time, and build smarter
+systems. We teach you the exact
+workflows, the prompts, the tools, and
+the processes. No fluff, just stuff that
+actually works. Link is in the
+description. Go check it out. Now, let's
+keep moving. This is the section that
+matters most. Let's talk about real
+workflows using Gemini 3.1 flashlight.
+boardroom as the example throughout
+because this is exactly how we would use
+entrepreneurs, let's say you want to
+launch a new offer or grow your
+flashlight, and give it this prompt. Act
+as a launch strategist. Build a complete
+boardroom. include the target audience,
+core value proposition, content
+strategy, outreach plan, and a
+week-by-eek action list. In seconds, you
+have a full launch plan, market
+research, positioning, execution steps,
+everything laid out. What used to take
+days of planning now takes minutes. You
+iterate, refine, and move fast. Are you
+for students? Let's say you're learning
+about AI automation, and you want to
+make the most of every resource. You
+take your notes, your video transcripts,
+your saved articles, and you prompt
+Flashlight like this. Take these notes
+on AI automation and turn them into a
+clear summary, 10 quiz questions, and a
+set of flashcards I can use to review.
+Done instantly. A full study system
+built from your own material. Flashlight
+makes it easy to turn any content into
+something you can actually learn from.
+for teachers and educators. Let's say
+you want to run a training session for
+your team or your audience on how to use
+this. Create a complete 60-minute
+training session on using AI automation
+session outline, key talking points,
+three exercises, and a short quiz at the
+end. You get a full session plan ready
+to deliver. No prep time wasted. A for
+marketing teams. This is where
+flashlight gets really powerful. Let's
+say you need to create content for the
+platforms this week. You prompt it like
+this. Generate a full 7-day content plan
+LinkedIn post, one short form video
+script, one email subject line, and one
+Facebook ad per day. Use hooks that
+speak to business owners who want to
+save time with AI. And because
+Flashlight is so fast and so
+costefficient, you can run this kind of
+prompt again and again. Different
+angles, different platforms, different
+audiences. You're not writing one piece
+of content. You're building a content
+factory. Here's what I want you to
+understand about where all of this is
+heading. Most people still use AI like a
+search engine. They ask a question, they
+get an answer, they move on. That is not
+how you build leverage with AI. The real
+power is in automation. Building systems
+where AI handles the repetitive, the
+time-conuming, and the scalable work in
+the background. Flashlight is designed
+exactly for that. It is fast enough to
+run thousands of tasks, cheap enough to
+run them at scale, and smart enough to
+do work that actually matters. Think
+about moderation, translation, content
+generation, lead qualification, customer
+on boarding, email drafting. All of that
+can be automated. All of that can run in
+the background while you focus on the
+work only you can do. The businesses
+that are going to win over the next few
+years are the ones building these
+systems now, not later. The Gemini CLI
+is growing fast. official /model support
+is coming. That means Flashlight will
+integrate even more deeply into
+developer tools, agent workflows, and
+automated pipelines. And as the model
+gets better, the use cases only expand.
+We're moving into a world of agentic AI
+where models don't just answer your
+questions. They take actions, run
+workflows, and complete tasks end to
+end. Flashlight is built for that world.
+And the people learning how to use these
+tools right now are going to have a
+massive advantage over everyone who
+waits. All right, before I let you go,
+two things. First, if you want to start
+using AI automation to grow your
+business and build smarter systems, come
+deep on AI workflows, tools like this
+one, and real strategies for using AI to
+grow. Link is in the description.
+Second, if you want the full process,
+the SOPs, and access to over a 100 AI
+use cases just like this one, join the
+AI Success Lab. It's our free AI
+are using AI every day to build and
+grow. Links are in the comments and the
+description. You'll get all the video
+notes from there, too. Drop a comment
+below. Julian reads, everyone, see you
+in the next video.

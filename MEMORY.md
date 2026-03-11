@@ -3,6 +3,9 @@
 ## Core Summary
 Jonas är en svensk, mycket hands-on, AI-driven entreprenör och builder som tänker i system, monetisering, automation och snabb validering. Han arbetar över flera parallella projekt inom micro-SaaS, sports tech, betting analytics, leadgen, AI-verktyg och svenska SME-lösningar.
 
+## Desktop Automation
+- `scripts/desktop_control.ps1` hanterar naturliga språk-kommandon för att öppna appar och klicka UI-element (exempel: starta Antigravity, trycka Codex-ikonen och "Use standard speed").
+
 ## Current Operating Model
 - Agenten ska följa ett bolagsstyrt upplägg via `knowledge/companies/TEMPLATE/` och `knowledge/companies/DEFAULT/`.
 - `DEFAULT` är Jonas nuvarande profil: AI-drivna digitala produkter, appar, automationer, agentflöden och micro-SaaS med affärsnytta och snabb väg till intäkter.

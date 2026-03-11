@@ -1,12 +1,12 @@
 # Decision - openclaw och gemini
 
 - Action: project_upgrade
-- Opportunity score: 50
+- Opportunity score: 51
 - Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Recommended next move
-Applicera openclaw och gemini i Gravity Claw
+Applicera openclaw och gemini i Coastworks
 
 ## Best project match
-- Gravity Claw (role: product, score: 28)
-- Shared signals: telegram, openclaw, knowledge-systems och agent-automation
+- Coastworks (role: offer, score: 29)
+- Shared signals: seo-content, openclaw, knowledge-systems, automation och agent-automation

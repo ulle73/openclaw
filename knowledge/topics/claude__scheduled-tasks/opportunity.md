@@ -2,7 +2,7 @@
 
 ## Best ideas
 1. Applicera claude och scheduled tasks i Coastworks | impact: hog | effort: medel | speed: snabb
-   Why: Temat overlappar med Coastworks via seo-content och automation.
+   Why: Temat overlappar med Coastworks via seo-content, knowledge-systems, automation och agent-automation.
 2. Bygg en intern skill eller automation runt claude och scheduled tasks | impact: hog | effort: medel | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for claude och scheduled tasks | impact: hog | effort: lag | speed: snabb

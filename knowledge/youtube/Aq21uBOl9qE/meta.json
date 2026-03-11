@@ -1,0 +1,156 @@
+{
+  "id": "Aq21uBOl9qE",
+  "title": "Perplexity Computer + Claude Code Subagents: Automate ANYTHING!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260310",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nMassive Perplexity Update: Claude Code & GitHub CLI Integration\n\nPerplexity Computer has integrated Claude Code and GitHub CLI, allowing you to build apps and fix bugs autonomously. Learn how this new sub-agent system handles end-to-end workflows from research to deployment without manual coding.\n\n00:00 - Intro: Perplexity’s Massive Upgrade\n00:27 - How Sub-Agents Build Projects\n01:43 - Auto-Fixing Bugs with Claude Code\n03:11 - What is Perplexity Computer?\n04:03 - Claude Code & GitHub CLI Explained\n06:41 - Perplexity vs Claude Code vs OpenClaw\n07:58 - Recap: The Future of Autonomous Coding\n09:27 - How to Stay Updated on AI News",
+  "classifications": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "perplexity-computer",
+    "automate",
+    "openclaw",
+    "gemini"
+  ],
+  "topic_tags": [
+    "perplexity-computer",
+    "automate",
+    "openclaw",
+    "ai-video-generation",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "automate__claude__perplexity-computer",
+  "related_video_ids": [
+    "iBVMutY4Ot0",
+    "Oz-fXptuhdA",
+    "KeAy_Va2Wrc",
+    "Fv-FxekmfTQ",
+    "RyxeYZ7TW3o"
+  ],
+  "related_videos": [
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "perplexity-computer",
+        "agent-flow",
+        "knowledge-management",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "Oz-fXptuhdA",
+      "title": "OpenClaw FULL COURSE 5 HOURS (Build & Automate Anything)",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Oz-fXptuhdA/summary.md",
+      "topic_cluster_key": "5-hours__automate__openclaw",
+      "shared_tags": [
+        "automate",
+        "openclaw",
+        "knowledge-management",
+        "onboarding-training",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "KeAy_Va2Wrc",
+      "title": "GPT 5.4 + OpenClaw is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KeAy_Va2Wrc/summary.md",
+      "topic_cluster_key": "gpt-5__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "Fv-FxekmfTQ",
+      "title": "How to Make Claude Code 100X Better in 1 Click",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Fv-FxekmfTQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 10
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "iBVMutY4Ot0",
+      "Oz-fXptuhdA",
+      "KeAy_Va2Wrc",
+      "Fv-FxekmfTQ",
+      "RyxeYZ7TW3o"
+    ]
+  },
+  "updated_at": "2026-03-10T09:30:12Z"
+}

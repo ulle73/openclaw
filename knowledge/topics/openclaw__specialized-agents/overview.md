@@ -12,8 +12,8 @@ Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
 - Gravity Claw (score 28): telegram, openclaw, knowledge-systems och agent-automation
+- Coastworks (score 19): openclaw, knowledge-systems, automation och agent-automation
 - UlleBets (score 19): telegram
-- Coastworks (score 12): automation
 
 ## Best ideas
 1. Applicera openclaw och specialized agents i Gravity Claw | impact: hog | effort: hog | speed: snabb

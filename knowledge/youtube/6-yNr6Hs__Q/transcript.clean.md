@@ -1,0 +1,238 @@
+Tiny AI Pocket Lab, the world's smallest
+PC. Today, I'm going to show you the
+smallest AI computer ever made. It fits
+in your pocket. It runs 100 billion
+parameter AI models. No cloud, no fees,
+no one watching your data. It just broke
+a Guinness World Record. And it might
+change everything about how you use AI.
+The device is called the Tiny AI Pocket
+Lab. It launched at CES 2026. And here's
+the thing, it just became the world's
+official Guinness World Record holder
+for the smallest mini PC that can run
+LLMs over 100 billion parameters.
+Let that sink in. A device you can hold
+in your hand. Runs AI bigger than most
+cloud systems locally, offline, no
+subscription, no data going anywhere.
+This is huge. And I'm going to break
+down exactly what it does, why it
+matters, and how tools like this can
+completely change how you run your
+business with AI. Stay with me because
+later in this video, I'm going to show
+you how this kind of local AI setup
+connects to real AI automation use cases
+for growing a business. So, don't skip
+ahead. Hey, if we haven't met already,
+I'm the digital avatar of Julian Goldie,
+CEO of SEO agency Goldie Agency. Whilst
+he's helping clients get more leads and
+customers, I'm here to help you get the
+latest AI updates. Julian Goldie reads
+every comment, so make sure you comment
+below. So, what is the teeny AI Pocket
+Lab exactly? Think of it like a tiny
+supercomput. The size of a USB stick or
+a small thumb drive, but it is a full
+PC. Inside it packs 80 GB of LPDDR5X
+RAM, that's fast memory, the same class
+used in high-end laptops, 1 TB of SSD
+storage, a 12 core ARM v9.2 processor,
+and it supports AI models up to 120
+billion parameters. We're talking Llama,
+Quen, Deepseek, Mistral, all the big
+ones. And it uses AES 256 encryption.
+That's militarygrade encryption. Your
+data stays safe. Now, here's where it
+gets interesting for business owners and
+AI users. You plug this into your laptop
+or phone via USBC. Works on Mac, works
+on Windows. You can even run it off a
+power bank. So, you've got a full AI
+brain in your pocket running anywhere
+with no internet required. Now, before I
+go further, if you're watching this and
+you want to see how AI automation tools
+like this can help you grow your
+business, save time, and get more
+customers, then you need to check out
+the AI profit boardroom. It's the best
+community for business owners and
+entrepreneurs who want to use AI the
+smart way. We cover tools, automation
+workflows, and real use cases. Link is
+in the comment and description. So, back
+to the tiny AI pocket lab. Let's talk
+about the software because the hardware
+is impressive, but the software is where
+this thing really shines. It runs
+something called Tiny OS. Tiny OS is the
+operating system built specifically for
+this device, and it does a few things
+that matter a lot. First, it has a model
+store. Over 50 pre-optimized AI models
+you can install with one click. We're
+talking Llama models, Quen models,
+Deepseek, Mistrol, all tuned to run well
+on this device. No setup, no code, just
+click and go. Second, it has an agent
+store. These are pre-built AI agents you
+can run directly on the device. Things
+like Kylo Code for coding tasks, Silly
+Tavern for roleplay, and Creative AI,
+Ragflow for document search. We'll talk
+more about that in a second. Third,
+everything runs through a browser-based
+interface. So, you don't need to install
+anything extra. You connect the device,
+open your browser, and you're in. That's
+it. Now, let me talk about some of the
+newer updates because this is where it
+gets even more exciting. They've added
+GLM 4.7 Flash, which is described as an
+uncensored model, meaning fewer
+restrictions on what you can ask it.
+They've added Quen 3 coder, a model
+specifically built for writing and
+understanding code. They've added Zimage
+Turbo, which means this tiny device can
+now generate images locally. No
+midjourney, no deli, no monthly fees,
+image generation on your own hardware.
+And they've added TinyBot, which gives
+you Telegram integration. So, you can
+literally message your AI agent on
+Telegram and get answers from your local
+device. That's wild. Now, let me talk
+about something really important for
+anyone who's serious about using AI in
+their business. There's a feature called
+long-term memory. Here's what it does.
+You feed the device your files,
+documents, notes, PDFs, whatever you've
+got. It indexes all of that locally, and
+it becomes what they call a private
+second brain. So, imagine this for the
+AI profit boardroom. Let's say you want
+an AI agent that knows everything about
+AI automation, all your community notes,
+all your training docs, all your member
+resources. You load all of that into the
+pocket lab. Now, when someone asks a
+question, the AI searches through your
+local knowledge base and gives a precise
+answer. No cloud, no data leak. No one
+else has access to your business
+knowledge. That's RAG, retrieval,
+augmented generation, running locally on
+a device the size of your thumb. For any
+business owner with sensitive data,
+client information, or proprietary
+processes, this is massive. Let's talk
+about speed because one of the biggest
+knocks on local AI has always been it's
+slow. Not anymore. Tiny has built
+something called Turospar. Turbospar is
+a technology that dramatically increases
+how fast the device processes AI
+responses. We're talking 18 to 40 tokens
+per second on this tiny device. To put
+that in perspective, that's fast enough
+for real-time conversations. You're not
+sitting there waiting 30 seconds for a
+response. It's snappy. They also use
+something called Power Info, which is a
+smart system that spreads the AI
+workload across the CPU, GPU, and MPU of
+the device. It optimizes every available
+chip to make the AI run as fast as
+possible. and the device gets OTAA
+updates over the air. So, as new models
+come out, as new optimizations get
+released, your device stays current
+without you having to do anything. Now,
+I want to take a step back and talk
+about why this matters for the bigger
+picture of AI. Right now, most people
+run AI through cloud services, chat,
+GPT, Claude, Gemini, all cloud-based,
+which means three things. One, you pay
+monthly fees. Those add up. Two, you
+need internet. No Wi-Fi, no AI. Three,
+your data goes to someone else's
+servers. For personal stuff, that might
+be fine. But for business, for client
+data, for sensitive documents, that's a
+real risk. The Tiny AI Pocket Lab solves
+all three problems at once. You buy it
+once. No monthly AI fees. You run it
+offline anywhere in the world. Your data
+never leaves your device. This is
+exactly the kind of tool we talk about
+in the AI profit boardroom. How to use
+AI smarter, cheaper, and in ways that
+actually protect your business. And
+here's an open loop. I want to come back
+to the combination of local AI plus
+automation workflows is something that
+most businesses aren't even thinking
+about yet. Let me give you a real
+example of how you'd actually use this.
+Let's say you're running the AI profit
+boardroom community.
+You've got hundreds of community posts,
+training documents, SOPs, and member
+questions. You load all of that into the
+Pocket Lab using the Ragflow agent. Now
+you've got a local AI that knows your
+entire community inside out. It can
+answer questions, draft responses,
+suggest content ideas, all from your own
+data running privately on your device.
+You then connect Teenbot to Telegram so
+your team can message the bot and get
+instant answers and without ever
+touching a cloud service. You want to
+generate graphics for your community
+posts, run Zimage Turbo, and generate
+images locally. You want to write
+automations or code for your AI
+workflows. Fire up Quen 3 coder and
+build it out. All of this on one device
+in your pocket. That's not a futuristic
+idea. That's available right now. Now,
+let's talk about getting one. After the
+CES 2026 launch, Tini opened Kickstarter
+pre-orders. Now, here's the honest
+reality check. This is a Kickstarter
+product. CES 2026 launch. That means
+it's cutting edge, bot, but you're also
+early. The specs are extraordinary for a
+device this size. The software is real
+and working. The Guinness World Record
+is real, but as with any early hardware,
+shipping timelines, software updates,
+and real world performance can vary. Do
+your research before you commit to the
+full price. That said, the technology
+here is legitimate. Local AI is not a
+gimmick. It's the direction this whole
+industry is heading, and Tiny is ahead
+of the curve. Now, if you want to dive
+even deeper into AI automation, I've got
+something special for you. I run a
+community called the AI profit
+boardroom. The best place to scale your
+business, get more customers, and save
+hundreds with AI automation. Learn how
+to save time and automate your business
+with AI tools like Tiny AI. And if you
+want the full process, SOPs, and 100
+plus AI use cases like this one, join
+the AI success lab. You'll get all the
+video notes from there, plus access to
+our community of 45,000 members who are
+crushing it with AI. The link is in the
+comments and description.

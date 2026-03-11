@@ -2,7 +2,7 @@
 
 ## Best ideas
 1. Applicera gemini och web design i Coastworks | impact: hog | effort: medel | speed: snabb
-   Why: Temat overlappar med Coastworks via seo-content.
+   Why: Temat overlappar med Coastworks via seo-content, knowledge-systems och agent-automation.
 2. Bygg en intern skill eller automation runt gemini och web design | impact: hog | effort: medel | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for gemini och web design | impact: hog | effort: lag | speed: snabb

@@ -1,7 +1,7 @@
 # openclaw och star office
 
 - Cluster key: openclaw__star-office
-- Opportunity score: 44
+- Opportunity score: 49
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Categories: tool, workflow, business_idea, seo_distribution, agent_flow, automation
 - Entity tags: openclaw, star-office
@@ -11,13 +11,13 @@
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
+- Coastworks (score 29): seo-content, openclaw, knowledge-systems, automation och agent-automation
 - Gravity Claw (score 24): openclaw, knowledge-systems och agent-automation
-- Coastworks (score 22): seo-content och automation
 - AI Visibility Audit (score 22): seo-content, workflow-automation och automation
 
 ## Best ideas
-1. Applicera openclaw och star office i Gravity Claw | impact: hog | effort: medel | speed: snabb
-   Why: Temat overlappar med Gravity Claw via openclaw, knowledge-systems och agent-automation.
+1. Applicera openclaw och star office i Coastworks | impact: hog | effort: medel | speed: snabb
+   Why: Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation.
 2. Bygg en intern skill eller automation runt openclaw och star office | impact: hog | effort: medel | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for openclaw och star office | impact: hog | effort: lag | speed: snabb

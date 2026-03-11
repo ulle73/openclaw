@@ -1,0 +1,138 @@
+{
+  "projects": [
+    {
+      "id": "tournado-golf",
+      "name": "TourNado Golf",
+      "stage": "Validation",
+      "potentialSekMonth": 120000,
+      "timeToTestDays": 7,
+      "confidence": 68,
+      "strategicFit": 90,
+      "owner": "boss",
+      "updatedAt": "2026-03-10T06:05:36.774Z"
+    },
+    {
+      "id": "ullebets",
+      "name": "UlleBets",
+      "stage": "Build",
+      "potentialSekMonth": 95000,
+      "timeToTestDays": 10,
+      "confidence": 62,
+      "strategicFit": 84,
+      "owner": "codey",
+      "updatedAt": "2026-03-10T06:05:36.775Z"
+    },
+    {
+      "id": "hantverkarofferter",
+      "name": "HantverkarOfferter",
+      "stage": "Validation",
+      "potentialSekMonth": 80000,
+      "timeToTestDays": 5,
+      "confidence": 58,
+      "strategicFit": 88,
+      "owner": "radar",
+      "updatedAt": "2026-03-10T06:05:36.775Z"
+    },
+    {
+      "id": "ai-visibility-audit",
+      "name": "AI Visibility Audit",
+      "stage": "Idea",
+      "potentialSekMonth": 65000,
+      "timeToTestDays": 4,
+      "confidence": 55,
+      "strategicFit": 82,
+      "owner": "boss",
+      "updatedAt": "2026-03-10T06:05:36.775Z"
+    },
+    {
+      "id": "vilkenai",
+      "name": "VilkenAI.se",
+      "stage": "Monetize",
+      "potentialSekMonth": 45000,
+      "timeToTestDays": 3,
+      "confidence": 72,
+      "strategicFit": 78,
+      "owner": "moneymaker",
+      "updatedAt": "2026-03-10T06:05:36.775Z"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "dec_offer_tournado",
+      "projectId": "tournado-golf",
+      "title": "Välj launch-offer: år vs månad",
+      "impact": "H",
+      "reversibility": "Low",
+      "deadline": "2026-03-15",
+      "recommended": "Årsplan + early adopter bonus",
+      "status": "open",
+      "createdAt": "2026-03-10T06:05:36.775Z"
+    },
+    {
+      "id": "dec_channel_hantverkar",
+      "projectId": "hantverkarofferter",
+      "title": "Primär kanal: SEO eller outbound först",
+      "impact": "M",
+      "reversibility": "High",
+      "deadline": "2026-03-18",
+      "recommended": "Starta outbound för snabb signal",
+      "status": "open",
+      "createdAt": "2026-03-10T06:05:36.775Z"
+    }
+  ],
+  "experiments": [],
+  "nextBestAction": {
+    "primary": "Lansera 1-sides waitlist för TourNado med tydlig pricing-hypotes idag.",
+    "backup": [
+      "Skicka 20 riktade outreach till svenska golfgrupper",
+      "Sätt upp KPI-spårning för CTR och signup-rate"
+    ],
+    "antiNoise": [
+      "Starta inga nya sidoprojekt idag",
+      "Undvik design-polish före första signal"
+    ],
+    "generatedAt": "2026-03-10T06:05:36.775Z"
+  },
+  "money": {
+    "opportunities": [
+      {
+        "id": "opp_tournado_offer",
+        "projectId": "tournado-golf",
+        "title": "Early adopter launch-offer",
+        "valueSek": 180000,
+        "probability": 0.35,
+        "etaDays": 21,
+        "stage": "Validation"
+      },
+      {
+        "id": "opp_hantverkar_leads",
+        "projectId": "hantverkarofferter",
+        "title": "SME leadgen pilot",
+        "valueSek": 95000,
+        "probability": 0.45,
+        "etaDays": 14,
+        "stage": "Opportunity"
+      }
+    ],
+    "bets": [
+      {
+        "id": "bet_waitlist_tournado",
+        "title": "Waitlist + pricing test",
+        "stakeHours": 8,
+        "targetMetric": "Signup rate >= 8%",
+        "killIf": "Under 3% efter 200 sessions",
+        "scaleIf": "Over 8% and 30+ signups",
+        "status": "active"
+      },
+      {
+        "id": "bet_outbound_hantverkar",
+        "title": "20 outbound samtal",
+        "stakeHours": 6,
+        "targetMetric": "Booked calls >= 4",
+        "killIf": "<2 calls inom 5 dagar",
+        "scaleIf": ">=4 calls och positiv intent",
+        "status": "active"
+      }
+    ]
+  }
+}

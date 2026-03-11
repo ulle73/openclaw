@@ -1,12 +1,12 @@
 # Decision - claude och design now
 
 - Action: project_upgrade
-- Opportunity score: 45
+- Opportunity score: 49
 - Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Recommended next move
-Applicera claude och design now i Gravity Claw
+Applicera claude och design now i Coastworks
 
 ## Best project match
-- Gravity Claw (role: product, score: 24)
-- Shared signals: openclaw, knowledge-systems och agent-automation
+- Coastworks (role: offer, score: 28)
+- Shared signals: seo-content, openclaw, knowledge-systems och agent-automation

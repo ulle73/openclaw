@@ -1,7 +1,7 @@
 # saas och openclaw
 
 - Cluster key: saas
-- Opportunity score: 46
+- Opportunity score: 53
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Categories: tool, workflow, business_idea, seo_distribution, agent_flow, automation, product_opportunity, mcp
 - Entity tags: saas, openclaw, chatgpt, claude, mcp
@@ -11,13 +11,13 @@
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
-- Coastworks (score 26): seo-content och automation
+- Coastworks (score 33): seo-content, openclaw, knowledge-systems, automation och agent-automation
 - AI Visibility Audit (score 26): seo-content, workflow-automation och automation
 - Gravity Claw (score 24): openclaw, knowledge-systems och agent-automation
 
 ## Best ideas
 1. Applicera saas och openclaw i Coastworks | impact: hog | effort: hog | speed: snabb
-   Why: Temat overlappar med Coastworks via seo-content och automation.
+   Why: Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation.
 2. Bygg en intern skill eller automation runt saas och openclaw | impact: hog | effort: hog | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for saas och openclaw | impact: hog | effort: lag | speed: snabb

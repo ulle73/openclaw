@@ -31,12 +31,26 @@
   "count": 1,
   "avg_roi_score": 9.0,
   "avg_relevance_score": 9.0,
-  "opportunity_score": 44,
+  "opportunity_score": 49,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
   },
   "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 29,
+      "shared_signals": [
+        "seo-content",
+        "openclaw",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
     {
       "projectId": "gravity-claw",
       "projectName": "Gravity Claw",
@@ -48,17 +62,6 @@
       ],
       "projectRole": "product",
       "projectPriority": 8
-    },
-    {
-      "projectId": "coastworks",
-      "projectName": "Coastworks",
-      "score": 22,
-      "shared_signals": [
-        "seo-content",
-        "automation"
-      ],
-      "projectRole": "offer",
-      "projectPriority": 10
     },
     {
       "projectId": "ai-visibility-audit",
@@ -75,12 +78,12 @@
   ],
   "ideas": [
     {
-      "title": "Applicera openclaw och star office i Gravity Claw",
+      "title": "Applicera openclaw och star office i Coastworks",
       "kind": "project-fit",
       "impact": "hog",
       "effort": "medel",
       "speed": "snabb",
-      "why": "Temat overlappar med Gravity Claw via openclaw, knowledge-systems och agent-automation."
+      "why": "Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation."
     },
     {
       "title": "Bygg en intern skill eller automation runt openclaw och star office",

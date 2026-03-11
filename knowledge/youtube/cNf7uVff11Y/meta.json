@@ -1,0 +1,157 @@
+{
+  "id": "cNf7uVff11Y",
+  "title": "Claude Cowork FULL COURSE (Build AI Employees)",
+  "channel": "Jack Roberts",
+  "upload_date": "20260310",
+  "description": "📈 ALL Systems: https://www.skool.com/aiautomationsbyjack\n🎙️ Type with your Voice: https://Glaido.com\n🏆 My Goofy pod: https://bit.ly/3Od4CV8\n\n*Overview*\nSo this is the closest thing to an AI employee I've seen. And honestly, I use Claude Cowork every single day to run my business. Now in this complete course, I'm going to show you exactly how to set it up, connect your entire tech stack, and build custom skills that'll genuinely save you hours each week.\n\n*Software + Resources*\n🤩 Claude https://claude.com/download\n🎁 Brain.MD: https://bit.ly/3N9c9EA\n🚀 AntiGravity: https://antigravity.google/\n📁 GitHub: https://github.com/\n\n⌚️ Stamps:\n00:00 Claude ecosystem breakdown\n04:12 Pricing that actually matters\n08:45 Essential setup process\n15:30 Your first three wins\n22:10 Connectors that change everything\n28:40 Morning brief automation\n35:20 Skills deep dive\n42:15 Building custom skills live\n52:30 Plugin workflows\n58:45 Scheduled automation magic\n62:10 Claude vs AntiGravity\n\n--- What Next? ---\nNow grab the business brain template from the classroom - it's what makes Claude actually know you and your business. And honestly, join the Skool community because we're building insane automations together every single day.\n\n\n\n⌚️ Stamps\n0:00 Introduction\n0:39 Video Roadmap\n2:17 When to Use What\n3:52 Cowork vs Code Explained\n4:41 Settings & Preferences\n5:55 Usage Tracking\n6:11 Memory & Capabilities\n8:14 Extensions & MCP Servers\n9:22 Claude Chat & Artifacts\n11:15 Pricing & Plans\n12:42 AntiGravity & Models\n13:40 Context Window Management\n14:55 Initial Setup\n16:03 Business Brain Prompt\n17:51 Global Instructions Setup\n18:36 Your First Tasks\n19:57 Read Receipt From Desktop\n20:44 Connectors Overview\n21:37 Google Calendar Setup\n22:51 Other Connectors\n23:32 Morning Brief Use Case\n25:02 Fireflies & Meeting Notes\n26:50 Gumroad Sales Dashboard\n28:09 Claude in Chrome Setup\n29:01 Website Analysis Demo\n31:36 Research & Due Diligence\n32:49 Skills Overview\n34:37 Building Infographic Skill\n38:09 KIA AI API Setup\n39:04 Testing & Iterating\n42:22 Skill File Structure\n43:57 Building Transcript Skill\n46:24 Refining Skills in Code\n48:19 Plugins Explained\n49:54 Building a Plugin\n51:38 Content Repurposer Demo\n53:35 AI Employee Concept\n55:02 Running Plugin Live\n56:44 Cowork vs Code Tips\n58:35 Scheduled Tasks\n1:00:11 How Scheduling Works\n1:00:36 Financial Monitoring Task\n1:01:49 AntiGravity Explained\n1:02:53 When to Use Each Tool\n1:04:00 10 Prompts to Launch\n1:04:42 Final Advice & Wrap Up",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "automation",
+    "product_opportunity",
+    "mcp",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "course",
+    "employees",
+    "antigravity",
+    "mcp"
+  ],
+  "topic_tags": [
+    "course",
+    "employees",
+    "antigravity",
+    "mcp",
+    "agent-automation",
+    "prompt-design",
+    "workflow-automation",
+    "business-idea",
+    "business-opportunity",
+    "product-opportunity",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "claude__course__employees",
+  "related_video_ids": [
+    "DSKO9ZtbHFA",
+    "s2HalzQZ1MQ",
+    "98bGqof0dUI",
+    "KAX0cWk1fJE",
+    "C4fTWiOGXpM"
+  ],
+  "related_videos": [
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "antigravity",
+        "mcp",
+        "agent-automation",
+        "api",
+        "api-integration",
+        "business-idea"
+      ],
+      "cluster_match": false,
+      "score": 16
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "98bGqof0dUI",
+      "title": "NEW Gemini CLI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/98bGqof0dUI/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "KAX0cWk1fJE",
+      "title": "Claude Code can Design Now (Figma is officially in trouble)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/KAX0cWk1fJE/summary.md",
+      "topic_cluster_key": "claude__design-now",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "antigravity",
+        "agent-automation",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 10
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "DSKO9ZtbHFA",
+      "s2HalzQZ1MQ",
+      "98bGqof0dUI",
+      "KAX0cWk1fJE",
+      "C4fTWiOGXpM"
+    ]
+  },
+  "updated_at": "2026-03-10T13:30:14Z"
+}

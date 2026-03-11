@@ -1,0 +1,124 @@
+{
+  "clusterKey": "everything__notebooklm",
+  "label": "notebooklm och everything",
+  "entity_tags": [
+    "notebooklm",
+    "everything"
+  ],
+  "topic_tags": [
+    "notebooklm",
+    "everything",
+    "ai-video-generation",
+    "content-repurposing",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "videoIds": [
+    "UzLMmFtnRMQ"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 48,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 28,
+      "shared_signals": [
+        "seo-content",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 26,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    },
+    {
+      "projectId": "vibecoda",
+      "projectName": "VibeCoda",
+      "score": 18,
+      "shared_signals": [],
+      "projectRole": "offer",
+      "projectPriority": 7
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera notebooklm och everything i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Temat overlappar med Coastworks via seo-content, knowledge-systems, automation och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt notebooklm och everything",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for notebooklm och everything",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "UzLMmFtnRMQ",
+      "title": "NotebookLM  New Update Just Changed Everything!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Videon visar hur NotebookLM Just Changed Everything kan förvandla dokument och annat källmaterial till färdiga videor med AI-visuals och voiceover utan traditionell produktion.",
+        "Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen.",
+        "Workflowet är tydligt: ladda upp källmaterial, generera en video overview och välja visuell stil."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/everything__notebooklm/overview.md",
+    "signals": "knowledge/topics/everything__notebooklm/signals.json",
+    "decision": "knowledge/topics/everything__notebooklm/decision.md",
+    "opportunity": "knowledge/topics/everything__notebooklm/opportunity.md"
+  }
+}

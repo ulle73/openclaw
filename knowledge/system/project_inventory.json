@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-09T23:14:06Z",
+  "generatedAt": "2026-03-10T23:02:30Z",
   "projects": [
     {
       "projectId": "coastworks",
@@ -7,26 +7,34 @@
       "status": "Aktivt eller återkommande viktigt affärsspår.",
       "summary": "This contains everything you need to run your app locally.",
       "tags": [
-        "web-offer",
-        "design-offer",
-        "seo-content",
-        "automation",
-        "service-offer",
-        "audit-offer"
-      ],
-      "stack": [
-        "node",
-        "react",
-        "tailwind",
-        "typescript",
-        "node-tooling"
-      ],
-      "signals": [
+        "agent-automation",
         "audit-offer",
         "automation",
         "design-offer",
+        "knowledge-systems",
+        "ml-models",
+        "openclaw",
+        "seo-content",
+        "service-offer",
+        "web-offer"
+      ],
+      "stack": [
         "node",
         "node-tooling",
+        "react",
+        "tailwind",
+        "typescript"
+      ],
+      "signals": [
+        "agent-automation",
+        "audit-offer",
+        "automation",
+        "design-offer",
+        "knowledge-systems",
+        "ml-models",
+        "node",
+        "node-tooling",
+        "openclaw",
         "react",
         "seo-content",
         "service-offer",
@@ -35,7 +43,8 @@
         "web-offer"
       ],
       "repoPaths": [
-        "C:\\Users\\ryd\\.openclaw\\workspace\\coastworks-2"
+        "C:\\Users\\ryd\\.openclaw\\workspace\\coastworks-2",
+        "C:\\Users\\ryd\\.openclaw\\workspace\\coastworks-command-center"
       ],
       "sourceTypes": [
         "active_projects",
@@ -288,6 +297,47 @@
       "projectPriority": 8
     },
     {
+      "projectId": "mission-control",
+      "name": "Mission Control",
+      "status": "repo-detected",
+      "summary": "**The open-source dashboard for AI agent orchestration.**",
+      "tags": [
+        "ml-models",
+        "openclaw",
+        "workflow-automation",
+        "knowledge-systems"
+      ],
+      "stack": [
+        "node",
+        "python",
+        "nextjs",
+        "react",
+        "tailwind",
+        "typescript"
+      ],
+      "signals": [
+        "knowledge-systems",
+        "ml-models",
+        "nextjs",
+        "node",
+        "openclaw",
+        "python",
+        "react",
+        "tailwind",
+        "typescript",
+        "workflow-automation"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\mission-control"
+      ],
+      "sourceTypes": [
+        "repo_scan"
+      ],
+      "whyItMatters": [],
+      "projectRole": "repo_only",
+      "projectPriority": 3
+    },
+    {
       "projectId": "workspace",
       "name": "OpenClaw Workspace",
       "status": "repo-detected",
@@ -316,6 +366,145 @@
       ],
       "whyItMatters": [],
       "projectRole": "operating_system",
+      "projectPriority": 3
+    },
+    {
+      "projectId": "paperclip",
+      "name": "Paperclip",
+      "status": "repo-detected",
+      "summary": "**If OpenClaw is an _employee_, Paperclip is the _company_**",
+      "tags": [
+        "openclaw",
+        "agent-automation",
+        "workflow-automation",
+        "audit-offer"
+      ],
+      "stack": [
+        "node",
+        "python",
+        "typescript"
+      ],
+      "signals": [
+        "agent-automation",
+        "audit-offer",
+        "node",
+        "openclaw",
+        "python",
+        "typescript",
+        "workflow-automation"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\paperclip"
+      ],
+      "sourceTypes": [
+        "repo_scan"
+      ],
+      "whyItMatters": [],
+      "projectRole": "repo_only",
+      "projectPriority": 3
+    },
+    {
+      "projectId": "react-example",
+      "name": "React Example",
+      "status": "repo-detected",
+      "summary": "This contains everything you need to run your app locally.",
+      "tags": [],
+      "stack": [
+        "node",
+        "react",
+        "tailwind",
+        "typescript",
+        "node-tooling"
+      ],
+      "signals": [
+        "node",
+        "node-tooling",
+        "react",
+        "tailwind",
+        "typescript"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\deklarationskoll"
+      ],
+      "sourceTypes": [
+        "repo_scan"
+      ],
+      "whyItMatters": [],
+      "projectRole": "repo_only",
+      "projectPriority": 3
+    },
+    {
+      "projectId": "saas-1",
+      "name": "Saas 1",
+      "status": "repo-detected",
+      "summary": "1. **Install dependencies** (already done, but run if you clone later):",
+      "tags": [
+        "betting-analytics",
+        "telegram",
+        "agent-automation",
+        "workflow-automation",
+        "design-offer"
+      ],
+      "stack": [
+        "node",
+        "python",
+        "nextjs",
+        "react",
+        "tailwind",
+        "supabase",
+        "openai"
+      ],
+      "signals": [
+        "agent-automation",
+        "betting-analytics",
+        "design-offer",
+        "nextjs",
+        "node",
+        "openai",
+        "python",
+        "react",
+        "supabase",
+        "tailwind",
+        "telegram",
+        "workflow-automation"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\saas-sandra"
+      ],
+      "sourceTypes": [
+        "repo_scan"
+      ],
+      "whyItMatters": [],
+      "projectRole": "repo_only",
+      "projectPriority": 3
+    },
+    {
+      "projectId": "social-media-manager",
+      "name": "Social Media Manager",
+      "status": "repo-detected",
+      "summary": "En automatiserad contentmotor byggd som en återanvändbar white-label template. Kärnan är `Node.js`. Google Sheets används som enkel och kostnadsfri datakälla där varje rad innehåller ett ämne eller en idé till ett inlägg.",
+      "tags": [
+        "knowledge-systems",
+        "service-offer"
+      ],
+      "stack": [
+        "node",
+        "openai"
+      ],
+      "signals": [
+        "knowledge-systems",
+        "node",
+        "openai",
+        "service-offer"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\social-media-manager"
+      ],
+      "sourceTypes": [
+        "repo_scan"
+      ],
+      "whyItMatters": [],
+      "projectRole": "repo_only",
       "projectPriority": 3
     },
     {

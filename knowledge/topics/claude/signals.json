@@ -40,11 +40,12 @@
   "videoIds": [
     "DSKO9ZtbHFA",
     "Fv-FxekmfTQ",
+    "RyxeYZ7TW3o",
     "fnLXErf-plM",
     "s2HalzQZ1MQ",
     "wX_neSx7-Ls"
   ],
-  "count": 5,
+  "count": 6,
   "avg_roi_score": 9.0,
   "avg_relevance_score": 9.0,
   "opportunity_score": 55,
@@ -68,10 +69,13 @@
     {
       "projectId": "coastworks",
       "projectName": "Coastworks",
-      "score": 22,
+      "score": 29,
       "shared_signals": [
         "seo-content",
-        "automation"
+        "openclaw",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
       ],
       "projectRole": "offer",
       "projectPriority": 10
@@ -138,6 +142,18 @@
         "Setupen är byggd för låg friktion: hosted körning, låg driftbörda och åtkomst även när den lokala datorn inte är aktiv.",
         "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
         "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt."
+      ]
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande.",
+        "Det här är lika mycket ett distributionsverktyg som ett produktionsverktyg, eftersom samma material kan återanvändas i flera format och kanaler."
       ]
     },
     {

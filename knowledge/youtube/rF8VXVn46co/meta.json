@@ -1,0 +1,155 @@
+{
+  "id": "rF8VXVn46co",
+  "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260310",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nGemini 3.1 Flashlight: Google's Fastest & Cheapest AI Ever!\n\nDiscover Google's newest model, Gemini 3.1 Flashlight, designed for ultra-fast and low-cost AI automation at scale. Learn how entrepreneurs, marketers, and students can use this multimodal tool to build powerful business systems and content factories.\n\n00:00 - Intro: Google’s Newest AI\n01:13 - Gemini 3.1 Flashlight Explained\n01:51 - Speed and Cost Efficiency\n02:31 - Running AI via Terminal\n03:36 - Workflows for Entrepreneurs\n05:21 - Marketing & Content Factories\n05:56 - The Future of AI Automation",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "gemini",
+    "automate",
+    "1-flash-lite"
+  ],
+  "topic_tags": [
+    "automate",
+    "1-flash-lite",
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "1-flash-lite__automate__gemini",
+  "related_video_ids": [
+    "Aq21uBOl9qE",
+    "pSQE1SsGfSQ",
+    "iBVMutY4Ot0",
+    "fnLXErf-plM",
+    "9lbwgk29Db4"
+  ],
+  "related_videos": [
+    {
+      "videoId": "Aq21uBOl9qE",
+      "title": "Perplexity Computer + Claude Code Subagents: Automate ANYTHING!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Aq21uBOl9qE/summary.md",
+      "topic_cluster_key": "automate__claude__perplexity-computer",
+      "shared_tags": [
+        "automate",
+        "agent-flow",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "Aq21uBOl9qE",
+      "pSQE1SsGfSQ",
+      "iBVMutY4Ot0",
+      "fnLXErf-plM",
+      "9lbwgk29Db4"
+    ]
+  },
+  "updated_at": "2026-03-10T13:30:10Z"
+}

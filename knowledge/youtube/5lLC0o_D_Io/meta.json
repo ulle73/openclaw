@@ -1,0 +1,152 @@
+{
+  "id": "5lLC0o_D_Io",
+  "title": "OpenClaw Virtual AI Agents Update Is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260310",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nOpenClaw FREE Update: AI Agents in a Virtual World\n\nDiscover how OpenClaw's new free update allows multiple AI agents to collaborate within a shared virtual environment. Learn to build persistent, multi-agent systems that automate complex business tasks and save you hundreds of hours.\n\n00:00 - Intro: OpenClaw's Big Update\n01:21 - What is OpenClaw?\n01:50 - Multi-Agent Virtual Environments\n03:15 - How Agent Teams Work\n04:55 - The Power of Persistent Memory\n05:59 - How to Get Started on GitHub\n07:13 - The Shift to Agentic AI",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "agents"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "agents",
+    "workflow-automation",
+    "agent-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "agents__openclaw",
+  "related_video_ids": [
+    "KyXUJnYjjAo",
+    "f8LJBh1AtKg",
+    "YnzsnqsrqXs",
+    "RyxeYZ7TW3o",
+    "P2LIFtrRr2U"
+  ],
+  "related_videos": [
+    {
+      "videoId": "KyXUJnYjjAo",
+      "title": "New OpenClaw Discord Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KyXUJnYjjAo/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "f8LJBh1AtKg",
+      "title": "Stop OpenClaw From Forgetting – The 3 Memory Layers Explained!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/f8LJBh1AtKg/summary.md",
+      "topic_cluster_key": "layers-explained__openclaw__the-3-memory",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "YnzsnqsrqXs",
+      "title": "OpenClaw + Star Office is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/YnzsnqsrqXs/summary.md",
+      "topic_cluster_key": "openclaw__star-office",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "P2LIFtrRr2U",
+      "title": "Hermes Agent: New FREE OpenClaw Alternative!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/P2LIFtrRr2U/summary.md",
+      "topic_cluster_key": "hermes-agent__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "KyXUJnYjjAo",
+      "f8LJBh1AtKg",
+      "YnzsnqsrqXs",
+      "RyxeYZ7TW3o",
+      "P2LIFtrRr2U"
+    ]
+  },
+  "updated_at": "2026-03-10T23:02:27Z"
+}

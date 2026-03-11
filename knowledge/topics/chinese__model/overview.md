@@ -1,7 +1,7 @@
 # chinese och model
 
 - Cluster key: chinese__model
-- Opportunity score: 42
+- Opportunity score: 44
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Categories: tool, workflow, business_idea, seo_distribution, agent_flow, automation
 - Entity tags: chinese, model, claude, gemini
@@ -11,13 +11,13 @@
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
-- Coastworks (score 22): seo-content och automation
+- Coastworks (score 24): seo-content, knowledge-systems, automation och agent-automation
 - AI Visibility Audit (score 22): seo-content, workflow-automation och automation
 - Gravity Claw (score 17): knowledge-systems och agent-automation
 
 ## Best ideas
 1. Applicera chinese och model i Coastworks | impact: hog | effort: medel | speed: snabb
-   Why: Temat overlappar med Coastworks via seo-content och automation.
+   Why: Temat overlappar med Coastworks via seo-content, knowledge-systems, automation och agent-automation.
 2. Bygg en intern skill eller automation runt chinese och model | impact: hog | effort: medel | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for chinese och model | impact: hog | effort: lag | speed: snabb

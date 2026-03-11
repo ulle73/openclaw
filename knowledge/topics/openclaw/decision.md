@@ -1,12 +1,12 @@
-# Decision - openclaw och telegram
+# Decision - openclaw och claude
 
 - Action: project_upgrade
-- Opportunity score: 52
+- Opportunity score: 53
 - Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Recommended next move
-Applicera openclaw och telegram i Gravity Claw
+Applicera openclaw och claude i Coastworks
 
 ## Best project match
-- Gravity Claw (role: product, score: 28)
-- Shared signals: telegram, openclaw, knowledge-systems och agent-automation
+- Coastworks (role: offer, score: 29)
+- Shared signals: seo-content, openclaw, knowledge-systems, automation och agent-automation

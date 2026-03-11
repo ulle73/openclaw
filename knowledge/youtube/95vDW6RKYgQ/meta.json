@@ -1,0 +1,154 @@
+{
+  "id": "95vDW6RKYgQ",
+  "title": "New FREE OpenClaw Skills Update is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260310",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nOpenClaw Master Skills: Upgrade Your AI Agent with 37+ New Abilities\n\nUnlock the full potential of OpenClaw by installing specialized skills that turn your AI agent into a powerhouse for SEO, copywriting, and more. This guide shows you how to use myclaw.ai and GitHub to automate your workflow 24/7 with the latest GPT 5.4 integration.\n\n00:00 - Intro: OpenClaw Master Skills\n01:18 - What is OpenClaw?\n01:47 - AI Skills vs. Mobile Apps\n02:28 - Step-by-Step Installation\n03:50 - Finding Trending GitHub Skills\n06:00 - Demo: Copywriting & SEO Skills\n07:33 - GPT 5.4 vs. Claude Opus\n08:13 - AI Profit Boardroom & Summary",
+  "classifications": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
+  ],
+  "roi_label": "medium",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": false,
+    "system_improvement": true,
+    "app": false,
+    "product": false
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "skills",
+    "claude"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "skills",
+    "workflow-automation",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "proactive-assistant",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "openclaw__skills",
+  "related_video_ids": [
+    "KeAy_Va2Wrc",
+    "JmFkYj3__xc",
+    "OV5eK91YY68",
+    "NiTOlYmthNg",
+    "KyXUJnYjjAo"
+  ],
+  "related_videos": [
+    {
+      "videoId": "KeAy_Va2Wrc",
+      "title": "GPT 5.4 + OpenClaw is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KeAy_Va2Wrc/summary.md",
+      "topic_cluster_key": "gpt-5__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "marketing-explainers",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "JmFkYj3__xc",
+      "title": "New FREE OpenClaw Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/JmFkYj3__xc/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "proactive-assistant"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "marketing-explainers",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "NiTOlYmthNg",
+      "title": "OpenClaw New Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NiTOlYmthNg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "KyXUJnYjjAo",
+      "title": "New OpenClaw Discord Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KyXUJnYjjAo/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "KeAy_Va2Wrc",
+      "JmFkYj3__xc",
+      "OV5eK91YY68",
+      "NiTOlYmthNg",
+      "KyXUJnYjjAo"
+    ]
+  },
+  "updated_at": "2026-03-10T12:49:23Z"
+}

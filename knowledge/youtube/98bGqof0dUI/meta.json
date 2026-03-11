@@ -1,0 +1,157 @@
+{
+  "id": "98bGqof0dUI",
+  "title": "NEW Gemini CLI Update is INSANE! 🤯",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260310",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nGemini CLI Update: Build Apps Automatically in Your Terminal!\n\nGoogle just released a massive update to Gemini CLI that transforms the tool into a fully autonomous AI agent. Learn how to use the new features like Plan Mode and MCP servers to automate complex coding tasks and business workflows in seconds.\n\n00:00 - Intro: The New Gemini CLI\n01:20 - What is Gemini CLI?\n02:23 - Feature 1: Tab Autocomplete\n02:50 - Feature 2: Desktop Notifications\n03:16 - Feature 3: Enhanced Plan Mode\n03:56 - Feature 4: MCP Progress Bars\n04:20 - Feature 5: Smarter Agent Planning\n05:20 - Why AI Agents Change Everything",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "mcp",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "gemini",
+    "claude",
+    "mcp"
+  ],
+  "topic_tags": [
+    "mcp",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "gemini",
+  "related_video_ids": [
+    "ZgnQb40aiTU",
+    "s2HalzQZ1MQ",
+    "RyxeYZ7TW3o",
+    "DSKO9ZtbHFA",
+    "NiTOlYmthNg"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ZgnQb40aiTU",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ZgnQb40aiTU/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "product-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 14
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea"
+      ],
+      "cluster_match": false,
+      "score": 14
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "DSKO9ZtbHFA",
+      "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/DSKO9ZtbHFA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "NiTOlYmthNg",
+      "title": "OpenClaw New Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NiTOlYmthNg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 11
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "ZgnQb40aiTU",
+      "s2HalzQZ1MQ",
+      "RyxeYZ7TW3o",
+      "DSKO9ZtbHFA",
+      "NiTOlYmthNg"
+    ]
+  },
+  "updated_at": "2026-03-10T13:30:13Z"
+}

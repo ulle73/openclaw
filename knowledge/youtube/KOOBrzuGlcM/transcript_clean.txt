@@ -1,0 +1,235 @@
+Open AAI's new Symfony AI is insane.
+Open AAI just dropped Symphfony AI. And
+this thing is absolutely insane. It
+sends AI agents to do real coding jobs
+on their own. No human needed. The AI
+just picks up the task and does it. But
+wait, that's just the start. Jaomi built
+a phone AI that literally runs your
+entire house for you. And Microsoft made
+a small AI that can see your screen and
+think like a genius. Buckle up because
+this is going to change everything. So,
+here's the deal with Symphony. If you've
+ever built software or worked with a dev
+team, you know there's always a giant
+list of stuff to do. Bugs, features,
+tests, all that stuff lives on a
+taskboard. And normally a human goes in,
+picks a task, and starts grinding on it.
+Symphfony flips that on its head. Now
+the AI looks at the taskboard. It sees
+what's ready, and it sends an agent to
+go do the work. No one has to assign it.
+No one has to babysit it. The AI reads
+the task, writes the code, and tries to
+finish the whole thing start to finish.
+But here's what makes this really smart.
+The system doesn't just let the AI loose
+on your code. It creates a separate
+workspace for every single task. Think
+of it like giving the AI its own room.
+It works in there. And nothing it does
+can mess up the rest of the project.
+That's huge. And it gets better.
+Symphfony doesn't blindly trust the AI
+either. The AI has to prove the work is
+good. It runs tests. It makes reports.
+It walks through what it changed and
+why. Only when all of that passes does
+the system let the code go through. just
+like a real developer submitting their
+work for review. Hey, if we haven't met
+already, I'm the digital avatar of
+Julian Goldie, CEO of Goldie Agency.
+Whilst he's helping clients get more
+leads and customers, I'm here to help
+you get the latest AI updates. Julian
+reads every single comment, so make sure
+you drop one below. Now, the
+instructions part is genius. The AI gets
+its rules from a file inside the actual
+code called workflow.mmd. The dev team
+writes the rules, the AI follows them,
+and if the project changes, the rules
+update, too. So the AI always knows what
+to do. The whole thing runs on Elixir
+and the Erlang Beam runtime. Don't worry
+about the names. All you need to know is
+this. AI agents fail sometimes. They
+crash. They freeze. This system handles
+that. It can run hundreds of tasks at
+once. And if one agent goes down, the
+rest keep rolling. Nothing breaks. Now,
+OpenAI also said something important.
+For Symfony to work well, your code has
+to be set up right. They call it harness
+engineering. Your project needs to be
+organized. so a machine can understand
+it. Tests need to run clean. Docs need
+to be readable by AI. And the code has
+to be built in pieces so the agent can
+touch one part without blowing up
+something else. And Symfony isn't trying
+to be some massive AI platform. Open AAI
+says it's a scheduler, runner, and
+tracker reader. Its job is to sit
+between your project tools and your
+code, send agents, manage the runs,
+start to finish. Simple, focused, and it
+works. Now, if you're watching this and
+thinking, "How do I actually use stuff
+like Symfony AI to grow my business?"
+Boardroom is for. It's the best place to
+learn how to plug AI automation tools
+like Symfony into your workflows and get
+way more customers. Link is in the
+description and comments. You want to be
+in that room. Right now, let's move to
+Shyomi because what they just did is
+wild. They launched something called
+Shyomi MCclaw. This is not your normal
+phone assistant. Most AI on your phone
+sits inside an app. It answers
+questions, maybe does a search. MCLO is
+different. It runs at the system level.
+That means it controls your apps, your
+settings, your smart home devices,
+everything on your phone, top to bottom.
+The brain behind it is Shyomi's own AI
+model called Myo. And the lead
+researcher who built it came from Deep
+Seek. So, the tech is legit. Here's what
+this looks like in real life. You say to
+your phone, "I'm bringing a friend home
+in 30 minutes. Get the house ready." One
+sentence and the AI starts moving.
+Lights adjust. Curtains open. Air
+conditioner sets the right temp. No
+tapping through five different apps.
+Just done.
+Syomi's ecosystem is massive, too. The
+Mi Home platform has over 1 billion
+connected devices. So, MClaw has a ton
+of things it can tap into. Under the
+hood, the AI picks from over 50 system
+level tools that Xiaomi built. Things
+like launching apps, changing settings,
+controlling smart devices. It calls a
+tool, gets the result, thinks about it,
+then picks the next step, and you can
+watch all of this happen in real time on
+your screen.
+Xiaomi also built a three-level memory
+system, so the AI doesn't lose track.
+Even if a task takes 20 plus steps, it
+still remembers the original goal. But
+this is the part that blew my mind.
+McLar can read your texts, your
+calendar, your habits. So, let's say
+your phone gets a train ticket message.
+Beijing to Changdu, Friday, 8:30 a.m.
+The AI sees that and just handles it,
+updates your calendar, sets a reminder,
+figures out when you need to leave all
+on its own. Same with your spending
+habits. If the AI notices you're
+subscribed to two streaming services
+that do the same thing, it tells you. It
+looks at 3 months of your messages and
+gives you a breakdown. That's next
+level. For privacy, Somi says most data
+stays on your phone. The cloud only gets
+the current request and deletes it right
+after. For anything sensitive like
+sending a message or making a calendar
+event, you confirm first. The AI won't
+do it without you say so. The smart home
+integration goes even deeper. Say your
+calendar shows an important meeting at
+10:00 a.m. MClaw picks that up. Phone
+goes silent. Robot vacuum stops. Calls
+get filtered by urgency. When the
+meeting ends, everything goes back to
+normal. That's not basic automation.
+That's the AI reading your life and
+making smart calls in real time. Somi
+also opened the door for other apps.
+McLaw supports model context protocol so
+it connects to AI tools on your computer
+too. They released an SDK for third
+party developers and there's a
+self-evolution feature where MCLO
+creates mini AI assistants for different
+tasks. One for your schedule, one for
+news, each with its own rules. It can
+even run code in a sandbox right on your
+phone. All right, now let's get into
+Microsoft. They just dropped something
+really clever. It's called 54 Reasoning
+Vision 15B. Big name, small model.
+That's the entire point. Most companies
+build bigger and bigger AI, hundreds of
+billions of parameters. Microsoft went
+the opposite way. They built a 15
+billion parameter model that punches way
+above its weight. It combines a language
+model with a vision encoder called
+SIGLIP 2. The vision part looks at an
+image and turns it into tokens. The
+language model reads those tokens plus
+text and figures out what's happening.
+They call this MIDI fusion. Strong
+results without needing a supercomput.
+Smart and efficient. The model trained
+on about 200 billion multimodal tokens.
+Other models like Quen and Gemma used
+over 1 trillion. So Microsoft squeezed
+out more with less. Now here's the big
+insight. Most multimodal AI doesn't fail
+because the thinking is bad. It fails
+because the seeing part messes up first.
+If the model can't read a screenshot or
+pull info from a chart, the reasoning
+never gets the right input. So,
+Microsoft built a dynamic vision encoder
+that handles up to 3600 visual tokens
+that lets it read complex screenshots,
+documents, charts, and interfaces with
+way more detail. They also did mixed
+reasoning training. 20% of the training
+data has reasoning traces for hard math
+and science. The other 80% focuses on
+seeing, image captioning, reading text,
+and pictures, understanding screens. So,
+the model thinks hard when it needs to
+and responds fast when it doesn't.
+Microsoft says the model shines in two
+areas. Science and math reasoning over
+visual stuff like handwritten equations,
+charts, and technical docs. And computer
+use agents, where the AI reads your
+screen and helps automate tasks. So,
+let's zoom out. Open AI is sending AI
+agents to write code by themselves.
+Jaomi built a phone AI that runs your
+house and reads your life. Microsoft
+made a compact model that sees and
+thinks at the same time. This is all
+happening right now. If you want to use
+AI like this in your business, get
+tools like Symphfony AI, MC Claw, and 54
+and plug them into your workflows.
+Automate the repetitive stuff, get more
+customers, save hundreds of hours, link
+is in the description and comments. And
+if you want the full process, SOPs, and
+over a 100 AI use cases like the ones I
+just broke down, join the AI success
+lab. It's free. Links in the comments
+and description. You'll get all the
+video notes from there, plus access to
+crushing it with AI. Smash that like
+button if this gave you value. Subscribe
+for more AI updates, and I'll catch you
+in the next

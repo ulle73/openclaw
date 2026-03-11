@@ -1,7 +1,7 @@
 # gemini och web design
 
 - Cluster key: gemini__web-design
-- Opportunity score: 34
+- Opportunity score: 36
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Categories: tool, workflow
 - Entity tags: gemini, web-design, nano-banana-2
@@ -11,13 +11,13 @@
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
-- Coastworks (score 21): seo-content
+- Coastworks (score 23): seo-content, knowledge-systems och agent-automation
 - AI Visibility Audit (score 21): seo-content och workflow-automation
 - Gravity Claw (score 17): knowledge-systems och agent-automation
 
 ## Best ideas
 1. Applicera gemini och web design i Coastworks | impact: hog | effort: medel | speed: snabb
-   Why: Temat overlappar med Coastworks via seo-content.
+   Why: Temat overlappar med Coastworks via seo-content, knowledge-systems och agent-automation.
 2. Bygg en intern skill eller automation runt gemini och web design | impact: hog | effort: medel | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for gemini och web design | impact: hog | effort: lag | speed: snabb

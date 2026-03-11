@@ -1,15 +1,15 @@
 # Project Index
 
-Generated: 2026-03-09T23:14:06Z
+Generated: 2026-03-10T23:02:30Z
 
 ## Coastworks
 - Priority: 10
 - Role: offer
 - Status: Aktivt eller återkommande viktigt affärsspår.
 - Summary: This contains everything you need to run your app locally.
-- Tags: web-offer, design-offer, seo-content, automation, service-offer, audit-offer
-- Stack: node, react, tailwind, typescript, node-tooling
-- Repo paths: C:\Users\ryd\.openclaw\workspace\coastworks-2
+- Tags: agent-automation, audit-offer, automation, design-offer, knowledge-systems, ml-models, openclaw, seo-content, service-offer, web-offer
+- Stack: node, node-tooling, react, tailwind, typescript
+- Repo paths: C:\Users\ryd\.openclaw\workspace\coastworks-2, C:\Users\ryd\.openclaw\workspace\coastworks-command-center
 - Why it matters: kopplat till tjänsteerbjudanden, webb, paketering, bolagsnärvaro och kommersiell positionering
 
 ## AI Visibility Audit
@@ -81,6 +81,15 @@ Generated: 2026-03-09T23:14:06Z
 - Stack: node, python, telegram-bot, openai, pinecone, voice-ai, typescript, node-tooling
 - Repo paths: C:\Users\ryd\.openclaw\workspace\gravity-claw
 
+## Mission Control
+- Priority: 3
+- Role: repo_only
+- Status: repo-detected
+- Summary: **The open-source dashboard for AI agent orchestration.**
+- Tags: ml-models, openclaw, workflow-automation, knowledge-systems
+- Stack: node, python, nextjs, react, tailwind, typescript
+- Repo paths: C:\Users\ryd\.openclaw\workspace\mission-control
+
 ## OpenClaw Workspace
 - Priority: 3
 - Role: operating_system
@@ -89,6 +98,42 @@ Generated: 2026-03-09T23:14:06Z
 - Tags: openclaw, agent-automation, knowledge-systems, workflow-automation
 - Stack: python
 - Repo paths: C:\Users\ryd\.openclaw\workspace
+
+## Paperclip
+- Priority: 3
+- Role: repo_only
+- Status: repo-detected
+- Summary: **If OpenClaw is an _employee_, Paperclip is the _company_**
+- Tags: openclaw, agent-automation, workflow-automation, audit-offer
+- Stack: node, python, typescript
+- Repo paths: C:\Users\ryd\.openclaw\workspace\paperclip
+
+## React Example
+- Priority: 3
+- Role: repo_only
+- Status: repo-detected
+- Summary: This contains everything you need to run your app locally.
+- Tags: -
+- Stack: node, react, tailwind, typescript, node-tooling
+- Repo paths: C:\Users\ryd\.openclaw\workspace\deklarationskoll
+
+## Saas 1
+- Priority: 3
+- Role: repo_only
+- Status: repo-detected
+- Summary: 1. **Install dependencies** (already done, but run if you clone later):
+- Tags: betting-analytics, telegram, agent-automation, workflow-automation, design-offer
+- Stack: node, python, nextjs, react, tailwind, supabase, openai
+- Repo paths: C:\Users\ryd\.openclaw\workspace\saas-sandra
+
+## Social Media Manager
+- Priority: 3
+- Role: repo_only
+- Status: repo-detected
+- Summary: En automatiserad contentmotor byggd som en återanvändbar white-label template. Kärnan är `Node.js`. Google Sheets används som enkel och kostnadsfri datakälla där varje rad innehåller ett ämne eller en idé till ett inlägg.
+- Tags: knowledge-systems, service-offer
+- Stack: node, openai
+- Repo paths: C:\Users\ryd\.openclaw\workspace\social-media-manager
 
 ## Awesome Openclaw Skills
 - Priority: 1

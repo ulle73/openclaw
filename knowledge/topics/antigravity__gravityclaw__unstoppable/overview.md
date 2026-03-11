@@ -13,7 +13,7 @@ Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 ## Best project matches
 - Gravity Claw (score 27): gravityclaw, knowledge-systems och agent-automation
 - UlleBets (score 15): general fit
-- Coastworks (score 11): general fit
+- Coastworks (score 13): knowledge-systems och agent-automation
 
 ## Best ideas
 1. Applicera antigravity och unstoppable i Gravity Claw | impact: hog | effort: medel | speed: snabb

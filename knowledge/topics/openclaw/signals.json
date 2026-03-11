@@ -1,56 +1,74 @@
 {
   "clusterKey": "openclaw",
-  "label": "openclaw och telegram",
+  "label": "openclaw och claude",
   "entity_tags": [
     "openclaw",
-    "telegram",
-    "nano-banana-2",
     "claude",
-    "gemini"
+    "telegram",
+    "gemini",
+    "nano-banana-2"
   ],
   "topic_tags": [
     "openclaw",
     "telegram",
     "workflow-automation",
     "onboarding-training",
+    "marketing-explainers",
     "seo-content",
-    "proactive-assistant",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
     "seo-distribution",
     "agent-flow",
     "agent-automation",
+    "proactive-assistant",
     "api",
     "api-integration",
     "knowledge-management",
-    "business-idea",
-    "business-opportunity",
-    "nano-banana-2",
-    "marketing-explainers",
-    "prompt-design"
+    "product-opportunity",
+    "nano-banana-2"
   ],
   "categories": [
     "tool",
     "workflow",
+    "business_idea",
     "seo_distribution",
     "agent_flow",
     "automation",
-    "api",
-    "business_idea",
-    "product_opportunity"
+    "product_opportunity",
+    "api"
   ],
   "videoIds": [
+    "9lbwgk29Db4",
     "JmFkYj3__xc",
     "KyXUJnYjjAo",
-    "OV5eK91YY68"
+    "NiTOlYmthNg",
+    "OV5eK91YY68",
+    "S-HveAU5l7c"
   ],
-  "count": 3,
-  "avg_roi_score": 8.0,
+  "count": 6,
+  "avg_roi_score": 8.5,
   "avg_relevance_score": 9.0,
-  "opportunity_score": 52,
+  "opportunity_score": 53,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
   },
   "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 29,
+      "shared_signals": [
+        "seo-content",
+        "openclaw",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
     {
       "projectId": "gravity-claw",
       "projectName": "Gravity Claw",
@@ -63,17 +81,6 @@
       ],
       "projectRole": "product",
       "projectPriority": 8
-    },
-    {
-      "projectId": "coastworks",
-      "projectName": "Coastworks",
-      "score": 22,
-      "shared_signals": [
-        "seo-content",
-        "automation"
-      ],
-      "projectRole": "offer",
-      "projectPriority": 10
     },
     {
       "projectId": "ai-visibility-audit",
@@ -90,15 +97,15 @@
   ],
   "ideas": [
     {
-      "title": "Applicera openclaw och telegram i Gravity Claw",
+      "title": "Applicera openclaw och claude i Coastworks",
       "kind": "project-fit",
       "impact": "hog",
       "effort": "hog",
       "speed": "snabb",
-      "why": "Temat overlappar med Gravity Claw via telegram, openclaw, knowledge-systems och agent-automation."
+      "why": "Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation."
     },
     {
-      "title": "Bygg en intern skill eller automation runt openclaw och telegram",
+      "title": "Bygg en intern skill eller automation runt openclaw och claude",
       "kind": "automation",
       "impact": "hog",
       "effort": "hog",
@@ -106,7 +113,7 @@
       "why": "Bygg ett repeterbart arbetsflode eller en skill"
     },
     {
-      "title": "Skapa ett tydligt beslutskort for openclaw och telegram",
+      "title": "Skapa ett tydligt beslutskort for openclaw och claude",
       "kind": "decision",
       "impact": "hog",
       "effort": "lag",
@@ -115,6 +122,18 @@
     }
   ],
   "evidence": [
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
     {
       "videoId": "JmFkYj3__xc",
       "title": "New FREE OpenClaw Update!",
@@ -140,6 +159,18 @@
       ]
     },
     {
+      "videoId": "NiTOlYmthNg",
+      "title": "OpenClaw New Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Den verkliga hävstången kommer när agenten kopplas till arbetsverktyg som ClickUp och blir en del av samma system för tasks, status och uppföljning.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt."
+      ]
+    },
+    {
       "videoId": "OV5eK91YY68",
       "title": "I let OpenClaw run my organic marketing (here's how)",
       "channel": "Greg Isenberg",
@@ -149,6 +180,18 @@
         "Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen.",
         "De starkaste use casen är marketing och explainers, vilket gör att samma upplägg kan användas både internt och externt.",
         "Kärnpositioneringen är inte bara ett nytt verktyg utan en AI-assistent som ska kunna bära mer av det löpande operativa arbetet."
+      ]
+    },
+    {
+      "videoId": "S-HveAU5l7c",
+      "title": "NEW OpenClaw Robot is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
       ]
     }
   ],

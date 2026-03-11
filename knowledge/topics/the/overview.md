@@ -1,7 +1,7 @@
 # the och chatgpt
 
 - Cluster key: the
-- Opportunity score: 42
+- Opportunity score: 44
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Categories: tool, business_idea, agent_flow, product_opportunity
 - Entity tags: the, chatgpt
@@ -11,13 +11,13 @@
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Best project matches
-- Coastworks (score 21): seo-content
+- Coastworks (score 23): seo-content, knowledge-systems och agent-automation
 - AI Visibility Audit (score 21): seo-content och workflow-automation
 - Gravity Claw (score 17): knowledge-systems och agent-automation
 
 ## Best ideas
 1. Applicera the och chatgpt i Coastworks | impact: hog | effort: medel | speed: medel
-   Why: Temat overlappar med Coastworks via seo-content.
+   Why: Temat overlappar med Coastworks via seo-content, knowledge-systems och agent-automation.
 2. Bygg en intern skill eller automation runt the och chatgpt | impact: hog | effort: medel | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for the och chatgpt | impact: hog | effort: lag | speed: snabb

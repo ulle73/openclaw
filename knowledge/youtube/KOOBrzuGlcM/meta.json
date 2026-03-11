@@ -1,0 +1,156 @@
+{
+  "id": "KOOBrzuGlcM",
+  "title": "OpenAI's NEW Symphony AI is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260310",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nOpenAI Symphony AI: The Rise of Autonomous Coding Agents\n\nDiscover how OpenAI's Symphony is automating the coding process with independent AI agents that require zero human supervision. We also explore Xiaomi's groundbreaking MClaw phone assistant and Microsoft's hyper-efficient Phi-4 vision model.\n\n00:00 - Intro\n00:27 - OpenAI Symphony AI Explained\n01:43 - How Symphony Automates Coding\n03:09 - Xiaomi MClaw: Phone AI Redefined\n04:26 - Privacy & Smart Home Automation\n06:02 - Microsoft Phi-4 Reasoning Vision\n07:39 - The AI Agent Revolution",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "mcp",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openai",
+    "symphony",
+    "mcp"
+  ],
+  "topic_tags": [
+    "openai",
+    "symphony",
+    "mcp",
+    "workflow-automation",
+    "onboarding-training",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation",
+    "api"
+  ],
+  "topic_cluster_key": "openai__symphony",
+  "related_video_ids": [
+    "98bGqof0dUI",
+    "s2HalzQZ1MQ",
+    "RyxeYZ7TW3o",
+    "9T1yWEq5kP0",
+    "KAX0cWk1fJE"
+  ],
+  "related_videos": [
+    {
+      "videoId": "98bGqof0dUI",
+      "title": "NEW Gemini CLI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/98bGqof0dUI/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "9T1yWEq5kP0",
+      "title": "SaaS is minting millionaires again (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/9T1yWEq5kP0/summary.md",
+      "topic_cluster_key": "saas",
+      "shared_tags": [
+        "mcp",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "KAX0cWk1fJE",
+      "title": "Claude Code can Design Now (Figma is officially in trouble)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/KAX0cWk1fJE/summary.md",
+      "topic_cluster_key": "claude__design-now",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 10
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "98bGqof0dUI",
+      "s2HalzQZ1MQ",
+      "RyxeYZ7TW3o",
+      "9T1yWEq5kP0",
+      "KAX0cWk1fJE"
+    ]
+  },
+  "updated_at": "2026-03-10T17:30:10Z"
+}

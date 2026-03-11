@@ -1,0 +1,156 @@
+{
+  "id": "82qAMBBk2kc",
+  "title": "AI Operating Systems Explained! (Why Every Company Will Need One)",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260310",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nBuild an AI Operating System: Automate 80% of Your Work\n\nStop wasting time re-explaining your business to AI and start building an automated smart shell that handles your daily operations. This video breaks down the 5 layers of an AI operating system to help you reclaim your time and scale faster.\n\n00:00 - Intro: What is an AI OS?\n00:52 - The Smart Shell Concept\n02:09 - Layer 1 & 2: Context and Data\n02:53 - Layer 3: Business Intelligence\n03:26 - The Daily Brief: Your AI Manager\n04:17 - Layer 4: Automating Your Workflow\n05:54 - 3 Metrics to Track Success\n06:48 - The Small Business Advantage",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "operating-systems",
+    "every-company",
+    "will-need-one",
+    "chatgpt",
+    "claude"
+  ],
+  "topic_tags": [
+    "operating-systems",
+    "every-company",
+    "will-need-one",
+    "workflow-automation",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
+  ],
+  "topic_cluster_key": "every-company__operating-systems__will-need-one",
+  "related_video_ids": [
+    "s2HalzQZ1MQ",
+    "pSQE1SsGfSQ",
+    "jyVRbD6fqic",
+    "fnLXErf-plM",
+    "f8LJBh1AtKg"
+  ],
+  "related_videos": [
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "jyVRbD6fqic",
+      "title": "New OpenAI Codex Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/jyVRbD6fqic/summary.md",
+      "topic_cluster_key": "openai-codex",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "f8LJBh1AtKg",
+      "title": "Stop OpenClaw From Forgetting – The 3 Memory Layers Explained!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/f8LJBh1AtKg/summary.md",
+      "topic_cluster_key": "layers-explained__openclaw__the-3-memory",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "s2HalzQZ1MQ",
+      "pSQE1SsGfSQ",
+      "jyVRbD6fqic",
+      "fnLXErf-plM",
+      "f8LJBh1AtKg"
+    ]
+  },
+  "updated_at": "2026-03-10T15:02:32Z"
+}
