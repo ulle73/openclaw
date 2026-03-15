@@ -1,0 +1,151 @@
+{
+  "id": "T3jDa19gpXw",
+  "title": "New Claude Code Update Is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260312",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nClaude Code's New BTW Command: A Game Changer for Developers\n\nDiscover how Anthropic’s new 'BTW' command in Claude Code allows developers to get instant, context-aware answers without breaking their flow. Learn why ambient intelligence is the future of AI tooling and how to integrate it into your business workflow.\n\n00:00 - Intro: Claude Code's New Update\n00:20 - What is Claude Code?\n01:13 - The BTW Command Explained\n01:53 - The Power of Ambient Intelligence\n02:52 - Real World Demo and Origins\n04:28 - Why Full Context Matters\n05:22 - Practical BTW Use Cases\n06:07 - AI Productivity for Business",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude"
+  ],
+  "topic_tags": [
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
+  ],
+  "topic_cluster_key": "claude",
+  "related_video_ids": [
+    "fnLXErf-plM",
+    "qb90PPbAWz4",
+    "m9aBfbXMnZY",
+    "s2HalzQZ1MQ",
+    "RyxeYZ7TW3o"
+  ],
+  "related_videos": [
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": true,
+      "score": 15
+    },
+    {
+      "videoId": "qb90PPbAWz4",
+      "title": "Karpathy’s \"autoresearch\" explained in 24 minutes",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/qb90PPbAWz4/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "product-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 14
+    },
+    {
+      "videoId": "m9aBfbXMnZY",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/m9aBfbXMnZY/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "product-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 14
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "fnLXErf-plM",
+      "qb90PPbAWz4",
+      "m9aBfbXMnZY",
+      "s2HalzQZ1MQ",
+      "RyxeYZ7TW3o"
+    ]
+  },
+  "updated_at": "2026-03-12T03:02:30Z"
+}

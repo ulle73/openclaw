@@ -1,0 +1,156 @@
+{
+  "id": "KPejjQQ5Bzg",
+  "title": "OpenClaw 3.11 IS INSANE, Here's Why",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260312",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nOpenClaw Update: Free 1M Context Models & New Local AI Setup\n\nThe March 11th OpenClaw update introduces free access to massive 1-million-context models and a simplified setup for running local AI with Ollama. Learn how to utilize new image and audio memory systems to build high-performance AI agents for your business.\n\n00:00 - Intro\n01:11 - New Free AI Models\n02:44 - Security & UI Updates\n04:13 - Troubleshooting Fixes\n06:16 - Local AI with Ollama\n07:20 - Image & Audio Memory\n09:54 - AI Agent Framework",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "claude",
+    "gemini",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "telegram",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "api"
+  ],
+  "topic_cluster_key": "openclaw",
+  "related_video_ids": [
+    "ptqHcTAwmlk",
+    "9lbwgk29Db4",
+    "OV5eK91YY68",
+    "JmFkYj3__xc",
+    "NiTOlYmthNg"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 22
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 22
+    },
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 21
+    },
+    {
+      "videoId": "JmFkYj3__xc",
+      "title": "New FREE OpenClaw Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/JmFkYj3__xc/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "onboarding-training"
+      ],
+      "cluster_match": true,
+      "score": 20
+    },
+    {
+      "videoId": "NiTOlYmthNg",
+      "title": "OpenClaw New Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NiTOlYmthNg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 18
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "ptqHcTAwmlk",
+      "9lbwgk29Db4",
+      "OV5eK91YY68",
+      "JmFkYj3__xc",
+      "NiTOlYmthNg"
+    ]
+  },
+  "updated_at": "2026-03-12T23:02:43Z"
+}

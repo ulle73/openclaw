@@ -46,3 +46,31 @@ UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f92f' in posit
 2026-03-10T15:02:32Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=2 processed=2 queued=0
 2026-03-10T19:02:30Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
 2026-03-10T23:02:29Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=2 processed=2 queued=0
+2026-03-11T03:02:30Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=2 processed=2 queued=0
+2026-03-11T07:02:37Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=2 processed=2 queued=0
+2026-03-11T11:02:33Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-11T15:02:35Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=2 processed=2 queued=0
+2026-03-11T19:02:36Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-11T23:02:53Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=2 processed=2 queued=0
+2026-03-11T23:47:09Z | manual-youtube | SUCCESS | https://youtu.be/TZUTe7s11-I?is=QjzrRWEtbVUgMjUA | Ingested TZUTe7s11-I
+2026-03-11T23:47:17Z | manual-youtube | FAIL | --help | Could not extract a YouTube video id from the URL
+2026-03-11T23:47:36Z | manual-youtube | SUCCESS | https://youtu.be/TZUTe7s11-I?is=QjzrRWEtbVUgMjUA | Ingested TZUTe7s11-I
+2026-03-12T03:02:30Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-12T20:51:10Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-12T23:02:44Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=2 processed=2 queued=0
+2026-03-13T03:02:27Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-13T07:02:28Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=0 processed=0 queued=0
+2026-03-13T11:02:30Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-13T15:02:29Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=0 processed=0 queued=0
+2026-03-13T19:02:29Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-13T23:02:29Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-14T03:02:29Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-14T07:02:28Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-14T11:02:29Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-14T15:02:33Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-14T19:02:32Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-14T23:02:30Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-15T03:02:30Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-15T11:02:27Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=0 processed=0 queued=0
+2026-03-15T15:02:30Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0
+2026-03-15T19:02:33Z | youtube_channel_cron | SUCCESS | [cron] channels=5 discovered=1 processed=1 queued=0

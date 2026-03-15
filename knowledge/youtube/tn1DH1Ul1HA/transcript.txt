@@ -1,0 +1,232 @@
+New perplexity.
+Computer update is insane.
+Today, I'm going to show you something
+that broke my brain. An AI just fixed a
+bug, wrote the code, and submitted it to
+GitHub.
+No human touched it, not once. It's
+called Perplexity Computer. And the new
+update is absolutely insane. This
+changes everything for developers,
+business owners, and honestly, anyone
+using AI. Let me show you exactly what
+happened. So, here's what went down.
+Perplexity just dropped a massive update
+and nobody is talking about it enough.
+They added Claude code and GitHub CLI
+directly inside Perplexity computer.
+Now, if you don't know what that means
+yet, don't worry. I'm going to break it
+all down for you in simple words, but
+trust me, by the end of this video,
+you're going to look at AI completely
+different. Let me set the stage first.
+You know how most AI tools work right
+now. You type a question, you get an
+answer, that's it. That's what chat GPT
+does. That's what most chatbots do. You
+ask, they answer. Simple. But Plexity
+Computer is not that. It's not a
+chatbot. It's an AI agent. And there's a
+huge difference between those two
+things. A chatbot answers your
+questions. An agent does your work like
+actually does it. Research, planning,
+writing code, running tasks, deploying
+stuff, all of it on its own. Think of it
+like this. A chatbot is like asking
+someone for directions. An agent is like
+hiring a driver who takes you there,
+parks the car, and picks up your
+groceries on the way back. That's
+perplexity computer. And here's the
+thing that makes it even crazier. It
+doesn't use just one AI model. It uses
+19 19 different models all working
+together at the same time. One model
+does the research. Another one writes
+code. Another one handles reasoning.
+Another one does planning. They all work
+together like a team. It's basically an
+AI operating system. Now, let's talk
+about this new update because this is
+the part that blew my mind. They added
+two huge tools inside Perplexity
+Computer. Claude Code and GitHub CLI.
+Claude Code is one of the most powerful
+AI coding tools out there right now. It
+runs in the terminal. It can read files.
+It can edit code. It can run commands.
+It can execute tasks on your machine.
+It's not just suggesting code. It's
+actually working with code like a real
+developer would. And GitHub CLI lets you
+interact with GitHub from the command
+line. You can fork repos. You can create
+branches. You can push code. You can
+open pull requests. All without ever
+opening your browser. Now, here's where
+it gets wild. Perplexity Computer put
+both of these together and they showed a
+demo that honestly made my jaw drop.
+They gave the AI a bug report from a
+real GitHub project. And the AI did this
+completely on its own. It fought the
+repository. It read the bug report. It
+analyzed the issue. It created a plan to
+fix it. It opened claw code. It wrote
+the fix. It committed the changes. And
+it submitted a pull request all by
+itself. No human involved. Let me say
+that again. The AI read a bug, figured
+out the fix, wrote the code, and
+submitted it to GitHub alone. That's not
+a chatbot. That's a digital developer.
+Hey, if we haven't met already, I'm the
+digital avatar of Julian Goldie, CEO of
+Goldie Agency. Whilst he's helping
+clients get more leads and customers,
+I'm here to help you get the latest AI
+updates. Julian Goldie reads every
+comment, so make sure you comment below.
+Okay, so let me explain why this matters
+so much. Because I know some of you are
+thinking, "Cool, AI can code. We already
+knew that." But this is different.
+Before this update, AI could help you
+write code. You'd paste something in. It
+would give you a snippet. You copy it.
+You paste it into your project. You'd
+test it. You'd fix it. You push it
+yourself. The AI was like an assistant
+sitting next to you. Now, the AI is
+doing the whole thing start to finish.
+It reads the problem. It plans the
+solution. It writes the code. It tests
+it. It pushes it. It submits it. That's
+not assistance. That's execution. And
+this is part of a much bigger shift
+happening in AI right now. We're moving
+from AI tools to AI workers. Tools help
+you do things. Workers do things for
+you. Think about what this means for
+startups. You need a bug fixed, you tell
+the AI, it fixes it. You need a feature
+built, you describe it, it builds it.
+You need code reviewed, it reviews it.
+You need a pull request submitted, it
+submits it. This is the kind of stuff
+that used to take a junior developer
+hours, now it takes minutes and it runs
+in the background while you work on
+something else. Now, if you're a
+business owner or you run an agency or
+you're building something online and you
+want to learn how to use AI tools like
+Perplexity Computer and Claude Code to
+automate your workflows, scale your
+business, and get more customers, you
+need to check out my AI profit
+boardroom. It's the best place to learn
+how to use AI automation to grow your
+business. I'll drop the link in the
+description and the comments. Go check
+it out. Okay, so let's keep going
+because I haven't even told you the best
+part yet. Let's talk about what this
+means for the future. Because if the AI
+can already do this now, imagine what's
+coming next. Right now, Perplexity
+Computer can handle full coding
+workflows. Fork a repo, fix a bug,
+submit a pull request. That's already
+wilder, but think about where this goes.
+Auto deployment. The AI writes the code
+and deploys it live. CI/CD integration,
+the AI handles your entire build
+pipeline. DevOps agents. The AI manages
+your servers and infrastructure. Full
+app debugging. The AI finds every bug in
+your app and fixes all of them in one
+go. We're not far from that. And that's
+what makes this update so important.
+It's not just about what it can do
+today. It's about the door it just
+opened. Let me give you some real
+examples of how people could use this
+right now. Software development. You've
+got a bug in your app. You point the AI
+at the issue. It reads the code. It
+finds the problem. It writes the fix. It
+pushes the update. Done. Open source
+projects. If you maintain an open-
+source repo, you know how many issues
+pile up. Now, imagine an AI going
+through those issues one by one, fixing
+them, and submitting pull requests.
+That's not science fiction. That's
+literally what the demo showed.
+Startups, you're a founder. You've got a
+small team. You need to move fast. Now,
+you've got an AI that can handle dev
+tasks in the background while your team
+focuses on the big stuff. That's a game
+changer. Research. You need to study a
+topic, build a tool based on what you
+find, and deploy it. the AI can do the
+research and then build the tool all in
+one flow. Now, I want to be real with
+you because I always keep it honest on
+this channel. There are some things to
+watch out for. Safety is a big one. When
+you let an AI make changes to your code
+on its own, you need to be careful. One
+bad commit can break everything. So, you
+want to have checks in place. You want
+to review what the AI submits before it
+goes live. Security is another thing.
+Giving an AI access to your repos means
+you need to think about permissions. You
+don't want to give it access to stuff it
+shouldn't touch. and reliability. AI
+agents are getting better every week,
+but they still make mistakes. They're
+not perfect. So, treat them like a
+really fast junior developer. Check
+their work, guide them, but let them do
+the heavy lifting. Now, here's what I
+think is the biggest takeaway from all
+of this. We are officially in the age of
+AI workers, not AI assistants, not AI
+chatbots, AI workers, systems that can
+take a task, break it down, execute
+every step, and deliver the result
+without you doing anything up. First, go
+try Perplexity Computer for yourself.
+Play with it. See what it can do. The
+more you use these tools, the better you
+get at prompting them and getting
+results. Second, if you want to learn
+how to use AI tools like Perplexity
+Computer, Claude Code, and other
+automation tools to scale your business,
+get more customers, and save hundreds of
+hours, join my AI profit boardroom. I'll
+put the link right in the description
+and the comments below. It's the best
+community for business owners who want
+to stay ahead with AI automation. We
+break down every tool, every update,
+every workflow you need. Go check it
+out. And if you want the full process,
+SOPs, and over 100 AI use cases like
+this one, join the AI success lab. Links
+in the comments and description. You'll
+get all the video notes from there, plus
+access to our community of 38,000
+members who are crushing it with AI.
+Make sure you subscribe and hit that
+bell so you don't miss the next update
+because things are moving fast right now
+and I don't want you to miss what's
+coming next. I'll see you in the next

@@ -1,0 +1,389 @@
+# Transcript
+
+- URL: https://www.youtube.com/watch?v=IiOhWxjUY7I
+- VideoId: IiOhWxjUY7I
+- Title: Ollama + Claude Code: FREE Scheduled Tasks!
+
+## Transcript
+Oama just jumped something brand new
+today that nobody's talking about. You
+can now run Claude Code Anthropics
+coding agent completely free on your own
+computer with open source models through
+O Lama. No API key, no subscription
+needed, no monthly bill, etc. But that's
+not the new or crazy part. They also
+just released scheduled tasks, a brand
+new loop command that lets you automate
+repeated tasks inside claw code on a
+timer using the lama automations. Right?
+So you can set it every 15 minutes or
+every hour, every morning. So imagine
+waking up and your AI agent has already
+checked your pull requests, research
+your competitors, triage your support
+tickets, and summarize everything else
+whilst you were sleeping, and you didn't
+write a single line to set it up. Today,
+I'm going to show you exactly how it
+works, give you a full 30-day plan to go
+from zero to running automated AI agents
+on your machine. We're going to show you
+exactly how to use it step by step. Even
+if you've never opened a terminal in
+your life, even if you think coding
+agents is only for developers, and even
+if you've tried AI tools and gave up
+before because it was too complicated.
+Let's get straight into this. So, the
+way that we're going to set this up is
+essentially we're going to run uh clawed
+code directly inside OAM. Right now, if
+you're not familiar with this, basically
+you can use like Quen 3.5 or GLM 5 cloud
+or Kim 2.5 cloud directly inside CL
+code. And if you stick to the token
+limits on the cloud models, then it's
+free. If you run this model locally,
+Quent 3.5, it's also free. All right, so
+I'm going to show you exactly how to set
+up, how to get this started, etc. And
+we'll get straight into it. All right,
+so first thing you're going to need to
+do is install Claw Code like you see
+here. And you're also going to need to
+make sure you have OAM set up. If you
+don't have OAM set up, it's pretty
+simple and easy. All you do is you just
+go to alarm.com and download it. And
+then you want to make sure that you
+either download a local model like for
+example Quen 3.5 code uh Quen 3.5 as you
+can see right here or if you want to use
+the cloud models which is what you can
+do and I'll show you quickly how to do
+that today then you can just use a cloud
+model right and you don't even need to
+install anything. So let me show you how
+this works. So first thing you want to
+do is make sure you have O Lama running
+which we've got over here. Nice. And
+then from here, if you want to download
+something like Quen 3.5, you would just
+type it inside the list once you've
+opened it up. And then you can download
+it over here. Right? So you can see all
+these different versions of Quen and you
+just download Quen 3.5. Now from here,
+you want to make sure that you open up
+Claude Code. How do you do that? So you
+just copy this command over here. Now if
+you want to run this directly with a
+model, you can just copy and paste this
+command. So for example, if we want to
+run it with Kim Kat Cloud, pretty simple
+and easy. We just open up a new window
+over here and then we paste in this
+terminal command and we can run claw
+code for free on the cloud model. And
+again the same thing works whether
+you're using a cloud model or a local
+model. Local model is free unlimited.
+Cloud model has token limits and usage
+limits. And once you bypass those um you
+either have to pay or you just wait
+until the next session to be able to
+keep using it. So now we've got claw
+code and it's running with kimk 5 right
+and
+from here we can get started with using
+this setup right now if you want to
+install claw code you just go back to
+the terminal
+like so you can close this open up a new
+window
+you just paste that in and that will
+just install claw code for you directly
+right so you can see here that it's
+beginning to install this you just got
+to wait for it and then you're good to
+Right. So it's setting up claw code
+here.
+Right. And then once you've done that,
+you can just run this like that. Right.
+So you go back out to terminal here and
+paste this command in. Now the
+recommended models cuz not all models
+work directly with claw code. The
+recommended models with claw code uh
+with OAMA are Kim K 2.5 cloud, GLM5
+cloud, Miniax 2.5, Quen 3.5, GLM 4.7
+Flash, which is a fully local model, and
+Quen 3.5. So these two are fully local,
+and the rest are cloud models. Now, if
+you want to run something like GLM 4.7
+flash locally, you do need a decent
+setup. So you might want to run this on
+a Mac Studio, for example. If you don't
+have a decent setup, then just use
+something like cloud. It's okay. Right
+now from here we can start using the
+loop command. Right? And you just type
+in forward sloop and then you go from
+here. Right? So let's take an example.
+We can copy this command here and say
+loop 30 minutes. Right? So every 30
+minutes check my open PR. So um and then
+summarize the status. Right? So we can
+for example take this and plug it in.
+Now you can see that we've scheduled a
+chrome task. Right? So if you've ever
+used for example like Olama you can use
+open claw in the same way but the
+difference here is that with open claw
+if you're running scheduled tasks
+usually you're going to have to pay for
+the API right whereas with this you can
+use claw code which is like the most
+powerful AI agent in the world and you
+can also create scheduled tasks just
+like you would with open claw right and
+then you can run stuff automatically and
+this doesn't have to be like coding
+tasks it can be anything that you want
+right but here's another one automated
+research tasks so we could past command
+in And we can say loop 1 hour research
+the latest AI news and summarize key
+developments. Right? And then that'll
+loop every hour as a scheduled task and
+research the latest AI news and
+developments. Pretty nice. So you can
+see that's a scheduled recurring task.
+And it actually breaks down the job ID,
+the task itself, so what it's going to
+do, the cadence, so how often it's going
+to run, and then the job ID, which is
+like the actual task ID, right? And you
+can actually cancel this as well, right?
+So if you want to cancel a task, you
+just use chron delete and then the name
+of the job ID. Right? So each one of
+these has a job ID. If you ever want to
+delete any of them, you can just paste
+this in like so. And boom, that deletes
+the task you scheduled. Right? And so
+it's canceled the task that we
+previously created. Now, another one
+that you could do is you could automate,
+for example, bug reporting. So you could
+copy this in, paste that here, and
+you're good to go. So this one is
+checking for new GitHub issues and
+triage by priority. And that runs every
+15 minutes. And then the final one is
+reminders, right? So you could say loop
+1 hour, remind me to review the deploy
+status. And these are just practical
+ways you can actually use it. So you can
+see that alarm's literally just
+announced this. This is a brand new
+integration. There's a ton of other cool
+stuff you can actually do with Claude
+and O Lama. So Claude code, you can see
+all the details right here in this
+guide. But that's just some examples of
+how it works. But the main point to note
+here is number one, you can now schedule
+tasks. And number two, you can use claw
+code for free using these models. Pretty
+amazing. So that's basically how it
+works. If we actually check the usage
+inside my settings here, we've not used
+that much. So, weekly usage like 6% and
+we've just set this up. But again, if
+you don't want to run into limits, then
+you just run a local model like Quen 3.5
+or GLM 4.7 flash and you use them for
+free. So, that's basically it. Now, I
+would use something called the autopilot
+agent engine. And that's a framework you
+can use to turn your laptop into a 24/7
+employee that works whilst you sleep um
+and do whatever you want, right? And
+this is called the autopilot agent
+engine because it has five layers,
+right? So the foundation you install and
+claw code on your machine for free. You
+pick the right open source model for
+your use case and this is your engine.
+Everything runs on top of that. Layer
+number two is the brain. So you can
+connect claw code your working
+directory, your actual project files,
+your business documents, your content.
+Now the AI can read, edit, and
+understand your stuff. Layer number
+three, you can use claw code to actually
+do things. So write code, fix bugs,
+generate content, build automations. And
+this is really where it goes from like
+chatbot to employee. Layer four, which
+is what we've covered today, is the
+scheduleuler, right? So the brand new
+loop command sets tasks on a recurring
+timer. So every 15 minutes, every hour,
+every day, and your agent runs
+automatically. And this is the layer
+most people don't even know exists yet.
+And then the f final layer is the stack,
+right? So you can combine multiple
+scheduled loops into a full autopilot
+system. So you can have one loop that
+checks your projects, another researches
+your niche, another drafts content,
+right? And now you've got a team of AI
+agents running 24/7 on your machine for
+free. And really the magic happens in
+like layer four and five. Most people
+suck at layer 2. They download chat GPT,
+type a prompt, get a response, and think
+they're using AI agents. But that's like
+buying a Ferrari and then only using it
+to check the mirror. Right now, if you
+want a 30-day plan for implementing this
+with day-by-day prompts so that you can
+schedule and automate everything that
+you want to, then you can use the 30-day
+plan inside the video notes from today
+inside the AI profit boarding link
+inside the comments in description or
+just go to the aprofitboarding.com. But
+basically, this is a very powerful way
+to build a team of free AI agents run
+locally for you. Now, some people want
+to say coding agencies for developers,
+not business owners like me. The new
+belief to win with AI is to understand
+that claw code through a llama is
+designed so you can type play in
+English. It does the coding for you like
+you've seen today, right? You don't
+write the code, you just describe what
+you want. The agent writes a code,
+right? You just run a terminal command
+and type a sentence. If you can send a
+text message, you can use claw code. The
+barrier to entry is zero. Number two,
+some people say, well, I need to pay for
+AI subscriptions to get value. But you
+can run claw code completely free
+through Alama with open source models,
+right? Alarm runs on your machine. The
+models are free. Claw code is free. The
+loopul is free. The only thing um that
+it requires is your time to learn it,
+but you've seen how to use it today and
+you've already learned that by watching.
+And number three, some people say, well,
+setting up AI automations, it requires
+complicated technical setups. The new
+belief to win with this really is one
+terminal command installs, one command
+installs claw code, one command launches
+it, and that's three simple steps in
+total, right? You literally use a
+command to install quen 3.5. Use a
+command to run claude and then you use a
+command to run the schedule tasks.
+That's basically it. Now, if you want to
+get a full list of 100 prompts you can
+test with this. For example, like setup
+and installation prompts, claw code
+agent prompts, loop schedule task
+prompts, we actually have a list of over
+100 inside the video notes from today.
+But yeah, just to recap on everything
+that we've covered today, Llama just
+dropped a new way to run claw code
+completely for free with scheduled
+tasks, right? The brand new loop command
+lets you schedule recurring tasks
+automatically and then you can stack
+multiple loop schedules to run a full AI
+autonomous agent team that runs 24/7,
+right? We've covered the autopilot agent
+framework and we've also talked about
+some limiting beliefs that should not
+hold you back. So, if you want to get
+all the video notes from today, you can
+get that inside the AI profitable volume
+link inside the comments description. If
+you like building teams of AI agents and
+automating stuff, you can check inside
+the six-hour course for OpenClaw. We've
+got another 3-hour course right here.
+You can find all the video notes from
+today as well. Every day, basically what
+we do, as you can see, is we run new
+guides and tutorials inside the AR
+profit boardroom. I just look at
+everything that got released and I
+create a new video tutorial about it
+with a 30-day plan and a step-by-step
+guide on how to use it, right? And
+that's all inside here. This is my AI
+automation community that helps you
+learn AI, save time, and grow and scale
+with it. Inside the community, you can
+ask questions so you can get help and
+support whenever you need to. We have a
+weekly post where I basically run
+through all the latest updates so you
+never fall behind again. And I filter
+which ones are the best and which ones
+you can ignore. Additionally, we have a
+daily accountability group that looks
+something like this. And then also, you
+can see inside the calendar, we have
+weekly video coaching goals. Now, at
+this point, you might be saying, "Okay,
+but what are people's results with stuff
+like this?" And you can see some
+examples uh for example like Kaden and
+his testimonial right here. We actually
+have 136 pages of testimonials uh from
+the boardroom. Here's another one.
+Here's another one. Right. It's an
+infinite scroll of people's wins and
+people sharing what they've learned and
+all the awesome stuff they've made with
+it. Uh so if you want to get this, it's
+all inside the AI profitable room. And
+then additionally inside the classroom
+here, you can see that you get access to
+all of my best training. So, for
+example, if you want to go from beginner
+to expert with AI automation and learn
+how to build your first AI agent in
+under 5 minutes, you can learn that
+right here. If you want to get my best
+playbooks on how to automate X,
+newsletters, shorts, Instagram, AI
+avatar videos, we have video tutorials
+and step-by-step guides right here. If
+you want to get the daily updates and
+the open core courses, you can find all
+of that information inside here. And if
+you want to get more clients for your
+agency, you can check this section out.
+We also have a bunch of coaching calls
+you can watch back if you don't miss if
+you don't watch them live. You can also
+learn how to rank number one with AI SEO
+and also how to grow a YouTube channel
+with AI based on what's working for me.
+So that's all inside the AI profit
+boarding link in the comments
+description or go to the
+aiprofitboarding.com.

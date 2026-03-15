@@ -1,0 +1,155 @@
+{
+  "id": "hllhkLGWA34",
+  "title": "ChatGPT 5.4 + Claude Opus 4.6 is INSANE! 🤯",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260311",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nChatGPT 5.4 & Claude 4.6: The Ultimate Multi-Model AI Workflow\n\nDiscover why stacking ChatGPT 5.4 and Claude Opus 4.6 is the ultimate productivity hack for entrepreneurs. We reveal 5 powerful workflows that combine ChatGPT’s strategic reasoning with Claude’s elite execution to build an automated AI team.\n\n00:00 - Intro: The Power of Model Stacking\n01:13 - The Agent Era: Brain vs. Hands\n02:11 - New Model Specs & Upgrades\n03:34 - Workflow 1: 30-Day Content Engine\n04:41 - Workflow 2: Rapid Offer Creation\n05:43 - Workflow 3: Full Marketing Funnels\n06:40 - Workflow 4: Build Software Products\n07:27 - Scaling Your AI Business",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "chatgpt",
+    "claude"
+  ],
+  "topic_tags": [
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api"
+  ],
+  "topic_cluster_key": "chatgpt__claude",
+  "related_video_ids": [
+    "fnLXErf-plM",
+    "pSQE1SsGfSQ",
+    "xAw3IZgX7Tc",
+    "s2HalzQZ1MQ",
+    "rF8VXVn46co"
+  ],
+  "related_videos": [
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "rF8VXVn46co",
+      "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rF8VXVn46co/summary.md",
+      "topic_cluster_key": "1-flash-lite__automate__gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "fnLXErf-plM",
+      "pSQE1SsGfSQ",
+      "xAw3IZgX7Tc",
+      "s2HalzQZ1MQ",
+      "rF8VXVn46co"
+    ]
+  },
+  "updated_at": "2026-03-11T05:30:10Z"
+}

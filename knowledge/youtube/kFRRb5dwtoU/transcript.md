@@ -1,0 +1,376 @@
+# Transcript
+
+- URL: https://www.youtube.com/watch?v=kFRRb5dwtoU
+- VideoId: kFRRb5dwtoU
+- Title: OpenClaw + Hunter Alpha + Healer Alpha: FREE AI Agent!
+
+## Transcript
+Today we have two new stealth models
+that you can actually connect directly
+to open core for free to run your local
+AI agent completely free using these new
+models from open core. So you can see
+some examples right here. For example,
+we actually set up open router and
+hunter alpha inside openclaw. So it's
+running with this API for free. And
+these are new stealth models. So nobody
+knows who's created them but from my
+test so far they're pretty powerful
+stuff. Today I'm going to be showing you
+how to connect them, what they actually
+are, uh how to use this with openclaw,
+and how to get started. Okay, so if you
+want to connect OpenClaw with Hunter
+Alpha, the way that you can do this is
+there's there's two easy ways. Number
+one, you can run through the on
+boarding, right? So if you go to the
+quick start instructions for Open Claw,
+which you can see on their GitHub, you
+can just run through the on boarding
+using this command openclaw on board,
+and you just go inside the terminal. The
+other way that you can do this is you
+can actually ask OpenC cloth to switch
+APIs, but just be careful because
+sometimes that can break. And then the
+method that I actually used was I
+actually got Claude code, pasted in the
+GitHub instructions, pasted in the
+details from open router of the new
+stealth models, gave it my open router
+key, and then it set up in about 2
+minutes hunter alpha directly inside
+open claw. Now, if we have a look here,
+um, we check, okay, is this working or
+not? I'm just going to do a quick speed
+test. So, we'll see how long it takes
+for this uh to reply. All right. So,
+we'll start the stopwatch here. And then
+I'm going to go back to open claw and
+just say, are you working? And we'll see
+how quick and easy it is to uh get this
+to respond. And of course, before we do
+that, we just have to make sure this is
+running. So, I'm just going to run this
+command inside the terminal. So, let's
+start the timer and then we'll see how
+long it takes to respond. So, it's
+pretty fast. Responded within I would
+say probably within about 3 seconds it
+took to reply to us, which is pretty
+good. It's not instant, but it is a free
+API you can connect to open claw. And
+let's run the next test now. So what I'm
+actually going to do is I'm going to
+grab an API key from Google AI studio.
+And then we're going to see how this
+performs in terms of getting for example
+nano banana set up with openclaw. Right?
+So we if we want to generate for example
+images then we can use nanobanana and
+the API key. So I'm going to grab that
+from AI studio and then plug it into
+open claw.
+and see how smart this is. So, I'm going
+to say set up Nana Banana with this
+Google AI Studio API key, then generate
+a test image to make sure it works.
+We'll grab the documentation on how to
+generate images with Nana Banana 2,
+which we've got right here, and then
+I'll paste that into Open Web Claw along
+with the API key. So, you can see that
+I've added the documentation here.
+And this is how you can basically
+generate images using openclaw and uh a
+combination of nano banana 2. So we're
+beginning to add that inside the chat
+here. Ver asks about API cost and my
+cost monthly. So honestly like not a lot
+because we don't use APIs that much
+usually you know for example if I'm
+using open claw then I'm using the
+oorthth with that for GPT 5.4 right or
+for example if I'm using claude then I'm
+using claude code which comes with the
+plan I've already got for claude. So
+usually not a lot at all. I try to
+minimize them as much as I can. We do
+have a few like zapias running in the
+background with open router, but we're
+using like older versions of portic so
+you know it's not too bad at all. So
+that's set up now. Really didn't take a
+long time. Let's say uh generate an
+image and open it in a browser so I can
+view it. Super fast to respond to be
+fair and it seemed to manage to figure
+that out. This is the image that it
+generated which is pretty cool. So it
+did that with Nana Banana 2 and um it
+seems to work really well. Right. So you
+can now easily set this up link Nano
+Banana 2. You can see here for example
+it said here's your cyberpunk cityscape.
+So it created like a test image with
+flying cars and neon uh colors and that
+sort of thing. It worked pretty well
+too. So so far this is working really
+nicely. There were other models I've
+tested previously with Open Claw that
+were stealth models like for example
+Pony Alpha that worked with I think
+eventually it turned out to be GLM5 and
+that was not bad but I would say this is
+superior. So whatever this API is um and
+you know there's rumors that it's GPT50
+or GPT 5.5 it's definitely worth testing
+out. It works really well with open core
+seems to and and bear in mind that you
+can just use open core for free with
+this API directly. So at this point
+you're probably wondering like what are
+the details on Hunter Alpha? How does it
+work? How does this API um configured
+etc. So it's live on open router. You
+can get access right here. Right. So
+this is Hunter Alpha and it was just
+released about 24 hours ago. It's a 1
+trillion parameter model, 1 million
+token context window. Doesn't cost
+anything to use, right? So, it's free
+here as you can see in the input and
+output tokens. It was built specifically
+for agentic use. So, long horizon
+planning, complex reasoning, sustained
+multi-step task execution, and it's
+built with the instruction following
+precision that frameworks like open core
+need. So in simple words, it's a free
+trillion parameter brain designed to uh
+work really well with agentic tools like
+for example openclaw. Now let's just do
+one more test. What I'm going to do from
+here is we're going to try and install
+an extension to open claw. So for
+example, we should be able to install
+paperclip which is a pretty cool like
+mission control dashboard or we could we
+could take this one actually. Let's try
+and install this one. Right? So this is
+another mission control dashboard we can
+install inside open claw. So, I'm going
+to give that task to OpenClaw here. And
+I'll say set up this mission control
+dashboard.
+Give it the GitHub link as well. We'll
+see how it handles that. But so far,
+it's passed all the tests, right? It's
+pretty fast. It can work with APIs. It
+can generate images pretty quickly.
+Understands how to handle API
+documentation. And it seems to be
+setting up mission control. But let's
+see how it handles his test as well. NZ
+says, "I just downloaded OpenCL for the
+first time." Nice. How's it going so
+far? In the meantime, whilst that's
+setting up, I've actually got a 30-day
+plan for using this API with Open Claw
+inside the video notes from today. But
+one of the old beliefs that I'd say most
+people struggle with right now is that
+they think, you know, you can't use free
+APIs with open claw, but you actually
+can, as you've seen today. Like this
+seems to work better um than than a lot
+of the APIs I've actually tested with
+something like openclaw before, right?
+Okay, so I've tested other models like
+for example um GLM, Miniax, all sorts of
+models with Open Quil. This is one of
+the best so far. I mean, you can see
+here it's actually set up the mission
+control already. If we open that up, you
+can see that's working perfectly right
+here, which is pretty cool, right? So,
+it's plugged in all the agents that
+we've got. It's created a nice dashboard
+right here. We've got a setup of the
+agents, uh mission control dashboard,
+etc. And that worked perfectly first
+time around. Plus, it was super fast to
+set up. So, whatever this API is, it's
+super powerful and it actually works
+with openclaw. A lot of people say,
+"Well, I'm not technical enough to set
+up an AI agent." Honestly, if you have
+never used OpenClaw before, just get
+claw code set up for you, right? It
+takes like 2 minutes and it is super
+fast and easy to do. Other people say,
+"Well, I don't have time to set this
+up." You can get open claw and this
+integration with Hunter Alpha set up in
+the space of 2 minutes. I did it this
+morning before this live stream. It was
+pretty easy, simple to do. So, so far
+it's worked really well on all the tests
+that we've done. It handled the mission
+control test pretty well. It started
+creating images with the API
+documentation from Nana Banana. It's
+really fast to respond and it's free to
+use. So if you're thinking about testing
+or if you need a free API to work with
+OpenClaw, then you know I would
+definitely check this out. It's pretty
+cool. N says, "I haven't figured out
+what OpenClaw does yet. Really, I'm
+still trying to set it up." So if you
+want more tips and guides on this stuff,
+check out the AI profit boarding. We
+have a full six-hour course on OpenClaw
+and we have another three-hour course
+right here. And each day we uh run new
+daily tutorials on how to use openclaw
+with different things. So for example,
+we've got a full guide on paperclip um
+which is basically like it's a cool way
+to make like a company with with
+different agent team members and you can
+get the full guide 30-day road map and
+100 prompts to test with it inside the
+AI profit boardroom. And each day we
+create new guides like this so that you
+can test them out. Uh video tutorials,
+full step-by-step guides, etc. It's all
+inside the AI profit boardroom. So, this
+is my community that helps you learn AI,
+save time, and grow with AI automation.
+There's 2,600 people in there, which
+means there's always people online that
+you can ask questions, you can get help
+and support from, etc. You can post
+questions inside the community. You can
+share your wins. You can join our daily
+accountability group, which means that
+you stay laser focused on your goals.
+You can also, for example, check out my
+weekly post where I look at everything
+that's come out and I'm like, if you
+just read one thing this week, it's
+this, right? So you can stay updated
+with all the latest AI updates based on
+my 60 hours of research and I filter
+out, okay, here's the most useful stuff
+and here's the stuff you can ignore.
+Additionally, inside the calendar, you
+can see that we do weekly coaching
+calls. You can jump on live video
+coaching calls, get help, get support in
+real time. You can also meet people
+inside your local area. So you can zoom
+in on the map, meet people in your local
+area, DM them, ask them questions, that
+sort of thing. And inside the classroom
+here, you get all of my best trainings
+as well. Now, at this point, you might
+be wondering, okay, like, you know, are
+people getting results with this? We
+actually have over 136 pages of
+testimonials from people winning with AI
+automation from our training. So, you
+can see some examples right here of uh
+what people are achieving, what they're
+getting results with. Um, just loads of
+positive wins, right? It's just a
+helpful, supportive community that's
+super positive. Lots of people getting
+results inside there, and that's what we
+like to see, right? And this is
+basically an infinite scroll at this
+point of uh of testimonials and wins and
+and people just getting awesome stuff.
+So that's what we like right now. Here's
+an example. So we also have inside the
+classroom all of my best training. So if
+you want to go from beginner to expert
+with AI automation and learn how to
+build your first AI agent in under 5
+minutes, you can check this section out
+right here. If you want to learn the
+playbooks I personally use inside my
+business, then you can check out how I
+create AI avatar videos and my
+step-by-step tutorial right here. You
+can also learn how I automate Instagram
+and shorts and newsletters and Twitter,
+etc., all using AI automation inside
+this section. Now, additionally, you can
+get my daily SOP updates. So, what this
+allows you to do is get the new updates
+based on all the cool stuff that just
+launched. So, I look at everything that
+just came out. I research everything and
+I find out what's the most useful thing
+for you. And then I turn that into a
+video tutorial with a step-by-step
+guide, a 30-day road map on how to
+master this stuff and additionally over
+100 prompts you can test with this,
+right? And so this just makes it super
+actionable so that you can actually
+implement new updates inside your
+business. Top of that, you can learn how
+to get more clients with the agency
+course. You can watch back the coaching
+calls if you miss them live. You can
+learn how to rank number one with AI
+SEO. And you can also learn how to grow
+a YouTube channel based on what's
+working for me. All inside the AI profit
+board link inside the comments
+description or go to the
+aiprofitboard.com
+says can open call fill out forms or
+like do browser stuff. Yeah. So you can
+get it to fill out forms inside browser
+automations or what you can also do is
+you can set up the chrome extension with
+open crawl. Right. So
+if you go inside the search bar here,
+type in
+openclaw browser extension. So Chrome
+extension, we actually have a full setup
+guide on how to use browser automation
+with openclaw using the Chrome
+extension, right? And from there, you
+can see all these guides here, but you
+can basically learn how to set up uh
+openclaw browser control so that it can
+operate your browser and start clicking
+buttons for you and all that sort of
+stuff. The snow cup says, "What do I use
+to build an AI receptionist?" So, I'd
+use something like 11 Labs. You can
+create voice agents with 11 Labs. We've
+done that before on our website before,
+and you can actually see there's a lot
+of trainings here on how to use voice
+agents with 11 Labs, and these come with
+video tutorials and step-by-step guides.
+So you can easily implement this stuff.
+Vic says, "Wow, it's really fast. Makes
+me want to try it whilst it's still
+free." Yeah, bear in mind with those
+stealth models, right? So like for
+example this one, um they do get
+eventually they do get removed from open
+rout. So you know if you're thinking
+about using them, use them now whilst
+you still can. Otherwise, eventually
+they'll just get taken off uh open
+router once the model fully launches.

@@ -1,0 +1,153 @@
+{
+  "id": "pXFSLdNL13M",
+  "title": "New AntiGravity Update is INSANE! 🤯",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260313",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nGoogle Anti-Gravity: The AI Coding Tool That Never Stops\n\nGoogle Anti-gravity introduces autonomous AI agents that work alongside you in real-time, eliminating the wait times of traditional AI tools. Discover how the March 2026 update enables asynchronous collaboration and allows you to manage AI employees to build complex projects in minutes.\n\n00:00 - Intro: Meet Google Anti-Gravity\n01:25 - AI-First Development Environment\n02:14 - The Massive March 2026 Update\n03:42 - How AI Artifacts Work\n04:49 - Editor vs. Manager View\n05:42 - Workflow: Building a Landing Page\n06:32 - Workflow: Creating Analytics Dashboards\n07:26 - Scaling with AI Automation",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "antigravity",
+    "claude",
+    "gemini"
+  ],
+  "topic_tags": [
+    "antigravity",
+    "workflow-automation",
+    "agent-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "antigravity",
+  "related_video_ids": [
+    "C4fTWiOGXpM",
+    "rF8VXVn46co",
+    "pSQE1SsGfSQ",
+    "iBVMutY4Ot0",
+    "hllhkLGWA34"
+  ],
+  "related_videos": [
+    {
+      "videoId": "C4fTWiOGXpM",
+      "title": "I replaced OpenClaw with AntiGravity... its WILD",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/C4fTWiOGXpM/summary.md",
+      "topic_cluster_key": "antigravity__openclaw",
+      "shared_tags": [
+        "antigravity",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "rF8VXVn46co",
+      "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rF8VXVn46co/summary.md",
+      "topic_cluster_key": "1-flash-lite__automate__gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "hllhkLGWA34",
+      "title": "ChatGPT 5.4 + Claude Opus 4.6 is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/hllhkLGWA34/summary.md",
+      "topic_cluster_key": "chatgpt__claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "C4fTWiOGXpM",
+      "rF8VXVn46co",
+      "pSQE1SsGfSQ",
+      "iBVMutY4Ot0",
+      "hllhkLGWA34"
+    ]
+  },
+  "updated_at": "2026-03-13T03:02:27Z"
+}

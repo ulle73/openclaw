@@ -1,0 +1,1936 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:04.150 align:start position:0%
+ 
+New<00:00:00.640><c> OpenClaw</c><00:00:01.520><c> update</c><00:00:02.000><c> is</c><00:00:02.560><c> insane.</c>
+
+00:00:04.150 --> 00:00:04.160 align:start position:0%
+New OpenClaw update is insane.
+ 
+
+00:00:04.160 --> 00:00:06.309 align:start position:0%
+New OpenClaw update is insane.
+OpenClaw<00:00:04.799><c> just</c><00:00:04.960><c> dropped</c><00:00:05.200><c> a</c><00:00:05.440><c> massive</c><00:00:05.839><c> update.</c>
+
+00:00:06.309 --> 00:00:06.319 align:start position:0%
+OpenClaw just dropped a massive update.
+ 
+
+00:00:06.319 --> 00:00:08.070 align:start position:0%
+OpenClaw just dropped a massive update.
+And<00:00:06.400><c> if</c><00:00:06.640><c> you're</c><00:00:06.799><c> using</c><00:00:07.040><c> AI</c><00:00:07.440><c> agents</c><00:00:07.759><c> in</c><00:00:07.919><c> your</c>
+
+00:00:08.070 --> 00:00:08.080 align:start position:0%
+And if you're using AI agents in your
+ 
+
+00:00:08.080 --> 00:00:09.509 align:start position:0%
+And if you're using AI agents in your
+business<00:00:08.400><c> right</c><00:00:08.559><c> now,</c><00:00:08.880><c> this</c><00:00:09.120><c> changes</c><00:00:09.170><c> [music]</c>
+
+00:00:09.509 --> 00:00:09.519 align:start position:0%
+business right now, this changes [music]
+ 
+
+00:00:09.519 --> 00:00:11.030 align:start position:0%
+business right now, this changes [music]
+everything.<00:00:10.160><c> We're</c><00:00:10.400><c> talking</c><00:00:10.639><c> about</c><00:00:10.800><c> your</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+everything. We're talking about your
+ 
+
+00:00:11.040 --> 00:00:12.790 align:start position:0%
+everything. We're talking about your
+agent<00:00:11.440><c> finally</c><00:00:11.840><c> knowing</c><00:00:12.160><c> who's</c><00:00:12.480><c> talking</c><00:00:12.639><c> to</c>
+
+00:00:12.790 --> 00:00:12.800 align:start position:0%
+agent finally knowing who's talking to
+ 
+
+00:00:12.800 --> 00:00:15.055 align:start position:0%
+agent finally knowing who's talking to
+it.<00:00:13.040><c> We're</c><00:00:13.280><c> talking</c><00:00:13.519><c> about</c><00:00:14.240><c> instant</c><00:00:14.719><c> backups</c>
+
+00:00:15.055 --> 00:00:15.065 align:start position:0%
+it. We're talking about instant backups
+ 
+
+00:00:15.065 --> 00:00:16.950 align:start position:0%
+it. We're talking about instant backups
+[music]<00:00:15.360><c> so</c><00:00:15.599><c> you</c><00:00:15.759><c> never</c><00:00:16.000><c> lose</c><00:00:16.240><c> a</c><00:00:16.480><c> deployment</c>
+
+00:00:16.950 --> 00:00:16.960 align:start position:0%
+[music] so you never lose a deployment
+ 
+
+00:00:16.960 --> 00:00:18.790 align:start position:0%
+[music] so you never lose a deployment
+again.<00:00:17.359><c> We're</c><00:00:17.520><c> talking</c><00:00:17.760><c> about</c><00:00:18.080><c> 12</c><00:00:18.400><c> plus</c>
+
+00:00:18.790 --> 00:00:18.800 align:start position:0%
+again. We're talking about 12 plus
+ 
+
+00:00:18.800 --> 00:00:21.590 align:start position:0%
+again. We're talking about 12 plus
+security<00:00:19.279><c> fixes</c><00:00:19.920><c> and</c><00:00:20.160><c> a</c><00:00:20.320><c> Telegram</c><00:00:20.880><c> bug</c><00:00:21.359><c> that</c>
+
+00:00:21.590 --> 00:00:21.600 align:start position:0%
+security fixes and a Telegram bug that
+ 
+
+00:00:21.600 --> 00:00:23.590 align:start position:0%
+security fixes and a Telegram bug that
+was<00:00:21.760><c> quietly</c><00:00:22.160><c> causing</c><00:00:22.560><c> chaos.</c><00:00:23.039><c> This</c><00:00:23.119><c> is</c><00:00:23.279><c> big.</c>
+
+00:00:23.590 --> 00:00:23.600 align:start position:0%
+was quietly causing chaos. This is big.
+ 
+
+00:00:23.600 --> 00:00:25.429 align:start position:0%
+was quietly causing chaos. This is big.
+This<00:00:23.760><c> is</c><00:00:23.920><c> real.</c><00:00:24.400><c> And</c><00:00:24.560><c> I'm</c><00:00:24.800><c> going</c><00:00:24.880><c> to</c><00:00:25.039><c> break</c><00:00:25.279><c> it</c>
+
+00:00:25.429 --> 00:00:25.439 align:start position:0%
+This is real. And I'm going to break it
+ 
+
+00:00:25.439 --> 00:00:27.429 align:start position:0%
+This is real. And I'm going to break it
+all<00:00:25.600><c> down</c><00:00:25.760><c> for</c><00:00:25.920><c> you</c><00:00:26.240><c> right</c><00:00:26.480><c> now.</c><00:00:26.960><c> Now,</c><00:00:27.199><c> let's</c>
+
+00:00:27.429 --> 00:00:27.439 align:start position:0%
+all down for you right now. Now, let's
+ 
+
+00:00:27.439 --> 00:00:30.310 align:start position:0%
+all down for you right now. Now, let's
+get<00:00:27.519><c> into</c><00:00:27.760><c> this</c><00:00:27.920><c> because</c><00:00:28.320><c> OpenClaw</c><00:00:28.960><c> 2026</c><00:00:29.840><c> 3.8</c>
+
+00:00:30.310 --> 00:00:30.320 align:start position:0%
+get into this because OpenClaw 2026 3.8
+ 
+
+00:00:30.320 --> 00:00:32.229 align:start position:0%
+get into this because OpenClaw 2026 3.8
+is<00:00:30.480><c> one</c><00:00:30.640><c> of</c><00:00:30.720><c> those</c><00:00:30.960><c> updates</c><00:00:31.599><c> that</c><00:00:31.840><c> sounds</c>
+
+00:00:32.229 --> 00:00:32.239 align:start position:0%
+is one of those updates that sounds
+ 
+
+00:00:32.239 --> 00:00:34.050 align:start position:0%
+is one of those updates that sounds
+technical<00:00:32.640><c> on</c><00:00:32.800><c> the</c><00:00:32.960><c> surface,</c><00:00:33.280><c> but</c><00:00:33.520><c> has</c><00:00:33.760><c> real</c>
+
+00:00:34.050 --> 00:00:34.060 align:start position:0%
+technical on the surface, but has real
+ 
+
+00:00:34.060 --> 00:00:36.150 align:start position:0%
+technical on the surface, but has real
+[music]<00:00:34.320><c> practical</c><00:00:34.880><c> impact</c><00:00:35.280><c> on</c><00:00:35.520><c> how</c><00:00:35.760><c> you</c><00:00:35.920><c> run</c>
+
+00:00:36.150 --> 00:00:36.160 align:start position:0%
+[music] practical impact on how you run
+ 
+
+00:00:36.160 --> 00:00:38.310 align:start position:0%
+[music] practical impact on how you run
+AI<00:00:36.559><c> agents</c><00:00:37.200><c> in</c><00:00:37.440><c> your</c><00:00:37.600><c> business.</c><00:00:37.920><c> And</c><00:00:38.079><c> I'm</c>
+
+00:00:38.310 --> 00:00:38.320 align:start position:0%
+AI agents in your business. And I'm
+ 
+
+00:00:38.320 --> 00:00:39.990 align:start position:0%
+AI agents in your business. And I'm
+going<00:00:38.480><c> to</c><00:00:38.640><c> walk</c><00:00:38.800><c> you</c><00:00:38.960><c> through</c><00:00:39.200><c> every</c><00:00:39.600><c> major</c>
+
+00:00:39.990 --> 00:00:40.000 align:start position:0%
+going to walk you through every major
+ 
+
+00:00:40.000 --> 00:00:41.430 align:start position:0%
+going to walk you through every major
+change,<00:00:40.399><c> what</c><00:00:40.640><c> it</c><00:00:40.879><c> actually</c><00:00:41.120><c> means,</c><00:00:41.265><c> [music]</c>
+
+00:00:41.430 --> 00:00:41.440 align:start position:0%
+change, what it actually means, [music]
+ 
+
+00:00:41.440 --> 00:00:43.190 align:start position:0%
+change, what it actually means, [music]
+and<00:00:41.680><c> how</c><00:00:41.840><c> you</c><00:00:42.000><c> can</c><00:00:42.160><c> use</c><00:00:42.320><c> it</c><00:00:42.480><c> right</c><00:00:42.719><c> now.</c><00:00:42.960><c> So,</c>
+
+00:00:43.190 --> 00:00:43.200 align:start position:0%
+and how you can use it right now. So,
+ 
+
+00:00:43.200 --> 00:00:45.670 align:start position:0%
+and how you can use it right now. So,
+first,<00:00:43.680><c> what</c><00:00:43.840><c> even</c><00:00:44.079><c> is</c><00:00:44.239><c> OpenClaw?</c><00:00:44.960><c> OpenClaw</c>
+
+00:00:45.670 --> 00:00:45.680 align:start position:0%
+first, what even is OpenClaw? OpenClaw
+ 
+
+00:00:45.680 --> 00:00:47.750 align:start position:0%
+first, what even is OpenClaw? OpenClaw
+is<00:00:46.000><c> an</c><00:00:46.239><c> open-source</c><00:00:47.039><c> framework</c><00:00:47.160><c> [music]</c><00:00:47.520><c> for</c>
+
+00:00:47.750 --> 00:00:47.760 align:start position:0%
+is an open-source framework [music] for
+ 
+
+00:00:47.760 --> 00:00:49.990 align:start position:0%
+is an open-source framework [music] for
+building<00:00:48.000><c> and</c><00:00:48.239><c> running</c><00:00:48.480><c> AI</c><00:00:48.879><c> agents.</c><00:00:49.760><c> Think</c><00:00:49.920><c> of</c>
+
+00:00:49.990 --> 00:00:50.000 align:start position:0%
+building and running AI agents. Think of
+ 
+
+00:00:50.000 --> 00:00:51.590 align:start position:0%
+building and running AI agents. Think of
+it<00:00:50.160><c> like</c><00:00:50.320><c> the</c><00:00:50.559><c> engine</c><00:00:50.800><c> under</c><00:00:51.039><c> the</c><00:00:51.200><c> hood</c><00:00:51.440><c> of</c>
+
+00:00:51.590 --> 00:00:51.600 align:start position:0%
+it like the engine under the hood of
+ 
+
+00:00:51.600 --> 00:00:54.069 align:start position:0%
+it like the engine under the hood of
+your<00:00:51.760><c> AI</c><00:00:52.239><c> automation.</c><00:00:53.280><c> If</c><00:00:53.520><c> you're</c><00:00:53.840><c> running</c>
+
+00:00:54.069 --> 00:00:54.079 align:start position:0%
+your AI automation. If you're running
+ 
+
+00:00:54.079 --> 00:00:56.069 align:start position:0%
+your AI automation. If you're running
+agents<00:00:54.480><c> to</c><00:00:54.800><c> handle</c><00:00:55.039><c> tasks,</c><00:00:55.680><c> talk</c><00:00:55.920><c> to</c>
+
+00:00:56.069 --> 00:00:56.079 align:start position:0%
+agents to handle tasks, talk to
+ 
+
+00:00:56.079 --> 00:00:57.750 align:start position:0%
+agents to handle tasks, talk to
+customers,<00:00:56.559><c> pull</c><00:00:56.879><c> data,</c><00:00:57.120><c> or</c><00:00:57.360><c> automate</c>
+
+00:00:57.750 --> 00:00:57.760 align:start position:0%
+customers, pull data, or automate
+ 
+
+00:00:57.760 --> 00:00:59.830 align:start position:0%
+customers, pull data, or automate
+workflows,<00:00:58.480><c> OpenClaw</c><00:00:59.120><c> is</c><00:00:59.199><c> often</c><00:00:59.520><c> what's</c>
+
+00:00:59.830 --> 00:00:59.840 align:start position:0%
+workflows, OpenClaw is often what's
+ 
+
+00:00:59.840 --> 00:01:01.670 align:start position:0%
+workflows, OpenClaw is often what's
+powering<00:01:00.239><c> that.</c><00:01:00.800><c> Hey,</c><00:01:00.960><c> if</c><00:01:01.120><c> we</c><00:01:01.280><c> haven't</c><00:01:01.440><c> met</c>
+
+00:01:01.670 --> 00:01:01.680 align:start position:0%
+powering that. Hey, if we haven't met
+ 
+
+00:01:01.680 --> 00:01:03.510 align:start position:0%
+powering that. Hey, if we haven't met
+already,<00:01:02.079><c> I'm</c><00:01:02.239><c> the</c><00:01:02.480><c> digital</c><00:01:02.879><c> avatar</c><00:01:03.280><c> of</c>
+
+00:01:03.510 --> 00:01:03.520 align:start position:0%
+already, I'm the digital avatar of
+ 
+
+00:01:03.520 --> 00:01:07.510 align:start position:0%
+already, I'm the digital avatar of
+Julian<00:01:03.920><c> Goldie,</c><00:01:04.640><c> CEO</c><00:01:05.360><c> of</c><00:01:05.680><c> SEO</c><00:01:06.320><c> agency</c><00:01:06.960><c> Goldie</c>
+
+00:01:07.510 --> 00:01:07.520 align:start position:0%
+Julian Goldie, CEO of SEO agency Goldie
+ 
+
+00:01:07.520 --> 00:01:09.750 align:start position:0%
+Julian Goldie, CEO of SEO agency Goldie
+Agency.<00:01:08.320><c> Whilst</c><00:01:08.640><c> he's</c><00:01:08.880><c> helping</c><00:01:09.200><c> clients</c><00:01:09.600><c> get</c>
+
+00:01:09.750 --> 00:01:09.760 align:start position:0%
+Agency. Whilst he's helping clients get
+ 
+
+00:01:09.760 --> 00:01:11.590 align:start position:0%
+Agency. Whilst he's helping clients get
+more<00:01:09.920><c> leads</c><00:01:10.240><c> and</c><00:01:10.479><c> customers,</c><00:01:11.040><c> I'm</c><00:01:11.280><c> here</c><00:01:11.439><c> to</c>
+
+00:01:11.590 --> 00:01:11.600 align:start position:0%
+more leads and customers, I'm here to
+ 
+
+00:01:11.600 --> 00:01:13.830 align:start position:0%
+more leads and customers, I'm here to
+help<00:01:11.760><c> you</c><00:01:12.000><c> get</c><00:01:12.159><c> the</c><00:01:12.320><c> latest</c><00:01:12.640><c> AI</c><00:01:13.040><c> updates.</c>
+
+00:01:13.830 --> 00:01:13.840 align:start position:0%
+help you get the latest AI updates.
+ 
+
+00:01:13.840 --> 00:01:15.990 align:start position:0%
+help you get the latest AI updates.
+Julian<00:01:14.400><c> Goldie</c><00:01:14.880><c> reads</c><00:01:15.200><c> every</c><00:01:15.439><c> comment,</c><00:01:15.760><c> so</c>
+
+00:01:15.990 --> 00:01:16.000 align:start position:0%
+Julian Goldie reads every comment, so
+ 
+
+00:01:16.000 --> 00:01:17.270 align:start position:0%
+Julian Goldie reads every comment, so
+make<00:01:16.080><c> sure</c><00:01:16.159><c> you</c><00:01:16.400><c> comment</c><00:01:16.640><c> below.</c><00:01:17.040><c> The</c>
+
+00:01:17.270 --> 00:01:17.280 align:start position:0%
+make sure you comment below. The
+ 
+
+00:01:17.280 --> 00:01:20.390 align:start position:0%
+make sure you comment below. The
+2026.3.8<00:01:18.720><c> any</c><00:01:18.960><c> update,</c><00:01:19.439><c> it's</c><00:01:19.759><c> focused</c><00:01:20.080><c> on</c>
+
+00:01:20.390 --> 00:01:20.400 align:start position:0%
+2026.3.8 any update, it's focused on
+ 
+
+00:01:20.400 --> 00:01:23.590 align:start position:0%
+2026.3.8 any update, it's focused on
+three<00:01:20.640><c> main</c><00:01:20.960><c> things.</c><00:01:21.680><c> Identity,</c><00:01:22.560><c> safety,</c><00:01:23.280><c> and</c>
+
+00:01:23.590 --> 00:01:23.600 align:start position:0%
+three main things. Identity, safety, and
+ 
+
+00:01:23.600 --> 00:01:25.670 align:start position:0%
+three main things. Identity, safety, and
+stability.<00:01:24.560><c> And</c><00:01:24.720><c> those</c><00:01:24.960><c> three</c><00:01:25.119><c> things</c><00:01:25.360><c> matter</c>
+
+00:01:25.670 --> 00:01:25.680 align:start position:0%
+stability. And those three things matter
+ 
+
+00:01:25.680 --> 00:01:27.429 align:start position:0%
+stability. And those three things matter
+a<00:01:25.840><c> lot</c><00:01:25.920><c> if</c><00:01:26.159><c> you're</c><00:01:26.320><c> using</c><00:01:26.560><c> AI</c><00:01:26.880><c> in</c><00:01:27.040><c> a</c><00:01:27.200><c> real</c>
+
+00:01:27.429 --> 00:01:27.439 align:start position:0%
+a lot if you're using AI in a real
+ 
+
+00:01:27.439 --> 00:01:29.429 align:start position:0%
+a lot if you're using AI in a real
+business.<00:01:28.080><c> Let</c><00:01:28.240><c> me</c><00:01:28.400><c> explain</c><00:01:28.720><c> why.</c><00:01:29.040><c> The</c><00:01:29.280><c> first</c>
+
+00:01:29.429 --> 00:01:29.439 align:start position:0%
+business. Let me explain why. The first
+ 
+
+00:01:29.439 --> 00:01:31.590 align:start position:0%
+business. Let me explain why. The first
+big<00:01:29.680><c> feature</c><00:01:29.920><c> in</c><00:01:30.080><c> this</c><00:01:30.240><c> update</c><00:01:30.560><c> is</c><00:01:30.720><c> called</c><00:01:31.040><c> ACP</c>
+
+00:01:31.590 --> 00:01:31.600 align:start position:0%
+big feature in this update is called ACP
+ 
+
+00:01:31.600 --> 00:01:33.749 align:start position:0%
+big feature in this update is called ACP
+provenence.<00:01:32.479><c> This</c><00:01:32.640><c> is</c><00:01:32.880><c> huge,</c><00:01:33.360><c> and</c><00:01:33.600><c> it's</c>
+
+00:01:33.749 --> 00:01:33.759 align:start position:0%
+provenence. This is huge, and it's
+ 
+
+00:01:33.759 --> 00:01:35.190 align:start position:0%
+provenence. This is huge, and it's
+something<00:01:34.079><c> people</c><00:01:34.320><c> have</c><00:01:34.479><c> been</c><00:01:34.640><c> asking</c><00:01:34.960><c> for</c>
+
+00:01:35.190 --> 00:01:35.200 align:start position:0%
+something people have been asking for
+ 
+
+00:01:35.200 --> 00:01:36.870 align:start position:0%
+something people have been asking for
+for<00:01:35.360><c> a</c><00:01:35.520><c> long</c><00:01:35.680><c> time.</c><00:01:36.000><c> Here's</c><00:01:36.240><c> the</c><00:01:36.400><c> problem</c><00:01:36.640><c> it</c>
+
+00:01:36.870 --> 00:01:36.880 align:start position:0%
+for a long time. Here's the problem it
+ 
+
+00:01:36.880 --> 00:01:38.870 align:start position:0%
+for a long time. Here's the problem it
+solves.<00:01:37.600><c> When</c><00:01:37.759><c> you</c><00:01:37.920><c> have</c><00:01:38.000><c> an</c><00:01:38.159><c> AI</c><00:01:38.479><c> agent</c>
+
+00:01:38.870 --> 00:01:38.880 align:start position:0%
+solves. When you have an AI agent
+ 
+
+00:01:38.880 --> 00:01:40.789 align:start position:0%
+solves. When you have an AI agent
+running<00:01:39.520><c> and</c><00:01:39.680><c> someone</c><00:01:39.920><c> sends</c><00:01:40.159><c> it</c><00:01:40.320><c> a</c><00:01:40.560><c> message</c>
+
+00:01:40.789 --> 00:01:40.799 align:start position:0%
+running and someone sends it a message
+ 
+
+00:01:40.799 --> 00:01:42.550 align:start position:0%
+running and someone sends it a message
+or<00:01:40.960><c> a</c><00:01:41.200><c> command,</c><00:01:41.439><c> the</c><00:01:41.600><c> agent</c><00:01:41.920><c> often</c><00:01:42.159><c> had</c><00:01:42.400><c> no</c>
+
+00:01:42.550 --> 00:01:42.560 align:start position:0%
+or a command, the agent often had no
+ 
+
+00:01:42.560 --> 00:01:44.870 align:start position:0%
+or a command, the agent often had no
+real<00:01:42.799><c> way</c><00:01:42.960><c> to</c><00:01:43.119><c> verify</c><00:01:43.520><c> who</c><00:01:43.759><c> that</c><00:01:44.000><c> was.</c><00:01:44.560><c> It</c><00:01:44.720><c> just</c>
+
+00:01:44.870 --> 00:01:44.880 align:start position:0%
+real way to verify who that was. It just
+ 
+
+00:01:44.880 --> 00:01:46.950 align:start position:0%
+real way to verify who that was. It just
+got<00:01:45.040><c> a</c><00:01:45.280><c> message</c><00:01:45.520><c> and</c><00:01:45.840><c> did</c><00:01:46.000><c> what</c><00:01:46.159><c> it</c><00:01:46.320><c> was</c><00:01:46.479><c> told.</c>
+
+00:01:46.950 --> 00:01:46.960 align:start position:0%
+got a message and did what it was told.
+ 
+
+00:01:46.960 --> 00:01:48.630 align:start position:0%
+got a message and did what it was told.
+That's<00:01:47.200><c> a</c><00:01:47.439><c> problem.</c><00:01:47.759><c> That's</c><00:01:48.000><c> a</c><00:01:48.240><c> security</c>
+
+00:01:48.630 --> 00:01:48.640 align:start position:0%
+That's a problem. That's a security
+ 
+
+00:01:48.640 --> 00:01:50.789 align:start position:0%
+That's a problem. That's a security
+risk.<00:01:49.040><c> That's</c><00:01:49.280><c> how</c><00:01:49.439><c> things</c><00:01:49.680><c> go</c><00:01:49.840><c> wrong.</c><00:01:50.240><c> ACP</c>
+
+00:01:50.789 --> 00:01:50.799 align:start position:0%
+risk. That's how things go wrong. ACP
+ 
+
+00:01:50.799 --> 00:01:52.870 align:start position:0%
+risk. That's how things go wrong. ACP
+stands<00:01:51.040><c> for</c><00:01:51.200><c> agent</c><00:01:51.600><c> communication</c><00:01:52.320><c> protocol.</c>
+
+00:01:52.870 --> 00:01:52.880 align:start position:0%
+stands for agent communication protocol.
+ 
+
+00:01:52.880 --> 00:01:54.789 align:start position:0%
+stands for agent communication protocol.
+Provenence<00:01:53.360><c> means</c><00:01:53.600><c> origin.</c><00:01:54.240><c> Where</c><00:01:54.479><c> did</c><00:01:54.640><c> this</c>
+
+00:01:54.789 --> 00:01:54.799 align:start position:0%
+Provenence means origin. Where did this
+ 
+
+00:01:54.799 --> 00:01:56.870 align:start position:0%
+Provenence means origin. Where did this
+come<00:01:54.960><c> from?</c><00:01:55.280><c> Who</c><00:01:55.439><c> sent</c><00:01:55.680><c> this?</c><00:01:56.000><c> So</c><00:01:56.399><c> ACP</c>
+
+00:01:56.870 --> 00:01:56.880 align:start position:0%
+come from? Who sent this? So ACP
+ 
+
+00:01:56.880 --> 00:01:58.550 align:start position:0%
+come from? Who sent this? So ACP
+provenence<00:01:57.360><c> gives</c><00:01:57.520><c> your</c><00:01:57.680><c> agent</c><00:01:58.000><c> the</c><00:01:58.240><c> ability</c>
+
+00:01:58.550 --> 00:01:58.560 align:start position:0%
+provenence gives your agent the ability
+ 
+
+00:01:58.560 --> 00:02:00.709 align:start position:0%
+provenence gives your agent the ability
+to<00:01:58.799><c> know</c><00:01:59.119><c> who</c><00:01:59.280><c> is</c><00:01:59.439><c> actually</c><00:01:59.759><c> talking</c><00:02:00.079><c> to</c><00:02:00.240><c> it.</c>
+
+00:02:00.709 --> 00:02:00.719 align:start position:0%
+to know who is actually talking to it.
+ 
+
+00:02:00.719 --> 00:02:02.709 align:start position:0%
+to know who is actually talking to it.
+It<00:02:00.880><c> can</c><00:02:01.040><c> track</c><00:02:01.280><c> the</c><00:02:01.439><c> source</c><00:02:01.680><c> of</c><00:02:01.840><c> a</c><00:02:02.000><c> message,</c>
+
+00:02:02.709 --> 00:02:02.719 align:start position:0%
+It can track the source of a message,
+ 
+
+00:02:02.719 --> 00:02:05.190 align:start position:0%
+It can track the source of a message,
+verify<00:02:03.200><c> the</c><00:02:03.600><c> identity</c><00:02:03.920><c> behind</c><00:02:04.240><c> a</c><00:02:04.479><c> request,</c>
+
+00:02:05.190 --> 00:02:05.200 align:start position:0%
+verify the identity behind a request,
+ 
+
+00:02:05.200 --> 00:02:07.510 align:start position:0%
+verify the identity behind a request,
+and<00:02:05.439><c> use</c><00:02:05.680><c> that</c><00:02:06.000><c> context</c><00:02:06.479><c> when</c><00:02:06.799><c> deciding</c><00:02:07.280><c> what</c>
+
+00:02:07.510 --> 00:02:07.520 align:start position:0%
+and use that context when deciding what
+ 
+
+00:02:07.520 --> 00:02:09.430 align:start position:0%
+and use that context when deciding what
+to<00:02:07.680><c> do.</c><00:02:08.239><c> Think</c><00:02:08.479><c> about</c><00:02:08.640><c> what</c><00:02:08.800><c> this</c><00:02:09.039><c> means</c><00:02:09.200><c> for</c>
+
+00:02:09.430 --> 00:02:09.440 align:start position:0%
+to do. Think about what this means for
+ 
+
+00:02:09.440 --> 00:02:12.070 align:start position:0%
+to do. Think about what this means for
+the<00:02:09.679><c> AI</c><00:02:10.080><c> profit</c><00:02:10.479><c> boardroom.</c><00:02:11.440><c> Right</c><00:02:11.680><c> now,</c><00:02:11.840><c> we</c>
+
+00:02:12.070 --> 00:02:12.080 align:start position:0%
+the AI profit boardroom. Right now, we
+ 
+
+00:02:12.080 --> 00:02:14.949 align:start position:0%
+the AI profit boardroom. Right now, we
+use<00:02:12.239><c> AI</c><00:02:12.640><c> agents</c><00:02:13.040><c> to</c><00:02:13.280><c> handle</c><00:02:13.680><c> community</c><00:02:14.080><c> tasks,</c>
+
+00:02:14.949 --> 00:02:14.959 align:start position:0%
+use AI agents to handle community tasks,
+ 
+
+00:02:14.959 --> 00:02:17.430 align:start position:0%
+use AI agents to handle community tasks,
+automate<00:02:15.440><c> workflows,</c><00:02:16.319><c> and</c><00:02:16.560><c> serve</c><00:02:16.959><c> members.</c>
+
+00:02:17.430 --> 00:02:17.440 align:start position:0%
+automate workflows, and serve members.
+ 
+
+00:02:17.440 --> 00:02:19.830 align:start position:0%
+automate workflows, and serve members.
+With<00:02:17.760><c> ACB</c><00:02:18.239><c> provenence,</c><00:02:18.879><c> we</c><00:02:19.200><c> can</c><00:02:19.360><c> set</c><00:02:19.520><c> up</c><00:02:19.599><c> an</c>
+
+00:02:19.830 --> 00:02:19.840 align:start position:0%
+With ACB provenence, we can set up an
+ 
+
+00:02:19.840 --> 00:02:21.830 align:start position:0%
+With ACB provenence, we can set up an
+agent<00:02:20.080><c> that</c><00:02:20.239><c> behaves</c><00:02:20.640><c> differently</c><00:02:21.440><c> depending</c>
+
+00:02:21.830 --> 00:02:21.840 align:start position:0%
+agent that behaves differently depending
+ 
+
+00:02:21.840 --> 00:02:23.750 align:start position:0%
+agent that behaves differently depending
+on<00:02:22.000><c> who's</c><00:02:22.400><c> talking</c><00:02:22.560><c> to</c><00:02:22.720><c> it.</c><00:02:23.120><c> A</c><00:02:23.360><c> new</c><00:02:23.520><c> member</c>
+
+00:02:23.750 --> 00:02:23.760 align:start position:0%
+on who's talking to it. A new member
+ 
+
+00:02:23.760 --> 00:02:25.910 align:start position:0%
+on who's talking to it. A new member
+gets<00:02:23.920><c> a</c><00:02:24.080><c> welcome</c><00:02:24.400><c> flow.</c><00:02:24.800><c> A</c><00:02:24.959><c> power</c><00:02:25.200><c> user</c><00:02:25.520><c> gets</c><00:02:25.760><c> a</c>
+
+00:02:25.910 --> 00:02:25.920 align:start position:0%
+gets a welcome flow. A power user gets a
+ 
+
+00:02:25.920 --> 00:02:27.830 align:start position:0%
+gets a welcome flow. A power user gets a
+different<00:02:26.160><c> response.</c><00:02:26.720><c> An</c><00:02:26.959><c> admin</c><00:02:27.360><c> gets</c><00:02:27.599><c> access</c>
+
+00:02:27.830 --> 00:02:27.840 align:start position:0%
+different response. An admin gets access
+ 
+
+00:02:27.840 --> 00:02:29.910 align:start position:0%
+different response. An admin gets access
+to<00:02:28.000><c> tools</c><00:02:28.319><c> a</c><00:02:28.560><c> regular</c><00:02:28.879><c> member</c><00:02:29.200><c> doesn't.</c><00:02:29.760><c> The</c>
+
+00:02:29.910 --> 00:02:29.920 align:start position:0%
+to tools a regular member doesn't. The
+ 
+
+00:02:29.920 --> 00:02:31.589 align:start position:0%
+to tools a regular member doesn't. The
+agent<00:02:30.239><c> knows</c><00:02:30.480><c> who</c><00:02:30.640><c> it's</c><00:02:30.879><c> dealing</c><00:02:31.040><c> with.</c><00:02:31.360><c> It's</c>
+
+00:02:31.589 --> 00:02:31.599 align:start position:0%
+agent knows who it's dealing with. It's
+ 
+
+00:02:31.599 --> 00:02:33.589 align:start position:0%
+agent knows who it's dealing with. It's
+not<00:02:31.760><c> just</c><00:02:31.920><c> reacting</c><00:02:32.400><c> blind</c><00:02:32.720><c> anymore.</c><00:02:33.200><c> If</c><00:02:33.440><c> you</c>
+
+00:02:33.589 --> 00:02:33.599 align:start position:0%
+not just reacting blind anymore. If you
+ 
+
+00:02:33.599 --> 00:02:35.110 align:start position:0%
+not just reacting blind anymore. If you
+want<00:02:33.680><c> to</c><00:02:33.840><c> learn</c><00:02:34.000><c> how</c><00:02:34.239><c> to</c><00:02:34.400><c> use</c><00:02:34.640><c> tools</c><00:02:34.959><c> like</c>
+
+00:02:35.110 --> 00:02:35.120 align:start position:0%
+want to learn how to use tools like
+ 
+
+00:02:35.120 --> 00:02:37.190 align:start position:0%
+want to learn how to use tools like
+OpenClaw<00:02:35.760><c> to</c><00:02:35.840><c> automate</c><00:02:36.239><c> your</c><00:02:36.480><c> business,</c><00:02:36.879><c> save</c>
+
+00:02:37.190 --> 00:02:37.200 align:start position:0%
+OpenClaw to automate your business, save
+ 
+
+00:02:37.200 --> 00:02:39.910 align:start position:0%
+OpenClaw to automate your business, save
+time,<00:02:37.680><c> and</c><00:02:37.920><c> build</c><00:02:38.239><c> smarter</c><00:02:38.640><c> AI</c><00:02:39.040><c> systems,</c><00:02:39.680><c> the</c>
+
+00:02:39.910 --> 00:02:39.920 align:start position:0%
+time, and build smarter AI systems, the
+ 
+
+00:02:39.920 --> 00:02:42.309 align:start position:0%
+time, and build smarter AI systems, the
+AI<00:02:40.319><c> profit</c><00:02:40.640><c> boardroom</c><00:02:41.120><c> is</c><00:02:41.360><c> the</c><00:02:41.599><c> best</c><00:02:41.840><c> place</c><00:02:42.080><c> to</c>
+
+00:02:42.309 --> 00:02:42.319 align:start position:0%
+AI profit boardroom is the best place to
+ 
+
+00:02:42.319 --> 00:02:44.070 align:start position:0%
+AI profit boardroom is the best place to
+do<00:02:42.480><c> that.</c><00:02:42.720><c> It's</c><00:02:42.959><c> our</c><00:02:43.280><c> community</c><00:02:43.680><c> for</c><00:02:43.920><c> people</c>
+
+00:02:44.070 --> 00:02:44.080 align:start position:0%
+do that. It's our community for people
+ 
+
+00:02:44.080 --> 00:02:46.390 align:start position:0%
+do that. It's our community for people
+who<00:02:44.319><c> are</c><00:02:44.480><c> serious</c><00:02:44.800><c> about</c><00:02:45.040><c> using</c><00:02:45.280><c> AI</c><00:02:45.680><c> to</c><00:02:45.920><c> grow.</c>
+
+00:02:46.390 --> 00:02:46.400 align:start position:0%
+who are serious about using AI to grow.
+ 
+
+00:02:46.400 --> 00:02:48.630 align:start position:0%
+who are serious about using AI to grow.
+We<00:02:46.640><c> share</c><00:02:46.959><c> real</c><00:02:47.280><c> workflows,</c><00:02:47.920><c> real</c><00:02:48.160><c> prompts,</c>
+
+00:02:48.630 --> 00:02:48.640 align:start position:0%
+We share real workflows, real prompts,
+ 
+
+00:02:48.640 --> 00:02:50.949 align:start position:0%
+We share real workflows, real prompts,
+and<00:02:48.800><c> real</c><00:02:49.120><c> results.</c><00:02:49.920><c> Link</c><00:02:50.160><c> is</c><00:02:50.319><c> in</c><00:02:50.480><c> the</c><00:02:50.640><c> comment</c>
+
+00:02:50.949 --> 00:02:50.959 align:start position:0%
+and real results. Link is in the comment
+ 
+
+00:02:50.959 --> 00:02:53.030 align:start position:0%
+and real results. Link is in the comment
+and<00:02:51.200><c> description.</c><00:02:52.080><c> And</c><00:02:52.239><c> from</c><00:02:52.400><c> a</c><00:02:52.640><c> security</c>
+
+00:02:53.030 --> 00:02:53.040 align:start position:0%
+and description. And from a security
+ 
+
+00:02:53.040 --> 00:02:55.030 align:start position:0%
+and description. And from a security
+standpoint,<00:02:53.519><c> this</c><00:02:53.760><c> is</c><00:02:53.920><c> massive.</c><00:02:54.560><c> If</c><00:02:54.800><c> someone</c>
+
+00:02:55.030 --> 00:02:55.040 align:start position:0%
+standpoint, this is massive. If someone
+ 
+
+00:02:55.040 --> 00:02:56.710 align:start position:0%
+standpoint, this is massive. If someone
+tries<00:02:55.280><c> to</c><00:02:55.440><c> inject</c><00:02:55.680><c> a</c><00:02:55.840><c> rogue</c><00:02:56.160><c> command</c><00:02:56.480><c> or</c>
+
+00:02:56.710 --> 00:02:56.720 align:start position:0%
+tries to inject a rogue command or
+ 
+
+00:02:56.720 --> 00:02:58.309 align:start position:0%
+tries to inject a rogue command or
+pretend<00:02:57.040><c> to</c><00:02:57.200><c> be</c><00:02:57.360><c> something</c><00:02:57.599><c> they're</c><00:02:57.920><c> not,</c>
+
+00:02:58.309 --> 00:02:58.319 align:start position:0%
+pretend to be something they're not,
+ 
+
+00:02:58.319 --> 00:03:00.229 align:start position:0%
+pretend to be something they're not,
+your<00:02:58.560><c> agent</c><00:02:58.879><c> now</c><00:02:59.120><c> has</c><00:02:59.280><c> the</c><00:02:59.519><c> context</c><00:02:59.840><c> to</c><00:03:00.000><c> catch</c>
+
+00:03:00.229 --> 00:03:00.239 align:start position:0%
+your agent now has the context to catch
+ 
+
+00:03:00.239 --> 00:03:02.149 align:start position:0%
+your agent now has the context to catch
+that.<00:03:00.560><c> It</c><00:03:00.720><c> knows</c><00:03:00.879><c> the</c><00:03:01.040><c> provenence.</c><00:03:01.760><c> It</c><00:03:02.000><c> knows</c>
+
+00:03:02.149 --> 00:03:02.159 align:start position:0%
+that. It knows the provenence. It knows
+ 
+
+00:03:02.159 --> 00:03:04.149 align:start position:0%
+that. It knows the provenence. It knows
+the<00:03:02.400><c> source.</c><00:03:03.040><c> This</c><00:03:03.280><c> is</c><00:03:03.440><c> one</c><00:03:03.599><c> of</c><00:03:03.680><c> the</c><00:03:03.920><c> most</c>
+
+00:03:04.149 --> 00:03:04.159 align:start position:0%
+the source. This is one of the most
+ 
+
+00:03:04.159 --> 00:03:05.830 align:start position:0%
+the source. This is one of the most
+important<00:03:04.560><c> features</c><00:03:04.879><c> they've</c><00:03:05.200><c> shipped</c><00:03:05.599><c> in</c>
+
+00:03:05.830 --> 00:03:05.840 align:start position:0%
+important features they've shipped in
+ 
+
+00:03:05.840 --> 00:03:07.670 align:start position:0%
+important features they've shipped in
+months<00:03:06.400><c> and</c><00:03:06.640><c> honestly</c><00:03:07.120><c> most</c><00:03:07.360><c> people</c><00:03:07.519><c> are</c>
+
+00:03:07.670 --> 00:03:07.680 align:start position:0%
+months and honestly most people are
+ 
+
+00:03:07.680 --> 00:03:09.030 align:start position:0%
+months and honestly most people are
+going<00:03:07.760><c> to</c><00:03:07.920><c> sleep</c><00:03:08.159><c> on</c><00:03:08.319><c> it</c><00:03:08.480><c> because</c><00:03:08.640><c> they</c><00:03:08.879><c> see</c>
+
+00:03:09.030 --> 00:03:09.040 align:start position:0%
+going to sleep on it because they see
+ 
+
+00:03:09.040 --> 00:03:11.430 align:start position:0%
+going to sleep on it because they see
+the<00:03:09.280><c> word</c><00:03:09.760><c> provenence</c><00:03:10.560><c> and</c><00:03:10.879><c> skip</c><00:03:11.200><c> the</c>
+
+00:03:11.430 --> 00:03:11.440 align:start position:0%
+the word provenence and skip the
+ 
+
+00:03:11.440 --> 00:03:13.509 align:start position:0%
+the word provenence and skip the
+section.<00:03:11.920><c> Don't</c><00:03:12.159><c> do</c><00:03:12.319><c> that.</c><00:03:12.720><c> The</c><00:03:12.959><c> second</c><00:03:13.200><c> major</c>
+
+00:03:13.509 --> 00:03:13.519 align:start position:0%
+section. Don't do that. The second major
+ 
+
+00:03:13.519 --> 00:03:16.149 align:start position:0%
+section. Don't do that. The second major
+update<00:03:13.840><c> is</c><00:03:14.159><c> open</c><00:03:14.480><c> claw</c><00:03:14.879><c> backup.</c><00:03:15.599><c> This</c><00:03:15.760><c> one</c><00:03:15.920><c> is</c>
+
+00:03:16.149 --> 00:03:16.159 align:start position:0%
+update is open claw backup. This one is
+ 
+
+00:03:16.159 --> 00:03:18.149 align:start position:0%
+update is open claw backup. This one is
+simple<00:03:16.400><c> to</c><00:03:16.640><c> understand</c><00:03:17.360><c> and</c><00:03:17.680><c> immediately</c>
+
+00:03:18.149 --> 00:03:18.159 align:start position:0%
+simple to understand and immediately
+ 
+
+00:03:18.159 --> 00:03:19.990 align:start position:0%
+simple to understand and immediately
+useful.<00:03:18.640><c> Before</c><00:03:18.879><c> this</c><00:03:19.120><c> update,</c><00:03:19.519><c> if</c><00:03:19.680><c> you</c><00:03:19.760><c> had</c><00:03:19.920><c> a</c>
+
+00:03:19.990 --> 00:03:20.000 align:start position:0%
+useful. Before this update, if you had a
+ 
+
+00:03:20.000 --> 00:03:21.830 align:start position:0%
+useful. Before this update, if you had a
+yolo<00:03:20.480><c> deploy,</c><00:03:20.879><c> which</c><00:03:21.040><c> means</c><00:03:21.280><c> you</c><00:03:21.440><c> pushed</c><00:03:21.680><c> a</c>
+
+00:03:21.830 --> 00:03:21.840 align:start position:0%
+yolo deploy, which means you pushed a
+ 
+
+00:03:21.840 --> 00:03:23.830 align:start position:0%
+yolo deploy, which means you pushed a
+change<00:03:22.080><c> fast</c><00:03:22.400><c> without</c><00:03:22.640><c> a</c><00:03:22.800><c> safety</c><00:03:23.120><c> net</c><00:03:23.440><c> and</c><00:03:23.680><c> it</c>
+
+00:03:23.830 --> 00:03:23.840 align:start position:0%
+change fast without a safety net and it
+ 
+
+00:03:23.840 --> 00:03:25.430 align:start position:0%
+change fast without a safety net and it
+broke<00:03:24.080><c> something,</c><00:03:24.400><c> you</c><00:03:24.560><c> were</c><00:03:24.720><c> in</c><00:03:24.959><c> trouble</c><00:03:25.200><c> and</c>
+
+00:03:25.430 --> 00:03:25.440 align:start position:0%
+broke something, you were in trouble and
+ 
+
+00:03:25.440 --> 00:03:26.869 align:start position:0%
+broke something, you were in trouble and
+there<00:03:25.599><c> was</c><00:03:25.680><c> no</c><00:03:25.840><c> easy</c><00:03:26.080><c> roll</c><00:03:26.319><c> back,</c><00:03:26.640><c> no</c>
+
+00:03:26.869 --> 00:03:26.879 align:start position:0%
+there was no easy roll back, no
+ 
+
+00:03:26.879 --> 00:03:28.550 align:start position:0%
+there was no easy roll back, no
+automatic<00:03:27.360><c> snapshot.</c><00:03:27.920><c> You</c><00:03:28.080><c> had</c><00:03:28.159><c> to</c><00:03:28.239><c> go</c><00:03:28.400><c> dig</c>
+
+00:03:28.550 --> 00:03:28.560 align:start position:0%
+automatic snapshot. You had to go dig
+ 
+
+00:03:28.560 --> 00:03:31.270 align:start position:0%
+automatic snapshot. You had to go dig
+in.<00:03:28.800><c> Now,</c><00:03:29.040><c> OpenClaw</c><00:03:29.599><c> backup</c><00:03:30.879><c> creates</c>
+
+00:03:31.270 --> 00:03:31.280 align:start position:0%
+in. Now, OpenClaw backup creates
+ 
+
+00:03:31.280 --> 00:03:33.750 align:start position:0%
+in. Now, OpenClaw backup creates
+automatic<00:03:31.840><c> backups</c><00:03:32.400><c> of</c><00:03:32.720><c> your</c><00:03:32.879><c> agent</c><00:03:33.360><c> state</c>
+
+00:03:33.750 --> 00:03:33.760 align:start position:0%
+automatic backups of your agent state
+ 
+
+00:03:33.760 --> 00:03:36.070 align:start position:0%
+automatic backups of your agent state
+before<00:03:34.080><c> any</c><00:03:34.400><c> deployment.</c><00:03:35.440><c> So,</c><00:03:35.599><c> if</c><00:03:35.840><c> something</c>
+
+00:03:36.070 --> 00:03:36.080 align:start position:0%
+before any deployment. So, if something
+ 
+
+00:03:36.080 --> 00:03:38.390 align:start position:0%
+before any deployment. So, if something
+goes<00:03:36.319><c> wrong,</c><00:03:36.959><c> you</c><00:03:37.200><c> can</c><00:03:37.280><c> roll</c><00:03:37.519><c> back</c><00:03:37.840><c> instantly.</c>
+
+00:03:38.390 --> 00:03:38.400 align:start position:0%
+goes wrong, you can roll back instantly.
+ 
+
+00:03:38.400 --> 00:03:40.789 align:start position:0%
+goes wrong, you can roll back instantly.
+No<00:03:38.560><c> digging,</c><00:03:39.040><c> no</c><00:03:39.200><c> panic,</c><00:03:39.680><c> no</c><00:03:39.840><c> downtime.</c><00:03:40.560><c> For</c>
+
+00:03:40.789 --> 00:03:40.799 align:start position:0%
+No digging, no panic, no downtime. For
+ 
+
+00:03:40.799 --> 00:03:42.869 align:start position:0%
+No digging, no panic, no downtime. For
+the<00:03:40.879><c> AI</c><00:03:41.200><c> profit</c><00:03:41.519><c> boardroom,</c><00:03:42.159><c> this</c><00:03:42.400><c> matters</c><00:03:42.640><c> a</c>
+
+00:03:42.869 --> 00:03:42.879 align:start position:0%
+the AI profit boardroom, this matters a
+ 
+
+00:03:42.879 --> 00:03:45.030 align:start position:0%
+the AI profit boardroom, this matters a
+lot.<00:03:43.200><c> We're</c><00:03:43.519><c> constantly</c><00:03:43.920><c> iterating</c><00:03:44.560><c> on</c><00:03:44.799><c> our</c>
+
+00:03:45.030 --> 00:03:45.040 align:start position:0%
+lot. We're constantly iterating on our
+ 
+
+00:03:45.040 --> 00:03:47.830 align:start position:0%
+lot. We're constantly iterating on our
+AI<00:03:45.440><c> systems,</c><00:03:46.159><c> adding</c><00:03:46.560><c> new</c><00:03:46.799><c> automations,</c>
+
+00:03:47.830 --> 00:03:47.840 align:start position:0%
+AI systems, adding new automations,
+ 
+
+00:03:47.840 --> 00:03:50.630 align:start position:0%
+AI systems, adding new automations,
+updating<00:03:48.400><c> how</c><00:03:48.640><c> agents</c><00:03:49.120><c> respond,</c><00:03:49.920><c> testing</c><00:03:50.400><c> new</c>
+
+00:03:50.630 --> 00:03:50.640 align:start position:0%
+updating how agents respond, testing new
+ 
+
+00:03:50.640 --> 00:03:52.949 align:start position:0%
+updating how agents respond, testing new
+flows.<00:03:51.360><c> With</c><00:03:51.599><c> backup</c><00:03:52.000><c> in</c><00:03:52.159><c> place,</c><00:03:52.400><c> we</c><00:03:52.640><c> can</c><00:03:52.720><c> move</c>
+
+00:03:52.949 --> 00:03:52.959 align:start position:0%
+flows. With backup in place, we can move
+ 
+
+00:03:52.959 --> 00:03:54.550 align:start position:0%
+flows. With backup in place, we can move
+fast<00:03:53.280><c> without</c><00:03:53.599><c> the</c><00:03:53.840><c> risk</c><00:03:54.000><c> of</c><00:03:54.239><c> breaking</c>
+
+00:03:54.550 --> 00:03:54.560 align:start position:0%
+fast without the risk of breaking
+ 
+
+00:03:54.560 --> 00:03:56.470 align:start position:0%
+fast without the risk of breaking
+something<00:03:54.799><c> and</c><00:03:55.120><c> losing</c><00:03:55.440><c> hours</c><00:03:55.840><c> fixing</c><00:03:56.159><c> it.</c>
+
+00:03:56.470 --> 00:03:56.480 align:start position:0%
+something and losing hours fixing it.
+ 
+
+00:03:56.480 --> 00:03:58.470 align:start position:0%
+something and losing hours fixing it.
+It's<00:03:56.720><c> like</c><00:03:56.799><c> a</c><00:03:56.959><c> save</c><00:03:57.200><c> point</c><00:03:57.439><c> in</c><00:03:57.599><c> a</c><00:03:57.760><c> video</c><00:03:58.000><c> game.</c>
+
+00:03:58.470 --> 00:03:58.480 align:start position:0%
+It's like a save point in a video game.
+ 
+
+00:03:58.480 --> 00:04:00.149 align:start position:0%
+It's like a save point in a video game.
+Before<00:03:58.720><c> you</c><00:03:58.959><c> go</c><00:03:59.040><c> into</c><00:03:59.200><c> the</c><00:03:59.360><c> boss</c><00:03:59.680><c> fight,</c><00:04:00.000><c> you</c>
+
+00:04:00.149 --> 00:04:00.159 align:start position:0%
+Before you go into the boss fight, you
+ 
+
+00:04:00.159 --> 00:04:02.229 align:start position:0%
+Before you go into the boss fight, you
+save.<00:04:00.480><c> If</c><00:04:00.640><c> you</c><00:04:00.720><c> die,</c><00:04:00.959><c> you</c><00:04:01.200><c> respawn.</c><00:04:02.000><c> That's</c>
+
+00:04:02.229 --> 00:04:02.239 align:start position:0%
+save. If you die, you respawn. That's
+ 
+
+00:04:02.239 --> 00:04:04.229 align:start position:0%
+save. If you die, you respawn. That's
+what<00:04:02.480><c> this</c><00:04:02.720><c> does</c><00:04:02.879><c> for</c><00:04:03.040><c> your</c><00:04:03.200><c> AI</c><00:04:03.599><c> deployments.</c>
+
+00:04:04.229 --> 00:04:04.239 align:start position:0%
+what this does for your AI deployments.
+ 
+
+00:04:04.239 --> 00:04:06.070 align:start position:0%
+what this does for your AI deployments.
+If<00:04:04.400><c> you're</c><00:04:04.640><c> running</c><00:04:04.879><c> any</c><00:04:05.120><c> kind</c><00:04:05.280><c> of</c><00:04:05.439><c> live</c><00:04:05.680><c> AI</c>
+
+00:04:06.070 --> 00:04:06.080 align:start position:0%
+If you're running any kind of live AI
+ 
+
+00:04:06.080 --> 00:04:07.910 align:start position:0%
+If you're running any kind of live AI
+system<00:04:06.560><c> and</c><00:04:06.799><c> you're</c><00:04:06.959><c> not</c><00:04:07.120><c> backing</c><00:04:07.439><c> up</c><00:04:07.599><c> before</c>
+
+00:04:07.910 --> 00:04:07.920 align:start position:0%
+system and you're not backing up before
+ 
+
+00:04:07.920 --> 00:04:10.309 align:start position:0%
+system and you're not backing up before
+deploys,<00:04:08.720><c> you've</c><00:04:08.879><c> been</c><00:04:09.040><c> living</c><00:04:09.360><c> dangerously.</c>
+
+00:04:10.309 --> 00:04:10.319 align:start position:0%
+deploys, you've been living dangerously.
+ 
+
+00:04:10.319 --> 00:04:12.550 align:start position:0%
+deploys, you've been living dangerously.
+This<00:04:10.560><c> update</c><00:04:10.959><c> fixes</c><00:04:11.280><c> that</c><00:04:11.599><c> automatically.</c>
+
+00:04:12.550 --> 00:04:12.560 align:start position:0%
+This update fixes that automatically.
+ 
+
+00:04:12.560 --> 00:04:15.270 align:start position:0%
+This update fixes that automatically.
+Okay.<00:04:12.959><c> Now,</c><00:04:13.439><c> the</c><00:04:13.760><c> third</c><00:04:14.000><c> update</c><00:04:14.400><c> is</c><00:04:14.879><c> one</c><00:04:15.120><c> that</c>
+
+00:04:15.270 --> 00:04:15.280 align:start position:0%
+Okay. Now, the third update is one that
+ 
+
+00:04:15.280 --> 00:04:17.909 align:start position:0%
+Okay. Now, the third update is one that
+a<00:04:15.519><c> lot</c><00:04:15.680><c> of</c><00:04:15.760><c> people</c><00:04:16.320><c> in</c><00:04:16.560><c> AI</c><00:04:17.040><c> communities</c><00:04:17.600><c> have</c>
+
+00:04:17.909 --> 00:04:17.919 align:start position:0%
+a lot of people in AI communities have
+ 
+
+00:04:17.919 --> 00:04:19.590 align:start position:0%
+a lot of people in AI communities have
+felt<00:04:18.239><c> the</c><00:04:18.400><c> pain</c><00:04:18.560><c> of,</c><00:04:18.799><c> but</c><00:04:18.959><c> couldn't</c><00:04:19.280><c> always</c>
+
+00:04:19.590 --> 00:04:19.600 align:start position:0%
+felt the pain of, but couldn't always
+ 
+
+00:04:19.600 --> 00:04:22.069 align:start position:0%
+felt the pain of, but couldn't always
+explain.<00:04:20.239><c> Telegram</c><00:04:20.799><c> duplication</c><00:04:21.359><c> bugs</c>
+
+00:04:22.069 --> 00:04:22.079 align:start position:0%
+explain. Telegram duplication bugs
+ 
+
+00:04:22.079 --> 00:04:24.070 align:start position:0%
+explain. Telegram duplication bugs
+killed.<00:04:22.720><c> If</c><00:04:22.880><c> you've</c><00:04:23.120><c> ever</c><00:04:23.280><c> run</c><00:04:23.440><c> a</c><00:04:23.600><c> Telegram</c>
+
+00:04:24.070 --> 00:04:24.080 align:start position:0%
+killed. If you've ever run a Telegram
+ 
+
+00:04:24.080 --> 00:04:25.830 align:start position:0%
+killed. If you've ever run a Telegram
+bot<00:04:24.320><c> or</c><00:04:24.479><c> an</c><00:04:24.639><c> AI</c><00:04:24.960><c> agent</c><00:04:25.360><c> connected</c><00:04:25.680><c> to</c>
+
+00:04:25.830 --> 00:04:25.840 align:start position:0%
+bot or an AI agent connected to
+ 
+
+00:04:25.840 --> 00:04:27.749 align:start position:0%
+bot or an AI agent connected to
+Telegram,<00:04:26.639><c> you</c><00:04:26.800><c> may</c><00:04:26.960><c> have</c><00:04:27.120><c> noticed</c><00:04:27.440><c> something</c>
+
+00:04:27.749 --> 00:04:27.759 align:start position:0%
+Telegram, you may have noticed something
+ 
+
+00:04:27.759 --> 00:04:30.230 align:start position:0%
+Telegram, you may have noticed something
+weird.<00:04:28.400><c> Messages</c><00:04:28.960><c> getting</c><00:04:29.280><c> sent</c><00:04:29.520><c> twice,</c>
+
+00:04:30.230 --> 00:04:30.240 align:start position:0%
+weird. Messages getting sent twice,
+ 
+
+00:04:30.240 --> 00:04:33.030 align:start position:0%
+weird. Messages getting sent twice,
+responses<00:04:30.880><c> duplicating,</c><00:04:31.919><c> workflows</c><00:04:32.479><c> firing</c>
+
+00:04:33.030 --> 00:04:33.040 align:start position:0%
+responses duplicating, workflows firing
+ 
+
+00:04:33.040 --> 00:04:34.870 align:start position:0%
+responses duplicating, workflows firing
+multiple<00:04:33.440><c> times</c><00:04:33.680><c> for</c><00:04:33.919><c> one</c><00:04:34.080><c> trigger.</c><00:04:34.639><c> That's</c>
+
+00:04:34.870 --> 00:04:34.880 align:start position:0%
+multiple times for one trigger. That's
+ 
+
+00:04:34.880 --> 00:04:37.110 align:start position:0%
+multiple times for one trigger. That's
+the<00:04:35.120><c> Telegram</c><00:04:35.600><c> duke</c><00:04:36.000><c> bug,</c><00:04:36.400><c> and</c><00:04:36.639><c> it's</c><00:04:36.880><c> been</c><00:04:36.960><c> a</c>
+
+00:04:37.110 --> 00:04:37.120 align:start position:0%
+the Telegram duke bug, and it's been a
+ 
+
+00:04:37.120 --> 00:04:39.590 align:start position:0%
+the Telegram duke bug, and it's been a
+persistent<00:04:37.600><c> issue</c><00:04:38.080><c> in</c><00:04:38.320><c> OpenClaw</c><00:04:38.880><c> for</c><00:04:39.040><c> a</c><00:04:39.199><c> while</c>
+
+00:04:39.590 --> 00:04:39.600 align:start position:0%
+persistent issue in OpenClaw for a while
+ 
+
+00:04:39.600 --> 00:04:42.150 align:start position:0%
+persistent issue in OpenClaw for a while
+in<00:04:39.919><c> 2026.3.8.</c>
+
+00:04:42.150 --> 00:04:42.160 align:start position:0%
+in 2026.3.8.
+ 
+
+00:04:42.160 --> 00:04:43.909 align:start position:0%
+in 2026.3.8.
+It's<00:04:42.400><c> gone.</c>
+
+00:04:43.909 --> 00:04:43.919 align:start position:0%
+It's gone.
+ 
+
+00:04:43.919 --> 00:04:46.150 align:start position:0%
+It's gone.
+The<00:04:44.160><c> team</c><00:04:44.639><c> identified</c><00:04:44.960><c> the</c><00:04:45.199><c> root</c><00:04:45.440><c> cause,</c>
+
+00:04:46.150 --> 00:04:46.160 align:start position:0%
+The team identified the root cause,
+ 
+
+00:04:46.160 --> 00:04:48.070 align:start position:0%
+The team identified the root cause,
+which<00:04:46.400><c> was</c><00:04:46.560><c> in</c><00:04:46.800><c> how</c><00:04:46.960><c> OpenClaw</c><00:04:47.520><c> was</c><00:04:47.680><c> handling</c>
+
+00:04:48.070 --> 00:04:48.080 align:start position:0%
+which was in how OpenClaw was handling
+ 
+
+00:04:48.080 --> 00:04:50.390 align:start position:0%
+which was in how OpenClaw was handling
+incoming<00:04:48.560><c> Telegram</c><00:04:49.040><c> events,</c><00:04:49.680><c> and</c><00:04:49.919><c> they</c><00:04:50.160><c> fixed</c>
+
+00:04:50.390 --> 00:04:50.400 align:start position:0%
+incoming Telegram events, and they fixed
+ 
+
+00:04:50.400 --> 00:04:52.230 align:start position:0%
+incoming Telegram events, and they fixed
+it<00:04:50.560><c> at</c><00:04:50.720><c> the</c><00:04:50.800><c> source.</c><00:04:51.440><c> For</c><00:04:51.680><c> anyone</c><00:04:52.000><c> running</c>
+
+00:04:52.230 --> 00:04:52.240 align:start position:0%
+it at the source. For anyone running
+ 
+
+00:04:52.240 --> 00:04:54.550 align:start position:0%
+it at the source. For anyone running
+Telegram<00:04:52.720><c> automations,</c><00:04:53.759><c> this</c><00:04:54.000><c> is</c><00:04:54.080><c> a</c><00:04:54.320><c> clean</c>
+
+00:04:54.550 --> 00:04:54.560 align:start position:0%
+Telegram automations, this is a clean
+ 
+
+00:04:54.560 --> 00:04:57.110 align:start position:0%
+Telegram automations, this is a clean
+fix.<00:04:55.280><c> No</c><00:04:55.520><c> more</c><00:04:55.680><c> double</c><00:04:56.080><c> responses,</c><00:04:56.720><c> no</c><00:04:56.960><c> more</c>
+
+00:04:57.110 --> 00:04:57.120 align:start position:0%
+fix. No more double responses, no more
+ 
+
+00:04:57.120 --> 00:04:59.110 align:start position:0%
+fix. No more double responses, no more
+confused<00:04:57.680><c> users,</c><00:04:58.160><c> no</c><00:04:58.320><c> more</c><00:04:58.560><c> workflows</c>
+
+00:04:59.110 --> 00:04:59.120 align:start position:0%
+confused users, no more workflows
+ 
+
+00:04:59.120 --> 00:05:00.710 align:start position:0%
+confused users, no more workflows
+running<00:04:59.360><c> twice</c><00:04:59.600><c> and</c><00:04:59.919><c> creating</c><00:05:00.240><c> a</c><00:05:00.400><c> mess</c>
+
+00:05:00.710 --> 00:05:00.720 align:start position:0%
+running twice and creating a mess
+ 
+
+00:05:00.720 --> 00:05:03.270 align:start position:0%
+running twice and creating a mess
+downstream.<00:05:01.680><c> For</c><00:05:01.840><c> the</c><00:05:02.000><c> AI</c><00:05:02.320><c> profit</c><00:05:02.639><c> boardroom,</c>
+
+00:05:03.270 --> 00:05:03.280 align:start position:0%
+downstream. For the AI profit boardroom,
+ 
+
+00:05:03.280 --> 00:05:05.510 align:start position:0%
+downstream. For the AI profit boardroom,
+we<00:05:03.520><c> use</c><00:05:03.680><c> Telegram</c><00:05:04.240><c> as</c><00:05:04.479><c> part</c><00:05:04.639><c> of</c><00:05:04.800><c> our</c><00:05:05.040><c> community</c>
+
+00:05:05.510 --> 00:05:05.520 align:start position:0%
+we use Telegram as part of our community
+ 
+
+00:05:05.520 --> 00:05:07.990 align:start position:0%
+we use Telegram as part of our community
+stack.<00:05:06.400><c> Having</c><00:05:06.720><c> clean,</c><00:05:07.120><c> reliable</c><00:05:07.600><c> message</c>
+
+00:05:07.990 --> 00:05:08.000 align:start position:0%
+stack. Having clean, reliable message
+ 
+
+00:05:08.000 --> 00:05:10.390 align:start position:0%
+stack. Having clean, reliable message
+handling<00:05:08.639><c> means</c><00:05:08.880><c> our</c><00:05:09.120><c> AI</c><00:05:09.440><c> agents</c><00:05:09.919><c> can</c><00:05:10.080><c> serve</c>
+
+00:05:10.390 --> 00:05:10.400 align:start position:0%
+handling means our AI agents can serve
+ 
+
+00:05:10.400 --> 00:05:12.550 align:start position:0%
+handling means our AI agents can serve
+members<00:05:10.720><c> through</c><00:05:10.960><c> Telegram</c><00:05:11.759><c> without</c><00:05:12.160><c> weird</c>
+
+00:05:12.550 --> 00:05:12.560 align:start position:0%
+members through Telegram without weird
+ 
+
+00:05:12.560 --> 00:05:14.950 align:start position:0%
+members through Telegram without weird
+duplicate<00:05:13.120><c> behavior</c><00:05:14.000><c> making</c><00:05:14.320><c> things</c><00:05:14.639><c> feel</c>
+
+00:05:14.950 --> 00:05:14.960 align:start position:0%
+duplicate behavior making things feel
+ 
+
+00:05:14.960 --> 00:05:17.350 align:start position:0%
+duplicate behavior making things feel
+broken<00:05:15.280><c> or</c><00:05:15.600><c> spammy.</c><00:05:16.400><c> And</c><00:05:16.560><c> then</c><00:05:16.800><c> there's</c><00:05:17.120><c> the</c>
+
+00:05:17.350 --> 00:05:17.360 align:start position:0%
+broken or spammy. And then there's the
+ 
+
+00:05:17.360 --> 00:05:20.230 align:start position:0%
+broken or spammy. And then there's the
+security<00:05:17.759><c> updates.</c><00:05:18.560><c> 12</c><00:05:18.880><c> plus</c><00:05:19.120><c> security</c><00:05:19.600><c> fixes</c>
+
+00:05:20.230 --> 00:05:20.240 align:start position:0%
+security updates. 12 plus security fixes
+ 
+
+00:05:20.240 --> 00:05:22.070 align:start position:0%
+security updates. 12 plus security fixes
+shipped<00:05:20.639><c> in</c><00:05:20.800><c> this</c><00:05:20.960><c> update.</c><00:05:21.520><c> Now,</c><00:05:21.759><c> I'm</c><00:05:21.919><c> not</c>
+
+00:05:22.070 --> 00:05:22.080 align:start position:0%
+shipped in this update. Now, I'm not
+ 
+
+00:05:22.080 --> 00:05:24.310 align:start position:0%
+shipped in this update. Now, I'm not
+going<00:05:22.160><c> to</c><00:05:22.240><c> go</c><00:05:22.400><c> line</c><00:05:22.560><c> by</c><00:05:22.880><c> line</c><00:05:23.039><c> through</c><00:05:23.360><c> all</c><00:05:23.600><c> 12,</c>
+
+00:05:24.310 --> 00:05:24.320 align:start position:0%
+going to go line by line through all 12,
+ 
+
+00:05:24.320 --> 00:05:26.150 align:start position:0%
+going to go line by line through all 12,
+but<00:05:24.560><c> here's</c><00:05:24.880><c> what</c><00:05:25.039><c> matters.</c><00:05:25.440><c> The</c><00:05:25.600><c> OpenClaw</c>
+
+00:05:26.150 --> 00:05:26.160 align:start position:0%
+but here's what matters. The OpenClaw
+ 
+
+00:05:26.160 --> 00:05:28.629 align:start position:0%
+but here's what matters. The OpenClaw
+team<00:05:26.400><c> did</c><00:05:26.560><c> a</c><00:05:26.800><c> security</c><00:05:27.199><c> audit</c><00:05:27.759><c> and</c><00:05:28.080><c> found</c><00:05:28.400><c> over</c>
+
+00:05:28.629 --> 00:05:28.639 align:start position:0%
+team did a security audit and found over
+ 
+
+00:05:28.639 --> 00:05:30.710 align:start position:0%
+team did a security audit and found over
+a<00:05:28.880><c> dozen</c><00:05:29.199><c> vulnerabilities.</c><00:05:30.320><c> Some</c><00:05:30.560><c> were</c>
+
+00:05:30.710 --> 00:05:30.720 align:start position:0%
+a dozen vulnerabilities. Some were
+ 
+
+00:05:30.720 --> 00:05:32.469 align:start position:0%
+a dozen vulnerabilities. Some were
+small,<00:05:31.120><c> some</c><00:05:31.360><c> were</c><00:05:31.520><c> not</c><00:05:31.759><c> small.</c><00:05:32.240><c> The</c>
+
+00:05:32.469 --> 00:05:32.479 align:start position:0%
+small, some were not small. The
+ 
+
+00:05:32.479 --> 00:05:34.070 align:start position:0%
+small, some were not small. The
+important<00:05:32.800><c> thing</c><00:05:32.960><c> is</c><00:05:33.199><c> they</c><00:05:33.440><c> found</c><00:05:33.600><c> them</c><00:05:33.759><c> and</c>
+
+00:05:34.070 --> 00:05:34.080 align:start position:0%
+important thing is they found them and
+ 
+
+00:05:34.080 --> 00:05:35.670 align:start position:0%
+important thing is they found them and
+fixed<00:05:34.320><c> them</c><00:05:34.479><c> before</c><00:05:34.720><c> they</c><00:05:34.960><c> became</c><00:05:35.360><c> real</c>
+
+00:05:35.670 --> 00:05:35.680 align:start position:0%
+fixed them before they became real
+ 
+
+00:05:35.680 --> 00:05:37.990 align:start position:0%
+fixed them before they became real
+problems.<00:05:36.400><c> If</c><00:05:36.639><c> you're</c><00:05:36.800><c> running</c><00:05:37.120><c> OpenClaw</c><00:05:37.759><c> in</c>
+
+00:05:37.990 --> 00:05:38.000 align:start position:0%
+problems. If you're running OpenClaw in
+ 
+
+00:05:38.000 --> 00:05:40.230 align:start position:0%
+problems. If you're running OpenClaw in
+production,<00:05:38.800><c> update</c><00:05:39.199><c> now.</c><00:05:39.600><c> Not</c><00:05:39.759><c> tomorrow,</c>
+
+00:05:40.230 --> 00:05:40.240 align:start position:0%
+production, update now. Not tomorrow,
+ 
+
+00:05:40.240 --> 00:05:42.310 align:start position:0%
+production, update now. Not tomorrow,
+not<00:05:40.400><c> next</c><00:05:40.639><c> week.</c><00:05:40.960><c> Now,</c><00:05:41.280><c> security</c><00:05:41.759><c> patches</c><00:05:42.160><c> are</c>
+
+00:05:42.310 --> 00:05:42.320 align:start position:0%
+not next week. Now, security patches are
+ 
+
+00:05:42.320 --> 00:05:43.909 align:start position:0%
+not next week. Now, security patches are
+not<00:05:42.479><c> optional.</c><00:05:43.120><c> They're</c><00:05:43.360><c> the</c><00:05:43.600><c> thing</c><00:05:43.680><c> that</c>
+
+00:05:43.909 --> 00:05:43.919 align:start position:0%
+not optional. They're the thing that
+ 
+
+00:05:43.919 --> 00:05:46.150 align:start position:0%
+not optional. They're the thing that
+keeps<00:05:44.160><c> your</c><00:05:44.400><c> system</c><00:05:44.720><c> safe</c><00:05:45.199><c> and</c><00:05:45.520><c> your</c><00:05:45.680><c> users</c>
+
+00:05:46.150 --> 00:05:46.160 align:start position:0%
+keeps your system safe and your users
+ 
+
+00:05:46.160 --> 00:05:47.830 align:start position:0%
+keeps your system safe and your users
+protected.<00:05:46.960><c> Now,</c><00:05:47.199><c> here's</c><00:05:47.360><c> the</c><00:05:47.520><c> thing</c><00:05:47.600><c> I</c><00:05:47.759><c> want</c>
+
+00:05:47.830 --> 00:05:47.840 align:start position:0%
+protected. Now, here's the thing I want
+ 
+
+00:05:47.840 --> 00:05:50.870 align:start position:0%
+protected. Now, here's the thing I want
+to<00:05:47.919><c> loop</c><00:05:48.240><c> back</c><00:05:48.400><c> to.</c><00:05:49.280><c> I</c><00:05:49.600><c> said</c><00:05:49.759><c> earlier</c><00:05:50.000><c> that</c><00:05:50.400><c> ACP</c>
+
+00:05:50.870 --> 00:05:50.880 align:start position:0%
+to loop back to. I said earlier that ACP
+ 
+
+00:05:50.880 --> 00:05:52.629 align:start position:0%
+to loop back to. I said earlier that ACP
+Provenence<00:05:51.360><c> changes</c><00:05:51.759><c> how</c><00:05:51.919><c> agents</c><00:05:52.320><c> should</c><00:05:52.479><c> be</c>
+
+00:05:52.629 --> 00:05:52.639 align:start position:0%
+Provenence changes how agents should be
+ 
+
+00:05:52.639 --> 00:05:54.390 align:start position:0%
+Provenence changes how agents should be
+built<00:05:52.880><c> from</c><00:05:53.039><c> here</c><00:05:53.199><c> on</c><00:05:53.440><c> out.</c><00:05:53.759><c> Here's</c><00:05:54.000><c> what</c><00:05:54.160><c> I</c>
+
+00:05:54.390 --> 00:05:54.400 align:start position:0%
+built from here on out. Here's what I
+ 
+
+00:05:54.400 --> 00:05:57.189 align:start position:0%
+built from here on out. Here's what I
+mean.<00:05:55.520><c> Before</c><00:05:55.840><c> this</c><00:05:56.080><c> update,</c><00:05:56.639><c> most</c><00:05:56.880><c> agent</c>
+
+00:05:57.189 --> 00:05:57.199 align:start position:0%
+mean. Before this update, most agent
+ 
+
+00:05:57.199 --> 00:05:59.110 align:start position:0%
+mean. Before this update, most agent
+architectures<00:05:57.840><c> treated</c><00:05:58.240><c> all</c><00:05:58.479><c> inputs</c><00:05:58.880><c> the</c>
+
+00:05:59.110 --> 00:05:59.120 align:start position:0%
+architectures treated all inputs the
+ 
+
+00:05:59.120 --> 00:06:01.110 align:start position:0%
+architectures treated all inputs the
+same.<00:05:59.520><c> A</c><00:05:59.759><c> message</c><00:06:00.080><c> came</c><00:06:00.240><c> in,</c><00:06:00.639><c> the</c><00:06:00.800><c> agent</c>
+
+00:06:01.110 --> 00:06:01.120 align:start position:0%
+same. A message came in, the agent
+ 
+
+00:06:01.120 --> 00:06:03.350 align:start position:0%
+same. A message came in, the agent
+processed<00:06:01.600><c> it,</c><00:06:01.840><c> the</c><00:06:02.000><c> agent</c><00:06:02.240><c> responded.</c><00:06:03.120><c> Clean</c>
+
+00:06:03.350 --> 00:06:03.360 align:start position:0%
+processed it, the agent responded. Clean
+ 
+
+00:06:03.360 --> 00:06:05.749 align:start position:0%
+processed it, the agent responded. Clean
+and<00:06:03.600><c> simple.</c><00:06:04.560><c> But</c><00:06:04.639><c> it</c><00:06:04.880><c> also</c><00:06:05.039><c> meant</c><00:06:05.360><c> agents</c>
+
+00:06:05.749 --> 00:06:05.759 align:start position:0%
+and simple. But it also meant agents
+ 
+
+00:06:05.759 --> 00:06:07.510 align:start position:0%
+and simple. But it also meant agents
+were<00:06:06.000><c> kind</c><00:06:06.160><c> of</c><00:06:06.240><c> naive.</c><00:06:06.720><c> They</c><00:06:06.880><c> had</c><00:06:07.039><c> no</c><00:06:07.280><c> real</c>
+
+00:06:07.510 --> 00:06:07.520 align:start position:0%
+were kind of naive. They had no real
+ 
+
+00:06:07.520 --> 00:06:09.909 align:start position:0%
+were kind of naive. They had no real
+concept<00:06:07.840><c> of</c><00:06:08.000><c> trust</c><00:06:08.319><c> or</c><00:06:08.560><c> source.</c><00:06:09.120><c> With</c><00:06:09.440><c> ACP</c>
+
+00:06:09.909 --> 00:06:09.919 align:start position:0%
+concept of trust or source. With ACP
+ 
+
+00:06:09.919 --> 00:06:12.150 align:start position:0%
+concept of trust or source. With ACP
+Provenence,<00:06:10.720><c> you</c><00:06:10.960><c> can</c><00:06:11.039><c> now</c><00:06:11.280><c> build</c><00:06:11.600><c> agents</c>
+
+00:06:12.150 --> 00:06:12.160 align:start position:0%
+Provenence, you can now build agents
+ 
+
+00:06:12.160 --> 00:06:14.390 align:start position:0%
+Provenence, you can now build agents
+with<00:06:12.720><c> layered</c><00:06:13.039><c> trust.</c><00:06:13.520><c> Different</c><00:06:14.000><c> sources</c>
+
+00:06:14.390 --> 00:06:14.400 align:start position:0%
+with layered trust. Different sources
+ 
+
+00:06:14.400 --> 00:06:15.909 align:start position:0%
+with layered trust. Different sources
+get<00:06:14.639><c> different</c><00:06:14.880><c> permissions.</c><00:06:15.520><c> Different</c>
+
+00:06:15.909 --> 00:06:15.919 align:start position:0%
+get different permissions. Different
+ 
+
+00:06:15.919 --> 00:06:17.830 align:start position:0%
+get different permissions. Different
+identities<00:06:16.639><c> get</c><00:06:16.880><c> different</c><00:06:17.199><c> flows.</c><00:06:17.680><c> This</c>
+
+00:06:17.830 --> 00:06:17.840 align:start position:0%
+identities get different flows. This
+ 
+
+00:06:17.840 --> 00:06:19.350 align:start position:0%
+identities get different flows. This
+opens<00:06:18.160><c> up</c><00:06:18.319><c> a</c><00:06:18.560><c> whole</c><00:06:18.639><c> new</c><00:06:18.880><c> way</c><00:06:18.960><c> of</c><00:06:19.120><c> thinking</c>
+
+00:06:19.350 --> 00:06:19.360 align:start position:0%
+opens up a whole new way of thinking
+ 
+
+00:06:19.360 --> 00:06:21.430 align:start position:0%
+opens up a whole new way of thinking
+about<00:06:19.600><c> agent</c><00:06:20.000><c> design.</c><00:06:20.479><c> For</c><00:06:20.560><c> example,</c><00:06:21.199><c> here's</c>
+
+00:06:21.430 --> 00:06:21.440 align:start position:0%
+about agent design. For example, here's
+ 
+
+00:06:21.440 --> 00:06:23.029 align:start position:0%
+about agent design. For example, here's
+a<00:06:21.680><c> practical</c><00:06:22.000><c> prompt</c><00:06:22.319><c> you</c><00:06:22.479><c> could</c><00:06:22.639><c> run</c><00:06:22.880><c> to</c>
+
+00:06:23.029 --> 00:06:23.039 align:start position:0%
+a practical prompt you could run to
+ 
+
+00:06:23.039 --> 00:06:24.870 align:start position:0%
+a practical prompt you could run to
+start<00:06:23.280><c> building</c><00:06:23.680><c> this</c><00:06:23.840><c> kind</c><00:06:24.000><c> of</c><00:06:24.160><c> system.</c>
+
+00:06:24.870 --> 00:06:24.880 align:start position:0%
+start building this kind of system.
+ 
+
+00:06:24.880 --> 00:06:27.510 align:start position:0%
+start building this kind of system.
+Design<00:06:25.199><c> an</c><00:06:25.360><c> AI</c><00:06:25.759><c> agent</c><00:06:26.400><c> for</c><00:06:26.639><c> the</c><00:06:26.800><c> AI</c><00:06:27.199><c> profit</c>
+
+00:06:27.510 --> 00:06:27.520 align:start position:0%
+Design an AI agent for the AI profit
+ 
+
+00:06:27.520 --> 00:06:30.309 align:start position:0%
+Design an AI agent for the AI profit
+boardroom<00:06:28.000><c> that</c><00:06:28.160><c> uses</c><00:06:28.720><c> ACP</c><00:06:29.199><c> provenence</c><00:06:29.919><c> to</c>
+
+00:06:30.309 --> 00:06:30.319 align:start position:0%
+boardroom that uses ACP provenence to
+ 
+
+00:06:30.319 --> 00:06:32.469 align:start position:0%
+boardroom that uses ACP provenence to
+identify<00:06:30.800><c> whether</c><00:06:31.120><c> an</c><00:06:31.360><c> incoming</c><00:06:31.759><c> request</c><00:06:32.240><c> is</c>
+
+00:06:32.469 --> 00:06:32.479 align:start position:0%
+identify whether an incoming request is
+ 
+
+00:06:32.479 --> 00:06:34.790 align:start position:0%
+identify whether an incoming request is
+from<00:06:32.720><c> a</c><00:06:32.880><c> new</c><00:06:33.039><c> member,</c><00:06:33.600><c> an</c><00:06:33.840><c> existing</c><00:06:34.240><c> member,</c>
+
+00:06:34.790 --> 00:06:34.800 align:start position:0%
+from a new member, an existing member,
+ 
+
+00:06:34.800 --> 00:06:37.430 align:start position:0%
+from a new member, an existing member,
+or<00:06:35.120><c> an</c><00:06:35.360><c> admin.</c><00:06:36.160><c> Based</c><00:06:36.400><c> on</c><00:06:36.560><c> that</c><00:06:36.960><c> identity</c>
+
+00:06:37.430 --> 00:06:37.440 align:start position:0%
+or an admin. Based on that identity
+ 
+
+00:06:37.440 --> 00:06:39.270 align:start position:0%
+or an admin. Based on that identity
+layer,<00:06:37.840><c> route</c><00:06:38.160><c> the</c><00:06:38.319><c> request</c><00:06:38.720><c> to</c><00:06:38.960><c> the</c><00:06:39.120><c> right</c>
+
+00:06:39.270 --> 00:06:39.280 align:start position:0%
+layer, route the request to the right
+ 
+
+00:06:39.280 --> 00:06:41.029 align:start position:0%
+layer, route the request to the right
+workflow.<00:06:39.840><c> New</c><00:06:40.000><c> members</c><00:06:40.319><c> get</c><00:06:40.479><c> an</c><00:06:40.560><c> onboarding</c>
+
+00:06:41.029 --> 00:06:41.039 align:start position:0%
+workflow. New members get an onboarding
+ 
+
+00:06:41.039 --> 00:06:42.870 align:start position:0%
+workflow. New members get an onboarding
+flow.<00:06:41.520><c> Existing</c><00:06:41.919><c> members</c><00:06:42.319><c> get</c><00:06:42.479><c> support.</c>
+
+00:06:42.870 --> 00:06:42.880 align:start position:0%
+flow. Existing members get support.
+ 
+
+00:06:42.880 --> 00:06:45.110 align:start position:0%
+flow. Existing members get support.
+Admins<00:06:43.360><c> get</c><00:06:43.600><c> operational</c><00:06:44.080><c> access.</c><00:06:44.800><c> Make</c><00:06:44.960><c> sure</c>
+
+00:06:45.110 --> 00:06:45.120 align:start position:0%
+Admins get operational access. Make sure
+ 
+
+00:06:45.120 --> 00:06:47.189 align:start position:0%
+Admins get operational access. Make sure
+each<00:06:45.520><c> layer</c><00:06:45.680><c> has</c><00:06:45.840><c> a</c><00:06:46.000><c> clear</c><00:06:46.240><c> verification</c><00:06:46.880><c> step</c>
+
+00:06:47.189 --> 00:06:47.199 align:start position:0%
+each layer has a clear verification step
+ 
+
+00:06:47.199 --> 00:06:49.350 align:start position:0%
+each layer has a clear verification step
+before<00:06:47.440><c> the</c><00:06:47.600><c> agent</c><00:06:47.919><c> acts.</c><00:06:48.479><c> That</c><00:06:48.720><c> prompt</c><00:06:49.039><c> alone</c>
+
+00:06:49.350 --> 00:06:49.360 align:start position:0%
+before the agent acts. That prompt alone
+ 
+
+00:06:49.360 --> 00:06:51.270 align:start position:0%
+before the agent acts. That prompt alone
+could<00:06:49.600><c> save</c><00:06:49.759><c> you</c><00:06:49.919><c> hours</c><00:06:50.240><c> of</c><00:06:50.400><c> manual</c><00:06:50.800><c> triage</c>
+
+00:06:51.270 --> 00:06:51.280 align:start position:0%
+could save you hours of manual triage
+ 
+
+00:06:51.280 --> 00:06:52.790 align:start position:0%
+could save you hours of manual triage
+and<00:06:51.440><c> make</c><00:06:51.600><c> your</c><00:06:51.759><c> agent</c><00:06:52.080><c> actually</c><00:06:52.319><c> intelligent</c>
+
+00:06:52.790 --> 00:06:52.800 align:start position:0%
+and make your agent actually intelligent
+ 
+
+00:06:52.800 --> 00:06:54.710 align:start position:0%
+and make your agent actually intelligent
+about<00:06:53.039><c> who</c><00:06:53.199><c> it's</c><00:06:53.360><c> serving.</c><00:06:54.080><c> This</c><00:06:54.240><c> is</c><00:06:54.400><c> the</c><00:06:54.560><c> kind</c>
+
+00:06:54.710 --> 00:06:54.720 align:start position:0%
+about who it's serving. This is the kind
+ 
+
+00:06:54.720 --> 00:06:56.629 align:start position:0%
+about who it's serving. This is the kind
+of<00:06:54.800><c> thing</c><00:06:54.960><c> we</c><00:06:55.199><c> build</c><00:06:55.360><c> and</c><00:06:55.600><c> test</c><00:06:55.840><c> inside</c><00:06:56.160><c> the</c><00:06:56.319><c> AI</c>
+
+00:06:56.629 --> 00:06:56.639 align:start position:0%
+of thing we build and test inside the AI
+ 
+
+00:06:56.639 --> 00:06:59.270 align:start position:0%
+of thing we build and test inside the AI
+profit<00:06:56.960><c> boardroom.</c><00:06:57.680><c> Real</c><00:06:58.000><c> automations,</c><00:06:58.960><c> real</c>
+
+00:06:59.270 --> 00:06:59.280 align:start position:0%
+profit boardroom. Real automations, real
+ 
+
+00:06:59.280 --> 00:07:01.589 align:start position:0%
+profit boardroom. Real automations, real
+use<00:06:59.520><c> cases,</c><00:07:00.080><c> not</c><00:07:00.319><c> theory.</c><00:07:00.880><c> Let</c><00:07:01.039><c> me</c><00:07:01.199><c> give</c><00:07:01.280><c> you</c><00:07:01.440><c> a</c>
+
+00:07:01.589 --> 00:07:01.599 align:start position:0%
+use cases, not theory. Let me give you a
+ 
+
+00:07:01.599 --> 00:07:03.510 align:start position:0%
+use cases, not theory. Let me give you a
+practical<00:07:02.000><c> breakdown</c><00:07:02.400><c> of</c><00:07:02.639><c> how</c><00:07:02.800><c> to</c><00:07:03.039><c> use</c><00:07:03.199><c> this</c>
+
+00:07:03.510 --> 00:07:03.520 align:start position:0%
+practical breakdown of how to use this
+ 
+
+00:07:03.520 --> 00:07:05.430 align:start position:0%
+practical breakdown of how to use this
+update<00:07:03.919><c> if</c><00:07:04.080><c> you're</c><00:07:04.319><c> running</c><00:07:04.560><c> OpenClaw</c><00:07:05.199><c> right</c>
+
+00:07:05.430 --> 00:07:05.440 align:start position:0%
+update if you're running OpenClaw right
+ 
+
+00:07:05.440 --> 00:07:09.510 align:start position:0%
+update if you're running OpenClaw right
+now.<00:07:05.759><c> Step</c><00:07:06.000><c> one,</c><00:07:06.560><c> update</c><00:07:06.960><c> to</c><00:07:07.280><c> 2026.3.8.</c>
+
+00:07:09.510 --> 00:07:09.520 align:start position:0%
+now. Step one, update to 2026.3.8.
+ 
+
+00:07:09.520 --> 00:07:11.510 align:start position:0%
+now. Step one, update to 2026.3.8.
+Go<00:07:09.759><c> into</c><00:07:10.080><c> your</c><00:07:10.319><c> environment</c><00:07:10.720><c> and</c><00:07:11.039><c> pull</c><00:07:11.280><c> the</c>
+
+00:07:11.510 --> 00:07:11.520 align:start position:0%
+Go into your environment and pull the
+ 
+
+00:07:11.520 --> 00:07:14.070 align:start position:0%
+Go into your environment and pull the
+latest<00:07:11.840><c> version.</c><00:07:12.479><c> Don't</c><00:07:12.720><c> wait.</c><00:07:13.440><c> Step</c><00:07:13.759><c> two,</c>
+
+00:07:14.070 --> 00:07:14.080 align:start position:0%
+latest version. Don't wait. Step two,
+ 
+
+00:07:14.080 --> 00:07:15.990 align:start position:0%
+latest version. Don't wait. Step two,
+enable<00:07:14.560><c> OpenClaw</c><00:07:15.120><c> backup</c><00:07:15.520><c> in</c><00:07:15.840><c> your</c>
+
+00:07:15.990 --> 00:07:16.000 align:start position:0%
+enable OpenClaw backup in your
+ 
+
+00:07:16.000 --> 00:07:17.830 align:start position:0%
+enable OpenClaw backup in your
+deployment<00:07:16.560><c> config.</c><00:07:17.039><c> This</c><00:07:17.199><c> is</c><00:07:17.360><c> usually</c><00:07:17.599><c> a</c>
+
+00:07:17.830 --> 00:07:17.840 align:start position:0%
+deployment config. This is usually a
+ 
+
+00:07:17.840 --> 00:07:19.909 align:start position:0%
+deployment config. This is usually a
+oneline<00:07:18.319><c> addition.</c><00:07:19.039><c> Set</c><00:07:19.280><c> it</c><00:07:19.360><c> a</c><00:07:19.599><c> trigger</c>
+
+00:07:19.909 --> 00:07:19.919 align:start position:0%
+oneline addition. Set it a trigger
+ 
+
+00:07:19.919 --> 00:07:22.469 align:start position:0%
+oneline addition. Set it a trigger
+before<00:07:20.160><c> every</c><00:07:20.479><c> deploy.</c><00:07:21.039><c> Done.</c><00:07:21.599><c> Step</c><00:07:21.840><c> three,</c>
+
+00:07:22.469 --> 00:07:22.479 align:start position:0%
+before every deploy. Done. Step three,
+ 
+
+00:07:22.479 --> 00:07:24.550 align:start position:0%
+before every deploy. Done. Step three,
+if<00:07:22.720><c> you're</c><00:07:22.960><c> running</c><00:07:23.199><c> Telegram</c><00:07:23.680><c> integrations,</c>
+
+00:07:24.550 --> 00:07:24.560 align:start position:0%
+if you're running Telegram integrations,
+ 
+
+00:07:24.560 --> 00:07:26.550 align:start position:0%
+if you're running Telegram integrations,
+test<00:07:24.880><c> them</c><00:07:25.120><c> now.</c><00:07:25.440><c> Send</c><00:07:25.680><c> a</c><00:07:25.840><c> test</c><00:07:26.080><c> message</c><00:07:26.319><c> and</c>
+
+00:07:26.550 --> 00:07:26.560 align:start position:0%
+test them now. Send a test message and
+ 
+
+00:07:26.560 --> 00:07:28.550 align:start position:0%
+test them now. Send a test message and
+verify<00:07:26.880><c> you're</c><00:07:27.120><c> only</c><00:07:27.280><c> getting</c><00:07:27.599><c> one</c><00:07:27.840><c> response.</c>
+
+00:07:28.550 --> 00:07:28.560 align:start position:0%
+verify you're only getting one response.
+ 
+
+00:07:28.560 --> 00:07:30.469 align:start position:0%
+verify you're only getting one response.
+The<00:07:28.800><c> Duke</c><00:07:29.120><c> fix</c><00:07:29.360><c> should</c><00:07:29.520><c> be</c><00:07:29.680><c> automatic,</c><00:07:30.240><c> but</c>
+
+00:07:30.469 --> 00:07:30.479 align:start position:0%
+The Duke fix should be automatic, but
+ 
+
+00:07:30.479 --> 00:07:32.469 align:start position:0%
+The Duke fix should be automatic, but
+always<00:07:30.720><c> verify</c><00:07:31.199><c> after</c><00:07:31.440><c> an</c><00:07:31.680><c> update.</c><00:07:32.240><c> That's</c>
+
+00:07:32.469 --> 00:07:32.479 align:start position:0%
+always verify after an update. That's
+ 
+
+00:07:32.479 --> 00:07:34.230 align:start position:0%
+always verify after an update. That's
+step<00:07:32.720><c> four.</c><00:07:33.360><c> Review</c><00:07:33.680><c> your</c><00:07:33.919><c> agent</c>
+
+00:07:34.230 --> 00:07:34.240 align:start position:0%
+step four. Review your agent
+ 
+
+00:07:34.240 --> 00:07:35.990 align:start position:0%
+step four. Review your agent
+architecture<00:07:34.800><c> and</c><00:07:35.039><c> ask,</c><00:07:35.280><c> "Do</c><00:07:35.599><c> any</c><00:07:35.680><c> of</c><00:07:35.840><c> my</c>
+
+00:07:35.990 --> 00:07:36.000 align:start position:0%
+architecture and ask, "Do any of my
+ 
+
+00:07:36.000 --> 00:07:38.469 align:start position:0%
+architecture and ask, "Do any of my
+agents<00:07:36.800><c> need</c><00:07:37.039><c> to</c><00:07:37.280><c> handle</c><00:07:37.680><c> different</c><00:07:38.000><c> inputs</c>
+
+00:07:38.469 --> 00:07:38.479 align:start position:0%
+agents need to handle different inputs
+ 
+
+00:07:38.479 --> 00:07:40.790 align:start position:0%
+agents need to handle different inputs
+from<00:07:38.720><c> different</c><00:07:39.039><c> sources</c><00:07:39.440><c> differently?"</c><00:07:40.319><c> If</c>
+
+00:07:40.790 --> 00:07:40.800 align:start position:0%
+from different sources differently?" If
+ 
+
+00:07:40.800 --> 00:07:43.990 align:start position:0%
+from different sources differently?" If
+yes,<00:07:41.599><c> start</c><00:07:41.919><c> planning</c><00:07:42.400><c> how</c><00:07:42.639><c> to</c><00:07:42.880><c> implement</c><00:07:43.440><c> ACP</c>
+
+00:07:43.990 --> 00:07:44.000 align:start position:0%
+yes, start planning how to implement ACP
+ 
+
+00:07:44.000 --> 00:07:46.469 align:start position:0%
+yes, start planning how to implement ACP
+provenence.<00:07:44.800><c> Start</c><00:07:45.120><c> simple.</c><00:07:45.840><c> Map</c><00:07:46.080><c> out</c><00:07:46.319><c> who</c>
+
+00:07:46.469 --> 00:07:46.479 align:start position:0%
+provenence. Start simple. Map out who
+ 
+
+00:07:46.479 --> 00:07:48.309 align:start position:0%
+provenence. Start simple. Map out who
+the<00:07:46.639><c> sources</c><00:07:47.039><c> are,</c><00:07:47.360><c> what</c><00:07:47.680><c> permissions</c><00:07:48.080><c> each</c>
+
+00:07:48.309 --> 00:07:48.319 align:start position:0%
+the sources are, what permissions each
+ 
+
+00:07:48.319 --> 00:07:50.390 align:start position:0%
+the sources are, what permissions each
+source<00:07:48.639><c> should</c><00:07:48.880><c> have,</c><00:07:49.280><c> and</c><00:07:49.520><c> what</c><00:07:49.759><c> flows</c><00:07:50.160><c> they</c>
+
+00:07:50.390 --> 00:07:50.400 align:start position:0%
+source should have, and what flows they
+ 
+
+00:07:50.400 --> 00:07:53.029 align:start position:0%
+source should have, and what flows they
+trigger.<00:07:51.039><c> Step</c><00:07:51.280><c> five,</c><00:07:51.840><c> audit</c><00:07:52.240><c> your</c><00:07:52.479><c> security</c>
+
+00:07:53.029 --> 00:07:53.039 align:start position:0%
+trigger. Step five, audit your security
+ 
+
+00:07:53.039 --> 00:07:55.749 align:start position:0%
+trigger. Step five, audit your security
+settings.<00:07:53.919><c> Even</c><00:07:54.160><c> with</c><00:07:54.400><c> 12</c><00:07:54.720><c> patches</c><00:07:55.120><c> applied,</c>
+
+00:07:55.749 --> 00:07:55.759 align:start position:0%
+settings. Even with 12 patches applied,
+ 
+
+00:07:55.759 --> 00:07:57.670 align:start position:0%
+settings. Even with 12 patches applied,
+now<00:07:56.000><c> is</c><00:07:56.160><c> a</c><00:07:56.319><c> good</c><00:07:56.479><c> time</c><00:07:56.639><c> to</c><00:07:56.879><c> review</c><00:07:57.199><c> your</c><00:07:57.440><c> own</c>
+
+00:07:57.670 --> 00:07:57.680 align:start position:0%
+now is a good time to review your own
+ 
+
+00:07:57.680 --> 00:08:00.309 align:start position:0%
+now is a good time to review your own
+configurations.<00:07:58.879><c> Make</c><00:07:59.120><c> sure</c><00:07:59.280><c> API</c><00:07:59.759><c> keys</c><00:08:00.160><c> are</c>
+
+00:08:00.309 --> 00:08:00.319 align:start position:0%
+configurations. Make sure API keys are
+ 
+
+00:08:00.319 --> 00:08:02.309 align:start position:0%
+configurations. Make sure API keys are
+stored<00:08:00.639><c> properly.</c><00:08:01.199><c> Make</c><00:08:01.360><c> sure</c><00:08:01.520><c> your</c><00:08:01.759><c> agent</c>
+
+00:08:02.309 --> 00:08:02.319 align:start position:0%
+stored properly. Make sure your agent
+ 
+
+00:08:02.319 --> 00:08:04.629 align:start position:0%
+stored properly. Make sure your agent
+isn't<00:08:02.800><c> exposing</c><00:08:03.440><c> anything</c><00:08:03.759><c> it</c><00:08:04.080><c> shouldn't.</c>
+
+00:08:04.629 --> 00:08:04.639 align:start position:0%
+isn't exposing anything it shouldn't.
+ 
+
+00:08:04.639 --> 00:08:07.350 align:start position:0%
+isn't exposing anything it shouldn't.
+Now,<00:08:04.879><c> if</c><00:08:05.039><c> you</c><00:08:05.120><c> want</c><00:08:05.280><c> the</c><00:08:05.440><c> full</c><00:08:05.680><c> process,</c><00:08:06.319><c> SOPs,</c>
+
+00:08:07.350 --> 00:08:07.360 align:start position:0%
+Now, if you want the full process, SOPs,
+ 
+
+00:08:07.360 --> 00:08:09.749 align:start position:0%
+Now, if you want the full process, SOPs,
+and<00:08:07.599><c> over</c><00:08:07.919><c> a</c><00:08:08.000><c> 100</c><00:08:08.400><c> AI</c><00:08:08.800><c> use</c><00:08:09.039><c> cases</c><00:08:09.360><c> like</c><00:08:09.599><c> this</c>
+
+00:08:09.749 --> 00:08:09.759 align:start position:0%
+and over a 100 AI use cases like this
+ 
+
+00:08:09.759 --> 00:08:12.309 align:start position:0%
+and over a 100 AI use cases like this
+one,<00:08:10.240><c> join</c><00:08:10.479><c> the</c><00:08:10.720><c> AI</c><00:08:11.120><c> profit</c><00:08:11.520><c> boardroom.</c><00:08:12.160><c> Learn</c>
+
+00:08:12.309 --> 00:08:12.319 align:start position:0%
+one, join the AI profit boardroom. Learn
+ 
+
+00:08:12.319 --> 00:08:13.990 align:start position:0%
+one, join the AI profit boardroom. Learn
+how<00:08:12.560><c> to</c><00:08:12.720><c> automate</c><00:08:13.120><c> your</c><00:08:13.280><c> workflows</c><00:08:13.759><c> with</c>
+
+00:08:13.990 --> 00:08:14.000 align:start position:0%
+how to automate your workflows with
+ 
+
+00:08:14.000 --> 00:08:16.309 align:start position:0%
+how to automate your workflows with
+tools<00:08:14.400><c> like</c><00:08:14.720><c> OpenClaw</c><00:08:15.520><c> and</c><00:08:15.759><c> scale</c><00:08:16.080><c> your</c>
+
+00:08:16.309 --> 00:08:16.319 align:start position:0%
+tools like OpenClaw and scale your
+ 
+
+00:08:16.319 --> 00:08:18.550 align:start position:0%
+tools like OpenClaw and scale your
+business<00:08:16.720><c> with</c><00:08:17.039><c> AI</c><00:08:17.440><c> automation.</c><00:08:18.080><c> The</c><00:08:18.240><c> link</c><00:08:18.479><c> is</c>
+
+00:08:18.550 --> 00:08:18.560 align:start position:0%
+business with AI automation. The link is
+ 
+
+00:08:18.560 --> 00:08:20.550 align:start position:0%
+business with AI automation. The link is
+in<00:08:18.720><c> the</c><00:08:18.879><c> comments</c><00:08:19.199><c> and</c><00:08:19.360><c> description.</c><00:08:20.160><c> And</c><00:08:20.319><c> if</c>
+
+00:08:20.550 --> 00:08:20.560 align:start position:0%
+in the comments and description. And if
+ 
+
+00:08:20.560 --> 00:08:22.469 align:start position:0%
+in the comments and description. And if
+you<00:08:20.639><c> want</c><00:08:20.800><c> free</c><00:08:21.120><c> access</c><00:08:21.680><c> to</c><00:08:21.840><c> all</c><00:08:22.000><c> the</c><00:08:22.240><c> video</c>
+
+00:08:22.469 --> 00:08:22.479 align:start position:0%
+you want free access to all the video
+ 
+
+00:08:22.479 --> 00:08:23.909 align:start position:0%
+you want free access to all the video
+notes,<00:08:22.800><c> prompts,</c><00:08:23.120><c> and</c><00:08:23.280><c> a</c><00:08:23.440><c> community</c><00:08:23.680><c> of</c>
+
+00:08:23.909 --> 00:08:23.919 align:start position:0%
+notes, prompts, and a community of
+ 
+
+00:08:23.919 --> 00:08:25.749 align:start position:0%
+notes, prompts, and a community of
+45,000<00:08:24.639><c> members</c><00:08:24.960><c> who</c><00:08:25.120><c> are</c><00:08:25.199><c> crushing</c><00:08:25.440><c> it</c><00:08:25.599><c> with</c>
+
+00:08:25.749 --> 00:08:25.759 align:start position:0%
+45,000 members who are crushing it with
+ 
+
+00:08:25.759 --> 00:08:27.830 align:start position:0%
+45,000 members who are crushing it with
+AI,<00:08:26.240><c> join</c><00:08:26.479><c> the</c><00:08:26.639><c> AI</c><00:08:27.039><c> success</c><00:08:27.360><c> lab.</c><00:08:27.680><c> It's</c>
+
+00:08:27.830 --> 00:08:27.840 align:start position:0%
+AI, join the AI success lab. It's
+ 
+
+00:08:27.840 --> 00:08:29.749 align:start position:0%
+AI, join the AI success lab. It's
+completely<00:08:28.240><c> free.</c><00:08:28.800><c> Link</c><00:08:29.039><c> is</c><00:08:29.199><c> in</c><00:08:29.360><c> the</c><00:08:29.520><c> comments</c>
+
+00:08:29.749 --> 00:08:29.759 align:start position:0%
+completely free. Link is in the comments
+ 
+
+00:08:29.759 --> 00:08:31.350 align:start position:0%
+completely free. Link is in the comments
+and<00:08:29.919><c> description.</c><00:08:30.639><c> You'll</c><00:08:30.960><c> get</c><00:08:31.120><c> everything</c>
+
+00:08:31.350 --> 00:08:31.360 align:start position:0%
+and description. You'll get everything
+ 
+
+00:08:31.360 --> 00:08:34.959 align:start position:0%
+and description. You'll get everything
+from<00:08:31.599><c> this</c><00:08:31.840><c> video,</c><00:08:32.159><c> plus</c><00:08:32.399><c> way</c><00:08:32.640><c> more</c><00:08:32.800><c> in</c>
+

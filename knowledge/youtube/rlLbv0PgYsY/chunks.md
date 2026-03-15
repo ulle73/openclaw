@@ -1,0 +1,270 @@
+# Chunks
+
+## Chunk 01
+OpenClaw Plus Gemini Embedding 2 is
+insane and I'm about to show you why.
+Today I'm going to show you a brand new
+AI combo that nobody is talking about
+yet. It lets you build AI agents that
+remember everything, text, images,
+videos, even audio allin-one system.
+This is the easiest way to build smart
+AI assistants right now. And by the end
+of this video, you're going to know
+
+## Chunk 02
+exactly how to use it. So, let me break
+this down real simple. First, what is
+OpenClaw? OpenClaw is an open-source AI
+agent platform. Think of it like a brain
+for your AI. You can run it on your own
+computer or on a server. It lets you
+build agents that do stuff for you.
+Research, write code, run tools, manage
+workflows, talk to apps, all on
+autopilot. Here's what makes it wild. It
+
+## Chunk 03
+works with all the big AI models, GPT,
+Claude, Gemini, open source models, too.
+And it routes tasks between them
+automatically, so your agent picks the
+best model for each job. But wait, it
+gets better. OpenClaw plugs into apps
+WhatsApp. So, your AI agent lives inside
+real conversations. It's not stuck in
+some random dashboard nobody checks.
+It's right where you and your team
+
+## Chunk 04
+already talk. Hey, if we haven't met
+already, I'm the digital avatar of
+Julian Goldie, CEO of SEO agency Goldie
+Agency. Whilst he's helping clients get
+more leads and customers, I'm here to
+help you get the latest AI updates.
+Julian Goldie reads every single
+comment. So, make sure you drop a
+comment below and let us know what you
+think about this. Now, here's why
+
+## Chunk 05
+everyone is losing their minds over
+this. OpenClaw just hit over 200,000
+stars on GitHub in about a month. That
+is insane growth for an AI tool. People
+are paying attention and you should,
+too. The latest update added native
+support for Google's Gemini 3.1 Pro
+model. No manual setup. It's just built
+in. They also added better security,
+safer command execution, browser
+
+## Chunk 06
+protection, identity isolation, so it's
+way safer to run automations now. And
+they upgraded the sub agent system.
+Agents can now spawn other agents, run
+tasks in threads, keep track of
+conversations. This is multi-step
+automation at a whole new level. Okay,
+so that's openclaw. Now, let me show you
+the other half of this combo. And this
+is where it gets really exciting. Gemini
+
+## Chunk 07
+embedding 2 made by Google Deep Mind.
+And it is a gamecher. You're like, "Let
+me explain what embeddings are in the
+simplest way possible." Embeddings turn
+information into numbers. Those numbers
+let AI compare meaning, not just
+keywords, meaning. So, if you search for
+AI automation tools, the system doesn't
+just look for those exact words. It
+finds stuff about agents and workflows
+
+## Chunk 08
+and task automation, even if those words
+never show up, it understands what you
+actually mean. Now, most embedding
+systems only work with text. That's it,
+just words. Gemini embedding 2 is
+different. It can embed text, images,
+videos, audio, and documents all into
+one shared space. This is the first
+fully multimodal embedding model in the
+Gemini ecosystem. That's a big deal. Let
+
+## Chunk 09
+me give you a real example. Say you run
+boardroom. You've got hundreds of
+training videos, PDFs, voice notes from
+coaching calls, screenshots of results,
+chat logs from members. With Gemini
+embedding too, you can search all of
+that at once. Type in how to set up an
+AI automation workflow and it pulls up
+the right video clip, the right PDF, the
+right voice note, all from one search,
+
+## Chunk 10
+no tagging, no folders, just meaning it
+handles up to 8,192 tokens of text, up
+to six images at once, 120 seconds of
+video, native audio support, PDF
+support, over 100 languages. This is not
+a small upgrade. This is a whole new way
+to search and organize knowledge. Now,
+here's where it gets really powerful.
+When you combine OpenClaw with Gemini
+embedding 2, think of it like this. Open
+
+## Chunk 11
+Claw is the brain. Gemini embedding 2 is
+the memory. Together, they create AI
+agents that actually remember things.
+Here's how it works. You ask the agent a
+question. The agent uses Gemini
+Embedding 2 to search a vector database.
+It finds the most relevant memory. Then
+it uses that memory to complete the
+task. Simple as that. And if you want to
+rank number one and get more customers,
+
+## Chunk 12
+join the SEO Elite Circle. That's where
+we actually teach you how this works. No
+theory, no recycled tips, just the exact
+AI SEO systems we're using right now. We
+break everything down step by step with
+real workflows, weekly live support, and
+clear actions you can follow without
+guessing. If you're serious about
+scaling with SEO and AI, this is where
+you start. Hit the link in the
+
+## Chunk 13
+description and join the SEO elite
+circle today. And one more thing, if
+you're building all this AI content and
+these automations, but nobody is finding
+you online, you've got a traffic
+problem. That's where SEO comes in. If
+you want more leads, more traffic, and
+more customers finding you, my team can
+help you rank higher on Google, check
+the link in the comments and description
+
+## Chunk 14
+to order AI SEO online and let us handle
+your back links while you focus on
+growing your business. Okay, back to the
+good stuff. Let me show you what this
+actually looks like in practice. Inside
+OpenClaw, you can set up the memory
+system with a simple config. You set the
+provider to Gemini, the model to Gemini
+embedding 2 preview, and the output
+dimensionality to 372TU. That's it. Now
+
+## Chunk 15
+your agent searches its memory using
+Gemini embeddings. Every conversation,
+every document, every image searchable
+by meaning. Let me give you some real
+use cases. Number one, AI research
+assistant. Say you're running the AI
+top of every new AI tool, every update,
+every trend. Your agent reads PDFs,
+watches videos, scans blog posts. Then
+when a member asks a question, the agent
+
+## Chunk 16
+pulls the right answer from everything
+it's learned. Instant, accurate, no
+digging through files. Number two,
+autonomous coding agents. If your team
+builds AI automations, the agent
+remembers past bugs, fixes, and
+documentation. So, next time a similar
+problem comes up, he already knows the
+answer. Faster builds, fewer mistakes.
+Number three, business automation.
+
+## Chunk 17
+Imagine an agent that stores every
+customer chat, every voice recording,
+boardroom. A new lead comes in and asks
+a question. The agent searches all that
+history and gives a perfect answer.
+That's next level customer support
+without hiring more people. Number four,
+personal AI memory. Your agent remembers
+your notes, your images, your tasks,
+your recordings. It becomes your second
+
+## Chunk 18
+brain. You ask it anything and it finds
+the answer from your own life. Now,
+here's the big picture. Most AI systems
+only understand text. Gemini Embedding 2
+understands everything. Text plus images
+plus audio plus video plus documents all
+flow into one unified knowledge system.
+That's not just an upgrade. That's a
+whole new category of AI. Um, and OpenC
+Claw makes it easy to build on top of
+
+## Chunk 19
+this. You don't need to be a developer.
+huge, and the tools keep getting better
+every week. So, what does this mean for
+the future? I think we're looking at
+personal AI operating systems, agents
+that run your whole workflow, research,
+communication, content, support, all
+handled by AI that actually remembers
+what happened yesterday and last week
+and last month. This is not science
+
+## Chunk 20
+fiction. This is happening right now.
+OpenClaw Plus Gemini embedding 2 is the
+start of true AI memory systems and we
+are just getting started. And one more
+thing, if you're building all this AI
+content and these automations, but
+nobody is finding you online, you've got
+a traffic problem. That's where SEO
+comes in. If you want more leads, more
+traffic, and more customers finding you,
+
+## Chunk 21
+my team can help you rank higher on
+Google. Check the link in the comments
+and description to order AI SEO online
+and let us handle your back links while
+you focus on growing your business. And
+if you want to rank number one and get
+more customers, join the SEO elite
+circle. That's where we actually teach
+you how this works. No theory, no
+recycled tips, just the exact AI SEO
+
+## Chunk 22
+systems we're using right now. We break
+everything down step by step with real
+workflows, weekly live support, and
+clear actions you can follow without
+guessing. If you're serious about
+scaling with SEO and AI, this is where
+you start. Hit the link in the
+description and join the SEO elite
+circle today. All right, thanks for
+watching and if you get value from this
+
+## Chunk 23
+and you want more updates like this, hit
+the like and subscribe button and I'll
+see you in the next

@@ -1,0 +1,26 @@
+company:
+  name: "Customer Name AB"
+  tagline: "Short brand promise"
+  description: >
+    Describe the business, offer, audience, and why customers should care.
+
+  website: "https://www.example.se"
+  industry: "Industry"
+
+  target_audience:
+    - "Audience segment 1"
+    - "Audience segment 2"
+
+  tone_of_voice:
+    style: "professional and clear"
+    formality: "semi-formell"
+    language_style: "svenska"
+    avoid: "generic claims, hype without proof"
+
+  cta_preference:
+    primary: "Book a call"
+    secondary: "Read more"
+
+  social_handles:
+    instagram: "@example"
+    linkedin: "linkedin.com/company/example"

@@ -1,0 +1,236 @@
+# Clean Transcript
+
+Perplexity.
+Personal computer update is insane.
+Perplexity just dropped something that
+changes everything about how AI works on
+your computer. This isn't another
+chatbot. This isn't another browser
+tool. This is an AI that runs 24/7 on
+your machine, knows your files, your
+apps, your history, and works for you
+even when you're asleep. It's called
+personal computer. And by the end of
+this video, you're going to see exactly
+why this is one of the biggest AI drops
+of the year. Now, let's get into this
+because it is wild. So, what exactly is
+Perplexity Personal Computer? Here's the
+simple version. You know how AI tools
+right now, you open them, you ask a
+question, they answer, and then they
+forget everything the second you close
+the tab. Personal computer is the
+opposite of that. It's always on, it's
+always running, it lives on a Mac mini
+that sits on your desk or in your home,
+and it knows everything about how you
+work, your files, your folders, your
+apps, your browser, your calendar, all
+of it. Think of it like hiring a
+full-time assistant, but instead of
+paying them a salary, they just run
+quietly in the background 24 hours a
+day, 7 days a week on a small computer
+the size of a book. That's personal
+computer. Now, here's where it gets
+interesting, and I want to make sure you
+understand why this matters so much.
+Hey, if we haven't met already, I'm the
+digital avatar of Julian Goldie, CEO of
+SEO agency Goldie Agency. Whilst he's
+helping clients get more leads and
+customers, I'm here to help you get the
+latest AI updates. Julian Goldie reads
+every comment. So, make sure you comment
+below. Right now, most AI tools have
+what's called a session. You open the
+tool, you work, you close it, and the AI
+has zero memory of what just happened.
+Every single time you come back, you're
+starting from scratch. You're
+reexplaining your business. You're
+re-uploading your files. You're re-iving
+context. That is a massive time killer.
+personal computer kills that problem
+completely because it's running all the
+time. It builds context over time. It
+learns your workflow. It understands
+what you're working on and it can take
+action, not just answer questions. We're
+going to get into exactly what that
+means in a second. But stick with me
+because this next part is where it gets
+really powerful. If you want to learn
+how to automate your business using
+tools like Plexity personal computer and
+build the kind of systems that run 247
+boardroom is where that happens. Links
+in the comment and description. Okay, so
+let's talk about what personal computer
+actually does. First thing, it works
+across your files and apps. This isn't
+just a web search tool. It can see your
+documents. It can interact with your
+apps. So, if you got a folder full of
+client files, notes, SOPs, spreadsheets,
+personal computer can read all of that
+and use it to help you. For something
+huge. Imagine you've got 50 pieces of
+content, landing page copy, email
+scripts, all sitting in folders on your
+Mac. Instead of digging through
+everything manually, you just ask
+personal computer, find the best
+performing landing page copy we've used,
+and write me a new version based on
+that. Done. instantly. No tab switching,
+no copy pasting, no wasting 45 minutes
+on a task that should take two. Second
+thing, it uses Perplexity's AI with
+real-time web search baked in. So, it's
+not just working with your local files.
+It can also pull live information from
+the internet at the same time. That
+means if you're working on a content
+strategy and you want to know what's
+trending in AI automation right now, it
+can combine your internal documents with
+live search results all in one answer.
+That's something no other local AI tool
+does this cleanly right now. Third thing
+I see, and this one is big, I it's
+designed to be private and secure. One
+of the biggest objections people have to
+using AI with their real business files
+is, is this safe? Who's seeing my data?
+With personal computer, everything runs
+locally on your Mac Mini. Your files
+don't get uploaded to some random cloud
+server. It's your machine, your data,
+your control. For anyone running a
+business, managing client files, or
+matters a lot. Now, let me walk you
+through a real world example of how
+you'd actually use this for growing a
+Let's say you're trying to grow your
+stronger onboarding flow for new
+members. Right now, without personal
+computer, here's what you do. You'd open
+your Google Drive and dig through old
+files, open your email tool, open your
+AI chatbot, switch between tabs, copy
+paste everything, spend 30 minutes just
+pulling the information together before
+you even start writing with personal
+computer. Here's what you do instead.
+You say, "Look at our current onboarding
+emails. Then search for what top online
+communities are doing for on board units
+in 2025. Write me a new five-step
+boardroom that gets new members active
+in the first 48 hours. And it does it
+right there. Pulling from your files and
+the web. No switching, no wasting time.
+That's the kind of AI leverage that
+actually moves the needle. Now, here's
+something I want you to notice about
+what Perplexity is doing here
+strategically. Every other big AI
+company, Open AI, Google, Anthropic,
+they're all building cloud first
+products. Their AI lives on their
+servers. You connect to it, you use it,
+you disconnect. Perplexity is going a
+different direction. They're saying,
+"What if the AI lived with you? What if
+it was local, personal, persistent?"
+That is a completely different
+philosophy, and it's one that a lot of
+people have been waiting for. Because
+here's the truth. The most powerful
+version of AI isn't one that answers
+questions. Is one that knows you,
+understands your workflow, and takes
+action without you having to explain
+everything from the beginning every
+single time. Personal computer is the
+first real attempt at making that happen
+at a consumer level. And look, the this
+is still early. There are things we
+don't fully know yet about exactly how
+far the automation capabilities go, how
+it handles complex multi-step tasks, and
+how the pricing plays out over time. But
+the direction is undeniable. We are
+moving from AI as a tool you open to AI
+as a system that runs your work for you.
+And the people who understand that shift
+right now and start building their
+workflows around it are going to have an
+enormous advantage over everyone who's
+still treating AI like a fancy search
+engine. Now, here's something I want to
+leave you with that connects all of
+this. The biggest unlock with AI,
+whether it's personal computer or any
+other tool, isn't the technology itself.
+It's knowing what to do with it. Because
+you can have the most powerful AI system
+on the planet sitting on your desk and
+if you don't know how to prompt it right
+or structure your workflows around it or
+use it to actually grow your business,
+it's just an expensive box. That's why
+deep on exactly this stuff. Not just
+here's a cool AI tool, but here's how
+you actually deploy it to get more
+customers, build better systems, and
+scale your business with AI automation.
+All right, let's bring it all together.
+perplexity.
+Personal computer is a continuously
+running AI that lives on a Mac Mini,
+works across your files and apps, uses
+real-time web search, and is built for
+privacy. It's always on. It knows your
+workflow, and it can take action for you
+around the clock. This is not a minor
+update. This is a different category of
+AI product. The sessionbased AI era is
+ending. The persistent personal AI era
+is starting. And the best thing you can
+do right now is start learning how to
+build around it before everyone else
+catches up. Look, here's the bottom
+line. AI is not slowing down. It's not
+plateauing. Every single month, there's
+something new that makes the previous
+version look basic. Perplexity. Personal
+computer is proof of that. We went from
+AI that answers questions to AI that
+lives on your machine, knows your work,
+and runs for you around the clock. That
+is a massive leap. And the gap between
+people who are adapting to these tools
+right now and people who are ignoring
+them is getting bigger every single
+week. So don't sit on the sidelines.
+Start testing. Start building because
+the people who figure this out early are
+the ones who going to have the biggest
+advantage when everyone else finally
+catches up. Now if you want the full
+process SOPs and over a 100 AI use cases
+boardroom. Learn how to automate your
+workflows with tools like Perplexity,
+personal computer, and scale your
+business with AI automation. The link is
+in the comments and description. And if
+you want free access to all the video
+45,000 members who are crushing it with
+AI, join the AI success lab. It's
+completely free. Link is in the comments
+and description. And you'll get
+everything from this video, plus way
+more in

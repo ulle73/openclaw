@@ -1,0 +1,157 @@
+{
+  "id": "V_otsxw2Sw0",
+  "title": "New FREE GLM-4.7 Flash Claude Opus 4.5 is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260314",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nRun Claude Opus Locally for FREE! GLM 4.7 Setup Guide\n\nDiscover how to run a powerful distilled version of Claude Opus on your own computer using GLM 4.7 and LM Studio. This guide explains knowledge distillation and provides a framework for choosing between local and cloud AI models for your business.\n\n00:00 - Intro: Claude Opus locally for free\n01:04 - Setting up LM Studio\n02:18 - Downloading GLM 4.7 Flash\n02:43 - How Knowledge Distillation works\n04:13 - Running the model live\n04:44 - The Distilled Edge Framework\n06:38 - Advanced Local AI Training",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "glm",
+    "opus-4",
+    "openclaw"
+  ],
+  "topic_tags": [
+    "glm",
+    "opus-4",
+    "openclaw",
+    "workflow-automation",
+    "knowledge-management",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "claude__glm__opus-4",
+  "related_video_ids": [
+    "hT0bbzksQyI",
+    "uHjwDSx4f48",
+    "rlLbv0PgYsY",
+    "ptqHcTAwmlk",
+    "_s7tHRZUmdM"
+  ],
+  "related_videos": [
+    {
+      "videoId": "hT0bbzksQyI",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/hT0bbzksQyI/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "uHjwDSx4f48",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/uHjwDSx4f48/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "rlLbv0PgYsY",
+      "title": "OpenClaw + Gemini Embedding 2 is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rlLbv0PgYsY/summary.md",
+      "topic_cluster_key": "gemini__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "_s7tHRZUmdM",
+      "title": "NEW Google Gemini Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/_s7tHRZUmdM/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "hT0bbzksQyI",
+      "uHjwDSx4f48",
+      "rlLbv0PgYsY",
+      "ptqHcTAwmlk",
+      "_s7tHRZUmdM"
+    ]
+  },
+  "updated_at": "2026-03-14T17:30:11Z"
+}

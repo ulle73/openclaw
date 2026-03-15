@@ -1,0 +1,156 @@
+{
+  "id": "HIg16LDTY7s",
+  "title": "NEW Perplexity Computer Update DESTROYS OpenClaw?",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260314",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nPerplexity Computer vs OpenClaw: 4 New Updates You Need!\n\nPerplexity just released four massive updates to its AI computer agent, directly challenging OpenClaw's dominance. We test the new mobile app, the Neatron 3 Super model, and the upcoming local \"Personal Computer\" feature to see which tool wins. Learn how to automate your business and choose the right AI agent for your workflow.\n\n00:00 - Intro: Perplexity vs OpenClaw\n01:15 - Update 1: Perplexity on Mobile\n02:26 - What is OpenClaw?\n03:10 - Update 2: New Pro Plan Access\n03:51 - Update 3: Nvidia Neatron 3 Super\n06:08 - Update 4: The Personal Computer\n07:53 - Final Verdict: Which is Better?\n08:47 - AI Automation Resources",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "perplexity-computer",
+    "claude"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "perplexity-computer",
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "proactive-assistant",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "openclaw__perplexity-computer",
+  "related_video_ids": [
+    "3o4YglxpcXE",
+    "Aq21uBOl9qE",
+    "FVATW3KidnQ",
+    "iBVMutY4Ot0",
+    "TiB48jLnHBs"
+  ],
+  "related_videos": [
+    {
+      "videoId": "3o4YglxpcXE",
+      "title": "New Perplexity Computer Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/3o4YglxpcXE/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "openclaw",
+        "perplexity-computer",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 17
+    },
+    {
+      "videoId": "Aq21uBOl9qE",
+      "title": "Perplexity Computer + Claude Code Subagents: Automate ANYTHING!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Aq21uBOl9qE/summary.md",
+      "topic_cluster_key": "automate__claude__perplexity-computer",
+      "shared_tags": [
+        "openclaw",
+        "perplexity-computer",
+        "agent-flow",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "FVATW3KidnQ",
+      "title": "NEW ChatGPT 5.5? Hunter + Healer Alpha is INSANE (FREE!)",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/FVATW3KidnQ/summary.md",
+      "topic_cluster_key": "chatgpt__healer-alpha",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 14
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "perplexity-computer",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "TiB48jLnHBs",
+      "title": "AionUI + OpenClaw + Claude Code is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/TiB48jLnHBs/summary.md",
+      "topic_cluster_key": "aionui__claude__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "proactive-assistant"
+      ],
+      "cluster_match": false,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "3o4YglxpcXE",
+      "Aq21uBOl9qE",
+      "FVATW3KidnQ",
+      "iBVMutY4Ot0",
+      "TiB48jLnHBs"
+    ]
+  },
+  "updated_at": "2026-03-14T15:02:33Z"
+}

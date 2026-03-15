@@ -1,0 +1,153 @@
+{
+  "id": "tn1DH1Ul1HA",
+  "title": "NEW Perplexity Computer Update is INSANE! (Claude Code + GitHub CLI)",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260311",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nPerplexity Computer Update: The Rise of AI Workers\n\nPerplexity just dropped a massive update integrating Claude Code and GitHub CLI, transforming their AI into an autonomous developer. Discover how this new system can fix bugs and submit pull requests entirely on its own, marking the shift from simple chatbots to powerful AI agents.\n\n00:00 - Intro: The Insane New Update\n00:58 - Chatbots vs. AI Agents\n01:46 - Claude Code & GitHub CLI Integration\n02:22 - Demo: AI Fixing Bugs Automatically\n03:42 - From AI Tools to AI Workers\n05:11 - Real-World Use Cases\n06:04 - Safety & Security Risks\n06:41 - How to Get Started",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "perplexity-computer",
+    "github-cli",
+    "chatgpt"
+  ],
+  "topic_tags": [
+    "perplexity-computer",
+    "github-cli",
+    "workflow-automation",
+    "onboarding-training",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "claude__github-cli__perplexity-computer",
+  "related_video_ids": [
+    "iBVMutY4Ot0",
+    "Aq21uBOl9qE",
+    "xAw3IZgX7Tc",
+    "rF8VXVn46co",
+    "pSQE1SsGfSQ"
+  ],
+  "related_videos": [
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "perplexity-computer",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "Aq21uBOl9qE",
+      "title": "Perplexity Computer + Claude Code Subagents: Automate ANYTHING!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Aq21uBOl9qE/summary.md",
+      "topic_cluster_key": "automate__claude__perplexity-computer",
+      "shared_tags": [
+        "perplexity-computer",
+        "agent-flow",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "rF8VXVn46co",
+      "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rF8VXVn46co/summary.md",
+      "topic_cluster_key": "1-flash-lite__automate__gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "iBVMutY4Ot0",
+      "Aq21uBOl9qE",
+      "xAw3IZgX7Tc",
+      "rF8VXVn46co",
+      "pSQE1SsGfSQ"
+    ]
+  },
+  "updated_at": "2026-03-11T01:30:13Z"
+}

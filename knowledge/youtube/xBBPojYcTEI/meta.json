@@ -1,0 +1,154 @@
+{
+  "id": "xBBPojYcTEI",
+  "title": "Perplexity Computer + Claude = WILD",
+  "channel": "Jack Roberts",
+  "upload_date": "20260314",
+  "description": "📈 ALL Systems: https://bit.ly/4kol0y5\n🧑‍💻 Perplexity Computer: https://bit.ly/40vZLSc\n🎙️ My Goofy pod: https://bit.ly/46nLQ3U",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "perplexity-computer"
+  ],
+  "topic_tags": [
+    "perplexity-computer",
+    "workflow-automation",
+    "agent-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "product-opportunity",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "claude__perplexity-computer",
+  "related_video_ids": [
+    "iBVMutY4Ot0",
+    "3o4YglxpcXE",
+    "tn1DH1Ul1HA",
+    "HIg16LDTY7s",
+    "1LU_AHdrfNU"
+  ],
+  "related_videos": [
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "perplexity-computer",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "3o4YglxpcXE",
+      "title": "New Perplexity Computer Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/3o4YglxpcXE/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "perplexity-computer",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "tn1DH1Ul1HA",
+      "title": "NEW Perplexity Computer Update is INSANE! (Claude Code + GitHub CLI)",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/tn1DH1Ul1HA/summary.md",
+      "topic_cluster_key": "claude__github-cli__perplexity-computer",
+      "shared_tags": [
+        "perplexity-computer",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "HIg16LDTY7s",
+      "title": "NEW Perplexity Computer Update DESTROYS OpenClaw?",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/HIg16LDTY7s/summary.md",
+      "topic_cluster_key": "openclaw__perplexity-computer",
+      "shared_tags": [
+        "perplexity-computer",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "1LU_AHdrfNU",
+      "title": "NEW Gemini Embedding 2 Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/1LU_AHdrfNU/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 10
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "iBVMutY4Ot0",
+      "3o4YglxpcXE",
+      "tn1DH1Ul1HA",
+      "HIg16LDTY7s",
+      "1LU_AHdrfNU"
+    ]
+  },
+  "updated_at": "2026-03-14T21:30:12Z"
+}

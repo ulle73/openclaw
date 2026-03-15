@@ -1,0 +1,153 @@
+{
+  "id": "kQqR8BOg4Lo",
+  "title": "NEW Google Gemma 4B Update!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260311",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nGoogle Gemma 4B: Private Offline AI Translation in Your Browser\n\nGoogle just released Translate Gemma 4B, a powerful new AI model that runs 55 languages entirely within your browser without an internet connection. This update represents a massive shift toward local AI, prioritizing user privacy and lightning-fast performance without cloud servers.\n\n00:00 - Intro: Google's New AI Model\n00:49 - The End of Cloud-Based Translation\n01:41 - Gemma 4B vs. 12B and 27B Models\n02:32 - WebGPU and Browser Speed\n03:11 - Real-World Offline Use Cases\n04:24 - Translating Text Inside Images\n04:56 - How Google Trained Gemma 4B\n05:48 - The Rise of Local AI Trends",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "gemma",
+    "gemini"
+  ],
+  "topic_tags": [
+    "gemma",
+    "workflow-automation",
+    "onboarding-training",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "gemma",
+  "related_video_ids": [
+    "VBEvVu5EI0c",
+    "NiTOlYmthNg",
+    "KyXUJnYjjAo",
+    "98bGqof0dUI",
+    "xAw3IZgX7Tc"
+  ],
+  "related_videos": [
+    {
+      "videoId": "VBEvVu5EI0c",
+      "title": "NEW OpenAI Model Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/VBEvVu5EI0c/summary.md",
+      "topic_cluster_key": "openai-model",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "NiTOlYmthNg",
+      "title": "OpenClaw New Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NiTOlYmthNg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "KyXUJnYjjAo",
+      "title": "New OpenClaw Discord Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KyXUJnYjjAo/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "98bGqof0dUI",
+      "title": "NEW Gemini CLI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/98bGqof0dUI/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 9
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "VBEvVu5EI0c",
+      "NiTOlYmthNg",
+      "KyXUJnYjjAo",
+      "98bGqof0dUI",
+      "xAw3IZgX7Tc"
+    ]
+  },
+  "updated_at": "2026-03-11T23:02:51Z"
+}

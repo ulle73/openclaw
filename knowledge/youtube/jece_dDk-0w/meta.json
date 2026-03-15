@@ -1,0 +1,157 @@
+{
+  "id": "jece_dDk-0w",
+  "title": "New FREE OpenClaw + NotebookLM Update",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260311",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nConnect Notebook LM to OpenClaw: The Ultimate Free AI Setup\n\nLearn how to integrate Notebook LM directly into OpenClaw to automate research, podcasts, and video content for free. This guide covers the setup process and the Lobster Brain framework for building a self-improving content engine.\n\n00:00 - Intro: Notebook LM & OpenClaw\n00:51 - How to Install the Integration\n01:39 - Generating Content with AI Agents\n03:24 - The Lobster Brain Content Framework\n06:48 - Auto-Generating Podcasts & Infographics\n10:36 - Why You Don't Need to Code\n12:11 - Summary & 30-Day Automation Plan",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "notebooklm",
+    "openclaw",
+    "claude",
+    "telegram"
+  ],
+  "topic_tags": [
+    "notebooklm",
+    "openclaw",
+    "telegram",
+    "ai-video-generation",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution"
+  ],
+  "topic_cluster_key": "notebooklm__openclaw",
+  "related_video_ids": [
+    "ptqHcTAwmlk",
+    "9lbwgk29Db4",
+    "P2LIFtrRr2U",
+    "OV5eK91YY68",
+    "5dy2ahf_EKQ"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "P2LIFtrRr2U",
+      "title": "Hermes Agent: New FREE OpenClaw Alternative!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/P2LIFtrRr2U/summary.md",
+      "topic_cluster_key": "hermes-agent__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 14
+    },
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 14
+    },
+    {
+      "videoId": "5dy2ahf_EKQ",
+      "title": "New FREE OpenClaw Update: GPT 5.4 + Gemini 3.1 Flash-Lite",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/5dy2ahf_EKQ/summary.md",
+      "topic_cluster_key": "gemini__gpt-5__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "knowledge-management",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "ptqHcTAwmlk",
+      "9lbwgk29Db4",
+      "P2LIFtrRr2U",
+      "OV5eK91YY68",
+      "5dy2ahf_EKQ"
+    ]
+  },
+  "updated_at": "2026-03-11T11:02:32Z"
+}

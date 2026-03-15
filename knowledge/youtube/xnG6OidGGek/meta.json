@@ -1,0 +1,154 @@
+{
+  "id": "xnG6OidGGek",
+  "title": "Mercury  + ChatGPT 5.4 is INSANE! 🤯",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260313",
+  "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\n10x Your AI Workflow: Mercury 2 + GPT 5.4 Integration Guide\n\nLearn how to combine Mercury 2's lightning-fast execution with GPT 5.4's advanced reasoning to build autonomous AI systems. This video breaks down the AI worker architecture and provides five practical workflows to automate your content and marketing instantly.\n\n00:00 - Intro\n01:21 - Mercury 2: 1,000 Tokens Per Second\n02:02 - GPT 5.4: The Intelligence Layer\n02:23 - The AI Worker Architecture\n03:26 - Workflow: Automated Content Engines\n04:31 - Workflow: Rapid Marketing Campaigns\n06:08 - Multi-Model Automation Pipelines\n07:23 - Building Your AI Systems",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "chatgpt"
+  ],
+  "topic_tags": [
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
+  ],
+  "topic_cluster_key": "chatgpt",
+  "related_video_ids": [
+    "IWKOcumdMUE",
+    "pSQE1SsGfSQ",
+    "iBVMutY4Ot0",
+    "hllhkLGWA34",
+    "fnLXErf-plM"
+  ],
+  "related_videos": [
+    {
+      "videoId": "IWKOcumdMUE",
+      "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/IWKOcumdMUE/summary.md",
+      "topic_cluster_key": "chatgpt",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": true,
+      "score": 12
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "hllhkLGWA34",
+      "title": "ChatGPT 5.4 + Claude Opus 4.6 is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/hllhkLGWA34/summary.md",
+      "topic_cluster_key": "chatgpt__claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "IWKOcumdMUE",
+      "pSQE1SsGfSQ",
+      "iBVMutY4Ot0",
+      "hllhkLGWA34",
+      "fnLXErf-plM"
+    ]
+  },
+  "updated_at": "2026-03-13T09:30:17Z"
+}

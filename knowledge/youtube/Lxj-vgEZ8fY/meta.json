@@ -1,0 +1,150 @@
+{
+  "id": "Lxj-vgEZ8fY",
+  "title": "NEW ChatGPT Interactive Visuals Update is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260312",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nChatGPT's New Interactive Visuals are INSANE! (How to Use Them)\n\nOpenAI just transformed ChatGPT into a powerful interactive learning lab with live sliders, dynamic graphs, and real-time animations. Discover the secret prompts that unlock these simulations and see how this update is changing education forever.\n\n00:00 - Intro: The Big Update\n00:23 - Hands-on With Interactive Visuals\n01:47 - 5 Prompts to Unlock Hidden Labs\n02:52 - Why Active Learning Matters\n04:52 - How the AI Generates Experiences\n05:58 - The Future of AI Exploration\n07:22 - Stay Ahead with AI Automation",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "chatgpt",
+    "visuals"
+  ],
+  "topic_tags": [
+    "visuals",
+    "workflow-automation",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "chatgpt__visuals",
+  "related_video_ids": [
+    "xAw3IZgX7Tc",
+    "s2HalzQZ1MQ",
+    "rF8VXVn46co",
+    "qb90PPbAWz4",
+    "ptqHcTAwmlk"
+  ],
+  "related_videos": [
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "rF8VXVn46co",
+      "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rF8VXVn46co/summary.md",
+      "topic_cluster_key": "1-flash-lite__automate__gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "qb90PPbAWz4",
+      "title": "Karpathy’s \"autoresearch\" explained in 24 minutes",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/qb90PPbAWz4/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "xAw3IZgX7Tc",
+      "s2HalzQZ1MQ",
+      "rF8VXVn46co",
+      "qb90PPbAWz4",
+      "ptqHcTAwmlk"
+    ]
+  },
+  "updated_at": "2026-03-12T09:30:10Z"
+}

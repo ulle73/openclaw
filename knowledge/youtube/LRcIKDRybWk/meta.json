@@ -1,0 +1,156 @@
+{
+  "id": "LRcIKDRybWk",
+  "title": "Build and Automate ANYTHING with Claude Code, Here's How!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260314",
+  "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nClaude Code Tutorial: Build & Automate Anything with AI Voice\n\nLearn how to use Claude Code's massive new updates, including voice-activated coding and multi-agent AI code reviews. This step-by-step guide shows you how to build, test, and deploy full automation systems using only natural language.\n\n00:00 - Intro to Claude Code Updates\n01:15 - New Voice Mode Feature\n01:50 - AI-Powered Code Review\n02:26 - Advanced Security Preview\n02:53 - Step-by-Step Automation Guide\n04:04 - Important Safety Tips\n05:11 - Real-World Build Examples\n06:32 - Claude Code vs. Copilot & Cursor",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "automate",
+    "openclaw"
+  ],
+  "topic_tags": [
+    "automate",
+    "openclaw",
+    "workflow-automation",
+    "agent-automation",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "product-opportunity"
+  ],
+  "topic_cluster_key": "automate__claude",
+  "related_video_ids": [
+    "Aq21uBOl9qE",
+    "rF8VXVn46co",
+    "ptqHcTAwmlk",
+    "hT0bbzksQyI",
+    "_s7tHRZUmdM"
+  ],
+  "related_videos": [
+    {
+      "videoId": "Aq21uBOl9qE",
+      "title": "Perplexity Computer + Claude Code Subagents: Automate ANYTHING!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Aq21uBOl9qE/summary.md",
+      "topic_cluster_key": "automate__claude__perplexity-computer",
+      "shared_tags": [
+        "automate",
+        "openclaw",
+        "agent-flow",
+        "marketing-explainers",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 14
+    },
+    {
+      "videoId": "rF8VXVn46co",
+      "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rF8VXVn46co/summary.md",
+      "topic_cluster_key": "1-flash-lite__automate__gemini",
+      "shared_tags": [
+        "automate",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "hT0bbzksQyI",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/hT0bbzksQyI/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "_s7tHRZUmdM",
+      "title": "NEW Google Gemini Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/_s7tHRZUmdM/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "Aq21uBOl9qE",
+      "rF8VXVn46co",
+      "ptqHcTAwmlk",
+      "hT0bbzksQyI",
+      "_s7tHRZUmdM"
+    ]
+  },
+  "updated_at": "2026-03-14T07:02:28Z"
+}

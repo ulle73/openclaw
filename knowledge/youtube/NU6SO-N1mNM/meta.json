@@ -1,0 +1,152 @@
+{
+  "id": "NU6SO-N1mNM",
+  "title": "ChatGPT's New Upgrades Are INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260311",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nChatGPT Just Changed Everything: GPT 5.4 and New Windows App\n\nDiscover the massive new ChatGPT upgrades including the standalone Codeex app for Windows and the game-changing Skills automation feature. Learn how GPT 5.3 and 5.4 are revolutionizing business workflows with advanced reasoning and lightning-fast responses.\n\n00:00 - Intro: Massive ChatGPT Upgrades\n00:42 - Codeex: The New Windows AI App\n02:17 - Skills: Reusable Workflows & Automation\n03:50 - GPT 5.3 Instant: Major Accuracy Boost\n04:48 - GPT 5.4: Advanced Reasoning for Business\n05:49 - The Growing AI Gap: Stay Ahead\n07:09 - Take Action: How to Use These Now",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "chatgpt",
+    "upgrades",
+    "claude"
+  ],
+  "topic_tags": [
+    "upgrades",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "chatgpt__upgrades",
+  "related_video_ids": [
+    "xAw3IZgX7Tc",
+    "rF8VXVn46co",
+    "ptqHcTAwmlk",
+    "pSQE1SsGfSQ",
+    "iBVMutY4Ot0"
+  ],
+  "related_videos": [
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "rF8VXVn46co",
+      "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rF8VXVn46co/summary.md",
+      "topic_cluster_key": "1-flash-lite__automate__gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 9
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "xAw3IZgX7Tc",
+      "rF8VXVn46co",
+      "ptqHcTAwmlk",
+      "pSQE1SsGfSQ",
+      "iBVMutY4Ot0"
+    ]
+  },
+  "updated_at": "2026-03-11T17:30:10Z"
+}

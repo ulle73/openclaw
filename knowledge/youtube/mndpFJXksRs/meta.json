@@ -1,0 +1,155 @@
+{
+  "id": "mndpFJXksRs",
+  "title": "OpenClaw + Paperclip Is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260314",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nBuild a Full AI Company With ZERO Employees (OpenClaw + Paperclip)\n\nLearn how to build a fully autonomous AI company using the powerful combination of OpenClaw and Paperclip. This guide walks you through setting up an AI CEO, departments, and agents that think, plan, and execute tasks on autopilot. Discover the future of business scaling where you manage an entire org chart of agents running locally on your own hardware.\n\n00:00 - Intro: Building an AI Company\n00:47 - What is OpenClaw?\n01:45 - AI Memory & Persistence\n02:25 - Organizing with Paperclip\n03:32 - How to Connect the Tools\n04:13 - Real-World Business Use Case\n06:05 - The March 2026 Update\n07:14 - Scaling Without Human Limits",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "paperclip",
+    "claude",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "paperclip",
+    "telegram",
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "openclaw__paperclip",
+  "related_video_ids": [
+    "49_WitY66yM",
+    "9lbwgk29Db4",
+    "ptqHcTAwmlk",
+    "P2LIFtrRr2U",
+    "OV5eK91YY68"
+  ],
+  "related_videos": [
+    {
+      "videoId": "49_WitY66yM",
+      "title": "OpenClaw + PaperClip is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/49_WitY66yM/summary.md",
+      "topic_cluster_key": "openclaw__paperclip",
+      "shared_tags": [
+        "openclaw",
+        "paperclip",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 21
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 17
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 16
+    },
+    {
+      "videoId": "P2LIFtrRr2U",
+      "title": "Hermes Agent: New FREE OpenClaw Alternative!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/P2LIFtrRr2U/summary.md",
+      "topic_cluster_key": "hermes-agent__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 16
+    },
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 16
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "49_WitY66yM",
+      "9lbwgk29Db4",
+      "ptqHcTAwmlk",
+      "P2LIFtrRr2U",
+      "OV5eK91YY68"
+    ]
+  },
+  "updated_at": "2026-03-14T21:30:10Z"
+}

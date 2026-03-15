@@ -1,0 +1,155 @@
+{
+  "id": "SQEW0-X1cQw",
+  "title": "New FREE Nvidia Nemotron 3 Super + Ollama",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260312",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nNvidia Nemotron 3 Super: Run This Powerful AI Locally for Free!\n\nLearn how to install and run Nvidia's massive Nemotron 3 Super model locally using Ollama in under five minutes. This guide covers the 120B parameter architecture, hardware requirements, and a live coding demo to build a functional landing page.\n\n00:00 - Intro to Nemotron 3 Super\n00:29 - Benchmarks and Architecture\n01:43 - Local Hardware Requirements\n02:16 - How to Install with Ollama\n03:55 - LM Studio and Nano Alternatives\n04:46 - Live Demo: Building a Website\n06:12 - The Super Agent Stack Framework\n08:14 - AI Profit Boardroom and Roadmap",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "nvidia",
+    "nemotron-3-super",
+    "openclaw",
+    "claude"
+  ],
+  "topic_tags": [
+    "nvidia",
+    "nemotron-3-super",
+    "openclaw",
+    "workflow-automation",
+    "knowledge-management",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "nemotron-3-super__nvidia",
+  "related_video_ids": [
+    "OV5eK91YY68",
+    "L-CanI8zDWI",
+    "FVATW3KidnQ",
+    "9lbwgk29Db4",
+    "49_WitY66yM"
+  ],
+  "related_videos": [
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "L-CanI8zDWI",
+      "title": "Google AI’s New Pomelli Update Is Insane!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/L-CanI8zDWI/summary.md",
+      "topic_cluster_key": "pomelli",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "FVATW3KidnQ",
+      "title": "NEW ChatGPT 5.5? Hunter + Healer Alpha is INSANE (FREE!)",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/FVATW3KidnQ/summary.md",
+      "topic_cluster_key": "chatgpt__healer-alpha",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "49_WitY66yM",
+      "title": "OpenClaw + PaperClip is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/49_WitY66yM/summary.md",
+      "topic_cluster_key": "openclaw__paperclip",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "OV5eK91YY68",
+      "L-CanI8zDWI",
+      "FVATW3KidnQ",
+      "9lbwgk29Db4",
+      "49_WitY66yM"
+    ]
+  },
+  "updated_at": "2026-03-12T20:51:10Z"
+}

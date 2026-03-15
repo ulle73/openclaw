@@ -1,0 +1,155 @@
+{
+  "id": "U9_0ZIaYCzI",
+  "title": "New Perplexity Personal Computer Destroys OpenClaw? 😱",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260313",
+  "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nPerplexity Personal Computer: The AI That Works While You Sleep\n\nPerplexity has launched a revolutionary personal computer system that uses 19 specialist AI models to automate your workflow 24/7. Learn how this autonomous tool manages local files, builds complex projects, and provides a safer, more powerful alternative to Open Claw.\n\n00:00 - Intro: The Perplexity PC\n01:27 - An Always-On AI System\n01:48 - How 19 AI Models Work Together\n02:41 - Security & Safety vs. Open Claw\n03:57 - 3 Game-Changing Use Cases\n06:19 - Perplexity vs. Open Claw Comparison\n07:02 - The Future of AI Workers",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "perplexity-personal",
+    "chatgpt",
+    "claude"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "perplexity-personal",
+    "workflow-automation",
+    "knowledge-management",
+    "marketing-explainers",
+    "seo-content",
+    "proactive-assistant",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "openclaw__perplexity-personal",
+  "related_video_ids": [
+    "TiB48jLnHBs",
+    "rlLbv0PgYsY",
+    "hT0bbzksQyI",
+    "SQEW0-X1cQw",
+    "OV5eK91YY68"
+  ],
+  "related_videos": [
+    {
+      "videoId": "TiB48jLnHBs",
+      "title": "AionUI + OpenClaw + Claude Code is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/TiB48jLnHBs/summary.md",
+      "topic_cluster_key": "aionui__claude__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "rlLbv0PgYsY",
+      "title": "OpenClaw + Gemini Embedding 2 is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rlLbv0PgYsY/summary.md",
+      "topic_cluster_key": "gemini__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "hT0bbzksQyI",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/hT0bbzksQyI/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "SQEW0-X1cQw",
+      "title": "New FREE Nvidia Nemotron 3 Super + Ollama",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/SQEW0-X1cQw/summary.md",
+      "topic_cluster_key": "nemotron-3-super__nvidia",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "TiB48jLnHBs",
+      "rlLbv0PgYsY",
+      "hT0bbzksQyI",
+      "SQEW0-X1cQw",
+      "OV5eK91YY68"
+    ]
+  },
+  "updated_at": "2026-03-13T23:02:29Z"
+}

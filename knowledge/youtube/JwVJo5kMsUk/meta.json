@@ -1,0 +1,154 @@
+{
+  "id": "JwVJo5kMsUk",
+  "title": "NEW Claude Skills 2.0 Is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260315",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nClaude Skills 2.0: Build Self-Fixing AI Agents\n\nClaude Skills 2.0 introduces AI that tests, fixes, and builds on itself for truly hands-off automation. Learn how to use the Skill Creator, Evals, and Auto-Refinement to create a reliable, multi-step AI workflow for your business.\n\n00:00 - Claude Skills 2.0 Overview\n00:33 - Anatomy of a Claude Skill\n01:39 - New Features: Evals & Refinement\n03:53 - Building a Skill from Scratch\n05:39 - Benchmarking for Reliability\n06:17 - The skill.md Success Template\n07:24 - Summary & Future of AI Workflows",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude"
+  ],
+  "topic_tags": [
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api"
+  ],
+  "topic_cluster_key": "claude",
+  "related_video_ids": [
+    "fnLXErf-plM",
+    "qb90PPbAWz4",
+    "s2HalzQZ1MQ",
+    "T3jDa19gpXw",
+    "C6ZTvzdTwrE"
+  ],
+  "related_videos": [
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": true,
+      "score": 17
+    },
+    {
+      "videoId": "qb90PPbAWz4",
+      "title": "Karpathy’s \"autoresearch\" explained in 24 minutes",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/qb90PPbAWz4/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": true,
+      "score": 16
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 15
+    },
+    {
+      "videoId": "T3jDa19gpXw",
+      "title": "New Claude Code Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/T3jDa19gpXw/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": true,
+      "score": 15
+    },
+    {
+      "videoId": "C6ZTvzdTwrE",
+      "title": "NEW Claude Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/C6ZTvzdTwrE/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": true,
+      "score": 15
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "fnLXErf-plM",
+      "qb90PPbAWz4",
+      "s2HalzQZ1MQ",
+      "T3jDa19gpXw",
+      "C6ZTvzdTwrE"
+    ]
+  },
+  "updated_at": "2026-03-15T17:30:10Z"
+}

@@ -1,0 +1,360 @@
+# Chunks
+
+## Chunk 01
+Nvidia Neatron 3 Super is now available
+for free on Olama. And today we're going
+to be testing out. I'll show you exactly
+how to use it, how to run it locally.
+We'll break down exactly what Neatron 3
+Super is and why it's different. I'll
+show you how to install it for free with
+O Lama in under 5 minutes. We'll build
+and show you some automation workflows
+and I'll show you how to connect it um
+
+## Chunk 02
+to whatever tool you want using this.
+Right. So, if you're wondering, okay,
+what is Neatron
+uh 3 super? How does it perform, etc.?
+So you can see some examples of the
+benchmarks right here. This is a brand
+new release from Nvidia. It literally
+just came out and you can see how it
+performs on the benchmarks. Right now
+the difference between say Claude Opus
+
+## Chunk 03
+4.5 and GB 5.4 on these benchmarks is
+that Neatron can be run locally. Right?
+So you can actually run this for free
+locally with Olama, which is what I'm
+showing you today. And it's a brand new
+AI model dropped by it's 120 billion
+parameters total but only activates 12
+billion at a time called a mixture of
+experts architecture. That means you get
+a lot of intelligence but you get
+
+## Chunk 04
+lightweight compute power right it also
+has a million token context window so
+you can in you can feed it like for
+example your entire business documents
+um entire code bases entire SAPs without
+it losing track. You can see all the
+details on how it works right here and
+it's it's available for free. Now you
+can see how it performs on the
+benchmarks. Usually I don't pay
+
+## Chunk 05
+attention to the benchmarks um so much.
+And also the difference here is like you
+can run this on the cloud too, right? So
+you can see here it's a big model,
+right? 87 GB pretty big. Bear in mind
+the sorry just to recreor myself there.
+It's 256K on the context window, not a
+million. But yeah, you can see the
+details here. So you can run it on cloud
+or you can run it locally. Right? Bear
+
+## Chunk 06
+in mind if you run it locally, you do
+need a strong setup because it's 87 GB,
+which is a pretty big model if you ask
+me. So, we're going to have a look at
+how to use it,
+why it matters, my framework for
+personally using it, etc. And I'll show
+you how to get this set up. Okay, so
+If you want to set this up with O Lama,
+first thing you're going to do is
+
+## Chunk 07
+download O Lama. If you don't know how
+to do that, you can either download it
+right here, right? So, you can just
+click on download O Lama or what you can
+do is you can copy and paste this
+command into your terminal, right? And
+this will install OpenClaw directly.
+Sorry, not OpenClaw. O Lama. Now, when
+you're using O Lama, it's free to
+download. Once you've done that, you can
+
+## Chunk 08
+then go to the model section over here.
+All right. And you would just scroll
+down to Neatron 3 Super. Now, if you run
+this locally and install it locally, as
+I've said before, it's a big model,
+right? 87 GB. So, you need a really good
+setup to run this. Now, I'll show you
+how this works. So, for example, if you
+wanted to run with Neatron locally using
+the big model download, then you would
+
+## Chunk 09
+just open up OAM. So, make sure you have
+it running over here. Then you're going
+to go to your terminal and you can plug
+in this command like so. And that'll
+begin to open the model. Now, as I said,
+depending on your setup, this could slow
+you down. Let's see how it performs on
+on mine. I'm running this on a Mac
+Studio. So, you can see my setup right
+here. We're running this on a Apple M4
+
+## Chunk 10
+Max. So, to run the cloud model with
+make sure you have running, then you're
+going to take this command and type run
+first, right? So you type O Lama run and
+then you paste that in and that's how
+you can start using
+the cloud model inside O Lama. You also
+have another option which is you can
+open up Alarma itself the app and then
+you can actually select Neatron 3 super
+
+## Chunk 11
+directly here. Right. So that's the
+other option. If you want a nice UI, you
+can use it inside Nemetron 3 super here.
+I would also be interested to know if
+it's running inside LM Studio which is
+another kind of alternative to using
+something like Olama. So, let's go over
+to the model search
+and we'll have a look. Yeah, look at
+that. So, you can use it um inside here,
+
+## Chunk 12
+too. It's huge model. You've got
+different options for this as well. So,
+you could use Neatron 3 Nano, which is a
+smaller model, an older model, but you
+could use that if you want to run this
+locally, too. So, if you type in Neatron
+3 Super, you can see a bunch of options
+right here. Um, but the only one that
+looks like a relevant release is this
+one from 9 hours ago, right? So if we
+
+## Chunk 13
+want to start using this, let's just
+check if it's working. Yep. So it's
+pretty fast and it's easy to use with
+the cloud model. And then if you wanted
+to use it inside, for example, like
+something like um claw codeex or open
+code, it's pretty simple and easy. So
+what you can do here is you would open
+up a new window. If you want to run this
+locally with, for example, claw code,
+
+## Chunk 14
+then you would just copy and paste this
+command and paste it in like that.
+Right? Now, if you want to use the cloud
+model, you just add to the end of this
+super cloud. Right? And now that'll
+launch claw code with neatron 3 super
+cloud. There you go. Right. So now you
+can see that neatron 3 super cloud is
+plugged into core code. So now let's try
+creating a new website. So I'm going to
+
+## Chunk 15
+say create a new
+using the details and then I'll paste in
+the
+copyright I want to add inside here. So
+you can see that it's working straight
+away. Super fast to respond and it's now
+writing the HTML. And now you can see
+we've got the full code block right here
+from Neatron 3 Super. So it's fast. It's
+responsive. Seems to work pretty well.
+
+## Chunk 16
+Let's just test out this HTML. See what
+it looks like in action. So I've tested
+the code
+inside LiveWeave. This is the code from
+Neatron 3 Super that we ran via OAMA.
+And you can see the output of the
+website here. Now, I'm not going to like
+tell you that's as good as something
+like uh Claude Opus 4.5, but it does the
+job and it it did create the page
+
+## Chunk 17
+locally. You could always improve
+the design and that sort of thing, but
+it was easy to set up and it was easy to
+get it working. So, that is Neatron 3
+super. What we've actually done is
+create a super agent stack framework for
+using this with O Lama. So, the
+framework has three layers, right? And
+this is inside the video notes from
+today. So, layer one is a brain. You got
+
+## Chunk 18
+Neatron 3 Super running locally via
+Alama and this can handle all your
+reasoning, planning, writing, decision-
+making. Bear in mind if you're running
+it on the cloud, obviously it's not
+running locally and that depends on your
+setup. So either way, you can run it
+locally or you can run it in the cloud.
+Then you've got layer 2, the agent. So
+this is powered by the Neatron Super 3
+
+## Chunk 19
+model. And then you've got the
+workflows, right? So you could connect
+this to, for example, like NA10 or that
+sort of thing. Um, and the old way was
+like manually writing every prompt,
+manually copying and pasting outputs,
+manually posting content, etc. The new
+way is you could build like a local AI
+agent stack that does the research, the
+writing, the outreach, and the content
+
+## Chunk 20
+for you. I've shown you how to set it
+up. It's just like a couple of simple
+terminal commands. And we actually have
+a 30-day plan for implementing this
+stuff. So, if you want to go from like
+beginning to install it to, for example,
+like building your own um customer FAQ
+bot or for example using this to
+automate content for your business, etc.
+We've got a full step-by-step uh 30-day
+
+## Chunk 21
+plan inside the video notes today. But
+the main point here is like you can use
+this, you can use this as a cloud model
+and it's free to use, right? So, some
+people say, well, I need a massive
+server to run a powerful AR model. And
+that's the old belief, right? The fact
+is Neatron 3 Super can run via one
+terminal command on OAM just using the
+cloud-based prompt. It's pretty simple
+
+## Chunk 22
+and easy to use it. Of people say, well,
+free AR models always worse than paid
+ones. Obviously, for this one, it
+depends what you're doing. But I would
+say it's a pretty powerful model if
+you're just giving it simple tasks and
+if you need something quick and free to
+use.
+And then additionally, some people say,
+well, I'm not technical enough to run
+
+## Chunk 23
+local models, right? But literally all
+you do is you set up a llama, and this
+was built for non-technical people, so
+you can run AI models, right? The
+installation takes 5 minutes. You just
+click a button, and then it's one
+command in your terminal, and the model
+is running, right? So you don't need any
+technical knowledge to use this. By the
+way, if you're inside the AR profitable
+
+## Chunk 24
+volume already and you're wondering,
+okay, how to get access to this guide.
+So you go to the SOP update section. So
+classroom SOP updates
+and then Neatron 3 Super plus OAM. And
+you can full find the full step guide uh
+right here. Right. So that's basically
+it for Neatron Super and how to use it.
+It's powerful model from Nvidia. We've
+tested out. It runs pretty fast locally.
+
+## Chunk 25
+You can use it for free and it's just
+like a quick terminal command that you
+can use as well. We have a full
+framework for using this stuff along
+with a 30-day road map on how to use it.
+dedicated to helping you learn, grow,
+and scale with AI automation. So, you
+You can connect with cool people.
+There's always people online which means
+that you can meet awesome people all the
+
+## Chunk 26
+time. Inside the calendar, we have four
+week coaching calls. You can get help
+and support whenever you need to. Inside
+the map, you can connect with local
+people inside your area, DM them, jump
+on a Zoom call, etc. And inside the
+classroom here, you get access to all of
+my best trainings. If you're wondering,
+okay, like, you know, are people getting
+results of this? What's the feedback so
+
+## Chunk 27
+far? So, you can see we actually have
+over 136 pages of testimonials from
+people winning with AI automation,
+right? So, here's an example from Caden.
+These are real people, real testimonials
+lots of people winning and getting
+awesome results with it. Right? This is
+basically an infinite scroll of 136
+pages um of wins. So, it's pretty
+awesome. Here's another one, right? So,
+
+## Chunk 28
+if you want to get my best trainings for
+this, you can go inside the classroom
+here as well and you can go from
+beginner to expert and learn how to
+build your first AI agent with AI
+automation inside this section right
+here. If you want to learn how I
+automate my business, so for example,
+and shorts and Instagram, you can learn
+that inside this section. If you want to
+
+## Chunk 29
+get my daily updates, including the
+guide from today, you can get that
+inside the SOP update section. And you
+can see here, for example, we have a
+full 6-hour course on how to use Open
+Call, another 3-hour right here, and a
+bunch of other cool trainings that we
+update daily. So, it's it's a very
+training all the time as well.
+Additionally, you can learn how to get
+
+## Chunk 30
+more clients with the agency course. You
+can watch back the coaching course if
+you didn't make them live. You can learn
+how to rank number one with AI SEO. And
+you can also learn how to grow a YouTube
+channel with AI based on what's working
+for me with this road map. So that's all
+inside the comments description or go to
+the aiprofitboard.com.

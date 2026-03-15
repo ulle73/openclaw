@@ -1,0 +1,154 @@
+{
+  "id": "QhgV435R_Ro",
+  "title": "Gemini In Google Workspace Is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260312",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nGemini in Google Workspace: The Ultimate AI Productivity Guide\n\nDiscover how the new Gemini integration transforms Google Workspace into a seamless AI co-worker that reads your Drive and Gmail. Learn to automate complex tasks in Docs, Sheets, and Slides to save hours of manual work every week.\n\n00:00 - Intro: The Gemini Workspace Upgrade\n01:21 - Google Docs: Context-Aware Writing\n02:57 - Google Sheets: Building Expert Dashboards\n04:30 - Google Drive: Smart Contextual Search\n05:09 - Gmail: Context-Aware Email Drafting\n07:06 - Real-World Workflow: Docs to Slides\n08:23 - How to Access Gemini in Workspace",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "gemini",
+    "workspace"
+  ],
+  "topic_tags": [
+    "workspace",
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
+  ],
+  "topic_cluster_key": "gemini__workspace",
+  "related_video_ids": [
+    "pSQE1SsGfSQ",
+    "hllhkLGWA34",
+    "fnLXErf-plM",
+    "OGBEYTWjPZU",
+    "9kjntAZ_L0M"
+  ],
+  "related_videos": [
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "hllhkLGWA34",
+      "title": "ChatGPT 5.4 + Claude Opus 4.6 is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/hllhkLGWA34/summary.md",
+      "topic_cluster_key": "chatgpt__claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "OGBEYTWjPZU",
+      "title": "NEW Google Pomelli Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/OGBEYTWjPZU/summary.md",
+      "topic_cluster_key": "pomelli",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "9kjntAZ_L0M",
+      "title": "NEW Copilot Cowork Beats Claude Cowork?!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/9kjntAZ_L0M/summary.md",
+      "topic_cluster_key": "claude__copilot-cowork",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "pSQE1SsGfSQ",
+      "hllhkLGWA34",
+      "fnLXErf-plM",
+      "OGBEYTWjPZU",
+      "9kjntAZ_L0M"
+    ]
+  },
+  "updated_at": "2026-03-12T13:30:08Z"
+}

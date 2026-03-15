@@ -1,0 +1,149 @@
+{
+  "id": "HL1L6urjD7o",
+  "title": "OpenClaw's New Upgrade: /btw",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260315",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nOpenClaw Update: How to Use the New 'By The Way' Mode\n\nLearn how to use OpenClaw's revolutionary new \"By The Way\" mode to ask side questions without interrupting your AI's main tasks. This update prevents context pollution and allows for true multitasking within your AI sessions.\n\n00:00 - Intro\n00:36 - What is OpenClaw?\n00:56 - Explaining By The Way Mode\n02:21 - How it Works Under the Hood\n03:25 - Solving Context Pollution\n05:32 - BTW Mode Rules & Limits\n07:00 - Normal Chat vs. BTW Mode\n08:02 - AI Profit Boardroom Community",
+  "classifications": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "medium",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": false,
+    "system_improvement": true,
+    "app": false,
+    "product": false
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "upgrade",
+    "claude"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "upgrade",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "openclaw__upgrade",
+  "related_video_ids": [
+    "rlLbv0PgYsY",
+    "ptqHcTAwmlk",
+    "mndpFJXksRs",
+    "hT0bbzksQyI",
+    "f8LJBh1AtKg"
+  ],
+  "related_videos": [
+    {
+      "videoId": "rlLbv0PgYsY",
+      "title": "OpenClaw + Gemini Embedding 2 is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rlLbv0PgYsY/summary.md",
+      "topic_cluster_key": "gemini__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "mndpFJXksRs",
+      "title": "OpenClaw + Paperclip Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/mndpFJXksRs/summary.md",
+      "topic_cluster_key": "openclaw__paperclip",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "hT0bbzksQyI",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/hT0bbzksQyI/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "f8LJBh1AtKg",
+      "title": "Stop OpenClaw From Forgetting – The 3 Memory Layers Explained!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/f8LJBh1AtKg/summary.md",
+      "topic_cluster_key": "layers-explained__openclaw__the-3-memory",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": false,
+      "score": 10
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "rlLbv0PgYsY",
+      "ptqHcTAwmlk",
+      "mndpFJXksRs",
+      "hT0bbzksQyI",
+      "f8LJBh1AtKg"
+    ]
+  },
+  "updated_at": "2026-03-15T21:30:12Z"
+}

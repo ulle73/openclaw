@@ -1,0 +1,1816 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:05.030 align:start position:0%
+ 
+New<00:00:00.400><c> Deepseek</c><00:00:01.199><c> V4</c><00:00:01.920><c> is</c><00:00:02.320><c> insane.</c><00:00:03.679><c> Deepseek</c><00:00:04.319><c> V4</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+New Deepseek V4 is insane. Deepseek V4
+ 
+
+00:00:05.040 --> 00:00:07.510 align:start position:0%
+New Deepseek V4 is insane. Deepseek V4
+is<00:00:05.359><c> leaking</c><00:00:05.920><c> everywhere</c><00:00:06.480><c> right</c><00:00:06.720><c> now.</c><00:00:07.200><c> And</c><00:00:07.359><c> if</c>
+
+00:00:07.510 --> 00:00:07.520 align:start position:0%
+is leaking everywhere right now. And if
+ 
+
+00:00:07.520 --> 00:00:09.270 align:start position:0%
+is leaking everywhere right now. And if
+even<00:00:07.839><c> half</c><00:00:08.080><c> of</c><00:00:08.240><c> what</c><00:00:08.480><c> people</c><00:00:08.639><c> are</c><00:00:08.800><c> saying</c><00:00:08.960><c> is</c>
+
+00:00:09.270 --> 00:00:09.280 align:start position:0%
+even half of what people are saying is
+ 
+
+00:00:09.280 --> 00:00:11.190 align:start position:0%
+even half of what people are saying is
+true,<00:00:09.840><c> this</c><00:00:10.000><c> could</c><00:00:10.160><c> be</c><00:00:10.320><c> the</c><00:00:10.480><c> biggest</c><00:00:10.800><c> AI</c>
+
+00:00:11.190 --> 00:00:11.200 align:start position:0%
+true, this could be the biggest AI
+ 
+
+00:00:11.200 --> 00:00:12.549 align:start position:0%
+true, this could be the biggest AI
+shakeup<00:00:11.599><c> of</c><00:00:11.759><c> the</c><00:00:11.840><c> year.</c><00:00:12.080><c> We</c><00:00:12.240><c> are</c><00:00:12.400><c> talking</c>
+
+00:00:12.549 --> 00:00:12.559 align:start position:0%
+shakeup of the year. We are talking
+ 
+
+00:00:12.559 --> 00:00:14.470 align:start position:0%
+shakeup of the year. We are talking
+about<00:00:12.719><c> a</c><00:00:12.960><c> model</c><00:00:13.360><c> that</c><00:00:13.599><c> might</c><00:00:13.840><c> beat</c><00:00:14.080><c> every</c>
+
+00:00:14.470 --> 00:00:14.480 align:start position:0%
+about a model that might beat every
+ 
+
+00:00:14.480 --> 00:00:16.310 align:start position:0%
+about a model that might beat every
+single<00:00:14.799><c> thing</c><00:00:14.960><c> out</c><00:00:15.200><c> there.</c><00:00:15.440><c> New</c><00:00:15.679><c> leaks,</c><00:00:16.080><c> new</c>
+
+00:00:16.310 --> 00:00:16.320 align:start position:0%
+single thing out there. New leaks, new
+ 
+
+00:00:16.320 --> 00:00:18.630 align:start position:0%
+single thing out there. New leaks, new
+benchmarks,<00:00:16.880><c> new</c><00:00:17.119><c> drama,</c><00:00:17.680><c> and</c><00:00:17.920><c> I</c><00:00:18.080><c> am</c><00:00:18.320><c> going</c><00:00:18.400><c> to</c>
+
+00:00:18.630 --> 00:00:18.640 align:start position:0%
+benchmarks, new drama, and I am going to
+ 
+
+00:00:18.640 --> 00:00:21.109 align:start position:0%
+benchmarks, new drama, and I am going to
+break<00:00:18.880><c> all</c><00:00:19.039><c> of</c><00:00:19.199><c> it</c><00:00:19.359><c> down</c><00:00:19.680><c> for</c><00:00:19.920><c> you</c><00:00:20.560><c> right</c><00:00:20.800><c> now.</c>
+
+00:00:21.109 --> 00:00:21.119 align:start position:0%
+break all of it down for you right now.
+ 
+
+00:00:21.119 --> 00:00:22.710 align:start position:0%
+break all of it down for you right now.
+So,<00:00:21.439><c> buckle</c><00:00:21.840><c> up</c><00:00:22.000><c> because</c><00:00:22.240><c> this</c><00:00:22.400><c> is</c><00:00:22.560><c> going</c><00:00:22.640><c> to</c>
+
+00:00:22.710 --> 00:00:22.720 align:start position:0%
+So, buckle up because this is going to
+ 
+
+00:00:22.720 --> 00:00:24.950 align:start position:0%
+So, buckle up because this is going to
+get<00:00:22.960><c> crazy.</c><00:00:23.760><c> So,</c><00:00:24.000><c> before</c><00:00:24.240><c> we</c><00:00:24.400><c> get</c><00:00:24.480><c> into</c><00:00:24.720><c> this,</c>
+
+00:00:24.950 --> 00:00:24.960 align:start position:0%
+get crazy. So, before we get into this,
+ 
+
+00:00:24.960 --> 00:00:26.470 align:start position:0%
+get crazy. So, before we get into this,
+let<00:00:25.119><c> me</c><00:00:25.199><c> set</c><00:00:25.359><c> the</c><00:00:25.519><c> stage</c><00:00:25.760><c> real</c><00:00:26.000><c> quick.</c>
+
+00:00:26.470 --> 00:00:26.480 align:start position:0%
+let me set the stage real quick.
+ 
+
+00:00:26.480 --> 00:00:29.189 align:start position:0%
+let me set the stage real quick.
+Deepseek<00:00:27.119><c> is</c><00:00:27.359><c> this</c><00:00:27.519><c> AI</c><00:00:27.920><c> lab</c><00:00:28.240><c> out</c><00:00:28.480><c> of</c><00:00:28.640><c> China.</c>
+
+00:00:29.189 --> 00:00:29.199 align:start position:0%
+Deepseek is this AI lab out of China.
+ 
+
+00:00:29.199 --> 00:00:31.509 align:start position:0%
+Deepseek is this AI lab out of China.
+And<00:00:29.359><c> back</c><00:00:29.519><c> in</c><00:00:29.760><c> late</c><00:00:30.000><c> 2024,</c><00:00:30.720><c> almost</c><00:00:31.039><c> nobody</c><00:00:31.359><c> in</c>
+
+00:00:31.509 --> 00:00:31.519 align:start position:0%
+And back in late 2024, almost nobody in
+ 
+
+00:00:31.519 --> 00:00:32.950 align:start position:0%
+And back in late 2024, almost nobody in
+the<00:00:31.599><c> West</c><00:00:31.840><c> even</c><00:00:32.000><c> knew</c><00:00:32.160><c> who</c><00:00:32.320><c> they</c><00:00:32.480><c> were.</c><00:00:32.719><c> They</c>
+
+00:00:32.950 --> 00:00:32.960 align:start position:0%
+the West even knew who they were. They
+ 
+
+00:00:32.960 --> 00:00:34.389 align:start position:0%
+the West even knew who they were. They
+were<00:00:33.040><c> just</c><00:00:33.200><c> quietly</c><00:00:33.600><c> building</c><00:00:33.920><c> stuff</c><00:00:34.079><c> in</c><00:00:34.320><c> the</c>
+
+00:00:34.389 --> 00:00:34.399 align:start position:0%
+were just quietly building stuff in the
+ 
+
+00:00:34.399 --> 00:00:36.549 align:start position:0%
+were just quietly building stuff in the
+background.<00:00:35.040><c> No</c><00:00:35.280><c> hype,</c><00:00:35.680><c> no</c><00:00:35.840><c> noise.</c><00:00:36.320><c> Then</c>
+
+00:00:36.549 --> 00:00:36.559 align:start position:0%
+background. No hype, no noise. Then
+ 
+
+00:00:36.559 --> 00:00:40.069 align:start position:0%
+background. No hype, no noise. Then
+January<00:00:37.040><c> 2025</c><00:00:37.840><c> hit</c><00:00:38.160><c> and</c><00:00:38.480><c> boom,</c><00:00:39.040><c> the</c><00:00:39.280><c> entire</c><00:00:39.680><c> AI</c>
+
+00:00:40.069 --> 00:00:40.079 align:start position:0%
+January 2025 hit and boom, the entire AI
+ 
+
+00:00:40.079 --> 00:00:42.150 align:start position:0%
+January 2025 hit and boom, the entire AI
+world<00:00:40.559><c> lost</c><00:00:40.879><c> its</c><00:00:41.120><c> mind.</c><00:00:41.600><c> People</c><00:00:41.840><c> were</c><00:00:42.000><c> calling</c>
+
+00:00:42.150 --> 00:00:42.160 align:start position:0%
+world lost its mind. People were calling
+ 
+
+00:00:42.160 --> 00:00:44.549 align:start position:0%
+world lost its mind. People were calling
+it<00:00:42.320><c> a</c><00:00:42.480><c> Sputnik</c><00:00:43.120><c> moment.</c><00:00:43.760><c> That</c><00:00:44.000><c> moment</c><00:00:44.239><c> where</c>
+
+00:00:44.549 --> 00:00:44.559 align:start position:0%
+it a Sputnik moment. That moment where
+ 
+
+00:00:44.559 --> 00:00:46.069 align:start position:0%
+it a Sputnik moment. That moment where
+everyone<00:00:44.879><c> suddenly</c><00:00:45.280><c> realized,</c><00:00:45.680><c> oh</c><00:00:45.840><c> wait,</c>
+
+00:00:46.069 --> 00:00:46.079 align:start position:0%
+everyone suddenly realized, oh wait,
+ 
+
+00:00:46.079 --> 00:00:48.150 align:start position:0%
+everyone suddenly realized, oh wait,
+China<00:00:46.399><c> is</c><00:00:46.559><c> serious</c><00:00:46.879><c> about</c><00:00:47.039><c> AI.</c><00:00:47.520><c> Dead</c><00:00:47.760><c> serious.</c>
+
+00:00:48.150 --> 00:00:48.160 align:start position:0%
+China is serious about AI. Dead serious.
+ 
+
+00:00:48.160 --> 00:00:49.990 align:start position:0%
+China is serious about AI. Dead serious.
+Their<00:00:48.320><c> models</c><00:00:48.719><c> started</c><00:00:48.960><c> competing</c><00:00:49.600><c> with</c><00:00:49.760><c> the</c>
+
+00:00:49.990 --> 00:00:50.000 align:start position:0%
+Their models started competing with the
+ 
+
+00:00:50.000 --> 00:00:51.750 align:start position:0%
+Their models started competing with the
+biggest<00:00:50.239><c> names</c><00:00:50.559><c> in</c><00:00:50.719><c> the</c><00:00:50.879><c> game.</c><00:00:51.280><c> And</c><00:00:51.440><c> they</c><00:00:51.600><c> did</c>
+
+00:00:51.750 --> 00:00:51.760 align:start position:0%
+biggest names in the game. And they did
+ 
+
+00:00:51.760 --> 00:00:53.990 align:start position:0%
+biggest names in the game. And they did
+it<00:00:51.920><c> with</c><00:00:52.079><c> way</c><00:00:52.320><c> less</c><00:00:52.640><c> resources.</c><00:00:53.520><c> That</c><00:00:53.760><c> put</c>
+
+00:00:53.990 --> 00:00:54.000 align:start position:0%
+it with way less resources. That put
+ 
+
+00:00:54.000 --> 00:00:56.069 align:start position:0%
+it with way less resources. That put
+Deep<00:00:54.399><c> Seek</c><00:00:54.640><c> on</c><00:00:54.800><c> the</c><00:00:54.960><c> map</c><00:00:55.199><c> overnight.</c><00:00:55.760><c> Now,</c>
+
+00:00:56.069 --> 00:00:56.079 align:start position:0%
+Deep Seek on the map overnight. Now,
+ 
+
+00:00:56.079 --> 00:00:58.389 align:start position:0%
+Deep Seek on the map overnight. Now,
+their<00:00:56.239><c> last</c><00:00:56.480><c> major</c><00:00:56.800><c> model,</c><00:00:57.120><c> Deep</c><00:00:57.360><c> Seek</c><00:00:57.600><c> V3,</c>
+
+00:00:58.389 --> 00:00:58.399 align:start position:0%
+their last major model, Deep Seek V3,
+ 
+
+00:00:58.399 --> 00:01:01.110 align:start position:0%
+their last major model, Deep Seek V3,
+was<00:00:58.640><c> already</c><00:00:58.800><c> a</c><00:00:59.039><c> monster.</c><00:00:59.680><c> 685</c><00:01:00.800><c> billion</c>
+
+00:01:01.110 --> 00:01:01.120 align:start position:0%
+was already a monster. 685 billion
+ 
+
+00:01:01.120 --> 00:01:03.270 align:start position:0%
+was already a monster. 685 billion
+parameters,<00:01:01.760><c> open-</c><00:01:02.079><c> source,</c><00:01:02.719><c> and</c><00:01:02.960><c> it</c><00:01:03.199><c> was</c>
+
+00:01:03.270 --> 00:01:03.280 align:start position:0%
+parameters, open- source, and it was
+ 
+
+00:01:03.280 --> 00:01:05.429 align:start position:0%
+parameters, open- source, and it was
+hanging<00:01:03.600><c> with</c><00:01:03.840><c> models</c><00:01:04.320><c> that</c><00:01:04.559><c> needed</c><00:01:04.960><c> way</c><00:01:05.199><c> more</c>
+
+00:01:05.429 --> 00:01:05.439 align:start position:0%
+hanging with models that needed way more
+ 
+
+00:01:05.439 --> 00:01:07.429 align:start position:0%
+hanging with models that needed way more
+power<00:01:05.680><c> to</c><00:01:05.920><c> run.</c><00:01:06.320><c> That</c><00:01:06.560><c> was</c><00:01:06.640><c> impressive</c><00:01:07.040><c> on</c><00:01:07.280><c> its</c>
+
+00:01:07.429 --> 00:01:07.439 align:start position:0%
+power to run. That was impressive on its
+ 
+
+00:01:07.439 --> 00:01:09.590 align:start position:0%
+power to run. That was impressive on its
+own.<00:01:07.680><c> But</c><00:01:07.840><c> since</c><00:01:08.080><c> V3,</c><00:01:09.040><c> they</c><00:01:09.200><c> have</c><00:01:09.439><c> been</c>
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+own. But since V3, they have been
+ 
+
+00:01:09.600 --> 00:01:13.030 align:start position:0%
+own. But since V3, they have been
+putting<00:01:09.840><c> out</c><00:01:10.159><c> smaller</c><00:01:10.479><c> updates.</c><00:01:11.280><c> V3.1,</c><00:01:12.240><c> V3.2,</c>
+
+00:01:13.030 --> 00:01:13.040 align:start position:0%
+putting out smaller updates. V3.1, V3.2,
+ 
+
+00:01:13.040 --> 00:01:15.109 align:start position:0%
+putting out smaller updates. V3.1, V3.2,
+an<00:01:13.280><c> experimental</c><00:01:13.920><c> version</c><00:01:14.320><c> here</c><00:01:14.479><c> and</c><00:01:14.720><c> there.</c>
+
+00:01:15.109 --> 00:01:15.119 align:start position:0%
+an experimental version here and there.
+ 
+
+00:01:15.119 --> 00:01:17.109 align:start position:0%
+an experimental version here and there.
+Solid<00:01:15.600><c> improvements,</c><00:01:16.320><c> but</c><00:01:16.640><c> nothing</c><00:01:16.880><c> that</c>
+
+00:01:17.109 --> 00:01:17.119 align:start position:0%
+Solid improvements, but nothing that
+ 
+
+00:01:17.119 --> 00:01:19.190 align:start position:0%
+Solid improvements, but nothing that
+made<00:01:17.439><c> people</c><00:01:17.680><c> jump</c><00:01:17.920><c> out</c><00:01:18.080><c> of</c><00:01:18.240><c> their</c><00:01:18.400><c> chairs.</c>
+
+00:01:19.190 --> 00:01:19.200 align:start position:0%
+made people jump out of their chairs.
+ 
+
+00:01:19.200 --> 00:01:21.270 align:start position:0%
+made people jump out of their chairs.
+Meanwhile,<00:01:19.759><c> companies</c><00:01:20.080><c> like</c><00:01:20.240><c> Alibaba,</c>
+
+00:01:21.270 --> 00:01:21.280 align:start position:0%
+Meanwhile, companies like Alibaba,
+ 
+
+00:01:21.280 --> 00:01:23.270 align:start position:0%
+Meanwhile, companies like Alibaba,
+Moonshot,<00:01:22.080><c> and</c><00:01:22.320><c> a</c><00:01:22.479><c> bunch</c><00:01:22.640><c> of</c><00:01:22.720><c> other</c><00:01:22.960><c> Chinese</c>
+
+00:01:23.270 --> 00:01:23.280 align:start position:0%
+Moonshot, and a bunch of other Chinese
+ 
+
+00:01:23.280 --> 00:01:25.590 align:start position:0%
+Moonshot, and a bunch of other Chinese
+AI<00:01:23.680><c> labs</c><00:01:23.920><c> have</c><00:01:24.080><c> been</c><00:01:24.240><c> catching</c><00:01:24.560><c> up</c><00:01:24.720><c> fast.</c><00:01:25.439><c> Some</c>
+
+00:01:25.590 --> 00:01:25.600 align:start position:0%
+AI labs have been catching up fast. Some
+ 
+
+00:01:25.600 --> 00:01:27.429 align:start position:0%
+AI labs have been catching up fast. Some
+of<00:01:25.680><c> them</c><00:01:25.920><c> even</c><00:01:26.240><c> using</c><00:01:26.560><c> Deepseek's</c><00:01:27.280><c> own</c>
+
+00:01:27.429 --> 00:01:27.439 align:start position:0%
+of them even using Deepseek's own
+ 
+
+00:01:27.439 --> 00:01:29.270 align:start position:0%
+of them even using Deepseek's own
+architecture<00:01:27.920><c> to</c><00:01:28.159><c> build</c><00:01:28.320><c> their</c><00:01:28.560><c> stuff.</c><00:01:29.119><c> So,</c>
+
+00:01:29.270 --> 00:01:29.280 align:start position:0%
+architecture to build their stuff. So,
+ 
+
+00:01:29.280 --> 00:01:31.190 align:start position:0%
+architecture to build their stuff. So,
+the<00:01:29.520><c> pressure</c><00:01:29.759><c> has</c><00:01:30.000><c> been</c><00:01:30.080><c> on</c><00:01:30.320><c> for</c><00:01:30.479><c> Deepseek</c><00:01:31.040><c> to</c>
+
+00:01:31.190 --> 00:01:31.200 align:start position:0%
+the pressure has been on for Deepseek to
+ 
+
+00:01:31.200 --> 00:01:33.030 align:start position:0%
+the pressure has been on for Deepseek to
+come<00:01:31.360><c> back</c><00:01:31.520><c> with</c><00:01:31.759><c> something</c><00:01:32.000><c> big.</c><00:01:32.640><c> And</c><00:01:32.880><c> that</c>
+
+00:01:33.030 --> 00:01:33.040 align:start position:0%
+come back with something big. And that
+ 
+
+00:01:33.040 --> 00:01:35.590 align:start position:0%
+come back with something big. And that
+brings<00:01:33.280><c> us</c><00:01:33.439><c> to</c><00:01:33.759><c> VU.</c><00:01:34.479><c> Hey,</c><00:01:34.720><c> if</c><00:01:34.880><c> we</c><00:01:35.119><c> haven't</c><00:01:35.280><c> met</c>
+
+00:01:35.590 --> 00:01:35.600 align:start position:0%
+brings us to VU. Hey, if we haven't met
+ 
+
+00:01:35.600 --> 00:01:37.910 align:start position:0%
+brings us to VU. Hey, if we haven't met
+already,<00:01:36.240><c> I'm</c><00:01:36.479><c> the</c><00:01:36.720><c> digital</c><00:01:37.119><c> avatar</c><00:01:37.680><c> of</c>
+
+00:01:37.910 --> 00:01:37.920 align:start position:0%
+already, I'm the digital avatar of
+ 
+
+00:01:37.920 --> 00:01:40.550 align:start position:0%
+already, I'm the digital avatar of
+Julian<00:01:38.400><c> Goldie,</c><00:01:38.960><c> CEO</c><00:01:39.280><c> of</c><00:01:39.360><c> Goldie</c><00:01:39.840><c> Agency,</c>
+
+00:01:40.550 --> 00:01:40.560 align:start position:0%
+Julian Goldie, CEO of Goldie Agency,
+ 
+
+00:01:40.560 --> 00:01:42.069 align:start position:0%
+Julian Goldie, CEO of Goldie Agency,
+whilst<00:01:40.799><c> he's</c><00:01:41.040><c> helping</c><00:01:41.360><c> clients</c><00:01:41.759><c> get</c><00:01:41.920><c> more</c>
+
+00:01:42.069 --> 00:01:42.079 align:start position:0%
+whilst he's helping clients get more
+ 
+
+00:01:42.079 --> 00:01:43.910 align:start position:0%
+whilst he's helping clients get more
+leads<00:01:42.320><c> and</c><00:01:42.640><c> customers.</c><00:01:43.280><c> I'm</c><00:01:43.520><c> here</c><00:01:43.680><c> to</c><00:01:43.840><c> help</c>
+
+00:01:43.910 --> 00:01:43.920 align:start position:0%
+leads and customers. I'm here to help
+ 
+
+00:01:43.920 --> 00:01:46.310 align:start position:0%
+leads and customers. I'm here to help
+you<00:01:44.159><c> get</c><00:01:44.320><c> the</c><00:01:44.479><c> latest</c><00:01:44.799><c> AI</c><00:01:45.119><c> updates.</c><00:01:45.759><c> Julian</c>
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+you get the latest AI updates. Julian
+ 
+
+00:01:46.320 --> 00:01:47.910 align:start position:0%
+you get the latest AI updates. Julian
+Goldie<00:01:46.720><c> reads</c><00:01:46.960><c> every</c><00:01:47.200><c> comment,</c><00:01:47.520><c> so</c><00:01:47.759><c> make</c><00:01:47.840><c> sure</c>
+
+00:01:47.910 --> 00:01:47.920 align:start position:0%
+Goldie reads every comment, so make sure
+ 
+
+00:01:47.920 --> 00:01:49.910 align:start position:0%
+Goldie reads every comment, so make sure
+you<00:01:48.159><c> comment</c><00:01:48.399><c> below</c><00:01:49.040><c> with</c><00:01:49.360><c> what</c><00:01:49.600><c> you</c><00:01:49.759><c> think</c>
+
+00:01:49.910 --> 00:01:49.920 align:start position:0%
+you comment below with what you think
+ 
+
+00:01:49.920 --> 00:01:52.550 align:start position:0%
+you comment below with what you think
+about<00:01:50.159><c> Deep</c><00:01:50.479><c> Seek</c><00:01:50.880><c> V4.</c><00:01:51.759><c> All</c><00:01:51.759><c> right,</c><00:01:52.079><c> so</c><00:01:52.320><c> here</c>
+
+00:01:52.550 --> 00:01:52.560 align:start position:0%
+about Deep Seek V4. All right, so here
+ 
+
+00:01:52.560 --> 00:01:54.630 align:start position:0%
+about Deep Seek V4. All right, so here
+is<00:01:52.640><c> what</c><00:01:52.880><c> we</c><00:01:53.040><c> know</c><00:01:53.200><c> so</c><00:01:53.439><c> far,</c><00:01:54.000><c> and</c><00:01:54.240><c> this</c><00:01:54.399><c> is</c><00:01:54.479><c> not</c>
+
+00:01:54.630 --> 00:01:54.640 align:start position:0%
+is what we know so far, and this is not
+ 
+
+00:01:54.640 --> 00:01:56.389 align:start position:0%
+is what we know so far, and this is not
+some<00:01:54.880><c> random</c><00:01:55.280><c> blog.</c><00:01:55.680><c> This</c><00:01:55.840><c> is</c><00:01:56.000><c> one</c><00:01:56.159><c> of</c><00:01:56.240><c> the</c>
+
+00:01:56.389 --> 00:01:56.399 align:start position:0%
+some random blog. This is one of the
+ 
+
+00:01:56.399 --> 00:01:58.389 align:start position:0%
+some random blog. This is one of the
+most<00:01:56.640><c> respected</c><00:01:57.280><c> publications</c><00:01:58.000><c> on</c><00:01:58.240><c> the</c>
+
+00:01:58.389 --> 00:01:58.399 align:start position:0%
+most respected publications on the
+ 
+
+00:01:58.399 --> 00:02:00.550 align:start position:0%
+most respected publications on the
+planet.<00:01:58.960><c> They</c><00:01:59.200><c> reported</c><00:01:59.600><c> that</c><00:01:59.840><c> Deep</c><00:02:00.159><c> Seek</c><00:02:00.399><c> is</c>
+
+00:02:00.550 --> 00:02:00.560 align:start position:0%
+planet. They reported that Deep Seek is
+ 
+
+00:02:00.560 --> 00:02:03.670 align:start position:0%
+planet. They reported that Deep Seek is
+set<00:02:00.719><c> to</c><00:02:00.960><c> release</c><00:02:01.280><c> V4</c><00:02:02.159><c> very</c><00:02:02.479><c> soon.</c><00:02:02.880><c> They</c><00:02:03.119><c> cited</c>
+
+00:02:03.670 --> 00:02:03.680 align:start position:0%
+set to release V4 very soon. They cited
+ 
+
+00:02:03.680 --> 00:02:05.830 align:start position:0%
+set to release V4 very soon. They cited
+two<00:02:03.920><c> people</c><00:02:04.240><c> familiar</c><00:02:04.560><c> with</c><00:02:04.719><c> the</c><00:02:04.960><c> matter.</c><00:02:05.600><c> So</c>
+
+00:02:05.830 --> 00:02:05.840 align:start position:0%
+two people familiar with the matter. So
+ 
+
+00:02:05.840 --> 00:02:07.990 align:start position:0%
+two people familiar with the matter. So
+this<00:02:06.079><c> is</c><00:02:06.240><c> not</c><00:02:06.479><c> just</c><00:02:06.960><c> internet</c><00:02:07.280><c> gossip.</c><00:02:07.840><c> There</c>
+
+00:02:07.990 --> 00:02:08.000 align:start position:0%
+this is not just internet gossip. There
+ 
+
+00:02:08.000 --> 00:02:10.389 align:start position:0%
+this is not just internet gossip. There
+is<00:02:08.239><c> real</c><00:02:08.479><c> weight</c><00:02:08.800><c> behind</c><00:02:09.119><c> this.</c><00:02:09.759><c> Now,</c><00:02:10.000><c> what</c><00:02:10.239><c> is</c>
+
+00:02:10.389 --> 00:02:10.399 align:start position:0%
+is real weight behind this. Now, what is
+ 
+
+00:02:10.399 --> 00:02:12.710 align:start position:0%
+is real weight behind this. Now, what is
+actually<00:02:10.640><c> in</c><00:02:10.879><c> V4?</c><00:02:11.520><c> Based</c><00:02:11.920><c> on</c><00:02:12.080><c> what</c><00:02:12.239><c> is</c><00:02:12.480><c> being</c>
+
+00:02:12.710 --> 00:02:12.720 align:start position:0%
+actually in V4? Based on what is being
+ 
+
+00:02:12.720 --> 00:02:14.790 align:start position:0%
+actually in V4? Based on what is being
+reported,<00:02:13.599><c> this</c><00:02:13.760><c> model</c><00:02:14.080><c> is</c><00:02:14.319><c> going</c><00:02:14.480><c> to</c><00:02:14.560><c> be</c>
+
+00:02:14.790 --> 00:02:14.800 align:start position:0%
+reported, this model is going to be
+ 
+
+00:02:14.800 --> 00:02:16.949 align:start position:0%
+reported, this model is going to be
+fully<00:02:15.200><c> multimodal.</c><00:02:16.080><c> That</c><00:02:16.239><c> means</c><00:02:16.480><c> it</c><00:02:16.640><c> will</c><00:02:16.800><c> not</c>
+
+00:02:16.949 --> 00:02:16.959 align:start position:0%
+fully multimodal. That means it will not
+ 
+
+00:02:16.959 --> 00:02:19.670 align:start position:0%
+fully multimodal. That means it will not
+just<00:02:17.200><c> handle</c><00:02:17.599><c> text.</c><00:02:18.239><c> It</c><00:02:18.400><c> will</c><00:02:18.560><c> handle</c><00:02:18.879><c> images,</c>
+
+00:02:19.670 --> 00:02:19.680 align:start position:0%
+just handle text. It will handle images,
+ 
+
+00:02:19.680 --> 00:02:21.670 align:start position:0%
+just handle text. It will handle images,
+video,<00:02:20.080><c> and</c><00:02:20.319><c> text</c><00:02:20.640><c> generation</c><00:02:21.120><c> all</c><00:02:21.280><c> in</c><00:02:21.520><c> one</c>
+
+00:02:21.670 --> 00:02:21.680 align:start position:0%
+video, and text generation all in one
+ 
+
+00:02:21.680 --> 00:02:23.430 align:start position:0%
+video, and text generation all in one
+model.<00:02:22.000><c> Think</c><00:02:22.239><c> about</c><00:02:22.319><c> that</c><00:02:22.480><c> for</c><00:02:22.640><c> a</c><00:02:22.879><c> second.</c>
+
+00:02:23.430 --> 00:02:23.440 align:start position:0%
+model. Think about that for a second.
+ 
+
+00:02:23.440 --> 00:02:25.190 align:start position:0%
+model. Think about that for a second.
+One<00:02:23.680><c> model</c><00:02:23.920><c> that</c><00:02:24.160><c> does</c><00:02:24.400><c> everything.</c><00:02:24.879><c> That</c><00:02:25.120><c> is</c>
+
+00:02:25.190 --> 00:02:25.200 align:start position:0%
+One model that does everything. That is
+ 
+
+00:02:25.200 --> 00:02:26.630 align:start position:0%
+One model that does everything. That is
+a<00:02:25.360><c> massive</c><00:02:25.680><c> leap</c><00:02:25.920><c> from</c><00:02:26.160><c> what</c><00:02:26.319><c> they</c><00:02:26.480><c> had</c>
+
+00:02:26.630 --> 00:02:26.640 align:start position:0%
+a massive leap from what they had
+ 
+
+00:02:26.640 --> 00:02:28.869 align:start position:0%
+a massive leap from what they had
+before.<00:02:27.599><c> But</c><00:02:27.760><c> here</c><00:02:28.000><c> is</c><00:02:28.080><c> where</c><00:02:28.319><c> it</c><00:02:28.480><c> gets</c><00:02:28.640><c> even</c>
+
+00:02:28.869 --> 00:02:28.879 align:start position:0%
+before. But here is where it gets even
+ 
+
+00:02:28.879 --> 00:02:30.309 align:start position:0%
+before. But here is where it gets even
+more<00:02:29.120><c> interesting.</c><00:02:29.599><c> Reports</c><00:02:30.000><c> are</c><00:02:30.160><c> saying</c>
+
+00:02:30.309 --> 00:02:30.319 align:start position:0%
+more interesting. Reports are saying
+ 
+
+00:02:30.319 --> 00:02:32.229 align:start position:0%
+more interesting. Reports are saying
+that<00:02:30.560><c> Deep</c><00:02:30.879><c> Seek</c><00:02:31.200><c> worked</c><00:02:31.599><c> directly</c><00:02:31.920><c> with</c>
+
+00:02:32.229 --> 00:02:32.239 align:start position:0%
+that Deep Seek worked directly with
+ 
+
+00:02:32.239 --> 00:02:34.949 align:start position:0%
+that Deep Seek worked directly with
+Huawei<00:02:32.640><c> and</c><00:02:32.879><c> Camcon,</c><00:02:33.760><c> two</c><00:02:34.080><c> major</c><00:02:34.560><c> Chinese</c>
+
+00:02:34.949 --> 00:02:34.959 align:start position:0%
+Huawei and Camcon, two major Chinese
+ 
+
+00:02:34.959 --> 00:02:37.270 align:start position:0%
+Huawei and Camcon, two major Chinese
+chip<00:02:35.280><c> makers,</c><00:02:35.840><c> to</c><00:02:36.080><c> optimize</c><00:02:36.560><c> this</c><00:02:36.800><c> model.</c>
+
+00:02:37.270 --> 00:02:37.280 align:start position:0%
+chip makers, to optimize this model.
+ 
+
+00:02:37.280 --> 00:02:39.589 align:start position:0%
+chip makers, to optimize this model.
+That<00:02:37.519><c> is</c><00:02:37.599><c> a</c><00:02:37.760><c> huge</c><00:02:38.080><c> signal.</c><00:02:38.560><c> It</c><00:02:38.800><c> means</c><00:02:39.040><c> China</c><00:02:39.360><c> is</c>
+
+00:02:39.589 --> 00:02:39.599 align:start position:0%
+That is a huge signal. It means China is
+ 
+
+00:02:39.599 --> 00:02:42.309 align:start position:0%
+That is a huge signal. It means China is
+building<00:02:40.000><c> its</c><00:02:40.319><c> own</c><00:02:40.480><c> AI</c><00:02:40.879><c> pipeline</c><00:02:41.680><c> from</c><00:02:42.080><c> the</c>
+
+00:02:42.309 --> 00:02:42.319 align:start position:0%
+building its own AI pipeline from the
+ 
+
+00:02:42.319 --> 00:02:43.750 align:start position:0%
+building its own AI pipeline from the
+ground<00:02:42.480><c> up.</c><00:02:42.800><c> Their</c><00:02:42.959><c> own</c><00:02:43.120><c> chips,</c><00:02:43.440><c> their</c><00:02:43.599><c> own</c>
+
+00:02:43.750 --> 00:02:43.760 align:start position:0%
+ground up. Their own chips, their own
+ 
+
+00:02:43.760 --> 00:02:45.990 align:start position:0%
+ground up. Their own chips, their own
+models,<00:02:44.239><c> their</c><00:02:44.400><c> own</c><00:02:44.560><c> ecosystem</c><00:02:45.440><c> and</c><00:02:45.680><c> they</c><00:02:45.840><c> are</c>
+
+00:02:45.990 --> 00:02:46.000 align:start position:0%
+models, their own ecosystem and they are
+ 
+
+00:02:46.000 --> 00:02:47.670 align:start position:0%
+models, their own ecosystem and they are
+not<00:02:46.160><c> waiting</c><00:02:46.480><c> around</c><00:02:46.720><c> for</c><00:02:46.959><c> anyone</c><00:02:47.200><c> else.</c><00:02:47.440><c> Now</c>
+
+00:02:47.670 --> 00:02:47.680 align:start position:0%
+not waiting around for anyone else. Now
+ 
+
+00:02:47.680 --> 00:02:49.190 align:start position:0%
+not waiting around for anyone else. Now
+I<00:02:47.840><c> have</c><00:02:47.920><c> to</c><00:02:48.080><c> talk</c><00:02:48.239><c> about</c><00:02:48.400><c> the</c><00:02:48.560><c> leaks</c><00:02:48.959><c> because</c>
+
+00:02:49.190 --> 00:02:49.200 align:start position:0%
+I have to talk about the leaks because
+ 
+
+00:02:49.200 --> 00:02:51.350 align:start position:0%
+I have to talk about the leaks because
+they<00:02:49.440><c> are</c><00:02:49.680><c> everywhere</c><00:02:50.560><c> and</c><00:02:50.800><c> I</c><00:02:51.040><c> want</c><00:02:51.120><c> to</c><00:02:51.280><c> be</c>
+
+00:02:51.350 --> 00:02:51.360 align:start position:0%
+they are everywhere and I want to be
+ 
+
+00:02:51.360 --> 00:02:52.949 align:start position:0%
+they are everywhere and I want to be
+super<00:02:51.599><c> honest</c><00:02:51.840><c> with</c><00:02:52.000><c> you</c><00:02:52.160><c> here.</c><00:02:52.400><c> The</c><00:02:52.640><c> leaked</c>
+
+00:02:52.949 --> 00:02:52.959 align:start position:0%
+super honest with you here. The leaked
+ 
+
+00:02:52.959 --> 00:02:54.630 align:start position:0%
+super honest with you here. The leaked
+benchmarks<00:02:53.599><c> floating</c><00:02:53.920><c> around</c><00:02:54.080><c> on</c><00:02:54.319><c> social</c>
+
+00:02:54.630 --> 00:02:54.640 align:start position:0%
+benchmarks floating around on social
+ 
+
+00:02:54.640 --> 00:02:56.710 align:start position:0%
+benchmarks floating around on social
+media<00:02:54.879><c> right</c><00:02:55.120><c> now.</c><00:02:55.760><c> Most</c><00:02:55.920><c> of</c><00:02:56.080><c> them</c><00:02:56.319><c> are</c>
+
+00:02:56.710 --> 00:02:56.720 align:start position:0%
+media right now. Most of them are
+ 
+
+00:02:56.720 --> 00:02:58.949 align:start position:0%
+media right now. Most of them are
+completely<00:02:57.200><c> unverified.</c><00:02:58.319><c> I</c><00:02:58.560><c> am</c><00:02:58.720><c> talking</c>
+
+00:02:58.949 --> 00:02:58.959 align:start position:0%
+completely unverified. I am talking
+ 
+
+00:02:58.959 --> 00:03:01.910 align:start position:0%
+completely unverified. I am talking
+about<00:02:59.200><c> numbers</c><00:02:59.599><c> like</c><00:02:59.920><c> 83.7%</c><00:03:01.280><c> on</c><00:03:01.440><c> a</c><00:03:01.599><c> major</c>
+
+00:03:01.910 --> 00:03:01.920 align:start position:0%
+about numbers like 83.7% on a major
+ 
+
+00:03:01.920 --> 00:03:03.670 align:start position:0%
+about numbers like 83.7% on a major
+coding<00:03:02.239><c> benchmark.</c><00:03:02.959><c> Numbers</c><00:03:03.280><c> that</c><00:03:03.519><c> would</c>
+
+00:03:03.670 --> 00:03:03.680 align:start position:0%
+coding benchmark. Numbers that would
+ 
+
+00:03:03.680 --> 00:03:05.589 align:start position:0%
+coding benchmark. Numbers that would
+make<00:03:03.840><c> it</c><00:03:04.080><c> the</c><00:03:04.239><c> best</c><00:03:04.480><c> coding</c><00:03:04.800><c> model</c><00:03:05.120><c> in</c><00:03:05.440><c> the</c>
+
+00:03:05.589 --> 00:03:05.599 align:start position:0%
+make it the best coding model in the
+ 
+
+00:03:05.599 --> 00:03:07.670 align:start position:0%
+make it the best coding model in the
+world.<00:03:06.080><c> claims</c><00:03:06.400><c> that</c><00:03:06.560><c> it</c><00:03:06.800><c> is</c><00:03:06.959><c> outperforming</c>
+
+00:03:07.670 --> 00:03:07.680 align:start position:0%
+world. claims that it is outperforming
+ 
+
+00:03:07.680 --> 00:03:09.509 align:start position:0%
+world. claims that it is outperforming
+everything<00:03:08.000><c> on</c><00:03:08.239><c> Frontier</c><00:03:08.720><c> Math</c><00:03:08.959><c> by</c><00:03:09.120><c> insane</c>
+
+00:03:09.509 --> 00:03:09.519 align:start position:0%
+everything on Frontier Math by insane
+ 
+
+00:03:09.519 --> 00:03:11.750 align:start position:0%
+everything on Frontier Math by insane
+margins.<00:03:10.239><c> If</c><00:03:10.480><c> those</c><00:03:10.720><c> numbers</c><00:03:10.959><c> are</c><00:03:11.120><c> real,</c><00:03:11.519><c> we</c>
+
+00:03:11.750 --> 00:03:11.760 align:start position:0%
+margins. If those numbers are real, we
+ 
+
+00:03:11.760 --> 00:03:13.670 align:start position:0%
+margins. If those numbers are real, we
+are<00:03:11.920><c> looking</c><00:03:12.080><c> at</c><00:03:12.239><c> a</c><00:03:12.480><c> complete</c><00:03:12.879><c> reset</c><00:03:13.200><c> of</c><00:03:13.440><c> every</c>
+
+00:03:13.670 --> 00:03:13.680 align:start position:0%
+are looking at a complete reset of every
+ 
+
+00:03:13.680 --> 00:03:16.309 align:start position:0%
+are looking at a complete reset of every
+AI<00:03:14.080><c> leaderboard</c><00:03:14.640><c> that</c><00:03:14.879><c> exists.</c><00:03:15.840><c> But</c><00:03:16.000><c> here</c><00:03:16.239><c> is</c>
+
+00:03:16.309 --> 00:03:16.319 align:start position:0%
+AI leaderboard that exists. But here is
+ 
+
+00:03:16.319 --> 00:03:18.149 align:start position:0%
+AI leaderboard that exists. But here is
+the<00:03:16.480><c> thing.</c><00:03:16.959><c> I</c><00:03:17.200><c> am</c><00:03:17.360><c> not</c><00:03:17.519><c> going</c><00:03:17.599><c> to</c><00:03:17.760><c> sit</c><00:03:17.920><c> here</c>
+
+00:03:18.149 --> 00:03:18.159 align:start position:0%
+the thing. I am not going to sit here
+ 
+
+00:03:18.159 --> 00:03:21.430 align:start position:0%
+the thing. I am not going to sit here
+and<00:03:18.319><c> hype</c><00:03:18.640><c> up</c><00:03:18.879><c> fake</c><00:03:19.200><c> benchmarks.</c><00:03:20.159><c> 99%</c><00:03:21.040><c> of</c><00:03:21.280><c> what</c>
+
+00:03:21.430 --> 00:03:21.440 align:start position:0%
+and hype up fake benchmarks. 99% of what
+ 
+
+00:03:21.440 --> 00:03:23.589 align:start position:0%
+and hype up fake benchmarks. 99% of what
+you<00:03:21.599><c> are</c><00:03:21.760><c> seeing</c><00:03:22.000><c> on</c><00:03:22.239><c> social</c><00:03:22.480><c> media</c><00:03:22.800><c> right</c><00:03:23.120><c> now</c>
+
+00:03:23.589 --> 00:03:23.599 align:start position:0%
+you are seeing on social media right now
+ 
+
+00:03:23.599 --> 00:03:25.589 align:start position:0%
+you are seeing on social media right now
+is<00:03:23.920><c> fabricated.</c><00:03:24.800><c> People</c><00:03:24.959><c> are</c><00:03:25.120><c> making</c><00:03:25.440><c> stuff</c>
+
+00:03:25.589 --> 00:03:25.599 align:start position:0%
+is fabricated. People are making stuff
+ 
+
+00:03:25.599 --> 00:03:27.990 align:start position:0%
+is fabricated. People are making stuff
+up<00:03:25.840><c> for</c><00:03:26.000><c> clicks.</c><00:03:26.720><c> So</c><00:03:26.959><c> take</c><00:03:27.200><c> every</c><00:03:27.519><c> leaked</c>
+
+00:03:27.990 --> 00:03:28.000 align:start position:0%
+up for clicks. So take every leaked
+ 
+
+00:03:28.000 --> 00:03:29.589 align:start position:0%
+up for clicks. So take every leaked
+benchmark<00:03:28.480><c> you</c><00:03:28.640><c> see</c><00:03:28.800><c> with</c><00:03:28.959><c> a</c><00:03:29.120><c> massive</c><00:03:29.360><c> grain</c>
+
+00:03:29.589 --> 00:03:29.599 align:start position:0%
+benchmark you see with a massive grain
+ 
+
+00:03:29.599 --> 00:03:31.750 align:start position:0%
+benchmark you see with a massive grain
+of<00:03:29.760><c> salt</c><00:03:30.239><c> until</c><00:03:30.640><c> Deep</c><00:03:30.959><c> Seek</c><00:03:31.200><c> actually</c><00:03:31.519><c> drops</c>
+
+00:03:31.750 --> 00:03:31.760 align:start position:0%
+of salt until Deep Seek actually drops
+ 
+
+00:03:31.760 --> 00:03:33.589 align:start position:0%
+of salt until Deep Seek actually drops
+the<00:03:32.000><c> real</c><00:03:32.239><c> numbers.</c><00:03:32.640><c> That</c><00:03:32.879><c> said,</c><00:03:33.120><c> even</c><00:03:33.280><c> if</c><00:03:33.440><c> the</c>
+
+00:03:33.589 --> 00:03:33.599 align:start position:0%
+the real numbers. That said, even if the
+ 
+
+00:03:33.599 --> 00:03:35.750 align:start position:0%
+the real numbers. That said, even if the
+real<00:03:33.840><c> model</c><00:03:34.319><c> hits</c><00:03:34.640><c> half</c><00:03:34.879><c> of</c><00:03:35.040><c> what</c><00:03:35.200><c> these</c><00:03:35.440><c> leaks</c>
+
+00:03:35.750 --> 00:03:35.760 align:start position:0%
+real model hits half of what these leaks
+ 
+
+00:03:35.760 --> 00:03:37.270 align:start position:0%
+real model hits half of what these leaks
+are<00:03:35.920><c> suggesting,</c><00:03:36.400><c> it</c><00:03:36.560><c> is</c><00:03:36.720><c> still</c><00:03:36.959><c> going</c><00:03:37.040><c> to</c><00:03:37.120><c> be</c>
+
+00:03:37.270 --> 00:03:37.280 align:start position:0%
+are suggesting, it is still going to be
+ 
+
+00:03:37.280 --> 00:03:39.110 align:start position:0%
+are suggesting, it is still going to be
+absolutely<00:03:37.840><c> insane.</c><00:03:38.480><c> Now,</c><00:03:38.720><c> let</c><00:03:38.879><c> me</c><00:03:38.959><c> talk</c>
+
+00:03:39.110 --> 00:03:39.120 align:start position:0%
+absolutely insane. Now, let me talk
+ 
+
+00:03:39.120 --> 00:03:41.190 align:start position:0%
+absolutely insane. Now, let me talk
+about<00:03:39.280><c> the</c><00:03:39.440><c> timing</c><00:03:40.159><c> because</c><00:03:40.480><c> this</c><00:03:40.720><c> is</c><00:03:40.879><c> really</c>
+
+00:03:41.190 --> 00:03:41.200 align:start position:0%
+about the timing because this is really
+ 
+
+00:03:41.200 --> 00:03:43.430 align:start position:0%
+about the timing because this is really
+smart.<00:03:41.760><c> Deep</c><00:03:42.080><c> Seek</c><00:03:42.400><c> is</c><00:03:42.640><c> not</c><00:03:42.879><c> dropping</c><00:03:43.200><c> this</c>
+
+00:03:43.430 --> 00:03:43.440 align:start position:0%
+smart. Deep Seek is not dropping this
+ 
+
+00:03:43.440 --> 00:03:45.750 align:start position:0%
+smart. Deep Seek is not dropping this
+randomly.<00:03:44.239><c> China's</c><00:03:44.720><c> annual</c><00:03:45.120><c> parliamentary</c>
+
+00:03:45.750 --> 00:03:45.760 align:start position:0%
+randomly. China's annual parliamentary
+ 
+
+00:03:45.760 --> 00:03:48.149 align:start position:0%
+randomly. China's annual parliamentary
+session<00:03:46.159><c> starts</c><00:03:46.400><c> on</c><00:03:46.640><c> March</c><00:03:46.959><c> 4th.</c><00:03:47.599><c> Chinese</c><00:03:48.000><c> New</c>
+
+00:03:48.149 --> 00:03:48.159 align:start position:0%
+session starts on March 4th. Chinese New
+ 
+
+00:03:48.159 --> 00:03:51.030 align:start position:0%
+session starts on March 4th. Chinese New
+Year<00:03:48.400><c> just</c><00:03:48.640><c> wrapped</c><00:03:48.959><c> up.</c><00:03:49.519><c> So,</c><00:03:50.080><c> releasing</c><00:03:50.480><c> V4</c>
+
+00:03:51.030 --> 00:03:51.040 align:start position:0%
+Year just wrapped up. So, releasing V4
+ 
+
+00:03:51.040 --> 00:03:52.949 align:start position:0%
+Year just wrapped up. So, releasing V4
+right<00:03:51.280><c> before</c><00:03:51.519><c> all</c><00:03:51.760><c> of</c><00:03:51.840><c> that</c><00:03:52.080><c> is</c><00:03:52.319><c> a</c><00:03:52.560><c> massive</c>
+
+00:03:52.949 --> 00:03:52.959 align:start position:0%
+right before all of that is a massive
+ 
+
+00:03:52.959 --> 00:03:54.789 align:start position:0%
+right before all of that is a massive
+statement.<00:03:53.360><c> Deepseek</c><00:03:53.920><c> is</c><00:03:54.080><c> not</c><00:03:54.239><c> just</c><00:03:54.400><c> a</c><00:03:54.560><c> tech</c>
+
+00:03:54.789 --> 00:03:54.799 align:start position:0%
+statement. Deepseek is not just a tech
+ 
+
+00:03:54.799 --> 00:03:57.030 align:start position:0%
+statement. Deepseek is not just a tech
+company<00:03:55.120><c> anymore.</c><00:03:55.680><c> It</c><00:03:55.840><c> has</c><00:03:56.000><c> become</c><00:03:56.239><c> a</c><00:03:56.480><c> symbol</c>
+
+00:03:57.030 --> 00:03:57.040 align:start position:0%
+company anymore. It has become a symbol
+ 
+
+00:03:57.040 --> 00:04:00.149 align:start position:0%
+company anymore. It has become a symbol
+of<00:03:57.280><c> what</c><00:03:57.599><c> China</c><00:03:58.000><c> can</c><00:03:58.159><c> do</c><00:03:58.400><c> in</c><00:03:58.640><c> AI.</c><00:03:59.519><c> And</c><00:03:59.840><c> dropping</c>
+
+00:04:00.149 --> 00:04:00.159 align:start position:0%
+of what China can do in AI. And dropping
+ 
+
+00:04:00.159 --> 00:04:02.070 align:start position:0%
+of what China can do in AI. And dropping
+a<00:04:00.319><c> model</c><00:04:00.560><c> like</c><00:04:00.799><c> this</c><00:04:01.040><c> right</c><00:04:01.280><c> before</c><00:04:01.519><c> a</c><00:04:01.760><c> major</c>
+
+00:04:02.070 --> 00:04:02.080 align:start position:0%
+a model like this right before a major
+ 
+
+00:04:02.080 --> 00:04:04.309 align:start position:0%
+a model like this right before a major
+political<00:04:02.560><c> event</c><00:04:02.959><c> is</c><00:04:03.280><c> basically</c><00:04:03.680><c> saying</c><00:04:04.080><c> look</c>
+
+00:04:04.309 --> 00:04:04.319 align:start position:0%
+political event is basically saying look
+ 
+
+00:04:04.319 --> 00:04:06.630 align:start position:0%
+political event is basically saying look
+what<00:04:04.560><c> we</c><00:04:04.799><c> built.</c><00:04:05.360><c> That</c><00:04:05.519><c> is</c><00:04:05.680><c> some</c><00:04:05.920><c> next</c><00:04:06.239><c> level</c>
+
+00:04:06.630 --> 00:04:06.640 align:start position:0%
+what we built. That is some next level
+ 
+
+00:04:06.640 --> 00:04:08.869 align:start position:0%
+what we built. That is some next level
+positioning.<00:04:07.519><c> Now</c><00:04:07.760><c> real</c><00:04:08.000><c> quick,</c><00:04:08.319><c> if</c><00:04:08.560><c> you</c><00:04:08.720><c> are</c>
+
+00:04:08.869 --> 00:04:08.879 align:start position:0%
+positioning. Now real quick, if you are
+ 
+
+00:04:08.879 --> 00:04:10.949 align:start position:0%
+positioning. Now real quick, if you are
+watching<00:04:09.200><c> this</c><00:04:09.680><c> and</c><00:04:09.840><c> you</c><00:04:10.080><c> are</c><00:04:10.239><c> thinking</c><00:04:10.799><c> how</c>
+
+00:04:10.949 --> 00:04:10.959 align:start position:0%
+watching this and you are thinking how
+ 
+
+00:04:10.959 --> 00:04:13.270 align:start position:0%
+watching this and you are thinking how
+do<00:04:11.120><c> I</c><00:04:11.360><c> actually</c><00:04:11.680><c> use</c><00:04:12.080><c> AI</c><00:04:12.400><c> tools</c><00:04:12.720><c> like</c><00:04:12.879><c> this</c><00:04:13.040><c> to</c>
+
+00:04:13.270 --> 00:04:13.280 align:start position:0%
+do I actually use AI tools like this to
+ 
+
+00:04:13.280 --> 00:04:15.270 align:start position:0%
+do I actually use AI tools like this to
+grow<00:04:13.519><c> my</c><00:04:13.760><c> business</c><00:04:13.920><c> and</c><00:04:14.239><c> stay</c><00:04:14.400><c> ahead,</c><00:04:15.040><c> you</c>
+
+00:04:15.270 --> 00:04:15.280 align:start position:0%
+grow my business and stay ahead, you
+ 
+
+00:04:15.280 --> 00:04:17.030 align:start position:0%
+grow my business and stay ahead, you
+need<00:04:15.439><c> to</c><00:04:15.599><c> check</c><00:04:15.760><c> out</c><00:04:15.920><c> the</c><00:04:16.239><c> AI</c><00:04:16.639><c> profit</c>
+
+00:04:17.030 --> 00:04:17.040 align:start position:0%
+need to check out the AI profit
+ 
+
+00:04:17.040 --> 00:04:19.030 align:start position:0%
+need to check out the AI profit
+boardroom.<00:04:17.759><c> It</c><00:04:17.919><c> is</c><00:04:18.079><c> the</c><00:04:18.239><c> best</c><00:04:18.400><c> place</c><00:04:18.639><c> to</c><00:04:18.880><c> learn</c>
+
+00:04:19.030 --> 00:04:19.040 align:start position:0%
+boardroom. It is the best place to learn
+ 
+
+00:04:19.040 --> 00:04:21.030 align:start position:0%
+boardroom. It is the best place to learn
+how<00:04:19.280><c> to</c><00:04:19.440><c> use</c><00:04:19.680><c> powerful</c><00:04:20.079><c> AI</c><00:04:20.479><c> models</c><00:04:20.799><c> like</c>
+
+00:04:21.030 --> 00:04:21.040 align:start position:0%
+how to use powerful AI models like
+ 
+
+00:04:21.040 --> 00:04:24.070 align:start position:0%
+how to use powerful AI models like
+Deepseek<00:04:21.759><c> V4</c><00:04:22.560><c> to</c><00:04:22.880><c> automate</c><00:04:23.360><c> your</c><00:04:23.520><c> workflows</c>
+
+00:04:24.070 --> 00:04:24.080 align:start position:0%
+Deepseek V4 to automate your workflows
+ 
+
+00:04:24.080 --> 00:04:26.230 align:start position:0%
+Deepseek V4 to automate your workflows
+and<00:04:24.400><c> get</c><00:04:24.560><c> more</c><00:04:24.800><c> customers.</c><00:04:25.600><c> I</c><00:04:25.759><c> will</c><00:04:25.919><c> drop</c><00:04:26.080><c> the</c>
+
+00:04:26.230 --> 00:04:26.240 align:start position:0%
+and get more customers. I will drop the
+ 
+
+00:04:26.240 --> 00:04:28.150 align:start position:0%
+and get more customers. I will drop the
+link<00:04:26.479><c> in</c><00:04:26.639><c> the</c><00:04:26.800><c> description</c><00:04:27.280><c> and</c><00:04:27.600><c> comments.</c>
+
+00:04:28.150 --> 00:04:28.160 align:start position:0%
+link in the description and comments.
+ 
+
+00:04:28.160 --> 00:04:30.070 align:start position:0%
+link in the description and comments.
+Seriously,<00:04:28.720><c> go</c><00:04:28.960><c> check</c><00:04:29.120><c> it</c><00:04:29.280><c> out.</c><00:04:29.759><c> All</c><00:04:29.759><c> right,</c>
+
+00:04:30.070 --> 00:04:30.080 align:start position:0%
+Seriously, go check it out. All right,
+ 
+
+00:04:30.080 --> 00:04:32.310 align:start position:0%
+Seriously, go check it out. All right,
+back<00:04:30.320><c> to</c><00:04:30.479><c> V4.</c><00:04:31.280><c> Now,</c><00:04:31.520><c> there</c><00:04:31.680><c> is</c><00:04:31.759><c> some</c><00:04:31.919><c> drama</c>
+
+00:04:32.310 --> 00:04:32.320 align:start position:0%
+back to V4. Now, there is some drama
+ 
+
+00:04:32.320 --> 00:04:34.150 align:start position:0%
+back to V4. Now, there is some drama
+around<00:04:32.560><c> this</c><00:04:32.800><c> too</c><00:04:33.040><c> and</c><00:04:33.199><c> I</c><00:04:33.440><c> think</c><00:04:33.520><c> it</c><00:04:33.759><c> is</c><00:04:33.919><c> worth</c>
+
+00:04:34.150 --> 00:04:34.160 align:start position:0%
+around this too and I think it is worth
+ 
+
+00:04:34.160 --> 00:04:36.310 align:start position:0%
+around this too and I think it is worth
+talking<00:04:34.479><c> about.</c><00:04:35.040><c> Anthropic</c><00:04:35.759><c> has</c><00:04:36.000><c> actually</c>
+
+00:04:36.310 --> 00:04:36.320 align:start position:0%
+talking about. Anthropic has actually
+ 
+
+00:04:36.320 --> 00:04:38.550 align:start position:0%
+talking about. Anthropic has actually
+accused<00:04:36.960><c> Deepseek</c><00:04:37.680><c> of</c><00:04:38.000><c> something</c><00:04:38.320><c> called</c>
+
+00:04:38.550 --> 00:04:38.560 align:start position:0%
+accused Deepseek of something called
+ 
+
+00:04:38.560 --> 00:04:40.790 align:start position:0%
+accused Deepseek of something called
+distillation<00:04:39.280><c> attacks.</c><00:04:40.000><c> What</c><00:04:40.240><c> that</c><00:04:40.400><c> means</c><00:04:40.560><c> is</c>
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+distillation attacks. What that means is
+ 
+
+00:04:40.800 --> 00:04:42.550 align:start position:0%
+distillation attacks. What that means is
+they<00:04:40.960><c> are</c><00:04:41.120><c> claiming</c><00:04:41.360><c> that</c><00:04:41.600><c> Deepseek</c><00:04:42.240><c> ran</c>
+
+00:04:42.550 --> 00:04:42.560 align:start position:0%
+they are claiming that Deepseek ran
+ 
+
+00:04:42.560 --> 00:04:45.270 align:start position:0%
+they are claiming that Deepseek ran
+hundreds<00:04:43.040><c> of</c><00:04:43.280><c> thousands</c><00:04:43.759><c> of</c><00:04:44.080><c> queries</c><00:04:44.960><c> through</c>
+
+00:04:45.270 --> 00:04:45.280 align:start position:0%
+hundreds of thousands of queries through
+ 
+
+00:04:45.280 --> 00:04:47.189 align:start position:0%
+hundreds of thousands of queries through
+other<00:04:45.600><c> companies</c><00:04:46.080><c> models</c><00:04:46.560><c> and</c><00:04:46.800><c> then</c><00:04:47.040><c> use</c>
+
+00:04:47.189 --> 00:04:47.199 align:start position:0%
+other companies models and then use
+ 
+
+00:04:47.199 --> 00:04:49.503 align:start position:0%
+other companies models and then use
+those<00:04:47.440><c> outputs</c><00:04:47.919><c> to</c><00:04:48.160><c> train</c><00:04:48.479><c> their</c><00:04:48.720><c> own</c><00:04:48.960><c> model.</c>
+
+00:04:49.503 --> 00:04:49.513 align:start position:0%
+those outputs to train their own model.
+ 
+
+00:04:49.513 --> 00:04:51.350 align:start position:0%
+those outputs to train their own model.
+[snorts]<00:04:49.840><c> And</c><00:04:50.000><c> it</c><00:04:50.240><c> is</c><00:04:50.400><c> not</c><00:04:50.479><c> just</c><00:04:50.720><c> Deepseek</c>
+
+00:04:51.350 --> 00:04:51.360 align:start position:0%
+[snorts] And it is not just Deepseek
+ 
+
+00:04:51.360 --> 00:04:53.270 align:start position:0%
+[snorts] And it is not just Deepseek
+they<00:04:51.520><c> are</c><00:04:51.680><c> pointing</c><00:04:52.000><c> out.</c><00:04:52.479><c> They</c><00:04:52.639><c> have</c><00:04:52.800><c> named</c>
+
+00:04:53.270 --> 00:04:53.280 align:start position:0%
+they are pointing out. They have named
+ 
+
+00:04:53.280 --> 00:04:55.830 align:start position:0%
+they are pointing out. They have named
+other<00:04:53.600><c> Chinese</c><00:04:54.000><c> labs</c><00:04:54.320><c> like</c><00:04:54.479><c> Miniaax</c><00:04:55.120><c> and</c><00:04:55.360><c> GLM</c>
+
+00:04:55.830 --> 00:04:55.840 align:start position:0%
+other Chinese labs like Miniaax and GLM
+ 
+
+00:04:55.840 --> 00:04:57.909 align:start position:0%
+other Chinese labs like Miniaax and GLM
+as<00:04:56.000><c> well.</c><00:04:56.560><c> Now,</c><00:04:56.800><c> I</c><00:04:57.040><c> am</c><00:04:57.199><c> not</c><00:04:57.360><c> here</c><00:04:57.520><c> to</c><00:04:57.680><c> pick</c>
+
+00:04:57.909 --> 00:04:57.919 align:start position:0%
+as well. Now, I am not here to pick
+ 
+
+00:04:57.919 --> 00:05:00.150 align:start position:0%
+as well. Now, I am not here to pick
+sides<00:04:58.240><c> on</c><00:04:58.400><c> that,</c><00:04:58.560><c> but</c><00:04:58.800><c> I</c><00:04:58.960><c> will</c><00:04:59.120><c> say</c><00:04:59.280><c> this.</c><00:04:59.919><c> When</c>
+
+00:05:00.150 --> 00:05:00.160 align:start position:0%
+sides on that, but I will say this. When
+ 
+
+00:05:00.160 --> 00:05:01.830 align:start position:0%
+sides on that, but I will say this. When
+this<00:05:00.400><c> much</c><00:05:00.639><c> effort</c><00:05:00.960><c> goes</c><00:05:01.199><c> into</c><00:05:01.520><c> trying</c><00:05:01.680><c> to</c>
+
+00:05:01.830 --> 00:05:01.840 align:start position:0%
+this much effort goes into trying to
+ 
+
+00:05:01.840 --> 00:05:03.909 align:start position:0%
+this much effort goes into trying to
+discredit<00:05:02.320><c> a</c><00:05:02.560><c> model</c><00:05:03.120><c> before</c><00:05:03.440><c> it</c><00:05:03.680><c> even</c>
+
+00:05:03.909 --> 00:05:03.919 align:start position:0%
+discredit a model before it even
+ 
+
+00:05:03.919 --> 00:05:06.150 align:start position:0%
+discredit a model before it even
+launches,<00:05:04.880><c> that</c><00:05:05.120><c> usually</c><00:05:05.520><c> tells</c><00:05:05.840><c> you</c>
+
+00:05:06.150 --> 00:05:06.160 align:start position:0%
+launches, that usually tells you
+ 
+
+00:05:06.160 --> 00:05:07.830 align:start position:0%
+launches, that usually tells you
+something.<00:05:06.560><c> It</c><00:05:06.800><c> usually</c><00:05:07.039><c> means</c><00:05:07.360><c> the</c><00:05:07.600><c> people</c>
+
+00:05:07.830 --> 00:05:07.840 align:start position:0%
+something. It usually means the people
+ 
+
+00:05:07.840 --> 00:05:10.070 align:start position:0%
+something. It usually means the people
+doing<00:05:08.080><c> the</c><00:05:08.240><c> talking</c><00:05:08.800><c> are</c><00:05:09.120><c> genuinely</c><00:05:09.759><c> worried</c>
+
+00:05:10.070 --> 00:05:10.080 align:start position:0%
+doing the talking are genuinely worried
+ 
+
+00:05:10.080 --> 00:05:11.590 align:start position:0%
+doing the talking are genuinely worried
+about<00:05:10.320><c> what</c><00:05:10.479><c> is</c><00:05:10.720><c> coming.</c><00:05:11.199><c> Whether</c><00:05:11.440><c> the</c>
+
+00:05:11.590 --> 00:05:11.600 align:start position:0%
+about what is coming. Whether the
+ 
+
+00:05:11.600 --> 00:05:13.189 align:start position:0%
+about what is coming. Whether the
+accusations<00:05:12.160><c> are</c><00:05:12.400><c> true</c><00:05:12.560><c> or</c><00:05:12.720><c> not,</c><00:05:12.880><c> the</c><00:05:13.039><c> fact</c>
+
+00:05:13.189 --> 00:05:13.199 align:start position:0%
+accusations are true or not, the fact
+ 
+
+00:05:13.199 --> 00:05:15.110 align:start position:0%
+accusations are true or not, the fact
+that<00:05:13.360><c> everyone</c><00:05:13.680><c> is</c><00:05:13.840><c> scrambling</c><00:05:14.320><c> right</c><00:05:14.560><c> now</c>
+
+00:05:15.110 --> 00:05:15.120 align:start position:0%
+that everyone is scrambling right now
+ 
+
+00:05:15.120 --> 00:05:17.270 align:start position:0%
+that everyone is scrambling right now
+says<00:05:15.360><c> a</c><00:05:15.520><c> lot</c><00:05:15.600><c> about</c><00:05:15.840><c> how</c><00:05:16.160><c> powerful</c><00:05:16.560><c> V4</c><00:05:17.039><c> might</c>
+
+00:05:17.270 --> 00:05:17.280 align:start position:0%
+says a lot about how powerful V4 might
+ 
+
+00:05:17.280 --> 00:05:19.029 align:start position:0%
+says a lot about how powerful V4 might
+actually<00:05:17.600><c> be.</c><00:05:18.160><c> And</c><00:05:18.320><c> think</c><00:05:18.479><c> about</c><00:05:18.639><c> what</c><00:05:18.880><c> this</c>
+
+00:05:19.029 --> 00:05:19.039 align:start position:0%
+actually be. And think about what this
+ 
+
+00:05:19.039 --> 00:05:20.790 align:start position:0%
+actually be. And think about what this
+means<00:05:19.199><c> for</c><00:05:19.360><c> the</c><00:05:19.520><c> bigger</c><00:05:19.840><c> picture,</c><00:05:20.320><c> Eli.</c><00:05:20.639><c> If</c>
+
+00:05:20.790 --> 00:05:20.800 align:start position:0%
+means for the bigger picture, Eli. If
+ 
+
+00:05:20.800 --> 00:05:23.590 align:start position:0%
+means for the bigger picture, Eli. If
+Deep<00:05:21.039><c> Seek</c><00:05:21.280><c> V4</c><00:05:21.759><c> delivers</c><00:05:22.240><c> on</c><00:05:22.560><c> even</c><00:05:22.800><c> a</c><00:05:23.120><c> fraction</c>
+
+00:05:23.590 --> 00:05:23.600 align:start position:0%
+Deep Seek V4 delivers on even a fraction
+ 
+
+00:05:23.600 --> 00:05:25.830 align:start position:0%
+Deep Seek V4 delivers on even a fraction
+of<00:05:23.840><c> what</c><00:05:24.000><c> is</c><00:05:24.240><c> being</c><00:05:24.400><c> leaked,</c><00:05:25.039><c> it</c><00:05:25.280><c> changes</c><00:05:25.600><c> the</c>
+
+00:05:25.830 --> 00:05:25.840 align:start position:0%
+of what is being leaked, it changes the
+ 
+
+00:05:25.840 --> 00:05:28.469 align:start position:0%
+of what is being leaked, it changes the
+entire<00:05:26.160><c> AI</c><00:05:26.560><c> landscape.</c><00:05:27.520><c> Open-</c><00:05:27.840><c> source</c><00:05:28.080><c> models</c>
+
+00:05:28.469 --> 00:05:28.479 align:start position:0%
+entire AI landscape. Open- source models
+ 
+
+00:05:28.479 --> 00:05:30.790 align:start position:0%
+entire AI landscape. Open- source models
+competing<00:05:28.960><c> at</c><00:05:29.120><c> the</c><00:05:29.280><c> very</c><00:05:29.520><c> top.</c><00:05:29.919><c> A</c><00:05:30.080><c> Chinese</c><00:05:30.400><c> lab</c>
+
+00:05:30.790 --> 00:05:30.800 align:start position:0%
+competing at the very top. A Chinese lab
+ 
+
+00:05:30.800 --> 00:05:32.310 align:start position:0%
+competing at the very top. A Chinese lab
+going<00:05:31.039><c> head-to-head</c><00:05:31.680><c> with</c><00:05:31.840><c> the</c><00:05:32.000><c> biggest</c>
+
+00:05:32.310 --> 00:05:32.320 align:start position:0%
+going head-to-head with the biggest
+ 
+
+00:05:32.320 --> 00:05:34.710 align:start position:0%
+going head-to-head with the biggest
+Western<00:05:32.720><c> AI</c><00:05:33.120><c> companies.</c><00:05:33.919><c> Multimodal</c>
+
+00:05:34.710 --> 00:05:34.720 align:start position:0%
+Western AI companies. Multimodal
+ 
+
+00:05:34.720 --> 00:05:37.670 align:start position:0%
+Western AI companies. Multimodal
+capabilities<00:05:35.600><c> that</c><00:05:35.840><c> cover</c><00:05:36.160><c> text,</c><00:05:36.880><c> images,</c>
+
+00:05:37.670 --> 00:05:37.680 align:start position:0%
+capabilities that cover text, images,
+ 
+
+00:05:37.680 --> 00:05:39.909 align:start position:0%
+capabilities that cover text, images,
+and<00:05:37.919><c> video</c><00:05:38.240><c> allin-one.</c><00:05:39.120><c> Custom</c><00:05:39.520><c> hardware</c>
+
+00:05:39.909 --> 00:05:39.919 align:start position:0%
+and video allin-one. Custom hardware
+ 
+
+00:05:39.919 --> 00:05:41.990 align:start position:0%
+and video allin-one. Custom hardware
+optimization<00:05:40.880><c> that</c><00:05:41.120><c> does</c><00:05:41.280><c> not</c><00:05:41.440><c> depend</c><00:05:41.840><c> on</c>
+
+00:05:41.990 --> 00:05:42.000 align:start position:0%
+optimization that does not depend on
+ 
+
+00:05:42.000 --> 00:05:44.390 align:start position:0%
+optimization that does not depend on
+anyone<00:05:42.400><c> else.</c><00:05:42.960><c> This</c><00:05:43.199><c> is</c><00:05:43.280><c> not</c><00:05:43.440><c> a</c><00:05:43.600><c> small</c><00:05:43.840><c> thing.</c>
+
+00:05:44.390 --> 00:05:44.400 align:start position:0%
+anyone else. This is not a small thing.
+ 
+
+00:05:44.400 --> 00:05:46.469 align:start position:0%
+anyone else. This is not a small thing.
+This<00:05:44.560><c> is</c><00:05:44.720><c> a</c><00:05:44.880><c> potential</c><00:05:45.360><c> shift</c><00:05:45.759><c> in</c><00:05:46.000><c> how</c><00:05:46.240><c> the</c>
+
+00:05:46.469 --> 00:05:46.479 align:start position:0%
+This is a potential shift in how the
+ 
+
+00:05:46.479 --> 00:05:49.189 align:start position:0%
+This is a potential shift in how the
+entire<00:05:46.880><c> AI</c><00:05:47.280><c> industry</c><00:05:47.919><c> works.</c><00:05:48.639><c> Now,</c><00:05:48.880><c> here's</c>
+
+00:05:49.189 --> 00:05:49.199 align:start position:0%
+entire AI industry works. Now, here's
+ 
+
+00:05:49.199 --> 00:05:50.469 align:start position:0%
+entire AI industry works. Now, here's
+what<00:05:49.360><c> I</c><00:05:49.520><c> think</c><00:05:49.600><c> is</c><00:05:49.759><c> going</c><00:05:49.840><c> to</c><00:05:49.919><c> happen.</c><00:05:50.240><c> The</c>
+
+00:05:50.469 --> 00:05:50.479 align:start position:0%
+what I think is going to happen. The
+ 
+
+00:05:50.479 --> 00:05:53.430 align:start position:0%
+what I think is going to happen. The
+moment<00:05:50.639><c> V4</c><00:05:51.199><c> officially</c><00:05:51.759><c> drops,</c><00:05:52.639><c> every</c><00:05:52.960><c> AI</c>
+
+00:05:53.430 --> 00:05:53.440 align:start position:0%
+moment V4 officially drops, every AI
+ 
+
+00:05:53.440 --> 00:05:55.189 align:start position:0%
+moment V4 officially drops, every AI
+researcher,<00:05:54.160><c> every</c><00:05:54.400><c> developer,</c><00:05:54.960><c> every</c>
+
+00:05:55.189 --> 00:05:55.199 align:start position:0%
+researcher, every developer, every
+ 
+
+00:05:55.199 --> 00:05:56.710 align:start position:0%
+researcher, every developer, every
+company<00:05:55.520><c> is</c><00:05:55.759><c> going</c><00:05:55.840><c> to</c><00:05:56.000><c> be</c><00:05:56.080><c> testing</c><00:05:56.400><c> it.</c><00:05:56.560><c> The</c>
+
+00:05:56.710 --> 00:05:56.720 align:start position:0%
+company is going to be testing it. The
+ 
+
+00:05:56.720 --> 00:05:58.550 align:start position:0%
+company is going to be testing it. The
+benchmarks<00:05:57.199><c> are</c><00:05:57.360><c> going</c><00:05:57.440><c> to</c><00:05:57.600><c> start</c><00:05:57.759><c> rolling</c><00:05:58.160><c> in</c>
+
+00:05:58.550 --> 00:05:58.560 align:start position:0%
+benchmarks are going to start rolling in
+ 
+
+00:05:58.560 --> 00:06:00.550 align:start position:0%
+benchmarks are going to start rolling in
+the<00:05:58.800><c> real</c><00:05:58.960><c> ones</c><00:05:59.280><c> this</c><00:05:59.520><c> time.</c><00:06:00.080><c> And</c><00:06:00.240><c> we</c><00:06:00.400><c> are</c>
+
+00:06:00.550 --> 00:06:00.560 align:start position:0%
+the real ones this time. And we are
+ 
+
+00:06:00.560 --> 00:06:02.310 align:start position:0%
+the real ones this time. And we are
+going<00:06:00.639><c> to</c><00:06:00.720><c> see</c><00:06:01.039><c> exactly</c><00:06:01.520><c> where</c><00:06:01.759><c> this</c><00:06:02.000><c> model</c>
+
+00:06:02.310 --> 00:06:02.320 align:start position:0%
+going to see exactly where this model
+ 
+
+00:06:02.320 --> 00:06:03.909 align:start position:0%
+going to see exactly where this model
+stands.<00:06:02.720><c> Does</c><00:06:02.880><c> it</c><00:06:03.039><c> actually</c><00:06:03.280><c> beat</c><00:06:03.520><c> the</c><00:06:03.680><c> top</c>
+
+00:06:03.909 --> 00:06:03.919 align:start position:0%
+stands. Does it actually beat the top
+ 
+
+00:06:03.919 --> 00:06:06.150 align:start position:0%
+stands. Does it actually beat the top
+coding<00:06:04.240><c> models?</c><00:06:04.800><c> Does</c><00:06:05.039><c> the</c><00:06:05.199><c> multimodal</c><00:06:05.919><c> stuff</c>
+
+00:06:06.150 --> 00:06:06.160 align:start position:0%
+coding models? Does the multimodal stuff
+ 
+
+00:06:06.160 --> 00:06:07.510 align:start position:0%
+coding models? Does the multimodal stuff
+actually<00:06:06.560><c> work</c><00:06:06.720><c> as</c><00:06:06.880><c> well</c><00:06:07.039><c> as</c><00:06:07.199><c> they</c><00:06:07.360><c> are</c>
+
+00:06:07.510 --> 00:06:07.520 align:start position:0%
+actually work as well as they are
+ 
+
+00:06:07.520 --> 00:06:09.270 align:start position:0%
+actually work as well as they are
+claiming?<00:06:08.160><c> Does</c><00:06:08.400><c> the</c><00:06:08.560><c> custom</c><00:06:08.960><c> chip</c>
+
+00:06:09.270 --> 00:06:09.280 align:start position:0%
+claiming? Does the custom chip
+ 
+
+00:06:09.280 --> 00:06:11.510 align:start position:0%
+claiming? Does the custom chip
+optimization<00:06:10.319><c> give</c><00:06:10.479><c> it</c><00:06:10.639><c> a</c><00:06:10.800><c> real</c><00:06:10.960><c> edge?</c><00:06:11.360><c> Those</c>
+
+00:06:11.510 --> 00:06:11.520 align:start position:0%
+optimization give it a real edge? Those
+ 
+
+00:06:11.520 --> 00:06:12.790 align:start position:0%
+optimization give it a real edge? Those
+are<00:06:11.600><c> the</c><00:06:11.759><c> questions</c><00:06:12.080><c> everyone</c><00:06:12.400><c> is</c><00:06:12.639><c> going</c><00:06:12.720><c> to</c>
+
+00:06:12.790 --> 00:06:12.800 align:start position:0%
+are the questions everyone is going to
+ 
+
+00:06:12.800 --> 00:06:14.710 align:start position:0%
+are the questions everyone is going to
+be<00:06:12.960><c> asking.</c><00:06:13.360><c> And</c><00:06:13.520><c> I</c><00:06:13.680><c> will</c><00:06:13.840><c> be</c><00:06:14.000><c> right</c><00:06:14.240><c> here</c>
+
+00:06:14.710 --> 00:06:14.720 align:start position:0%
+be asking. And I will be right here
+ 
+
+00:06:14.720 --> 00:06:16.710 align:start position:0%
+be asking. And I will be right here
+breaking<00:06:15.120><c> all</c><00:06:15.360><c> of</c><00:06:15.440><c> it</c><00:06:15.600><c> down</c><00:06:15.840><c> for</c><00:06:16.080><c> you</c><00:06:16.479><c> the</c>
+
+00:06:16.710 --> 00:06:16.720 align:start position:0%
+breaking all of it down for you the
+ 
+
+00:06:16.720 --> 00:06:19.110 align:start position:0%
+breaking all of it down for you the
+second<00:06:16.960><c> it</c><00:06:17.199><c> drops.</c><00:06:17.919><c> every</c><00:06:18.240><c> benchmark,</c><00:06:18.880><c> every</c>
+
+00:06:19.110 --> 00:06:19.120 align:start position:0%
+second it drops. every benchmark, every
+ 
+
+00:06:19.120 --> 00:06:21.350 align:start position:0%
+second it drops. every benchmark, every
+feature,<00:06:19.680><c> every</c><00:06:19.919><c> detail,</c><00:06:20.479><c> you</c><00:06:20.720><c> are</c><00:06:20.960><c> going</c><00:06:21.120><c> to</c>
+
+00:06:21.350 --> 00:06:21.360 align:start position:0%
+feature, every detail, you are going to
+ 
+
+00:06:21.360 --> 00:06:24.150 align:start position:0%
+feature, every detail, you are going to
+get<00:06:21.919><c> the</c><00:06:22.319><c> full</c><00:06:22.800><c> breakdown</c><00:06:23.360><c> on</c><00:06:23.680><c> this</c><00:06:23.840><c> channel.</c>
+
+00:06:24.150 --> 00:06:24.160 align:start position:0%
+get the full breakdown on this channel.
+ 
+
+00:06:24.160 --> 00:06:26.309 align:start position:0%
+get the full breakdown on this channel.
+Now,<00:06:24.400><c> let</c><00:06:24.560><c> me</c><00:06:24.639><c> also</c><00:06:24.880><c> say</c><00:06:25.039><c> this.</c><00:06:25.680><c> Regardless</c><00:06:26.080><c> of</c>
+
+00:06:26.309 --> 00:06:26.319 align:start position:0%
+Now, let me also say this. Regardless of
+ 
+
+00:06:26.319 --> 00:06:27.830 align:start position:0%
+Now, let me also say this. Regardless of
+where<00:06:26.479><c> you</c><00:06:26.720><c> stand</c><00:06:26.880><c> on</c><00:06:27.120><c> the</c><00:06:27.280><c> whole</c><00:06:27.520><c> China</c>
+
+00:06:27.830 --> 00:06:27.840 align:start position:0%
+where you stand on the whole China
+ 
+
+00:06:27.840 --> 00:06:30.230 align:start position:0%
+where you stand on the whole China
+versus<00:06:28.240><c> West</c><00:06:28.560><c> AI</c><00:06:28.880><c> debate,</c><00:06:29.520><c> competition</c><00:06:30.000><c> is</c>
+
+00:06:30.230 --> 00:06:30.240 align:start position:0%
+versus West AI debate, competition is
+ 
+
+00:06:30.240 --> 00:06:31.830 align:start position:0%
+versus West AI debate, competition is
+good.<00:06:30.639><c> When</c><00:06:30.880><c> Deep</c><00:06:31.199><c> Seek</c><00:06:31.520><c> pushed</c><00:06:31.680><c> the</c>
+
+00:06:31.830 --> 00:06:31.840 align:start position:0%
+good. When Deep Seek pushed the
+ 
+
+00:06:31.840 --> 00:06:34.070 align:start position:0%
+good. When Deep Seek pushed the
+boundaries<00:06:32.240><c> with</c><00:06:32.479><c> V3,</c><00:06:33.120><c> it</c><00:06:33.280><c> forced</c><00:06:33.680><c> everyone</c>
+
+00:06:34.070 --> 00:06:34.080 align:start position:0%
+boundaries with V3, it forced everyone
+ 
+
+00:06:34.080 --> 00:06:35.909 align:start position:0%
+boundaries with V3, it forced everyone
+else<00:06:34.240><c> to</c><00:06:34.479><c> step</c><00:06:34.639><c> up.</c><00:06:34.960><c> Open</c><00:06:35.280><c> AI,</c><00:06:35.600><c> Google,</c>
+
+00:06:35.909 --> 00:06:35.919 align:start position:0%
+else to step up. Open AI, Google,
+ 
+
+00:06:35.919 --> 00:06:37.510 align:start position:0%
+else to step up. Open AI, Google,
+Anthropic,<00:06:36.639><c> all</c><00:06:36.720><c> of</c><00:06:36.800><c> them</c><00:06:36.960><c> had</c><00:06:37.120><c> to</c><00:06:37.280><c> move</c>
+
+00:06:37.510 --> 00:06:37.520 align:start position:0%
+Anthropic, all of them had to move
+ 
+
+00:06:37.520 --> 00:06:39.990 align:start position:0%
+Anthropic, all of them had to move
+faster.<00:06:38.240><c> And</c><00:06:38.400><c> that</c><00:06:38.639><c> is</c><00:06:39.039><c> great</c><00:06:39.280><c> for</c><00:06:39.520><c> all</c><00:06:39.680><c> of</c><00:06:39.759><c> us.</c>
+
+00:06:39.990 --> 00:06:40.000 align:start position:0%
+faster. And that is great for all of us.
+ 
+
+00:06:40.000 --> 00:06:42.550 align:start position:0%
+faster. And that is great for all of us.
+More<00:06:40.240><c> competition</c><00:06:41.120><c> means</c><00:06:41.520><c> better</c><00:06:41.919><c> models,</c>
+
+00:06:42.550 --> 00:06:42.560 align:start position:0%
+More competition means better models,
+ 
+
+00:06:42.560 --> 00:06:44.870 align:start position:0%
+More competition means better models,
+better<00:06:42.880><c> tools,</c><00:06:43.600><c> more</c><00:06:43.840><c> innovation.</c><00:06:44.720><c> So</c>
+
+00:06:44.870 --> 00:06:44.880 align:start position:0%
+better tools, more innovation. So
+ 
+
+00:06:44.880 --> 00:06:46.870 align:start position:0%
+better tools, more innovation. So
+whether<00:06:45.199><c> V4</c><00:06:45.680><c> lives</c><00:06:45.919><c> up</c><00:06:46.080><c> to</c><00:06:46.160><c> the</c><00:06:46.319><c> hype</c><00:06:46.560><c> or</c><00:06:46.639><c> not,</c>
+
+00:06:46.870 --> 00:06:46.880 align:start position:0%
+whether V4 lives up to the hype or not,
+ 
+
+00:06:46.880 --> 00:06:48.550 align:start position:0%
+whether V4 lives up to the hype or not,
+the<00:06:47.039><c> fact</c><00:06:47.120><c> that</c><00:06:47.280><c> it</c><00:06:47.440><c> is</c><00:06:47.600><c> pushing</c><00:06:47.919><c> the</c><00:06:48.160><c> entire</c>
+
+00:06:48.550 --> 00:06:48.560 align:start position:0%
+the fact that it is pushing the entire
+ 
+
+00:06:48.560 --> 00:06:51.350 align:start position:0%
+the fact that it is pushing the entire
+industry<00:06:48.960><c> forward</c><00:06:49.440><c> is</c><00:06:49.680><c> a</c><00:06:49.919><c> win.</c><00:06:50.400><c> The</c><00:06:50.639><c> AI</c><00:06:51.039><c> space</c>
+
+00:06:51.350 --> 00:06:51.360 align:start position:0%
+industry forward is a win. The AI space
+ 
+
+00:06:51.360 --> 00:06:53.590 align:start position:0%
+industry forward is a win. The AI space
+is<00:06:51.600><c> moving</c><00:06:51.919><c> so</c><00:06:52.160><c> fast</c><00:06:52.479><c> right</c><00:06:52.720><c> now</c><00:06:53.120><c> that</c><00:06:53.280><c> if</c><00:06:53.440><c> you</c>
+
+00:06:53.590 --> 00:06:53.600 align:start position:0%
+is moving so fast right now that if you
+ 
+
+00:06:53.600 --> 00:06:55.510 align:start position:0%
+is moving so fast right now that if you
+blink,<00:06:54.000><c> you</c><00:06:54.160><c> miss</c><00:06:54.400><c> something</c><00:06:54.639><c> huge.</c><00:06:55.199><c> Deep</c>
+
+00:06:55.510 --> 00:06:55.520 align:start position:0%
+blink, you miss something huge. Deep
+ 
+
+00:06:55.520 --> 00:06:57.430 align:start position:0%
+blink, you miss something huge. Deep
+Seek<00:06:55.759><c> V4</c><00:06:56.319><c> could</c><00:06:56.560><c> be</c><00:06:56.639><c> one</c><00:06:56.800><c> of</c><00:06:56.880><c> those</c><00:06:57.039><c> moments</c>
+
+00:06:57.430 --> 00:06:57.440 align:start position:0%
+Seek V4 could be one of those moments
+ 
+
+00:06:57.440 --> 00:06:59.350 align:start position:0%
+Seek V4 could be one of those moments
+where<00:06:57.759><c> everything</c><00:06:58.160><c> shifts,</c><00:06:58.800><c> and</c><00:06:59.039><c> the</c><00:06:59.199><c> people</c>
+
+00:06:59.350 --> 00:06:59.360 align:start position:0%
+where everything shifts, and the people
+ 
+
+00:06:59.360 --> 00:07:01.350 align:start position:0%
+where everything shifts, and the people
+who<00:06:59.599><c> pay</c><00:06:59.759><c> attention</c><00:07:00.160><c> early</c><00:07:00.639><c> are</c><00:07:00.800><c> the</c><00:07:00.960><c> ones</c><00:07:01.199><c> who</c>
+
+00:07:01.350 --> 00:07:01.360 align:start position:0%
+who pay attention early are the ones who
+ 
+
+00:07:01.360 --> 00:07:03.270 align:start position:0%
+who pay attention early are the ones who
+benefit<00:07:01.680><c> the</c><00:07:01.919><c> most.</c><00:07:02.240><c> So</c><00:07:02.560><c> here</c><00:07:02.720><c> is</c><00:07:02.800><c> what</c><00:07:02.960><c> I</c><00:07:03.199><c> need</c>
+
+00:07:03.270 --> 00:07:03.280 align:start position:0%
+benefit the most. So here is what I need
+ 
+
+00:07:03.280 --> 00:07:06.390 align:start position:0%
+benefit the most. So here is what I need
+you<00:07:03.440><c> to</c><00:07:03.599><c> do.</c><00:07:04.080><c> First,</c><00:07:04.479><c> drop</c><00:07:04.639><c> a</c><00:07:04.880><c> comment</c><00:07:05.120><c> below.</c>
+
+00:07:06.390 --> 00:07:06.400 align:start position:0%
+you to do. First, drop a comment below.
+ 
+
+00:07:06.400 --> 00:07:08.070 align:start position:0%
+you to do. First, drop a comment below.
+Tell<00:07:06.639><c> me</c><00:07:06.800><c> what</c><00:07:06.960><c> you're</c><00:07:07.199><c> most</c><00:07:07.440><c> excited</c><00:07:07.840><c> about</c>
+
+00:07:08.070 --> 00:07:08.080 align:start position:0%
+Tell me what you're most excited about
+ 
+
+00:07:08.080 --> 00:07:12.390 align:start position:0%
+Tell me what you're most excited about
+with<00:07:08.319><c> Deep</c><00:07:08.639><c> Seek</c><00:07:08.880><c> V4</c><00:07:10.319><c> or</c><00:07:10.479><c> what</c><00:07:10.720><c> concerns</c><00:07:11.120><c> you.</c>
+
+00:07:12.390 --> 00:07:12.400 align:start position:0%
+with Deep Seek V4 or what concerns you.
+ 
+
+00:07:12.400 --> 00:07:14.790 align:start position:0%
+with Deep Seek V4 or what concerns you.
+Julian<00:07:12.960><c> reads</c><00:07:13.360><c> every</c><00:07:13.759><c> single</c><00:07:14.080><c> comment,</c>
+
+00:07:14.790 --> 00:07:14.800 align:start position:0%
+Julian reads every single comment,
+ 
+
+00:07:14.800 --> 00:07:16.710 align:start position:0%
+Julian reads every single comment,
+everyone.
+
+00:07:16.710 --> 00:07:16.720 align:start position:0%
+everyone.
+ 
+
+00:07:16.720 --> 00:07:18.469 align:start position:0%
+everyone.
+Second,<00:07:17.039><c> if</c><00:07:17.280><c> you</c><00:07:17.360><c> want</c><00:07:17.440><c> to</c><00:07:17.599><c> actually</c><00:07:17.919><c> use</c><00:07:18.160><c> AI</c>
+
+00:07:18.469 --> 00:07:18.479 align:start position:0%
+Second, if you want to actually use AI
+ 
+
+00:07:18.479 --> 00:07:20.710 align:start position:0%
+Second, if you want to actually use AI
+tools<00:07:18.800><c> like</c><00:07:18.960><c> DeepSeek</c><00:07:19.759><c> to</c><00:07:20.080><c> automate</c><00:07:20.479><c> and</c>
+
+00:07:20.710 --> 00:07:20.720 align:start position:0%
+tools like DeepSeek to automate and
+ 
+
+00:07:20.720 --> 00:07:23.189 align:start position:0%
+tools like DeepSeek to automate and
+scale<00:07:20.960><c> your</c><00:07:21.280><c> business,</c><00:07:21.840><c> join</c><00:07:22.160><c> the</c><00:07:22.400><c> AI</c><00:07:22.800><c> profit</c>
+
+00:07:23.189 --> 00:07:23.199 align:start position:0%
+scale your business, join the AI profit
+ 
+
+00:07:23.199 --> 00:07:25.270 align:start position:0%
+scale your business, join the AI profit
+boardroom<00:07:24.000><c> is</c><00:07:24.160><c> where</c><00:07:24.400><c> you</c><00:07:24.560><c> will</c><00:07:24.720><c> learn</c><00:07:24.960><c> how</c><00:07:25.120><c> to</c>
+
+00:07:25.270 --> 00:07:25.280 align:start position:0%
+boardroom is where you will learn how to
+ 
+
+00:07:25.280 --> 00:07:27.990 align:start position:0%
+boardroom is where you will learn how to
+take<00:07:25.520><c> models</c><00:07:25.840><c> like</c><00:07:26.080><c> Deepseek</c><00:07:26.720><c> V4</c><00:07:27.520><c> and</c><00:07:27.759><c> turn</c>
+
+00:07:27.990 --> 00:07:28.000 align:start position:0%
+take models like Deepseek V4 and turn
+ 
+
+00:07:28.000 --> 00:07:30.309 align:start position:0%
+take models like Deepseek V4 and turn
+them<00:07:28.160><c> into</c><00:07:28.560><c> real</c><00:07:28.880><c> systems</c><00:07:29.599><c> that</c><00:07:29.759><c> get</c><00:07:29.919><c> you</c><00:07:30.160><c> more</c>
+
+00:07:30.309 --> 00:07:30.319 align:start position:0%
+them into real systems that get you more
+ 
+
+00:07:30.319 --> 00:07:32.550 align:start position:0%
+them into real systems that get you more
+customers<00:07:30.800><c> and</c><00:07:31.120><c> save</c><00:07:31.360><c> you</c><00:07:31.599><c> hundreds</c><00:07:32.080><c> of</c><00:07:32.240><c> hours</c>
+
+00:07:32.550 --> 00:07:32.560 align:start position:0%
+customers and save you hundreds of hours
+ 
+
+00:07:32.560 --> 00:07:34.790 align:start position:0%
+customers and save you hundreds of hours
+with<00:07:32.880><c> AI</c><00:07:33.280><c> automation.</c><00:07:33.919><c> The</c><00:07:34.080><c> link</c><00:07:34.319><c> is</c><00:07:34.479><c> in</c><00:07:34.639><c> the</c>
+
+00:07:34.790 --> 00:07:34.800 align:start position:0%
+with AI automation. The link is in the
+ 
+
+00:07:34.800 --> 00:07:36.710 align:start position:0%
+with AI automation. The link is in the
+description<00:07:35.199><c> and</c><00:07:35.440><c> comments.</c><00:07:36.080><c> Do</c><00:07:36.319><c> not</c><00:07:36.479><c> sleep</c>
+
+00:07:36.710 --> 00:07:36.720 align:start position:0%
+description and comments. Do not sleep
+ 
+
+00:07:36.720 --> 00:07:38.790 align:start position:0%
+description and comments. Do not sleep
+on<00:07:36.880><c> it.</c><00:07:37.199><c> And</c><00:07:37.440><c> if</c><00:07:37.599><c> you</c><00:07:37.680><c> want</c><00:07:37.840><c> the</c><00:07:38.080><c> full</c><00:07:38.319><c> process,</c>
+
+00:07:38.790 --> 00:07:38.800 align:start position:0%
+on it. And if you want the full process,
+ 
+
+00:07:38.800 --> 00:07:41.350 align:start position:0%
+on it. And if you want the full process,
+SOPs,<00:07:39.360><c> and</c><00:07:39.520><c> over</c><00:07:39.759><c> a</c><00:07:39.840><c> 100</c><00:07:40.160><c> AI</c><00:07:40.560><c> use</c><00:07:40.800><c> cases</c><00:07:41.120><c> like</c>
+
+00:07:41.350 --> 00:07:41.360 align:start position:0%
+SOPs, and over a 100 AI use cases like
+ 
+
+00:07:41.360 --> 00:07:43.990 align:start position:0%
+SOPs, and over a 100 AI use cases like
+this<00:07:41.520><c> one,</c><00:07:42.000><c> join</c><00:07:42.240><c> the</c><00:07:42.479><c> AI</c><00:07:42.880><c> success</c><00:07:43.280><c> lab.</c><00:07:43.680><c> It</c><00:07:43.840><c> is</c>
+
+00:07:43.990 --> 00:07:44.000 align:start position:0%
+this one, join the AI success lab. It is
+ 
+
+00:07:44.000 --> 00:07:45.909 align:start position:0%
+this one, join the AI success lab. It is
+completely<00:07:44.479><c> free.</c><00:07:45.039><c> Links</c><00:07:45.360><c> in</c><00:07:45.520><c> the</c><00:07:45.680><c> comments</c>
+
+00:07:45.909 --> 00:07:45.919 align:start position:0%
+completely free. Links in the comments
+ 
+
+00:07:45.919 --> 00:07:47.589 align:start position:0%
+completely free. Links in the comments
+and<00:07:46.160><c> description.</c><00:07:46.800><c> You</c><00:07:46.960><c> will</c><00:07:47.120><c> get</c><00:07:47.199><c> all</c><00:07:47.440><c> the</c>
+
+00:07:47.589 --> 00:07:47.599 align:start position:0%
+and description. You will get all the
+ 
+
+00:07:47.599 --> 00:07:49.350 align:start position:0%
+and description. You will get all the
+video<00:07:47.840><c> notes</c><00:07:48.160><c> from</c><00:07:48.319><c> there,</c><00:07:48.639><c> plus</c><00:07:48.880><c> access</c><00:07:49.120><c> to</c>
+
+00:07:49.350 --> 00:07:49.360 align:start position:0%
+video notes from there, plus access to
+ 
+
+00:07:49.360 --> 00:07:52.070 align:start position:0%
+video notes from there, plus access to
+our<00:07:49.599><c> community</c><00:07:50.240><c> of</c><00:07:50.639><c> 38,000</c><00:07:51.520><c> members</c><00:07:51.759><c> who</c><00:07:51.919><c> are</c>
+
+00:07:52.070 --> 00:07:52.080 align:start position:0%
+our community of 38,000 members who are
+ 
+
+00:07:52.080 --> 00:07:54.230 align:start position:0%
+our community of 38,000 members who are
+crushing<00:07:52.400><c> it</c><00:07:52.560><c> with</c><00:07:52.720><c> AI</c><00:07:53.120><c> right</c><00:07:53.360><c> now.</c><00:07:53.919><c> Make</c><00:07:54.080><c> sure</c>
+
+00:07:54.230 --> 00:07:54.240 align:start position:0%
+crushing it with AI right now. Make sure
+ 
+
+00:07:54.240 --> 00:07:56.150 align:start position:0%
+crushing it with AI right now. Make sure
+you<00:07:54.479><c> subscribe</c><00:07:54.879><c> and</c><00:07:55.199><c> hit</c><00:07:55.360><c> that</c><00:07:55.599><c> notification</c>
+
+00:07:56.150 --> 00:07:56.160 align:start position:0%
+you subscribe and hit that notification
+ 
+
+00:07:56.160 --> 00:07:58.469 align:start position:0%
+you subscribe and hit that notification
+bell<00:07:56.560><c> because</c><00:07:56.879><c> the</c><00:07:57.120><c> moment</c><00:07:57.440><c> Deep</c><00:07:57.759><c> Seek</c><00:07:58.080><c> V4</c>
+
+00:07:58.469 --> 00:07:58.479 align:start position:0%
+bell because the moment Deep Seek V4
+ 
+
+00:07:58.479 --> 00:08:00.710 align:start position:0%
+bell because the moment Deep Seek V4
+officially<00:07:58.960><c> drops,</c><00:07:59.599><c> I</c><00:07:59.840><c> am</c><00:08:00.000><c> going</c><00:08:00.160><c> to</c><00:08:00.319><c> be</c><00:08:00.479><c> all</c>
+
+00:08:00.710 --> 00:08:00.720 align:start position:0%
+officially drops, I am going to be all
+ 
+
+00:08:00.720 --> 00:08:02.550 align:start position:0%
+officially drops, I am going to be all
+over<00:08:00.960><c> it.</c><00:08:01.440><c> You</c><00:08:01.599><c> do</c><00:08:01.759><c> not</c><00:08:01.919><c> want</c><00:08:02.000><c> to</c><00:08:02.160><c> miss</c><00:08:02.319><c> that</c>
+
+00:08:02.550 --> 00:08:02.560 align:start position:0%
+over it. You do not want to miss that
+ 
+
+00:08:02.560 --> 00:08:06.000 align:start position:0%
+over it. You do not want to miss that
+video.<00:08:02.960><c> I</c><00:08:03.199><c> will</c><00:08:03.280><c> see</c><00:08:03.440><c> you</c><00:08:03.599><c> in</c><00:08:03.759><c> the</c><00:08:03.840><c> next</c>
+

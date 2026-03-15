@@ -1,0 +1,150 @@
+{
+  "id": "STjO0AYbetA",
+  "title": "NEW Gemini Model + Claude Code = Insane RAG",
+  "channel": "Jack Roberts",
+  "upload_date": "20260312",
+  "description": "📈 ALL Systems: https://bit.ly/4kol0y5\n🔥 Type with your Voice: https://glaido.com\n🎙️ My Goofy pod: https://bit.ly/46nLQ3U\n\nGemini just dropped a new embedding model that natively understands text, images, video, audio, and documents and when you pair it with CLAIDE code, you unlock incredible capabilities. In this video I'll show you the setup, what it can actually do, and how to build a real business use case around it.\n\nLinks\n🚀 AntiGravity: https://antigravity.google/\n☁️ Claude: https://claude.ai/\n🌲 Pinecone: https://www.pinecone.io/\n🧬 Gemini: https://ai.google.dev/gemini-api/docs/embeddings",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "gemini",
+    "rag",
+    "notebooklm"
+  ],
+  "topic_tags": [
+    "rag",
+    "notebooklm",
+    "workflow-automation",
+    "knowledge-management",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "product-opportunity",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "claude__gemini__rag",
+  "related_video_ids": [
+    "obIeqXJH3d4",
+    "jece_dDk-0w",
+    "UzLMmFtnRMQ",
+    "iNNLfHMDCfk",
+    "ZgnQb40aiTU"
+  ],
+  "related_videos": [
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "notebooklm",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "jece_dDk-0w",
+      "title": "New FREE OpenClaw + NotebookLM Update",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/jece_dDk-0w/summary.md",
+      "topic_cluster_key": "notebooklm__openclaw",
+      "shared_tags": [
+        "notebooklm",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "UzLMmFtnRMQ",
+      "title": "NotebookLM  New Update Just Changed Everything!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/UzLMmFtnRMQ/summary.md",
+      "topic_cluster_key": "everything__notebooklm",
+      "shared_tags": [
+        "notebooklm",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "iNNLfHMDCfk",
+      "title": "ChatGPT 5.4 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iNNLfHMDCfk/summary.md",
+      "topic_cluster_key": "chatgpt__notebooklm",
+      "shared_tags": [
+        "notebooklm",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "ZgnQb40aiTU",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ZgnQb40aiTU/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "notebooklm",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "workflow-automation"
+      ],
+      "cluster_match": false,
+      "score": 8
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "obIeqXJH3d4",
+      "jece_dDk-0w",
+      "UzLMmFtnRMQ",
+      "iNNLfHMDCfk",
+      "ZgnQb40aiTU"
+    ]
+  },
+  "updated_at": "2026-03-12T17:30:16Z"
+}

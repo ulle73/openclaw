@@ -1,0 +1,31 @@
+# ============================================================
+# FÖRETAGSPROFIL – Kundspecifik fil, redigera fritt
+# ============================================================
+
+company:
+  name: "Mitt Företag AB"
+  tagline: "Kort och träffsäker tagline"
+  description: >
+    Beskriv företaget kortfattat. Vad gör ni, för vem och varför?
+    Denna text används för att styra AI-genereringen mot rätt tonalitet och kontext.
+
+  website: "https://www.mittforetag.se"
+  industry: "Ange bransch, t.ex. Hälsa & Träning"
+
+  target_audience:
+    - "Primär målgrupp 1, t.ex. Kvinnor 25–40 som tränar 3+ gånger/vecka"
+    - "Primär målgrupp 2 om relevant"
+
+  tone_of_voice:
+    style: "inspirerande och personlig"        # t.ex. professionell, lekfull, saklig
+    formality: "informell"                       # formell / semi-formell / informell
+    language_style: "vardaglig svenska"          # enkelt och tydligt
+    avoid: "klyschor, passiv form, överdrifter"
+
+  cta_preference:
+    primary: "Boka gratis konsultation"
+    secondary: "Läs mer på webben"
+
+  social_handles:
+    instagram: "@mittforetag"
+    linkedin: "linkedin.com/company/mittforetag"

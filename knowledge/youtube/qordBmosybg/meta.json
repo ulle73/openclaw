@@ -1,0 +1,152 @@
+{
+  "id": "qordBmosybg",
+  "title": "NEW Google Jules Agent Update Is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260311",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nGoogle Jules Update: The AI Coding Agent Just Got Insane\n\nGoogle has integrated Gemini 3.1 Pro into Jules, its autonomous coding agent that writes code and opens pull requests while you sleep. This massive update introduces groundbreaking features like visual verification, advanced reasoning, and support for up to 60 concurrent tasks. Discover how the shift from manual coding to AI management is revolutionizing software development.\n\n00:00 - Intro: The New Google Jules Update\n01:05 - How Jules Works Autonomously\n02:03 - Gemini 3.1 Pro Integration\n02:57 - Visual Verification & Multi-Step Logic\n04:12 - Scaling to 60 Concurrent Tasks\n05:20 - The Shift from Coder to Manager\n06:34 - Future Roadmap & Getting Started",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "jules",
+    "agent",
+    "gemini"
+  ],
+  "topic_tags": [
+    "jules",
+    "agent",
+    "workflow-automation",
+    "onboarding-training",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "agent__jules",
+  "related_video_ids": [
+    "xAw3IZgX7Tc",
+    "tn1DH1Ul1HA",
+    "rF8VXVn46co",
+    "pSQE1SsGfSQ",
+    "iNNLfHMDCfk"
+  ],
+  "related_videos": [
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "tn1DH1Ul1HA",
+      "title": "NEW Perplexity Computer Update is INSANE! (Claude Code + GitHub CLI)",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/tn1DH1Ul1HA/summary.md",
+      "topic_cluster_key": "claude__github-cli__perplexity-computer",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "rF8VXVn46co",
+      "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rF8VXVn46co/summary.md",
+      "topic_cluster_key": "1-flash-lite__automate__gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "iNNLfHMDCfk",
+      "title": "ChatGPT 5.4 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iNNLfHMDCfk/summary.md",
+      "topic_cluster_key": "chatgpt__notebooklm",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "xAw3IZgX7Tc",
+      "tn1DH1Ul1HA",
+      "rF8VXVn46co",
+      "pSQE1SsGfSQ",
+      "iNNLfHMDCfk"
+    ]
+  },
+  "updated_at": "2026-03-11T03:02:27Z"
+}

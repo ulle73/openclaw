@@ -1,0 +1,154 @@
+{
+  "id": "J_RNzdX1yiQ",
+  "title": "NEW OpenClaw AI Browser Agent: Automate ANYTHING?",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260315",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nOpenClaw AI Update: Control Your REAL Chrome Browser (Full Tutorial)\n\nOpenClaw just released a massive update allowing its AI agent to control your actual Chrome browser for tasks like checking Gmail and LinkedIn. Learn how to set up the new User Profile mode for free in under five minutes with zero technical experience required.\n\n00:00 - Intro: New OpenClaw Update\n00:55 - What is Live Browser Control?\n02:12 - Setup & Terminal Commands\n02:45 - User Profile vs. OpenClaw Profile\n05:51 - How to Enable Remote Debugging\n07:16 - Real-World Automation Examples\n08:22 - Troubleshooting & Safety Tips\n09:35 - AI Automation Resources",
+  "classifications": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "medium",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": false,
+    "system_improvement": true,
+    "app": false,
+    "product": false
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "browser-agent",
+    "automate",
+    "claude",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "browser-agent",
+    "automate",
+    "telegram",
+    "workflow-automation",
+    "onboarding-training",
+    "prompt-design",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "automate__browser-agent__openclaw",
+  "related_video_ids": [
+    "ptqHcTAwmlk",
+    "KPejjQQ5Bzg",
+    "9lbwgk29Db4",
+    "70P1xXDCaNQ",
+    "mndpFJXksRs"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "KPejjQQ5Bzg",
+      "title": "OpenClaw 3.11 IS INSANE, Here's Why",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KPejjQQ5Bzg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "70P1xXDCaNQ",
+      "title": "NEW Genclaw DESTROYS OpenClaw?",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/70P1xXDCaNQ/summary.md",
+      "topic_cluster_key": "genclaw-destroys__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "mndpFJXksRs",
+      "title": "OpenClaw + Paperclip Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/mndpFJXksRs/summary.md",
+      "topic_cluster_key": "openclaw__paperclip",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 14
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "ptqHcTAwmlk",
+      "KPejjQQ5Bzg",
+      "9lbwgk29Db4",
+      "70P1xXDCaNQ",
+      "mndpFJXksRs"
+    ]
+  },
+  "updated_at": "2026-03-15T09:30:15Z"
+}

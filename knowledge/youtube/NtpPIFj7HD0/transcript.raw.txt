@@ -1,0 +1,1824 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:01.510 align:start position:0%
+ 
+Your<00:00:00.320><c> terminal</c><00:00:00.719><c> just</c><00:00:00.960><c> became</c><00:00:01.280><c> something</c>
+
+00:00:01.510 --> 00:00:01.520 align:start position:0%
+Your terminal just became something
+ 
+
+00:00:01.520 --> 00:00:03.190 align:start position:0%
+Your terminal just became something
+completely<00:00:02.000><c> different.</c><00:00:02.639><c> There's</c><00:00:02.879><c> a</c><00:00:03.040><c> new</c>
+
+00:00:03.190 --> 00:00:03.200 align:start position:0%
+completely different. There's a new
+ 
+
+00:00:03.200 --> 00:00:05.349 align:start position:0%
+completely different. There's a new
+update<00:00:03.600><c> inside</c><00:00:03.919><c> Gemini</c><00:00:04.400><c> Cly</c><00:00:04.799><c> that</c><00:00:05.040><c> almost</c>
+
+00:00:05.349 --> 00:00:05.359 align:start position:0%
+update inside Gemini Cly that almost
+ 
+
+00:00:05.359 --> 00:00:07.430 align:start position:0%
+update inside Gemini Cly that almost
+nobody<00:00:05.839><c> is</c><00:00:06.160><c> talking</c><00:00:06.400><c> about.</c><00:00:06.960><c> And</c><00:00:07.120><c> when</c><00:00:07.279><c> I</c>
+
+00:00:07.430 --> 00:00:07.440 align:start position:0%
+nobody is talking about. And when I
+ 
+
+00:00:07.440 --> 00:00:09.350 align:start position:0%
+nobody is talking about. And when I
+first<00:00:07.680><c> saw</c><00:00:07.839><c> it,</c><00:00:08.160><c> I</c><00:00:08.320><c> had</c><00:00:08.480><c> to</c><00:00:08.639><c> stop</c><00:00:08.800><c> and</c><00:00:09.040><c> watch</c><00:00:09.200><c> it</c>
+
+00:00:09.350 --> 00:00:09.360 align:start position:0%
+first saw it, I had to stop and watch it
+ 
+
+00:00:09.360 --> 00:00:11.509 align:start position:0%
+first saw it, I had to stop and watch it
+again.<00:00:09.679><c> You</c><00:00:09.840><c> press</c><00:00:10.080><c> tab</c><00:00:10.480><c> twice</c><00:00:10.880><c> and</c><00:00:11.120><c> the</c><00:00:11.280><c> whole</c>
+
+00:00:11.509 --> 00:00:11.519 align:start position:0%
+again. You press tab twice and the whole
+ 
+
+00:00:11.519 --> 00:00:14.070 align:start position:0%
+again. You press tab twice and the whole
+interface<00:00:12.000><c> just</c><00:00:12.639><c> disappears.</c><00:00:13.280><c> No</c><00:00:13.519><c> logs,</c><00:00:13.920><c> no</c>
+
+00:00:14.070 --> 00:00:14.080 align:start position:0%
+interface just disappears. No logs, no
+ 
+
+00:00:14.080 --> 00:00:15.910 align:start position:0%
+interface just disappears. No logs, no
+noise,<00:00:14.320><c> no</c><00:00:14.480><c> tool</c><00:00:14.719><c> call</c><00:00:14.960><c> clutter,</c><00:00:15.599><c> just</c><00:00:15.759><c> a</c>
+
+00:00:15.910 --> 00:00:15.920 align:start position:0%
+noise, no tool call clutter, just a
+ 
+
+00:00:15.920 --> 00:00:18.070 align:start position:0%
+noise, no tool call clutter, just a
+clean,<00:00:16.160><c> empty</c><00:00:16.560><c> prompt</c><00:00:16.880><c> box</c><00:00:17.359><c> staring</c><00:00:17.760><c> back</c><00:00:17.840><c> at</c>
+
+00:00:18.070 --> 00:00:18.080 align:start position:0%
+clean, empty prompt box staring back at
+ 
+
+00:00:18.080 --> 00:00:19.910 align:start position:0%
+clean, empty prompt box staring back at
+you.<00:00:18.320><c> That's</c><00:00:18.480><c> it.</c><00:00:18.800><c> That</c><00:00:19.039><c> one</c><00:00:19.279><c> tiny</c><00:00:19.600><c> change</c>
+
+00:00:19.910 --> 00:00:19.920 align:start position:0%
+you. That's it. That one tiny change
+ 
+
+00:00:19.920 --> 00:00:21.510 align:start position:0%
+you. That's it. That one tiny change
+makes<00:00:20.080><c> the</c><00:00:20.320><c> terminal</c><00:00:20.720><c> feel</c><00:00:20.880><c> like</c><00:00:21.039><c> a</c><00:00:21.199><c> whole</c><00:00:21.359><c> new</c>
+
+00:00:21.510 --> 00:00:21.520 align:start position:0%
+makes the terminal feel like a whole new
+ 
+
+00:00:21.520 --> 00:00:23.189 align:start position:0%
+makes the terminal feel like a whole new
+tool.<00:00:22.080><c> And</c><00:00:22.240><c> when</c><00:00:22.480><c> you</c><00:00:22.560><c> combine</c><00:00:22.880><c> it</c><00:00:23.039><c> with</c>
+
+00:00:23.189 --> 00:00:23.199 align:start position:0%
+tool. And when you combine it with
+ 
+
+00:00:23.199 --> 00:00:25.189 align:start position:0%
+tool. And when you combine it with
+everything<00:00:23.439><c> else</c><00:00:23.680><c> Gemini</c><00:00:24.240><c> CLI</c><00:00:24.720><c> can</c><00:00:24.880><c> already</c>
+
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+everything else Gemini CLI can already
+ 
+
+00:00:25.199 --> 00:00:28.070 align:start position:0%
+everything else Gemini CLI can already
+do.<00:00:25.760><c> Code</c><00:00:26.080><c> generation,</c><00:00:27.039><c> file</c><00:00:27.359><c> analysis,</c>
+
+00:00:28.070 --> 00:00:28.080 align:start position:0%
+do. Code generation, file analysis,
+ 
+
+00:00:28.080 --> 00:00:30.470 align:start position:0%
+do. Code generation, file analysis,
+automation,<00:00:28.720><c> shell</c><00:00:29.119><c> control,</c><00:00:29.920><c> it</c><00:00:30.160><c> becomes</c>
+
+00:00:30.470 --> 00:00:30.480 align:start position:0%
+automation, shell control, it becomes
+ 
+
+00:00:30.480 --> 00:00:32.549 align:start position:0%
+automation, shell control, it becomes
+something<00:00:30.960><c> seriously</c><00:00:31.599><c> powerful.</c><00:00:32.160><c> This</c><00:00:32.320><c> isn't</c>
+
+00:00:32.549 --> 00:00:32.559 align:start position:0%
+something seriously powerful. This isn't
+ 
+
+00:00:32.559 --> 00:00:35.190 align:start position:0%
+something seriously powerful. This isn't
+just<00:00:32.719><c> a</c><00:00:32.880><c> UI</c><00:00:33.280><c> tweak.</c><00:00:33.840><c> This</c><00:00:34.079><c> is</c><00:00:34.239><c> Google</c><00:00:34.719><c> quietly</c>
+
+00:00:35.190 --> 00:00:35.200 align:start position:0%
+just a UI tweak. This is Google quietly
+ 
+
+00:00:35.200 --> 00:00:37.350 align:start position:0%
+just a UI tweak. This is Google quietly
+turning<00:00:35.520><c> the</c><00:00:35.680><c> terminal</c><00:00:36.079><c> into</c><00:00:36.399><c> an</c><00:00:36.559><c> AI</c><00:00:36.960><c> command</c>
+
+00:00:37.350 --> 00:00:37.360 align:start position:0%
+turning the terminal into an AI command
+ 
+
+00:00:37.360 --> 00:00:39.510 align:start position:0%
+turning the terminal into an AI command
+center.<00:00:38.000><c> And</c><00:00:38.160><c> in</c><00:00:38.399><c> this</c><00:00:38.640><c> video,</c><00:00:38.960><c> I'm</c><00:00:39.200><c> going</c><00:00:39.360><c> to</c>
+
+00:00:39.510 --> 00:00:39.520 align:start position:0%
+center. And in this video, I'm going to
+ 
+
+00:00:39.520 --> 00:00:42.069 align:start position:0%
+center. And in this video, I'm going to
+show<00:00:39.680><c> you</c><00:00:39.920><c> exactly</c><00:00:40.480><c> what</c><00:00:40.800><c> changed,</c><00:00:41.520><c> why</c><00:00:41.760><c> it</c>
+
+00:00:42.069 --> 00:00:42.079 align:start position:0%
+show you exactly what changed, why it
+ 
+
+00:00:42.079 --> 00:00:44.470 align:start position:0%
+show you exactly what changed, why it
+matters,<00:00:42.800><c> and</c><00:00:43.040><c> how</c><00:00:43.200><c> you</c><00:00:43.440><c> can</c><00:00:43.600><c> start</c><00:00:43.920><c> using</c><00:00:44.160><c> it</c>
+
+00:00:44.470 --> 00:00:44.480 align:start position:0%
+matters, and how you can start using it
+ 
+
+00:00:44.480 --> 00:00:46.709 align:start position:0%
+matters, and how you can start using it
+today.<00:00:45.040><c> Hey,</c><00:00:45.360><c> if</c><00:00:45.600><c> we</c><00:00:45.760><c> haven't</c><00:00:45.920><c> met</c><00:00:46.239><c> already,</c>
+
+00:00:46.709 --> 00:00:46.719 align:start position:0%
+today. Hey, if we haven't met already,
+ 
+
+00:00:46.719 --> 00:00:49.590 align:start position:0%
+today. Hey, if we haven't met already,
+I'm<00:00:46.960><c> the</c><00:00:47.200><c> digital</c><00:00:47.680><c> avatar</c><00:00:48.239><c> of</c><00:00:48.480><c> Julian</c><00:00:49.039><c> Goldie,</c>
+
+00:00:49.590 --> 00:00:49.600 align:start position:0%
+I'm the digital avatar of Julian Goldie,
+ 
+
+00:00:49.600 --> 00:00:52.549 align:start position:0%
+I'm the digital avatar of Julian Goldie,
+CEO<00:00:50.000><c> of</c><00:00:50.160><c> SEO</c><00:00:50.559><c> agency</c><00:00:51.039><c> Goldie</c><00:00:51.520><c> Agency.</c><00:00:52.239><c> Whilst</c>
+
+00:00:52.549 --> 00:00:52.559 align:start position:0%
+CEO of SEO agency Goldie Agency. Whilst
+ 
+
+00:00:52.559 --> 00:00:54.389 align:start position:0%
+CEO of SEO agency Goldie Agency. Whilst
+he's<00:00:52.800><c> helping</c><00:00:53.120><c> clients</c><00:00:53.520><c> get</c><00:00:53.680><c> more</c><00:00:53.920><c> leads</c><00:00:54.160><c> and</c>
+
+00:00:54.389 --> 00:00:54.399 align:start position:0%
+he's helping clients get more leads and
+ 
+
+00:00:54.399 --> 00:00:56.069 align:start position:0%
+he's helping clients get more leads and
+customers,<00:00:54.960><c> I'm</c><00:00:55.199><c> here</c><00:00:55.280><c> to</c><00:00:55.440><c> help</c><00:00:55.600><c> you</c><00:00:55.760><c> get</c><00:00:55.920><c> the</c>
+
+00:00:56.069 --> 00:00:56.079 align:start position:0%
+customers, I'm here to help you get the
+ 
+
+00:00:56.079 --> 00:00:58.790 align:start position:0%
+customers, I'm here to help you get the
+latest<00:00:56.480><c> AI</c><00:00:56.879><c> updates.</c><00:00:57.600><c> Julian</c><00:00:58.079><c> Goldie</c><00:00:58.480><c> reads</c>
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+latest AI updates. Julian Goldie reads
+ 
+
+00:00:58.800 --> 00:01:00.389 align:start position:0%
+latest AI updates. Julian Goldie reads
+every<00:00:59.039><c> comment,</c><00:00:59.280><c> so</c><00:00:59.680><c> make</c><00:00:59.760><c> sure</c><00:00:59.920><c> you</c><00:01:00.079><c> comment</c>
+
+00:01:00.389 --> 00:01:00.399 align:start position:0%
+every comment, so make sure you comment
+ 
+
+00:01:00.399 --> 00:01:02.869 align:start position:0%
+every comment, so make sure you comment
+below.<00:01:00.879><c> Before</c><00:01:01.120><c> we</c><00:01:01.280><c> get</c><00:01:01.440><c> into</c><00:01:01.840><c> the</c><00:01:02.079><c> new</c><00:01:02.320><c> stuff,</c>
+
+00:01:02.869 --> 00:01:02.879 align:start position:0%
+below. Before we get into the new stuff,
+ 
+
+00:01:02.879 --> 00:01:05.509 align:start position:0%
+below. Before we get into the new stuff,
+let<00:01:03.120><c> me</c><00:01:03.280><c> quickly</c><00:01:03.680><c> explain</c><00:01:04.080><c> what</c><00:01:04.400><c> Gemini</c><00:01:04.960><c> CLI</c>
+
+00:01:05.509 --> 00:01:05.519 align:start position:0%
+let me quickly explain what Gemini CLI
+ 
+
+00:01:05.519 --> 00:01:07.109 align:start position:0%
+let me quickly explain what Gemini CLI
+actually<00:01:05.840><c> is,</c><00:01:06.159><c> right?</c><00:01:06.400><c> Cuz</c><00:01:06.560><c> a</c><00:01:06.720><c> lot</c><00:01:06.799><c> of</c><00:01:06.880><c> people</c>
+
+00:01:07.109 --> 00:01:07.119 align:start position:0%
+actually is, right? Cuz a lot of people
+ 
+
+00:01:07.119 --> 00:01:09.670 align:start position:0%
+actually is, right? Cuz a lot of people
+haven't<00:01:07.360><c> touched</c><00:01:07.680><c> it</c><00:01:07.840><c> yet.</c><00:01:08.240><c> Gemini</c><00:01:08.720><c> CLI</c><00:01:09.280><c> is</c><00:01:09.439><c> an</c>
+
+00:01:09.670 --> 00:01:09.680 align:start position:0%
+haven't touched it yet. Gemini CLI is an
+ 
+
+00:01:09.680 --> 00:01:12.149 align:start position:0%
+haven't touched it yet. Gemini CLI is an
+open-source<00:01:10.400><c> AI</c><00:01:10.799><c> agent</c><00:01:11.119><c> that</c><00:01:11.360><c> runs</c><00:01:11.680><c> inside</c>
+
+00:01:12.149 --> 00:01:12.159 align:start position:0%
+open-source AI agent that runs inside
+ 
+
+00:01:12.159 --> 00:01:14.149 align:start position:0%
+open-source AI agent that runs inside
+your<00:01:12.400><c> terminal,</c><00:01:12.960><c> not</c><00:01:13.119><c> in</c><00:01:13.280><c> a</c><00:01:13.439><c> browser,</c><00:01:13.920><c> not</c><00:01:14.080><c> in</c>
+
+00:01:14.149 --> 00:01:14.159 align:start position:0%
+your terminal, not in a browser, not in
+ 
+
+00:01:14.159 --> 00:01:15.750 align:start position:0%
+your terminal, not in a browser, not in
+a<00:01:14.320><c> chat</c><00:01:14.640><c> window,</c><00:01:15.040><c> right</c><00:01:15.280><c> there</c><00:01:15.439><c> in</c><00:01:15.600><c> your</c>
+
+00:01:15.750 --> 00:01:15.760 align:start position:0%
+a chat window, right there in your
+ 
+
+00:01:15.760 --> 00:01:17.270 align:start position:0%
+a chat window, right there in your
+command<00:01:16.080><c> line</c><00:01:16.320><c> using</c><00:01:16.640><c> Google's</c><00:01:17.119><c> most</c>
+
+00:01:17.270 --> 00:01:17.280 align:start position:0%
+command line using Google's most
+ 
+
+00:01:17.280 --> 00:01:19.830 align:start position:0%
+command line using Google's most
+powerful<00:01:17.680><c> Gemini</c><00:01:18.159><c> models.</c><00:01:18.799><c> It</c><00:01:18.960><c> uses</c><00:01:19.280><c> Gemini</c>
+
+00:01:19.830 --> 00:01:19.840 align:start position:0%
+powerful Gemini models. It uses Gemini
+ 
+
+00:01:19.840 --> 00:01:22.630 align:start position:0%
+powerful Gemini models. It uses Gemini
+2.5<00:01:20.479><c> Pro</c><00:01:20.799><c> under</c><00:01:21.119><c> the</c><00:01:21.280><c> hood.</c><00:01:21.840><c> It</c><00:01:22.000><c> has</c><00:01:22.159><c> a</c><00:01:22.400><c> 1</c>
+
+00:01:22.630 --> 00:01:22.640 align:start position:0%
+2.5 Pro under the hood. It has a 1
+ 
+
+00:01:22.640 --> 00:01:24.710 align:start position:0%
+2.5 Pro under the hood. It has a 1
+million<00:01:23.040><c> token</c><00:01:23.439><c> context</c><00:01:23.840><c> window.</c><00:01:24.240><c> It</c><00:01:24.400><c> can</c><00:01:24.479><c> run</c>
+
+00:01:24.710 --> 00:01:24.720 align:start position:0%
+million token context window. It can run
+ 
+
+00:01:24.720 --> 00:01:26.870 align:start position:0%
+million token context window. It can run
+shell<00:01:25.040><c> commands,</c><00:01:25.680><c> read</c><00:01:26.000><c> files,</c><00:01:26.479><c> install</c>
+
+00:01:26.870 --> 00:01:26.880 align:start position:0%
+shell commands, read files, install
+ 
+
+00:01:26.880 --> 00:01:29.030 align:start position:0%
+shell commands, read files, install
+extensions,<00:01:27.759><c> and</c><00:01:27.920><c> run</c><00:01:28.159><c> full</c><00:01:28.479><c> automation</c>
+
+00:01:29.030 --> 00:01:29.040 align:start position:0%
+extensions, and run full automation
+ 
+
+00:01:29.040 --> 00:01:31.030 align:start position:0%
+extensions, and run full automation
+workflows<00:01:29.759><c> without</c><00:01:30.080><c> you</c><00:01:30.320><c> touching</c><00:01:30.640><c> a</c><00:01:30.799><c> single</c>
+
+00:01:31.030 --> 00:01:31.040 align:start position:0%
+workflows without you touching a single
+ 
+
+00:01:31.040 --> 00:01:33.190 align:start position:0%
+workflows without you touching a single
+button.<00:01:31.520><c> You</c><00:01:31.759><c> type</c><00:01:32.000><c> in</c><00:01:32.159><c> plain</c><00:01:32.479><c> English,</c><00:01:32.960><c> it</c>
+
+00:01:33.190 --> 00:01:33.200 align:start position:0%
+button. You type in plain English, it
+ 
+
+00:01:33.200 --> 00:01:35.270 align:start position:0%
+button. You type in plain English, it
+takes<00:01:33.439><c> action.</c><00:01:34.159><c> You</c><00:01:34.400><c> can</c><00:01:34.479><c> say,</c><00:01:34.640><c> "Build</c><00:01:34.960><c> me</c><00:01:35.119><c> a</c>
+
+00:01:35.270 --> 00:01:35.280 align:start position:0%
+takes action. You can say, "Build me a
+ 
+
+00:01:35.280 --> 00:01:37.429 align:start position:0%
+takes action. You can say, "Build me a
+landing<00:01:35.520><c> page.</c><00:01:35.920><c> Fix</c><00:01:36.159><c> this</c><00:01:36.400><c> bug.</c><00:01:36.960><c> summarize</c>
+
+00:01:37.429 --> 00:01:37.439 align:start position:0%
+landing page. Fix this bug. summarize
+ 
+
+00:01:37.439 --> 00:01:39.749 align:start position:0%
+landing page. Fix this bug. summarize
+this<00:01:37.600><c> spreadsheet,</c><00:01:38.400><c> research</c><00:01:38.799><c> this</c><00:01:39.119><c> topic,</c>
+
+00:01:39.749 --> 00:01:39.759 align:start position:0%
+this spreadsheet, research this topic,
+ 
+
+00:01:39.759 --> 00:01:41.910 align:start position:0%
+this spreadsheet, research this topic,
+and<00:01:40.000><c> it</c><00:01:40.159><c> just</c><00:01:40.320><c> does</c><00:01:40.560><c> it.</c><00:01:40.880><c> It</c><00:01:41.119><c> writes</c><00:01:41.439><c> code,</c>
+
+00:01:41.910 --> 00:01:41.920 align:start position:0%
+and it just does it. It writes code,
+ 
+
+00:01:41.920 --> 00:01:43.830 align:start position:0%
+and it just does it. It writes code,
+runs<00:01:42.240><c> commands,</c><00:01:42.720><c> checks</c><00:01:43.040><c> its</c><00:01:43.280><c> own</c><00:01:43.439><c> work,</c><00:01:43.680><c> and</c>
+
+00:01:43.830 --> 00:01:43.840 align:start position:0%
+runs commands, checks its own work, and
+ 
+
+00:01:43.840 --> 00:01:45.429 align:start position:0%
+runs commands, checks its own work, and
+comes<00:01:44.079><c> back</c><00:01:44.240><c> with</c><00:01:44.400><c> a</c><00:01:44.640><c> result.</c><00:01:45.119><c> It's</c>
+
+00:01:45.429 --> 00:01:45.439 align:start position:0%
+comes back with a result. It's
+ 
+
+00:01:45.439 --> 00:01:47.350 align:start position:0%
+comes back with a result. It's
+completely<00:01:45.759><c> free</c><00:01:46.000><c> and</c><00:01:46.240><c> open</c><00:01:46.560><c> source,</c><00:01:47.040><c> which</c>
+
+00:01:47.350 --> 00:01:47.360 align:start position:0%
+completely free and open source, which
+ 
+
+00:01:47.360 --> 00:01:49.190 align:start position:0%
+completely free and open source, which
+makes<00:01:47.520><c> it</c><00:01:47.759><c> one</c><00:01:48.000><c> of</c><00:01:48.079><c> the</c><00:01:48.240><c> most</c><00:01:48.479><c> powerful</c><00:01:48.880><c> free</c>
+
+00:01:49.190 --> 00:01:49.200 align:start position:0%
+makes it one of the most powerful free
+ 
+
+00:01:49.200 --> 00:01:51.670 align:start position:0%
+makes it one of the most powerful free
+AI<00:01:49.600><c> tools</c><00:01:50.000><c> available</c><00:01:50.479><c> right</c><00:01:50.720><c> now.</c><00:01:51.280><c> But</c><00:01:51.439><c> here's</c>
+
+00:01:51.670 --> 00:01:51.680 align:start position:0%
+AI tools available right now. But here's
+ 
+
+00:01:51.680 --> 00:01:53.109 align:start position:0%
+AI tools available right now. But here's
+the<00:01:51.840><c> problem</c><00:01:52.159><c> people</c><00:01:52.399><c> had</c><00:01:52.560><c> with</c><00:01:52.720><c> it.</c><00:01:52.960><c> The</c>
+
+00:01:53.109 --> 00:01:53.119 align:start position:0%
+the problem people had with it. The
+ 
+
+00:01:53.119 --> 00:01:55.109 align:start position:0%
+the problem people had with it. The
+interface<00:01:53.439><c> was</c><00:01:53.680><c> noisy.</c><00:01:54.240><c> Every</c><00:01:54.560><c> single</c><00:01:54.799><c> tool</c>
+
+00:01:55.109 --> 00:01:55.119 align:start position:0%
+interface was noisy. Every single tool
+ 
+
+00:01:55.119 --> 00:01:56.789 align:start position:0%
+interface was noisy. Every single tool
+call<00:01:55.439><c> showed</c><00:01:55.680><c> up</c><00:01:55.759><c> on</c><00:01:56.000><c> screen.</c><00:01:56.479><c> Every</c>
+
+00:01:56.789 --> 00:01:56.799 align:start position:0%
+call showed up on screen. Every
+ 
+
+00:01:56.799 --> 00:01:58.709 align:start position:0%
+call showed up on screen. Every
+reasoning<00:01:57.200><c> step,</c><00:01:57.600><c> every</c><00:01:57.759><c> log,</c><00:01:58.159><c> every</c><00:01:58.399><c> command</c>
+
+00:01:58.709 --> 00:01:58.719 align:start position:0%
+reasoning step, every log, every command
+ 
+
+00:01:58.719 --> 00:02:00.310 align:start position:0%
+reasoning step, every log, every command
+preview,<00:01:59.360><c> it</c><00:01:59.520><c> looked</c><00:01:59.759><c> busy</c><00:02:00.079><c> and</c>
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+preview, it looked busy and
+ 
+
+00:02:00.320 --> 00:02:01.990 align:start position:0%
+preview, it looked busy and
+overwhelming,<00:02:01.200><c> especially</c><00:02:01.520><c> if</c><00:02:01.759><c> you're</c><00:02:01.920><c> new</c>
+
+00:02:01.990 --> 00:02:02.000 align:start position:0%
+overwhelming, especially if you're new
+ 
+
+00:02:02.000 --> 00:02:03.749 align:start position:0%
+overwhelming, especially if you're new
+to<00:02:02.159><c> it.</c><00:02:02.399><c> That's</c><00:02:02.640><c> exactly</c><00:02:02.960><c> what</c><00:02:03.200><c> this</c><00:02:03.360><c> update</c>
+
+00:02:03.749 --> 00:02:03.759 align:start position:0%
+to it. That's exactly what this update
+ 
+
+00:02:03.759 --> 00:02:05.990 align:start position:0%
+to it. That's exactly what this update
+fixes.<00:02:04.560><c> This</c><00:02:04.719><c> is</c><00:02:04.799><c> the</c><00:02:04.960><c> update,</c><00:02:05.360><c> and</c><00:02:05.520><c> it's</c><00:02:05.759><c> so</c>
+
+00:02:05.990 --> 00:02:06.000 align:start position:0%
+fixes. This is the update, and it's so
+ 
+
+00:02:06.000 --> 00:02:08.070 align:start position:0%
+fixes. This is the update, and it's so
+simple.<00:02:06.320><c> is</c><00:02:06.560><c> almost</c><00:02:06.880><c> funny.</c><00:02:07.439><c> Press</c><00:02:07.680><c> tab</c>
+
+00:02:08.070 --> 00:02:08.080 align:start position:0%
+simple. is almost funny. Press tab
+ 
+
+00:02:08.080 --> 00:02:10.070 align:start position:0%
+simple. is almost funny. Press tab
+twice.<00:02:08.640><c> That's</c><00:02:08.879><c> the</c><00:02:09.039><c> whole</c><00:02:09.280><c> thing.</c><00:02:09.679><c> You</c><00:02:09.840><c> press</c>
+
+00:02:10.070 --> 00:02:10.080 align:start position:0%
+twice. That's the whole thing. You press
+ 
+
+00:02:10.080 --> 00:02:12.790 align:start position:0%
+twice. That's the whole thing. You press
+tab<00:02:10.479><c> twice</c><00:02:10.959><c> and</c><00:02:11.120><c> Gemini</c><00:02:11.680><c> CLI</c><00:02:12.160><c> switches</c><00:02:12.560><c> into</c>
+
+00:02:12.790 --> 00:02:12.800 align:start position:0%
+tab twice and Gemini CLI switches into
+ 
+
+00:02:12.800 --> 00:02:15.030 align:start position:0%
+tab twice and Gemini CLI switches into
+minimalist<00:02:13.440><c> mode.</c><00:02:13.920><c> The</c><00:02:14.080><c> tool</c><00:02:14.400><c> call</c><00:02:14.640><c> logs</c>
+
+00:02:15.030 --> 00:02:15.040 align:start position:0%
+minimalist mode. The tool call logs
+ 
+
+00:02:15.040 --> 00:02:17.030 align:start position:0%
+minimalist mode. The tool call logs
+vanish.<00:02:15.360><c> The</c><00:02:15.520><c> metadata</c><00:02:16.160><c> disappears.</c><00:02:16.879><c> The</c>
+
+00:02:17.030 --> 00:02:17.040 align:start position:0%
+vanish. The metadata disappears. The
+ 
+
+00:02:17.040 --> 00:02:19.270 align:start position:0%
+vanish. The metadata disappears. The
+verbose<00:02:17.520><c> execution</c><00:02:18.080><c> details</c><00:02:18.400><c> are</c><00:02:18.640><c> gone.</c><00:02:19.120><c> All</c>
+
+00:02:19.270 --> 00:02:19.280 align:start position:0%
+verbose execution details are gone. All
+ 
+
+00:02:19.280 --> 00:02:20.869 align:start position:0%
+verbose execution details are gone. All
+you're<00:02:19.520><c> left</c><00:02:19.680><c> with</c><00:02:19.840><c> is</c><00:02:20.000><c> your</c><00:02:20.160><c> prompt</c><00:02:20.480><c> and</c><00:02:20.640><c> your</c>
+
+00:02:20.869 --> 00:02:20.879 align:start position:0%
+you're left with is your prompt and your
+ 
+
+00:02:20.879 --> 00:02:23.030 align:start position:0%
+you're left with is your prompt and your
+output.<00:02:21.520><c> It</c><00:02:21.760><c> sounds</c><00:02:21.920><c> like</c><00:02:22.000><c> a</c><00:02:22.239><c> tiny</c><00:02:22.560><c> change,</c>
+
+00:02:23.030 --> 00:02:23.040 align:start position:0%
+output. It sounds like a tiny change,
+ 
+
+00:02:23.040 --> 00:02:24.869 align:start position:0%
+output. It sounds like a tiny change,
+but<00:02:23.280><c> it</c><00:02:23.520><c> completely</c><00:02:23.920><c> transforms</c><00:02:24.400><c> the</c><00:02:24.560><c> feel</c><00:02:24.720><c> of</c>
+
+00:02:24.869 --> 00:02:24.879 align:start position:0%
+but it completely transforms the feel of
+ 
+
+00:02:24.879 --> 00:02:26.710 align:start position:0%
+but it completely transforms the feel of
+the<00:02:25.040><c> tool.</c><00:02:25.520><c> Right?</c><00:02:25.920><c> Think</c><00:02:26.160><c> about</c><00:02:26.319><c> it</c><00:02:26.480><c> this</c>
+
+00:02:26.710 --> 00:02:26.720 align:start position:0%
+the tool. Right? Think about it this
+ 
+
+00:02:26.720 --> 00:02:28.550 align:start position:0%
+the tool. Right? Think about it this
+way.<00:02:27.200><c> When</c><00:02:27.360><c> you're</c><00:02:27.520><c> coding</c><00:02:27.920><c> or</c><00:02:28.160><c> building</c>
+
+00:02:28.550 --> 00:02:28.560 align:start position:0%
+way. When you're coding or building
+ 
+
+00:02:28.560 --> 00:02:30.550 align:start position:0%
+way. When you're coding or building
+something,<00:02:29.200><c> every</c><00:02:29.599><c> extra</c><00:02:29.920><c> thing</c><00:02:30.160><c> on</c><00:02:30.400><c> your</c>
+
+00:02:30.550 --> 00:02:30.560 align:start position:0%
+something, every extra thing on your
+ 
+
+00:02:30.560 --> 00:02:33.030 align:start position:0%
+something, every extra thing on your
+screen<00:02:31.040><c> is</c><00:02:31.360><c> costing</c><00:02:31.760><c> you</c><00:02:32.000><c> focus.</c><00:02:32.640><c> Your</c><00:02:32.879><c> brain</c>
+
+00:02:33.030 --> 00:02:33.040 align:start position:0%
+screen is costing you focus. Your brain
+ 
+
+00:02:33.040 --> 00:02:35.030 align:start position:0%
+screen is costing you focus. Your brain
+is<00:02:33.280><c> processing</c><00:02:33.760><c> it</c><00:02:34.160><c> even</c><00:02:34.400><c> when</c><00:02:34.640><c> you</c><00:02:34.879><c> don't</c>
+
+00:02:35.030 --> 00:02:35.040 align:start position:0%
+is processing it even when you don't
+ 
+
+00:02:35.040 --> 00:02:37.430 align:start position:0%
+is processing it even when you don't
+want<00:02:35.200><c> it</c><00:02:35.440><c> to.</c><00:02:35.760><c> Minimalist</c><00:02:36.400><c> mode</c><00:02:36.879><c> strips</c><00:02:37.280><c> all</c>
+
+00:02:37.430 --> 00:02:37.440 align:start position:0%
+want it to. Minimalist mode strips all
+ 
+
+00:02:37.440 --> 00:02:39.110 align:start position:0%
+want it to. Minimalist mode strips all
+of<00:02:37.519><c> that</c><00:02:37.680><c> away.</c><00:02:38.080><c> You're</c><00:02:38.239><c> not</c><00:02:38.400><c> watching</c><00:02:38.560><c> the</c><00:02:38.720><c> AI</c>
+
+00:02:39.110 --> 00:02:39.120 align:start position:0%
+of that away. You're not watching the AI
+ 
+
+00:02:39.120 --> 00:02:40.470 align:start position:0%
+of that away. You're not watching the AI
+think<00:02:39.360><c> anymore.</c><00:02:39.760><c> You're</c><00:02:39.920><c> just</c><00:02:40.080><c> giving</c><00:02:40.319><c> it</c>
+
+00:02:40.470 --> 00:02:40.480 align:start position:0%
+think anymore. You're just giving it
+ 
+
+00:02:40.480 --> 00:02:43.030 align:start position:0%
+think anymore. You're just giving it
+instructions<00:02:41.360><c> and</c><00:02:41.599><c> getting</c><00:02:42.000><c> results.</c><00:02:42.800><c> It</c>
+
+00:02:43.030 --> 00:02:43.040 align:start position:0%
+instructions and getting results. It
+ 
+
+00:02:43.040 --> 00:02:44.869 align:start position:0%
+instructions and getting results. It
+feels<00:02:43.280><c> less</c><00:02:43.440><c> like</c><00:02:43.599><c> a</c><00:02:43.760><c> chatbot</c><00:02:44.319><c> and</c><00:02:44.560><c> more</c><00:02:44.720><c> like</c>
+
+00:02:44.869 --> 00:02:44.879 align:start position:0%
+feels less like a chatbot and more like
+ 
+
+00:02:44.879 --> 00:02:47.030 align:start position:0%
+feels less like a chatbot and more like
+an<00:02:45.120><c> intelligent</c><00:02:45.599><c> command</c><00:02:46.000><c> shell.</c><00:02:46.480><c> Clean,</c>
+
+00:02:47.030 --> 00:02:47.040 align:start position:0%
+an intelligent command shell. Clean,
+ 
+
+00:02:47.040 --> 00:02:49.509 align:start position:0%
+an intelligent command shell. Clean,
+fast,<00:02:47.680><c> distraction-free.</c><00:02:48.720><c> And</c><00:02:48.959><c> Google</c><00:02:49.360><c> have</c>
+
+00:02:49.509 --> 00:02:49.519 align:start position:0%
+fast, distraction-free. And Google have
+ 
+
+00:02:49.519 --> 00:02:51.030 align:start position:0%
+fast, distraction-free. And Google have
+also<00:02:49.760><c> said</c><00:02:49.920><c> that</c><00:02:50.080><c> tool</c><00:02:50.319><c> calls</c><00:02:50.560><c> are</c><00:02:50.720><c> about</c><00:02:50.879><c> to</c>
+
+00:02:51.030 --> 00:02:51.040 align:start position:0%
+also said that tool calls are about to
+ 
+
+00:02:51.040 --> 00:02:53.110 align:start position:0%
+also said that tool calls are about to
+become<00:02:51.280><c> less</c><00:02:51.519><c> verbose</c><00:02:52.080><c> across</c><00:02:52.319><c> the</c><00:02:52.480><c> board,</c>
+
+00:02:53.110 --> 00:02:53.120 align:start position:0%
+become less verbose across the board,
+ 
+
+00:02:53.120 --> 00:02:55.270 align:start position:0%
+become less verbose across the board,
+even<00:02:53.360><c> in</c><00:02:53.680><c> full</c><00:02:53.920><c> mode.</c><00:02:54.640><c> So,</c><00:02:54.800><c> the</c><00:02:55.040><c> whole</c>
+
+00:02:55.270 --> 00:02:55.280 align:start position:0%
+even in full mode. So, the whole
+ 
+
+00:02:55.280 --> 00:02:57.190 align:start position:0%
+even in full mode. So, the whole
+experience<00:02:55.680><c> is</c><00:02:55.920><c> getting</c><00:02:56.160><c> cleaner.</c><00:02:56.800><c> This</c><00:02:57.040><c> is</c>
+
+00:02:57.190 --> 00:02:57.200 align:start position:0%
+experience is getting cleaner. This is
+ 
+
+00:02:57.200 --> 00:02:59.430 align:start position:0%
+experience is getting cleaner. This is
+Gemini<00:02:57.760><c> CLI</c><00:02:58.239><c> catching</c><00:02:58.640><c> up</c><00:02:58.720><c> to</c><00:02:58.879><c> the</c><00:02:59.040><c> feel</c><00:02:59.200><c> of</c>
+
+00:02:59.430 --> 00:02:59.440 align:start position:0%
+Gemini CLI catching up to the feel of
+ 
+
+00:02:59.440 --> 00:03:01.430 align:start position:0%
+Gemini CLI catching up to the feel of
+tools<00:02:59.760><c> like</c><00:02:59.920><c> Clawude</c><00:03:00.400><c> Code</c><00:03:00.560><c> and</c><00:03:00.720><c> Cursor,</c><00:03:01.120><c> but</c>
+
+00:03:01.430 --> 00:03:01.440 align:start position:0%
+tools like Clawude Code and Cursor, but
+ 
+
+00:03:01.440 --> 00:03:03.750 align:start position:0%
+tools like Clawude Code and Cursor, but
+built<00:03:01.760><c> directly</c><00:03:02.239><c> into</c><00:03:02.640><c> your</c><00:03:02.959><c> terminal.</c><00:03:03.519><c> Quick</c>
+
+00:03:03.750 --> 00:03:03.760 align:start position:0%
+built directly into your terminal. Quick
+ 
+
+00:03:03.760 --> 00:03:05.509 align:start position:0%
+built directly into your terminal. Quick
+pause<00:03:04.080><c> here</c><00:03:04.640><c> because</c><00:03:04.879><c> if</c><00:03:05.120><c> you're</c><00:03:05.280><c> watching</c>
+
+00:03:05.509 --> 00:03:05.519 align:start position:0%
+pause here because if you're watching
+ 
+
+00:03:05.519 --> 00:03:07.190 align:start position:0%
+pause here because if you're watching
+this<00:03:05.680><c> and</c><00:03:05.920><c> thinking,</c><00:03:06.239><c> I</c><00:03:06.400><c> want</c><00:03:06.480><c> to</c><00:03:06.640><c> use</c><00:03:06.800><c> AI</c>
+
+00:03:07.190 --> 00:03:07.200 align:start position:0%
+this and thinking, I want to use AI
+ 
+
+00:03:07.200 --> 00:03:09.270 align:start position:0%
+this and thinking, I want to use AI
+tools<00:03:07.519><c> like</c><00:03:07.680><c> this</c><00:03:08.159><c> to</c><00:03:08.400><c> actually</c><00:03:08.720><c> grow</c><00:03:08.959><c> my</c>
+
+00:03:09.270 --> 00:03:09.280 align:start position:0%
+tools like this to actually grow my
+ 
+
+00:03:09.280 --> 00:03:11.350 align:start position:0%
+tools like this to actually grow my
+business,<00:03:10.000><c> you</c><00:03:10.159><c> need</c><00:03:10.319><c> to</c><00:03:10.480><c> check</c><00:03:10.640><c> out</c><00:03:10.800><c> the</c><00:03:10.959><c> AI</c>
+
+00:03:11.350 --> 00:03:11.360 align:start position:0%
+business, you need to check out the AI
+ 
+
+00:03:11.360 --> 00:03:13.270 align:start position:0%
+business, you need to check out the AI
+profit<00:03:11.680><c> boardroom.</c><00:03:12.319><c> It's</c><00:03:12.480><c> a</c><00:03:12.720><c> community</c><00:03:13.040><c> and</c>
+
+00:03:13.270 --> 00:03:13.280 align:start position:0%
+profit boardroom. It's a community and
+ 
+
+00:03:13.280 --> 00:03:14.869 align:start position:0%
+profit boardroom. It's a community and
+training<00:03:13.599><c> program</c><00:03:13.920><c> for</c><00:03:14.159><c> entrepreneurs</c><00:03:14.720><c> and</c>
+
+00:03:14.869 --> 00:03:14.879 align:start position:0%
+training program for entrepreneurs and
+ 
+
+00:03:14.879 --> 00:03:17.110 align:start position:0%
+training program for entrepreneurs and
+business<00:03:15.200><c> owners</c><00:03:15.680><c> who</c><00:03:15.920><c> want</c><00:03:16.080><c> to</c><00:03:16.239><c> use</c><00:03:16.480><c> AI</c><00:03:16.879><c> to</c>
+
+00:03:17.110 --> 00:03:17.120 align:start position:0%
+business owners who want to use AI to
+ 
+
+00:03:17.120 --> 00:03:19.270 align:start position:0%
+business owners who want to use AI to
+automate<00:03:17.440><c> the</c><00:03:17.680><c> boring</c><00:03:18.080><c> stuff</c><00:03:18.480><c> and</c><00:03:18.800><c> focus</c><00:03:19.040><c> on</c>
+
+00:03:19.270 --> 00:03:19.280 align:start position:0%
+automate the boring stuff and focus on
+ 
+
+00:03:19.280 --> 00:03:21.670 align:start position:0%
+automate the boring stuff and focus on
+what<00:03:19.519><c> actually</c><00:03:19.920><c> matters.</c><00:03:20.720><c> We</c><00:03:20.959><c> use</c><00:03:21.120><c> tools</c><00:03:21.440><c> like</c>
+
+00:03:21.670 --> 00:03:21.680 align:start position:0%
+what actually matters. We use tools like
+ 
+
+00:03:21.680 --> 00:03:24.390 align:start position:0%
+what actually matters. We use tools like
+Gemini<00:03:22.239><c> CLI</c><00:03:22.800><c> inside</c><00:03:23.040><c> the</c><00:03:23.280><c> boardroom</c><00:03:23.840><c> to</c><00:03:24.159><c> build</c>
+
+00:03:24.390 --> 00:03:24.400 align:start position:0%
+Gemini CLI inside the boardroom to build
+ 
+
+00:03:24.400 --> 00:03:26.949 align:start position:0%
+Gemini CLI inside the boardroom to build
+real<00:03:24.720><c> workflows,</c><00:03:25.680><c> content</c><00:03:26.080><c> creation,</c>
+
+00:03:26.949 --> 00:03:26.959 align:start position:0%
+real workflows, content creation,
+ 
+
+00:03:26.959 --> 00:03:29.110 align:start position:0%
+real workflows, content creation,
+outreach,<00:03:27.599><c> community</c><00:03:28.000><c> growth,</c><00:03:28.720><c> research</c>
+
+00:03:29.110 --> 00:03:29.120 align:start position:0%
+outreach, community growth, research
+ 
+
+00:03:29.120 --> 00:03:31.750 align:start position:0%
+outreach, community growth, research
+pipelines,<00:03:30.000><c> all</c><00:03:30.319><c> automated.</c><00:03:31.040><c> If</c><00:03:31.200><c> that</c><00:03:31.440><c> sounds</c>
+
+00:03:31.750 --> 00:03:31.760 align:start position:0%
+pipelines, all automated. If that sounds
+ 
+
+00:03:31.760 --> 00:03:33.190 align:start position:0%
+pipelines, all automated. If that sounds
+useful<00:03:32.000><c> to</c><00:03:32.080><c> you,</c><00:03:32.319><c> the</c><00:03:32.560><c> link</c><00:03:32.720><c> is</c><00:03:32.879><c> in</c><00:03:33.040><c> the</c>
+
+00:03:33.190 --> 00:03:33.200 align:start position:0%
+useful to you, the link is in the
+ 
+
+00:03:33.200 --> 00:03:35.030 align:start position:0%
+useful to you, the link is in the
+description.<00:03:33.599><c> Go</c><00:03:33.840><c> check</c><00:03:34.000><c> it</c><00:03:34.080><c> out.</c><00:03:34.560><c> Now,</c><00:03:34.799><c> let's</c>
+
+00:03:35.030 --> 00:03:35.040 align:start position:0%
+description. Go check it out. Now, let's
+ 
+
+00:03:35.040 --> 00:03:37.350 align:start position:0%
+description. Go check it out. Now, let's
+keep<00:03:35.280><c> going.</c><00:03:35.760><c> So,</c><00:03:36.159><c> minimalist</c><00:03:36.720><c> mode</c><00:03:36.959><c> is</c><00:03:37.200><c> the</c>
+
+00:03:37.350 --> 00:03:37.360 align:start position:0%
+keep going. So, minimalist mode is the
+ 
+
+00:03:37.360 --> 00:03:38.710 align:start position:0%
+keep going. So, minimalist mode is the
+headline,<00:03:37.840><c> but</c><00:03:38.000><c> let</c><00:03:38.159><c> me</c><00:03:38.319><c> show</c><00:03:38.400><c> you</c><00:03:38.560><c> what</c>
+
+00:03:38.710 --> 00:03:38.720 align:start position:0%
+headline, but let me show you what
+ 
+
+00:03:38.720 --> 00:03:40.869 align:start position:0%
+headline, but let me show you what
+Gemini<00:03:39.200><c> CLI</c><00:03:39.680><c> can</c><00:03:39.840><c> actually</c><00:03:40.080><c> do.</c><00:03:40.480><c> Because</c><00:03:40.640><c> the</c>
+
+00:03:40.869 --> 00:03:40.879 align:start position:0%
+Gemini CLI can actually do. Because the
+ 
+
+00:03:40.879 --> 00:03:43.190 align:start position:0%
+Gemini CLI can actually do. Because the
+interface<00:03:41.360><c> is</c><00:03:41.599><c> just</c><00:03:41.760><c> the</c><00:03:42.000><c> surface,</c><00:03:42.720><c> the</c><00:03:42.959><c> real</c>
+
+00:03:43.190 --> 00:03:43.200 align:start position:0%
+interface is just the surface, the real
+ 
+
+00:03:43.200 --> 00:03:45.509 align:start position:0%
+interface is just the surface, the real
+power<00:03:43.519><c> is</c><00:03:43.760><c> in</c><00:03:43.920><c> the</c><00:03:44.080><c> workflows.</c><00:03:45.040><c> There's</c><00:03:45.360><c> an</c>
+
+00:03:45.509 --> 00:03:45.519 align:start position:0%
+power is in the workflows. There's an
+ 
+
+00:03:45.519 --> 00:03:47.350 align:start position:0%
+power is in the workflows. There's an
+extension<00:03:46.000><c> system</c><00:03:46.319><c> that</c><00:03:46.560><c> lets</c><00:03:46.799><c> you</c><00:03:46.959><c> install</c>
+
+00:03:47.350 --> 00:03:47.360 align:start position:0%
+extension system that lets you install
+ 
+
+00:03:47.360 --> 00:03:50.149 align:start position:0%
+extension system that lets you install
+new<00:03:47.680><c> tools</c><00:03:48.319><c> directly</c><00:03:48.720><c> into</c><00:03:48.959><c> Gemini</c><00:03:49.519><c> CLI</c><00:03:49.920><c> from</c>
+
+00:03:50.149 --> 00:03:50.159 align:start position:0%
+new tools directly into Gemini CLI from
+ 
+
+00:03:50.159 --> 00:03:53.270 align:start position:0%
+new tools directly into Gemini CLI from
+GitHub.<00:03:51.200><c> Data</c><00:03:51.519><c> analysis</c><00:03:52.080><c> tools,</c><00:03:52.640><c> automation</c>
+
+00:03:53.270 --> 00:03:53.280 align:start position:0%
+GitHub. Data analysis tools, automation
+ 
+
+00:03:53.280 --> 00:03:55.589 align:start position:0%
+GitHub. Data analysis tools, automation
+integrations,<00:03:54.239><c> security</c><00:03:54.799><c> scanners,</c>
+
+00:03:55.589 --> 00:03:55.599 align:start position:0%
+integrations, security scanners,
+ 
+
+00:03:55.599 --> 00:03:57.589 align:start position:0%
+integrations, security scanners,
+research<00:03:56.000><c> pipelines.</c><00:03:56.879><c> You</c><00:03:57.040><c> install</c><00:03:57.360><c> them</c>
+
+00:03:57.589 --> 00:03:57.599 align:start position:0%
+research pipelines. You install them
+ 
+
+00:03:57.599 --> 00:03:59.429 align:start position:0%
+research pipelines. You install them
+with<00:03:57.760><c> one</c><00:03:58.000><c> command</c><00:03:58.480><c> and</c><00:03:58.720><c> they're</c><00:03:58.959><c> available</c>
+
+00:03:59.429 --> 00:03:59.439 align:start position:0%
+with one command and they're available
+ 
+
+00:03:59.439 --> 00:04:01.110 align:start position:0%
+with one command and they're available
+instantly<00:03:59.920><c> in</c><00:04:00.159><c> your</c><00:04:00.319><c> terminal.</c><00:04:00.879><c> There's</c>
+
+00:04:01.110 --> 00:04:01.120 align:start position:0%
+instantly in your terminal. There's
+ 
+
+00:04:01.120 --> 00:04:03.110 align:start position:0%
+instantly in your terminal. There's
+headless<00:04:01.519><c> mode,</c><00:04:01.760><c> which</c><00:04:02.000><c> is</c><00:04:02.159><c> huge.</c><00:04:02.720><c> This</c><00:04:02.879><c> lets</c>
+
+00:04:03.110 --> 00:04:03.120 align:start position:0%
+headless mode, which is huge. This lets
+ 
+
+00:04:03.120 --> 00:04:05.429 align:start position:0%
+headless mode, which is huge. This lets
+you<00:04:03.280><c> run</c><00:04:03.439><c> Gemini</c><00:04:04.000><c> CLI</c><00:04:04.480><c> without</c><00:04:04.799><c> any</c><00:04:05.040><c> interface</c>
+
+00:04:05.429 --> 00:04:05.439 align:start position:0%
+you run Gemini CLI without any interface
+ 
+
+00:04:05.439 --> 00:04:07.110 align:start position:0%
+you run Gemini CLI without any interface
+at<00:04:05.680><c> all.</c><00:04:06.000><c> You</c><00:04:06.159><c> just</c><00:04:06.319><c> pass</c><00:04:06.560><c> it</c><00:04:06.640><c> a</c><00:04:06.799><c> prompt</c>
+
+00:04:07.110 --> 00:04:07.120 align:start position:0%
+at all. You just pass it a prompt
+ 
+
+00:04:07.120 --> 00:04:09.270 align:start position:0%
+at all. You just pass it a prompt
+directly<00:04:07.439><c> in</c><00:04:07.599><c> a</c><00:04:07.760><c> script</c><00:04:08.000><c> or</c><00:04:08.239><c> a</c><00:04:08.480><c> pipeline,</c><00:04:09.040><c> so</c>
+
+00:04:09.270 --> 00:04:09.280 align:start position:0%
+directly in a script or a pipeline, so
+ 
+
+00:04:09.280 --> 00:04:11.589 align:start position:0%
+directly in a script or a pipeline, so
+you<00:04:09.439><c> can</c><00:04:09.599><c> schedule</c><00:04:09.840><c> a</c><00:04:10.080><c> task,</c><00:04:10.480><c> run</c><00:04:10.640><c> a</c><00:04:10.799><c> CI</c><00:04:11.200><c> job,</c>
+
+00:04:11.589 --> 00:04:11.599 align:start position:0%
+you can schedule a task, run a CI job,
+ 
+
+00:04:11.599 --> 00:04:13.509 align:start position:0%
+you can schedule a task, run a CI job,
+or<00:04:11.840><c> chain</c><00:04:12.159><c> together</c><00:04:12.560><c> a</c><00:04:12.799><c> whole</c><00:04:12.959><c> automation</c>
+
+00:04:13.509 --> 00:04:13.519 align:start position:0%
+or chain together a whole automation
+ 
+
+00:04:13.519 --> 00:04:15.990 align:start position:0%
+or chain together a whole automation
+workflow.<00:04:14.319><c> And</c><00:04:14.560><c> Gemini</c><00:04:15.120><c> handles</c><00:04:15.360><c> the</c><00:04:15.599><c> AI</c>
+
+00:04:15.990 --> 00:04:16.000 align:start position:0%
+workflow. And Gemini handles the AI
+ 
+
+00:04:16.000 --> 00:04:17.830 align:start position:0%
+workflow. And Gemini handles the AI
+piece<00:04:16.320><c> automatically</c><00:04:16.880><c> in</c><00:04:17.040><c> the</c><00:04:17.199><c> background.</c>
+
+00:04:17.830 --> 00:04:17.840 align:start position:0%
+piece automatically in the background.
+ 
+
+00:04:17.840 --> 00:04:19.670 align:start position:0%
+piece automatically in the background.
+There's<00:04:18.079><c> file</c><00:04:18.400><c> context</c><00:04:19.120><c> where</c><00:04:19.359><c> you</c><00:04:19.519><c> can</c>
+
+00:04:19.670 --> 00:04:19.680 align:start position:0%
+There's file context where you can
+ 
+
+00:04:19.680 --> 00:04:21.270 align:start position:0%
+There's file context where you can
+reference<00:04:20.000><c> any</c><00:04:20.239><c> file</c><00:04:20.560><c> directly</c><00:04:20.880><c> in</c><00:04:21.120><c> your</c>
+
+00:04:21.270 --> 00:04:21.280 align:start position:0%
+reference any file directly in your
+ 
+
+00:04:21.280 --> 00:04:23.590 align:start position:0%
+reference any file directly in your
+prompt<00:04:21.759><c> using</c><00:04:22.000><c> the</c><00:04:22.320><c> hour</c><00:04:22.560><c> symbol.</c><00:04:23.199><c> So</c><00:04:23.360><c> you</c>
+
+00:04:23.590 --> 00:04:23.600 align:start position:0%
+prompt using the hour symbol. So you
+ 
+
+00:04:23.600 --> 00:04:26.230 align:start position:0%
+prompt using the hour symbol. So you
+type<00:04:23.919><c> old</c><00:04:24.160><c> report.csv</c><00:04:25.199><c> and</c><00:04:25.360><c> then</c><00:04:25.520><c> ask</c><00:04:25.759><c> Gemini</c>
+
+00:04:26.230 --> 00:04:26.240 align:start position:0%
+type old report.csv and then ask Gemini
+ 
+
+00:04:26.240 --> 00:04:28.310 align:start position:0%
+type old report.csv and then ask Gemini
+to<00:04:26.400><c> summarize</c><00:04:26.800><c> it,</c><00:04:27.120><c> analyze</c><00:04:27.600><c> it,</c><00:04:28.000><c> find</c>
+
+00:04:28.310 --> 00:04:28.320 align:start position:0%
+to summarize it, analyze it, find
+ 
+
+00:04:28.320 --> 00:04:30.870 align:start position:0%
+to summarize it, analyze it, find
+patterns,<00:04:29.199><c> whatever</c><00:04:29.520><c> you</c><00:04:29.680><c> need.</c><00:04:30.479><c> It</c><00:04:30.639><c> reads</c>
+
+00:04:30.870 --> 00:04:30.880 align:start position:0%
+patterns, whatever you need. It reads
+ 
+
+00:04:30.880 --> 00:04:33.189 align:start position:0%
+patterns, whatever you need. It reads
+the<00:04:31.120><c> file</c><00:04:31.360><c> and</c><00:04:31.600><c> works</c><00:04:31.840><c> with</c><00:04:32.000><c> it</c><00:04:32.160><c> in</c><00:04:32.400><c> context.</c>
+
+00:04:33.189 --> 00:04:33.199 align:start position:0%
+the file and works with it in context.
+ 
+
+00:04:33.199 --> 00:04:35.830 align:start position:0%
+the file and works with it in context.
+And<00:04:33.360><c> there's</c><00:04:33.919><c> shell</c><00:04:34.400><c> integration</c><00:04:35.440><c> where</c>
+
+00:04:35.830 --> 00:04:35.840 align:start position:0%
+And there's shell integration where
+ 
+
+00:04:35.840 --> 00:04:38.150 align:start position:0%
+And there's shell integration where
+Gemini<00:04:36.400><c> can</c><00:04:36.560><c> actually</c><00:04:36.960><c> execute</c><00:04:37.520><c> commands</c><00:04:37.919><c> on</c>
+
+00:04:38.150 --> 00:04:38.160 align:start position:0%
+Gemini can actually execute commands on
+ 
+
+00:04:38.160 --> 00:04:40.150 align:start position:0%
+Gemini can actually execute commands on
+your<00:04:38.320><c> system.</c><00:04:38.960><c> You</c><00:04:39.120><c> type</c><00:04:39.360><c> something</c><00:04:39.680><c> like</c>
+
+00:04:40.150 --> 00:04:40.160 align:start position:0%
+your system. You type something like
+ 
+
+00:04:40.160 --> 00:04:42.629 align:start position:0%
+your system. You type something like
+lsla<00:04:40.800><c> and</c><00:04:40.960><c> it</c><00:04:41.120><c> runs</c><00:04:41.280><c> it.</c><00:04:41.759><c> Meaning</c><00:04:42.080><c> the</c><00:04:42.240><c> AI</c>
+
+00:04:42.629 --> 00:04:42.639 align:start position:0%
+lsla and it runs it. Meaning the AI
+ 
+
+00:04:42.639 --> 00:04:44.230 align:start position:0%
+lsla and it runs it. Meaning the AI
+isn't<00:04:42.880><c> just</c><00:04:43.120><c> talking</c><00:04:43.360><c> to</c><00:04:43.520><c> you.</c><00:04:44.000><c> It's</c>
+
+00:04:44.230 --> 00:04:44.240 align:start position:0%
+isn't just talking to you. It's
+ 
+
+00:04:44.240 --> 00:04:46.310 align:start position:0%
+isn't just talking to you. It's
+interacting<00:04:44.880><c> directly</c><00:04:45.280><c> with</c><00:04:45.440><c> your</c><00:04:45.680><c> machine.</c>
+
+00:04:46.310 --> 00:04:46.320 align:start position:0%
+interacting directly with your machine.
+ 
+
+00:04:46.320 --> 00:04:47.749 align:start position:0%
+interacting directly with your machine.
+Put<00:04:46.560><c> all</c><00:04:46.720><c> of</c><00:04:46.800><c> this</c><00:04:46.960><c> together</c><00:04:47.280><c> and</c><00:04:47.520><c> you've</c><00:04:47.680><c> got</c>
+
+00:04:47.749 --> 00:04:47.759 align:start position:0%
+Put all of this together and you've got
+ 
+
+00:04:47.759 --> 00:04:49.990 align:start position:0%
+Put all of this together and you've got
+a<00:04:47.919><c> tool</c><00:04:48.160><c> that</c><00:04:48.400><c> can</c><00:04:48.560><c> write</c><00:04:48.800><c> code,</c><00:04:49.280><c> run</c><00:04:49.440><c> it,</c><00:04:49.759><c> fix</c>
+
+00:04:49.990 --> 00:04:50.000 align:start position:0%
+a tool that can write code, run it, fix
+ 
+
+00:04:50.000 --> 00:04:51.830 align:start position:0%
+a tool that can write code, run it, fix
+the<00:04:50.240><c> errors,</c><00:04:50.560><c> read</c><00:04:50.720><c> your</c><00:04:50.960><c> files,</c><00:04:51.440><c> research</c>
+
+00:04:51.830 --> 00:04:51.840 align:start position:0%
+the errors, read your files, research
+ 
+
+00:04:51.840 --> 00:04:54.710 align:start position:0%
+the errors, read your files, research
+topics,<00:04:52.639><c> and</c><00:04:52.880><c> automate</c><00:04:53.440><c> entire</c><00:04:53.919><c> workflows</c>
+
+00:04:54.710 --> 00:04:54.720 align:start position:0%
+topics, and automate entire workflows
+ 
+
+00:04:54.720 --> 00:04:56.870 align:start position:0%
+topics, and automate entire workflows
+all<00:04:54.880><c> from</c><00:04:55.199><c> one</c><00:04:55.440><c> place.</c><00:04:56.160><c> Let</c><00:04:56.320><c> me</c><00:04:56.479><c> give</c><00:04:56.560><c> you</c><00:04:56.720><c> some</c>
+
+00:04:56.870 --> 00:04:56.880 align:start position:0%
+all from one place. Let me give you some
+ 
+
+00:04:56.880 --> 00:04:58.710 align:start position:0%
+all from one place. Let me give you some
+concrete<00:04:57.360><c> examples,</c><00:04:58.080><c> things</c><00:04:58.320><c> you</c><00:04:58.560><c> could</c>
+
+00:04:58.710 --> 00:04:58.720 align:start position:0%
+concrete examples, things you could
+ 
+
+00:04:58.720 --> 00:05:01.430 align:start position:0%
+concrete examples, things you could
+actually<00:04:59.040><c> go</c><00:04:59.280><c> and</c><00:04:59.520><c> do</c><00:05:00.000><c> right</c><00:05:00.320><c> now.</c><00:05:01.040><c> If</c><00:05:01.199><c> you're</c>
+
+00:05:01.430 --> 00:05:01.440 align:start position:0%
+actually go and do right now. If you're
+ 
+
+00:05:01.440 --> 00:05:03.430 align:start position:0%
+actually go and do right now. If you're
+creating<00:05:01.759><c> content,</c><00:05:02.320><c> you</c><00:05:02.479><c> can</c><00:05:02.639><c> feed</c><00:05:02.960><c> Gemini</c>
+
+00:05:03.430 --> 00:05:03.440 align:start position:0%
+creating content, you can feed Gemini
+ 
+
+00:05:03.440 --> 00:05:05.749 align:start position:0%
+creating content, you can feed Gemini
+CLI<00:05:03.919><c> your</c><00:05:04.080><c> topic</c><00:05:04.560><c> and</c><00:05:04.800><c> ask</c><00:05:05.040><c> it</c><00:05:05.199><c> to</c><00:05:05.360><c> write</c><00:05:05.520><c> a</c>
+
+00:05:05.749 --> 00:05:05.759 align:start position:0%
+CLI your topic and ask it to write a
+ 
+
+00:05:05.759 --> 00:05:07.909 align:start position:0%
+CLI your topic and ask it to write a
+full<00:05:05.919><c> blog</c><00:05:06.240><c> post,</c><00:05:06.800><c> then</c><00:05:07.039><c> a</c><00:05:07.199><c> Twitter</c><00:05:07.520><c> thread,</c>
+
+00:05:07.909 --> 00:05:07.919 align:start position:0%
+full blog post, then a Twitter thread,
+ 
+
+00:05:07.919 --> 00:05:10.469 align:start position:0%
+full blog post, then a Twitter thread,
+then<00:05:08.080><c> a</c><00:05:08.320><c> LinkedIn</c><00:05:08.720><c> post,</c><00:05:09.280><c> then</c><00:05:09.440><c> an</c><00:05:09.680><c> email,</c><00:05:10.320><c> all</c>
+
+00:05:10.469 --> 00:05:10.479 align:start position:0%
+then a LinkedIn post, then an email, all
+ 
+
+00:05:10.479 --> 00:05:12.150 align:start position:0%
+then a LinkedIn post, then an email, all
+in<00:05:10.720><c> one</c><00:05:10.880><c> session.</c><00:05:11.360><c> No</c><00:05:11.600><c> switching</c><00:05:11.919><c> between</c>
+
+00:05:12.150 --> 00:05:12.160 align:start position:0%
+in one session. No switching between
+ 
+
+00:05:12.160 --> 00:05:14.950 align:start position:0%
+in one session. No switching between
+tools,<00:05:12.720><c> no</c><00:05:12.960><c> copyping</c><00:05:13.680><c> between</c><00:05:14.000><c> windows.</c><00:05:14.720><c> If</c>
+
+00:05:14.950 --> 00:05:14.960 align:start position:0%
+tools, no copyping between windows. If
+ 
+
+00:05:14.960 --> 00:05:16.469 align:start position:0%
+tools, no copyping between windows. If
+you're<00:05:15.120><c> doing</c><00:05:15.360><c> research,</c><00:05:15.759><c> you</c><00:05:15.919><c> can</c><00:05:16.000><c> ask</c><00:05:16.160><c> it</c><00:05:16.400><c> to</c>
+
+00:05:16.469 --> 00:05:16.479 align:start position:0%
+you're doing research, you can ask it to
+ 
+
+00:05:16.479 --> 00:05:18.790 align:start position:0%
+you're doing research, you can ask it to
+go<00:05:16.639><c> deep</c><00:05:16.880><c> on</c><00:05:17.120><c> any</c><00:05:17.360><c> topic</c><00:05:17.919><c> and</c><00:05:18.240><c> return</c><00:05:18.560><c> a</c>
+
+00:05:18.790 --> 00:05:18.800 align:start position:0%
+go deep on any topic and return a
+ 
+
+00:05:18.800 --> 00:05:20.550 align:start position:0%
+go deep on any topic and return a
+structured<00:05:19.199><c> breakdown.</c><00:05:19.919><c> Something</c><00:05:20.240><c> like,</c>
+
+00:05:20.550 --> 00:05:20.560 align:start position:0%
+structured breakdown. Something like,
+ 
+
+00:05:20.560 --> 00:05:23.029 align:start position:0%
+structured breakdown. Something like,
+"Research<00:05:21.120><c> the</c><00:05:21.360><c> top</c><00:05:21.520><c> AI</c><00:05:21.919><c> automation</c><00:05:22.479><c> trends</c>
+
+00:05:23.029 --> 00:05:23.039 align:start position:0%
+"Research the top AI automation trends
+ 
+
+00:05:23.039 --> 00:05:25.990 align:start position:0%
+"Research the top AI automation trends
+for<00:05:23.280><c> online</c><00:05:23.759><c> community</c><00:05:24.080><c> owners</c><00:05:24.479><c> in</c><00:05:24.720><c> 2025</c><00:05:25.759><c> and</c>
+
+00:05:25.990 --> 00:05:26.000 align:start position:0%
+for online community owners in 2025 and
+ 
+
+00:05:26.000 --> 00:05:27.670 align:start position:0%
+for online community owners in 2025 and
+give<00:05:26.160><c> me</c><00:05:26.240><c> a</c><00:05:26.400><c> summary</c><00:05:26.720><c> I</c><00:05:26.960><c> can</c><00:05:27.039><c> use</c><00:05:27.199><c> for</c><00:05:27.440><c> a</c>
+
+00:05:27.670 --> 00:05:27.680 align:start position:0%
+give me a summary I can use for a
+ 
+
+00:05:27.680 --> 00:05:29.590 align:start position:0%
+give me a summary I can use for a
+training<00:05:28.000><c> session."</c><00:05:28.560><c> It</c><00:05:28.800><c> pulls</c><00:05:29.039><c> it</c><00:05:29.280><c> together</c>
+
+00:05:29.590 --> 00:05:29.600 align:start position:0%
+training session." It pulls it together
+ 
+
+00:05:29.600 --> 00:05:31.670 align:start position:0%
+training session." It pulls it together
+fast.<00:05:30.320><c> If</c><00:05:30.479><c> you're</c><00:05:30.720><c> running</c><00:05:30.960><c> outreach,</c><00:05:31.520><c> you</c>
+
+00:05:31.670 --> 00:05:31.680 align:start position:0%
+fast. If you're running outreach, you
+ 
+
+00:05:31.680 --> 00:05:34.230 align:start position:0%
+fast. If you're running outreach, you
+can<00:05:31.759><c> pipe</c><00:05:32.000><c> in</c><00:05:32.160><c> a</c><00:05:32.320><c> list</c><00:05:32.479><c> of</c><00:05:32.639><c> leads,</c><00:05:33.360><c> ask</c><00:05:33.759><c> Gemini</c>
+
+00:05:34.230 --> 00:05:34.240 align:start position:0%
+can pipe in a list of leads, ask Gemini
+ 
+
+00:05:34.240 --> 00:05:36.310 align:start position:0%
+can pipe in a list of leads, ask Gemini
+to<00:05:34.400><c> analyze</c><00:05:34.800><c> their</c><00:05:35.039><c> profiles,</c><00:05:35.680><c> and</c><00:05:35.919><c> generate</c>
+
+00:05:36.310 --> 00:05:36.320 align:start position:0%
+to analyze their profiles, and generate
+ 
+
+00:05:36.320 --> 00:05:38.390 align:start position:0%
+to analyze their profiles, and generate
+personalized<00:05:36.960><c> message</c><00:05:37.280><c> drafts,</c><00:05:38.000><c> all</c><00:05:38.240><c> from</c>
+
+00:05:38.390 --> 00:05:38.400 align:start position:0%
+personalized message drafts, all from
+ 
+
+00:05:38.400 --> 00:05:40.469 align:start position:0%
+personalized message drafts, all from
+the<00:05:38.639><c> terminal.</c><00:05:39.280><c> If</c><00:05:39.520><c> you're</c><00:05:39.680><c> a</c><00:05:39.840><c> developer,</c><00:05:40.320><c> you</c>
+
+00:05:40.469 --> 00:05:40.479 align:start position:0%
+the terminal. If you're a developer, you
+ 
+
+00:05:40.479 --> 00:05:42.550 align:start position:0%
+the terminal. If you're a developer, you
+can<00:05:40.639><c> drop</c><00:05:40.800><c> into</c><00:05:41.039><c> your</c><00:05:41.199><c> codebase,</c><00:05:42.080><c> reference</c>
+
+00:05:42.550 --> 00:05:42.560 align:start position:0%
+can drop into your codebase, reference
+ 
+
+00:05:42.560 --> 00:05:45.350 align:start position:0%
+can drop into your codebase, reference
+the<00:05:42.800><c> file</c><00:05:42.960><c> with</c><00:05:43.280><c> air</c><00:05:43.759><c> and</c><00:05:44.080><c> say,</c><00:05:44.479><c> "Fix</c><00:05:44.880><c> the</c><00:05:45.120><c> bug</c>
+
+00:05:45.350 --> 00:05:45.360 align:start position:0%
+the file with air and say, "Fix the bug
+ 
+
+00:05:45.360 --> 00:05:47.510 align:start position:0%
+the file with air and say, "Fix the bug
+in<00:05:45.680><c> this</c><00:05:45.840><c> function</c><00:05:46.320><c> or</c><00:05:46.639><c> refactor</c><00:05:47.120><c> this</c><00:05:47.280><c> for</c>
+
+00:05:47.510 --> 00:05:47.520 align:start position:0%
+in this function or refactor this for
+ 
+
+00:05:47.520 --> 00:05:49.749 align:start position:0%
+in this function or refactor this for
+readability."<00:05:48.400><c> It</c><00:05:48.639><c> edits</c><00:05:49.039><c> the</c><00:05:49.199><c> code,</c>
+
+00:05:49.749 --> 00:05:49.759 align:start position:0%
+readability." It edits the code,
+ 
+
+00:05:49.759 --> 00:05:51.830 align:start position:0%
+readability." It edits the code,
+explains<00:05:50.160><c> what</c><00:05:50.400><c> it</c><00:05:50.639><c> changed,</c><00:05:51.199><c> and</c><00:05:51.440><c> you</c><00:05:51.680><c> move</c>
+
+00:05:51.830 --> 00:05:51.840 align:start position:0%
+explains what it changed, and you move
+ 
+
+00:05:51.840 --> 00:05:54.150 align:start position:0%
+explains what it changed, and you move
+on.<00:05:52.240><c> And</c><00:05:52.400><c> with</c><00:05:52.639><c> headless</c><00:05:53.120><c> mode,</c><00:05:53.680><c> all</c><00:05:53.840><c> of</c><00:05:53.919><c> these</c>
+
+00:05:54.150 --> 00:05:54.160 align:start position:0%
+on. And with headless mode, all of these
+ 
+
+00:05:54.160 --> 00:05:56.469 align:start position:0%
+on. And with headless mode, all of these
+workflows<00:05:54.720><c> can</c><00:05:54.880><c> be</c><00:05:55.039><c> automated.</c><00:05:56.000><c> You</c><00:05:56.160><c> set</c><00:05:56.400><c> it</c>
+
+00:05:56.469 --> 00:05:56.479 align:start position:0%
+workflows can be automated. You set it
+ 
+
+00:05:56.479 --> 00:05:58.310 align:start position:0%
+workflows can be automated. You set it
+up<00:05:56.720><c> once,</c><00:05:56.960><c> and</c><00:05:57.120><c> let</c><00:05:57.280><c> it</c><00:05:57.440><c> run.</c><00:05:57.840><c> Here's</c><00:05:58.160><c> the</c>
+
+00:05:58.310 --> 00:05:58.320 align:start position:0%
+up once, and let it run. Here's the
+ 
+
+00:05:58.320 --> 00:06:00.310 align:start position:0%
+up once, and let it run. Here's the
+bigger<00:05:58.560><c> picture.</c><00:05:59.199><c> Right</c><00:05:59.520><c> now,</c><00:05:59.840><c> most</c><00:06:00.080><c> people</c>
+
+00:06:00.310 --> 00:06:00.320 align:start position:0%
+bigger picture. Right now, most people
+ 
+
+00:06:00.320 --> 00:06:02.390 align:start position:0%
+bigger picture. Right now, most people
+use<00:06:00.639><c> five</c><00:06:00.880><c> or</c><00:06:01.120><c> six</c><00:06:01.440><c> different</c><00:06:01.680><c> tools</c><00:06:02.000><c> to</c><00:06:02.240><c> do</c>
+
+00:06:02.390 --> 00:06:02.400 align:start position:0%
+use five or six different tools to do
+ 
+
+00:06:02.400 --> 00:06:04.950 align:start position:0%
+use five or six different tools to do
+what<00:06:02.639><c> Gemini</c><00:06:03.120><c> CLI</c><00:06:03.600><c> can</c><00:06:03.759><c> do</c><00:06:03.840><c> in</c><00:06:04.080><c> one</c><00:06:04.240><c> place.</c><00:06:04.720><c> a</c>
+
+00:06:04.950 --> 00:06:04.960 align:start position:0%
+what Gemini CLI can do in one place. a
+ 
+
+00:06:04.960 --> 00:06:07.350 align:start position:0%
+what Gemini CLI can do in one place. a
+browser<00:06:05.360><c> for</c><00:06:05.600><c> research,</c><00:06:06.240><c> an</c><00:06:06.400><c> AI</c><00:06:06.720><c> chatbot</c><00:06:07.199><c> for</c>
+
+00:06:07.350 --> 00:06:07.360 align:start position:0%
+browser for research, an AI chatbot for
+ 
+
+00:06:07.360 --> 00:06:09.990 align:start position:0%
+browser for research, an AI chatbot for
+writing,<00:06:07.919><c> an</c><00:06:08.080><c> IDE</c><00:06:08.560><c> assistant</c><00:06:08.960><c> for</c><00:06:09.199><c> code,</c><00:06:09.759><c> a</c>
+
+00:06:09.990 --> 00:06:10.000 align:start position:0%
+writing, an IDE assistant for code, a
+ 
+
+00:06:10.000 --> 00:06:11.830 align:start position:0%
+writing, an IDE assistant for code, a
+separate<00:06:10.240><c> tool</c><00:06:10.560><c> for</c><00:06:10.800><c> automation,</c><00:06:11.600><c> a</c>
+
+00:06:11.830 --> 00:06:11.840 align:start position:0%
+separate tool for automation, a
+ 
+
+00:06:11.840 --> 00:06:13.670 align:start position:0%
+separate tool for automation, a
+different<00:06:12.080><c> platform</c><00:06:12.479><c> for</c><00:06:12.720><c> content.</c><00:06:13.280><c> That's</c><00:06:13.520><c> a</c>
+
+00:06:13.670 --> 00:06:13.680 align:start position:0%
+different platform for content. That's a
+ 
+
+00:06:13.680 --> 00:06:15.590 align:start position:0%
+different platform for content. That's a
+lot<00:06:13.759><c> of</c><00:06:13.840><c> context</c><00:06:14.319><c> switching,</c><00:06:14.800><c> a</c><00:06:15.039><c> lot</c><00:06:15.120><c> of</c><00:06:15.199><c> tabs,</c>
+
+00:06:15.590 --> 00:06:15.600 align:start position:0%
+lot of context switching, a lot of tabs,
+ 
+
+00:06:15.600 --> 00:06:17.430 align:start position:0%
+lot of context switching, a lot of tabs,
+a<00:06:15.759><c> lot</c><00:06:15.840><c> of</c><00:06:16.000><c> friction.</c><00:06:16.560><c> The</c><00:06:16.720><c> AI</c><00:06:17.039><c> terminal</c>
+
+00:06:17.430 --> 00:06:17.440 align:start position:0%
+a lot of friction. The AI terminal
+ 
+
+00:06:17.440 --> 00:06:18.870 align:start position:0%
+a lot of friction. The AI terminal
+collapses<00:06:17.919><c> all</c><00:06:18.080><c> of</c><00:06:18.160><c> that</c><00:06:18.319><c> into</c><00:06:18.639><c> one</c>
+
+00:06:18.870 --> 00:06:18.880 align:start position:0%
+collapses all of that into one
+ 
+
+00:06:18.880 --> 00:06:20.790 align:start position:0%
+collapses all of that into one
+interface.<00:06:19.600><c> You</c><00:06:19.759><c> open</c><00:06:20.000><c> your</c><00:06:20.160><c> terminal,</c><00:06:20.639><c> you</c>
+
+00:06:20.790 --> 00:06:20.800 align:start position:0%
+interface. You open your terminal, you
+ 
+
+00:06:20.800 --> 00:06:22.629 align:start position:0%
+interface. You open your terminal, you
+type<00:06:21.039><c> what</c><00:06:21.199><c> you</c><00:06:21.360><c> need,</c><00:06:21.520><c> and</c><00:06:21.759><c> it</c><00:06:22.000><c> happens.</c>
+
+00:06:22.629 --> 00:06:22.639 align:start position:0%
+type what you need, and it happens.
+ 
+
+00:06:22.639 --> 00:06:23.909 align:start position:0%
+type what you need, and it happens.
+Whether<00:06:22.880><c> it's</c><00:06:23.120><c> building,</c><00:06:23.520><c> writing,</c>
+
+00:06:23.909 --> 00:06:23.919 align:start position:0%
+Whether it's building, writing,
+ 
+
+00:06:23.919 --> 00:06:26.070 align:start position:0%
+Whether it's building, writing,
+researching,<00:06:24.319><c> or</c><00:06:24.560><c> automating,</c><00:06:25.199><c> it</c><00:06:25.440><c> all</c><00:06:25.680><c> flows</c>
+
+00:06:26.070 --> 00:06:26.080 align:start position:0%
+researching, or automating, it all flows
+ 
+
+00:06:26.080 --> 00:06:28.309 align:start position:0%
+researching, or automating, it all flows
+through<00:06:26.479><c> one</c><00:06:26.720><c> place.</c><00:06:27.280><c> And</c><00:06:27.440><c> minimalist</c><00:06:28.000><c> mode</c>
+
+00:06:28.309 --> 00:06:28.319 align:start position:0%
+through one place. And minimalist mode
+ 
+
+00:06:28.319 --> 00:06:30.150 align:start position:0%
+through one place. And minimalist mode
+makes<00:06:28.639><c> that</c><00:06:28.880><c> experience</c><00:06:29.360><c> feel</c><00:06:29.600><c> genuinely</c>
+
+00:06:30.150 --> 00:06:30.160 align:start position:0%
+makes that experience feel genuinely
+ 
+
+00:06:30.160 --> 00:06:32.550 align:start position:0%
+makes that experience feel genuinely
+clean<00:06:30.960><c> for</c><00:06:31.199><c> the</c><00:06:31.360><c> first</c><00:06:31.600><c> time.</c><00:06:32.000><c> Before</c><00:06:32.319><c> this</c>
+
+00:06:32.550 --> 00:06:32.560 align:start position:0%
+clean for the first time. Before this
+ 
+
+00:06:32.560 --> 00:06:34.790 align:start position:0%
+clean for the first time. Before this
+update,<00:06:33.199><c> the</c><00:06:33.360><c> terminal</c><00:06:33.759><c> felt</c><00:06:34.080><c> technical</c><00:06:34.560><c> and</c>
+
+00:06:34.790 --> 00:06:34.800 align:start position:0%
+update, the terminal felt technical and
+ 
+
+00:06:34.800 --> 00:06:36.870 align:start position:0%
+update, the terminal felt technical and
+overwhelming.<00:06:35.680><c> It</c><00:06:35.840><c> was</c><00:06:35.919><c> for</c><00:06:36.240><c> developers</c><00:06:36.639><c> who</c>
+
+00:06:36.870 --> 00:06:36.880 align:start position:0%
+overwhelming. It was for developers who
+ 
+
+00:06:36.880 --> 00:06:38.790 align:start position:0%
+overwhelming. It was for developers who
+didn't<00:06:37.039><c> mind</c><00:06:37.280><c> the</c><00:06:37.440><c> noise.</c><00:06:37.759><c> Now</c><00:06:38.240><c> with</c><00:06:38.560><c> Double</c>
+
+00:06:38.790 --> 00:06:38.800 align:start position:0%
+didn't mind the noise. Now with Double
+ 
+
+00:06:38.800 --> 00:06:40.790 align:start position:0%
+didn't mind the noise. Now with Double
+Tab,<00:06:39.360><c> anyone</c><00:06:39.680><c> can</c><00:06:39.919><c> sit</c><00:06:40.080><c> down</c><00:06:40.240><c> at</c><00:06:40.400><c> a</c><00:06:40.560><c> clean</c>
+
+00:06:40.790 --> 00:06:40.800 align:start position:0%
+Tab, anyone can sit down at a clean
+ 
+
+00:06:40.800 --> 00:06:42.870 align:start position:0%
+Tab, anyone can sit down at a clean
+prompt<00:06:41.039><c> and</c><00:06:41.280><c> just</c><00:06:41.440><c> start</c><00:06:41.680><c> working.</c><00:06:42.319><c> Google</c><00:06:42.639><c> is</c>
+
+00:06:42.870 --> 00:06:42.880 align:start position:0%
+prompt and just start working. Google is
+ 
+
+00:06:42.880 --> 00:06:45.909 align:start position:0%
+prompt and just start working. Google is
+moving<00:06:43.120><c> fast</c><00:06:43.360><c> with</c><00:06:43.600><c> this</c><00:06:44.639><c> extensions,</c>
+
+00:06:45.909 --> 00:06:45.919 align:start position:0%
+moving fast with this extensions,
+ 
+
+00:06:45.919 --> 00:06:48.469 align:start position:0%
+moving fast with this extensions,
+headless<00:06:46.400><c> mode,</c><00:06:46.960><c> a</c><00:06:47.199><c> million</c><00:06:47.600><c> token</c><00:06:48.000><c> context</c>
+
+00:06:48.469 --> 00:06:48.479 align:start position:0%
+headless mode, a million token context
+ 
+
+00:06:48.479 --> 00:06:50.629 align:start position:0%
+headless mode, a million token context
+window,<00:06:48.880><c> shell</c><00:06:49.280><c> integration,</c><00:06:50.000><c> and</c><00:06:50.240><c> now</c><00:06:50.400><c> a</c>
+
+00:06:50.629 --> 00:06:50.639 align:start position:0%
+window, shell integration, and now a
+ 
+
+00:06:50.639 --> 00:06:52.790 align:start position:0%
+window, shell integration, and now a
+cleaner<00:06:50.960><c> UI.</c><00:06:51.600><c> Every</c><00:06:51.840><c> update</c><00:06:52.240><c> makes</c><00:06:52.400><c> it</c><00:06:52.639><c> more</c>
+
+00:06:52.790 --> 00:06:52.800 align:start position:0%
+cleaner UI. Every update makes it more
+ 
+
+00:06:52.800 --> 00:06:54.230 align:start position:0%
+cleaner UI. Every update makes it more
+powerful<00:06:53.039><c> and</c><00:06:53.280><c> more</c><00:06:53.440><c> usable</c><00:06:53.759><c> at</c><00:06:54.000><c> the</c><00:06:54.080><c> same</c>
+
+00:06:54.230 --> 00:06:54.240 align:start position:0%
+powerful and more usable at the same
+ 
+
+00:06:54.240 --> 00:06:56.550 align:start position:0%
+powerful and more usable at the same
+time.<00:06:54.880><c> That</c><00:06:55.120><c> combination,</c><00:06:56.000><c> power</c><00:06:56.319><c> plus</c>
+
+00:06:56.550 --> 00:06:56.560 align:start position:0%
+time. That combination, power plus
+ 
+
+00:06:56.560 --> 00:06:59.430 align:start position:0%
+time. That combination, power plus
+simplicity,<00:06:57.759><c> is</c><00:06:58.000><c> exactly</c><00:06:58.479><c> what</c><00:06:58.720><c> makes</c><00:06:58.880><c> a</c><00:06:59.120><c> tool</c>
+
+00:06:59.430 --> 00:06:59.440 align:start position:0%
+simplicity, is exactly what makes a tool
+ 
+
+00:06:59.440 --> 00:07:02.390 align:start position:0%
+simplicity, is exactly what makes a tool
+go<00:06:59.599><c> from</c><00:06:59.919><c> niche</c><00:07:00.400><c> to</c><00:07:00.720><c> mainstream.</c><00:07:01.360><c> Gemini</c><00:07:01.840><c> CLI</c>
+
+00:07:02.390 --> 00:07:02.400 align:start position:0%
+go from niche to mainstream. Gemini CLI
+ 
+
+00:07:02.400 --> 00:07:04.710 align:start position:0%
+go from niche to mainstream. Gemini CLI
+just<00:07:02.639><c> got</c><00:07:02.720><c> a</c><00:07:02.880><c> minimalist</c><00:07:03.360><c> mode.</c><00:07:04.080><c> Press</c><00:07:04.319><c> tab</c>
+
+00:07:04.710 --> 00:07:04.720 align:start position:0%
+just got a minimalist mode. Press tab
+ 
+
+00:07:04.720 --> 00:07:06.790 align:start position:0%
+just got a minimalist mode. Press tab
+twice<00:07:05.120><c> and</c><00:07:05.440><c> all</c><00:07:05.520><c> the</c><00:07:05.680><c> noise</c><00:07:06.000><c> disappears.</c>
+
+00:07:06.790 --> 00:07:06.800 align:start position:0%
+twice and all the noise disappears.
+ 
+
+00:07:06.800 --> 00:07:08.550 align:start position:0%
+twice and all the noise disappears.
+You're<00:07:07.039><c> left</c><00:07:07.199><c> with</c><00:07:07.360><c> a</c><00:07:07.520><c> clean</c><00:07:07.759><c> AI</c><00:07:08.160><c> prompt</c>
+
+00:07:08.550 --> 00:07:08.560 align:start position:0%
+You're left with a clean AI prompt
+ 
+
+00:07:08.560 --> 00:07:10.870 align:start position:0%
+You're left with a clean AI prompt
+inside<00:07:08.960><c> your</c><00:07:09.199><c> terminal.</c><00:07:09.759><c> It</c><00:07:10.000><c> sounds</c><00:07:10.240><c> small,</c>
+
+00:07:10.870 --> 00:07:10.880 align:start position:0%
+inside your terminal. It sounds small,
+ 
+
+00:07:10.880 --> 00:07:12.790 align:start position:0%
+inside your terminal. It sounds small,
+but<00:07:11.120><c> it</c><00:07:11.360><c> changes</c><00:07:11.680><c> how</c><00:07:11.919><c> the</c><00:07:12.080><c> whole</c><00:07:12.240><c> tool</c><00:07:12.560><c> feels</c>
+
+00:07:12.790 --> 00:07:12.800 align:start position:0%
+but it changes how the whole tool feels
+ 
+
+00:07:12.800 --> 00:07:14.790 align:start position:0%
+but it changes how the whole tool feels
+to<00:07:13.039><c> use.</c><00:07:13.440><c> And</c><00:07:13.599><c> when</c><00:07:13.840><c> you</c><00:07:14.000><c> combine</c><00:07:14.400><c> that</c><00:07:14.639><c> with</c>
+
+00:07:14.790 --> 00:07:14.800 align:start position:0%
+to use. And when you combine that with
+ 
+
+00:07:14.800 --> 00:07:16.790 align:start position:0%
+to use. And when you combine that with
+everything<00:07:15.120><c> else,</c><00:07:15.599><c> the</c><00:07:15.840><c> file</c><00:07:16.160><c> context,</c><00:07:16.639><c> the</c>
+
+00:07:16.790 --> 00:07:16.800 align:start position:0%
+everything else, the file context, the
+ 
+
+00:07:16.800 --> 00:07:18.469 align:start position:0%
+everything else, the file context, the
+shell<00:07:17.120><c> integration,</c><00:07:17.840><c> the</c><00:07:18.000><c> headless</c>
+
+00:07:18.469 --> 00:07:18.479 align:start position:0%
+shell integration, the headless
+ 
+
+00:07:18.479 --> 00:07:20.550 align:start position:0%
+shell integration, the headless
+automation,<00:07:19.199><c> the</c><00:07:19.440><c> extensions,</c><00:07:20.160><c> you've</c><00:07:20.400><c> got</c>
+
+00:07:20.550 --> 00:07:20.560 align:start position:0%
+automation, the extensions, you've got
+ 
+
+00:07:20.560 --> 00:07:22.230 align:start position:0%
+automation, the extensions, you've got
+one<00:07:20.639><c> of</c><00:07:20.720><c> the</c><00:07:20.880><c> most</c><00:07:21.039><c> capable</c><00:07:21.440><c> free</c><00:07:21.680><c> AI</c><00:07:22.000><c> tools</c>
+
+00:07:22.230 --> 00:07:22.240 align:start position:0%
+one of the most capable free AI tools
+ 
+
+00:07:22.240 --> 00:07:23.830 align:start position:0%
+one of the most capable free AI tools
+out<00:07:22.400><c> there</c><00:07:22.560><c> right</c><00:07:22.800><c> now.</c><00:07:23.360><c> If</c><00:07:23.520><c> you</c><00:07:23.680><c> haven't</c>
+
+00:07:23.830 --> 00:07:23.840 align:start position:0%
+out there right now. If you haven't
+ 
+
+00:07:23.840 --> 00:07:26.070 align:start position:0%
+out there right now. If you haven't
+tried<00:07:24.080><c> it</c><00:07:24.240><c> yet,</c><00:07:24.479><c> go</c><00:07:24.720><c> download</c><00:07:25.039><c> it</c><00:07:25.280><c> today.</c><00:07:25.840><c> It's</c>
+
+00:07:26.070 --> 00:07:26.080 align:start position:0%
+tried it yet, go download it today. It's
+ 
+
+00:07:26.080 --> 00:07:27.749 align:start position:0%
+tried it yet, go download it today. It's
+open<00:07:26.319><c> source,</c><00:07:26.720><c> it's</c><00:07:26.880><c> free,</c><00:07:27.120><c> and</c><00:07:27.280><c> it's</c><00:07:27.520><c> only</c>
+
+00:07:27.749 --> 00:07:27.759 align:start position:0%
+open source, it's free, and it's only
+ 
+
+00:07:27.759 --> 00:07:29.430 align:start position:0%
+open source, it's free, and it's only
+getting<00:07:27.919><c> better.</c><00:07:28.479><c> If</c><00:07:28.720><c> you</c><00:07:28.880><c> want</c><00:07:28.960><c> to</c><00:07:29.120><c> learn</c><00:07:29.280><c> how</c>
+
+00:07:29.430 --> 00:07:29.440 align:start position:0%
+getting better. If you want to learn how
+ 
+
+00:07:29.440 --> 00:07:31.749 align:start position:0%
+getting better. If you want to learn how
+to<00:07:29.599><c> use</c><00:07:29.840><c> tools</c><00:07:30.240><c> like</c><00:07:30.400><c> this</c><00:07:30.880><c> inside</c><00:07:31.199><c> a</c><00:07:31.520><c> real</c>
+
+00:07:31.749 --> 00:07:31.759 align:start position:0%
+to use tools like this inside a real
+ 
+
+00:07:31.759 --> 00:07:33.830 align:start position:0%
+to use tools like this inside a real
+business,<00:07:32.400><c> come</c><00:07:32.639><c> join</c><00:07:32.880><c> the</c><00:07:33.039><c> AI</c><00:07:33.440><c> profit</c>
+
+00:07:33.830 --> 00:07:33.840 align:start position:0%
+business, come join the AI profit
+ 
+
+00:07:33.840 --> 00:07:36.150 align:start position:0%
+business, come join the AI profit
+boardroom.<00:07:34.560><c> We</c><00:07:34.800><c> share</c><00:07:35.039><c> live</c><00:07:35.360><c> trainings,</c><00:07:35.840><c> real</c>
+
+00:07:36.150 --> 00:07:36.160 align:start position:0%
+boardroom. We share live trainings, real
+ 
+
+00:07:36.160 --> 00:07:37.749 align:start position:0%
+boardroom. We share live trainings, real
+workflows,<00:07:36.639><c> and</c><00:07:36.800><c> practical</c><00:07:37.199><c> playbooks</c><00:07:37.599><c> for</c>
+
+00:07:37.749 --> 00:07:37.759 align:start position:0%
+workflows, and practical playbooks for
+ 
+
+00:07:37.759 --> 00:07:39.670 align:start position:0%
+workflows, and practical playbooks for
+using<00:07:38.000><c> AI</c><00:07:38.319><c> to</c><00:07:38.560><c> grow</c><00:07:38.720><c> faster</c><00:07:39.199><c> and</c><00:07:39.440><c> work</c>
+
+00:07:39.670 --> 00:07:39.680 align:start position:0%
+using AI to grow faster and work
+ 
+
+00:07:39.680 --> 00:07:41.670 align:start position:0%
+using AI to grow faster and work
+smarter.<00:07:40.319><c> No</c><00:07:40.560><c> fluff,</c><00:07:41.039><c> just</c><00:07:41.280><c> stuff</c><00:07:41.440><c> that</c>
+
+00:07:41.670 --> 00:07:41.680 align:start position:0%
+smarter. No fluff, just stuff that
+ 
+
+00:07:41.680 --> 00:07:43.350 align:start position:0%
+smarter. No fluff, just stuff that
+actually<00:07:42.080><c> works.</c><00:07:42.560><c> Link</c><00:07:42.800><c> is</c><00:07:43.039><c> in</c><00:07:43.199><c> the</c>
+
+00:07:43.350 --> 00:07:43.360 align:start position:0%
+actually works. Link is in the
+ 
+
+00:07:43.360 --> 00:07:45.110 align:start position:0%
+actually works. Link is in the
+description.<00:07:44.080><c> And</c><00:07:44.240><c> if</c><00:07:44.400><c> you</c><00:07:44.560><c> want</c><00:07:44.639><c> the</c><00:07:44.880><c> full</c>
+
+00:07:45.110 --> 00:07:45.120 align:start position:0%
+description. And if you want the full
+ 
+
+00:07:45.120 --> 00:07:48.390 align:start position:0%
+description. And if you want the full
+process,<00:07:45.840><c> SOPs,</c><00:07:46.479><c> and</c><00:07:46.720><c> 100</c><00:07:47.039><c> plus</c><00:07:47.360><c> AI</c><00:07:47.759><c> use</c><00:07:48.000><c> cases</c>
+
+00:07:48.390 --> 00:07:48.400 align:start position:0%
+process, SOPs, and 100 plus AI use cases
+ 
+
+00:07:48.400 --> 00:07:51.189 align:start position:0%
+process, SOPs, and 100 plus AI use cases
+like<00:07:48.560><c> this</c><00:07:48.720><c> one,</c><00:07:49.280><c> join</c><00:07:49.520><c> the</c><00:07:49.759><c> AI</c><00:07:50.240><c> success</c><00:07:50.720><c> lab.</c>
+
+00:07:51.189 --> 00:07:51.199 align:start position:0%
+like this one, join the AI success lab.
+ 
+
+00:07:51.199 --> 00:07:53.749 align:start position:0%
+like this one, join the AI success lab.
+It's<00:07:51.440><c> our</c><00:07:51.680><c> free</c><00:07:51.919><c> AI</c><00:07:52.400><c> community.</c><00:07:53.120><c> Link</c><00:07:53.440><c> is</c><00:07:53.599><c> in</c>
+
+00:07:53.749 --> 00:07:53.759 align:start position:0%
+It's our free AI community. Link is in
+ 
+
+00:07:53.759 --> 00:07:55.029 align:start position:0%
+It's our free AI community. Link is in
+the<00:07:53.919><c> comments</c><00:07:54.160><c> and</c><00:07:54.319><c> description.</c><00:07:54.720><c> and</c><00:07:54.800><c> you'll</c>
+
+00:07:55.029 --> 00:07:55.039 align:start position:0%
+the comments and description. and you'll
+ 
+
+00:07:55.039 --> 00:07:56.629 align:start position:0%
+the comments and description. and you'll
+get<00:07:55.120><c> all</c><00:07:55.280><c> the</c><00:07:55.440><c> video</c><00:07:55.680><c> notes</c><00:07:55.919><c> from</c><00:07:56.080><c> there,</c><00:07:56.400><c> plus</c>
+
+00:07:56.629 --> 00:07:56.639 align:start position:0%
+get all the video notes from there, plus
+ 
+
+00:07:56.639 --> 00:07:58.550 align:start position:0%
+get all the video notes from there, plus
+access<00:07:56.879><c> to</c><00:07:57.120><c> our</c><00:07:57.360><c> community</c><00:07:57.599><c> of</c><00:07:57.919><c> 40,000</c>
+
+00:07:58.550 --> 00:07:58.560 align:start position:0%
+access to our community of 40,000
+ 
+
+00:07:58.560 --> 00:08:02.240 align:start position:0%
+access to our community of 40,000
+members<00:07:58.800><c> who</c><00:07:58.960><c> are</c><00:07:59.120><c> crushing</c><00:07:59.440><c> it</c><00:07:59.520><c> with</c><00:07:59.680><c> AI.</c>
+

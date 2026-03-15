@@ -1,0 +1,266 @@
+# Clean Transcript
+
+Claude just quietly dropped a brand new
+free update and it's available right now
+on the free plan of Claude. You can now
+build powerful interactive charts,
+diagrams, and visual dashboards directly
+inside your chat. Not a file, not a
+download right there in the conversation
+real time. You type what you want in
+plain English. Claude actually builds it
+in front of you using this new
+interactive charts, diagrams, and
+visualizations update. So, I'm going to
+show you exactly what it looks like,
+what you can build with it, and how to
+start using it inside your business
+today. even if you've never made
+anything like this before. So, let's get
+straight into this. So, basically, you
+see the new announcement right here.
+Basically, what it does, it creates
+these like awesome diagrams and
+visualizations directly inside the chat.
+So, here's an example, right? I said
+inside here, show me how AI will impact
+jobs. And then it's actually created
+this beautiful different uh diagram
+inside the chat here. And we can
+actually click between these. We can get
+more information. You can see the roles
+most effective, the different
+departments that it affects in the
+different industries, the percentage,
+it's all colorcoded as well, which is
+crazy. You can change the timeline over
+here as well. Then you can see the
+skills that matter, right? And it's just
+created like basically a mini app
+directly inside the chat that looks
+better than most different UIs and
+websites he use. And we just created it
+on the go um in a quick simple prompt.
+So, how does this work and what is the
+update? So Claude creates interactive
+charts, diagrams and visualizations. And
+basically what this allows you to do is
+build real visuals in real time, right?
+So the Claude conversations already had
+artifacts, right? And these are like
+permanent tools and that sort of thing,
+but these charts and diagrams and
+visualizations are quite different. So
+these are really to help you understand
+and learn more um by understanding the
+topic that you're talking about. Right?
+So they appear directly inside the chat
+whereas normally with artifacts you get
+them on the right hand side over here.
+You can share the diagrams you create.
+So you can click on share here and then
+share this with other people. And then
+also inside here here's a couple of
+examples. So
+you could uh you can see how this has
+created a interactive version of the
+periodic table which is pretty crazy.
+And then this is really cool for like
+learning stuff or just understanding
+stuff better. Right. So
+all you do if you want to get this
+working is you just say show me and then
+how whatever you want to learn right so
+for example here we could say okay show
+me the data on AI automation
+in businesses today and then you can see
+here it's actually broke down the
+numbers created some nice charts it's
+still working so it's still building out
+live as we're talking about this but
+basically we're at the key stats and
+like a beautiful dashboard inside claude
+and again this is available on the free
+plan. So I think what this is great for
+is really like learning about something
+or getting the statistics on something
+super quickly doing quick research. So
+you can see for example here it's broken
+down all the key stats adoption by
+industry
+enterprise AI maturity stages and then
+it's given us a nice bar chart here of
+like AI adoption inside businesses with
+projections as well and then it's also
+broken it down by like the top benefits
+reported and the full picture right it
+basically uses web research to find all
+the key stats and then it breaks down
+the data and the charts directly here so
+it looks pretty awesome and super easy
+to use as well so let's talk about The
+framework that I recommend for this, the
+visual intelligence stack, right? So,
+Anthropic officially released this new
+feature inside chords chat interface.
+It's currently in beta. It's available
+on all plan types, including free. And
+what it does now is it can build
+interactive charts, diagrams, and
+visualizations. These are not save files
+or downloadable documents. They appear
+live in the conversation as you talk.
+They change and update as the
+conversation evolves. And you can ask
+Claude to tweak them, go deeper, or
+adjust them. Right? back inside the chat
+here and we're like, "Okay,
+change the colors to my brand colors."
+Right? Let's say you were going to
+present this data. You could change the
+colors inside the chart and um then
+basically Claude will look at the charts
+it's created and basically repaint them
+in my brand colors, which is pretty
+cool, right? And then I could use it
+inside a presentation or that sort of
+thing. You don't need to be up to code
+to use this. Claude just decides on its
+own when to add a visual or you can ask
+it directly. And then I've already shown
+you some examples. So this is a
+framework really for turning Claude's
+new visual feature into a system that
+gets you more customers, more visibility
+um without hiring developers, uh
+designers or writing more copy and that
+sort of thing. Right? So you got the
+visual brain itself where you can give
+prompts, you can get diagrams,
+comparison charts, timeline
+visualizations, data dashboards and that
+sort of thing. And then from here you
+can actually use this inside your
+content, right? So for example, you
+could use it inside your funnels, inside
+presentations, inside the videos that
+you present, etc. And you can customize
+it all to your brand colors like you can
+see here as an example. And this is way
+more engaging, right? So if you're
+presenting to a client or to an audience
+or that sort of thing. You know, the new
+ways really to build a diagram in real
+time and share the screen on on
+screenshot, right? It's more
+professional, it's more memorable, it's
+more persuasive. And you know these
+could include for example building a
+visual proposal, creating service
+comparison charts, building a build
+before and after diagram, right?
+Creating a roadmap visualization or
+building an interactive explainer for a
+confusing concept in your niche, right?
+So for example here, if we go back to
+the chat and we're like, okay, show me
+how backlinks work for SEO or show me
+the key data in the SEO industry, right?
+And then if you need to present like
+something that's
+too complex for most people to
+understand sometimes or most people
+don't understand and you need to present
+it and help them learn in really in a
+real quickly way, then you can create a
+visualization like you can see here,
+right? And it just builds out the
+visualization directly inside the chat.
+So that's basically it. We have a full
+30-day plan on mastering this with
+step-by-step prompts as you can see
+right here. So every single day of this
+30-day road map has step-by-step prompts
+inside the video notes from today. Some
+people will say, "Well, I'm not creative
+to make visuals, you know, and that was
+the old belief." But really, you don't
+need to be creative, right? You just
+need to know what you want, and Claude
+can do the rest by describing what you
+want in plain English. Other people say,
+"Well, visuals take too much time to le
+to to make, right, with Canva or
+something like that, right?" But the
+fastest content creators in 2026 don't
+work faster. They just prompt smarter
+with prompts like you can see here. This
+created a nice little flow diagram um
+explaining exactly how backlinks work
+and how to use them. uh what are good
+backlinks and what are bad backlinks
+etc. So anyone can understand that
+diagram in a quick um two-minute
+explainer. So that's basically it. And
+then we also have list of 100 prompts
+you can use for using AI and this new
+claude update for free. So you can see a
+list of 100 prompts and a 30-day road
+map for mastering this all inside the
+video notes from today inside the AI
+learn and grow. And it's a helpful
+learning and growing with AI automation.
+So, if you want to get access to an
+questions and get help and support, you
+can fix things quickly, you can share
+your problems if they break and we'll
+help and support you. You can also meet
+people in your local area, which is
+pretty cool. So, it's kind of like a
+network where you can zoom in on your
+local area and meet people.
+Additionally, inside the classroom, you
+get access to all my best trainings. And
+if you need or want to jump on a live
+Zoom call where you get AI automation
+coaching in real time, you can share
+your screen, ask questions, see what
+other members are working on, meet other
+members, you can do that four times a
+week inside the calendar right here.
+Now, at this point, we have over 137
+pages of testimonials from people just
+winning with AI, right? So, there's lots
+of cool stuff going on. Lots of people
+getting results. And um you can see it's
+like pretty much an infinite scroll of
+awesome wins and results and people just
+getting awesome uh stuff right here with
+AI automation, which is pretty inspiring
+for me to see. So, inside the classroom
+here, you can get access to all of our
+best trainings. So, for example, you can
+go from beginner to expert with AI
+automation and learn how to build your
+first AI agent in under 5 minutes. You
+example, you can learn how I automate
+Instagram, AI avatar videos. And then
+inside the SOP update section, this is
+this is where we update things daily,
+right? So you can see, for example, here
+we have a full 6-hour course on
+OpenClaw, another 3-hour course right
+here. We add new daily updates and video
+tutorials with step-by-step guides,
+30-day road maps, and 100 prompts for
+all the new updates that come out. And
+then additionally, you can learn how to
+get more clients with the agency course.
+You can watch about the coaching calls
+if you miss them live. You can learn how
+to rank number one with AI SEO. And you
+can also learn how to grow a YouTube
+channel based on working for me. So
+boardroom link in the comments
+description or just go to the
+aiprofitboarding.com.

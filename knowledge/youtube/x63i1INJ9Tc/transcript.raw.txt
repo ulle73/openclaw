@@ -1,0 +1,1784 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:02.149 align:start position:0%
+ 
+What<00:00:00.480><c> if</c><00:00:00.640><c> you</c><00:00:00.800><c> could</c><00:00:00.880><c> edit</c><00:00:01.199><c> any</c><00:00:01.439><c> image</c><00:00:01.760><c> just</c><00:00:01.920><c> by</c>
+
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+What if you could edit any image just by
+ 
+
+00:00:02.159 --> 00:00:04.470 align:start position:0%
+What if you could edit any image just by
+typing<00:00:02.480><c> what</c><00:00:02.720><c> you</c><00:00:02.879><c> want?</c><00:00:03.360><c> No</c><00:00:03.679><c> Photoshop,</c><00:00:04.319><c> no</c>
+
+00:00:04.470 --> 00:00:04.480 align:start position:0%
+typing what you want? No Photoshop, no
+ 
+
+00:00:04.480 --> 00:00:06.710 align:start position:0%
+typing what you want? No Photoshop, no
+design<00:00:04.799><c> skills,</c><00:00:05.279><c> no</c><00:00:05.520><c> wasted</c><00:00:05.920><c> hours.</c><00:00:06.480><c> Just</c>
+
+00:00:06.710 --> 00:00:06.720 align:start position:0%
+design skills, no wasted hours. Just
+ 
+
+00:00:06.720 --> 00:00:08.470 align:start position:0%
+design skills, no wasted hours. Just
+type<00:00:06.879><c> a</c><00:00:07.120><c> word,</c><00:00:07.520><c> the</c><00:00:07.759><c> image</c><00:00:08.080><c> changes</c>
+
+00:00:08.470 --> 00:00:08.480 align:start position:0%
+type a word, the image changes
+ 
+
+00:00:08.480 --> 00:00:10.629 align:start position:0%
+type a word, the image changes
+instantly.<00:00:09.200><c> This</c><00:00:09.360><c> is</c><00:00:09.440><c> not</c><00:00:09.599><c> a</c><00:00:09.760><c> filter.</c><00:00:10.320><c> This</c><00:00:10.480><c> is</c>
+
+00:00:10.629 --> 00:00:10.639 align:start position:0%
+instantly. This is not a filter. This is
+ 
+
+00:00:10.639 --> 00:00:12.870 align:start position:0%
+instantly. This is not a filter. This is
+not<00:00:10.719><c> a</c><00:00:10.880><c> preset.</c><00:00:11.440><c> This</c><00:00:11.599><c> is</c><00:00:11.840><c> full</c><00:00:12.160><c> AI</c><00:00:12.559><c> powered</c>
+
+00:00:12.870 --> 00:00:12.880 align:start position:0%
+not a preset. This is full AI powered
+ 
+
+00:00:12.880 --> 00:00:14.870 align:start position:0%
+not a preset. This is full AI powered
+editing.<00:00:13.599><c> You</c><00:00:13.840><c> can</c><00:00:13.920><c> change</c><00:00:14.160><c> the</c><00:00:14.320><c> background,</c>
+
+00:00:14.870 --> 00:00:14.880 align:start position:0%
+editing. You can change the background,
+ 
+
+00:00:14.880 --> 00:00:16.710 align:start position:0%
+editing. You can change the background,
+change<00:00:15.120><c> the</c><00:00:15.360><c> lighting,</c><00:00:16.080><c> move</c><00:00:16.320><c> objects</c>
+
+00:00:16.710 --> 00:00:16.720 align:start position:0%
+change the lighting, move objects
+ 
+
+00:00:16.720 --> 00:00:18.470 align:start position:0%
+change the lighting, move objects
+around,<00:00:17.199><c> expand</c><00:00:17.520><c> the</c><00:00:17.680><c> image,</c><00:00:18.080><c> replace</c>
+
+00:00:18.470 --> 00:00:18.480 align:start position:0%
+around, expand the image, replace
+ 
+
+00:00:18.480 --> 00:00:20.950 align:start position:0%
+around, expand the image, replace
+anything,<00:00:19.119><c> and</c><00:00:19.359><c> it</c><00:00:19.600><c> takes</c><00:00:20.000><c> seconds.</c><00:00:20.720><c> I've</c>
+
+00:00:20.950 --> 00:00:20.960 align:start position:0%
+anything, and it takes seconds. I've
+ 
+
+00:00:20.960 --> 00:00:22.470 align:start position:0%
+anything, and it takes seconds. I've
+been<00:00:21.119><c> using</c><00:00:21.359><c> this</c><00:00:21.520><c> tool</c><00:00:21.760><c> to</c><00:00:22.000><c> create</c><00:00:22.160><c> content</c>
+
+00:00:22.470 --> 00:00:22.480 align:start position:0%
+been using this tool to create content
+ 
+
+00:00:22.480 --> 00:00:24.710 align:start position:0%
+been using this tool to create content
+for<00:00:22.640><c> the</c><00:00:22.800><c> AI</c><00:00:23.119><c> profit</c><00:00:23.519><c> boardroom,</c><00:00:24.080><c> our</c><00:00:24.320><c> AI</c>
+
+00:00:24.710 --> 00:00:24.720 align:start position:0%
+for the AI profit boardroom, our AI
+ 
+
+00:00:24.720 --> 00:00:26.870 align:start position:0%
+for the AI profit boardroom, our AI
+automation<00:00:25.279><c> community,</c><00:00:26.320><c> and</c><00:00:26.480><c> it</c><00:00:26.720><c> has</c>
+
+00:00:26.870 --> 00:00:26.880 align:start position:0%
+automation community, and it has
+ 
+
+00:00:26.880 --> 00:00:28.390 align:start position:0%
+automation community, and it has
+completely<00:00:27.279><c> changed</c><00:00:27.599><c> how</c><00:00:27.840><c> we</c><00:00:28.080><c> produce</c>
+
+00:00:28.390 --> 00:00:28.400 align:start position:0%
+completely changed how we produce
+ 
+
+00:00:28.400 --> 00:00:30.630 align:start position:0%
+completely changed how we produce
+visuals.<00:00:29.199><c> No</c><00:00:29.439><c> designer,</c><00:00:30.000><c> no</c><00:00:30.160><c> expensive</c>
+
+00:00:30.630 --> 00:00:30.640 align:start position:0%
+visuals. No designer, no expensive
+ 
+
+00:00:30.640 --> 00:00:32.870 align:start position:0%
+visuals. No designer, no expensive
+software,<00:00:31.119><c> no</c><00:00:31.279><c> hours</c><00:00:31.599><c> wasted,</c><00:00:32.239><c> just</c><00:00:32.480><c> you,</c><00:00:32.719><c> a</c>
+
+00:00:32.870 --> 00:00:32.880 align:start position:0%
+software, no hours wasted, just you, a
+ 
+
+00:00:32.880 --> 00:00:34.709 align:start position:0%
+software, no hours wasted, just you, a
+prompt<00:00:33.200><c> and</c><00:00:33.360><c> an</c><00:00:33.600><c> image</c><00:00:33.760><c> that</c><00:00:34.079><c> looks</c><00:00:34.320><c> like</c><00:00:34.480><c> it</c>
+
+00:00:34.709 --> 00:00:34.719 align:start position:0%
+prompt and an image that looks like it
+ 
+
+00:00:34.719 --> 00:00:36.950 align:start position:0%
+prompt and an image that looks like it
+came<00:00:35.280><c> from</c><00:00:35.600><c> a</c><00:00:35.840><c> professional</c><00:00:36.320><c> studio.</c><00:00:36.800><c> The</c>
+
+00:00:36.950 --> 00:00:36.960 align:start position:0%
+came from a professional studio. The
+ 
+
+00:00:36.960 --> 00:00:39.030 align:start position:0%
+came from a professional studio. The
+tool<00:00:37.200><c> is</c><00:00:37.360><c> called</c><00:00:37.600><c> Craya</c><00:00:38.079><c> AI.</c><00:00:38.640><c> They</c><00:00:38.879><c> just</c>
+
+00:00:39.030 --> 00:00:39.040 align:start position:0%
+tool is called Craya AI. They just
+ 
+
+00:00:39.040 --> 00:00:41.030 align:start position:0%
+tool is called Craya AI. They just
+dropped<00:00:39.280><c> a</c><00:00:39.520><c> major</c><00:00:39.760><c> update,</c><00:00:40.239><c> and</c><00:00:40.480><c> today</c><00:00:40.800><c> I'm</c>
+
+00:00:41.030 --> 00:00:41.040 align:start position:0%
+dropped a major update, and today I'm
+ 
+
+00:00:41.040 --> 00:00:43.350 align:start position:0%
+dropped a major update, and today I'm
+breaking<00:00:41.360><c> down</c><00:00:41.760><c> exactly</c><00:00:42.160><c> how</c><00:00:42.399><c> it</c><00:00:42.640><c> works</c><00:00:43.040><c> and</c>
+
+00:00:43.350 --> 00:00:43.360 align:start position:0%
+breaking down exactly how it works and
+ 
+
+00:00:43.360 --> 00:00:45.590 align:start position:0%
+breaking down exactly how it works and
+how<00:00:43.520><c> you</c><00:00:43.680><c> can</c><00:00:43.840><c> use</c><00:00:44.000><c> it</c><00:00:44.160><c> right</c><00:00:44.399><c> now.</c><00:00:44.800><c> Hey,</c><00:00:45.200><c> if</c><00:00:45.440><c> we</c>
+
+00:00:45.590 --> 00:00:45.600 align:start position:0%
+how you can use it right now. Hey, if we
+ 
+
+00:00:45.600 --> 00:00:47.350 align:start position:0%
+how you can use it right now. Hey, if we
+haven't<00:00:45.760><c> met</c><00:00:46.000><c> already,</c><00:00:46.480><c> I'm</c><00:00:46.719><c> the</c><00:00:46.879><c> digital</c>
+
+00:00:47.350 --> 00:00:47.360 align:start position:0%
+haven't met already, I'm the digital
+ 
+
+00:00:47.360 --> 00:00:49.910 align:start position:0%
+haven't met already, I'm the digital
+avatar<00:00:47.840><c> of</c><00:00:48.000><c> Julian</c><00:00:48.399><c> Goldie,</c><00:00:48.960><c> CEO</c><00:00:49.280><c> of</c><00:00:49.440><c> SEO</c>
+
+00:00:49.910 --> 00:00:49.920 align:start position:0%
+avatar of Julian Goldie, CEO of SEO
+ 
+
+00:00:49.920 --> 00:00:52.310 align:start position:0%
+avatar of Julian Goldie, CEO of SEO
+agency<00:00:50.480><c> Goldie</c><00:00:50.960><c> Agency.</c><00:00:51.680><c> Whilst</c><00:00:52.000><c> he's</c>
+
+00:00:52.310 --> 00:00:52.320 align:start position:0%
+agency Goldie Agency. Whilst he's
+ 
+
+00:00:52.320 --> 00:00:54.229 align:start position:0%
+agency Goldie Agency. Whilst he's
+helping<00:00:52.640><c> clients</c><00:00:53.120><c> get</c><00:00:53.280><c> more</c><00:00:53.440><c> leads</c><00:00:53.920><c> and</c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+helping clients get more leads and
+ 
+
+00:00:54.239 --> 00:00:56.150 align:start position:0%
+helping clients get more leads and
+customers,<00:00:54.960><c> I'm</c><00:00:55.120><c> here</c><00:00:55.280><c> to</c><00:00:55.440><c> help</c><00:00:55.600><c> you</c><00:00:55.760><c> get</c><00:00:55.920><c> the</c>
+
+00:00:56.150 --> 00:00:56.160 align:start position:0%
+customers, I'm here to help you get the
+ 
+
+00:00:56.160 --> 00:00:58.790 align:start position:0%
+customers, I'm here to help you get the
+latest<00:00:56.559><c> AI</c><00:00:56.879><c> updates.</c><00:00:57.600><c> Julian</c><00:00:58.079><c> Goldie</c><00:00:58.480><c> reads</c>
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+latest AI updates. Julian Goldie reads
+ 
+
+00:00:58.800 --> 00:01:00.470 align:start position:0%
+latest AI updates. Julian Goldie reads
+every<00:00:59.039><c> comment,</c><00:00:59.359><c> so</c><00:00:59.680><c> make</c><00:00:59.840><c> sure</c><00:00:59.920><c> you</c><00:01:00.160><c> comment</c>
+
+00:01:00.470 --> 00:01:00.480 align:start position:0%
+every comment, so make sure you comment
+ 
+
+00:01:00.480 --> 00:01:02.950 align:start position:0%
+every comment, so make sure you comment
+below.<00:01:01.120><c> Today,</c><00:01:01.359><c> we're</c><00:01:01.600><c> talking</c><00:01:01.920><c> about</c><00:01:02.480><c> Crayer</c>
+
+00:01:02.950 --> 00:01:02.960 align:start position:0%
+below. Today, we're talking about Crayer
+ 
+
+00:01:02.960 --> 00:01:05.189 align:start position:0%
+below. Today, we're talking about Crayer
+AI<00:01:03.280><c> and</c><00:01:03.520><c> their</c><00:01:03.760><c> brand</c><00:01:04.080><c> new</c><00:01:04.400><c> update</c><00:01:04.879><c> called</c>
+
+00:01:05.189 --> 00:01:05.199 align:start position:0%
+AI and their brand new update called
+ 
+
+00:01:05.199 --> 00:01:07.510 align:start position:0%
+AI and their brand new update called
+Core<00:01:05.680><c> Edit.</c><00:01:06.240><c> This</c><00:01:06.400><c> thing</c><00:01:06.640><c> is</c><00:01:06.799><c> genuinely</c><00:01:07.280><c> one</c>
+
+00:01:07.510 --> 00:01:07.520 align:start position:0%
+Core Edit. This thing is genuinely one
+ 
+
+00:01:07.520 --> 00:01:09.830 align:start position:0%
+Core Edit. This thing is genuinely one
+of the<00:01:07.760><c> most</c><00:01:07.920><c> exciting</c><00:01:08.400><c> creative</c><00:01:08.799><c> tools</c><00:01:09.520><c> I've</c>
+
+00:01:09.830 --> 00:01:09.840 align:start position:0%
+of the most exciting creative tools I've
+ 
+
+00:01:09.840 --> 00:01:11.750 align:start position:0%
+of the most exciting creative tools I've
+seen<00:01:10.000><c> in</c><00:01:10.240><c> a</c><00:01:10.400><c> long</c><00:01:10.560><c> time,</c><00:01:10.960><c> and</c><00:01:11.200><c> by</c><00:01:11.439><c> the</c><00:01:11.520><c> end</c><00:01:11.680><c> of</c>
+
+00:01:11.750 --> 00:01:11.760 align:start position:0%
+seen in a long time, and by the end of
+ 
+
+00:01:11.760 --> 00:01:13.750 align:start position:0%
+seen in a long time, and by the end of
+this<00:01:12.000><c> video,</c><00:01:12.479><c> you'll</c><00:01:12.799><c> know</c><00:01:12.960><c> exactly</c><00:01:13.360><c> how</c><00:01:13.600><c> to</c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+this video, you'll know exactly how to
+ 
+
+00:01:13.760 --> 00:01:16.469 align:start position:0%
+this video, you'll know exactly how to
+use<00:01:13.920><c> it</c><00:01:14.080><c> to</c><00:01:14.320><c> create</c><00:01:14.560><c> better</c><00:01:14.880><c> content</c><00:01:15.600><c> faster.</c>
+
+00:01:16.469 --> 00:01:16.479 align:start position:0%
+use it to create better content faster.
+ 
+
+00:01:16.479 --> 00:01:19.350 align:start position:0%
+use it to create better content faster.
+Create<00:01:16.880><c> AI</c><00:01:17.439><c> is</c><00:01:17.680><c> an</c><00:01:17.920><c> all-in-one</c><00:01:18.560><c> AI</c><00:01:18.960><c> creative</c>
+
+00:01:19.350 --> 00:01:19.360 align:start position:0%
+Create AI is an all-in-one AI creative
+ 
+
+00:01:19.360 --> 00:01:21.429 align:start position:0%
+Create AI is an all-in-one AI creative
+platform.<00:01:20.080><c> Think</c><00:01:20.240><c> of</c><00:01:20.400><c> it</c><00:01:20.560><c> as</c><00:01:20.720><c> a</c><00:01:20.960><c> creative</c>
+
+00:01:21.429 --> 00:01:21.439 align:start position:0%
+platform. Think of it as a creative
+ 
+
+00:01:21.439 --> 00:01:23.670 align:start position:0%
+platform. Think of it as a creative
+studio<00:01:22.000><c> that</c><00:01:22.240><c> lives</c><00:01:22.560><c> in</c><00:01:22.720><c> your</c><00:01:22.880><c> browser.</c><00:01:23.439><c> You</c>
+
+00:01:23.670 --> 00:01:23.680 align:start position:0%
+studio that lives in your browser. You
+ 
+
+00:01:23.680 --> 00:01:26.390 align:start position:0%
+studio that lives in your browser. You
+can<00:01:23.759><c> generate</c><00:01:24.240><c> images</c><00:01:24.720><c> from</c><00:01:25.119><c> scratch,</c><00:01:26.000><c> edit</c>
+
+00:01:26.390 --> 00:01:26.400 align:start position:0%
+can generate images from scratch, edit
+ 
+
+00:01:26.400 --> 00:01:29.109 align:start position:0%
+can generate images from scratch, edit
+existing<00:01:27.040><c> photos,</c><00:01:27.840><c> animate</c><00:01:28.320><c> visuals</c><00:01:28.799><c> into</c>
+
+00:01:29.109 --> 00:01:29.119 align:start position:0%
+existing photos, animate visuals into
+ 
+
+00:01:29.119 --> 00:01:31.749 align:start position:0%
+existing photos, animate visuals into
+short<00:01:29.439><c> videos,</c><00:01:30.159><c> upscale</c><00:01:30.720><c> images</c><00:01:31.119><c> to</c><00:01:31.280><c> insane</c>
+
+00:01:31.749 --> 00:01:31.759 align:start position:0%
+short videos, upscale images to insane
+ 
+
+00:01:31.759 --> 00:01:34.710 align:start position:0%
+short videos, upscale images to insane
+resolution,<00:01:32.560><c> and</c><00:01:32.799><c> now</c><00:01:33.360><c> with</c><00:01:33.600><c> Craya</c><00:01:34.000><c> Edit,</c><00:01:34.560><c> you</c>
+
+00:01:34.710 --> 00:01:34.720 align:start position:0%
+resolution, and now with Craya Edit, you
+ 
+
+00:01:34.720 --> 00:01:36.950 align:start position:0%
+resolution, and now with Craya Edit, you
+can<00:01:34.880><c> make</c><00:01:35.040><c> incredibly</c><00:01:35.680><c> precise</c><00:01:36.400><c> targeted</c>
+
+00:01:36.950 --> 00:01:36.960 align:start position:0%
+can make incredibly precise targeted
+ 
+
+00:01:36.960 --> 00:01:38.870 align:start position:0%
+can make incredibly precise targeted
+edits<00:01:37.280><c> to</c><00:01:37.520><c> any</c><00:01:37.759><c> image</c><00:01:38.000><c> using</c><00:01:38.320><c> nothing</c><00:01:38.560><c> but</c><00:01:38.720><c> a</c>
+
+00:01:38.870 --> 00:01:38.880 align:start position:0%
+edits to any image using nothing but a
+ 
+
+00:01:38.880 --> 00:01:41.429 align:start position:0%
+edits to any image using nothing but a
+text<00:01:39.119><c> prompt.</c><00:01:39.759><c> Before</c><00:01:40.079><c> this</c><00:01:40.320><c> update,</c><00:01:41.040><c> AI</c>
+
+00:01:41.429 --> 00:01:41.439 align:start position:0%
+text prompt. Before this update, AI
+ 
+
+00:01:41.439 --> 00:01:43.830 align:start position:0%
+text prompt. Before this update, AI
+image<00:01:41.920><c> tools</c><00:01:42.640><c> were</c><00:01:42.960><c> kind</c><00:01:43.119><c> of</c><00:01:43.280><c> a</c><00:01:43.439><c> blunt</c>
+
+00:01:43.830 --> 00:01:43.840 align:start position:0%
+image tools were kind of a blunt
+ 
+
+00:01:43.840 --> 00:01:45.990 align:start position:0%
+image tools were kind of a blunt
+instrument.<00:01:44.400><c> You</c><00:01:44.640><c> type</c><00:01:44.880><c> a</c><00:01:45.040><c> prompt,</c><00:01:45.680><c> it</c><00:01:45.920><c> would</c>
+
+00:01:45.990 --> 00:01:46.000 align:start position:0%
+instrument. You type a prompt, it would
+ 
+
+00:01:46.000 --> 00:01:47.990 align:start position:0%
+instrument. You type a prompt, it would
+generate<00:01:46.399><c> the</c><00:01:46.560><c> whole</c><00:01:46.799><c> image,</c><00:01:47.439><c> and</c><00:01:47.680><c> if</c><00:01:47.840><c> you</c>
+
+00:01:47.990 --> 00:01:48.000 align:start position:0%
+generate the whole image, and if you
+ 
+
+00:01:48.000 --> 00:01:49.590 align:start position:0%
+generate the whole image, and if you
+didn't<00:01:48.159><c> like</c><00:01:48.479><c> one</c><00:01:48.720><c> small</c><00:01:48.960><c> part,</c><00:01:49.200><c> you'd</c><00:01:49.439><c> have</c>
+
+00:01:49.590 --> 00:01:49.600 align:start position:0%
+didn't like one small part, you'd have
+ 
+
+00:01:49.600 --> 00:01:51.429 align:start position:0%
+didn't like one small part, you'd have
+to<00:01:49.680><c> start</c><00:01:49.840><c> again</c><00:01:50.159><c> from</c><00:01:50.399><c> scratch.</c><00:01:51.040><c> That</c><00:01:51.280><c> was</c>
+
+00:01:51.429 --> 00:01:51.439 align:start position:0%
+to start again from scratch. That was
+ 
+
+00:01:51.439 --> 00:01:53.670 align:start position:0%
+to start again from scratch. That was
+frustrating<00:01:52.000><c> and</c><00:01:52.320><c> slow.</c><00:01:52.799><c> Create</c><00:01:53.280><c> edit</c>
+
+00:01:53.670 --> 00:01:53.680 align:start position:0%
+frustrating and slow. Create edit
+ 
+
+00:01:53.680 --> 00:01:55.270 align:start position:0%
+frustrating and slow. Create edit
+changes<00:01:54.079><c> all</c><00:01:54.159><c> of</c><00:01:54.320><c> that.</c><00:01:54.720><c> Instead</c><00:01:55.040><c> of</c>
+
+00:01:55.270 --> 00:01:55.280 align:start position:0%
+changes all of that. Instead of
+ 
+
+00:01:55.280 --> 00:01:56.950 align:start position:0%
+changes all of that. Instead of
+regenerating<00:01:56.000><c> everything,</c><00:01:56.320><c> you</c><00:01:56.479><c> now</c><00:01:56.720><c> select</c>
+
+00:01:56.950 --> 00:01:56.960 align:start position:0%
+regenerating everything, you now select
+ 
+
+00:01:56.960 --> 00:01:58.389 align:start position:0%
+regenerating everything, you now select
+the<00:01:57.119><c> exact</c><00:01:57.360><c> part</c><00:01:57.520><c> of</c><00:01:57.600><c> the</c><00:01:57.759><c> image</c><00:01:57.920><c> you</c><00:01:58.159><c> want</c><00:01:58.240><c> to</c>
+
+00:01:58.389 --> 00:01:58.399 align:start position:0%
+the exact part of the image you want to
+ 
+
+00:01:58.399 --> 00:02:00.069 align:start position:0%
+the exact part of the image you want to
+change.<00:01:58.880><c> Just</c><00:01:59.119><c> the</c><00:01:59.360><c> background,</c><00:01:59.759><c> just</c><00:01:59.920><c> the</c>
+
+00:02:00.069 --> 00:02:00.079 align:start position:0%
+change. Just the background, just the
+ 
+
+00:02:00.079 --> 00:02:02.310 align:start position:0%
+change. Just the background, just the
+lighting,<00:02:00.479><c> just</c><00:02:00.640><c> one</c><00:02:00.799><c> object,</c><00:02:01.520><c> and</c><00:02:01.759><c> you</c><00:02:02.000><c> edit</c>
+
+00:02:02.310 --> 00:02:02.320 align:start position:0%
+lighting, just one object, and you edit
+ 
+
+00:02:02.320 --> 00:02:04.469 align:start position:0%
+lighting, just one object, and you edit
+only<00:02:02.640><c> that.</c><00:02:03.119><c> Everything</c><00:02:03.439><c> else</c><00:02:03.680><c> stays</c><00:02:04.079><c> exactly</c>
+
+00:02:04.469 --> 00:02:04.479 align:start position:0%
+only that. Everything else stays exactly
+ 
+
+00:02:04.479 --> 00:02:07.190 align:start position:0%
+only that. Everything else stays exactly
+as<00:02:04.719><c> it</c><00:02:04.880><c> is.</c><00:02:05.439><c> That's</c><00:02:05.759><c> the</c><00:02:06.000><c> shift,</c><00:02:06.560><c> and</c><00:02:06.799><c> it's</c><00:02:06.960><c> a</c>
+
+00:02:07.190 --> 00:02:07.200 align:start position:0%
+as it is. That's the shift, and it's a
+ 
+
+00:02:07.200 --> 00:02:09.510 align:start position:0%
+as it is. That's the shift, and it's a
+big<00:02:07.360><c> one.</c><00:02:07.920><c> The</c><00:02:08.160><c> workflow</c><00:02:08.560><c> is</c><00:02:08.720><c> simple.</c><00:02:09.280><c> You</c>
+
+00:02:09.510 --> 00:02:09.520 align:start position:0%
+big one. The workflow is simple. You
+ 
+
+00:02:09.520 --> 00:02:11.830 align:start position:0%
+big one. The workflow is simple. You
+upload<00:02:09.920><c> an</c><00:02:10.160><c> image</c><00:02:10.640><c> or</c><00:02:10.959><c> generate</c><00:02:11.280><c> one</c><00:02:11.520><c> inside</c>
+
+00:02:11.830 --> 00:02:11.840 align:start position:0%
+upload an image or generate one inside
+ 
+
+00:02:11.840 --> 00:02:14.229 align:start position:0%
+upload an image or generate one inside
+Crea.<00:02:12.560><c> Then</c><00:02:12.800><c> you</c><00:02:12.959><c> select</c><00:02:13.200><c> a</c><00:02:13.440><c> region</c><00:02:13.760><c> using</c><00:02:14.000><c> a</c>
+
+00:02:14.229 --> 00:02:14.239 align:start position:0%
+Crea. Then you select a region using a
+ 
+
+00:02:14.239 --> 00:02:16.949 align:start position:0%
+Crea. Then you select a region using a
+brush,<00:02:14.879><c> rectangle,</c><00:02:15.680><c> circle,</c><00:02:16.080><c> or</c><00:02:16.319><c> magic</c><00:02:16.640><c> wand</c>
+
+00:02:16.949 --> 00:02:16.959 align:start position:0%
+brush, rectangle, circle, or magic wand
+ 
+
+00:02:16.959 --> 00:02:19.190 align:start position:0%
+brush, rectangle, circle, or magic wand
+tool.<00:02:17.520><c> Then</c><00:02:17.680><c> you</c><00:02:17.840><c> type</c><00:02:18.000><c> a</c><00:02:18.239><c> prompt.</c><00:02:18.720><c> The</c><00:02:18.879><c> AI</c>
+
+00:02:19.190 --> 00:02:19.200 align:start position:0%
+tool. Then you type a prompt. The AI
+ 
+
+00:02:19.200 --> 00:02:21.510 align:start position:0%
+tool. Then you type a prompt. The AI
+changes<00:02:19.599><c> only</c><00:02:19.760><c> that</c><00:02:20.080><c> selected</c><00:02:20.560><c> area.</c><00:02:21.200><c> Let</c><00:02:21.440><c> me</c>
+
+00:02:21.510 --> 00:02:21.520 align:start position:0%
+changes only that selected area. Let me
+ 
+
+00:02:21.520 --> 00:02:23.190 align:start position:0%
+changes only that selected area. Let me
+give<00:02:21.599><c> you</c><00:02:21.760><c> a</c><00:02:21.920><c> real</c><00:02:22.080><c> example.</c><00:02:22.800><c> We</c><00:02:23.040><c> were</c>
+
+00:02:23.190 --> 00:02:23.200 align:start position:0%
+give you a real example. We were
+ 
+
+00:02:23.200 --> 00:02:25.190 align:start position:0%
+give you a real example. We were
+creating<00:02:23.599><c> promo</c><00:02:24.080><c> graphics</c><00:02:24.480><c> for</c><00:02:24.640><c> the</c><00:02:24.800><c> AI</c>
+
+00:02:25.190 --> 00:02:25.200 align:start position:0%
+creating promo graphics for the AI
+ 
+
+00:02:25.200 --> 00:02:27.430 align:start position:0%
+creating promo graphics for the AI
+profit<00:02:25.599><c> boardroom.</c><00:02:26.319><c> I</c><00:02:26.480><c> took</c><00:02:26.720><c> a</c><00:02:26.879><c> simple</c><00:02:27.120><c> photo</c>
+
+00:02:27.430 --> 00:02:27.440 align:start position:0%
+profit boardroom. I took a simple photo
+ 
+
+00:02:27.440 --> 00:02:29.670 align:start position:0%
+profit boardroom. I took a simple photo
+of<00:02:27.599><c> a</c><00:02:27.840><c> laptop</c><00:02:28.160><c> on</c><00:02:28.319><c> a</c><00:02:28.480><c> desk.</c><00:02:29.120><c> Selected</c><00:02:29.440><c> the</c>
+
+00:02:29.670 --> 00:02:29.680 align:start position:0%
+of a laptop on a desk. Selected the
+ 
+
+00:02:29.680 --> 00:02:31.830 align:start position:0%
+of a laptop on a desk. Selected the
+background,<00:02:30.319><c> typed</c><00:02:30.879><c> modern</c><00:02:31.280><c> co-working</c>
+
+00:02:31.830 --> 00:02:31.840 align:start position:0%
+background, typed modern co-working
+ 
+
+00:02:31.840 --> 00:02:33.910 align:start position:0%
+background, typed modern co-working
+space,<00:02:32.160><c> golden</c><00:02:32.480><c> hour</c><00:02:32.800><c> lighting.</c><00:02:33.360><c> Instantly,</c>
+
+00:02:33.910 --> 00:02:33.920 align:start position:0%
+space, golden hour lighting. Instantly,
+ 
+
+00:02:33.920 --> 00:02:36.309 align:start position:0%
+space, golden hour lighting. Instantly,
+the<00:02:34.160><c> background</c><00:02:34.640><c> transformed.</c><00:02:35.599><c> The</c><00:02:35.840><c> laptop</c>
+
+00:02:36.309 --> 00:02:36.319 align:start position:0%
+the background transformed. The laptop
+ 
+
+00:02:36.319 --> 00:02:38.150 align:start position:0%
+the background transformed. The laptop
+stayed<00:02:36.640><c> perfect.</c><00:02:37.360><c> It</c><00:02:37.519><c> looked</c><00:02:37.680><c> like</c><00:02:37.920><c> a</c>
+
+00:02:38.150 --> 00:02:38.160 align:start position:0%
+stayed perfect. It looked like a
+ 
+
+00:02:38.160 --> 00:02:39.990 align:start position:0%
+stayed perfect. It looked like a
+professional<00:02:38.640><c> photo</c><00:02:38.959><c> shoot.</c><00:02:39.440><c> That</c><00:02:39.680><c> image</c>
+
+00:02:39.990 --> 00:02:40.000 align:start position:0%
+professional photo shoot. That image
+ 
+
+00:02:40.000 --> 00:02:41.910 align:start position:0%
+professional photo shoot. That image
+went<00:02:40.239><c> straight</c><00:02:40.480><c> onto</c><00:02:40.800><c> our</c><00:02:40.959><c> landing</c><00:02:41.280><c> page.</c><00:02:41.680><c> No</c>
+
+00:02:41.910 --> 00:02:41.920 align:start position:0%
+went straight onto our landing page. No
+ 
+
+00:02:41.920 --> 00:02:44.150 align:start position:0%
+went straight onto our landing page. No
+designer,<00:02:42.480><c> no</c><00:02:42.640><c> editing</c><00:02:43.120><c> software,</c><00:02:43.840><c> just</c><00:02:44.000><c> a</c>
+
+00:02:44.150 --> 00:02:44.160 align:start position:0%
+designer, no editing software, just a
+ 
+
+00:02:44.160 --> 00:02:45.990 align:start position:0%
+designer, no editing software, just a
+prompt<00:02:44.560><c> and</c><00:02:44.800><c> a</c><00:02:45.040><c> click.</c><00:02:45.440><c> That's</c><00:02:45.680><c> what</c><00:02:45.840><c> this</c>
+
+00:02:45.990 --> 00:02:46.000 align:start position:0%
+prompt and a click. That's what this
+ 
+
+00:02:46.000 --> 00:02:48.070 align:start position:0%
+prompt and a click. That's what this
+tool<00:02:46.319><c> does.</c><00:02:46.640><c> It</c><00:02:46.879><c> makes</c><00:02:47.120><c> professional</c><00:02:47.680><c> quality</c>
+
+00:02:48.070 --> 00:02:48.080 align:start position:0%
+tool does. It makes professional quality
+ 
+
+00:02:48.080 --> 00:02:50.949 align:start position:0%
+tool does. It makes professional quality
+visuals<00:02:48.879><c> accessible</c><00:02:49.360><c> to</c><00:02:49.519><c> anyone.</c><00:02:50.560><c> There</c><00:02:50.800><c> are</c>
+
+00:02:50.949 --> 00:02:50.959 align:start position:0%
+visuals accessible to anyone. There are
+ 
+
+00:02:50.959 --> 00:02:52.869 align:start position:0%
+visuals accessible to anyone. There are
+five<00:02:51.200><c> features</c><00:02:51.599><c> inside</c><00:02:52.000><c> Create</c><00:02:52.400><c> Edit</c><00:02:52.720><c> that</c>
+
+00:02:52.869 --> 00:02:52.879 align:start position:0%
+five features inside Create Edit that
+ 
+
+00:02:52.879 --> 00:02:54.790 align:start position:0%
+five features inside Create Edit that
+you<00:02:53.040><c> need</c><00:02:53.120><c> to</c><00:02:53.280><c> know</c><00:02:53.519><c> about.</c><00:02:54.160><c> The</c><00:02:54.319><c> first</c><00:02:54.560><c> is</c>
+
+00:02:54.790 --> 00:02:54.800 align:start position:0%
+you need to know about. The first is
+ 
+
+00:02:54.800 --> 00:02:56.869 align:start position:0%
+you need to know about. The first is
+region-based<00:02:55.519><c> editing.</c><00:02:56.160><c> You</c><00:02:56.319><c> select</c><00:02:56.640><c> any</c>
+
+00:02:56.869 --> 00:02:56.879 align:start position:0%
+region-based editing. You select any
+ 
+
+00:02:56.879 --> 00:02:59.030 align:start position:0%
+region-based editing. You select any
+part<00:02:57.040><c> of</c><00:02:57.120><c> your</c><00:02:57.360><c> image</c><00:02:57.840><c> and</c><00:02:58.160><c> change</c><00:02:58.480><c> just</c><00:02:58.720><c> that</c>
+
+00:02:59.030 --> 00:02:59.040 align:start position:0%
+part of your image and change just that
+ 
+
+00:02:59.040 --> 00:03:01.030 align:start position:0%
+part of your image and change just that
+section.<00:02:59.840><c> This</c><00:03:00.000><c> is</c><00:03:00.160><c> perfect</c><00:03:00.400><c> for</c><00:03:00.640><c> swapping</c>
+
+00:03:01.030 --> 00:03:01.040 align:start position:0%
+section. This is perfect for swapping
+ 
+
+00:03:01.040 --> 00:03:03.110 align:start position:0%
+section. This is perfect for swapping
+backgrounds<00:03:01.440><c> on</c><00:03:01.680><c> product</c><00:03:02.000><c> photos,</c><00:03:02.800><c> changing</c>
+
+00:03:03.110 --> 00:03:03.120 align:start position:0%
+backgrounds on product photos, changing
+ 
+
+00:03:03.120 --> 00:03:05.270 align:start position:0%
+backgrounds on product photos, changing
+lighting<00:03:03.440><c> in</c><00:03:03.680><c> one</c><00:03:03.840><c> area,</c><00:03:04.400><c> or</c><00:03:04.720><c> adding</c><00:03:05.040><c> and</c>
+
+00:03:05.270 --> 00:03:05.280 align:start position:0%
+lighting in one area, or adding and
+ 
+
+00:03:05.280 --> 00:03:06.949 align:start position:0%
+lighting in one area, or adding and
+removing<00:03:05.680><c> objects</c><00:03:06.080><c> without</c><00:03:06.480><c> touching</c><00:03:06.800><c> the</c>
+
+00:03:06.949 --> 00:03:06.959 align:start position:0%
+removing objects without touching the
+ 
+
+00:03:06.959 --> 00:03:09.030 align:start position:0%
+removing objects without touching the
+rest<00:03:07.120><c> of</c><00:03:07.200><c> the</c><00:03:07.360><c> image.</c><00:03:07.920><c> For</c><00:03:08.080><c> the</c><00:03:08.239><c> AI</c><00:03:08.640><c> profit</c>
+
+00:03:09.030 --> 00:03:09.040 align:start position:0%
+rest of the image. For the AI profit
+ 
+
+00:03:09.040 --> 00:03:11.430 align:start position:0%
+rest of the image. For the AI profit
+boardroom,<00:03:09.680><c> we</c><00:03:09.920><c> use</c><00:03:10.080><c> this</c><00:03:10.319><c> constantly</c><00:03:11.120><c> to</c>
+
+00:03:11.430 --> 00:03:11.440 align:start position:0%
+boardroom, we use this constantly to
+ 
+
+00:03:11.440 --> 00:03:13.350 align:start position:0%
+boardroom, we use this constantly to
+drop<00:03:11.680><c> our</c><00:03:11.920><c> brand</c><00:03:12.239><c> visuals</c><00:03:12.640><c> into</c><00:03:12.959><c> different</c>
+
+00:03:13.350 --> 00:03:13.360 align:start position:0%
+drop our brand visuals into different
+ 
+
+00:03:13.360 --> 00:03:15.509 align:start position:0%
+drop our brand visuals into different
+environments<00:03:14.000><c> for</c><00:03:14.239><c> different</c><00:03:14.480><c> campaigns.</c>
+
+00:03:15.509 --> 00:03:15.519 align:start position:0%
+environments for different campaigns.
+ 
+
+00:03:15.519 --> 00:03:17.750 align:start position:0%
+environments for different campaigns.
+The<00:03:15.760><c> second</c><00:03:16.080><c> is</c><00:03:16.400><c> object</c><00:03:16.800><c> detection</c><00:03:17.440><c> and</c>
+
+00:03:17.750 --> 00:03:17.760 align:start position:0%
+The second is object detection and
+ 
+
+00:03:17.760 --> 00:03:19.830 align:start position:0%
+The second is object detection and
+rearrangement.<00:03:18.720><c> Crayer</c><00:03:19.200><c> automatically</c>
+
+00:03:19.830 --> 00:03:19.840 align:start position:0%
+rearrangement. Crayer automatically
+ 
+
+00:03:19.840 --> 00:03:22.390 align:start position:0%
+rearrangement. Crayer automatically
+detects<00:03:20.319><c> objects</c><00:03:20.800><c> inside</c><00:03:21.280><c> your</c><00:03:21.519><c> image.</c><00:03:22.239><c> You</c>
+
+00:03:22.390 --> 00:03:22.400 align:start position:0%
+detects objects inside your image. You
+ 
+
+00:03:22.400 --> 00:03:24.790 align:start position:0%
+detects objects inside your image. You
+can<00:03:22.560><c> then</c><00:03:22.720><c> move</c><00:03:22.959><c> them,</c><00:03:23.519><c> duplicate</c><00:03:24.000><c> them,</c><00:03:24.480><c> or</c>
+
+00:03:24.790 --> 00:03:24.800 align:start position:0%
+can then move them, duplicate them, or
+ 
+
+00:03:24.800 --> 00:03:26.550 align:start position:0%
+can then move them, duplicate them, or
+replace<00:03:25.120><c> them</c><00:03:25.280><c> entirely.</c><00:03:26.159><c> If</c><00:03:26.319><c> you're</c>
+
+00:03:26.550 --> 00:03:26.560 align:start position:0%
+replace them entirely. If you're
+ 
+
+00:03:26.560 --> 00:03:28.470 align:start position:0%
+replace them entirely. If you're
+creating<00:03:26.959><c> ad</c><00:03:27.200><c> creatives</c><00:03:27.840><c> or</c><00:03:28.159><c> course</c>
+
+00:03:28.470 --> 00:03:28.480 align:start position:0%
+creating ad creatives or course
+ 
+
+00:03:28.480 --> 00:03:30.390 align:start position:0%
+creating ad creatives or course
+thumbnails,<00:03:29.280><c> this</c><00:03:29.440><c> means</c><00:03:29.680><c> you</c><00:03:29.840><c> can</c><00:03:29.920><c> take</c><00:03:30.159><c> one</c>
+
+00:03:30.390 --> 00:03:30.400 align:start position:0%
+thumbnails, this means you can take one
+ 
+
+00:03:30.400 --> 00:03:32.470 align:start position:0%
+thumbnails, this means you can take one
+hero<00:03:30.720><c> image</c><00:03:31.200><c> and</c><00:03:31.440><c> create</c><00:03:31.760><c> five</c><00:03:32.080><c> different</c>
+
+00:03:32.470 --> 00:03:32.480 align:start position:0%
+hero image and create five different
+ 
+
+00:03:32.480 --> 00:03:35.190 align:start position:0%
+hero image and create five different
+layouts<00:03:32.879><c> in</c><00:03:33.200><c> under</c><00:03:33.519><c> 2</c><00:03:33.760><c> minutes.</c><00:03:34.400><c> The</c><00:03:34.640><c> third</c><00:03:34.879><c> is</c>
+
+00:03:35.190 --> 00:03:35.200 align:start position:0%
+layouts in under 2 minutes. The third is
+ 
+
+00:03:35.200 --> 00:03:37.190 align:start position:0%
+layouts in under 2 minutes. The third is
+lighting<00:03:35.599><c> and</c><00:03:35.920><c> color</c><00:03:36.239><c> control.</c><00:03:36.640><c> This</c><00:03:36.799><c> one</c><00:03:37.040><c> is</c>
+
+00:03:37.190 --> 00:03:37.200 align:start position:0%
+lighting and color control. This one is
+ 
+
+00:03:37.200 --> 00:03:39.430 align:start position:0%
+lighting and color control. This one is
+huge<00:03:37.440><c> for</c><00:03:37.599><c> anyone</c><00:03:38.000><c> running</c><00:03:38.239><c> ads</c><00:03:38.640><c> or</c><00:03:38.959><c> creating</c>
+
+00:03:39.430 --> 00:03:39.440 align:start position:0%
+huge for anyone running ads or creating
+ 
+
+00:03:39.440 --> 00:03:41.110 align:start position:0%
+huge for anyone running ads or creating
+social<00:03:39.760><c> content.</c><00:03:40.400><c> You</c><00:03:40.560><c> can</c><00:03:40.720><c> change</c><00:03:40.879><c> the</c>
+
+00:03:41.110 --> 00:03:41.120 align:start position:0%
+social content. You can change the
+ 
+
+00:03:41.120 --> 00:03:42.869 align:start position:0%
+social content. You can change the
+lighting<00:03:41.440><c> style,</c><00:03:41.840><c> shadows,</c><00:03:42.319><c> color</c><00:03:42.560><c> palette,</c>
+
+00:03:42.869 --> 00:03:42.879 align:start position:0%
+lighting style, shadows, color palette,
+ 
+
+00:03:42.879 --> 00:03:45.110 align:start position:0%
+lighting style, shadows, color palette,
+and<00:03:43.120><c> overall</c><00:03:43.440><c> mood</c><00:03:43.760><c> just</c><00:03:43.920><c> by</c><00:03:44.159><c> typing.</c><00:03:44.799><c> Try</c>
+
+00:03:45.110 --> 00:03:45.120 align:start position:0%
+and overall mood just by typing. Try
+ 
+
+00:03:45.120 --> 00:03:47.509 align:start position:0%
+and overall mood just by typing. Try
+prompts<00:03:45.440><c> like</c><00:03:45.680><c> cinematic</c><00:03:46.239><c> lighting,</c><00:03:47.040><c> sunset</c>
+
+00:03:47.509 --> 00:03:47.519 align:start position:0%
+prompts like cinematic lighting, sunset
+ 
+
+00:03:47.519 --> 00:03:50.390 align:start position:0%
+prompts like cinematic lighting, sunset
+warm<00:03:47.840><c> tones,</c><00:03:48.400><c> bold</c><00:03:48.799><c> cyberpunk</c><00:03:49.519><c> colors,</c><00:03:50.080><c> or</c>
+
+00:03:50.390 --> 00:03:50.400 align:start position:0%
+warm tones, bold cyberpunk colors, or
+ 
+
+00:03:50.400 --> 00:03:52.949 align:start position:0%
+warm tones, bold cyberpunk colors, or
+clean<00:03:50.720><c> minimal</c><00:03:51.120><c> white</c><00:03:51.440><c> studio.</c><00:03:52.319><c> We</c><00:03:52.560><c> use</c><00:03:52.720><c> this</c>
+
+00:03:52.949 --> 00:03:52.959 align:start position:0%
+clean minimal white studio. We use this
+ 
+
+00:03:52.959 --> 00:03:54.949 align:start position:0%
+clean minimal white studio. We use this
+to<00:03:53.120><c> test</c><00:03:53.440><c> different</c><00:03:53.760><c> visual</c><00:03:54.159><c> styles</c><00:03:54.400><c> for</c><00:03:54.640><c> AI</c>
+
+00:03:54.949 --> 00:03:54.959 align:start position:0%
+to test different visual styles for AI
+ 
+
+00:03:54.959 --> 00:03:56.949 align:start position:0%
+to test different visual styles for AI
+profit<00:03:55.280><c> boardroom</c><00:03:55.680><c> content.</c><00:03:56.400><c> Five</c><00:03:56.720><c> color</c>
+
+00:03:56.949 --> 00:03:56.959 align:start position:0%
+profit boardroom content. Five color
+ 
+
+00:03:56.959 --> 00:03:58.949 align:start position:0%
+profit boardroom content. Five color
+variations<00:03:57.439><c> in</c><00:03:57.760><c> 5</c><00:03:57.920><c> minutes.</c><00:03:58.480><c> Then</c><00:03:58.720><c> we</c><00:03:58.879><c> see</c>
+
+00:03:58.949 --> 00:03:58.959 align:start position:0%
+variations in 5 minutes. Then we see
+ 
+
+00:03:58.959 --> 00:04:00.309 align:start position:0%
+variations in 5 minutes. Then we see
+which<00:03:59.200><c> one</c><00:03:59.360><c> resonates</c><00:03:59.840><c> best</c><00:04:00.000><c> with</c><00:04:00.159><c> the</c>
+
+00:04:00.309 --> 00:04:00.319 align:start position:0%
+which one resonates best with the
+ 
+
+00:04:00.319 --> 00:04:02.229 align:start position:0%
+which one resonates best with the
+audience.<00:04:01.120><c> Quick</c><00:04:01.360><c> pause</c><00:04:01.680><c> here.</c><00:04:01.920><c> If</c><00:04:02.080><c> you're</c>
+
+00:04:02.229 --> 00:04:02.239 align:start position:0%
+audience. Quick pause here. If you're
+ 
+
+00:04:02.239 --> 00:04:03.589 align:start position:0%
+audience. Quick pause here. If you're
+watching<00:04:02.480><c> this</c><00:04:02.640><c> and</c><00:04:02.879><c> thinking,</c><00:04:03.200><c> I</c><00:04:03.439><c> want</c><00:04:03.519><c> to</c>
+
+00:04:03.589 --> 00:04:03.599 align:start position:0%
+watching this and thinking, I want to
+ 
+
+00:04:03.599 --> 00:04:06.710 align:start position:0%
+watching this and thinking, I want to
+use<00:04:03.840><c> AI</c><00:04:04.239><c> tools</c><00:04:04.560><c> like</c><00:04:04.879><c> Crayo</c><00:04:05.599><c> inside</c><00:04:06.000><c> an</c><00:04:06.319><c> actual</c>
+
+00:04:06.710 --> 00:04:06.720 align:start position:0%
+use AI tools like Crayo inside an actual
+ 
+
+00:04:06.720 --> 00:04:08.710 align:start position:0%
+use AI tools like Crayo inside an actual
+business<00:04:07.040><c> system.</c><00:04:07.840><c> Then</c><00:04:08.080><c> you</c><00:04:08.239><c> need</c><00:04:08.319><c> to</c><00:04:08.480><c> check</c>
+
+00:04:08.710 --> 00:04:08.720 align:start position:0%
+business system. Then you need to check
+ 
+
+00:04:08.720 --> 00:04:11.030 align:start position:0%
+business system. Then you need to check
+out<00:04:08.879><c> the</c><00:04:09.120><c> AI</c><00:04:09.519><c> profit</c><00:04:09.840><c> boardroom.</c><00:04:10.560><c> Now,</c><00:04:10.879><c> it's</c>
+
+00:04:11.030 --> 00:04:11.040 align:start position:0%
+out the AI profit boardroom. Now, it's
+ 
+
+00:04:11.040 --> 00:04:12.869 align:start position:0%
+out the AI profit boardroom. Now, it's
+our<00:04:11.200><c> private</c><00:04:11.599><c> community</c><00:04:12.000><c> where</c><00:04:12.319><c> we</c><00:04:12.480><c> show</c><00:04:12.640><c> you</c>
+
+00:04:12.869 --> 00:04:12.879 align:start position:0%
+our private community where we show you
+ 
+
+00:04:12.879 --> 00:04:15.589 align:start position:0%
+our private community where we show you
+exactly<00:04:13.439><c> how</c><00:04:13.680><c> to</c><00:04:13.840><c> use</c><00:04:14.159><c> AI</c><00:04:14.560><c> automation</c><00:04:15.040><c> to</c><00:04:15.280><c> save</c>
+
+00:04:15.589 --> 00:04:15.599 align:start position:0%
+exactly how to use AI automation to save
+ 
+
+00:04:15.599 --> 00:04:17.830 align:start position:0%
+exactly how to use AI automation to save
+time,<00:04:16.239><c> create</c><00:04:16.560><c> better</c><00:04:16.880><c> content,</c><00:04:17.280><c> and</c><00:04:17.519><c> build</c>
+
+00:04:17.830 --> 00:04:17.840 align:start position:0%
+time, create better content, and build
+ 
+
+00:04:17.840 --> 00:04:20.150 align:start position:0%
+time, create better content, and build
+smarter<00:04:18.320><c> workflows.</c><00:04:19.120><c> We</c><00:04:19.359><c> cover</c><00:04:19.600><c> tools</c><00:04:19.919><c> like</c>
+
+00:04:20.150 --> 00:04:20.160 align:start position:0%
+smarter workflows. We cover tools like
+ 
+
+00:04:20.160 --> 00:04:22.150 align:start position:0%
+smarter workflows. We cover tools like
+Korea,<00:04:20.720><c> content</c><00:04:21.120><c> systems,</c><00:04:21.600><c> automation</c>
+
+00:04:22.150 --> 00:04:22.160 align:start position:0%
+Korea, content systems, automation
+ 
+
+00:04:22.160 --> 00:04:24.629 align:start position:0%
+Korea, content systems, automation
+playbooks,<00:04:23.040><c> all</c><00:04:23.199><c> of</c><00:04:23.360><c> it</c><00:04:23.440><c> in</c><00:04:23.680><c> one</c><00:04:23.919><c> place</c><00:04:24.320><c> if</c><00:04:24.479><c> you</c>
+
+00:04:24.629 --> 00:04:24.639 align:start position:0%
+playbooks, all of it in one place if you
+ 
+
+00:04:24.639 --> 00:04:26.150 align:start position:0%
+playbooks, all of it in one place if you
+want<00:04:24.720><c> to</c><00:04:24.880><c> learn</c><00:04:25.040><c> how</c><00:04:25.280><c> to</c><00:04:25.440><c> save</c><00:04:25.680><c> time</c><00:04:25.919><c> and</c>
+
+00:04:26.150 --> 00:04:26.160 align:start position:0%
+want to learn how to save time and
+ 
+
+00:04:26.160 --> 00:04:28.310 align:start position:0%
+want to learn how to save time and
+automate<00:04:26.479><c> your</c><00:04:26.720><c> business</c><00:04:27.040><c> with</c><00:04:27.280><c> AI</c><00:04:27.680><c> tools</c>
+
+00:04:28.310 --> 00:04:28.320 align:start position:0%
+automate your business with AI tools
+ 
+
+00:04:28.320 --> 00:04:31.110 align:start position:0%
+automate your business with AI tools
+like<00:04:28.639><c> Crea</c><00:04:29.040><c> AI.</c><00:04:29.520><c> The</c><00:04:29.680><c> AI</c><00:04:30.080><c> profit</c><00:04:30.400><c> boardroom</c><00:04:30.880><c> is</c>
+
+00:04:31.110 --> 00:04:31.120 align:start position:0%
+like Crea AI. The AI profit boardroom is
+ 
+
+00:04:31.120 --> 00:04:32.870 align:start position:0%
+like Crea AI. The AI profit boardroom is
+where<00:04:31.360><c> you</c><00:04:31.520><c> need</c><00:04:31.600><c> to</c><00:04:31.759><c> be.</c><00:04:32.080><c> Link</c><00:04:32.320><c> is</c><00:04:32.560><c> in</c><00:04:32.720><c> the</c>
+
+00:04:32.870 --> 00:04:32.880 align:start position:0%
+where you need to be. Link is in the
+ 
+
+00:04:32.880 --> 00:04:34.710 align:start position:0%
+where you need to be. Link is in the
+description.<00:04:33.600><c> Now,</c><00:04:33.840><c> let's</c><00:04:34.080><c> keep</c><00:04:34.240><c> going.</c><00:04:34.560><c> The</c>
+
+00:04:34.710 --> 00:04:34.720 align:start position:0%
+description. Now, let's keep going. The
+ 
+
+00:04:34.720 --> 00:04:36.469 align:start position:0%
+description. Now, let's keep going. The
+fourth<00:04:34.960><c> is</c><00:04:35.120><c> out</c><00:04:35.440><c> painting,</c><00:04:36.000><c> which</c><00:04:36.240><c> means</c>
+
+00:04:36.469 --> 00:04:36.479 align:start position:0%
+fourth is out painting, which means
+ 
+
+00:04:36.479 --> 00:04:38.310 align:start position:0%
+fourth is out painting, which means
+expanding<00:04:36.880><c> your</c><00:04:37.120><c> images</c><00:04:37.680><c> beyond</c><00:04:38.080><c> their</c>
+
+00:04:38.310 --> 00:04:38.320 align:start position:0%
+expanding your images beyond their
+ 
+
+00:04:38.320 --> 00:04:40.390 align:start position:0%
+expanding your images beyond their
+original<00:04:38.720><c> frame.</c><00:04:39.360><c> You</c><00:04:39.600><c> take</c><00:04:39.680><c> a</c><00:04:39.840><c> portrait</c><00:04:40.240><c> shot</c>
+
+00:04:40.390 --> 00:04:40.400 align:start position:0%
+original frame. You take a portrait shot
+ 
+
+00:04:40.400 --> 00:04:42.150 align:start position:0%
+original frame. You take a portrait shot
+and<00:04:40.560><c> Cray</c><00:04:40.880><c> extends</c><00:04:41.199><c> it</c><00:04:41.360><c> outward,</c><00:04:41.759><c> filling</c><00:04:42.000><c> in</c>
+
+00:04:42.150 --> 00:04:42.160 align:start position:0%
+and Cray extends it outward, filling in
+ 
+
+00:04:42.160 --> 00:04:44.550 align:start position:0%
+and Cray extends it outward, filling in
+the<00:04:42.320><c> new</c><00:04:42.479><c> space</c><00:04:42.800><c> based</c><00:04:43.120><c> on</c><00:04:43.360><c> context.</c><00:04:44.080><c> A</c><00:04:44.320><c> tight</c>
+
+00:04:44.550 --> 00:04:44.560 align:start position:0%
+the new space based on context. A tight
+ 
+
+00:04:44.560 --> 00:04:46.550 align:start position:0%
+the new space based on context. A tight
+product<00:04:44.880><c> photo</c><00:04:45.280><c> becomes</c><00:04:45.600><c> a</c><00:04:45.759><c> wide</c><00:04:46.080><c> lifestyle</c>
+
+00:04:46.550 --> 00:04:46.560 align:start position:0%
+product photo becomes a wide lifestyle
+ 
+
+00:04:46.560 --> 00:04:49.430 align:start position:0%
+product photo becomes a wide lifestyle
+image.<00:04:47.440><c> A</c><00:04:47.680><c> head</c><00:04:47.919><c> shot</c><00:04:48.240><c> becomes</c><00:04:48.720><c> a</c><00:04:48.960><c> full</c><00:04:49.199><c> room</c>
+
+00:04:49.430 --> 00:04:49.440 align:start position:0%
+image. A head shot becomes a full room
+ 
+
+00:04:49.440 --> 00:04:51.749 align:start position:0%
+image. A head shot becomes a full room
+scene.<00:04:50.240><c> This</c><00:04:50.479><c> is</c><00:04:50.639><c> perfect</c><00:04:50.880><c> for</c><00:04:51.120><c> repurposing</c>
+
+00:04:51.749 --> 00:04:51.759 align:start position:0%
+scene. This is perfect for repurposing
+ 
+
+00:04:51.759 --> 00:04:53.909 align:start position:0%
+scene. This is perfect for repurposing
+content<00:04:52.080><c> across</c><00:04:52.400><c> platforms.</c><00:04:53.199><c> One</c><00:04:53.440><c> image,</c>
+
+00:04:53.909 --> 00:04:53.919 align:start position:0%
+content across platforms. One image,
+ 
+
+00:04:53.919 --> 00:04:56.629 align:start position:0%
+content across platforms. One image,
+multiple<00:04:54.320><c> formats,</c><00:04:55.199><c> no</c><00:04:55.440><c> re-shoots</c><00:04:56.000><c> needed.</c>
+
+00:04:56.629 --> 00:04:56.639 align:start position:0%
+multiple formats, no re-shoots needed.
+ 
+
+00:04:56.639 --> 00:04:59.270 align:start position:0%
+multiple formats, no re-shoots needed.
+The<00:04:56.960><c> fifth</c><00:04:57.440><c> is</c><00:04:57.759><c> natural</c><00:04:58.160><c> language</c><00:04:58.560><c> editing.</c>
+
+00:04:59.270 --> 00:04:59.280 align:start position:0%
+The fifth is natural language editing.
+ 
+
+00:04:59.280 --> 00:05:00.790 align:start position:0%
+The fifth is natural language editing.
+This<00:04:59.440><c> is</c><00:04:59.520><c> the</c><00:04:59.759><c> one</c><00:04:59.840><c> that</c><00:05:00.000><c> feels</c><00:05:00.240><c> most</c><00:05:00.479><c> like</c><00:05:00.639><c> the</c>
+
+00:05:00.790 --> 00:05:00.800 align:start position:0%
+This is the one that feels most like the
+ 
+
+00:05:00.800 --> 00:05:02.710 align:start position:0%
+This is the one that feels most like the
+future.<00:05:01.360><c> Instead</c><00:05:01.680><c> of</c><00:05:01.840><c> manually</c><00:05:02.240><c> adjusting</c>
+
+00:05:02.710 --> 00:05:02.720 align:start position:0%
+future. Instead of manually adjusting
+ 
+
+00:05:02.720 --> 00:05:04.390 align:start position:0%
+future. Instead of manually adjusting
+anything,<00:05:03.120><c> you</c><00:05:03.360><c> just</c><00:05:03.520><c> type</c><00:05:03.759><c> an</c><00:05:03.919><c> instruction</c>
+
+00:05:04.390 --> 00:05:04.400 align:start position:0%
+anything, you just type an instruction
+ 
+
+00:05:04.400 --> 00:05:06.710 align:start position:0%
+anything, you just type an instruction
+like<00:05:04.800><c> replace</c><00:05:05.040><c> a</c><00:05:05.280><c> desk</c><00:05:05.520><c> lamp</c><00:05:05.919><c> with</c><00:05:06.160><c> a</c><00:05:06.320><c> neon</c>
+
+00:05:06.710 --> 00:05:06.720 align:start position:0%
+like replace a desk lamp with a neon
+ 
+
+00:05:06.720 --> 00:05:08.629 align:start position:0%
+like replace a desk lamp with a neon
+sign<00:05:07.280><c> or</c><00:05:07.600><c> make</c><00:05:07.840><c> the</c><00:05:08.000><c> room</c><00:05:08.160><c> look</c><00:05:08.400><c> like</c><00:05:08.479><c> a</c>
+
+00:05:08.629 --> 00:05:08.639 align:start position:0%
+sign or make the room look like a
+ 
+
+00:05:08.639 --> 00:05:11.749 align:start position:0%
+sign or make the room look like a
+high-end<00:05:09.039><c> podcast</c><00:05:09.520><c> studio</c><00:05:10.320><c> or</c><00:05:10.880><c> add</c><00:05:11.280><c> snow</c>
+
+00:05:11.749 --> 00:05:11.759 align:start position:0%
+high-end podcast studio or add snow
+ 
+
+00:05:11.759 --> 00:05:14.230 align:start position:0%
+high-end podcast studio or add snow
+falling<00:05:12.160><c> outside</c><00:05:12.479><c> the</c><00:05:12.800><c> window.</c><00:05:13.600><c> The</c><00:05:13.840><c> AI</c>
+
+00:05:14.230 --> 00:05:14.240 align:start position:0%
+falling outside the window. The AI
+ 
+
+00:05:14.240 --> 00:05:16.150 align:start position:0%
+falling outside the window. The AI
+interprets<00:05:14.720><c> your</c><00:05:14.960><c> words</c><00:05:15.440><c> and</c><00:05:15.680><c> makes</c><00:05:15.919><c> it</c>
+
+00:05:16.150 --> 00:05:16.160 align:start position:0%
+interprets your words and makes it
+ 
+
+00:05:16.160 --> 00:05:18.310 align:start position:0%
+interprets your words and makes it
+happen.<00:05:16.720><c> For</c><00:05:16.960><c> the</c><00:05:17.039><c> AI</c><00:05:17.440><c> profit</c><00:05:17.759><c> boardroom,</c><00:05:18.160><c> I</c>
+
+00:05:18.310 --> 00:05:18.320 align:start position:0%
+happen. For the AI profit boardroom, I
+ 
+
+00:05:18.320 --> 00:05:20.710 align:start position:0%
+happen. For the AI profit boardroom, I
+once<00:05:18.560><c> typed,</c><00:05:19.120><c> "Make</c><00:05:19.520><c> this</c><00:05:19.759><c> feel</c><00:05:20.320><c> like</c><00:05:20.560><c> a</c>
+
+00:05:20.710 --> 00:05:20.720 align:start position:0%
+once typed, "Make this feel like a
+ 
+
+00:05:20.720 --> 00:05:23.189 align:start position:0%
+once typed, "Make this feel like a
+premium<00:05:21.199><c> online</c><00:05:21.759><c> business</c><00:05:22.160><c> community."</c><00:05:23.120><c> And</c>
+
+00:05:23.189 --> 00:05:23.199 align:start position:0%
+premium online business community." And
+ 
+
+00:05:23.199 --> 00:05:25.510 align:start position:0%
+premium online business community." And
+it<00:05:23.440><c> completely</c><00:05:23.919><c> relit</c><00:05:24.320><c> the</c><00:05:24.479><c> scene,</c><00:05:25.120><c> added</c>
+
+00:05:25.510 --> 00:05:25.520 align:start position:0%
+it completely relit the scene, added
+ 
+
+00:05:25.520 --> 00:05:27.590 align:start position:0%
+it completely relit the scene, added
+depth<00:05:25.919><c> here,</c><00:05:26.160><c> and</c><00:05:26.320><c> gave</c><00:05:26.560><c> the</c><00:05:26.720><c> whole</c><00:05:26.960><c> image</c><00:05:27.280><c> a</c>
+
+00:05:27.590 --> 00:05:27.600 align:start position:0%
+depth here, and gave the whole image a
+ 
+
+00:05:27.600 --> 00:05:29.830 align:start position:0%
+depth here, and gave the whole image a
+polished<00:05:28.080><c> high-end</c><00:05:28.560><c> feel</c><00:05:29.199><c> in</c><00:05:29.440><c> seconds.</c>
+
+00:05:29.830 --> 00:05:29.840 align:start position:0%
+polished high-end feel in seconds.
+ 
+
+00:05:29.840 --> 00:05:32.550 align:start position:0%
+polished high-end feel in seconds.
+Before<00:05:30.320><c> AI</c><00:05:30.720><c> tools</c><00:05:31.039><c> like</c><00:05:31.280><c> Craya,</c><00:05:32.080><c> creating</c>
+
+00:05:32.550 --> 00:05:32.560 align:start position:0%
+Before AI tools like Craya, creating
+ 
+
+00:05:32.560 --> 00:05:35.350 align:start position:0%
+Before AI tools like Craya, creating
+great<00:05:32.800><c> visuals</c><00:05:33.360><c> required</c><00:05:33.840><c> real</c><00:05:34.160><c> investment,</c>
+
+00:05:35.350 --> 00:05:35.360 align:start position:0%
+great visuals required real investment,
+ 
+
+00:05:35.360 --> 00:05:38.070 align:start position:0%
+great visuals required real investment,
+time,<00:05:35.919><c> design</c><00:05:36.320><c> skills,</c><00:05:37.039><c> or</c><00:05:37.199><c> a</c><00:05:37.440><c> budget</c><00:05:37.759><c> for</c><00:05:37.919><c> a</c>
+
+00:05:38.070 --> 00:05:38.080 align:start position:0%
+time, design skills, or a budget for a
+ 
+
+00:05:38.080 --> 00:05:40.870 align:start position:0%
+time, design skills, or a budget for a
+professional.<00:05:39.440><c> Most</c><00:05:39.680><c> small</c><00:05:40.000><c> teams</c><00:05:40.320><c> and</c><00:05:40.479><c> solo</c>
+
+00:05:40.870 --> 00:05:40.880 align:start position:0%
+professional. Most small teams and solo
+ 
+
+00:05:40.880 --> 00:05:42.870 align:start position:0%
+professional. Most small teams and solo
+creators<00:05:41.360><c> just</c><00:05:41.520><c> couldn't</c><00:05:41.840><c> compete</c><00:05:42.160><c> on</c><00:05:42.400><c> visual</c>
+
+00:05:42.870 --> 00:05:42.880 align:start position:0%
+creators just couldn't compete on visual
+ 
+
+00:05:42.880 --> 00:05:45.350 align:start position:0%
+creators just couldn't compete on visual
+quality.<00:05:43.759><c> That's</c><00:05:44.080><c> changed</c><00:05:44.400><c> now.</c><00:05:44.800><c> You</c><00:05:45.039><c> type,</c>
+
+00:05:45.350 --> 00:05:45.360 align:start position:0%
+quality. That's changed now. You type,
+ 
+
+00:05:45.360 --> 00:05:47.350 align:start position:0%
+quality. That's changed now. You type,
+you<00:05:45.520><c> click,</c><00:05:45.919><c> you</c><00:05:46.080><c> iterate,</c><00:05:46.800><c> and</c><00:05:47.039><c> because</c>
+
+00:05:47.350 --> 00:05:47.360 align:start position:0%
+you click, you iterate, and because
+ 
+
+00:05:47.360 --> 00:05:49.670 align:start position:0%
+you click, you iterate, and because
+Crayo<00:05:47.759><c> lets</c><00:05:48.000><c> you</c><00:05:48.160><c> edit</c><00:05:48.479><c> and</c><00:05:48.639><c> edit,</c><00:05:49.120><c> refine</c><00:05:49.440><c> a</c>
+
+00:05:49.670 --> 00:05:49.680 align:start position:0%
+Crayo lets you edit and edit, refine a
+ 
+
+00:05:49.680 --> 00:05:51.830 align:start position:0%
+Crayo lets you edit and edit, refine a
+refined<00:05:50.080><c> version,</c><00:05:50.800><c> your</c><00:05:51.039><c> creative</c><00:05:51.440><c> quality</c>
+
+00:05:51.830 --> 00:05:51.840 align:start position:0%
+refined version, your creative quality
+ 
+
+00:05:51.840 --> 00:05:53.749 align:start position:0%
+refined version, your creative quality
+keeps<00:05:52.160><c> improving</c><00:05:52.800><c> without</c><00:05:53.120><c> ever</c><00:05:53.440><c> starting</c>
+
+00:05:53.749 --> 00:05:53.759 align:start position:0%
+keeps improving without ever starting
+ 
+
+00:05:53.759 --> 00:05:55.830 align:start position:0%
+keeps improving without ever starting
+over<00:05:54.080><c> from</c><00:05:54.320><c> scratch.</c><00:05:55.120><c> You</c><00:05:55.360><c> can</c><00:05:55.520><c> produce</c>
+
+00:05:55.830 --> 00:05:55.840 align:start position:0%
+over from scratch. You can produce
+ 
+
+00:05:55.840 --> 00:05:58.070 align:start position:0%
+over from scratch. You can produce
+polished,<00:05:56.320><c> consistent</c><00:05:56.800><c> visuals</c><00:05:57.199><c> at</c><00:05:57.440><c> volume,</c>
+
+00:05:58.070 --> 00:05:58.080 align:start position:0%
+polished, consistent visuals at volume,
+ 
+
+00:05:58.080 --> 00:05:59.909 align:start position:0%
+polished, consistent visuals at volume,
+which<00:05:58.320><c> means</c><00:05:58.560><c> better</c><00:05:58.880><c> content</c><00:05:59.280><c> across</c><00:05:59.600><c> every</c>
+
+00:05:59.909 --> 00:05:59.919 align:start position:0%
+which means better content across every
+ 
+
+00:05:59.919 --> 00:06:01.590 align:start position:0%
+which means better content across every
+channel.<00:06:00.479><c> This</c><00:06:00.639><c> is</c><00:06:00.720><c> the</c><00:06:00.960><c> kind</c><00:06:01.039><c> of</c><00:06:01.199><c> leverage</c>
+
+00:06:01.590 --> 00:06:01.600 align:start position:0%
+channel. This is the kind of leverage
+ 
+
+00:06:01.600 --> 00:06:03.110 align:start position:0%
+channel. This is the kind of leverage
+that<00:06:01.840><c> makes</c><00:06:02.080><c> a</c><00:06:02.240><c> real</c><00:06:02.479><c> difference</c><00:06:02.720><c> when</c><00:06:02.960><c> you're</c>
+
+00:06:03.110 --> 00:06:03.120 align:start position:0%
+that makes a real difference when you're
+ 
+
+00:06:03.120 --> 00:06:05.909 align:start position:0%
+that makes a real difference when you're
+building<00:06:03.440><c> a</c><00:06:03.680><c> brand</c><00:06:04.319><c> or</c><00:06:04.639><c> growing</c><00:06:04.960><c> a</c><00:06:05.280><c> community.</c>
+
+00:06:05.909 --> 00:06:05.919 align:start position:0%
+building a brand or growing a community.
+ 
+
+00:06:05.919 --> 00:06:07.830 align:start position:0%
+building a brand or growing a community.
+And<00:06:06.080><c> it's</c><00:06:06.319><c> exactly</c><00:06:06.560><c> the</c><00:06:06.800><c> kind</c><00:06:06.880><c> of</c><00:06:07.039><c> AI</c><00:06:07.440><c> workflow</c>
+
+00:06:07.830 --> 00:06:07.840 align:start position:0%
+And it's exactly the kind of AI workflow
+ 
+
+00:06:07.840 --> 00:06:09.670 align:start position:0%
+And it's exactly the kind of AI workflow
+we<00:06:08.080><c> talk</c><00:06:08.240><c> about</c><00:06:08.400><c> inside</c><00:06:08.720><c> the</c><00:06:08.960><c> AI</c><00:06:09.360><c> profit</c>
+
+00:06:09.670 --> 00:06:09.680 align:start position:0%
+we talk about inside the AI profit
+ 
+
+00:06:09.680 --> 00:06:12.469 align:start position:0%
+we talk about inside the AI profit
+boardroom.<00:06:10.400><c> Real</c><00:06:10.720><c> tools,</c><00:06:11.360><c> real</c><00:06:11.600><c> use</c><00:06:11.840><c> cases,</c>
+
+00:06:12.469 --> 00:06:12.479 align:start position:0%
+boardroom. Real tools, real use cases,
+ 
+
+00:06:12.479 --> 00:06:14.790 align:start position:0%
+boardroom. Real tools, real use cases,
+and<00:06:12.720><c> real</c><00:06:12.960><c> systems</c><00:06:13.360><c> for</c><00:06:13.600><c> building</c><00:06:14.160><c> smarter.</c>
+
+00:06:14.790 --> 00:06:14.800 align:start position:0%
+and real systems for building smarter.
+ 
+
+00:06:14.800 --> 00:06:16.550 align:start position:0%
+and real systems for building smarter.
+Crea<00:06:15.199><c> isn't</c><00:06:15.440><c> just</c><00:06:15.600><c> an</c><00:06:15.759><c> editor.</c><00:06:16.160><c> It's</c><00:06:16.400><c> part</c><00:06:16.479><c> of</c>
+
+00:06:16.550 --> 00:06:16.560 align:start position:0%
+Crea isn't just an editor. It's part of
+ 
+
+00:06:16.560 --> 00:06:18.950 align:start position:0%
+Crea isn't just an editor. It's part of
+a<00:06:16.800><c> full</c><00:06:17.120><c> creative</c><00:06:17.600><c> system.</c><00:06:18.319><c> The</c><00:06:18.479><c> real-time</c>
+
+00:06:18.950 --> 00:06:18.960 align:start position:0%
+a full creative system. The real-time
+ 
+
+00:06:18.960 --> 00:06:20.950 align:start position:0%
+a full creative system. The real-time
+generation<00:06:19.520><c> tool</c><00:06:20.080><c> lets</c><00:06:20.319><c> you</c><00:06:20.479><c> watch</c><00:06:20.720><c> your</c>
+
+00:06:20.950 --> 00:06:20.960 align:start position:0%
+generation tool lets you watch your
+ 
+
+00:06:20.960 --> 00:06:23.430 align:start position:0%
+generation tool lets you watch your
+image<00:06:21.280><c> evolve</c><00:06:21.759><c> live</c><00:06:22.000><c> as</c><00:06:22.240><c> you</c><00:06:22.400><c> type</c><00:06:22.720><c> prompts.</c>
+
+00:06:23.430 --> 00:06:23.440 align:start position:0%
+image evolve live as you type prompts.
+ 
+
+00:06:23.440 --> 00:06:24.950 align:start position:0%
+image evolve live as you type prompts.
+Great<00:06:23.680><c> for</c><00:06:23.919><c> brainstorming</c><00:06:24.560><c> visual</c>
+
+00:06:24.950 --> 00:06:24.960 align:start position:0%
+Great for brainstorming visual
+ 
+
+00:06:24.960 --> 00:06:26.950 align:start position:0%
+Great for brainstorming visual
+directions<00:06:25.520><c> before</c><00:06:25.840><c> committing</c><00:06:26.160><c> to</c><00:06:26.319><c> an</c><00:06:26.479><c> edit.</c>
+
+00:06:26.950 --> 00:06:26.960 align:start position:0%
+directions before committing to an edit.
+ 
+
+00:06:26.960 --> 00:06:28.870 align:start position:0%
+directions before committing to an edit.
+The<00:06:27.120><c> enhancer</c><00:06:27.600><c> upscales</c><00:06:28.160><c> your</c><00:06:28.319><c> final</c><00:06:28.639><c> image</c>
+
+00:06:28.870 --> 00:06:28.880 align:start position:0%
+The enhancer upscales your final image
+ 
+
+00:06:28.880 --> 00:06:30.950 align:start position:0%
+The enhancer upscales your final image
+to<00:06:29.120><c> professional</c><00:06:29.600><c> quality.</c><00:06:30.319><c> Use</c><00:06:30.560><c> this</c><00:06:30.720><c> for</c>
+
+00:06:30.950 --> 00:06:30.960 align:start position:0%
+to professional quality. Use this for
+ 
+
+00:06:30.960 --> 00:06:33.110 align:start position:0%
+to professional quality. Use this for
+anything<00:06:31.199><c> going</c><00:06:31.440><c> on</c><00:06:31.600><c> a</c><00:06:31.759><c> landing</c><00:06:32.080><c> page</c><00:06:32.560><c> or</c><00:06:32.800><c> paid</c>
+
+00:06:33.110 --> 00:06:33.120 align:start position:0%
+anything going on a landing page or paid
+ 
+
+00:06:33.120 --> 00:06:35.510 align:start position:0%
+anything going on a landing page or paid
+ad.<00:06:33.680><c> And</c><00:06:33.840><c> the</c><00:06:34.000><c> video</c><00:06:34.319><c> tool</c><00:06:34.800><c> lets</c><00:06:35.039><c> you</c><00:06:35.199><c> animate</c>
+
+00:06:35.510 --> 00:06:35.520 align:start position:0%
+ad. And the video tool lets you animate
+ 
+
+00:06:35.520 --> 00:06:37.990 align:start position:0%
+ad. And the video tool lets you animate
+your<00:06:35.759><c> edited</c><00:06:36.240><c> image</c><00:06:36.720><c> into</c><00:06:37.039><c> a</c><00:06:37.199><c> short</c><00:06:37.440><c> clip.</c>
+
+00:06:37.990 --> 00:06:38.000 align:start position:0%
+your edited image into a short clip.
+ 
+
+00:06:38.000 --> 00:06:40.629 align:start position:0%
+your edited image into a short clip.
+Perfect<00:06:38.319><c> for</c><00:06:38.560><c> social</c><00:06:38.880><c> reels,</c><00:06:39.600><c> YouTube</c><00:06:40.000><c> shorts</c>
+
+00:06:40.629 --> 00:06:40.639 align:start position:0%
+Perfect for social reels, YouTube shorts
+ 
+
+00:06:40.639 --> 00:06:42.550 align:start position:0%
+Perfect for social reels, YouTube shorts
+or<00:06:40.880><c> animated</c><00:06:41.360><c> thumbnails.</c><00:06:42.160><c> The</c><00:06:42.400><c> best</c>
+
+00:06:42.550 --> 00:06:42.560 align:start position:0%
+or animated thumbnails. The best
+ 
+
+00:06:42.560 --> 00:06:44.550 align:start position:0%
+or animated thumbnails. The best
+workflow<00:06:42.960><c> is</c><00:06:43.199><c> generate</c><00:06:43.600><c> with</c><00:06:43.759><c> real</c><00:06:44.080><c> time,</c>
+
+00:06:44.550 --> 00:06:44.560 align:start position:0%
+workflow is generate with real time,
+ 
+
+00:06:44.560 --> 00:06:46.469 align:start position:0%
+workflow is generate with real time,
+edit<00:06:44.880><c> with</c><00:06:45.039><c> creator</c><00:06:45.360><c> edit,</c><00:06:45.919><c> polish</c><00:06:46.319><c> with</c>
+
+00:06:46.469 --> 00:06:46.479 align:start position:0%
+edit with creator edit, polish with
+ 
+
+00:06:46.479 --> 00:06:48.629 align:start position:0%
+edit with creator edit, polish with
+enhancer,<00:06:47.360><c> animate</c><00:06:47.759><c> with</c><00:06:47.919><c> video.</c><00:06:48.319><c> Four</c>
+
+00:06:48.629 --> 00:06:48.639 align:start position:0%
+enhancer, animate with video. Four
+ 
+
+00:06:48.639 --> 00:06:51.189 align:start position:0%
+enhancer, animate with video. Four
+tools.<00:06:49.360><c> One</c><00:06:49.600><c> platform,</c><00:06:50.240><c> one</c><00:06:50.560><c> cohesive</c>
+
+00:06:51.189 --> 00:06:51.199 align:start position:0%
+tools. One platform, one cohesive
+ 
+
+00:06:51.199 --> 00:06:54.070 align:start position:0%
+tools. One platform, one cohesive
+creative<00:06:51.680><c> output.</c><00:06:52.560><c> Craya</c><00:06:53.039><c> AI</c><00:06:53.440><c> is</c><00:06:53.680><c> one</c><00:06:53.759><c> of</c><00:06:53.840><c> the</c>
+
+00:06:54.070 --> 00:06:54.080 align:start position:0%
+creative output. Craya AI is one of the
+ 
+
+00:06:54.080 --> 00:06:56.309 align:start position:0%
+creative output. Craya AI is one of the
+most<00:06:54.240><c> powerful</c><00:06:54.720><c> creative</c><00:06:55.199><c> tools</c><00:06:55.680><c> available</c>
+
+00:06:56.309 --> 00:06:56.319 align:start position:0%
+most powerful creative tools available
+ 
+
+00:06:56.319 --> 00:06:58.070 align:start position:0%
+most powerful creative tools available
+right<00:06:56.639><c> now.</c><00:06:57.199><c> If</c><00:06:57.360><c> you're</c><00:06:57.600><c> building</c><00:06:57.759><c> a</c>
+
+00:06:58.070 --> 00:06:58.080 align:start position:0%
+right now. If you're building a
+ 
+
+00:06:58.080 --> 00:07:00.550 align:start position:0%
+right now. If you're building a
+business,<00:06:58.560><c> creating</c><00:06:58.960><c> content,</c><00:06:59.520><c> running</c><00:06:59.840><c> ads,</c>
+
+00:07:00.550 --> 00:07:00.560 align:start position:0%
+business, creating content, running ads,
+ 
+
+00:07:00.560 --> 00:07:02.790 align:start position:0%
+business, creating content, running ads,
+or<00:07:00.880><c> growing</c><00:07:01.199><c> any</c><00:07:01.440><c> kind</c><00:07:01.599><c> of</c><00:07:01.680><c> online</c><00:07:02.080><c> presence,</c>
+
+00:07:02.790 --> 00:07:02.800 align:start position:0%
+or growing any kind of online presence,
+ 
+
+00:07:02.800 --> 00:07:04.950 align:start position:0%
+or growing any kind of online presence,
+you<00:07:03.039><c> should</c><00:07:03.199><c> be</c><00:07:03.360><c> using</c><00:07:03.520><c> this.</c><00:07:03.759><c> Go</c><00:07:03.919><c> to</c><00:07:04.000><c> core.ai.</c>
+
+00:07:04.950 --> 00:07:04.960 align:start position:0%
+you should be using this. Go to core.ai.
+ 
+
+00:07:04.960 --> 00:07:07.110 align:start position:0%
+you should be using this. Go to core.ai.
+Start<00:07:05.120><c> with</c><00:07:05.199><c> the</c><00:07:05.440><c> free</c><00:07:05.599><c> plan</c><00:07:06.160><c> and</c><00:07:06.400><c> try</c><00:07:06.800><c> career</c>
+
+00:07:07.110 --> 00:07:07.120 align:start position:0%
+Start with the free plan and try career
+ 
+
+00:07:07.120 --> 00:07:09.909 align:start position:0%
+Start with the free plan and try career
+edit<00:07:07.520><c> first.</c><00:07:08.160><c> Upload</c><00:07:08.560><c> any</c><00:07:08.880><c> image.</c><00:07:09.440><c> Select</c><00:07:09.680><c> a</c>
+
+00:07:09.909 --> 00:07:09.919 align:start position:0%
+edit first. Upload any image. Select a
+ 
+
+00:07:09.919 --> 00:07:11.990 align:start position:0%
+edit first. Upload any image. Select a
+section.<00:07:10.560><c> Type</c><00:07:10.800><c> a</c><00:07:10.960><c> prompt.</c><00:07:11.599><c> See</c><00:07:11.759><c> what</c>
+
+00:07:11.990 --> 00:07:12.000 align:start position:0%
+section. Type a prompt. See what
+ 
+
+00:07:12.000 --> 00:07:13.749 align:start position:0%
+section. Type a prompt. See what
+happens.<00:07:12.560><c> You'll</c><00:07:12.880><c> immediately</c><00:07:13.360><c> understand</c>
+
+00:07:13.749 --> 00:07:13.759 align:start position:0%
+happens. You'll immediately understand
+ 
+
+00:07:13.759 --> 00:07:15.589 align:start position:0%
+happens. You'll immediately understand
+why<00:07:14.000><c> this</c><00:07:14.240><c> is</c><00:07:14.319><c> a</c><00:07:14.479><c> game</c><00:07:14.720><c> changer.</c><00:07:15.120><c> Now,</c><00:07:15.360><c> before</c>
+
+00:07:15.589 --> 00:07:15.599 align:start position:0%
+why this is a game changer. Now, before
+ 
+
+00:07:15.599 --> 00:07:18.150 align:start position:0%
+why this is a game changer. Now, before
+you<00:07:15.759><c> go,</c><00:07:16.160><c> two</c><00:07:16.400><c> things.</c><00:07:17.039><c> First,</c><00:07:17.680><c> if</c><00:07:17.919><c> you</c><00:07:18.080><c> want</c>
+
+00:07:18.150 --> 00:07:18.160 align:start position:0%
+you go, two things. First, if you want
+ 
+
+00:07:18.160 --> 00:07:20.550 align:start position:0%
+you go, two things. First, if you want
+the<00:07:18.400><c> full</c><00:07:18.639><c> system</c><00:07:19.280><c> for</c><00:07:19.520><c> using</c><00:07:19.759><c> AI</c><00:07:20.160><c> tools</c><00:07:20.400><c> like</c>
+
+00:07:20.550 --> 00:07:20.560 align:start position:0%
+the full system for using AI tools like
+ 
+
+00:07:20.560 --> 00:07:22.790 align:start position:0%
+the full system for using AI tools like
+Crea<00:07:21.039><c> inside</c><00:07:21.360><c> a</c><00:07:21.599><c> real</c><00:07:21.840><c> business</c><00:07:22.160><c> workflow</c>
+
+00:07:22.790 --> 00:07:22.800 align:start position:0%
+Crea inside a real business workflow
+ 
+
+00:07:22.800 --> 00:07:25.189 align:start position:0%
+Crea inside a real business workflow
+with<00:07:23.199><c> SOPs,</c><00:07:23.840><c> templates,</c><00:07:24.319><c> and</c><00:07:24.560><c> a</c><00:07:24.720><c> community</c><00:07:25.039><c> of</c>
+
+00:07:25.189 --> 00:07:25.199 align:start position:0%
+with SOPs, templates, and a community of
+ 
+
+00:07:25.199 --> 00:07:27.189 align:start position:0%
+with SOPs, templates, and a community of
+business<00:07:25.520><c> owners</c><00:07:25.919><c> doing</c><00:07:26.080><c> the</c><00:07:26.240><c> same,</c><00:07:26.800><c> join</c><00:07:27.039><c> the</c>
+
+00:07:27.189 --> 00:07:27.199 align:start position:0%
+business owners doing the same, join the
+ 
+
+00:07:27.199 --> 00:07:29.589 align:start position:0%
+business owners doing the same, join the
+AI<00:07:27.599><c> profit</c><00:07:28.000><c> boardroom.</c><00:07:28.560><c> No</c><00:07:28.800><c> fluff,</c><00:07:29.440><c> no</c>
+
+00:07:29.589 --> 00:07:29.599 align:start position:0%
+AI profit boardroom. No fluff, no
+ 
+
+00:07:29.599 --> 00:07:32.070 align:start position:0%
+AI profit boardroom. No fluff, no
+theory,<00:07:30.240><c> just</c><00:07:30.479><c> practical</c><00:07:30.960><c> AI</c><00:07:31.440><c> systems</c><00:07:31.759><c> that</c>
+
+00:07:32.070 --> 00:07:32.080 align:start position:0%
+theory, just practical AI systems that
+ 
+
+00:07:32.080 --> 00:07:33.909 align:start position:0%
+theory, just practical AI systems that
+help<00:07:32.240><c> you</c><00:07:32.400><c> work</c><00:07:32.639><c> smarter.</c><00:07:33.120><c> Link</c><00:07:33.360><c> is</c><00:07:33.520><c> in</c><00:07:33.680><c> the</c>
+
+00:07:33.909 --> 00:07:33.919 align:start position:0%
+help you work smarter. Link is in the
+ 
+
+00:07:33.919 --> 00:07:36.390 align:start position:0%
+help you work smarter. Link is in the
+description.<00:07:34.639><c> Second,</c><00:07:35.039><c> if</c><00:07:35.280><c> you</c><00:07:35.440><c> want</c><00:07:35.680><c> free</c><00:07:36.000><c> AI</c>
+
+00:07:36.390 --> 00:07:36.400 align:start position:0%
+description. Second, if you want free AI
+ 
+
+00:07:36.400 --> 00:07:38.790 align:start position:0%
+description. Second, if you want free AI
+training<00:07:36.800><c> and</c><00:07:37.120><c> access</c><00:07:37.360><c> to</c><00:07:37.599><c> 100</c><00:07:37.919><c> plus</c><00:07:38.160><c> AI</c><00:07:38.560><c> use</c>
+
+00:07:38.790 --> 00:07:38.800 align:start position:0%
+training and access to 100 plus AI use
+ 
+
+00:07:38.800 --> 00:07:41.189 align:start position:0%
+training and access to 100 plus AI use
+cases<00:07:39.199><c> just</c><00:07:39.440><c> like</c><00:07:39.680><c> this</c><00:07:39.840><c> one,</c><00:07:40.319><c> join</c><00:07:40.560><c> the</c><00:07:40.800><c> AI</c>
+
+00:07:41.189 --> 00:07:41.199 align:start position:0%
+cases just like this one, join the AI
+ 
+
+00:07:41.199 --> 00:07:43.510 align:start position:0%
+cases just like this one, join the AI
+success<00:07:41.599><c> lab.</c><00:07:41.919><c> It's</c><00:07:42.160><c> completely</c><00:07:42.639><c> free.</c><00:07:43.199><c> Over</c>
+
+00:07:43.510 --> 00:07:43.520 align:start position:0%
+success lab. It's completely free. Over
+ 
+
+00:07:43.520 --> 00:07:45.589 align:start position:0%
+success lab. It's completely free. Over
+40,000<00:07:44.240><c> members</c><00:07:44.560><c> already</c><00:07:44.880><c> inside.</c><00:07:45.360><c> You'll</c>
+
+00:07:45.589 --> 00:07:45.599 align:start position:0%
+40,000 members already inside. You'll
+ 
+
+00:07:45.599 --> 00:07:47.510 align:start position:0%
+40,000 members already inside. You'll
+get<00:07:45.759><c> the</c><00:07:46.000><c> video</c><00:07:46.319><c> notes</c><00:07:46.639><c> from</c><00:07:46.800><c> this</c><00:07:47.039><c> video</c><00:07:47.199><c> and</c>
+
+00:07:47.510 --> 00:07:47.520 align:start position:0%
+get the video notes from this video and
+ 
+
+00:07:47.520 --> 00:07:50.070 align:start position:0%
+get the video notes from this video and
+every<00:07:47.759><c> other</c><00:07:48.000><c> video</c><00:07:48.240><c> we</c><00:07:48.479><c> post,</c><00:07:49.039><c> plus</c><00:07:49.440><c> access</c>
+
+00:07:50.070 --> 00:07:50.080 align:start position:0%
+every other video we post, plus access
+ 
+
+00:07:50.080 --> 00:07:51.830 align:start position:0%
+every other video we post, plus access
+to<00:07:50.400><c> a</c><00:07:50.720><c> community</c><00:07:51.039><c> of</c><00:07:51.280><c> people</c><00:07:51.440><c> who</c><00:07:51.680><c> are</c>
+
+00:07:51.830 --> 00:07:51.840 align:start position:0%
+to a community of people who are
+ 
+
+00:07:51.840 --> 00:07:54.790 align:start position:0%
+to a community of people who are
+genuinely<00:07:52.400><c> crushing</c><00:07:52.720><c> it</c><00:07:53.120><c> with</c><00:07:53.440><c> AI.</c><00:07:54.000><c> Links</c><00:07:54.560><c> are</c>
+
+00:07:54.790 --> 00:07:54.800 align:start position:0%
+genuinely crushing it with AI. Links are
+ 
+
+00:07:54.800 --> 00:07:56.710 align:start position:0%
+genuinely crushing it with AI. Links are
+in<00:07:54.879><c> the</c><00:07:55.039><c> comments</c><00:07:55.360><c> and</c><00:07:55.599><c> description.</c><00:07:56.319><c> Drop</c><00:07:56.560><c> a</c>
+
+00:07:56.710 --> 00:07:56.720 align:start position:0%
+in the comments and description. Drop a
+ 
+
+00:07:56.720 --> 00:07:58.869 align:start position:0%
+in the comments and description. Drop a
+comment<00:07:56.960><c> below</c><00:07:57.280><c> and</c><00:07:57.520><c> tell</c><00:07:57.680><c> me</c><00:07:58.400><c> what</c><00:07:58.560><c> would</c><00:07:58.720><c> you</c>
+
+00:07:58.869 --> 00:07:58.879 align:start position:0%
+comment below and tell me what would you
+ 
+
+00:07:58.879 --> 00:08:01.189 align:start position:0%
+comment below and tell me what would you
+use<00:07:59.039><c> Cray</c><00:07:59.440><c> AI</c><00:07:59.680><c> for</c><00:07:59.919><c> first.</c><00:08:00.479><c> Julian</c><00:08:00.879><c> reads</c>
+
+00:08:01.189 --> 00:08:01.199 align:start position:0%
+use Cray AI for first. Julian reads
+ 
+
+00:08:01.199 --> 00:08:02.629 align:start position:0%
+use Cray AI for first. Julian reads
+every<00:08:01.360><c> single</c><00:08:01.599><c> comment.</c><00:08:02.080><c> See</c><00:08:02.240><c> you</c><00:08:02.400><c> in</c><00:08:02.560><c> the</c>
+
+00:08:02.629 --> 00:08:02.639 align:start position:0%
+every single comment. See you in the
+ 
+
+00:08:02.639 --> 00:08:05.120 align:start position:0%
+every single comment. See you in the
+next<00:08:02.800><c> one.</c>
+

@@ -1,0 +1,1824 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:01.829 align:start position:0%
+ 
+Google<00:00:00.640><c> just</c><00:00:00.880><c> dropped</c><00:00:01.199><c> something</c><00:00:01.439><c> that</c><00:00:01.680><c> makes</c>
+
+00:00:01.829 --> 00:00:01.839 align:start position:0%
+Google just dropped something that makes
+ 
+
+00:00:01.839 --> 00:00:03.830 align:start position:0%
+Google just dropped something that makes
+every<00:00:02.080><c> other</c><00:00:02.320><c> AI</c><00:00:02.720><c> coding</c><00:00:03.040><c> tool</c><00:00:03.600><c> look</c>
+
+00:00:03.830 --> 00:00:03.840 align:start position:0%
+every other AI coding tool look
+ 
+
+00:00:03.840 --> 00:00:05.670 align:start position:0%
+every other AI coding tool look
+completely<00:00:04.400><c> outdated.</c><00:00:05.120><c> It's</c><00:00:05.359><c> called</c>
+
+00:00:05.670 --> 00:00:05.680 align:start position:0%
+completely outdated. It's called
+ 
+
+00:00:05.680 --> 00:00:08.150 align:start position:0%
+completely outdated. It's called
+anti-gravity.<00:00:06.960><c> And</c><00:00:07.120><c> this</c><00:00:07.279><c> isn't</c><00:00:07.600><c> just</c><00:00:07.759><c> a</c><00:00:08.000><c> new</c>
+
+00:00:08.150 --> 00:00:08.160 align:start position:0%
+anti-gravity. And this isn't just a new
+ 
+
+00:00:08.160 --> 00:00:10.709 align:start position:0%
+anti-gravity. And this isn't just a new
+feature<00:00:08.639><c> or</c><00:00:08.960><c> a</c><00:00:09.120><c> small</c><00:00:09.440><c> update.</c><00:00:10.240><c> This</c><00:00:10.400><c> is</c><00:00:10.559><c> a</c>
+
+00:00:10.709 --> 00:00:10.719 align:start position:0%
+feature or a small update. This is a
+ 
+
+00:00:10.719 --> 00:00:12.230 align:start position:0%
+feature or a small update. This is a
+completely<00:00:11.200><c> different</c><00:00:11.440><c> way</c><00:00:11.599><c> of</c><00:00:11.759><c> working</c><00:00:12.000><c> with</c>
+
+00:00:12.230 --> 00:00:12.240 align:start position:0%
+completely different way of working with
+ 
+
+00:00:12.240 --> 00:00:14.789 align:start position:0%
+completely different way of working with
+AI.<00:00:12.800><c> Most</c><00:00:13.040><c> tools</c><00:00:13.599><c> make</c><00:00:13.759><c> you</c><00:00:13.920><c> wait,</c><00:00:14.400><c> you</c><00:00:14.639><c> write</c>
+
+00:00:14.789 --> 00:00:14.799 align:start position:0%
+AI. Most tools make you wait, you write
+ 
+
+00:00:14.799 --> 00:00:16.950 align:start position:0%
+AI. Most tools make you wait, you write
+a<00:00:14.960><c> prompt,</c><00:00:15.519><c> you</c><00:00:15.759><c> stare</c><00:00:16.000><c> at</c><00:00:16.080><c> the</c><00:00:16.320><c> screen,</c><00:00:16.800><c> you</c>
+
+00:00:16.950 --> 00:00:16.960 align:start position:0%
+a prompt, you stare at the screen, you
+ 
+
+00:00:16.960 --> 00:00:19.109 align:start position:0%
+a prompt, you stare at the screen, you
+wait<00:00:17.199><c> for</c><00:00:17.279><c> the</c><00:00:17.520><c> result,</c><00:00:18.000><c> you</c><00:00:18.160><c> give</c><00:00:18.400><c> feedback,</c>
+
+00:00:19.109 --> 00:00:19.119 align:start position:0%
+wait for the result, you give feedback,
+ 
+
+00:00:19.119 --> 00:00:21.510 align:start position:0%
+wait for the result, you give feedback,
+you<00:00:19.359><c> wait</c><00:00:19.600><c> again.</c><00:00:20.240><c> That</c><00:00:20.400><c> loop</c><00:00:20.720><c> is</c><00:00:20.880><c> exhausting</c>
+
+00:00:21.510 --> 00:00:21.520 align:start position:0%
+you wait again. That loop is exhausting
+ 
+
+00:00:21.520 --> 00:00:24.310 align:start position:0%
+you wait again. That loop is exhausting
+and<00:00:21.760><c> it's</c><00:00:22.000><c> slow.</c><00:00:22.640><c> That</c><00:00:22.880><c> loop</c><00:00:23.199><c> is</c><00:00:23.439><c> now</c><00:00:23.680><c> dead.</c>
+
+00:00:24.310 --> 00:00:24.320 align:start position:0%
+and it's slow. That loop is now dead.
+ 
+
+00:00:24.320 --> 00:00:26.870 align:start position:0%
+and it's slow. That loop is now dead.
+Google<00:00:24.720><c> Anti-gravity</c><00:00:25.519><c> just</c><00:00:25.840><c> introduced</c><00:00:26.480><c> AI</c>
+
+00:00:26.870 --> 00:00:26.880 align:start position:0%
+Google Anti-gravity just introduced AI
+ 
+
+00:00:26.880 --> 00:00:28.630 align:start position:0%
+Google Anti-gravity just introduced AI
+agents<00:00:27.279><c> that</c><00:00:27.519><c> keep</c><00:00:27.760><c> working</c><00:00:28.080><c> while</c><00:00:28.320><c> you</c><00:00:28.480><c> give</c>
+
+00:00:28.630 --> 00:00:28.640 align:start position:0%
+agents that keep working while you give
+ 
+
+00:00:28.640 --> 00:00:30.550 align:start position:0%
+agents that keep working while you give
+feedback<00:00:29.039><c> in</c><00:00:29.279><c> real</c><00:00:29.519><c> time.</c><00:00:29.920><c> You</c><00:00:30.160><c> don't</c><00:00:30.240><c> pause</c>
+
+00:00:30.550 --> 00:00:30.560 align:start position:0%
+feedback in real time. You don't pause
+ 
+
+00:00:30.560 --> 00:00:32.069 align:start position:0%
+feedback in real time. You don't pause
+them,<00:00:30.800><c> you</c><00:00:30.960><c> don't</c><00:00:31.119><c> restart</c><00:00:31.519><c> them,</c><00:00:31.760><c> you</c><00:00:31.920><c> don't</c>
+
+00:00:32.069 --> 00:00:32.079 align:start position:0%
+them, you don't restart them, you don't
+ 
+
+00:00:32.079 --> 00:00:34.389 align:start position:0%
+them, you don't restart them, you don't
+lose<00:00:32.320><c> any</c><00:00:32.559><c> progress.</c><00:00:33.280><c> You</c><00:00:33.440><c> just</c><00:00:33.680><c> steer</c><00:00:34.000><c> them</c>
+
+00:00:34.389 --> 00:00:34.399 align:start position:0%
+lose any progress. You just steer them
+ 
+
+00:00:34.399 --> 00:00:37.750 align:start position:0%
+lose any progress. You just steer them
+midbuild<00:00:35.440><c> and</c><00:00:35.680><c> they</c><00:00:35.840><c> adapt</c><00:00:36.399><c> instantly.</c><00:00:37.520><c> It's</c>
+
+00:00:37.750 --> 00:00:37.760 align:start position:0%
+midbuild and they adapt instantly. It's
+ 
+
+00:00:37.760 --> 00:00:40.150 align:start position:0%
+midbuild and they adapt instantly. It's
+like<00:00:38.000><c> texting</c><00:00:38.480><c> notes</c><00:00:38.800><c> to</c><00:00:38.960><c> a</c><00:00:39.200><c> developer</c><00:00:39.840><c> while</c>
+
+00:00:40.150 --> 00:00:40.160 align:start position:0%
+like texting notes to a developer while
+ 
+
+00:00:40.160 --> 00:00:41.910 align:start position:0%
+like texting notes to a developer while
+they're<00:00:40.399><c> actively</c><00:00:40.879><c> coding</c><00:00:41.200><c> and</c><00:00:41.440><c> watching</c><00:00:41.760><c> the</c>
+
+00:00:41.910 --> 00:00:41.920 align:start position:0%
+they're actively coding and watching the
+ 
+
+00:00:41.920 --> 00:00:44.069 align:start position:0%
+they're actively coding and watching the
+changes<00:00:42.239><c> appear</c><00:00:42.640><c> live</c><00:00:42.879><c> in</c><00:00:43.120><c> front</c><00:00:43.200><c> of</c><00:00:43.360><c> you.</c><00:00:43.920><c> And</c>
+
+00:00:44.069 --> 00:00:44.079 align:start position:0%
+changes appear live in front of you. And
+ 
+
+00:00:44.079 --> 00:00:46.389 align:start position:0%
+changes appear live in front of you. And
+the<00:00:44.239><c> wildest</c><00:00:44.640><c> part,</c><00:00:44.879><c> the</c><00:00:45.040><c> agent</c><00:00:45.520><c> never</c><00:00:45.840><c> stops.</c>
+
+00:00:46.389 --> 00:00:46.399 align:start position:0%
+the wildest part, the agent never stops.
+ 
+
+00:00:46.399 --> 00:00:48.709 align:start position:0%
+the wildest part, the agent never stops.
+It<00:00:46.640><c> just</c><00:00:46.800><c> keeps</c><00:00:47.039><c> going</c><00:00:47.360><c> the</c><00:00:47.600><c> whole</c><00:00:47.760><c> time.</c><00:00:48.399><c> This</c>
+
+00:00:48.709 --> 00:00:48.719 align:start position:0%
+It just keeps going the whole time. This
+ 
+
+00:00:48.719 --> 00:00:51.670 align:start position:0%
+It just keeps going the whole time. This
+is<00:00:48.800><c> the</c><00:00:49.039><c> beginning</c><00:00:49.440><c> of</c><00:00:50.079><c> AI</c><00:00:50.559><c> employees,</c><00:00:51.200><c> not</c><00:00:51.360><c> AI</c>
+
+00:00:51.670 --> 00:00:51.680 align:start position:0%
+is the beginning of AI employees, not AI
+ 
+
+00:00:51.680 --> 00:00:54.229 align:start position:0%
+is the beginning of AI employees, not AI
+assistants,<00:00:52.239><c> not</c><00:00:52.480><c> AI</c><00:00:52.879><c> suggestions.</c><00:00:53.840><c> Actual</c>
+
+00:00:54.229 --> 00:00:54.239 align:start position:0%
+assistants, not AI suggestions. Actual
+ 
+
+00:00:54.239 --> 00:00:56.229 align:start position:0%
+assistants, not AI suggestions. Actual
+AI<00:00:54.640><c> employees</c><00:00:55.039><c> that</c><00:00:55.199><c> you</c><00:00:55.440><c> manage,</c><00:00:55.760><c> delegate</c>
+
+00:00:56.229 --> 00:00:56.239 align:start position:0%
+AI employees that you manage, delegate
+ 
+
+00:00:56.239 --> 00:00:58.950 align:start position:0%
+AI employees that you manage, delegate
+to,<00:00:56.800><c> and</c><00:00:57.120><c> direct.</c><00:00:57.840><c> Today,</c><00:00:58.160><c> I'm</c><00:00:58.399><c> breaking</c><00:00:58.719><c> down</c>
+
+00:00:58.950 --> 00:00:58.960 align:start position:0%
+to, and direct. Today, I'm breaking down
+ 
+
+00:00:58.960 --> 00:01:01.189 align:start position:0%
+to, and direct. Today, I'm breaking down
+exactly<00:00:59.359><c> how</c><00:00:59.600><c> it</c><00:00:59.760><c> works,</c><00:01:00.239><c> what's</c><00:01:00.559><c> new</c><00:01:00.800><c> in</c><00:01:01.039><c> the</c>
+
+00:01:01.189 --> 00:01:01.199 align:start position:0%
+exactly how it works, what's new in the
+ 
+
+00:01:01.199 --> 00:01:03.830 align:start position:0%
+exactly how it works, what's new in the
+March<00:01:01.600><c> 2026</c><00:01:02.399><c> update,</c><00:01:02.960><c> and</c><00:01:03.199><c> how</c><00:01:03.440><c> to</c><00:01:03.600><c> actually</c>
+
+00:01:03.830 --> 00:01:03.840 align:start position:0%
+March 2026 update, and how to actually
+ 
+
+00:01:03.840 --> 00:01:06.469 align:start position:0%
+March 2026 update, and how to actually
+use<00:01:04.000><c> it</c><00:01:04.159><c> to</c><00:01:04.400><c> grow</c><00:01:04.559><c> a</c><00:01:04.799><c> real</c><00:01:05.040><c> business.</c><00:01:05.680><c> Hey,</c><00:01:06.320><c> if</c>
+
+00:01:06.469 --> 00:01:06.479 align:start position:0%
+use it to grow a real business. Hey, if
+ 
+
+00:01:06.479 --> 00:01:08.630 align:start position:0%
+use it to grow a real business. Hey, if
+we<00:01:06.720><c> haven't</c><00:01:06.880><c> met</c><00:01:07.119><c> already,</c><00:01:07.760><c> I'm</c><00:01:08.000><c> the</c><00:01:08.240><c> digital</c>
+
+00:01:08.630 --> 00:01:08.640 align:start position:0%
+we haven't met already, I'm the digital
+ 
+
+00:01:08.640 --> 00:01:11.270 align:start position:0%
+we haven't met already, I'm the digital
+avatar<00:01:09.119><c> of</c><00:01:09.360><c> Julian</c><00:01:09.760><c> Goldie,</c><00:01:10.240><c> CEO</c><00:01:10.640><c> of</c><00:01:10.799><c> SEO</c>
+
+00:01:11.270 --> 00:01:11.280 align:start position:0%
+avatar of Julian Goldie, CEO of SEO
+ 
+
+00:01:11.280 --> 00:01:13.750 align:start position:0%
+avatar of Julian Goldie, CEO of SEO
+agency<00:01:11.840><c> Goldie</c><00:01:12.320><c> Agency.</c><00:01:13.200><c> Whilst</c><00:01:13.520><c> he's</c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+agency Goldie Agency. Whilst he's
+ 
+
+00:01:13.760 --> 00:01:15.350 align:start position:0%
+agency Goldie Agency. Whilst he's
+helping<00:01:14.080><c> clients</c><00:01:14.479><c> get</c><00:01:14.640><c> more</c><00:01:14.799><c> leads</c><00:01:15.119><c> and</c>
+
+00:01:15.350 --> 00:01:15.360 align:start position:0%
+helping clients get more leads and
+ 
+
+00:01:15.360 --> 00:01:17.190 align:start position:0%
+helping clients get more leads and
+customers,<00:01:15.920><c> I'm</c><00:01:16.159><c> here</c><00:01:16.320><c> to</c><00:01:16.479><c> help</c><00:01:16.640><c> you</c><00:01:16.880><c> get</c><00:01:16.960><c> the</c>
+
+00:01:17.190 --> 00:01:17.200 align:start position:0%
+customers, I'm here to help you get the
+ 
+
+00:01:17.200 --> 00:01:19.749 align:start position:0%
+customers, I'm here to help you get the
+latest<00:01:17.520><c> AI</c><00:01:17.920><c> updates.</c><00:01:18.720><c> And</c><00:01:18.880><c> Julian</c><00:01:19.280><c> Goldie</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+latest AI updates. And Julian Goldie
+ 
+
+00:01:19.759 --> 00:01:21.670 align:start position:0%
+latest AI updates. And Julian Goldie
+reads<00:01:20.080><c> every</c><00:01:20.320><c> comment,</c><00:01:20.720><c> so</c><00:01:21.040><c> drop</c><00:01:21.200><c> one</c><00:01:21.439><c> below</c>
+
+00:01:21.670 --> 00:01:21.680 align:start position:0%
+reads every comment, so drop one below
+ 
+
+00:01:21.680 --> 00:01:23.830 align:start position:0%
+reads every comment, so drop one below
+right<00:01:21.920><c> now.</c><00:01:22.159><c> He</c><00:01:22.400><c> genuinely</c><00:01:22.880><c> reads</c><00:01:23.200><c> them</c><00:01:23.360><c> all.</c>
+
+00:01:23.830 --> 00:01:23.840 align:start position:0%
+right now. He genuinely reads them all.
+ 
+
+00:01:23.840 --> 00:01:25.270 align:start position:0%
+right now. He genuinely reads them all.
+All<00:01:23.920><c> right,</c><00:01:24.240><c> let's</c><00:01:24.479><c> get</c><00:01:24.640><c> straight</c><00:01:24.880><c> into</c><00:01:25.040><c> it.</c>
+
+00:01:25.270 --> 00:01:25.280 align:start position:0%
+All right, let's get straight into it.
+ 
+
+00:01:25.280 --> 00:01:27.270 align:start position:0%
+All right, let's get straight into it.
+Google<00:01:25.520><c> Anti-Gravity</c><00:01:26.320><c> new</c><00:01:26.479><c> update,</c><00:01:26.880><c> why</c><00:01:27.119><c> it</c>
+
+00:01:27.270 --> 00:01:27.280 align:start position:0%
+Google Anti-Gravity new update, why it
+ 
+
+00:01:27.280 --> 00:01:29.109 align:start position:0%
+Google Anti-Gravity new update, why it
+matters,<00:01:27.840><c> and</c><00:01:28.000><c> how</c><00:01:28.159><c> to</c><00:01:28.320><c> use</c><00:01:28.479><c> it</c><00:01:28.640><c> in</c><00:01:28.799><c> a</c><00:01:28.960><c> real</c>
+
+00:01:29.109 --> 00:01:29.119 align:start position:0%
+matters, and how to use it in a real
+ 
+
+00:01:29.119 --> 00:01:31.749 align:start position:0%
+matters, and how to use it in a real
+business<00:01:29.439><c> today.</c><00:01:30.000><c> Google</c><00:01:30.400><c> Anti-gravity</c><00:01:31.360><c> is</c>
+
+00:01:31.749 --> 00:01:31.759 align:start position:0%
+business today. Google Anti-gravity is
+ 
+
+00:01:31.759 --> 00:01:33.830 align:start position:0%
+business today. Google Anti-gravity is
+an<00:01:32.000><c> AI</c><00:01:32.479><c> first</c><00:01:32.799><c> development</c><00:01:33.280><c> environment.</c>
+
+00:01:33.830 --> 00:01:33.840 align:start position:0%
+an AI first development environment.
+ 
+
+00:01:33.840 --> 00:01:35.350 align:start position:0%
+an AI first development environment.
+That<00:01:34.000><c> means</c><00:01:34.240><c> it</c><00:01:34.400><c> wasn't</c><00:01:34.640><c> built</c><00:01:34.880><c> around</c><00:01:35.119><c> you</c>
+
+00:01:35.350 --> 00:01:35.360 align:start position:0%
+That means it wasn't built around you
+ 
+
+00:01:35.360 --> 00:01:37.510 align:start position:0%
+That means it wasn't built around you
+writing<00:01:35.759><c> code</c><00:01:36.240><c> with</c><00:01:36.479><c> AI</c><00:01:36.880><c> helping</c><00:01:37.200><c> on</c><00:01:37.360><c> the</c>
+
+00:01:37.510 --> 00:01:37.520 align:start position:0%
+writing code with AI helping on the
+ 
+
+00:01:37.520 --> 00:01:39.670 align:start position:0%
+writing code with AI helping on the
+side.<00:01:38.000><c> It</c><00:01:38.240><c> was</c><00:01:38.320><c> built</c><00:01:38.560><c> around</c><00:01:38.799><c> AI</c><00:01:39.200><c> agents</c>
+
+00:01:39.670 --> 00:01:39.680 align:start position:0%
+side. It was built around AI agents
+ 
+
+00:01:39.680 --> 00:01:41.830 align:start position:0%
+side. It was built around AI agents
+doing<00:01:39.920><c> the</c><00:01:40.079><c> actual</c><00:01:40.400><c> work,</c><00:01:40.640><c> right,</c><00:01:40.880><c> Doris?</c><00:01:41.520><c> and</c>
+
+00:01:41.830 --> 00:01:41.840 align:start position:0%
+doing the actual work, right, Doris? and
+ 
+
+00:01:41.840 --> 00:01:44.149 align:start position:0%
+doing the actual work, right, Doris? and
+you<00:01:42.079><c> directing</c><00:01:42.560><c> them</c><00:01:42.960><c> like</c><00:01:43.200><c> a</c><00:01:43.439><c> manager.</c>
+
+00:01:44.149 --> 00:01:44.159 align:start position:0%
+you directing them like a manager.
+ 
+
+00:01:44.159 --> 00:01:46.230 align:start position:0%
+you directing them like a manager.
+Unlike<00:01:44.560><c> tools</c><00:01:44.799><c> like</c><00:01:44.960><c> Copilot</c><00:01:45.520><c> or</c><00:01:45.680><c> Cursor,</c>
+
+00:01:46.230 --> 00:01:46.240 align:start position:0%
+Unlike tools like Copilot or Cursor,
+ 
+
+00:01:46.240 --> 00:01:47.910 align:start position:0%
+Unlike tools like Copilot or Cursor,
+which<00:01:46.560><c> assist</c><00:01:46.799><c> you</c><00:01:46.960><c> while</c><00:01:47.200><c> you</c><00:01:47.360><c> code,</c>
+
+00:01:47.910 --> 00:01:47.920 align:start position:0%
+which assist you while you code,
+ 
+
+00:01:47.920 --> 00:01:50.389 align:start position:0%
+which assist you while you code,
+anti-gravity<00:01:48.720><c> agents</c><00:01:49.119><c> plan</c><00:01:49.439><c> tasks,</c><00:01:50.159><c> write</c>
+
+00:01:50.389 --> 00:01:50.399 align:start position:0%
+anti-gravity agents plan tasks, write
+ 
+
+00:01:50.399 --> 00:01:52.710 align:start position:0%
+anti-gravity agents plan tasks, write
+full<00:01:50.720><c> code,</c><00:01:51.280><c> run</c><00:01:51.520><c> terminal</c><00:01:51.920><c> commands,</c><00:01:52.399><c> open</c>
+
+00:01:52.710 --> 00:01:52.720 align:start position:0%
+full code, run terminal commands, open
+ 
+
+00:01:52.720 --> 00:01:55.109 align:start position:0%
+full code, run terminal commands, open
+browsers,<00:01:53.280><c> test</c><00:01:53.520><c> applications,</c><00:01:54.479><c> and</c><00:01:54.640><c> verify</c>
+
+00:01:55.109 --> 00:01:55.119 align:start position:0%
+browsers, test applications, and verify
+ 
+
+00:01:55.119 --> 00:01:57.109 align:start position:0%
+browsers, test applications, and verify
+their<00:01:55.360><c> own</c><00:01:55.520><c> work</c><00:01:55.759><c> all</c><00:01:56.000><c> on</c><00:01:56.240><c> their</c><00:01:56.399><c> own</c><00:01:56.799><c> without</c>
+
+00:01:57.109 --> 00:01:57.119 align:start position:0%
+their own work all on their own without
+ 
+
+00:01:57.119 --> 00:01:59.990 align:start position:0%
+their own work all on their own without
+you<00:01:57.360><c> lifting</c><00:01:57.680><c> a</c><00:01:57.920><c> finger.</c><00:01:58.240><c> It</c><00:01:58.560><c> runs</c><00:01:59.040><c> on</c><00:01:59.439><c> Gemini</c>
+
+00:01:59.990 --> 00:02:00.000 align:start position:0%
+you lifting a finger. It runs on Gemini
+ 
+
+00:02:00.000 --> 00:02:02.550 align:start position:0%
+you lifting a finger. It runs on Gemini
+3<00:02:00.240><c> Pro,</c><00:02:00.880><c> Google's</c><00:02:01.360><c> most</c><00:02:01.600><c> advanced</c><00:02:02.000><c> model</c><00:02:02.320><c> for</c>
+
+00:02:02.550 --> 00:02:02.560 align:start position:0%
+3 Pro, Google's most advanced model for
+ 
+
+00:02:02.560 --> 00:02:04.709 align:start position:0%
+3 Pro, Google's most advanced model for
+reasoning<00:02:02.880><c> and</c><00:02:03.040><c> multi-step</c><00:02:03.680><c> tasks.</c><00:02:04.320><c> It</c><00:02:04.560><c> also</c>
+
+00:02:04.709 --> 00:02:04.719 align:start position:0%
+reasoning and multi-step tasks. It also
+ 
+
+00:02:04.719 --> 00:02:06.550 align:start position:0%
+reasoning and multi-step tasks. It also
+connects<00:02:05.040><c> with</c><00:02:05.200><c> Claude</c><00:02:05.520><c> Sun</c><00:02:05.840><c> and</c><00:02:06.000><c> OpenAI</c>
+
+00:02:06.550 --> 00:02:06.560 align:start position:0%
+connects with Claude Sun and OpenAI
+ 
+
+00:02:06.560 --> 00:02:09.109 align:start position:0%
+connects with Claude Sun and OpenAI
+models<00:02:07.119><c> depending</c><00:02:07.520><c> on</c><00:02:07.759><c> your</c><00:02:08.000><c> setup.</c><00:02:08.800><c> But</c><00:02:08.959><c> none</c>
+
+00:02:09.109 --> 00:02:09.119 align:start position:0%
+models depending on your setup. But none
+ 
+
+00:02:09.119 --> 00:02:10.949 align:start position:0%
+models depending on your setup. But none
+of<00:02:09.200><c> that</c><00:02:09.360><c> is</c><00:02:09.520><c> the</c><00:02:09.679><c> news.</c><00:02:10.000><c> The</c><00:02:10.239><c> news</c><00:02:10.479><c> is</c><00:02:10.720><c> what</c>
+
+00:02:10.949 --> 00:02:10.959 align:start position:0%
+of that is the news. The news is what
+ 
+
+00:02:10.959 --> 00:02:13.030 align:start position:0%
+of that is the news. The news is what
+they<00:02:11.200><c> just</c><00:02:11.360><c> shipped</c><00:02:11.840><c> in</c><00:02:12.080><c> this</c><00:02:12.319><c> update.</c><00:02:12.879><c> This</c>
+
+00:02:13.030 --> 00:02:13.040 align:start position:0%
+they just shipped in this update. This
+ 
+
+00:02:13.040 --> 00:02:14.790 align:start position:0%
+they just shipped in this update. This
+is<00:02:13.200><c> the</c><00:02:13.360><c> update</c><00:02:13.680><c> that</c><00:02:13.840><c> changes</c><00:02:14.239><c> everything.</c>
+
+00:02:14.790 --> 00:02:14.800 align:start position:0%
+is the update that changes everything.
+ 
+
+00:02:14.800 --> 00:02:16.949 align:start position:0%
+is the update that changes everything.
+Pay<00:02:14.959><c> attention</c><00:02:15.280><c> to</c><00:02:15.440><c> this</c><00:02:15.680><c> part.</c><00:02:16.319><c> Before</c><00:02:16.720><c> this</c>
+
+00:02:16.949 --> 00:02:16.959 align:start position:0%
+Pay attention to this part. Before this
+ 
+
+00:02:16.959 --> 00:02:19.990 align:start position:0%
+Pay attention to this part. Before this
+update,<00:02:18.000><c> you'd</c><00:02:18.400><c> start</c><00:02:18.640><c> a</c><00:02:18.800><c> task,</c><00:02:19.520><c> watch</c><00:02:19.840><c> the</c>
+
+00:02:19.990 --> 00:02:20.000 align:start position:0%
+update, you'd start a task, watch the
+ 
+
+00:02:20.000 --> 00:02:22.309 align:start position:0%
+update, you'd start a task, watch the
+agent<00:02:20.400><c> work,</c><00:02:20.959><c> wait</c><00:02:21.200><c> for</c><00:02:21.360><c> it</c><00:02:21.520><c> to</c><00:02:21.680><c> finish,</c><00:02:22.080><c> then</c>
+
+00:02:22.309 --> 00:02:22.319 align:start position:0%
+agent work, wait for it to finish, then
+ 
+
+00:02:22.319 --> 00:02:24.630 align:start position:0%
+agent work, wait for it to finish, then
+review<00:02:22.640><c> the</c><00:02:22.879><c> result,</c><00:02:23.599><c> and</c><00:02:23.840><c> give</c><00:02:24.080><c> feedback.</c>
+
+00:02:24.630 --> 00:02:24.640 align:start position:0%
+review the result, and give feedback.
+ 
+
+00:02:24.640 --> 00:02:27.350 align:start position:0%
+review the result, and give feedback.
+Then<00:02:24.879><c> it</c><00:02:25.040><c> would</c><00:02:25.200><c> go</c><00:02:25.360><c> again.</c><00:02:26.160><c> Standard,</c><00:02:26.879><c> fine,</c>
+
+00:02:27.350 --> 00:02:27.360 align:start position:0%
+Then it would go again. Standard, fine,
+ 
+
+00:02:27.360 --> 00:02:29.190 align:start position:0%
+Then it would go again. Standard, fine,
+but<00:02:27.599><c> painfully</c><00:02:28.160><c> slow.</c><00:02:28.640><c> Here's</c><00:02:28.959><c> what's</c>
+
+00:02:29.190 --> 00:02:29.200 align:start position:0%
+but painfully slow. Here's what's
+ 
+
+00:02:29.200 --> 00:02:31.270 align:start position:0%
+but painfully slow. Here's what's
+different<00:02:29.520><c> now.</c><00:02:29.840><c> You</c><00:02:30.000><c> start</c><00:02:30.160><c> a</c><00:02:30.400><c> task.</c><00:02:31.120><c> The</c>
+
+00:02:31.270 --> 00:02:31.280 align:start position:0%
+different now. You start a task. The
+ 
+
+00:02:31.280 --> 00:02:33.750 align:start position:0%
+different now. You start a task. The
+agent<00:02:31.599><c> works.</c><00:02:32.239><c> You</c><00:02:32.400><c> give</c><00:02:32.640><c> feedback</c><00:02:33.280><c> while</c><00:02:33.599><c> it</c>
+
+00:02:33.750 --> 00:02:33.760 align:start position:0%
+agent works. You give feedback while it
+ 
+
+00:02:33.760 --> 00:02:35.509 align:start position:0%
+agent works. You give feedback while it
+is<00:02:33.920><c> still</c><00:02:34.160><c> building.</c><00:02:34.640><c> The</c><00:02:34.800><c> agent</c><00:02:35.040><c> reads</c><00:02:35.280><c> your</c>
+
+00:02:35.509 --> 00:02:35.519 align:start position:0%
+is still building. The agent reads your
+ 
+
+00:02:35.519 --> 00:02:37.190 align:start position:0%
+is still building. The agent reads your
+comment,<00:02:35.920><c> adapts,</c><00:02:36.400><c> and</c><00:02:36.640><c> never</c><00:02:36.879><c> stops</c>
+
+00:02:37.190 --> 00:02:37.200 align:start position:0%
+comment, adapts, and never stops
+ 
+
+00:02:37.200 --> 00:02:39.190 align:start position:0%
+comment, adapts, and never stops
+running.<00:02:37.680><c> That's</c><00:02:38.080><c> asynchronous</c><00:02:38.800><c> agent</c>
+
+00:02:39.190 --> 00:02:39.200 align:start position:0%
+running. That's asynchronous agent
+ 
+
+00:02:39.200 --> 00:02:41.190 align:start position:0%
+running. That's asynchronous agent
+collaboration.<00:02:39.920><c> And</c><00:02:40.160><c> it</c><00:02:40.319><c> sounds</c><00:02:40.560><c> technical,</c>
+
+00:02:41.190 --> 00:02:41.200 align:start position:0%
+collaboration. And it sounds technical,
+ 
+
+00:02:41.200 --> 00:02:43.350 align:start position:0%
+collaboration. And it sounds technical,
+but<00:02:41.440><c> the</c><00:02:41.599><c> idea</c><00:02:41.840><c> is</c><00:02:42.080><c> dead</c><00:02:42.319><c> simple.</c><00:02:42.720><c> You</c><00:02:42.959><c> are</c><00:02:43.200><c> no</c>
+
+00:02:43.350 --> 00:02:43.360 align:start position:0%
+but the idea is dead simple. You are no
+ 
+
+00:02:43.360 --> 00:02:45.750 align:start position:0%
+but the idea is dead simple. You are no
+longer<00:02:43.680><c> waiting</c><00:02:43.920><c> for</c><00:02:44.160><c> AI</c><00:02:44.480><c> to</c><00:02:44.640><c> finish.</c><00:02:45.200><c> AI</c><00:02:45.599><c> is</c>
+
+00:02:45.750 --> 00:02:45.760 align:start position:0%
+longer waiting for AI to finish. AI is
+ 
+
+00:02:45.760 --> 00:02:47.830 align:start position:0%
+longer waiting for AI to finish. AI is
+running<00:02:46.080><c> alongside</c><00:02:46.560><c> you</c><00:02:46.879><c> continuously.</c>
+
+00:02:47.830 --> 00:02:47.840 align:start position:0%
+running alongside you continuously.
+ 
+
+00:02:47.840 --> 00:02:49.430 align:start position:0%
+running alongside you continuously.
+Think<00:02:48.080><c> about</c><00:02:48.239><c> what</c><00:02:48.480><c> that</c><00:02:48.640><c> actually</c><00:02:48.959><c> means</c><00:02:49.120><c> in</c>
+
+00:02:49.430 --> 00:02:49.440 align:start position:0%
+Think about what that actually means in
+ 
+
+00:02:49.440 --> 00:02:51.110 align:start position:0%
+Think about what that actually means in
+practice.<00:02:50.000><c> You're</c><00:02:50.239><c> no</c><00:02:50.400><c> longer</c><00:02:50.640><c> doing</c><00:02:50.879><c> this.</c>
+
+00:02:51.110 --> 00:02:51.120 align:start position:0%
+practice. You're no longer doing this.
+ 
+
+00:02:51.120 --> 00:02:53.110 align:start position:0%
+practice. You're no longer doing this.
+Prompt,<00:02:51.599><c> wait,</c><00:02:51.920><c> result.</c><00:02:52.400><c> Feedback.</c><00:02:52.879><c> Wait,</c>
+
+00:02:53.110 --> 00:02:53.120 align:start position:0%
+Prompt, wait, result. Feedback. Wait,
+ 
+
+00:02:53.120 --> 00:02:55.110 align:start position:0%
+Prompt, wait, result. Feedback. Wait,
+new<00:02:53.360><c> result.</c><00:02:53.840><c> You're</c><00:02:54.080><c> doing</c><00:02:54.239><c> this</c><00:02:54.480><c> instead.</c>
+
+00:02:55.110 --> 00:02:55.120 align:start position:0%
+new result. You're doing this instead.
+ 
+
+00:02:55.120 --> 00:02:57.270 align:start position:0%
+new result. You're doing this instead.
+Prompt.<00:02:55.599><c> Agent</c><00:02:55.920><c> works.</c><00:02:56.319><c> You</c><00:02:56.480><c> comment.</c><00:02:56.959><c> Agent</c>
+
+00:02:57.270 --> 00:02:57.280 align:start position:0%
+Prompt. Agent works. You comment. Agent
+ 
+
+00:02:57.280 --> 00:02:59.589 align:start position:0%
+Prompt. Agent works. You comment. Agent
+adapts.<00:02:57.840><c> Agent</c><00:02:58.160><c> keeps</c><00:02:58.480><c> going.</c><00:02:58.879><c> Done.</c><00:02:59.280><c> That</c><00:02:59.519><c> is</c>
+
+00:02:59.589 --> 00:02:59.599 align:start position:0%
+adapts. Agent keeps going. Done. That is
+ 
+
+00:02:59.599 --> 00:03:01.750 align:start position:0%
+adapts. Agent keeps going. Done. That is
+not<00:02:59.760><c> an</c><00:03:00.000><c> assistant.</c><00:03:00.640><c> That</c><00:03:00.800><c> is</c><00:03:00.959><c> an</c><00:03:01.200><c> employee.</c>
+
+00:03:01.750 --> 00:03:01.760 align:start position:0%
+not an assistant. That is an employee.
+ 
+
+00:03:01.760 --> 00:03:03.589 align:start position:0%
+not an assistant. That is an employee.
+And<00:03:01.920><c> managing</c><00:03:02.319><c> an</c><00:03:02.640><c> employee</c><00:03:03.120><c> is</c><00:03:03.360><c> a</c>
+
+00:03:03.589 --> 00:03:03.599 align:start position:0%
+And managing an employee is a
+ 
+
+00:03:03.599 --> 00:03:05.430 align:start position:0%
+And managing an employee is a
+fundamentally<00:03:04.400><c> different</c><00:03:04.720><c> skill</c><00:03:05.200><c> than</c>
+
+00:03:05.430 --> 00:03:05.440 align:start position:0%
+fundamentally different skill than
+ 
+
+00:03:05.440 --> 00:03:07.110 align:start position:0%
+fundamentally different skill than
+prompting<00:03:05.760><c> a</c><00:03:05.920><c> chatbot.</c><00:03:06.480><c> The</c><00:03:06.720><c> people</c><00:03:06.879><c> who</c>
+
+00:03:07.110 --> 00:03:07.120 align:start position:0%
+prompting a chatbot. The people who
+ 
+
+00:03:07.120 --> 00:03:09.110 align:start position:0%
+prompting a chatbot. The people who
+learn<00:03:07.360><c> this</c><00:03:07.519><c> skill</c><00:03:07.840><c> right</c><00:03:08.080><c> now</c><00:03:08.480><c> are</c><00:03:08.800><c> going</c><00:03:08.959><c> to</c>
+
+00:03:09.110 --> 00:03:09.120 align:start position:0%
+learn this skill right now are going to
+ 
+
+00:03:09.120 --> 00:03:10.949 align:start position:0%
+learn this skill right now are going to
+be<00:03:09.200><c> very</c><00:03:09.519><c> hard</c><00:03:09.680><c> to</c><00:03:09.920><c> compete</c><00:03:10.159><c> with.</c><00:03:10.720><c> Quick</c>
+
+00:03:10.949 --> 00:03:10.959 align:start position:0%
+be very hard to compete with. Quick
+ 
+
+00:03:10.959 --> 00:03:12.949 align:start position:0%
+be very hard to compete with. Quick
+pause<00:03:11.280><c> here</c><00:03:11.680><c> because</c><00:03:11.920><c> this</c><00:03:12.239><c> is</c><00:03:12.400><c> exactly</c><00:03:12.800><c> what</c>
+
+00:03:12.949 --> 00:03:12.959 align:start position:0%
+pause here because this is exactly what
+ 
+
+00:03:12.959 --> 00:03:15.430 align:start position:0%
+pause here because this is exactly what
+we<00:03:13.200><c> help</c><00:03:13.440><c> people</c><00:03:13.760><c> implement</c><00:03:14.319><c> inside</c><00:03:14.800><c> the</c><00:03:15.040><c> AI</c>
+
+00:03:15.430 --> 00:03:15.440 align:start position:0%
+we help people implement inside the AI
+ 
+
+00:03:15.440 --> 00:03:17.350 align:start position:0%
+we help people implement inside the AI
+profit<00:03:15.840><c> boardroom.</c><00:03:16.560><c> The</c><00:03:16.720><c> AI</c><00:03:17.040><c> profit</c>
+
+00:03:17.350 --> 00:03:17.360 align:start position:0%
+profit boardroom. The AI profit
+ 
+
+00:03:17.360 --> 00:03:19.589 align:start position:0%
+profit boardroom. The AI profit
+boardroom<00:03:17.920><c> is</c><00:03:18.159><c> our</c><00:03:18.480><c> private</c><00:03:18.879><c> community</c><00:03:19.280><c> for</c>
+
+00:03:19.589 --> 00:03:19.599 align:start position:0%
+boardroom is our private community for
+ 
+
+00:03:19.599 --> 00:03:21.110 align:start position:0%
+boardroom is our private community for
+entrepreneurs<00:03:20.159><c> and</c><00:03:20.319><c> business</c><00:03:20.640><c> owners</c><00:03:20.959><c> who</c>
+
+00:03:21.110 --> 00:03:21.120 align:start position:0%
+entrepreneurs and business owners who
+ 
+
+00:03:21.120 --> 00:03:23.030 align:start position:0%
+entrepreneurs and business owners who
+want<00:03:21.280><c> to</c><00:03:21.440><c> use</c><00:03:21.680><c> AI</c><00:03:22.080><c> automation</c><00:03:22.560><c> tools</c><00:03:22.800><c> like</c>
+
+00:03:23.030 --> 00:03:23.040 align:start position:0%
+want to use AI automation tools like
+ 
+
+00:03:23.040 --> 00:03:25.350 align:start position:0%
+want to use AI automation tools like
+Google<00:03:23.360><c> Anti-gravity</c><00:03:24.080><c> to</c><00:03:24.239><c> save</c><00:03:24.480><c> time,</c><00:03:25.040><c> move</c>
+
+00:03:25.350 --> 00:03:25.360 align:start position:0%
+Google Anti-gravity to save time, move
+ 
+
+00:03:25.360 --> 00:03:27.270 align:start position:0%
+Google Anti-gravity to save time, move
+faster,<00:03:25.920><c> and</c><00:03:26.159><c> grow</c><00:03:26.400><c> their</c><00:03:26.640><c> business</c><00:03:26.879><c> without</c>
+
+00:03:27.270 --> 00:03:27.280 align:start position:0%
+faster, and grow their business without
+ 
+
+00:03:27.280 --> 00:03:29.589 align:start position:0%
+faster, and grow their business without
+adding<00:03:27.599><c> more</c><00:03:27.760><c> hours</c><00:03:28.080><c> to</c><00:03:28.319><c> their</c><00:03:28.560><c> day.</c><00:03:29.200><c> We</c><00:03:29.360><c> go</c>
+
+00:03:29.589 --> 00:03:29.599 align:start position:0%
+adding more hours to their day. We go
+ 
+
+00:03:29.599 --> 00:03:31.750 align:start position:0%
+adding more hours to their day. We go
+deep<00:03:29.760><c> on</c><00:03:30.000><c> real</c><00:03:30.239><c> tools.</c><00:03:30.879><c> We</c><00:03:31.040><c> share</c><00:03:31.280><c> the</c><00:03:31.440><c> actual</c>
+
+00:03:31.750 --> 00:03:31.760 align:start position:0%
+deep on real tools. We share the actual
+ 
+
+00:03:31.760 --> 00:03:34.390 align:start position:0%
+deep on real tools. We share the actual
+workflows.<00:03:32.560><c> We</c><00:03:32.720><c> give</c><00:03:32.879><c> you</c><00:03:33.040><c> readytouse</c><00:03:33.840><c> SOPs</c>
+
+00:03:34.390 --> 00:03:34.400 align:start position:0%
+workflows. We give you readytouse SOPs
+ 
+
+00:03:34.400 --> 00:03:36.070 align:start position:0%
+workflows. We give you readytouse SOPs
+you<00:03:34.560><c> can</c><00:03:34.720><c> plug</c><00:03:34.879><c> into</c><00:03:35.200><c> your</c><00:03:35.360><c> business.</c><00:03:35.760><c> the</c>
+
+00:03:36.070 --> 00:03:36.080 align:start position:0%
+you can plug into your business. the
+ 
+
+00:03:36.080 --> 00:03:37.990 align:start position:0%
+you can plug into your business. the
+same<00:03:36.239><c> week</c><00:03:36.400><c> you</c><00:03:36.640><c> join.</c><00:03:37.280><c> If</c><00:03:37.440><c> you</c><00:03:37.599><c> want</c><00:03:37.680><c> to</c><00:03:37.840><c> go</c>
+
+00:03:37.990 --> 00:03:38.000 align:start position:0%
+same week you join. If you want to go
+ 
+
+00:03:38.000 --> 00:03:39.750 align:start position:0%
+same week you join. If you want to go
+beyond<00:03:38.319><c> just</c><00:03:38.480><c> knowing</c><00:03:38.799><c> about</c><00:03:39.040><c> these</c><00:03:39.280><c> tools</c>
+
+00:03:39.750 --> 00:03:39.760 align:start position:0%
+beyond just knowing about these tools
+ 
+
+00:03:39.760 --> 00:03:42.309 align:start position:0%
+beyond just knowing about these tools
+and<00:03:40.080><c> actually</c><00:03:40.480><c> start</c><00:03:40.720><c> using</c><00:03:41.040><c> them,</c><00:03:41.760><c> come</c><00:03:42.080><c> join</c>
+
+00:03:42.309 --> 00:03:42.319 align:start position:0%
+and actually start using them, come join
+ 
+
+00:03:42.319 --> 00:03:44.309 align:start position:0%
+and actually start using them, come join
+us.<00:03:42.879><c> The</c><00:03:43.120><c> link</c><00:03:43.280><c> is</c><00:03:43.440><c> in</c><00:03:43.680><c> the</c><00:03:43.840><c> description</c>
+
+00:03:44.309 --> 00:03:44.319 align:start position:0%
+us. The link is in the description
+ 
+
+00:03:44.319 --> 00:03:47.190 align:start position:0%
+us. The link is in the description
+below.<00:03:45.360><c> What</c><00:03:45.599><c> are</c><00:03:45.760><c> artifacts?</c><00:03:46.640><c> The</c><00:03:46.879><c> whole</c>
+
+00:03:47.190 --> 00:03:47.200 align:start position:0%
+below. What are artifacts? The whole
+ 
+
+00:03:47.200 --> 00:03:49.030 align:start position:0%
+below. What are artifacts? The whole
+Async<00:03:47.680><c> collaboration</c><00:03:48.239><c> system</c><00:03:48.560><c> runs</c><00:03:48.799><c> through</c>
+
+00:03:49.030 --> 00:03:49.040 align:start position:0%
+Async collaboration system runs through
+ 
+
+00:03:49.040 --> 00:03:51.509 align:start position:0%
+Async collaboration system runs through
+something<00:03:49.360><c> called</c><00:03:49.760><c> artifacts.</c><00:03:50.879><c> Artifacts</c>
+
+00:03:51.509 --> 00:03:51.519 align:start position:0%
+something called artifacts. Artifacts
+ 
+
+00:03:51.519 --> 00:03:52.949 align:start position:0%
+something called artifacts. Artifacts
+are<00:03:51.680><c> the</c><00:03:51.840><c> proof</c><00:03:52.000><c> of</c><00:03:52.159><c> work</c><00:03:52.400><c> the</c><00:03:52.640><c> agent</c>
+
+00:03:52.949 --> 00:03:52.959 align:start position:0%
+are the proof of work the agent
+ 
+
+00:03:52.959 --> 00:03:55.350 align:start position:0%
+are the proof of work the agent
+generates<00:03:53.519><c> as</c><00:03:53.760><c> it</c><00:03:53.920><c> builds</c><00:03:54.239><c> your</c><00:03:54.480><c> project.</c><00:03:55.120><c> Not</c>
+
+00:03:55.350 --> 00:03:55.360 align:start position:0%
+generates as it builds your project. Not
+ 
+
+00:03:55.360 --> 00:03:57.990 align:start position:0%
+generates as it builds your project. Not
+raw<00:03:55.599><c> logs,</c><00:03:56.239><c> not</c><00:03:56.480><c> walls</c><00:03:56.799><c> of</c><00:03:56.879><c> terminal</c><00:03:57.280><c> output,</c>
+
+00:03:57.990 --> 00:03:58.000 align:start position:0%
+raw logs, not walls of terminal output,
+ 
+
+00:03:58.000 --> 00:04:00.149 align:start position:0%
+raw logs, not walls of terminal output,
+actual<00:03:58.400><c> readable</c><00:03:58.879><c> deliverables,</c><00:03:59.760><c> task</c>
+
+00:04:00.149 --> 00:04:00.159 align:start position:0%
+actual readable deliverables, task
+ 
+
+00:04:00.159 --> 00:04:02.550 align:start position:0%
+actual readable deliverables, task
+lists,<00:04:00.720><c> implementation</c><00:04:01.439><c> plans,</c><00:04:02.000><c> screenshots</c>
+
+00:04:02.550 --> 00:04:02.560 align:start position:0%
+lists, implementation plans, screenshots
+ 
+
+00:04:02.560 --> 00:04:05.030 align:start position:0%
+lists, implementation plans, screenshots
+of<00:04:02.720><c> live</c><00:04:03.040><c> previews,</c><00:04:03.760><c> browser</c><00:04:04.239><c> recordings,</c>
+
+00:04:05.030 --> 00:04:05.040 align:start position:0%
+of live previews, browser recordings,
+ 
+
+00:04:05.040 --> 00:04:07.270 align:start position:0%
+of live previews, browser recordings,
+code<00:04:05.280><c> diffs,</c><00:04:05.840><c> step-by-step</c><00:04:06.560><c> walkthroughs,</c>
+
+00:04:07.270 --> 00:04:07.280 align:start position:0%
+code diffs, step-by-step walkthroughs,
+ 
+
+00:04:07.280 --> 00:04:08.630 align:start position:0%
+code diffs, step-by-step walkthroughs,
+and<00:04:07.439><c> here</c><00:04:07.599><c> is</c><00:04:07.760><c> the</c><00:04:07.920><c> part</c><00:04:08.080><c> that</c><00:04:08.239><c> makes</c><00:04:08.400><c> it</c>
+
+00:04:08.630 --> 00:04:08.640 align:start position:0%
+and here is the part that makes it
+ 
+
+00:04:08.640 --> 00:04:10.229 align:start position:0%
+and here is the part that makes it
+click.<00:04:09.120><c> You</c><00:04:09.360><c> can</c><00:04:09.439><c> leave</c><00:04:09.680><c> comments</c><00:04:10.000><c> on</c>
+
+00:04:10.229 --> 00:04:10.239 align:start position:0%
+click. You can leave comments on
+ 
+
+00:04:10.239 --> 00:04:12.470 align:start position:0%
+click. You can leave comments on
+artifacts<00:04:11.120><c> just</c><00:04:11.280><c> like</c><00:04:11.519><c> commenting</c><00:04:11.920><c> inside</c><00:04:12.239><c> a</c>
+
+00:04:12.470 --> 00:04:12.480 align:start position:0%
+artifacts just like commenting inside a
+ 
+
+00:04:12.480 --> 00:04:14.470 align:start position:0%
+artifacts just like commenting inside a
+Google<00:04:12.720><c> doc.</c><00:04:13.120><c> So,</c><00:04:13.439><c> picture</c><00:04:13.680><c> this.</c><00:04:14.239><c> You're</c>
+
+00:04:14.470 --> 00:04:14.480 align:start position:0%
+Google doc. So, picture this. You're
+ 
+
+00:04:14.480 --> 00:04:16.310 align:start position:0%
+Google doc. So, picture this. You're
+using<00:04:14.720><c> anti-gravity</c><00:04:15.599><c> to</c><00:04:15.760><c> build</c><00:04:15.920><c> a</c><00:04:16.160><c> new</c>
+
+00:04:16.310 --> 00:04:16.320 align:start position:0%
+using anti-gravity to build a new
+ 
+
+00:04:16.320 --> 00:04:17.909 align:start position:0%
+using anti-gravity to build a new
+landing<00:04:16.639><c> page</c><00:04:16.880><c> for</c><00:04:17.040><c> the</c><00:04:17.199><c> AI</c><00:04:17.600><c> profit</c>
+
+00:04:17.909 --> 00:04:17.919 align:start position:0%
+landing page for the AI profit
+ 
+
+00:04:17.919 --> 00:04:20.150 align:start position:0%
+landing page for the AI profit
+boardroom,<00:04:18.639><c> our</c><00:04:18.959><c> AI</c><00:04:19.280><c> automation</c><00:04:19.840><c> community</c>
+
+00:04:20.150 --> 00:04:20.160 align:start position:0%
+boardroom, our AI automation community
+ 
+
+00:04:20.160 --> 00:04:21.909 align:start position:0%
+boardroom, our AI automation community
+for<00:04:20.400><c> entrepreneurs.</c><00:04:21.199><c> You</c><00:04:21.359><c> give</c><00:04:21.519><c> the</c><00:04:21.680><c> agent</c>
+
+00:04:21.909 --> 00:04:21.919 align:start position:0%
+for entrepreneurs. You give the agent
+ 
+
+00:04:21.919 --> 00:04:23.670 align:start position:0%
+for entrepreneurs. You give the agent
+the<00:04:22.079><c> brief.</c><00:04:22.639><c> It</c><00:04:22.880><c> starts</c><00:04:23.199><c> building</c>
+
+00:04:23.670 --> 00:04:23.680 align:start position:0%
+the brief. It starts building
+ 
+
+00:04:23.680 --> 00:04:25.830 align:start position:0%
+the brief. It starts building
+immediately.<00:04:24.639><c> It</c><00:04:24.800><c> takes</c><00:04:25.040><c> a</c><00:04:25.280><c> screenshot</c><00:04:25.680><c> of</c>
+
+00:04:25.830 --> 00:04:25.840 align:start position:0%
+immediately. It takes a screenshot of
+ 
+
+00:04:25.840 --> 00:04:28.070 align:start position:0%
+immediately. It takes a screenshot of
+the<00:04:26.000><c> draft</c><00:04:26.560><c> layout,</c><00:04:27.120><c> uploads</c><00:04:27.600><c> it</c><00:04:27.759><c> as</c><00:04:27.919><c> an</c>
+
+00:04:28.070 --> 00:04:28.080 align:start position:0%
+the draft layout, uploads it as an
+ 
+
+00:04:28.080 --> 00:04:29.909 align:start position:0%
+the draft layout, uploads it as an
+artifact.<00:04:28.880><c> You</c><00:04:29.040><c> look</c><00:04:29.120><c> at</c><00:04:29.280><c> it</c><00:04:29.360><c> and</c><00:04:29.600><c> leave</c><00:04:29.759><c> a</c>
+
+00:04:29.909 --> 00:04:29.919 align:start position:0%
+artifact. You look at it and leave a
+ 
+
+00:04:29.919 --> 00:04:31.990 align:start position:0%
+artifact. You look at it and leave a
+comment,<00:04:30.479><c> move</c><00:04:30.720><c> the</c><00:04:30.880><c> CTA</c><00:04:31.360><c> button</c><00:04:31.600><c> above</c><00:04:31.840><c> the</c>
+
+00:04:31.990 --> 00:04:32.000 align:start position:0%
+comment, move the CTA button above the
+ 
+
+00:04:32.000 --> 00:04:34.070 align:start position:0%
+comment, move the CTA button above the
+fold,<00:04:32.400><c> make</c><00:04:32.639><c> the</c><00:04:32.800><c> headline</c><00:04:33.199><c> bigger,</c><00:04:33.680><c> add</c><00:04:33.919><c> a</c>
+
+00:04:34.070 --> 00:04:34.080 align:start position:0%
+fold, make the headline bigger, add a
+ 
+
+00:04:34.080 --> 00:04:35.909 align:start position:0%
+fold, make the headline bigger, add a
+line<00:04:34.320><c> mentioning</c><00:04:34.720><c> our</c><00:04:34.960><c> 40,000</c><00:04:35.600><c> member</c>
+
+00:04:35.909 --> 00:04:35.919 align:start position:0%
+line mentioning our 40,000 member
+ 
+
+00:04:35.919 --> 00:04:38.230 align:start position:0%
+line mentioning our 40,000 member
+community.<00:04:36.720><c> The</c><00:04:36.960><c> agent</c><00:04:37.199><c> reads</c><00:04:37.520><c> the</c><00:04:37.680><c> comment,</c>
+
+00:04:38.230 --> 00:04:38.240 align:start position:0%
+community. The agent reads the comment,
+ 
+
+00:04:38.240 --> 00:04:39.749 align:start position:0%
+community. The agent reads the comment,
+updates<00:04:38.639><c> the</c><00:04:38.880><c> code,</c><00:04:39.199><c> takes</c><00:04:39.440><c> a</c><00:04:39.600><c> new</c>
+
+00:04:39.749 --> 00:04:39.759 align:start position:0%
+updates the code, takes a new
+ 
+
+00:04:39.759 --> 00:04:41.909 align:start position:0%
+updates the code, takes a new
+screenshot,<00:04:40.400><c> uploads</c><00:04:40.800><c> a</c><00:04:40.960><c> fresh</c><00:04:41.199><c> artifact.</c>
+
+00:04:41.909 --> 00:04:41.919 align:start position:0%
+screenshot, uploads a fresh artifact.
+ 
+
+00:04:41.919 --> 00:04:43.590 align:start position:0%
+screenshot, uploads a fresh artifact.
+You<00:04:42.080><c> never</c><00:04:42.240><c> touched</c><00:04:42.560><c> a</c><00:04:42.720><c> single</c><00:04:42.880><c> line</c><00:04:43.040><c> of</c><00:04:43.280><c> code.</c>
+
+00:04:43.590 --> 00:04:43.600 align:start position:0%
+You never touched a single line of code.
+ 
+
+00:04:43.600 --> 00:04:45.590 align:start position:0%
+You never touched a single line of code.
+You<00:04:43.840><c> never</c><00:04:44.000><c> restarted</c><00:04:44.560><c> the</c><00:04:44.720><c> task.</c><00:04:45.280><c> You</c><00:04:45.440><c> never</c>
+
+00:04:45.590 --> 00:04:45.600 align:start position:0%
+You never restarted the task. You never
+ 
+
+00:04:45.600 --> 00:04:47.430 align:start position:0%
+You never restarted the task. You never
+lost<00:04:45.919><c> any</c><00:04:46.160><c> progress.</c><00:04:46.560><c> You</c><00:04:46.720><c> just</c><00:04:46.880><c> steered.</c>
+
+00:04:47.430 --> 00:04:47.440 align:start position:0%
+lost any progress. You just steered.
+ 
+
+00:04:47.440 --> 00:04:49.270 align:start position:0%
+lost any progress. You just steered.
+That's<00:04:47.759><c> the</c><00:04:47.919><c> power</c><00:04:48.160><c> of</c><00:04:48.320><c> this</c><00:04:48.560><c> system.</c>
+
+00:04:49.270 --> 00:04:49.280 align:start position:0%
+That's the power of this system.
+ 
+
+00:04:49.280 --> 00:04:50.950 align:start position:0%
+That's the power of this system.
+Anti-gravity<00:04:50.080><c> gives</c><00:04:50.320><c> you</c><00:04:50.479><c> two</c><00:04:50.720><c> main</c>
+
+00:04:50.950 --> 00:04:50.960 align:start position:0%
+Anti-gravity gives you two main
+ 
+
+00:04:50.960 --> 00:04:53.270 align:start position:0%
+Anti-gravity gives you two main
+interfaces<00:04:51.919><c> and</c><00:04:52.160><c> they</c><00:04:52.400><c> serve</c><00:04:52.720><c> completely</c>
+
+00:04:53.270 --> 00:04:53.280 align:start position:0%
+interfaces and they serve completely
+ 
+
+00:04:53.280 --> 00:04:56.070 align:start position:0%
+interfaces and they serve completely
+different<00:04:53.600><c> purposes.</c><00:04:54.960><c> Editor</c><00:04:55.440><c> view</c><00:04:55.680><c> is</c><00:04:55.840><c> the</c>
+
+00:04:56.070 --> 00:04:56.080 align:start position:0%
+different purposes. Editor view is the
+ 
+
+00:04:56.080 --> 00:04:57.670 align:start position:0%
+different purposes. Editor view is the
+familiar<00:04:56.400><c> one.</c><00:04:56.720><c> It</c><00:04:56.880><c> looks</c><00:04:57.040><c> like</c><00:04:57.120><c> a</c><00:04:57.360><c> standard</c>
+
+00:04:57.670 --> 00:04:57.680 align:start position:0%
+familiar one. It looks like a standard
+ 
+
+00:04:57.680 --> 00:05:00.390 align:start position:0%
+familiar one. It looks like a standard
+IDE.<00:04:58.479><c> Code</c><00:04:58.800><c> completion,</c><00:04:59.680><c> prompt</c><00:05:00.080><c> based</c>
+
+00:05:00.390 --> 00:05:00.400 align:start position:0%
+IDE. Code completion, prompt based
+ 
+
+00:05:00.400 --> 00:05:02.870 align:start position:0%
+IDE. Code completion, prompt based
+coding,<00:05:01.120><c> an</c><00:05:01.360><c> agent</c><00:05:01.759><c> sidebar.</c><00:05:02.400><c> Clean,</c>
+
+00:05:02.870 --> 00:05:02.880 align:start position:0%
+coding, an agent sidebar. Clean,
+ 
+
+00:05:02.880 --> 00:05:05.030 align:start position:0%
+coding, an agent sidebar. Clean,
+familiar,<00:05:03.759><c> easy</c><00:05:04.080><c> to</c><00:05:04.240><c> get</c><00:05:04.320><c> started</c><00:05:04.639><c> with</c><00:05:04.880><c> even</c>
+
+00:05:05.030 --> 00:05:05.040 align:start position:0%
+familiar, easy to get started with even
+ 
+
+00:05:05.040 --> 00:05:07.510 align:start position:0%
+familiar, easy to get started with even
+if<00:05:05.199><c> you've</c><00:05:05.440><c> never</c><00:05:05.600><c> used</c><00:05:05.840><c> the</c><00:05:06.000><c> tool</c><00:05:06.240><c> before.</c>
+
+00:05:07.510 --> 00:05:07.520 align:start position:0%
+if you've never used the tool before.
+ 
+
+00:05:07.520 --> 00:05:09.430 align:start position:0%
+if you've never used the tool before.
+Manager<00:05:08.000><c> view</c><00:05:08.240><c> is</c><00:05:08.479><c> where</c><00:05:08.720><c> the</c><00:05:08.880><c> real</c><00:05:09.120><c> power</c>
+
+00:05:09.430 --> 00:05:09.440 align:start position:0%
+Manager view is where the real power
+ 
+
+00:05:09.440 --> 00:05:11.350 align:start position:0%
+Manager view is where the real power
+lives.<00:05:10.080><c> Think</c><00:05:10.240><c> of</c><00:05:10.320><c> it</c><00:05:10.479><c> like</c><00:05:10.720><c> mission</c><00:05:11.039><c> control</c>
+
+00:05:11.350 --> 00:05:11.360 align:start position:0%
+lives. Think of it like mission control
+ 
+
+00:05:11.360 --> 00:05:13.590 align:start position:0%
+lives. Think of it like mission control
+for<00:05:11.600><c> AI</c><00:05:12.000><c> agents.</c><00:05:12.639><c> You</c><00:05:12.880><c> can</c><00:05:13.039><c> run</c><00:05:13.199><c> multiple</c>
+
+00:05:13.590 --> 00:05:13.600 align:start position:0%
+for AI agents. You can run multiple
+ 
+
+00:05:13.600 --> 00:05:15.830 align:start position:0%
+for AI agents. You can run multiple
+agents<00:05:14.000><c> simultaneously.</c><00:05:15.199><c> Watch</c><00:05:15.440><c> what</c><00:05:15.680><c> each</c>
+
+00:05:15.830 --> 00:05:15.840 align:start position:0%
+agents simultaneously. Watch what each
+ 
+
+00:05:15.840 --> 00:05:17.830 align:start position:0%
+agents simultaneously. Watch what each
+one<00:05:16.000><c> is</c><00:05:16.240><c> working</c><00:05:16.400><c> on</c><00:05:16.560><c> in</c><00:05:16.800><c> real</c><00:05:16.960><c> time.</c><00:05:17.440><c> Assign</c>
+
+00:05:17.830 --> 00:05:17.840 align:start position:0%
+one is working on in real time. Assign
+ 
+
+00:05:17.840 --> 00:05:19.909 align:start position:0%
+one is working on in real time. Assign
+new<00:05:18.000><c> jobs</c><00:05:18.400><c> midtask.</c><00:05:19.199><c> Comment</c><00:05:19.520><c> on</c><00:05:19.680><c> their</c>
+
+00:05:19.909 --> 00:05:19.919 align:start position:0%
+new jobs midtask. Comment on their
+ 
+
+00:05:19.919 --> 00:05:22.310 align:start position:0%
+new jobs midtask. Comment on their
+artifacts.<00:05:20.720><c> Review</c><00:05:21.120><c> browser</c><00:05:21.520><c> recordings</c><00:05:22.160><c> all</c>
+
+00:05:22.310 --> 00:05:22.320 align:start position:0%
+artifacts. Review browser recordings all
+ 
+
+00:05:22.320 --> 00:05:25.430 align:start position:0%
+artifacts. Review browser recordings all
+from<00:05:22.560><c> one</c><00:05:22.800><c> dashboard.</c><00:05:23.759><c> This</c><00:05:23.919><c> is</c><00:05:24.080><c> what</c><00:05:24.320><c> makes</c>
+
+00:05:25.430 --> 00:05:25.440 align:start position:0%
+from one dashboard. This is what makes
+ 
+
+00:05:25.440 --> 00:05:27.189 align:start position:0%
+from one dashboard. This is what makes
+parallel<00:05:25.919><c> AI</c><00:05:26.320><c> development</c><00:05:26.880><c> actually</c>
+
+00:05:27.189 --> 00:05:27.199 align:start position:0%
+parallel AI development actually
+ 
+
+00:05:27.199 --> 00:05:28.870 align:start position:0%
+parallel AI development actually
+possible.<00:05:27.759><c> You're</c><00:05:27.919><c> not</c><00:05:28.080><c> managing</c><00:05:28.400><c> one</c><00:05:28.639><c> task</c>
+
+00:05:28.870 --> 00:05:28.880 align:start position:0%
+possible. You're not managing one task
+ 
+
+00:05:28.880 --> 00:05:30.710 align:start position:0%
+possible. You're not managing one task
+at<00:05:29.120><c> a</c><00:05:29.280><c> time.</c><00:05:29.680><c> You're</c><00:05:29.919><c> running</c><00:05:30.160><c> a</c><00:05:30.320><c> whole</c><00:05:30.560><c> team</c>
+
+00:05:30.710 --> 00:05:30.720 align:start position:0%
+at a time. You're running a whole team
+ 
+
+00:05:30.720 --> 00:05:33.430 align:start position:0%
+at a time. You're running a whole team
+of<00:05:30.880><c> agents,</c><00:05:32.000><c> all</c><00:05:32.320><c> building,</c><00:05:32.720><c> all</c><00:05:32.960><c> testing,</c>
+
+00:05:33.430 --> 00:05:33.440 align:start position:0%
+of agents, all building, all testing,
+ 
+
+00:05:33.440 --> 00:05:36.230 align:start position:0%
+of agents, all building, all testing,
+all<00:05:33.600><c> producing</c><00:05:34.080><c> artifacts</c><00:05:35.440><c> while</c><00:05:35.759><c> you</c><00:05:35.919><c> sit</c><00:05:36.080><c> in</c>
+
+00:05:36.230 --> 00:05:36.240 align:start position:0%
+all producing artifacts while you sit in
+ 
+
+00:05:36.240 --> 00:05:37.909 align:start position:0%
+all producing artifacts while you sit in
+the<00:05:36.320><c> middle</c><00:05:36.560><c> directing</c><00:05:37.039><c> traffic.</c><00:05:37.600><c> Let</c><00:05:37.759><c> me</c>
+
+00:05:37.909 --> 00:05:37.919 align:start position:0%
+the middle directing traffic. Let me
+ 
+
+00:05:37.919 --> 00:05:39.830 align:start position:0%
+the middle directing traffic. Let me
+show<00:05:38.080><c> you</c><00:05:38.320><c> exactly</c><00:05:38.720><c> what</c><00:05:38.960><c> this</c><00:05:39.199><c> looks</c><00:05:39.440><c> like</c><00:05:39.600><c> in</c>
+
+00:05:39.830 --> 00:05:39.840 align:start position:0%
+show you exactly what this looks like in
+ 
+
+00:05:39.840 --> 00:05:42.469 align:start position:0%
+show you exactly what this looks like in
+practice.<00:05:40.400><c> Two</c><00:05:40.720><c> real</c><00:05:41.039><c> workflows.</c><00:05:41.680><c> No</c><00:05:42.000><c> fluff.</c>
+
+00:05:42.469 --> 00:05:42.479 align:start position:0%
+practice. Two real workflows. No fluff.
+ 
+
+00:05:42.479 --> 00:05:44.950 align:start position:0%
+practice. Two real workflows. No fluff.
+Workflow<00:05:43.039><c> one,</c><00:05:43.520><c> landing</c><00:05:43.919><c> page</c><00:05:44.240><c> for</c><00:05:44.400><c> the</c><00:05:44.560><c> AI</c>
+
+00:05:44.950 --> 00:05:44.960 align:start position:0%
+Workflow one, landing page for the AI
+ 
+
+00:05:44.960 --> 00:05:47.670 align:start position:0%
+Workflow one, landing page for the AI
+profit<00:05:45.280><c> boardroom.</c><00:05:45.919><c> I</c><00:05:46.160><c> open</c><00:05:46.560><c> anti-gravity.</c><00:05:47.440><c> I</c>
+
+00:05:47.670 --> 00:05:47.680 align:start position:0%
+profit boardroom. I open anti-gravity. I
+ 
+
+00:05:47.680 --> 00:05:49.830 align:start position:0%
+profit boardroom. I open anti-gravity. I
+type,<00:05:48.240><c> build</c><00:05:48.560><c> a</c><00:05:48.720><c> high</c><00:05:49.039><c> converting</c><00:05:49.520><c> landing</c>
+
+00:05:49.830 --> 00:05:49.840 align:start position:0%
+type, build a high converting landing
+ 
+
+00:05:49.840 --> 00:05:51.990 align:start position:0%
+type, build a high converting landing
+page<00:05:50.080><c> for</c><00:05:50.320><c> the</c><00:05:50.479><c> AI</c><00:05:50.800><c> profit</c><00:05:51.120><c> boardroom.</c><00:05:51.759><c> It</c>
+
+00:05:51.990 --> 00:05:52.000 align:start position:0%
+page for the AI profit boardroom. It
+ 
+
+00:05:52.000 --> 00:05:53.670 align:start position:0%
+page for the AI profit boardroom. It
+needs<00:05:52.160><c> to</c><00:05:52.320><c> explain</c><00:05:52.639><c> the</c><00:05:52.880><c> value</c><00:05:53.120><c> of</c><00:05:53.280><c> AI</c>
+
+00:05:53.670 --> 00:05:53.680 align:start position:0%
+needs to explain the value of AI
+ 
+
+00:05:53.680 --> 00:05:56.230 align:start position:0%
+needs to explain the value of AI
+automation.<00:05:54.479><c> Highlight</c><00:05:54.800><c> our</c><00:05:55.120><c> 40,000</c><00:05:55.919><c> member</c>
+
+00:05:56.230 --> 00:05:56.240 align:start position:0%
+automation. Highlight our 40,000 member
+ 
+
+00:05:56.240 --> 00:05:58.790 align:start position:0%
+automation. Highlight our 40,000 member
+community<00:05:56.960><c> and</c><00:05:57.120><c> have</c><00:05:57.280><c> a</c><00:05:57.520><c> strong</c><00:05:57.759><c> CTA</c><00:05:58.320><c> to</c><00:05:58.479><c> drive</c>
+
+00:05:58.790 --> 00:05:58.800 align:start position:0%
+community and have a strong CTA to drive
+ 
+
+00:05:58.800 --> 00:06:01.270 align:start position:0%
+community and have a strong CTA to drive
+new<00:05:59.039><c> signups</c><00:05:59.520><c> and</c><00:05:59.759><c> leads.</c><00:06:00.400><c> The</c><00:06:00.639><c> agent</c><00:06:00.960><c> plans</c>
+
+00:06:01.270 --> 00:06:01.280 align:start position:0%
+new signups and leads. The agent plans
+ 
+
+00:06:01.280 --> 00:06:03.909 align:start position:0%
+new signups and leads. The agent plans
+the<00:06:01.440><c> project,</c><00:06:02.080><c> writes</c><00:06:02.400><c> React</c><00:06:02.800><c> code,</c><00:06:03.360><c> spins</c><00:06:03.759><c> up</c>
+
+00:06:03.909 --> 00:06:03.919 align:start position:0%
+the project, writes React code, spins up
+ 
+
+00:06:03.919 --> 00:06:06.150 align:start position:0%
+the project, writes React code, spins up
+a<00:06:04.080><c> local</c><00:06:04.400><c> preview,</c><00:06:05.039><c> tests</c><00:06:05.360><c> the</c><00:06:05.600><c> page</c><00:06:06.000><c> layout</c>
+
+00:06:06.150 --> 00:06:06.160 align:start position:0%
+a local preview, tests the page layout
+ 
+
+00:06:06.160 --> 00:06:08.230 align:start position:0%
+a local preview, tests the page layout
+in<00:06:06.319><c> a</c><00:06:06.479><c> real</c><00:06:06.720><c> browser,</c><00:06:07.199><c> takes</c><00:06:07.520><c> a</c><00:06:07.680><c> screenshot,</c>
+
+00:06:08.230 --> 00:06:08.240 align:start position:0%
+in a real browser, takes a screenshot,
+ 
+
+00:06:08.240 --> 00:06:10.629 align:start position:0%
+in a real browser, takes a screenshot,
+uploads<00:06:08.639><c> it</c><00:06:08.800><c> as</c><00:06:08.960><c> an</c><00:06:09.120><c> artifact.</c><00:06:10.000><c> I</c><00:06:10.240><c> look</c><00:06:10.400><c> at</c><00:06:10.479><c> the</c>
+
+00:06:10.629 --> 00:06:10.639 align:start position:0%
+uploads it as an artifact. I look at the
+ 
+
+00:06:10.639 --> 00:06:12.469 align:start position:0%
+uploads it as an artifact. I look at the
+screenshot.<00:06:11.199><c> I</c><00:06:11.360><c> leave</c><00:06:11.520><c> a</c><00:06:11.680><c> comment.</c><00:06:12.240><c> The</c>
+
+00:06:12.469 --> 00:06:12.479 align:start position:0%
+screenshot. I leave a comment. The
+ 
+
+00:06:12.479 --> 00:06:14.070 align:start position:0%
+screenshot. I leave a comment. The
+headline<00:06:12.800><c> is</c><00:06:12.960><c> too</c><00:06:13.199><c> vague.</c><00:06:13.600><c> Make</c><00:06:13.759><c> it</c><00:06:13.919><c> more</c>
+
+00:06:14.070 --> 00:06:14.080 align:start position:0%
+headline is too vague. Make it more
+ 
+
+00:06:14.080 --> 00:06:16.070 align:start position:0%
+headline is too vague. Make it more
+direct<00:06:14.319><c> and</c><00:06:14.560><c> benefit</c><00:06:14.960><c> focused.</c><00:06:15.759><c> Move</c><00:06:15.919><c> the</c>
+
+00:06:16.070 --> 00:06:16.080 align:start position:0%
+direct and benefit focused. Move the
+ 
+
+00:06:16.080 --> 00:06:18.309 align:start position:0%
+direct and benefit focused. Move the
+join<00:06:16.400><c> button</c><00:06:16.720><c> above</c><00:06:16.960><c> the</c><00:06:17.120><c> fold.</c><00:06:17.680><c> Add</c><00:06:17.919><c> a</c><00:06:18.160><c> short</c>
+
+00:06:18.309 --> 00:06:18.319 align:start position:0%
+join button above the fold. Add a short
+ 
+
+00:06:18.319 --> 00:06:19.990 align:start position:0%
+join button above the fold. Add a short
+testimonial<00:06:18.960><c> strip</c><00:06:19.280><c> below</c><00:06:19.440><c> the</c><00:06:19.600><c> hero</c>
+
+00:06:19.990 --> 00:06:20.000 align:start position:0%
+testimonial strip below the hero
+ 
+
+00:06:20.000 --> 00:06:22.150 align:start position:0%
+testimonial strip below the hero
+section.<00:06:20.479><c> Agent</c><00:06:20.960><c> updates</c><00:06:21.440><c> everything.</c><00:06:21.840><c> Keeps</c>
+
+00:06:22.150 --> 00:06:22.160 align:start position:0%
+section. Agent updates everything. Keeps
+ 
+
+00:06:22.160 --> 00:06:23.909 align:start position:0%
+section. Agent updates everything. Keeps
+building.<00:06:22.560><c> Uploads</c><00:06:22.960><c> a</c><00:06:23.120><c> new</c><00:06:23.280><c> screenshot.</c><00:06:23.759><c> I</c>
+
+00:06:23.909 --> 00:06:23.919 align:start position:0%
+building. Uploads a new screenshot. I
+ 
+
+00:06:23.919 --> 00:06:25.830 align:start position:0%
+building. Uploads a new screenshot. I
+approve<00:06:24.160><c> the</c><00:06:24.319><c> direction.</c><00:06:24.880><c> Done.</c><00:06:25.440><c> That</c><00:06:25.680><c> used</c>
+
+00:06:25.830 --> 00:06:25.840 align:start position:0%
+approve the direction. Done. That used
+ 
+
+00:06:25.840 --> 00:06:27.670 align:start position:0%
+approve the direction. Done. That used
+to<00:06:26.000><c> take</c><00:06:26.240><c> days</c><00:06:26.639><c> coordinating</c><00:06:27.280><c> with</c><00:06:27.440><c> the</c>
+
+00:06:27.670 --> 00:06:27.680 align:start position:0%
+to take days coordinating with the
+ 
+
+00:06:27.680 --> 00:06:29.990 align:start position:0%
+to take days coordinating with the
+developer<00:06:28.319><c> or</c><00:06:28.560><c> hours</c><00:06:29.039><c> grinding</c><00:06:29.520><c> through</c><00:06:29.759><c> it</c>
+
+00:06:29.990 --> 00:06:30.000 align:start position:0%
+developer or hours grinding through it
+ 
+
+00:06:30.000 --> 00:06:32.790 align:start position:0%
+developer or hours grinding through it
+manually<00:06:30.720><c> with</c><00:06:31.039><c> anti-gravity.</c><00:06:32.319><c> 10</c><00:06:32.560><c> minutes</c>
+
+00:06:32.790 --> 00:06:32.800 align:start position:0%
+manually with anti-gravity. 10 minutes
+ 
+
+00:06:32.800 --> 00:06:34.710 align:start position:0%
+manually with anti-gravity. 10 minutes
+of<00:06:33.039><c> focused</c><00:06:33.360><c> attention</c><00:06:33.919><c> and</c><00:06:34.160><c> a</c><00:06:34.319><c> handful</c><00:06:34.560><c> of</c>
+
+00:06:34.710 --> 00:06:34.720 align:start position:0%
+of focused attention and a handful of
+ 
+
+00:06:34.720 --> 00:06:38.150 align:start position:0%
+of focused attention and a handful of
+comments.<00:06:36.080><c> Workflow</c><00:06:36.720><c> 2,</c><00:06:37.120><c> content</c><00:06:37.520><c> analytics</c>
+
+00:06:38.150 --> 00:06:38.160 align:start position:0%
+comments. Workflow 2, content analytics
+ 
+
+00:06:38.160 --> 00:06:39.670 align:start position:0%
+comments. Workflow 2, content analytics
+dashboard.
+
+00:06:39.670 --> 00:06:39.680 align:start position:0%
+dashboard.
+ 
+
+00:06:39.680 --> 00:06:41.830 align:start position:0%
+dashboard.
+Now,<00:06:40.000><c> say</c><00:06:40.240><c> I</c><00:06:40.400><c> want</c><00:06:40.479><c> to</c><00:06:40.639><c> track</c><00:06:40.880><c> how</c><00:06:41.120><c> AI</c><00:06:41.520><c> Profit</c>
+
+00:06:41.830 --> 00:06:41.840 align:start position:0%
+Now, say I want to track how AI Profit
+ 
+
+00:06:41.840 --> 00:06:44.150 align:start position:0%
+Now, say I want to track how AI Profit
+Boardroom<00:06:42.400><c> content</c><00:06:42.720><c> is</c><00:06:42.960><c> performing,</c><00:06:43.759><c> views,</c>
+
+00:06:44.150 --> 00:06:44.160 align:start position:0%
+Boardroom content is performing, views,
+ 
+
+00:06:44.160 --> 00:06:46.309 align:start position:0%
+Boardroom content is performing, views,
+watch<00:06:44.479><c> time,</c><00:06:44.880><c> growth</c><00:06:45.199><c> week</c><00:06:45.440><c> overweek,</c><00:06:46.000><c> top</c>
+
+00:06:46.309 --> 00:06:46.319 align:start position:0%
+watch time, growth week overweek, top
+ 
+
+00:06:46.319 --> 00:06:48.870 align:start position:0%
+watch time, growth week overweek, top
+posts<00:06:46.639><c> by</c><00:06:46.880><c> engagement.</c><00:06:47.759><c> I</c><00:06:48.000><c> tell</c><00:06:48.160><c> the</c><00:06:48.400><c> agent,</c>
+
+00:06:48.870 --> 00:06:48.880 align:start position:0%
+posts by engagement. I tell the agent,
+ 
+
+00:06:48.880 --> 00:06:50.950 align:start position:0%
+posts by engagement. I tell the agent,
+"Build<00:06:49.280><c> a</c><00:06:49.440><c> content</c><00:06:49.759><c> analytics</c><00:06:50.319><c> dashboard</c><00:06:50.800><c> for</c>
+
+00:06:50.950 --> 00:06:50.960 align:start position:0%
+"Build a content analytics dashboard for
+ 
+
+00:06:50.960 --> 00:06:53.510 align:start position:0%
+"Build a content analytics dashboard for
+the<00:06:51.120><c> AI</c><00:06:51.520><c> Profit</c><00:06:51.759><c> Boardroom.</c><00:06:52.720><c> Show</c><00:06:53.039><c> YouTube</c>
+
+00:06:53.510 --> 00:06:53.520 align:start position:0%
+the AI Profit Boardroom. Show YouTube
+ 
+
+00:06:53.520 --> 00:06:56.070 align:start position:0%
+the AI Profit Boardroom. Show YouTube
+growth<00:06:53.919><c> metrics,</c><00:06:54.720><c> top</c><00:06:54.960><c> performing</c><00:06:55.440><c> videos</c><00:06:55.840><c> by</c>
+
+00:06:56.070 --> 00:06:56.080 align:start position:0%
+growth metrics, top performing videos by
+ 
+
+00:06:56.080 --> 00:06:58.550 align:start position:0%
+growth metrics, top performing videos by
+watchtime,<00:06:56.800><c> and</c><00:06:57.039><c> weekly</c><00:06:57.440><c> trend</c><00:06:57.759><c> lines.</c><00:06:58.319><c> Clean</c>
+
+00:06:58.550 --> 00:06:58.560 align:start position:0%
+watchtime, and weekly trend lines. Clean
+ 
+
+00:06:58.560 --> 00:07:00.550 align:start position:0%
+watchtime, and weekly trend lines. Clean
+and<00:06:58.800><c> modern</c><00:06:59.120><c> design.</c><00:06:59.680><c> Agent</c><00:07:00.160><c> builds</c><00:07:00.400><c> the</c>
+
+00:07:00.550 --> 00:07:00.560 align:start position:0%
+and modern design. Agent builds the
+ 
+
+00:07:00.560 --> 00:07:02.469 align:start position:0%
+and modern design. Agent builds the
+backend<00:07:00.960><c> logic.</c><00:07:01.680><c> Creates</c><00:07:02.000><c> the</c><00:07:02.240><c> chart</c>
+
+00:07:02.469 --> 00:07:02.479 align:start position:0%
+backend logic. Creates the chart
+ 
+
+00:07:02.479 --> 00:07:04.710 align:start position:0%
+backend logic. Creates the chart
+components.<00:07:03.280><c> Runs</c><00:07:03.599><c> tests</c><00:07:03.919><c> against</c><00:07:04.240><c> dummy</c>
+
+00:07:04.710 --> 00:07:04.720 align:start position:0%
+components. Runs tests against dummy
+ 
+
+00:07:04.720 --> 00:07:06.790 align:start position:0%
+components. Runs tests against dummy
+data.<00:07:05.360><c> Records</c><00:07:05.680><c> a</c><00:07:05.919><c> full</c><00:07:06.160><c> browser.</c>
+
+00:07:06.790 --> 00:07:06.800 align:start position:0%
+data. Records a full browser.
+ 
+
+00:07:06.800 --> 00:07:08.870 align:start position:0%
+data. Records a full browser.
+Walkthrough<00:07:07.360><c> of</c><00:07:07.520><c> the</c><00:07:07.680><c> working</c><00:07:08.000><c> dashboard.</c>
+
+00:07:08.870 --> 00:07:08.880 align:start position:0%
+Walkthrough of the working dashboard.
+ 
+
+00:07:08.880 --> 00:07:10.950 align:start position:0%
+Walkthrough of the working dashboard.
+All right.<00:07:09.360><c> Uploads</c><00:07:09.840><c> the</c><00:07:10.000><c> recording</c><00:07:10.479><c> as</c><00:07:10.800><c> an</c>
+
+00:07:10.950 --> 00:07:10.960 align:start position:0%
+All right. Uploads the recording as an
+ 
+
+00:07:10.960 --> 00:07:13.350 align:start position:0%
+All right. Uploads the recording as an
+artifact.<00:07:11.840><c> I</c><00:07:12.080><c> watch</c><00:07:12.319><c> the</c><00:07:12.560><c> recording.</c><00:07:13.120><c> Leave</c>
+
+00:07:13.350 --> 00:07:13.360 align:start position:0%
+artifact. I watch the recording. Leave
+ 
+
+00:07:13.360 --> 00:07:15.430 align:start position:0%
+artifact. I watch the recording. Leave
+one<00:07:13.599><c> comment.</c><00:07:14.160><c> Add</c><00:07:14.319><c> a</c><00:07:14.560><c> table</c><00:07:14.880><c> underneath</c><00:07:15.280><c> the</c>
+
+00:07:15.430 --> 00:07:15.440 align:start position:0%
+one comment. Add a table underneath the
+ 
+
+00:07:15.440 --> 00:07:17.430 align:start position:0%
+one comment. Add a table underneath the
+charts<00:07:15.759><c> showing</c><00:07:16.080><c> top</c><00:07:16.319><c> 10</c><00:07:16.560><c> videos</c><00:07:16.880><c> by</c><00:07:17.120><c> watch</c>
+
+00:07:17.430 --> 00:07:17.440 align:start position:0%
+charts showing top 10 videos by watch
+ 
+
+00:07:17.440 --> 00:07:19.350 align:start position:0%
+charts showing top 10 videos by watch
+time<00:07:17.599><c> this</c><00:07:17.840><c> month.</c><00:07:18.160><c> Done.</c><00:07:18.560><c> Updated.</c><00:07:19.120><c> Moving</c>
+
+00:07:19.350 --> 00:07:19.360 align:start position:0%
+time this month. Done. Updated. Moving
+ 
+
+00:07:19.360 --> 00:07:21.670 align:start position:0%
+time this month. Done. Updated. Moving
+on.<00:07:20.000><c> This</c><00:07:20.160><c> is</c><00:07:20.319><c> how</c><00:07:20.560><c> AI</c><00:07:20.960><c> profit</c><00:07:21.280><c> boardroom</c>
+
+00:07:21.670 --> 00:07:21.680 align:start position:0%
+on. This is how AI profit boardroom
+ 
+
+00:07:21.680 --> 00:07:23.830 align:start position:0%
+on. This is how AI profit boardroom
+members<00:07:22.000><c> are</c><00:07:22.240><c> already</c><00:07:22.560><c> operating.</c><00:07:23.520><c> Not</c><00:07:23.680><c> just</c>
+
+00:07:23.830 --> 00:07:23.840 align:start position:0%
+members are already operating. Not just
+ 
+
+00:07:23.840 --> 00:07:26.390 align:start position:0%
+members are already operating. Not just
+using<00:07:24.160><c> AI</c><00:07:24.560><c> tools,</c><00:07:25.199><c> actively</c><00:07:25.759><c> managing</c><00:07:26.160><c> them</c>
+
+00:07:26.390 --> 00:07:26.400 align:start position:0%
+using AI tools, actively managing them
+ 
+
+00:07:26.400 --> 00:07:28.950 align:start position:0%
+using AI tools, actively managing them
+like<00:07:26.639><c> a</c><00:07:26.800><c> team.</c><00:07:28.000><c> If</c><00:07:28.240><c> you</c><00:07:28.400><c> want</c><00:07:28.479><c> to</c><00:07:28.639><c> actually</c>
+
+00:07:28.950 --> 00:07:28.960 align:start position:0%
+like a team. If you want to actually
+ 
+
+00:07:28.960 --> 00:07:31.270 align:start position:0%
+like a team. If you want to actually
+implement<00:07:29.440><c> this</c><00:07:29.680><c> inside</c><00:07:30.160><c> your</c><00:07:30.400><c> business,</c><00:07:31.120><c> not</c>
+
+00:07:31.270 --> 00:07:31.280 align:start position:0%
+implement this inside your business, not
+ 
+
+00:07:31.280 --> 00:07:33.589 align:start position:0%
+implement this inside your business, not
+just<00:07:31.520><c> know</c><00:07:31.759><c> about</c><00:07:31.919><c> it,</c><00:07:32.479><c> come</c><00:07:32.720><c> join</c><00:07:33.039><c> the</c><00:07:33.199><c> AI</c>
+
+00:07:33.589 --> 00:07:33.599 align:start position:0%
+just know about it, come join the AI
+ 
+
+00:07:33.599 --> 00:07:36.390 align:start position:0%
+just know about it, come join the AI
+profit<00:07:33.919><c> boardroom.</c><00:07:35.360><c> We</c><00:07:35.599><c> go</c><00:07:35.759><c> hands-on</c><00:07:36.240><c> with</c>
+
+00:07:36.390 --> 00:07:36.400 align:start position:0%
+profit boardroom. We go hands-on with
+ 
+
+00:07:36.400 --> 00:07:38.550 align:start position:0%
+profit boardroom. We go hands-on with
+tools<00:07:36.720><c> like</c><00:07:36.880><c> anti-gravity,</c><00:07:38.000><c> build</c><00:07:38.319><c> real</c>
+
+00:07:38.550 --> 00:07:38.560 align:start position:0%
+tools like anti-gravity, build real
+ 
+
+00:07:38.560 --> 00:07:40.070 align:start position:0%
+tools like anti-gravity, build real
+workflows<00:07:39.120><c> together,</c><00:07:39.520><c> and</c><00:07:39.759><c> give</c><00:07:39.919><c> you</c>
+
+00:07:40.070 --> 00:07:40.080 align:start position:0%
+workflows together, and give you
+ 
+
+00:07:40.080 --> 00:07:42.390 align:start position:0%
+workflows together, and give you
+everything<00:07:40.400><c> you</c><00:07:40.639><c> need</c><00:07:40.960><c> to</c><00:07:41.199><c> put</c><00:07:41.520><c> AI</c><00:07:41.919><c> automation</c>
+
+00:07:42.390 --> 00:07:42.400 align:start position:0%
+everything you need to put AI automation
+ 
+
+00:07:42.400 --> 00:07:44.550 align:start position:0%
+everything you need to put AI automation
+to<00:07:42.639><c> work</c><00:07:42.800><c> in</c><00:07:43.039><c> your</c><00:07:43.199><c> business</c><00:07:43.520><c> this</c><00:07:43.759><c> week.</c><00:07:44.240><c> Link</c>
+
+00:07:44.550 --> 00:07:44.560 align:start position:0%
+to work in your business this week. Link
+ 
+
+00:07:44.560 --> 00:07:46.390 align:start position:0%
+to work in your business this week. Link
+is<00:07:44.720><c> in</c><00:07:44.880><c> the</c><00:07:45.039><c> description.</c><00:07:45.840><c> And</c><00:07:46.000><c> if</c><00:07:46.160><c> you</c><00:07:46.240><c> want</c>
+
+00:07:46.390 --> 00:07:46.400 align:start position:0%
+is in the description. And if you want
+ 
+
+00:07:46.400 --> 00:07:49.430 align:start position:0%
+is in the description. And if you want
+the<00:07:46.639><c> full</c><00:07:46.960><c> SOPs,</c><00:07:48.160><c> step-by-step</c><00:07:48.960><c> process</c>
+
+00:07:49.430 --> 00:07:49.440 align:start position:0%
+the full SOPs, step-by-step process
+ 
+
+00:07:49.440 --> 00:07:52.150 align:start position:0%
+the full SOPs, step-by-step process
+breakdowns,<00:07:50.240><c> and</c><00:07:50.639><c> 100</c><00:07:50.880><c> plus</c><00:07:51.199><c> AI</c><00:07:51.599><c> use</c><00:07:51.759><c> cases</c>
+
+00:07:52.150 --> 00:07:52.160 align:start position:0%
+breakdowns, and 100 plus AI use cases
+ 
+
+00:07:52.160 --> 00:07:55.110 align:start position:0%
+breakdowns, and 100 plus AI use cases
+like<00:07:52.400><c> this</c><00:07:52.560><c> one,</c><00:07:53.199><c> join</c><00:07:53.440><c> the</c><00:07:53.680><c> AI</c><00:07:54.080><c> success</c><00:07:54.560><c> lab.</c>
+
+00:07:55.110 --> 00:07:55.120 align:start position:0%
+like this one, join the AI success lab.
+ 
+
+00:07:55.120 --> 00:07:57.909 align:start position:0%
+like this one, join the AI success lab.
+It<00:07:55.360><c> is</c><00:07:55.440><c> our</c><00:07:55.680><c> free</c><00:07:55.919><c> AI</c><00:07:56.400><c> community</c><00:07:56.800><c> with</c><00:07:57.120><c> 40,000</c>
+
+00:07:57.909 --> 00:07:57.919 align:start position:0%
+It is our free AI community with 40,000
+ 
+
+00:07:57.919 --> 00:07:59.589 align:start position:0%
+It is our free AI community with 40,000
+members<00:07:58.400><c> who</c><00:07:58.639><c> are</c><00:07:58.879><c> already</c><00:07:59.199><c> putting</c><00:07:59.440><c> this</c>
+
+00:07:59.589 --> 00:07:59.599 align:start position:0%
+members who are already putting this
+ 
+
+00:07:59.599 --> 00:08:01.749 align:start position:0%
+members who are already putting this
+into<00:07:59.919><c> practice</c><00:08:00.319><c> every</c><00:08:00.639><c> day.</c><00:08:01.280><c> You</c><00:08:01.440><c> will</c><00:08:01.599><c> get</c>
+
+00:08:01.749 --> 00:08:01.759 align:start position:0%
+into practice every day. You will get
+ 
+
+00:08:01.759 --> 00:08:03.670 align:start position:0%
+into practice every day. You will get
+all<00:08:02.000><c> the</c><00:08:02.160><c> notes</c><00:08:02.479><c> from</c><00:08:02.720><c> this</c><00:08:02.960><c> video</c><00:08:03.199><c> in</c><00:08:03.440><c> there,</c>
+
+00:08:03.670 --> 00:08:03.680 align:start position:0%
+all the notes from this video in there,
+ 
+
+00:08:03.680 --> 00:08:05.909 align:start position:0%
+all the notes from this video in there,
+plus<00:08:04.000><c> access</c><00:08:04.319><c> to</c><00:08:04.479><c> the</c><00:08:04.720><c> full</c><00:08:04.960><c> community.</c><00:08:05.599><c> Links</c>
+
+00:08:05.909 --> 00:08:05.919 align:start position:0%
+plus access to the full community. Links
+ 
+
+00:08:05.919 --> 00:08:07.510 align:start position:0%
+plus access to the full community. Links
+are<00:08:06.080><c> in</c><00:08:06.160><c> the</c><00:08:06.319><c> comments</c><00:08:06.560><c> in</c><00:08:06.720><c> the</c><00:08:06.879><c> description.</c>
+
+00:08:07.510 --> 00:08:07.520 align:start position:0%
+are in the comments in the description.
+ 
+
+00:08:07.520 --> 00:08:09.430 align:start position:0%
+are in the comments in the description.
+Drop<00:08:07.759><c> a</c><00:08:08.000><c> comment</c><00:08:08.160><c> below</c><00:08:08.479><c> right</c><00:08:08.720><c> now.</c><00:08:08.960><c> Julian</c>
+
+00:08:09.430 --> 00:08:09.440 align:start position:0%
+Drop a comment below right now. Julian
+ 
+
+00:08:09.440 --> 00:08:10.950 align:start position:0%
+Drop a comment below right now. Julian
+reads<00:08:09.680><c> every</c><00:08:09.919><c> single</c><00:08:10.080><c> one.</c><00:08:10.400><c> See</c><00:08:10.639><c> you</c><00:08:10.720><c> in</c><00:08:10.879><c> the</c>
+
+00:08:10.950 --> 00:08:10.960 align:start position:0%
+reads every single one. See you in the
+ 
+
+00:08:10.960 --> 00:08:13.440 align:start position:0%
+reads every single one. See you in the
+next<00:08:11.120><c> one.</c>
+

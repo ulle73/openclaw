@@ -1,0 +1,153 @@
+{
+  "id": "OGBEYTWjPZU",
+  "title": "NEW Google Pomelli Update Is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260312",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nGoogle's New FREE AI Branding Tool Is Insane! (Pomelly Update)\n\nDiscover how to use Google's new free marketing tool, Pomelly, to automatically build your business DNA and generate full marketing campaigns. This update includes a global rollout to 170+ countries and a brand new AI animation feature to turn static images into high-performing video ads.\n\n00:00 - Intro: Google's New Marketing AI\n00:21 - What is Google Pomelly?\n01:26 - Global Expansion: 170+ Countries\n01:44 - New: AI Video Animation Feature\n02:10 - Step 1: Build Your Brand DNA\n03:20 - Step 2: Generate Your Campaign\n04:13 - Step 3: Edit & Download\n05:53 - 4 Tips for Best AI Results\n06:50 - Final Verdict & How to Start",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "pomelli"
+  ],
+  "topic_tags": [
+    "pomelli",
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
+  ],
+  "topic_cluster_key": "pomelli",
+  "related_video_ids": [
+    "L-CanI8zDWI",
+    "pSQE1SsGfSQ",
+    "hllhkLGWA34",
+    "fnLXErf-plM",
+    "9kjntAZ_L0M"
+  ],
+  "related_videos": [
+    {
+      "videoId": "L-CanI8zDWI",
+      "title": "Google AI’s New Pomelli Update Is Insane!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/L-CanI8zDWI/summary.md",
+      "topic_cluster_key": "pomelli",
+      "shared_tags": [
+        "pomelli",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": true,
+      "score": 19
+    },
+    {
+      "videoId": "pSQE1SsGfSQ",
+      "title": "Build Anything with Devin 2.2! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/pSQE1SsGfSQ/summary.md",
+      "topic_cluster_key": "devin-2",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "hllhkLGWA34",
+      "title": "ChatGPT 5.4 + Claude Opus 4.6 is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/hllhkLGWA34/summary.md",
+      "topic_cluster_key": "chatgpt__claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "9kjntAZ_L0M",
+      "title": "NEW Copilot Cowork Beats Claude Cowork?!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/9kjntAZ_L0M/summary.md",
+      "topic_cluster_key": "claude__copilot-cowork",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 11
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "L-CanI8zDWI",
+      "pSQE1SsGfSQ",
+      "hllhkLGWA34",
+      "fnLXErf-plM",
+      "9kjntAZ_L0M"
+    ]
+  },
+  "updated_at": "2026-03-12T09:30:14Z"
+}

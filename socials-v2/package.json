@@ -1,0 +1,25 @@
+{
+  "name": "socials-v2",
+  "version": "1.0.0",
+  "description": "White-label social media workflow with multi-brand support, dashboard pipeline, and planner-ready scheduling.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "serve": "node cli.js serve",
+    "worker": "node cli.js worker",
+    "process-next": "node cli.js process-next",
+    "list-posts": "node cli.js list-posts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "googleapis": "^171.4.0",
+    "js-yaml": "^4.1.1",
+    "openai": "^6.27.0"
+  }
+}

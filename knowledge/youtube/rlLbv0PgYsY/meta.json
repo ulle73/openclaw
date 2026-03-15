@@ -1,0 +1,153 @@
+{
+  "id": "rlLbv0PgYsY",
+  "title": "OpenClaw + Gemini Embedding 2 is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260313",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nBuild AI Agents That Remember Everything: OpenClaw + Gemini Embedding 2\n\nLearn how to combine OpenClaw and Gemini Embedding 2 to build powerful AI agents with multimodal memory. This setup allows your assistants to process and remember text, images, audio, and video for next-level automation.\n\n00:00 - Intro: The Ultimate AI Combo\n00:23 - What is OpenClaw?\n01:28 - New Updates & Massive Growth\n02:04 - Gemini Embedding 2 Explained\n03:36 - Creating AI with Perfect Memory\n04:50 - How to Configure the Memory\n05:08 - 4 Powerful AI Use Cases\n06:40 - The Future of AI Systems",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "gemini",
+    "claude"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "content-repurposing",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "gemini__openclaw",
+  "related_video_ids": [
+    "_s7tHRZUmdM",
+    "KyXUJnYjjAo",
+    "5lLC0o_D_Io",
+    "ptqHcTAwmlk",
+    "f8LJBh1AtKg"
+  ],
+  "related_videos": [
+    {
+      "videoId": "_s7tHRZUmdM",
+      "title": "NEW Google Gemini Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/_s7tHRZUmdM/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "content-repurposing"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "KyXUJnYjjAo",
+      "title": "New OpenClaw Discord Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KyXUJnYjjAo/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "5lLC0o_D_Io",
+      "title": "OpenClaw Virtual AI Agents Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/5lLC0o_D_Io/summary.md",
+      "topic_cluster_key": "agents__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "f8LJBh1AtKg",
+      "title": "Stop OpenClaw From Forgetting – The 3 Memory Layers Explained!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/f8LJBh1AtKg/summary.md",
+      "topic_cluster_key": "layers-explained__openclaw__the-3-memory",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "_s7tHRZUmdM",
+      "KyXUJnYjjAo",
+      "5lLC0o_D_Io",
+      "ptqHcTAwmlk",
+      "f8LJBh1AtKg"
+    ]
+  },
+  "updated_at": "2026-03-13T01:30:09Z"
+}

@@ -1,0 +1,19 @@
+platforms:
+  instagram:
+    active: true
+    default_aspect_ratio: "4:5"
+    max_caption_length: 2200
+    hashtag_count: 8
+    language: "sv"
+
+  linkedin:
+    active: false
+    default_aspect_ratio: "1:1"
+    max_caption_length: 3000
+    language: "sv"
+
+  facebook:
+    active: false
+    default_aspect_ratio: "1:1"
+    max_caption_length: 63206
+    language: "sv"

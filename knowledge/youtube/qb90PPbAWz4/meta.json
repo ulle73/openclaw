@@ -1,0 +1,153 @@
+{
+  "id": "qb90PPbAWz4",
+  "title": "Karpathy’s \"autoresearch\" explained in 24 minutes",
+  "channel": "Greg Isenberg",
+  "upload_date": "20260311",
+  "description": "I break down Andrej Karpathy's new open-source project, Autoresearch: what it is, how it works, and why some of the smartest people in tech are losing their minds over it. I walk through 10 concrete business ideas you can build on top of Autoresearch loops, from niche agent-in-a-box products to always-on A/B testing agencies. I also cover Karpathy's companion launch, Agent Hub, share community reactions, and show you step by step how to get started using Claude Code and a Colab GPU.\n\nI'm hosting a free workshop so you can build your business in the age of AI.\nSign up here: https://startup-ideas-pod.link/build-with-ai-2026\n\nLinks Mentioned:\nAutoresearch Github: https://startup-ideas-pod.link/autoresearch\n\nTimestamps\n00:00 – Intro\n00:45 – How Autoresearch Actually Works\n02:40 – Visual Walkthrough of the Autoresearch Loop\n03:37 – Mental Model: Your Research Bot That Runs While You Sleep\n05:26 – Idea 1: Niche Agent-in-a-Box Products\n06:48 – Idea 2: A/B Testing for Marketing (Landing Pages & Ads)\n08:45 – Idea 3: Research as a Service\n09:43 – Idea 4: Power Tool Inside Your Own SaaS\n10:49 – Idea 5: Agency That Runs 100× More Tests\n12:05 – Idea 6: Auto Quant for Trading Ideas\n13:44 – Idea 7: Always-On Lead Qualification & Follow-Up\n14:21 – Idea 8: Finance Ops Autopilot for Businesses\n15:09 – Idea 9: Internal Productivity Lab for Your Org\n15:53 – Idea 10: Done-for-You Research & Due Diligence Shop\n16:41 – Non business use cases\n18:27 – Karpathy's Agent Hub Announcement\n19:50 – How to Get Started with Autoresearch\n22:21 – Final Thoughts\n\nKey Points\n\n* Autoresearch is an open-source AI agent that sets a goal, runs experiments in a loop on a GPU, keeps the winners, and discards the rest — all while you sleep.\n* You need an NVIDIA GPU to run it (tested on H100), but you can rent one cheaply through Lambda Labs, Vast AI, RunPod, Google Cloud, or Google Colab.\n* The fastest way to get started is to use Claude Code to walk you through installation, then run it on Google Colab with a T4 GPU runtime.\n* Ten business ideas built on Autoresearch span niches like SaaS optimization, A/B testing agencies, trading backtests, CRM lead scoring, and done-for-you due diligence.\n* Karpathy also launched Agent Hub — essentially a GitHub designed for agent swarms to collaborate on the same codebase.\n* The project already has 25,000+ GitHub stars and is growing fast; early movers who tinker now build an unfair advantage.\n\nThe #1 tool to find startup ideas/trends - https://www.ideabrowser.com/\n\nLCA helps Fortune 500s and fast-growing startups build their future - from Warner Music to Fortnite to Dropbox. We turn 'what if' into reality with AI, apps, and next-gen products https://latecheckout.agency/\n\nThe Vibe Marketer - Resources for people into vibe marketing/marketing with AI: https://www.thevibemarketer.com/\n\nFIND ME ON SOCIAL\nX/Twitter: https://twitter.com/gregisenberg\nInstagram: https://instagram.com/gregisenberg/\nLinkedIn: https://www.linkedin.com/in/gisenberg/",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude"
+  ],
+  "topic_tags": [
+    "workflow-automation",
+    "marketing-explainers",
+    "prompt-design",
+    "proactive-assistant",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api"
+  ],
+  "topic_cluster_key": "claude",
+  "related_video_ids": [
+    "fnLXErf-plM",
+    "s2HalzQZ1MQ",
+    "m9aBfbXMnZY",
+    "RyxeYZ7TW3o",
+    "Fv-FxekmfTQ"
+  ],
+  "related_videos": [
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": true,
+      "score": 16
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 15
+    },
+    {
+      "videoId": "m9aBfbXMnZY",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/m9aBfbXMnZY/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "product-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 14
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "Fv-FxekmfTQ",
+      "title": "How to Make Claude Code 100X Better in 1 Click",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Fv-FxekmfTQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "marketing-explainers",
+        "product-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "fnLXErf-plM",
+      "s2HalzQZ1MQ",
+      "m9aBfbXMnZY",
+      "RyxeYZ7TW3o",
+      "Fv-FxekmfTQ"
+    ]
+  },
+  "updated_at": "2026-03-11T23:02:53Z"
+}

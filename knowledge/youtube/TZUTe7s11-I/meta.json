@@ -1,0 +1,158 @@
+{
+  "id": "TZUTe7s11-I",
+  "title": "Claude Code + Nano Banana 2 = Insane $10,000 Websites",
+  "channel": "Jack Roberts",
+  "upload_date": "20260311",
+  "description": "📈 ALL Systems: https://bit.ly/4kol0y5\n🎁 FREE Resources: https://bit.ly/4lI98Ih\n🎙️ My Goofy pod: https://bit.ly/3Od4CV8\n\n*Overview*\nYou can now build beautiful responsive websites with 3D animations in minutes using Claude Code and Nano Banana 2. I'm showing you exactly how to create premium websites that are mobile optimised, SEO ready, and look nothing like AI slop - perfect for selling to clients or building your own business.\n\nCORE Software\n🚀 AntiGravity: https://antigravity.google/\n🔥 Type with your voice: https://glaido.com\n📁 GitHub: https://github.com/\n☁️ Claude: https://claude.ai/\n\n*What Next?*\nGrab all the Claude skills and resources from the classroom link above - everything you need to start building these websites is waiting for you. Now get out there and build something ridiculously cool.",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "mcp",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "nano-banana-2",
+    "claude",
+    "000-websites",
+    "mcp"
+  ],
+  "topic_tags": [
+    "nano-banana-2",
+    "000-websites",
+    "mcp",
+    "workflow-automation",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity"
+  ],
+  "topic_cluster_key": "000-websites__claude__nano-banana-2",
+  "related_video_ids": [
+    "KAX0cWk1fJE",
+    "s2HalzQZ1MQ",
+    "Wxf9oqxODU0",
+    "RyxeYZ7TW3o",
+    "OV5eK91YY68"
+  ],
+  "related_videos": [
+    {
+      "videoId": "KAX0cWk1fJE",
+      "title": "Claude Code can Design Now (Figma is officially in trouble)",
+      "channel": "Riley Brown",
+      "summary_path": "knowledge/youtube/KAX0cWk1fJE/summary.md",
+      "topic_cluster_key": "claude__design-now",
+      "shared_tags": [
+        "mcp",
+        "nano-banana-2",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 14
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "Wxf9oqxODU0",
+      "title": "Claude Code just became UNSTOPPABLE (Skills 2.0)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/Wxf9oqxODU0/summary.md",
+      "topic_cluster_key": "claude__skills-2__unstoppable",
+      "shared_tags": [
+        "mcp",
+        "nano-banana-2",
+        "agent-automation",
+        "business-idea",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "mcp",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "nano-banana-2",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "KAX0cWk1fJE",
+      "s2HalzQZ1MQ",
+      "Wxf9oqxODU0",
+      "RyxeYZ7TW3o",
+      "OV5eK91YY68"
+    ]
+  },
+  "updated_at": "2026-03-11T23:47:36Z"
+}

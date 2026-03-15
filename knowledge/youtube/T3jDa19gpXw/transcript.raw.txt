@@ -1,0 +1,1936 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:03.350 align:start position:0%
+ 
+New<00:00:00.480><c> Clawed</c><00:00:01.040><c> Code</c><00:00:01.439><c> update</c><00:00:01.839><c> is</c><00:00:02.080><c> insane.</c><00:00:02.879><c> Clawed</c>
+
+00:00:03.350 --> 00:00:03.360 align:start position:0%
+New Clawed Code update is insane. Clawed
+ 
+
+00:00:03.360 --> 00:00:05.030 align:start position:0%
+New Clawed Code update is insane. Clawed
+Code<00:00:03.760><c> just</c><00:00:04.000><c> dropped</c><00:00:04.240><c> something</c><00:00:04.560><c> that</c><00:00:04.720><c> dev</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+Code just dropped something that dev
+ 
+
+00:00:05.040 --> 00:00:07.110 align:start position:0%
+Code just dropped something that dev
+teams<00:00:05.279><c> are</c><00:00:05.520><c> going</c><00:00:05.680><c> crazy</c><00:00:06.000><c> over.</c><00:00:06.480><c> It's</c><00:00:06.799><c> called</c>
+
+00:00:07.110 --> 00:00:07.120 align:start position:0%
+teams are going crazy over. It's called
+ 
+
+00:00:07.120 --> 00:00:09.190 align:start position:0%
+teams are going crazy over. It's called
+BTW<00:00:07.839><c> and</c><00:00:08.000><c> it</c><00:00:08.160><c> might</c><00:00:08.320><c> be</c><00:00:08.400><c> the</c><00:00:08.639><c> most</c><00:00:08.800><c> useful</c>
+
+00:00:09.190 --> 00:00:09.200 align:start position:0%
+BTW and it might be the most useful
+ 
+
+00:00:09.200 --> 00:00:11.270 align:start position:0%
+BTW and it might be the most useful
+thing<00:00:09.360><c> to</c><00:00:09.599><c> hit</c><00:00:09.840><c> AI</c><00:00:10.160><c> coding</c><00:00:10.400><c> tools</c><00:00:10.719><c> all</c><00:00:10.880><c> year.</c>
+
+00:00:11.270 --> 00:00:11.280 align:start position:0%
+thing to hit AI coding tools all year.
+ 
+
+00:00:11.280 --> 00:00:13.190 align:start position:0%
+thing to hit AI coding tools all year.
+You<00:00:11.519><c> type</c><00:00:11.840><c> one</c><00:00:12.080><c> command.</c><00:00:12.480><c> You</c><00:00:12.559><c> get</c><00:00:12.639><c> an</c><00:00:12.800><c> instant</c>
+
+00:00:13.190 --> 00:00:13.200 align:start position:0%
+You type one command. You get an instant
+ 
+
+00:00:13.200 --> 00:00:15.669 align:start position:0%
+You type one command. You get an instant
+answer<00:00:13.599><c> without</c><00:00:14.000><c> loss</c><00:00:14.240><c> in</c><00:00:14.400><c> your</c><00:00:14.559><c> flow.</c><00:00:15.440><c> Stay</c>
+
+00:00:15.669 --> 00:00:15.679 align:start position:0%
+answer without loss in your flow. Stay
+ 
+
+00:00:15.679 --> 00:00:17.990 align:start position:0%
+answer without loss in your flow. Stay
+with<00:00:15.920><c> me</c><00:00:16.720><c> because</c><00:00:16.960><c> by</c><00:00:17.199><c> the</c><00:00:17.359><c> end</c><00:00:17.440><c> of</c><00:00:17.600><c> this,</c>
+
+00:00:17.990 --> 00:00:18.000 align:start position:0%
+with me because by the end of this,
+ 
+
+00:00:18.000 --> 00:00:19.510 align:start position:0%
+with me because by the end of this,
+you're<00:00:18.320><c> going</c><00:00:18.400><c> to</c><00:00:18.560><c> want</c><00:00:18.800><c> this</c><00:00:18.960><c> running</c><00:00:19.359><c> on</c>
+
+00:00:19.510 --> 00:00:19.520 align:start position:0%
+you're going to want this running on
+ 
+
+00:00:19.520 --> 00:00:21.990 align:start position:0%
+you're going to want this running on
+every<00:00:19.760><c> coding</c><00:00:20.160><c> session</c><00:00:20.480><c> you</c><00:00:20.720><c> do.</c><00:00:21.199><c> So,</c><00:00:21.600><c> Claude</c>
+
+00:00:21.990 --> 00:00:22.000 align:start position:0%
+every coding session you do. So, Claude
+ 
+
+00:00:22.000 --> 00:00:24.790 align:start position:0%
+every coding session you do. So, Claude
+Code<00:00:22.560><c> is</c><00:00:22.880><c> Anthropic's</c><00:00:23.600><c> terminal-based</c><00:00:24.400><c> AI</c>
+
+00:00:24.790 --> 00:00:24.800 align:start position:0%
+Code is Anthropic's terminal-based AI
+ 
+
+00:00:24.800 --> 00:00:26.710 align:start position:0%
+Code is Anthropic's terminal-based AI
+coding<00:00:25.119><c> assistant.</c><00:00:25.840><c> You</c><00:00:26.000><c> run</c><00:00:26.160><c> it</c><00:00:26.320><c> right</c><00:00:26.560><c> in</c>
+
+00:00:26.710 --> 00:00:26.720 align:start position:0%
+coding assistant. You run it right in
+ 
+
+00:00:26.720 --> 00:00:28.870 align:start position:0%
+coding assistant. You run it right in
+your<00:00:26.880><c> terminal.</c><00:00:27.359><c> No</c><00:00:27.599><c> browser,</c><00:00:28.080><c> no</c><00:00:28.320><c> tabs,</c><00:00:28.720><c> just</c>
+
+00:00:28.870 --> 00:00:28.880 align:start position:0%
+your terminal. No browser, no tabs, just
+ 
+
+00:00:28.880 --> 00:00:31.109 align:start position:0%
+your terminal. No browser, no tabs, just
+you,<00:00:29.199><c> your</c><00:00:29.439><c> code,</c><00:00:29.679><c> and</c><00:00:29.920><c> AI</c><00:00:30.400><c> helping</c><00:00:30.640><c> you</c><00:00:30.880><c> build</c>
+
+00:00:31.109 --> 00:00:31.119 align:start position:0%
+you, your code, and AI helping you build
+ 
+
+00:00:31.119 --> 00:00:33.750 align:start position:0%
+you, your code, and AI helping you build
+stuff<00:00:31.359><c> faster</c><00:00:32.160><c> is</c><00:00:32.320><c> already</c><00:00:32.559><c> pretty</c><00:00:32.880><c> powerful.</c>
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+stuff faster is already pretty powerful.
+ 
+
+00:00:33.760 --> 00:00:35.430 align:start position:0%
+stuff faster is already pretty powerful.
+But<00:00:33.840><c> there</c><00:00:34.079><c> was</c><00:00:34.239><c> always</c><00:00:34.480><c> one</c><00:00:34.800><c> problem.</c><00:00:35.280><c> When</c>
+
+00:00:35.430 --> 00:00:35.440 align:start position:0%
+But there was always one problem. When
+ 
+
+00:00:35.440 --> 00:00:37.430 align:start position:0%
+But there was always one problem. When
+you're<00:00:35.600><c> deep</c><00:00:35.840><c> in</c><00:00:36.000><c> a</c><00:00:36.160><c> long</c><00:00:36.320><c> coding</c><00:00:36.719><c> session,</c>
+
+00:00:37.430 --> 00:00:37.440 align:start position:0%
+you're deep in a long coding session,
+ 
+
+00:00:37.440 --> 00:00:39.590 align:start position:0%
+you're deep in a long coding session,
+refactoring<00:00:38.160><c> something</c><00:00:38.480><c> big,</c><00:00:39.120><c> running</c><00:00:39.440><c> a</c>
+
+00:00:39.590 --> 00:00:39.600 align:start position:0%
+refactoring something big, running a
+ 
+
+00:00:39.600 --> 00:00:42.549 align:start position:0%
+refactoring something big, running a
+long<00:00:39.840><c> job,</c><00:00:40.320><c> waiting</c><00:00:40.640><c> for</c><00:00:40.800><c> a</c><00:00:41.040><c> build,</c><00:00:42.160><c> and</c><00:00:42.399><c> a</c>
+
+00:00:42.549 --> 00:00:42.559 align:start position:0%
+long job, waiting for a build, and a
+ 
+
+00:00:42.559 --> 00:00:45.590 align:start position:0%
+long job, waiting for a build, and a
+quick<00:00:42.879><c> question</c><00:00:43.280><c> pops</c><00:00:43.600><c> into</c><00:00:43.920><c> your</c><00:00:44.079><c> head,</c><00:00:45.440><c> what</c>
+
+00:00:45.590 --> 00:00:45.600 align:start position:0%
+quick question pops into your head, what
+ 
+
+00:00:45.600 --> 00:00:48.150 align:start position:0%
+quick question pops into your head, what
+do<00:00:45.680><c> you</c><00:00:45.840><c> do?</c><00:00:47.039><c> You</c><00:00:47.280><c> either</c><00:00:47.600><c> stop</c><00:00:47.760><c> what</c><00:00:48.000><c> you're</c>
+
+00:00:48.150 --> 00:00:48.160 align:start position:0%
+do you do? You either stop what you're
+ 
+
+00:00:48.160 --> 00:00:51.990 align:start position:0%
+do you do? You either stop what you're
+doing<00:00:49.360><c> or</c><00:00:49.600><c> you</c><00:00:49.760><c> open</c><00:00:50.000><c> a</c><00:00:50.239><c> browser,</c><00:00:51.600><c> or</c><00:00:51.840><c> you</c>
+
+00:00:51.990 --> 00:00:52.000 align:start position:0%
+doing or you open a browser, or you
+ 
+
+00:00:52.000 --> 00:00:53.990 align:start position:0%
+doing or you open a browser, or you
+scroll<00:00:52.399><c> back</c><00:00:52.640><c> through</c><00:00:52.800><c> a</c><00:00:53.039><c> messy</c><00:00:53.440><c> conversation</c>
+
+00:00:53.990 --> 00:00:54.000 align:start position:0%
+scroll back through a messy conversation
+ 
+
+00:00:54.000 --> 00:00:57.189 align:start position:0%
+scroll back through a messy conversation
+history<00:00:54.640><c> trying</c><00:00:54.879><c> to</c><00:00:55.120><c> find</c><00:00:55.440><c> context.</c>
+
+00:00:57.189 --> 00:00:57.199 align:start position:0%
+history trying to find context.
+ 
+
+00:00:57.199 --> 00:00:59.670 align:start position:0%
+history trying to find context.
+that<00:00:57.440><c> kills</c><00:00:57.680><c> your</c><00:00:57.920><c> flow</c><00:00:58.559><c> every</c><00:00:58.879><c> time.</c><00:00:59.280><c> Hey,</c><00:00:59.520><c> if</c>
+
+00:00:59.670 --> 00:00:59.680 align:start position:0%
+that kills your flow every time. Hey, if
+ 
+
+00:00:59.680 --> 00:01:01.430 align:start position:0%
+that kills your flow every time. Hey, if
+we<00:00:59.840><c> haven't</c><00:01:00.000><c> met</c><00:01:00.239><c> already,</c><00:01:00.640><c> I'm</c><00:01:00.800><c> the</c><00:01:01.039><c> digital</c>
+
+00:01:01.430 --> 00:01:01.440 align:start position:0%
+we haven't met already, I'm the digital
+ 
+
+00:01:01.440 --> 00:01:04.869 align:start position:0%
+we haven't met already, I'm the digital
+avatar<00:01:01.840><c> of</c><00:01:02.079><c> Julian</c><00:01:02.480><c> Goldie,</c><00:01:03.199><c> CEO</c><00:01:03.920><c> of</c><00:01:04.239><c> SEO</c>
+
+00:01:04.869 --> 00:01:04.879 align:start position:0%
+avatar of Julian Goldie, CEO of SEO
+ 
+
+00:01:04.879 --> 00:01:07.429 align:start position:0%
+avatar of Julian Goldie, CEO of SEO
+agency<00:01:05.519><c> Goldie</c><00:01:06.080><c> Agency.</c><00:01:06.880><c> Whilst</c><00:01:07.200><c> he's</c>
+
+00:01:07.429 --> 00:01:07.439 align:start position:0%
+agency Goldie Agency. Whilst he's
+ 
+
+00:01:07.439 --> 00:01:09.030 align:start position:0%
+agency Goldie Agency. Whilst he's
+helping<00:01:07.760><c> clients</c><00:01:08.159><c> get</c><00:01:08.320><c> more</c><00:01:08.479><c> leads</c><00:01:08.799><c> and</c>
+
+00:01:09.030 --> 00:01:09.040 align:start position:0%
+helping clients get more leads and
+ 
+
+00:01:09.040 --> 00:01:10.870 align:start position:0%
+helping clients get more leads and
+customers,<00:01:09.600><c> I'm</c><00:01:09.840><c> here</c><00:01:10.000><c> to</c><00:01:10.159><c> help</c><00:01:10.320><c> you</c><00:01:10.560><c> get</c><00:01:10.720><c> the</c>
+
+00:01:10.870 --> 00:01:10.880 align:start position:0%
+customers, I'm here to help you get the
+ 
+
+00:01:10.880 --> 00:01:13.750 align:start position:0%
+customers, I'm here to help you get the
+latest<00:01:11.200><c> AI</c><00:01:11.600><c> updates.</c><00:01:12.400><c> Julian</c><00:01:12.960><c> Goldie</c><00:01:13.439><c> reads</c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+latest AI updates. Julian Goldie reads
+ 
+
+00:01:13.760 --> 00:01:15.190 align:start position:0%
+latest AI updates. Julian Goldie reads
+every<00:01:14.000><c> comment,</c><00:01:14.320><c> so</c><00:01:14.560><c> make</c><00:01:14.640><c> sure</c><00:01:14.720><c> you</c><00:01:14.960><c> comment</c>
+
+00:01:15.190 --> 00:01:15.200 align:start position:0%
+every comment, so make sure you comment
+ 
+
+00:01:15.200 --> 00:01:17.670 align:start position:0%
+every comment, so make sure you comment
+below.<00:01:15.760><c> Anthropic</c><00:01:16.400><c> just</c><00:01:16.560><c> fixed</c><00:01:16.880><c> that.</c><00:01:17.439><c> They</c>
+
+00:01:17.670 --> 00:01:17.680 align:start position:0%
+below. Anthropic just fixed that. They
+ 
+
+00:01:17.680 --> 00:01:20.390 align:start position:0%
+below. Anthropic just fixed that. They
+shipped<00:01:18.000><c> a</c><00:01:18.159><c> new</c><00:01:18.320><c> command</c><00:01:18.720><c> inside</c><00:01:19.280><c> Claude</c><00:01:19.680><c> Code</c>
+
+00:01:20.390 --> 00:01:20.400 align:start position:0%
+shipped a new command inside Claude Code
+ 
+
+00:01:20.400 --> 00:01:23.590 align:start position:0%
+shipped a new command inside Claude Code
+is<00:01:20.560><c> called</c><00:01:21.040><c> BTW.</c><00:01:21.920><c> You</c><00:01:22.159><c> type</c><00:01:22.560><c> BTW</c><00:01:23.200><c> and</c><00:01:23.439><c> then</c>
+
+00:01:23.590 --> 00:01:23.600 align:start position:0%
+is called BTW. You type BTW and then
+ 
+
+00:01:23.600 --> 00:01:26.230 align:start position:0%
+is called BTW. You type BTW and then
+your<00:01:23.840><c> question</c><00:01:24.320><c> just</c><00:01:24.560><c> like</c><00:01:24.720><c> that.</c><00:01:25.280><c> like</c><00:01:25.600><c> call</c>
+
+00:01:26.230 --> 00:01:26.240 align:start position:0%
+your question just like that. like call
+ 
+
+00:01:26.240 --> 00:01:29.030 align:start position:0%
+your question just like that. like call
+BTW.<00:01:27.280><c> What's</c><00:01:27.520><c> the</c><00:01:27.680><c> best</c><00:01:27.840><c> way</c><00:01:28.000><c> to</c><00:01:28.159><c> handle</c><00:01:28.560><c> retry</c>
+
+00:01:29.030 --> 00:01:29.040 align:start position:0%
+BTW. What's the best way to handle retry
+ 
+
+00:01:29.040 --> 00:01:31.590 align:start position:0%
+BTW. What's the best way to handle retry
+logic<00:01:29.439><c> here?</c><00:01:29.680><c> And</c><00:01:29.840><c> boom,</c><00:01:30.640><c> instant</c><00:01:31.119><c> overlay</c>
+
+00:01:31.590 --> 00:01:31.600 align:start position:0%
+logic here? And boom, instant overlay
+ 
+
+00:01:31.600 --> 00:01:33.670 align:start position:0%
+logic here? And boom, instant overlay
+response<00:01:32.400><c> right</c><00:01:32.640><c> there</c><00:01:32.799><c> in</c><00:01:32.960><c> your</c><00:01:33.119><c> terminal.</c>
+
+00:01:33.670 --> 00:01:33.680 align:start position:0%
+response right there in your terminal.
+ 
+
+00:01:33.680 --> 00:01:35.830 align:start position:0%
+response right there in your terminal.
+No<00:01:33.920><c> new</c><00:01:34.079><c> thread,</c><00:01:34.560><c> no</c><00:01:34.720><c> tool</c><00:01:35.040><c> calls</c><00:01:35.360><c> cluttering</c>
+
+00:01:35.830 --> 00:01:35.840 align:start position:0%
+No new thread, no tool calls cluttering
+ 
+
+00:01:35.840 --> 00:01:37.830 align:start position:0%
+No new thread, no tool calls cluttering
+things<00:01:36.079><c> up.</c><00:01:36.479><c> No</c><00:01:36.720><c> history</c><00:01:37.040><c> noise,</c><00:01:37.520><c> just</c><00:01:37.600><c> a</c>
+
+00:01:37.830 --> 00:01:37.840 align:start position:0%
+things up. No history noise, just a
+ 
+
+00:01:37.840 --> 00:01:40.710 align:start position:0%
+things up. No history noise, just a
+clean,<00:01:38.479><c> fast</c><00:01:39.040><c> answer</c><00:01:39.840><c> drawn</c><00:01:40.240><c> straight</c><00:01:40.479><c> from</c>
+
+00:01:40.710 --> 00:01:40.720 align:start position:0%
+clean, fast answer drawn straight from
+ 
+
+00:01:40.720 --> 00:01:42.230 align:start position:0%
+clean, fast answer drawn straight from
+the<00:01:40.880><c> full</c><00:01:41.119><c> context</c><00:01:41.600><c> of</c><00:01:41.759><c> your</c><00:01:42.000><c> current</c>
+
+00:01:42.230 --> 00:01:42.240 align:start position:0%
+the full context of your current
+ 
+
+00:01:42.240 --> 00:01:43.990 align:start position:0%
+the full context of your current
+conversation.<00:01:43.200><c> And</c><00:01:43.360><c> when</c><00:01:43.520><c> you're</c><00:01:43.680><c> done</c>
+
+00:01:43.990 --> 00:01:44.000 align:start position:0%
+conversation. And when you're done
+ 
+
+00:01:44.000 --> 00:01:46.069 align:start position:0%
+conversation. And when you're done
+reading<00:01:44.400><c> it,</c><00:01:44.799><c> one</c><00:01:45.119><c> key</c><00:01:45.360><c> press,</c><00:01:45.840><c> it</c>
+
+00:01:46.069 --> 00:01:46.079 align:start position:0%
+reading it, one key press, it
+ 
+
+00:01:46.079 --> 00:01:47.749 align:start position:0%
+reading it, one key press, it
+disappears.<00:01:46.720><c> You're</c><00:01:46.880><c> back</c><00:01:47.040><c> in</c><00:01:47.200><c> your</c><00:01:47.360><c> flow.</c>
+
+00:01:47.749 --> 00:01:47.759 align:start position:0%
+disappears. You're back in your flow.
+ 
+
+00:01:47.759 --> 00:01:50.069 align:start position:0%
+disappears. You're back in your flow.
+That's<00:01:48.000><c> it.</c><00:01:48.399><c> That's</c><00:01:48.640><c> the</c><00:01:48.960><c> magic.</c><00:01:49.600><c> Now,</c><00:01:49.840><c> here's</c>
+
+00:01:50.069 --> 00:01:50.079 align:start position:0%
+That's it. That's the magic. Now, here's
+ 
+
+00:01:50.079 --> 00:01:51.350 align:start position:0%
+That's it. That's the magic. Now, here's
+the<00:01:50.240><c> part</c><00:01:50.320><c> I</c><00:01:50.560><c> want</c><00:01:50.640><c> you</c><00:01:50.799><c> to</c><00:01:50.960><c> really</c><00:01:51.200><c> think</c>
+
+00:01:51.350 --> 00:01:51.360 align:start position:0%
+the part I want you to really think
+ 
+
+00:01:51.360 --> 00:01:53.350 align:start position:0%
+the part I want you to really think
+about.<00:01:51.680><c> This</c><00:01:51.840><c> isn't</c><00:01:52.159><c> just</c><00:01:52.320><c> a</c><00:01:52.479><c> cool</c><00:01:52.720><c> feature.</c>
+
+00:01:53.350 --> 00:01:53.360 align:start position:0%
+about. This isn't just a cool feature.
+ 
+
+00:01:53.360 --> 00:01:55.990 align:start position:0%
+about. This isn't just a cool feature.
+This<00:01:53.600><c> is</c><00:01:53.759><c> a</c><00:01:54.000><c> signal</c><00:01:54.479><c> about</c><00:01:54.799><c> where</c><00:01:55.119><c> AI</c><00:01:55.520><c> tooling</c>
+
+00:01:55.990 --> 00:01:56.000 align:start position:0%
+This is a signal about where AI tooling
+ 
+
+00:01:56.000 --> 00:01:58.389 align:start position:0%
+This is a signal about where AI tooling
+is<00:01:56.240><c> going.</c><00:01:56.720><c> The</c><00:01:56.960><c> best</c><00:01:57.119><c> AI</c><00:01:57.520><c> tools</c><00:01:57.920><c> aren't</c><00:01:58.240><c> going</c>
+
+00:01:58.389 --> 00:01:58.399 align:start position:0%
+is going. The best AI tools aren't going
+ 
+
+00:01:58.399 --> 00:02:00.069 align:start position:0%
+is going. The best AI tools aren't going
+to<00:01:58.560><c> be</c><00:01:58.719><c> the</c><00:01:58.960><c> ones</c><00:01:59.119><c> that</c><00:01:59.360><c> do</c><00:01:59.520><c> the</c><00:01:59.680><c> most</c><00:01:59.840><c> things.</c>
+
+00:02:00.069 --> 00:02:00.079 align:start position:0%
+to be the ones that do the most things.
+ 
+
+00:02:00.079 --> 00:02:01.270 align:start position:0%
+to be the ones that do the most things.
+They're<00:02:00.320><c> going</c><00:02:00.399><c> to</c><00:02:00.560><c> be</c><00:02:00.640><c> the</c><00:02:00.799><c> ones</c><00:02:00.960><c> that</c><00:02:01.119><c> get</c>
+
+00:02:01.270 --> 00:02:01.280 align:start position:0%
+They're going to be the ones that get
+ 
+
+00:02:01.280 --> 00:02:03.109 align:start position:0%
+They're going to be the ones that get
+out<00:02:01.439><c> of</c><00:02:01.600><c> your</c><00:02:01.759><c> way</c><00:02:02.240><c> while</c><00:02:02.560><c> still</c><00:02:02.799><c> being</c><00:02:02.960><c> there</c>
+
+00:02:03.109 --> 00:02:03.119 align:start position:0%
+out of your way while still being there
+ 
+
+00:02:03.119 --> 00:02:05.990 align:start position:0%
+out of your way while still being there
+when<00:02:03.360><c> you</c><00:02:03.520><c> need</c><00:02:03.680><c> them.</c><00:02:04.320><c> BTW</c><00:02:04.960><c> is</c><00:02:05.119><c> exactly</c><00:02:05.439><c> that.</c>
+
+00:02:05.990 --> 00:02:06.000 align:start position:0%
+when you need them. BTW is exactly that.
+ 
+
+00:02:06.000 --> 00:02:08.309 align:start position:0%
+when you need them. BTW is exactly that.
+It's<00:02:06.240><c> ambient</c><00:02:06.799><c> intelligence.</c><00:02:07.680><c> It's</c><00:02:07.920><c> there.</c>
+
+00:02:08.309 --> 00:02:08.319 align:start position:0%
+It's ambient intelligence. It's there.
+ 
+
+00:02:08.319 --> 00:02:10.550 align:start position:0%
+It's ambient intelligence. It's there.
+It's<00:02:08.640><c> fast.</c><00:02:09.039><c> It</c><00:02:09.280><c> doesn't</c><00:02:09.520><c> interrupt.</c><00:02:10.319><c> Think</c>
+
+00:02:10.550 --> 00:02:10.560 align:start position:0%
+It's fast. It doesn't interrupt. Think
+ 
+
+00:02:10.560 --> 00:02:12.630 align:start position:0%
+It's fast. It doesn't interrupt. Think
+about<00:02:10.720><c> the</c><00:02:10.959><c> AI</c><00:02:11.360><c> profit</c><00:02:11.680><c> boardroom,</c><00:02:12.400><c> our</c>
+
+00:02:12.630 --> 00:02:12.640 align:start position:0%
+about the AI profit boardroom, our
+ 
+
+00:02:12.640 --> 00:02:14.550 align:start position:0%
+about the AI profit boardroom, our
+private<00:02:13.040><c> community</c><00:02:13.360><c> for</c><00:02:13.680><c> business</c><00:02:13.920><c> owners</c>
+
+00:02:14.550 --> 00:02:14.560 align:start position:0%
+private community for business owners
+ 
+
+00:02:14.560 --> 00:02:16.550 align:start position:0%
+private community for business owners
+scaling<00:02:14.959><c> with</c><00:02:15.200><c> AI.</c><00:02:15.920><c> One</c><00:02:16.080><c> of</c><00:02:16.160><c> the</c><00:02:16.319><c> biggest</c>
+
+00:02:16.550 --> 00:02:16.560 align:start position:0%
+scaling with AI. One of the biggest
+ 
+
+00:02:16.560 --> 00:02:18.790 align:start position:0%
+scaling with AI. One of the biggest
+things<00:02:16.720><c> our</c><00:02:17.040><c> members</c><00:02:17.280><c> ask</c><00:02:17.520><c> about</c><00:02:17.760><c> is</c><00:02:18.160><c> how</c><00:02:18.400><c> do</c><00:02:18.560><c> I</c>
+
+00:02:18.790 --> 00:02:18.800 align:start position:0%
+things our members ask about is how do I
+ 
+
+00:02:18.800 --> 00:02:20.630 align:start position:0%
+things our members ask about is how do I
+actually<00:02:19.040><c> use</c><00:02:19.280><c> AI</c><00:02:19.680><c> without</c><00:02:19.920><c> it</c><00:02:20.160><c> slowing</c><00:02:20.480><c> me</c>
+
+00:02:20.630 --> 00:02:20.640 align:start position:0%
+actually use AI without it slowing me
+ 
+
+00:02:20.640 --> 00:02:22.630 align:start position:0%
+actually use AI without it slowing me
+down?<00:02:21.200><c> Because</c><00:02:21.440><c> that's</c><00:02:21.599><c> a</c><00:02:21.840><c> real</c><00:02:22.000><c> trap</c><00:02:22.319><c> with</c><00:02:22.480><c> a</c>
+
+00:02:22.630 --> 00:02:22.640 align:start position:0%
+down? Because that's a real trap with a
+ 
+
+00:02:22.640 --> 00:02:24.630 align:start position:0%
+down? Because that's a real trap with a
+lot<00:02:22.720><c> of</c><00:02:22.879><c> AI</c><00:02:23.200><c> tools.</c><00:02:23.760><c> You</c><00:02:23.920><c> spend</c><00:02:24.160><c> more</c><00:02:24.400><c> time</c>
+
+00:02:24.630 --> 00:02:24.640 align:start position:0%
+lot of AI tools. You spend more time
+ 
+
+00:02:24.640 --> 00:02:26.550 align:start position:0%
+lot of AI tools. You spend more time
+managing<00:02:24.959><c> the</c><00:02:25.200><c> AI</c><00:02:25.520><c> than</c><00:02:25.680><c> you</c><00:02:25.840><c> do</c><00:02:26.000><c> getting</c><00:02:26.319><c> work</c>
+
+00:02:26.550 --> 00:02:26.560 align:start position:0%
+managing the AI than you do getting work
+ 
+
+00:02:26.560 --> 00:02:29.110 align:start position:0%
+managing the AI than you do getting work
+done.<00:02:26.959><c> BTW</c><00:02:27.599><c> solves</c><00:02:27.840><c> that</c><00:02:28.080><c> for</c><00:02:28.319><c> developers.</c>
+
+00:02:29.110 --> 00:02:29.120 align:start position:0%
+done. BTW solves that for developers.
+ 
+
+00:02:29.120 --> 00:02:31.270 align:start position:0%
+done. BTW solves that for developers.
+And<00:02:29.200><c> the</c><00:02:29.440><c> principle,</c><00:02:30.160><c> build</c><00:02:30.480><c> AI</c><00:02:30.800><c> that</c><00:02:31.040><c> fits</c>
+
+00:02:31.270 --> 00:02:31.280 align:start position:0%
+And the principle, build AI that fits
+ 
+
+00:02:31.280 --> 00:02:32.790 align:start position:0%
+And the principle, build AI that fits
+around<00:02:31.520><c> the</c><00:02:31.680><c> workflow,</c><00:02:32.160><c> not</c><00:02:32.319><c> the</c><00:02:32.480><c> other</c><00:02:32.640><c> way</c>
+
+00:02:32.790 --> 00:02:32.800 align:start position:0%
+around the workflow, not the other way
+ 
+
+00:02:32.800 --> 00:02:34.790 align:start position:0%
+around the workflow, not the other way
+around.<00:02:33.360><c> That's</c><00:02:33.599><c> what</c><00:02:33.760><c> we</c><00:02:34.000><c> teach</c><00:02:34.319><c> inside</c><00:02:34.640><c> the</c>
+
+00:02:34.790 --> 00:02:34.800 align:start position:0%
+around. That's what we teach inside the
+ 
+
+00:02:34.800 --> 00:02:37.030 align:start position:0%
+around. That's what we teach inside the
+AI<00:02:35.120><c> profit</c><00:02:35.440><c> boardroom</c><00:02:35.920><c> every</c><00:02:36.239><c> single</c><00:02:36.560><c> week.</c>
+
+00:02:37.030 --> 00:02:37.040 align:start position:0%
+AI profit boardroom every single week.
+ 
+
+00:02:37.040 --> 00:02:38.710 align:start position:0%
+AI profit boardroom every single week.
+If<00:02:37.280><c> you</c><00:02:37.360><c> want</c><00:02:37.519><c> to</c><00:02:37.680><c> learn</c><00:02:37.840><c> how</c><00:02:38.000><c> to</c><00:02:38.239><c> save</c><00:02:38.480><c> time</c>
+
+00:02:38.710 --> 00:02:38.720 align:start position:0%
+If you want to learn how to save time
+ 
+
+00:02:38.720 --> 00:02:40.470 align:start position:0%
+If you want to learn how to save time
+and<00:02:38.959><c> automate</c><00:02:39.360><c> your</c><00:02:39.599><c> business</c><00:02:39.840><c> using</c><00:02:40.160><c> AI</c>
+
+00:02:40.470 --> 00:02:40.480 align:start position:0%
+and automate your business using AI
+ 
+
+00:02:40.480 --> 00:02:42.949 align:start position:0%
+and automate your business using AI
+tools<00:02:40.720><c> like</c><00:02:40.879><c> Claude</c><00:02:41.280><c> Code,</c><00:02:41.920><c> the</c><00:02:42.160><c> link</c><00:02:42.400><c> to</c><00:02:42.640><c> join</c>
+
+00:02:42.949 --> 00:02:42.959 align:start position:0%
+tools like Claude Code, the link to join
+ 
+
+00:02:42.959 --> 00:02:45.030 align:start position:0%
+tools like Claude Code, the link to join
+is<00:02:43.120><c> in</c><00:02:43.360><c> the</c><00:02:43.519><c> comment</c><00:02:43.840><c> and</c><00:02:44.000><c> description.</c><00:02:44.879><c> Come</c>
+
+00:02:45.030 --> 00:02:45.040 align:start position:0%
+is in the comment and description. Come
+ 
+
+00:02:45.040 --> 00:02:46.790 align:start position:0%
+is in the comment and description. Come
+in,<00:02:45.360><c> see</c><00:02:45.599><c> how</c><00:02:45.760><c> other</c><00:02:46.000><c> business</c><00:02:46.319><c> owners</c><00:02:46.640><c> are</c>
+
+00:02:46.790 --> 00:02:46.800 align:start position:0%
+in, see how other business owners are
+ 
+
+00:02:46.800 --> 00:02:48.869 align:start position:0%
+in, see how other business owners are
+doing<00:02:46.959><c> it,</c><00:02:47.280><c> and</c><00:02:47.519><c> build</c><00:02:47.760><c> your</c><00:02:47.920><c> own</c><00:02:48.080><c> AI</c><00:02:48.560><c> systems</c>
+
+00:02:48.869 --> 00:02:48.879 align:start position:0%
+doing it, and build your own AI systems
+ 
+
+00:02:48.879 --> 00:02:50.550 align:start position:0%
+doing it, and build your own AI systems
+that<00:02:49.200><c> actually</c><00:02:49.519><c> work.</c><00:02:49.920><c> Let</c><00:02:50.160><c> me</c><00:02:50.239><c> show</c><00:02:50.400><c> you</c>
+
+00:02:50.550 --> 00:02:50.560 align:start position:0%
+that actually work. Let me show you
+ 
+
+00:02:50.560 --> 00:02:52.309 align:start position:0%
+that actually work. Let me show you
+exactly<00:02:50.879><c> how</c><00:02:51.120><c> this</c><00:02:51.360><c> plays</c><00:02:51.599><c> out</c><00:02:51.760><c> in</c><00:02:52.000><c> the</c><00:02:52.160><c> real</c>
+
+00:02:52.309 --> 00:02:52.319 align:start position:0%
+exactly how this plays out in the real
+ 
+
+00:02:52.319 --> 00:02:55.350 align:start position:0%
+exactly how this plays out in the real
+world.<00:02:52.879><c> So,</c><00:02:53.200><c> engineer</c><00:02:53.680><c> Eric</c><00:02:54.000><c> Schluntz</c><00:02:54.879><c> built</c>
+
+00:02:55.350 --> 00:02:55.360 align:start position:0%
+world. So, engineer Eric Schluntz built
+ 
+
+00:02:55.360 --> 00:02:57.990 align:start position:0%
+world. So, engineer Eric Schluntz built
+Jot<00:02:55.760><c> BTW</c><00:02:56.400><c> as</c><00:02:56.720><c> a</c><00:02:56.879><c> side</c><00:02:57.200><c> project</c><00:02:57.519><c> inside</c>
+
+00:02:57.990 --> 00:02:58.000 align:start position:0%
+Jot BTW as a side project inside
+ 
+
+00:02:58.000 --> 00:03:00.150 align:start position:0%
+Jot BTW as a side project inside
+Anthropic.<00:02:58.959><c> It</c><00:02:59.120><c> wasn't</c><00:02:59.360><c> some</c><00:02:59.599><c> big</c><00:02:59.840><c> planned</c>
+
+00:03:00.150 --> 00:03:00.160 align:start position:0%
+Anthropic. It wasn't some big planned
+ 
+
+00:03:00.160 --> 00:03:02.070 align:start position:0%
+Anthropic. It wasn't some big planned
+feature<00:03:00.480><c> with</c><00:03:00.720><c> a</c><00:03:00.879><c> giant</c><00:03:01.120><c> road</c><00:03:01.440><c> map.</c><00:03:01.680><c> He</c><00:03:01.920><c> just</c>
+
+00:03:02.070 --> 00:03:02.080 align:start position:0%
+feature with a giant road map. He just
+ 
+
+00:03:02.080 --> 00:03:03.830 align:start position:0%
+feature with a giant road map. He just
+built<00:03:02.319><c> it</c><00:03:02.640><c> because</c><00:03:02.959><c> it</c><00:03:03.200><c> solved</c><00:03:03.440><c> a</c><00:03:03.680><c> real</c>
+
+00:03:03.830 --> 00:03:03.840 align:start position:0%
+built it because it solved a real
+ 
+
+00:03:03.840 --> 00:03:05.750 align:start position:0%
+built it because it solved a real
+problem.<00:03:04.400><c> That's</c><00:03:04.640><c> how</c><00:03:04.800><c> the</c><00:03:05.040><c> best</c><00:03:05.200><c> tools</c><00:03:05.599><c> get</c>
+
+00:03:05.750 --> 00:03:05.760 align:start position:0%
+problem. That's how the best tools get
+ 
+
+00:03:05.760 --> 00:03:07.990 align:start position:0%
+problem. That's how the best tools get
+made.<00:03:06.159><c> The</c><00:03:06.480><c> from</c><00:03:06.560><c> the</c><00:03:06.640><c> Anthropic</c><00:03:07.280><c> team</c><00:03:07.599><c> demoed</c>
+
+00:03:07.990 --> 00:03:08.000 align:start position:0%
+made. The from the Anthropic team demoed
+ 
+
+00:03:08.000 --> 00:03:10.790 align:start position:0%
+made. The from the Anthropic team demoed
+it<00:03:08.159><c> live.</c><00:03:08.879><c> He</c><00:03:09.120><c> was</c><00:03:09.200><c> in</c><00:03:09.440><c> the</c><00:03:09.519><c> middle</c><00:03:09.840><c> of</c><00:03:10.239><c> a</c>
+
+00:03:10.790 --> 00:03:10.800 align:start position:0%
+it live. He was in the middle of a
+ 
+
+00:03:10.800 --> 00:03:13.270 align:start position:0%
+it live. He was in the middle of a
+refactoring<00:03:11.599><c> session</c><00:03:12.400><c> rewriting</c><00:03:12.959><c> some</c><00:03:13.120><c> code</c>
+
+00:03:13.270 --> 00:03:13.280 align:start position:0%
+refactoring session rewriting some code
+ 
+
+00:03:13.280 --> 00:03:14.949 align:start position:0%
+refactoring session rewriting some code
+with<00:03:13.519><c> exponential</c><00:03:14.000><c> backoff.</c><00:03:14.560><c> That's</c><00:03:14.720><c> the</c>
+
+00:03:14.949 --> 00:03:14.959 align:start position:0%
+with exponential backoff. That's the
+ 
+
+00:03:14.959 --> 00:03:16.470 align:start position:0%
+with exponential backoff. That's the
+kind<00:03:15.040><c> of</c><00:03:15.120><c> task</c><00:03:15.440><c> where</c><00:03:15.680><c> you</c><00:03:15.760><c> get</c><00:03:16.000><c> deep</c><00:03:16.159><c> in</c><00:03:16.400><c> the</c>
+
+00:03:16.470 --> 00:03:16.480 align:start position:0%
+kind of task where you get deep in the
+ 
+
+00:03:16.480 --> 00:03:18.630 align:start position:0%
+kind of task where you get deep in the
+weeds.<00:03:17.200><c> You're</c><00:03:17.360><c> changing</c><00:03:17.760><c> multiple</c><00:03:18.159><c> files.</c>
+
+00:03:18.630 --> 00:03:18.640 align:start position:0%
+weeds. You're changing multiple files.
+ 
+
+00:03:18.640 --> 00:03:20.869 align:start position:0%
+weeds. You're changing multiple files.
+you're<00:03:18.879><c> thinking</c><00:03:19.120><c> through</c><00:03:19.519><c> edge</c><00:03:19.920><c> cases.</c><00:03:20.640><c> And</c>
+
+00:03:20.869 --> 00:03:20.879 align:start position:0%
+you're thinking through edge cases. And
+ 
+
+00:03:20.879 --> 00:03:22.630 align:start position:0%
+you're thinking through edge cases. And
+right<00:03:21.040><c> in</c><00:03:21.200><c> the</c><00:03:21.280><c> middle</c><00:03:21.440><c> of</c><00:03:21.519><c> that,</c><00:03:21.840><c> he</c><00:03:22.080><c> types</c>
+
+00:03:22.630 --> 00:03:22.640 align:start position:0%
+right in the middle of that, he types
+ 
+
+00:03:22.640 --> 00:03:24.949 align:start position:0%
+right in the middle of that, he types
+beatable.<00:03:23.280><c> Can</c><00:03:23.519><c> you</c><00:03:23.599><c> explain</c><00:03:24.000><c> how</c><00:03:24.159><c> the</c><00:03:24.400><c> retry</c>
+
+00:03:24.949 --> 00:03:24.959 align:start position:0%
+beatable. Can you explain how the retry
+ 
+
+00:03:24.959 --> 00:03:26.949 align:start position:0%
+beatable. Can you explain how the retry
+logic<00:03:25.360><c> works</c><00:03:25.599><c> here?</c><00:03:25.840><c> The</c><00:03:26.000><c> overlay</c><00:03:26.400><c> pops</c><00:03:26.640><c> up.</c>
+
+00:03:26.949 --> 00:03:26.959 align:start position:0%
+logic works here? The overlay pops up.
+ 
+
+00:03:26.959 --> 00:03:29.670 align:start position:0%
+logic works here? The overlay pops up.
+Clean<00:03:27.280><c> answer,</c><00:03:27.760><c> full</c><00:03:28.080><c> context.</c><00:03:28.800><c> He</c><00:03:28.959><c> reads</c><00:03:29.280><c> it,</c>
+
+00:03:29.670 --> 00:03:29.680 align:start position:0%
+Clean answer, full context. He reads it,
+ 
+
+00:03:29.680 --> 00:03:32.550 align:start position:0%
+Clean answer, full context. He reads it,
+presses<00:03:30.000><c> a</c><00:03:30.239><c> key,</c><00:03:30.640><c> gone.</c><00:03:31.280><c> He</c><00:03:31.519><c> keeps</c><00:03:31.760><c> coding.</c><00:03:32.319><c> No</c>
+
+00:03:32.550 --> 00:03:32.560 align:start position:0%
+presses a key, gone. He keeps coding. No
+ 
+
+00:03:32.560 --> 00:03:34.550 align:start position:0%
+presses a key, gone. He keeps coding. No
+breaking<00:03:32.879><c> the</c><00:03:33.040><c> session,</c><00:03:33.440><c> no</c><00:03:33.760><c> scrolling</c><00:03:34.239><c> back,</c>
+
+00:03:34.550 --> 00:03:34.560 align:start position:0%
+breaking the session, no scrolling back,
+ 
+
+00:03:34.560 --> 00:03:36.869 align:start position:0%
+breaking the session, no scrolling back,
+no<00:03:34.799><c> reopening</c><00:03:35.200><c> a</c><00:03:35.440><c> browser.</c><00:03:36.239><c> The</c><00:03:36.480><c> developers</c>
+
+00:03:36.869 --> 00:03:36.879 align:start position:0%
+no reopening a browser. The developers
+ 
+
+00:03:36.879 --> 00:03:39.430 align:start position:0%
+no reopening a browser. The developers
+who<00:03:37.120><c> saw</c><00:03:37.280><c> this</c><00:03:37.519><c> demo</c><00:03:37.920><c> went</c><00:03:38.239><c> crazy</c><00:03:38.560><c> for</c><00:03:38.799><c> it.</c><00:03:39.280><c> And</c>
+
+00:03:39.430 --> 00:03:39.440 align:start position:0%
+who saw this demo went crazy for it. And
+ 
+
+00:03:39.440 --> 00:03:41.509 align:start position:0%
+who saw this demo went crazy for it. And
+honestly,<00:03:40.080><c> when</c><00:03:40.319><c> you</c><00:03:40.400><c> see</c><00:03:40.560><c> it</c><00:03:40.720><c> in</c><00:03:40.879><c> action,</c><00:03:41.360><c> you</c>
+
+00:03:41.509 --> 00:03:41.519 align:start position:0%
+honestly, when you see it in action, you
+ 
+
+00:03:41.519 --> 00:03:43.430 align:start position:0%
+honestly, when you see it in action, you
+get<00:03:41.760><c> why.</c><00:03:42.400><c> because</c><00:03:42.640><c> it</c><00:03:42.879><c> doesn't</c><00:03:43.120><c> sound</c><00:03:43.280><c> like</c>
+
+00:03:43.430 --> 00:03:43.440 align:start position:0%
+get why. because it doesn't sound like
+ 
+
+00:03:43.440 --> 00:03:45.509 align:start position:0%
+get why. because it doesn't sound like
+much<00:03:43.680><c> on</c><00:03:43.920><c> paper,</c><00:03:44.400><c> but</c><00:03:44.640><c> when</c><00:03:44.799><c> you're</c><00:03:45.040><c> 45</c>
+
+00:03:45.509 --> 00:03:45.519 align:start position:0%
+much on paper, but when you're 45
+ 
+
+00:03:45.519 --> 00:03:47.750 align:start position:0%
+much on paper, but when you're 45
+minutes<00:03:45.760><c> into</c><00:03:46.000><c> a</c><00:03:46.159><c> hard</c><00:03:46.400><c> coding</c><00:03:46.799><c> session,</c><00:03:47.440><c> that</c>
+
+00:03:47.750 --> 00:03:47.760 align:start position:0%
+minutes into a hard coding session, that
+ 
+
+00:03:47.760 --> 00:03:49.430 align:start position:0%
+minutes into a hard coding session, that
+kind<00:03:47.840><c> of</c><00:03:48.000><c> tool</c><00:03:48.319><c> is</c><00:03:48.560><c> worth</c><00:03:48.720><c> its</c><00:03:48.959><c> weight</c><00:03:49.200><c> in</c>
+
+00:03:49.430 --> 00:03:49.440 align:start position:0%
+kind of tool is worth its weight in
+ 
+
+00:03:49.440 --> 00:03:50.789 align:start position:0%
+kind of tool is worth its weight in
+gold.<00:03:49.920><c> Here's</c><00:03:50.239><c> something</c><00:03:50.480><c> worth</c>
+
+00:03:50.789 --> 00:03:50.799 align:start position:0%
+gold. Here's something worth
+ 
+
+00:03:50.799 --> 00:03:52.630 align:start position:0%
+gold. Here's something worth
+understanding<00:03:51.360><c> about</c><00:03:51.680><c> why</c><00:03:51.920><c> this</c><00:03:52.159><c> works</c><00:03:52.480><c> so</c>
+
+00:03:52.630 --> 00:03:52.640 align:start position:0%
+understanding about why this works so
+ 
+
+00:03:52.640 --> 00:03:55.190 align:start position:0%
+understanding about why this works so
+well.<00:03:53.120><c> The</c><00:03:53.360><c> btw</c><00:03:54.000><c> command</c><00:03:54.319><c> draws</c><00:03:54.720><c> from</c><00:03:54.959><c> your</c>
+
+00:03:55.190 --> 00:03:55.200 align:start position:0%
+well. The btw command draws from your
+ 
+
+00:03:55.200 --> 00:03:57.589 align:start position:0%
+well. The btw command draws from your
+full<00:03:55.440><c> conversation</c><00:03:56.159><c> context.</c><00:03:57.120><c> That's</c><00:03:57.360><c> the</c>
+
+00:03:57.589 --> 00:03:57.599 align:start position:0%
+full conversation context. That's the
+ 
+
+00:03:57.599 --> 00:03:59.830 align:start position:0%
+full conversation context. That's the
+key<00:03:57.760><c> part.</c><00:03:58.400><c> Claude</c><00:03:58.799><c> code</c><00:03:59.120><c> already</c><00:03:59.439><c> knows</c><00:03:59.680><c> what</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+key part. Claude code already knows what
+ 
+
+00:03:59.840 --> 00:04:01.509 align:start position:0%
+key part. Claude code already knows what
+you're<00:04:00.000><c> working</c><00:04:00.239><c> on.</c><00:04:00.640><c> It</c><00:04:00.799><c> knows</c><00:04:01.040><c> the</c><00:04:01.200><c> files.</c>
+
+00:04:01.509 --> 00:04:01.519 align:start position:0%
+you're working on. It knows the files.
+ 
+
+00:04:01.519 --> 00:04:03.030 align:start position:0%
+you're working on. It knows the files.
+It<00:04:01.760><c> knows</c><00:04:01.920><c> the</c><00:04:02.080><c> history</c><00:04:02.319><c> of</c><00:04:02.480><c> what</c><00:04:02.640><c> you've</c><00:04:02.879><c> been</c>
+
+00:04:03.030 --> 00:04:03.040 align:start position:0%
+It knows the history of what you've been
+ 
+
+00:04:03.040 --> 00:04:05.509 align:start position:0%
+It knows the history of what you've been
+doing<00:04:03.599><c> in</c><00:04:03.840><c> that</c><00:04:04.080><c> session.</c><00:04:04.720><c> So</c><00:04:04.959><c> when</c><00:04:05.120><c> you</c><00:04:05.280><c> type</c>
+
+00:04:05.509 --> 00:04:05.519 align:start position:0%
+doing in that session. So when you type
+ 
+
+00:04:05.519 --> 00:04:08.070 align:start position:0%
+doing in that session. So when you type
+bot<00:04:05.920><c> beat,</c><00:04:06.480><c> it's</c><00:04:06.720><c> not</c><00:04:06.879><c> starting</c><00:04:07.200><c> from</c><00:04:07.439><c> zero.</c>
+
+00:04:08.070 --> 00:04:08.080 align:start position:0%
+bot beat, it's not starting from zero.
+ 
+
+00:04:08.080 --> 00:04:10.149 align:start position:0%
+bot beat, it's not starting from zero.
+It<00:04:08.319><c> already</c><00:04:08.640><c> has</c><00:04:08.879><c> all</c><00:04:09.040><c> the</c><00:04:09.280><c> context</c><00:04:09.680><c> it</c><00:04:09.920><c> needs</c>
+
+00:04:10.149 --> 00:04:10.159 align:start position:0%
+It already has all the context it needs
+ 
+
+00:04:10.159 --> 00:04:13.110 align:start position:0%
+It already has all the context it needs
+to<00:04:10.400><c> give</c><00:04:10.480><c> you</c><00:04:10.720><c> a</c><00:04:10.879><c> sharp,</c><00:04:11.360><c> relevant</c><00:04:11.840><c> answer.</c>
+
+00:04:13.110 --> 00:04:13.120 align:start position:0%
+to give you a sharp, relevant answer.
+ 
+
+00:04:13.120 --> 00:04:14.949 align:start position:0%
+to give you a sharp, relevant answer.
+That's<00:04:13.439><c> very</c><00:04:13.760><c> different</c><00:04:14.000><c> from</c><00:04:14.239><c> opening</c><00:04:14.560><c> a</c><00:04:14.720><c> new</c>
+
+00:04:14.949 --> 00:04:14.959 align:start position:0%
+That's very different from opening a new
+ 
+
+00:04:14.959 --> 00:04:17.110 align:start position:0%
+That's very different from opening a new
+chat<00:04:15.200><c> window</c><00:04:15.920><c> and</c><00:04:16.160><c> trying</c><00:04:16.400><c> to</c><00:04:16.560><c> explain</c><00:04:16.959><c> your</c>
+
+00:04:17.110 --> 00:04:17.120 align:start position:0%
+chat window and trying to explain your
+ 
+
+00:04:17.120 --> 00:04:19.110 align:start position:0%
+chat window and trying to explain your
+whole<00:04:17.359><c> situation</c><00:04:17.840><c> from</c><00:04:18.079><c> scratch.</c><00:04:18.799><c> And</c><00:04:18.959><c> the</c>
+
+00:04:19.110 --> 00:04:19.120 align:start position:0%
+whole situation from scratch. And the
+ 
+
+00:04:19.120 --> 00:04:20.870 align:start position:0%
+whole situation from scratch. And the
+fact<00:04:19.280><c> that</c><00:04:19.440><c> it's</c><00:04:19.680><c> dismissible</c><00:04:20.239><c> with</c><00:04:20.400><c> one</c><00:04:20.639><c> key</c>
+
+00:04:20.870 --> 00:04:20.880 align:start position:0%
+fact that it's dismissible with one key
+ 
+
+00:04:20.880 --> 00:04:23.189 align:start position:0%
+fact that it's dismissible with one key
+press,<00:04:21.759><c> that's</c><00:04:22.079><c> not</c><00:04:22.240><c> a</c><00:04:22.400><c> small</c><00:04:22.639><c> thing.</c><00:04:22.960><c> That's</c>
+
+00:04:23.189 --> 00:04:23.199 align:start position:0%
+press, that's not a small thing. That's
+ 
+
+00:04:23.199 --> 00:04:25.030 align:start position:0%
+press, that's not a small thing. That's
+intentional<00:04:23.759><c> design.</c><00:04:24.240><c> The</c><00:04:24.400><c> goal</c><00:04:24.560><c> was</c><00:04:24.800><c> to</c><00:04:24.880><c> make</c>
+
+00:04:25.030 --> 00:04:25.040 align:start position:0%
+intentional design. The goal was to make
+ 
+
+00:04:25.040 --> 00:04:26.870 align:start position:0%
+intentional design. The goal was to make
+sure<00:04:25.120><c> it</c><00:04:25.360><c> never</c><00:04:25.520><c> becomes</c><00:04:25.759><c> a</c><00:04:25.919><c> distraction.</c><00:04:26.639><c> You</c>
+
+00:04:26.870 --> 00:04:26.880 align:start position:0%
+sure it never becomes a distraction. You
+ 
+
+00:04:26.880 --> 00:04:28.550 align:start position:0%
+sure it never becomes a distraction. You
+look<00:04:26.960><c> at</c><00:04:27.040><c> it</c><00:04:27.199><c> when</c><00:04:27.360><c> you</c><00:04:27.520><c> want</c><00:04:27.680><c> to.</c><00:04:28.080><c> You</c><00:04:28.320><c> close</c>
+
+00:04:28.550 --> 00:04:28.560 align:start position:0%
+look at it when you want to. You close
+ 
+
+00:04:28.560 --> 00:04:30.150 align:start position:0%
+look at it when you want to. You close
+it<00:04:28.720><c> when</c><00:04:28.880><c> you're</c><00:04:29.040><c> done.</c><00:04:29.440><c> Now,</c><00:04:29.680><c> let</c><00:04:29.840><c> me</c><00:04:29.919><c> zoom</c>
+
+00:04:30.150 --> 00:04:30.160 align:start position:0%
+it when you're done. Now, let me zoom
+ 
+
+00:04:30.160 --> 00:04:31.990 align:start position:0%
+it when you're done. Now, let me zoom
+out<00:04:30.240><c> for</c><00:04:30.479><c> a</c><00:04:30.639><c> second</c><00:04:31.040><c> because</c><00:04:31.360><c> this</c><00:04:31.600><c> feature</c>
+
+00:04:31.990 --> 00:04:32.000 align:start position:0%
+out for a second because this feature
+ 
+
+00:04:32.000 --> 00:04:33.510 align:start position:0%
+out for a second because this feature
+tells<00:04:32.240><c> us</c><00:04:32.479><c> something</c><00:04:32.639><c> bigger</c><00:04:33.040><c> about</c><00:04:33.199><c> where</c>
+
+00:04:33.510 --> 00:04:33.520 align:start position:0%
+tells us something bigger about where
+ 
+
+00:04:33.520 --> 00:04:36.310 align:start position:0%
+tells us something bigger about where
+Anthropic<00:04:34.160><c> is</c><00:04:34.320><c> going</c><00:04:34.639><c> with</c><00:04:35.040><c> Claude</c><00:04:35.440><c> Code</c><00:04:35.840><c> as</c><00:04:36.080><c> a</c>
+
+00:04:36.310 --> 00:04:36.320 align:start position:0%
+Anthropic is going with Claude Code as a
+ 
+
+00:04:36.320 --> 00:04:38.469 align:start position:0%
+Anthropic is going with Claude Code as a
+product.<00:04:37.040><c> They're</c><00:04:37.280><c> not</c><00:04:37.440><c> just</c><00:04:37.680><c> building</c><00:04:38.000><c> an</c><00:04:38.160><c> AI</c>
+
+00:04:38.469 --> 00:04:38.479 align:start position:0%
+product. They're not just building an AI
+ 
+
+00:04:38.479 --> 00:04:40.550 align:start position:0%
+product. They're not just building an AI
+that<00:04:38.720><c> writes</c><00:04:39.040><c> code.</c><00:04:39.520><c> They're</c><00:04:39.759><c> building</c><00:04:40.000><c> an</c><00:04:40.240><c> AI</c>
+
+00:04:40.550 --> 00:04:40.560 align:start position:0%
+that writes code. They're building an AI
+ 
+
+00:04:40.560 --> 00:04:42.550 align:start position:0%
+that writes code. They're building an AI
+that<00:04:40.720><c> fits</c><00:04:41.040><c> into</c><00:04:41.360><c> how</c><00:04:41.680><c> developers</c><00:04:42.240><c> actually</c>
+
+00:04:42.550 --> 00:04:42.560 align:start position:0%
+that fits into how developers actually
+ 
+
+00:04:42.560 --> 00:04:44.790 align:start position:0%
+that fits into how developers actually
+work.<00:04:43.199><c> Developers</c><00:04:43.759><c> don't</c><00:04:44.000><c> sit</c><00:04:44.240><c> in</c><00:04:44.479><c> clean,</c>
+
+00:04:44.790 --> 00:04:44.800 align:start position:0%
+work. Developers don't sit in clean,
+ 
+
+00:04:44.800 --> 00:04:46.469 align:start position:0%
+work. Developers don't sit in clean,
+quiet<00:04:45.120><c> environments</c><00:04:45.680><c> where</c><00:04:45.840><c> they</c><00:04:46.080><c> can</c><00:04:46.240><c> focus</c>
+
+00:04:46.469 --> 00:04:46.479 align:start position:0%
+quiet environments where they can focus
+ 
+
+00:04:46.479 --> 00:04:48.390 align:start position:0%
+quiet environments where they can focus
+on<00:04:46.639><c> one</c><00:04:46.880><c> thing</c><00:04:46.960><c> at</c><00:04:47.120><c> a</c><00:04:47.280><c> time.</c><00:04:47.759><c> They're</c><00:04:48.000><c> managing</c>
+
+00:04:48.390 --> 00:04:48.400 align:start position:0%
+on one thing at a time. They're managing
+ 
+
+00:04:48.400 --> 00:04:50.629 align:start position:0%
+on one thing at a time. They're managing
+long<00:04:48.720><c> builds.</c><00:04:49.360><c> They're</c><00:04:49.600><c> switching</c><00:04:50.160><c> context</c>
+
+00:04:50.629 --> 00:04:50.639 align:start position:0%
+long builds. They're switching context
+ 
+
+00:04:50.639 --> 00:04:52.230 align:start position:0%
+long builds. They're switching context
+constantly.<00:04:51.199><c> They're</c><00:04:51.520><c> answering</c><00:04:51.919><c> Slack</c>
+
+00:04:52.230 --> 00:04:52.240 align:start position:0%
+constantly. They're answering Slack
+ 
+
+00:04:52.240 --> 00:04:54.070 align:start position:0%
+constantly. They're answering Slack
+messages<00:04:52.720><c> while</c><00:04:53.040><c> waiting</c><00:04:53.360><c> for</c><00:04:53.520><c> a</c><00:04:53.680><c> test</c><00:04:53.840><c> to</c>
+
+00:04:54.070 --> 00:04:54.080 align:start position:0%
+messages while waiting for a test to
+ 
+
+00:04:54.080 --> 00:04:56.310 align:start position:0%
+messages while waiting for a test to
+run.<00:04:54.479><c> The</c><00:04:54.720><c> OBTW</c><00:04:55.360><c> feature</c><00:04:55.680><c> is</c><00:04:55.919><c> designed</c><00:04:56.160><c> for</c>
+
+00:04:56.310 --> 00:04:56.320 align:start position:0%
+run. The OBTW feature is designed for
+ 
+
+00:04:56.320 --> 00:04:58.550 align:start position:0%
+run. The OBTW feature is designed for
+that<00:04:56.560><c> reality.</c><00:04:57.360><c> And</c><00:04:57.520><c> here's</c><00:04:57.759><c> the</c><00:04:57.840><c> open</c><00:04:58.160><c> loop</c><00:04:58.320><c> I</c>
+
+00:04:58.550 --> 00:04:58.560 align:start position:0%
+that reality. And here's the open loop I
+ 
+
+00:04:58.560 --> 00:05:00.310 align:start position:0%
+that reality. And here's the open loop I
+want<00:04:58.639><c> to</c><00:04:58.720><c> leave</c><00:04:58.800><c> you</c><00:04:58.960><c> with.</c><00:04:59.600><c> This</c><00:04:59.759><c> is</c><00:04:59.919><c> just</c><00:05:00.080><c> the</c>
+
+00:05:00.310 --> 00:05:00.320 align:start position:0%
+want to leave you with. This is just the
+ 
+
+00:05:00.320 --> 00:05:02.390 align:start position:0%
+want to leave you with. This is just the
+start.<00:05:00.639><c> If</c><00:05:00.880><c> Anthropic</c><00:05:01.520><c> is</c><00:05:01.680><c> shipping</c><00:05:02.080><c> side</c>
+
+00:05:02.390 --> 00:05:02.400 align:start position:0%
+start. If Anthropic is shipping side
+ 
+
+00:05:02.400 --> 00:05:04.950 align:start position:0%
+start. If Anthropic is shipping side
+project<00:05:02.720><c> features</c><00:05:03.199><c> like</c><00:05:03.440><c> this,</c><00:05:04.479><c> things</c><00:05:04.720><c> that</c>
+
+00:05:04.950 --> 00:05:04.960 align:start position:0%
+project features like this, things that
+ 
+
+00:05:04.960 --> 00:05:06.550 align:start position:0%
+project features like this, things that
+Eric<00:05:05.280><c> Schluntz</c><00:05:05.759><c> built</c><00:05:05.919><c> on</c><00:05:06.080><c> his</c><00:05:06.240><c> own</c><00:05:06.320><c> and</c>
+
+00:05:06.550 --> 00:05:06.560 align:start position:0%
+Eric Schluntz built on his own and
+ 
+
+00:05:06.560 --> 00:05:08.790 align:start position:0%
+Eric Schluntz built on his own and
+shipped<00:05:06.800><c> into</c><00:05:07.039><c> production,</c><00:05:08.240><c> what</c><00:05:08.479><c> else</c><00:05:08.639><c> is</c>
+
+00:05:08.790 --> 00:05:08.800 align:start position:0%
+shipped into production, what else is
+ 
+
+00:05:08.800 --> 00:05:10.390 align:start position:0%
+shipped into production, what else is
+coming?<00:05:09.120><c> What</c><00:05:09.280><c> does</c><00:05:09.440><c> the</c><00:05:09.600><c> full</c><00:05:09.759><c> road</c><00:05:10.000><c> map</c><00:05:10.240><c> look</c>
+
+00:05:10.390 --> 00:05:10.400 align:start position:0%
+coming? What does the full road map look
+ 
+
+00:05:10.400 --> 00:05:12.150 align:start position:0%
+coming? What does the full road map look
+like<00:05:10.479><c> for</c><00:05:10.720><c> Claude</c><00:05:11.039><c> Code</c><00:05:11.280><c> as</c><00:05:11.440><c> it</c><00:05:11.680><c> matures?</c>
+
+00:05:12.150 --> 00:05:12.160 align:start position:0%
+like for Claude Code as it matures?
+ 
+
+00:05:12.160 --> 00:05:13.990 align:start position:0%
+like for Claude Code as it matures?
+Because<00:05:12.400><c> right</c><00:05:12.639><c> now</c><00:05:12.800><c> it's</c><00:05:12.960><c> a</c><00:05:13.120><c> terminal</c><00:05:13.520><c> tool,</c>
+
+00:05:13.990 --> 00:05:14.000 align:start position:0%
+Because right now it's a terminal tool,
+ 
+
+00:05:14.000 --> 00:05:15.670 align:start position:0%
+Because right now it's a terminal tool,
+but<00:05:14.240><c> the</c><00:05:14.479><c> pace</c><00:05:14.720><c> of</c><00:05:14.960><c> development</c><00:05:15.280><c> on</c><00:05:15.520><c> this</c>
+
+00:05:15.670 --> 00:05:15.680 align:start position:0%
+but the pace of development on this
+ 
+
+00:05:15.680 --> 00:05:17.670 align:start position:0%
+but the pace of development on this
+thing<00:05:15.840><c> is</c><00:05:16.000><c> fast</c><00:05:16.560><c> and</c><00:05:16.800><c> the</c><00:05:17.039><c> direction</c><00:05:17.440><c> they're</c>
+
+00:05:17.670 --> 00:05:17.680 align:start position:0%
+thing is fast and the direction they're
+ 
+
+00:05:17.680 --> 00:05:20.790 align:start position:0%
+thing is fast and the direction they're
+going,<00:05:18.400><c> ambient,</c><00:05:19.199><c> low</c><00:05:19.520><c> friction,</c><00:05:20.320><c> context</c>
+
+00:05:20.790 --> 00:05:20.800 align:start position:0%
+going, ambient, low friction, context
+ 
+
+00:05:20.800 --> 00:05:22.710 align:start position:0%
+going, ambient, low friction, context
+aware.<00:05:21.440><c> That's</c><00:05:21.600><c> a</c><00:05:21.840><c> very</c><00:05:22.000><c> strong</c><00:05:22.240><c> foundation</c>
+
+00:05:22.710 --> 00:05:22.720 align:start position:0%
+aware. That's a very strong foundation
+ 
+
+00:05:22.720 --> 00:05:24.629 align:start position:0%
+aware. That's a very strong foundation
+to<00:05:22.960><c> build</c><00:05:23.120><c> on.</c><00:05:23.520><c> Let's</c><00:05:23.759><c> talk</c><00:05:23.919><c> about</c><00:05:24.160><c> practical</c>
+
+00:05:24.629 --> 00:05:24.639 align:start position:0%
+to build on. Let's talk about practical
+ 
+
+00:05:24.639 --> 00:05:26.390 align:start position:0%
+to build on. Let's talk about practical
+use.<00:05:25.039><c> If</c><00:05:25.280><c> you're</c><00:05:25.440><c> using</c><00:05:25.759><c> claude</c><00:05:26.160><c> code</c>
+
+00:05:26.390 --> 00:05:26.400 align:start position:0%
+use. If you're using claude code
+ 
+
+00:05:26.400 --> 00:05:27.670 align:start position:0%
+use. If you're using claude code
+already,<00:05:26.800><c> here's</c><00:05:27.039><c> how</c><00:05:27.120><c> to</c><00:05:27.280><c> think</c><00:05:27.440><c> about</c>
+
+00:05:27.670 --> 00:05:27.680 align:start position:0%
+already, here's how to think about
+ 
+
+00:05:27.680 --> 00:05:29.990 align:start position:0%
+already, here's how to think about
+TouchbtW.<00:05:28.880><c> Use</c><00:05:29.039><c> it</c><00:05:29.199><c> when</c><00:05:29.360><c> you</c><00:05:29.520><c> have</c><00:05:29.600><c> a</c><00:05:29.759><c> quick</c>
+
+00:05:29.990 --> 00:05:30.000 align:start position:0%
+TouchbtW. Use it when you have a quick
+ 
+
+00:05:30.000 --> 00:05:31.430 align:start position:0%
+TouchbtW. Use it when you have a quick
+question<00:05:30.320><c> that</c><00:05:30.560><c> doesn't</c><00:05:30.800><c> need</c><00:05:30.880><c> a</c><00:05:31.120><c> full</c><00:05:31.280><c> back</c>
+
+00:05:31.430 --> 00:05:31.440 align:start position:0%
+question that doesn't need a full back
+ 
+
+00:05:31.440 --> 00:05:33.670 align:start position:0%
+question that doesn't need a full back
+and<00:05:31.680><c> forth.</c><00:05:32.320><c> Things</c><00:05:32.560><c> like,</c><00:05:33.039><c> "What</c><00:05:33.280><c> does</c><00:05:33.520><c> this</c>
+
+00:05:33.670 --> 00:05:33.680 align:start position:0%
+and forth. Things like, "What does this
+ 
+
+00:05:33.680 --> 00:05:35.430 align:start position:0%
+and forth. Things like, "What does this
+function<00:05:34.000><c> do?</c><00:05:34.400><c> Why</c><00:05:34.560><c> might</c><00:05:34.800><c> this</c><00:05:34.960><c> be</c><00:05:35.120><c> throwing</c>
+
+00:05:35.430 --> 00:05:35.440 align:start position:0%
+function do? Why might this be throwing
+ 
+
+00:05:35.440 --> 00:05:37.189 align:start position:0%
+function do? Why might this be throwing
+an<00:05:35.680><c> error?</c><00:05:36.240><c> What's</c><00:05:36.479><c> the</c><00:05:36.639><c> difference</c><00:05:36.880><c> between</c>
+
+00:05:37.189 --> 00:05:37.199 align:start position:0%
+an error? What's the difference between
+ 
+
+00:05:37.199 --> 00:05:39.110 align:start position:0%
+an error? What's the difference between
+these<00:05:37.520><c> two</c><00:05:37.680><c> approaches?</c><00:05:38.400><c> What</c><00:05:38.560><c> should</c><00:05:38.720><c> I</c><00:05:38.880><c> name</c>
+
+00:05:39.110 --> 00:05:39.120 align:start position:0%
+these two approaches? What should I name
+ 
+
+00:05:39.120 --> 00:05:42.150 align:start position:0%
+these two approaches? What should I name
+this<00:05:39.360><c> variable?"</c><00:05:40.080><c> Those</c><00:05:40.320><c> are</c><00:05:40.720><c> BTW</c><00:05:41.360><c> questions.</c>
+
+00:05:42.150 --> 00:05:42.160 align:start position:0%
+this variable?" Those are BTW questions.
+ 
+
+00:05:42.160 --> 00:05:44.629 align:start position:0%
+this variable?" Those are BTW questions.
+Fast,<00:05:42.720><c> specific,</c><00:05:43.440><c> contextual.</c><00:05:44.240><c> If</c><00:05:44.479><c> you're</c>
+
+00:05:44.629 --> 00:05:44.639 align:start position:0%
+Fast, specific, contextual. If you're
+ 
+
+00:05:44.639 --> 00:05:46.310 align:start position:0%
+Fast, specific, contextual. If you're
+doing<00:05:44.880><c> something</c><00:05:45.120><c> bigger,</c><00:05:45.680><c> like</c><00:05:45.919><c> asking</c>
+
+00:05:46.310 --> 00:05:46.320 align:start position:0%
+doing something bigger, like asking
+ 
+
+00:05:46.320 --> 00:05:48.790 align:start position:0%
+doing something bigger, like asking
+Claude<00:05:46.720><c> to</c><00:05:46.960><c> rewrite</c><00:05:47.360><c> a</c><00:05:47.520><c> whole</c><00:05:47.759><c> module</c><00:05:48.240><c> or</c><00:05:48.560><c> plan</c>
+
+00:05:48.790 --> 00:05:48.800 align:start position:0%
+Claude to rewrite a whole module or plan
+ 
+
+00:05:48.800 --> 00:05:50.710 align:start position:0%
+Claude to rewrite a whole module or plan
+out<00:05:48.960><c> a</c><00:05:49.120><c> new</c><00:05:49.280><c> feature,</c><00:05:50.080><c> that's</c><00:05:50.320><c> a</c><00:05:50.479><c> full</c>
+
+00:05:50.710 --> 00:05:50.720 align:start position:0%
+out a new feature, that's a full
+ 
+
+00:05:50.720 --> 00:05:52.629 align:start position:0%
+out a new feature, that's a full
+conversation.<00:05:51.440><c> Use</c><00:05:51.680><c> the</c><00:05:51.840><c> main</c><00:05:52.000><c> interface</c><00:05:52.400><c> for</c>
+
+00:05:52.629 --> 00:05:52.639 align:start position:0%
+conversation. Use the main interface for
+ 
+
+00:05:52.639 --> 00:05:56.710 align:start position:0%
+conversation. Use the main interface for
+that.<00:05:53.919><c> BTW</c><00:05:54.720><c> is</c><00:05:54.960><c> your</c><00:05:55.199><c> quick</c><00:05:55.440><c> check-in</c><00:05:55.919><c> tool.</c>
+
+00:05:56.710 --> 00:05:56.720 align:start position:0%
+that. BTW is your quick check-in tool.
+ 
+
+00:05:56.720 --> 00:05:58.710 align:start position:0%
+that. BTW is your quick check-in tool.
+Think<00:05:56.880><c> of</c><00:05:57.039><c> it</c><00:05:57.199><c> like</c><00:05:57.440><c> asking</c><00:05:57.840><c> a</c><00:05:58.080><c> senior</c><00:05:58.400><c> dev</c>
+
+00:05:58.710 --> 00:05:58.720 align:start position:0%
+Think of it like asking a senior dev
+ 
+
+00:05:58.720 --> 00:06:00.550 align:start position:0%
+Think of it like asking a senior dev
+who's<00:05:58.960><c> sitting</c><00:05:59.199><c> right</c><00:05:59.440><c> next</c><00:05:59.680><c> to</c><00:05:59.840><c> you,</c><00:06:00.320><c> hey,</c>
+
+00:06:00.550 --> 00:06:00.560 align:start position:0%
+who's sitting right next to you, hey,
+ 
+
+00:06:00.560 --> 00:06:02.870 align:start position:0%
+who's sitting right next to you, hey,
+real<00:06:00.800><c> quick,</c><00:06:01.919><c> what's</c><00:06:02.160><c> the</c><00:06:02.400><c> best</c><00:06:02.560><c> way</c><00:06:02.720><c> to</c>
+
+00:06:02.870 --> 00:06:02.880 align:start position:0%
+real quick, what's the best way to
+ 
+
+00:06:02.880 --> 00:06:05.350 align:start position:0%
+real quick, what's the best way to
+handle<00:06:03.199><c> this?</c><00:06:03.759><c> You</c><00:06:03.919><c> get</c><00:06:04.080><c> a</c><00:06:04.240><c> fast</c><00:06:04.560><c> answer,</c><00:06:05.120><c> you</c>
+
+00:06:05.350 --> 00:06:05.360 align:start position:0%
+handle this? You get a fast answer, you
+ 
+
+00:06:05.360 --> 00:06:07.590 align:start position:0%
+handle this? You get a fast answer, you
+move<00:06:05.520><c> on.</c><00:06:06.240><c> That's</c><00:06:06.479><c> the</c><00:06:06.639><c> mental</c><00:06:07.039><c> model.</c><00:06:07.360><c> Now,</c>
+
+00:06:07.590 --> 00:06:07.600 align:start position:0%
+move on. That's the mental model. Now,
+ 
+
+00:06:07.600 --> 00:06:09.110 align:start position:0%
+move on. That's the mental model. Now,
+let's<00:06:07.840><c> bring</c><00:06:08.000><c> this</c><00:06:08.160><c> back</c><00:06:08.319><c> to</c><00:06:08.560><c> what</c><00:06:08.720><c> it</c><00:06:08.880><c> means</c>
+
+00:06:09.110 --> 00:06:09.120 align:start position:0%
+let's bring this back to what it means
+ 
+
+00:06:09.120 --> 00:06:11.110 align:start position:0%
+let's bring this back to what it means
+for<00:06:09.280><c> your</c><00:06:09.440><c> business.</c><00:06:10.000><c> If</c><00:06:10.240><c> you're</c><00:06:10.479><c> a</c><00:06:10.800><c> business</c>
+
+00:06:11.110 --> 00:06:11.120 align:start position:0%
+for your business. If you're a business
+ 
+
+00:06:11.120 --> 00:06:13.830 align:start position:0%
+for your business. If you're a business
+owner<00:06:11.600><c> or</c><00:06:11.919><c> agency</c><00:06:12.400><c> owner</c><00:06:12.720><c> watching</c><00:06:13.039><c> this,</c><00:06:13.759><c> uh</c>
+
+00:06:13.830 --> 00:06:13.840 align:start position:0%
+owner or agency owner watching this, uh
+ 
+
+00:06:13.840 --> 00:06:15.964 align:start position:0%
+owner or agency owner watching this, uh
+you<00:06:14.000><c> might</c><00:06:14.160><c> not</c><00:06:14.319><c> be</c><00:06:14.479><c> writing</c><00:06:14.800><c> code</c><00:06:15.120><c> every</c><00:06:15.440><c> day,</c>
+
+00:06:15.964 --> 00:06:15.974 align:start position:0%
+you might not be writing code every day,
+ 
+
+00:06:15.974 --> 00:06:17.430 align:start position:0%
+you might not be writing code every day,
+[snorts]<00:06:16.160><c> but</c><00:06:16.319><c> the</c><00:06:16.560><c> principle</c><00:06:16.880><c> here</c><00:06:17.120><c> applies</c>
+
+00:06:17.430 --> 00:06:17.440 align:start position:0%
+[snorts] but the principle here applies
+ 
+
+00:06:17.440 --> 00:06:19.510 align:start position:0%
+[snorts] but the principle here applies
+to<00:06:17.680><c> everything</c><00:06:17.919><c> that</c><00:06:18.240><c> the</c><00:06:18.400><c> AI</c><00:06:18.800><c> tools</c><00:06:19.039><c> that</c><00:06:19.280><c> win</c>
+
+00:06:19.510 --> 00:06:19.520 align:start position:0%
+to everything that the AI tools that win
+ 
+
+00:06:19.520 --> 00:06:21.909 align:start position:0%
+to everything that the AI tools that win
+are<00:06:19.759><c> the</c><00:06:19.919><c> ones</c><00:06:20.080><c> that</c><00:06:20.319><c> fit</c><00:06:20.560><c> into</c><00:06:20.880><c> your</c><00:06:21.120><c> workflow</c>
+
+00:06:21.909 --> 00:06:21.919 align:start position:0%
+are the ones that fit into your workflow
+ 
+
+00:06:21.919 --> 00:06:24.790 align:start position:0%
+are the ones that fit into your workflow
+without<00:06:22.400><c> creating</c><00:06:22.880><c> new</c><00:06:23.520><c> friction.</c><00:06:24.400><c> When</c><00:06:24.639><c> we</c>
+
+00:06:24.790 --> 00:06:24.800 align:start position:0%
+without creating new friction. When we
+ 
+
+00:06:24.800 --> 00:06:26.629 align:start position:0%
+without creating new friction. When we
+work<00:06:24.960><c> with</c><00:06:25.120><c> members</c><00:06:25.440><c> inside</c><00:06:25.680><c> the</c><00:06:25.919><c> AI</c><00:06:26.319><c> profit</c>
+
+00:06:26.629 --> 00:06:26.639 align:start position:0%
+work with members inside the AI profit
+ 
+
+00:06:26.639 --> 00:06:27.749 align:start position:0%
+work with members inside the AI profit
+boardroom,<00:06:27.120><c> that's</c><00:06:27.280><c> one</c><00:06:27.440><c> of</c><00:06:27.520><c> the</c><00:06:27.600><c> first</c>
+
+00:06:27.749 --> 00:06:27.759 align:start position:0%
+boardroom, that's one of the first
+ 
+
+00:06:27.759 --> 00:06:29.510 align:start position:0%
+boardroom, that's one of the first
+things<00:06:28.000><c> we</c><00:06:28.240><c> look</c><00:06:28.319><c> at.</c><00:06:28.880><c> What's</c><00:06:29.120><c> your</c><00:06:29.280><c> current</c>
+
+00:06:29.510 --> 00:06:29.520 align:start position:0%
+things we look at. What's your current
+ 
+
+00:06:29.520 --> 00:06:31.670 align:start position:0%
+things we look at. What's your current
+workflow?<00:06:30.080><c> Where</c><00:06:30.240><c> are</c><00:06:30.400><c> the</c><00:06:30.560><c> bottlenecks?</c><00:06:31.600><c> And</c>
+
+00:06:31.670 --> 00:06:31.680 align:start position:0%
+workflow? Where are the bottlenecks? And
+ 
+
+00:06:31.680 --> 00:06:34.629 align:start position:0%
+workflow? Where are the bottlenecks? And
+then<00:06:32.240><c> what</c><00:06:32.560><c> AI</c><00:06:32.960><c> tools</c><00:06:33.600><c> can</c><00:06:33.840><c> plug</c><00:06:34.080><c> in</c><00:06:34.240><c> without</c>
+
+00:06:34.629 --> 00:06:34.639 align:start position:0%
+then what AI tools can plug in without
+ 
+
+00:06:34.639 --> 00:06:37.350 align:start position:0%
+then what AI tools can plug in without
+adding<00:06:35.120><c> five</c><00:06:35.440><c> new</c><00:06:35.759><c> steps</c><00:06:36.240><c> to</c><00:06:36.479><c> your</c><00:06:36.720><c> process?</c>
+
+00:06:37.350 --> 00:06:37.360 align:start position:0%
+adding five new steps to your process?
+ 
+
+00:06:37.360 --> 00:06:38.550 align:start position:0%
+adding five new steps to your process?
+Because<00:06:37.520><c> that's</c><00:06:37.759><c> where</c><00:06:37.919><c> the</c><00:06:38.160><c> real</c><00:06:38.400><c> time</c>
+
+00:06:38.550 --> 00:06:38.560 align:start position:0%
+Because that's where the real time
+ 
+
+00:06:38.560 --> 00:06:41.110 align:start position:0%
+Because that's where the real time
+savings<00:06:39.039><c> happen,</c><00:06:39.520><c> not</c><00:06:39.759><c> from</c><00:06:40.000><c> using</c><00:06:40.319><c> the</c><00:06:40.560><c> most</c>
+
+00:06:41.110 --> 00:06:41.120 align:start position:0%
+savings happen, not from using the most
+ 
+
+00:06:41.120 --> 00:06:43.830 align:start position:0%
+savings happen, not from using the most
+advanced<00:06:41.759><c> AI,</c><00:06:42.240><c> from</c><00:06:42.479><c> using</c><00:06:42.800><c> AI</c><00:06:43.199><c> that</c><00:06:43.440><c> fits</c>
+
+00:06:43.830 --> 00:06:43.840 align:start position:0%
+advanced AI, from using AI that fits
+ 
+
+00:06:43.840 --> 00:06:45.749 align:start position:0%
+advanced AI, from using AI that fits
+naturally<00:06:44.639><c> into</c><00:06:44.960><c> what</c><00:06:45.199><c> you're</c><00:06:45.440><c> already</c>
+
+00:06:45.749 --> 00:06:45.759 align:start position:0%
+naturally into what you're already
+ 
+
+00:06:45.759 --> 00:06:48.629 align:start position:0%
+naturally into what you're already
+doing.<00:06:46.319><c> BTW</c><00:06:46.800><c> is</c><00:06:46.960><c> a</c><00:06:47.120><c> perfect</c><00:06:47.440><c> example</c><00:06:48.080><c> of</c><00:06:48.400><c> that</c>
+
+00:06:48.629 --> 00:06:48.639 align:start position:0%
+doing. BTW is a perfect example of that
+ 
+
+00:06:48.639 --> 00:06:50.870 align:start position:0%
+doing. BTW is a perfect example of that
+philosophy<00:06:49.199><c> applied</c><00:06:49.520><c> to</c><00:06:49.680><c> coding.</c><00:06:50.400><c> And</c><00:06:50.560><c> if</c><00:06:50.720><c> you</c>
+
+00:06:50.870 --> 00:06:50.880 align:start position:0%
+philosophy applied to coding. And if you
+ 
+
+00:06:50.880 --> 00:06:52.469 align:start position:0%
+philosophy applied to coding. And if you
+want<00:06:50.960><c> to</c><00:06:51.120><c> apply</c><00:06:51.360><c> that</c><00:06:51.600><c> same</c><00:06:51.840><c> thinking</c><00:06:52.160><c> to</c><00:06:52.319><c> your</c>
+
+00:06:52.469 --> 00:06:52.479 align:start position:0%
+want to apply that same thinking to your
+ 
+
+00:06:52.479 --> 00:06:54.629 align:start position:0%
+want to apply that same thinking to your
+business,<00:06:52.800><c> automate</c><00:06:53.759><c> automating</c><00:06:54.400><c> your</c>
+
+00:06:54.629 --> 00:06:54.639 align:start position:0%
+business, automate automating your
+ 
+
+00:06:54.639 --> 00:06:56.309 align:start position:0%
+business, automate automating your
+marketing,<00:06:55.199><c> your</c><00:06:55.360><c> lead</c><00:06:55.600><c> gen,</c><00:06:55.919><c> your</c><00:06:56.080><c> client</c>
+
+00:06:56.309 --> 00:06:56.319 align:start position:0%
+marketing, your lead gen, your client
+ 
+
+00:06:56.319 --> 00:06:58.390 align:start position:0%
+marketing, your lead gen, your client
+communication,<00:06:57.039><c> your</c><00:06:57.280><c> content,</c><00:06:58.160><c> that's</c>
+
+00:06:58.390 --> 00:06:58.400 align:start position:0%
+communication, your content, that's
+ 
+
+00:06:58.400 --> 00:07:00.469 align:start position:0%
+communication, your content, that's
+exactly<00:06:58.720><c> what</c><00:06:58.960><c> we</c><00:06:59.199><c> build</c><00:06:59.520><c> inside</c><00:06:59.840><c> the</c><00:07:00.080><c> AI</c>
+
+00:07:00.469 --> 00:07:00.479 align:start position:0%
+exactly what we build inside the AI
+ 
+
+00:07:00.479 --> 00:07:02.230 align:start position:0%
+exactly what we build inside the AI
+profit<00:07:00.800><c> boardroom.</c><00:07:01.360><c> Here's</c><00:07:01.599><c> my</c><00:07:01.759><c> take</c><00:07:01.919><c> on</c><00:07:02.080><c> this</c>
+
+00:07:02.230 --> 00:07:02.240 align:start position:0%
+profit boardroom. Here's my take on this
+ 
+
+00:07:02.240 --> 00:07:04.230 align:start position:0%
+profit boardroom. Here's my take on this
+feature.<00:07:02.639><c> It's</c><00:07:02.880><c> small,</c><00:07:03.199><c> it's</c><00:07:03.440><c> simple,</c><00:07:04.000><c> and</c>
+
+00:07:04.230 --> 00:07:04.240 align:start position:0%
+feature. It's small, it's simple, and
+ 
+
+00:07:04.240 --> 00:07:05.670 align:start position:0%
+feature. It's small, it's simple, and
+it's<00:07:04.560><c> really</c><00:07:04.800><c> well</c><00:07:05.039><c> thought</c><00:07:05.199><c> out.</c><00:07:05.520><c> That</c>
+
+00:07:05.670 --> 00:07:05.680 align:start position:0%
+it's really well thought out. That
+ 
+
+00:07:05.680 --> 00:07:07.270 align:start position:0%
+it's really well thought out. That
+combination<00:07:06.160><c> is</c><00:07:06.319><c> rare.</c><00:07:06.639><c> A</c><00:07:06.800><c> lot</c><00:07:06.880><c> of</c><00:07:06.960><c> AI</c>
+
+00:07:07.270 --> 00:07:07.280 align:start position:0%
+combination is rare. A lot of AI
+ 
+
+00:07:07.280 --> 00:07:09.430 align:start position:0%
+combination is rare. A lot of AI
+features<00:07:07.599><c> are</c><00:07:07.840><c> impressive</c><00:07:08.240><c> in</c><00:07:08.560><c> demos</c><00:07:09.199><c> and</c>
+
+00:07:09.430 --> 00:07:09.440 align:start position:0%
+features are impressive in demos and
+ 
+
+00:07:09.440 --> 00:07:11.990 align:start position:0%
+features are impressive in demos and
+annoying<00:07:09.840><c> in</c><00:07:10.080><c> real</c><00:07:10.319><c> use.</c><00:07:10.880><c> BTW</c><00:07:11.599><c> is</c><00:07:11.759><c> the</c>
+
+00:07:11.990 --> 00:07:12.000 align:start position:0%
+annoying in real use. BTW is the
+ 
+
+00:07:12.000 --> 00:07:14.309 align:start position:0%
+annoying in real use. BTW is the
+opposite.<00:07:12.720><c> It's</c><00:07:12.960><c> not</c><00:07:13.199><c> impressive</c><00:07:13.599><c> in</c><00:07:13.759><c> a</c><00:07:14.000><c> demo.</c>
+
+00:07:14.309 --> 00:07:14.319 align:start position:0%
+opposite. It's not impressive in a demo.
+ 
+
+00:07:14.319 --> 00:07:17.189 align:start position:0%
+opposite. It's not impressive in a demo.
+It's<00:07:14.560><c> just</c><00:07:15.039><c> useful</c><00:07:15.680><c> every</c><00:07:16.080><c> single</c><00:07:16.479><c> day.</c><00:07:17.039><c> And</c>
+
+00:07:17.189 --> 00:07:17.199 align:start position:0%
+It's just useful every single day. And
+ 
+
+00:07:17.199 --> 00:07:18.870 align:start position:0%
+It's just useful every single day. And
+for<00:07:17.440><c> developers</c><00:07:17.840><c> who</c><00:07:18.080><c> are</c><00:07:18.240><c> spending</c><00:07:18.560><c> hours</c>
+
+00:07:18.870 --> 00:07:18.880 align:start position:0%
+for developers who are spending hours
+ 
+
+00:07:18.880 --> 00:07:21.430 align:start position:0%
+for developers who are spending hours
+inside<00:07:19.360><c> Claude</c><00:07:19.759><c> Code</c><00:07:20.000><c> sessions,</c><00:07:20.800><c> that</c><00:07:21.039><c> daily</c>
+
+00:07:21.430 --> 00:07:21.440 align:start position:0%
+inside Claude Code sessions, that daily
+ 
+
+00:07:21.440 --> 00:07:23.830 align:start position:0%
+inside Claude Code sessions, that daily
+usefulness<00:07:22.080><c> adds</c><00:07:22.479><c> up</c><00:07:22.639><c> fast.</c><00:07:23.360><c> The</c><00:07:23.520><c> fact</c><00:07:23.599><c> that</c>
+
+00:07:23.830 --> 00:07:23.840 align:start position:0%
+usefulness adds up fast. The fact that
+ 
+
+00:07:23.840 --> 00:07:26.309 align:start position:0%
+usefulness adds up fast. The fact that
+it<00:07:24.000><c> came</c><00:07:24.160><c> from</c><00:07:24.479><c> an</c><00:07:24.720><c> internal</c><00:07:25.199><c> side</c><00:07:25.599><c> project</c>
+
+00:07:26.309 --> 00:07:26.319 align:start position:0%
+it came from an internal side project
+ 
+
+00:07:26.319 --> 00:07:27.589 align:start position:0%
+it came from an internal side project
+also<00:07:26.720><c> tells</c><00:07:26.960><c> you</c><00:07:27.199><c> something</c><00:07:27.360><c> about</c>
+
+00:07:27.589 --> 00:07:27.599 align:start position:0%
+also tells you something about
+ 
+
+00:07:27.599 --> 00:07:29.510 align:start position:0%
+also tells you something about
+Anthropics<00:07:28.400><c> culture.</c><00:07:28.960><c> They're</c><00:07:29.199><c> not</c><00:07:29.360><c> just</c>
+
+00:07:29.510 --> 00:07:29.520 align:start position:0%
+Anthropics culture. They're not just
+ 
+
+00:07:29.520 --> 00:07:31.110 align:start position:0%
+Anthropics culture. They're not just
+doing<00:07:29.759><c> top-</c><00:07:30.000><c> down</c><00:07:30.319><c> feature</c><00:07:30.639><c> planning.</c>
+
+00:07:31.110 --> 00:07:31.120 align:start position:0%
+doing top- down feature planning.
+ 
+
+00:07:31.120 --> 00:07:32.710 align:start position:0%
+doing top- down feature planning.
+They're<00:07:31.360><c> letting</c><00:07:31.680><c> people</c><00:07:31.919><c> build</c><00:07:32.240><c> things</c><00:07:32.400><c> that</c>
+
+00:07:32.710 --> 00:07:32.720 align:start position:0%
+They're letting people build things that
+ 
+
+00:07:32.720 --> 00:07:34.870 align:start position:0%
+They're letting people build things that
+solve<00:07:33.039><c> real</c><00:07:33.440><c> problems.</c><00:07:34.160><c> That's</c><00:07:34.400><c> a</c><00:07:34.560><c> good</c><00:07:34.720><c> sign</c>
+
+00:07:34.870 --> 00:07:34.880 align:start position:0%
+solve real problems. That's a good sign
+ 
+
+00:07:34.880 --> 00:07:37.990 align:start position:0%
+solve real problems. That's a good sign
+for<00:07:35.120><c> the</c><00:07:35.280><c> trajectory</c><00:07:36.160><c> of</c><00:07:36.479><c> Claude</c><00:07:36.880><c> Code</c><00:07:37.520><c> as</c><00:07:37.759><c> a</c>
+
+00:07:37.990 --> 00:07:38.000 align:start position:0%
+for the trajectory of Claude Code as a
+ 
+
+00:07:38.000 --> 00:07:39.749 align:start position:0%
+for the trajectory of Claude Code as a
+tool.<00:07:38.560><c> All</c><00:07:38.560><c> right,</c><00:07:38.960><c> we're</c><00:07:39.199><c> almost</c><00:07:39.440><c> at</c><00:07:39.599><c> the</c>
+
+00:07:39.749 --> 00:07:39.759 align:start position:0%
+tool. All right, we're almost at the
+ 
+
+00:07:39.759 --> 00:07:41.589 align:start position:0%
+tool. All right, we're almost at the
+end,<00:07:40.240><c> but</c><00:07:40.479><c> I</c><00:07:40.639><c> want</c><00:07:40.720><c> to</c><00:07:40.800><c> go</c><00:07:40.960><c> back</c><00:07:41.120><c> to</c><00:07:41.360><c> something</c>
+
+00:07:41.589 --> 00:07:41.599 align:start position:0%
+end, but I want to go back to something
+ 
+
+00:07:41.599 --> 00:07:43.270 align:start position:0%
+end, but I want to go back to something
+I<00:07:41.840><c> said</c><00:07:42.000><c> earlier.</c><00:07:42.400><c> This</c><00:07:42.560><c> is</c><00:07:42.639><c> just</c><00:07:42.800><c> the</c><00:07:42.960><c> start.</c>
+
+00:07:43.270 --> 00:07:43.280 align:start position:0%
+I said earlier. This is just the start.
+ 
+
+00:07:43.280 --> 00:07:45.909 align:start position:0%
+I said earlier. This is just the start.
+Claude<00:07:43.599><c> Code</c><00:07:43.840><c> is</c><00:07:44.080><c> still</c><00:07:44.319><c> early.</c><00:07:44.800><c> The</c><00:07:45.039><c> OBTW</c>
+
+00:07:45.909 --> 00:07:45.919 align:start position:0%
+Claude Code is still early. The OBTW
+ 
+
+00:07:45.919 --> 00:07:48.070 align:start position:0%
+Claude Code is still early. The OBTW
+feature<00:07:46.240><c> is</c><00:07:46.400><c> one</c><00:07:46.639><c> small</c><00:07:46.880><c> piece</c><00:07:47.440><c> of</c><00:07:47.599><c> a</c><00:07:47.840><c> much</c>
+
+00:07:48.070 --> 00:07:48.080 align:start position:0%
+feature is one small piece of a much
+ 
+
+00:07:48.080 --> 00:07:50.469 align:start position:0%
+feature is one small piece of a much
+bigger<00:07:48.479><c> picture.</c><00:07:49.120><c> Anthropic</c><00:07:49.919><c> is</c><00:07:50.160><c> clearly</c>
+
+00:07:50.469 --> 00:07:50.479 align:start position:0%
+bigger picture. Anthropic is clearly
+ 
+
+00:07:50.479 --> 00:07:52.390 align:start position:0%
+bigger picture. Anthropic is clearly
+building<00:07:50.800><c> toward</c><00:07:51.120><c> a</c><00:07:51.360><c> world</c><00:07:51.520><c> where</c><00:07:51.759><c> AI</c><00:07:52.240><c> is</c>
+
+00:07:52.390 --> 00:07:52.400 align:start position:0%
+building toward a world where AI is
+ 
+
+00:07:52.400 --> 00:07:54.629 align:start position:0%
+building toward a world where AI is
+embedded<00:07:52.880><c> in</c><00:07:53.039><c> the</c><00:07:53.199><c> developer</c><00:07:53.680><c> workflow</c><00:07:54.240><c> in</c><00:07:54.479><c> a</c>
+
+00:07:54.629 --> 00:07:54.639 align:start position:0%
+embedded in the developer workflow in a
+ 
+
+00:07:54.639 --> 00:07:57.029 align:start position:0%
+embedded in the developer workflow in a
+way<00:07:54.720><c> that</c><00:07:54.960><c> feels</c><00:07:55.280><c> natural,</c><00:07:56.000><c> not</c><00:07:56.240><c> forced.</c><00:07:56.879><c> What</c>
+
+00:07:57.029 --> 00:07:57.039 align:start position:0%
+way that feels natural, not forced. What
+ 
+
+00:07:57.039 --> 00:07:58.869 align:start position:0%
+way that feels natural, not forced. What
+does<00:07:57.199><c> that</c><00:07:57.360><c> look</c><00:07:57.520><c> like</c><00:07:57.680><c> in</c><00:07:57.919><c> 12</c><00:07:58.160><c> months?</c><00:07:58.639><c> What</c>
+
+00:07:58.869 --> 00:07:58.879 align:start position:0%
+does that look like in 12 months? What
+ 
+
+00:07:58.879 --> 00:08:00.629 align:start position:0%
+does that look like in 12 months? What
+other<00:07:59.120><c> friction</c><00:07:59.520><c> points</c><00:07:59.759><c> are</c><00:07:59.919><c> they</c><00:08:00.080><c> solving?</c>
+
+00:08:00.629 --> 00:08:00.639 align:start position:0%
+other friction points are they solving?
+ 
+
+00:08:00.639 --> 00:08:02.150 align:start position:0%
+other friction points are they solving?
+What<00:08:00.800><c> does</c><00:08:00.960><c> Claude</c><00:08:01.360><c> code</c><00:08:01.599><c> look</c><00:08:01.759><c> like</c><00:08:01.919><c> when</c>
+
+00:08:02.150 --> 00:08:02.160 align:start position:0%
+What does Claude code look like when
+ 
+
+00:08:02.160 --> 00:08:05.909 align:start position:0%
+What does Claude code look like when
+it's<00:08:02.319><c> fully</c><00:08:02.639><c> mature?</c><00:08:04.080><c> I'll</c><00:08:04.400><c> be</c><00:08:04.560><c> watching,</c><00:08:05.680><c> and</c>
+
+00:08:05.909 --> 00:08:05.919 align:start position:0%
+it's fully mature? I'll be watching, and
+ 
+
+00:08:05.919 --> 00:08:08.869 align:start position:0%
+it's fully mature? I'll be watching, and
+I'll<00:08:06.160><c> bring</c><00:08:06.319><c> you</c><00:08:06.479><c> updates</c><00:08:06.879><c> as</c><00:08:07.039><c> they</c><00:08:07.280><c> come.</c>
+
+00:08:08.869 --> 00:08:08.879 align:start position:0%
+I'll bring you updates as they come.
+ 
+
+00:08:08.879 --> 00:08:11.830 align:start position:0%
+I'll bring you updates as they come.
+Now,<00:08:09.120><c> if</c><00:08:09.360><c> you</c><00:08:09.440><c> want</c><00:08:09.520><c> the</c><00:08:09.759><c> full</c><00:08:10.000><c> process,</c><00:08:10.639><c> SOPs,</c>
+
+00:08:11.830 --> 00:08:11.840 align:start position:0%
+Now, if you want the full process, SOPs,
+ 
+
+00:08:11.840 --> 00:08:14.070 align:start position:0%
+Now, if you want the full process, SOPs,
+and<00:08:12.080><c> over</c><00:08:12.319><c> a</c><00:08:12.479><c> 100</c><00:08:12.720><c> AI</c><00:08:13.120><c> use</c><00:08:13.360><c> cases</c><00:08:13.680><c> like</c><00:08:13.919><c> this</c>
+
+00:08:14.070 --> 00:08:14.080 align:start position:0%
+and over a 100 AI use cases like this
+ 
+
+00:08:14.080 --> 00:08:16.790 align:start position:0%
+and over a 100 AI use cases like this
+one,<00:08:14.560><c> join</c><00:08:14.800><c> the</c><00:08:15.039><c> AI</c><00:08:15.440><c> profit</c><00:08:15.840><c> boardroom.</c><00:08:16.560><c> Learn</c>
+
+00:08:16.790 --> 00:08:16.800 align:start position:0%
+one, join the AI profit boardroom. Learn
+ 
+
+00:08:16.800 --> 00:08:18.309 align:start position:0%
+one, join the AI profit boardroom. Learn
+how<00:08:16.960><c> to</c><00:08:17.120><c> automate</c><00:08:17.520><c> your</c><00:08:17.680><c> workflows</c><00:08:18.160><c> with</c>
+
+00:08:18.309 --> 00:08:18.319 align:start position:0%
+how to automate your workflows with
+ 
+
+00:08:18.319 --> 00:08:20.469 align:start position:0%
+how to automate your workflows with
+tools<00:08:18.560><c> like</c><00:08:18.720><c> Clawude</c><00:08:19.199><c> Code</c><00:08:19.680><c> and</c><00:08:19.919><c> scale</c><00:08:20.240><c> your</c>
+
+00:08:20.469 --> 00:08:20.479 align:start position:0%
+tools like Clawude Code and scale your
+ 
+
+00:08:20.479 --> 00:08:23.270 align:start position:0%
+tools like Clawude Code and scale your
+business<00:08:20.960><c> with</c><00:08:21.360><c> AI</c><00:08:21.840><c> automation.</c><00:08:22.720><c> The</c><00:08:22.960><c> link</c><00:08:23.120><c> is</c>
+
+00:08:23.270 --> 00:08:23.280 align:start position:0%
+business with AI automation. The link is
+ 
+
+00:08:23.280 --> 00:08:25.110 align:start position:0%
+business with AI automation. The link is
+in<00:08:23.440><c> the</c><00:08:23.599><c> comments</c><00:08:23.919><c> and</c><00:08:24.080><c> description.</c><00:08:24.800><c> And</c><00:08:24.960><c> if</c>
+
+00:08:25.110 --> 00:08:25.120 align:start position:0%
+in the comments and description. And if
+ 
+
+00:08:25.120 --> 00:08:26.629 align:start position:0%
+in the comments and description. And if
+you<00:08:25.199><c> want</c><00:08:25.360><c> free</c><00:08:25.599><c> access</c><00:08:25.919><c> to</c><00:08:26.080><c> all</c><00:08:26.160><c> the</c><00:08:26.319><c> video</c>
+
+00:08:26.629 --> 00:08:26.639 align:start position:0%
+you want free access to all the video
+ 
+
+00:08:26.639 --> 00:08:28.230 align:start position:0%
+you want free access to all the video
+notes,<00:08:26.960><c> prompts,</c><00:08:27.360><c> and</c><00:08:27.520><c> a</c><00:08:27.680><c> community</c><00:08:27.919><c> of</c>
+
+00:08:28.230 --> 00:08:28.240 align:start position:0%
+notes, prompts, and a community of
+ 
+
+00:08:28.240 --> 00:08:30.230 align:start position:0%
+notes, prompts, and a community of
+45,000<00:08:29.039><c> members</c><00:08:29.360><c> who</c><00:08:29.520><c> are</c><00:08:29.680><c> crushing</c><00:08:29.919><c> it</c><00:08:30.080><c> with</c>
+
+00:08:30.230 --> 00:08:30.240 align:start position:0%
+45,000 members who are crushing it with
+ 
+
+00:08:30.240 --> 00:08:32.709 align:start position:0%
+45,000 members who are crushing it with
+AI,<00:08:30.639><c> join</c><00:08:30.879><c> the</c><00:08:31.039><c> AI</c><00:08:31.440><c> success</c><00:08:31.919><c> lab.</c><00:08:32.399><c> It's</c>
+
+00:08:32.709 --> 00:08:32.719 align:start position:0%
+AI, join the AI success lab. It's
+ 
+
+00:08:32.719 --> 00:08:34.790 align:start position:0%
+AI, join the AI success lab. It's
+completely<00:08:33.200><c> free.</c><00:08:33.760><c> Link</c><00:08:34.000><c> is</c><00:08:34.159><c> in</c><00:08:34.320><c> the</c><00:08:34.479><c> comments</c>
+
+00:08:34.790 --> 00:08:34.800 align:start position:0%
+completely free. Link is in the comments
+ 
+
+00:08:34.800 --> 00:08:36.310 align:start position:0%
+completely free. Link is in the comments
+and<00:08:34.959><c> description.</c><00:08:35.599><c> You'll</c><00:08:35.919><c> get</c><00:08:36.080><c> everything</c>
+
+00:08:36.310 --> 00:08:36.320 align:start position:0%
+and description. You'll get everything
+ 
+
+00:08:36.320 --> 00:08:39.919 align:start position:0%
+and description. You'll get everything
+from<00:08:36.560><c> this</c><00:08:36.719><c> video,</c><00:08:37.039><c> plus</c><00:08:37.279><c> way</c><00:08:37.519><c> more</c><00:08:37.680><c> in</c>
+

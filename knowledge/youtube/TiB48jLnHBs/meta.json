@@ -1,0 +1,155 @@
+{
+  "id": "TiB48jLnHBs",
+  "title": "AionUI + OpenClaw + Claude Code is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260313",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nRun Multiple AI Agents for Free with AON UI (Complete Guide)\n\nDiscover AON UI, a powerful open-source app that lets you run multiple AI agents like Claude Code and OpenClaw simultaneously on your computer. Learn how to set up your own local mission control to automate research, coding, and content creation for free.\n\n00:00 - Intro: Multi-Agent AI\n01:09 - Installation & Setup Guide\n01:43 - UI & Local Model Integration\n02:36 - Adding AI Skills & Assistants\n03:40 - Web UI & Mobile Access\n05:06 - Scheduling Automated Tasks\n06:30 - Preview Panel & File Manager\n08:03 - Prompt Library & Resources",
+  "classifications": [
+    "tool",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "claude",
+    "aionui",
+    "chatgpt",
+    "gemini"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "aionui",
+    "workflow-automation",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "proactive-assistant",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "aionui__claude__openclaw",
+  "related_video_ids": [
+    "OV5eK91YY68",
+    "L-CanI8zDWI",
+    "IiOhWxjUY7I",
+    "FVATW3KidnQ",
+    "9lbwgk29Db4"
+  ],
+  "related_videos": [
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "L-CanI8zDWI",
+      "title": "Google AI’s New Pomelli Update Is Insane!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/L-CanI8zDWI/summary.md",
+      "topic_cluster_key": "pomelli",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "IiOhWxjUY7I",
+      "title": "Ollama + Claude Code: FREE Scheduled Tasks!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/IiOhWxjUY7I/summary.md",
+      "topic_cluster_key": "claude__scheduled-tasks",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "proactive-assistant"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "FVATW3KidnQ",
+      "title": "NEW ChatGPT 5.5? Hunter + Healer Alpha is INSANE (FREE!)",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/FVATW3KidnQ/summary.md",
+      "topic_cluster_key": "chatgpt__healer-alpha",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "proactive-assistant"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "OV5eK91YY68",
+      "L-CanI8zDWI",
+      "IiOhWxjUY7I",
+      "FVATW3KidnQ",
+      "9lbwgk29Db4"
+    ]
+  },
+  "updated_at": "2026-03-13T17:30:13Z"
+}

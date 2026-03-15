@@ -1,0 +1,155 @@
+{
+  "id": "uHjwDSx4f48",
+  "title": "Google Gemini New FREE Updates Are INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260314",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\n6 New Google Gemini Updates: Maps, Docs, & Chrome Just Got Insane\n\nGoogle just dropped six massive AI updates that integrate Gemini directly into the tools you use every day, including Maps, Docs, and Chrome. Learn how these new features, from immersive 3D navigation to AI-powered document drafting, will transform your productivity and business workflow.\n\n00:00 - Intro: 6 Massive Gemini Updates\n00:25 - Ask Maps: Conversational Navigation\n01:30 - Immersive 3D View in Google Maps\n02:26 - What is Google Gemini AI?\n03:43 - Gemini in Docs, Sheets, & Drive\n05:25 - Gemini Embedding 2: Multimodal AI\n07:18 - Gemini Integration in Google Chrome\n09:07 - Final Recap & Implementation",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "gemini",
+    "openclaw"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "workflow-automation",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "gemini",
+  "related_video_ids": [
+    "_s7tHRZUmdM",
+    "98bGqof0dUI",
+    "1LU_AHdrfNU",
+    "ZgnQb40aiTU",
+    "NtpPIFj7HD0"
+  ],
+  "related_videos": [
+    {
+      "videoId": "_s7tHRZUmdM",
+      "title": "NEW Google Gemini Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/_s7tHRZUmdM/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 18
+    },
+    {
+      "videoId": "98bGqof0dUI",
+      "title": "NEW Gemini CLI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/98bGqof0dUI/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 15
+    },
+    {
+      "videoId": "1LU_AHdrfNU",
+      "title": "NEW Gemini Embedding 2 Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/1LU_AHdrfNU/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 15
+    },
+    {
+      "videoId": "ZgnQb40aiTU",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ZgnQb40aiTU/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "NtpPIFj7HD0",
+      "title": "NEW Gemini CLI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NtpPIFj7HD0/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "_s7tHRZUmdM",
+      "98bGqof0dUI",
+      "1LU_AHdrfNU",
+      "ZgnQb40aiTU",
+      "NtpPIFj7HD0"
+    ]
+  },
+  "updated_at": "2026-03-14T13:30:13Z"
+}

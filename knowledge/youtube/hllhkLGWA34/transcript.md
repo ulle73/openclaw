@@ -1,0 +1,232 @@
+# Transcript
+
+- URL: https://www.youtube.com/watch?v=hllhkLGWA34
+- VideoId: hllhkLGWA34
+- Title: ChatGPT 5.4 + Claude Opus 4.6 is INSANE! 🤯
+
+## Transcript
+Two models just dropped and people are
+sleeping on what they can actually do
+together. Chat GPT 5.4 just got a brain
+upgrade. We're talking smarter
+reasoning, a context window that can
+swallow an entire book hole, and the
+ability to show you its thinking in real
+time while you steer it. Claude Opus 4.6
+just became the most powerful writing
+and execution model on the planet. Long
+documents, deep analysis, elite level
+coding, all in one shot. Okay, but
+here's the thing nobody is talking
+about. used on their own. Impressive.
+Fine. Good. Stacked together into a
+workflow. That's where it gets
+completely insane. One model plans, one
+model executes. You loop them together,
+and suddenly you've got a full team
+working for you around the clock. Today,
+I'm going to show you five workflows for
+entrepreneurs, content creators,
+marketers, educators, and builders that
+are going to make you look at AI
+completely differently. By the end of
+this video, you're going to wonder why
+you are ever using just one model at a
+time. Let's get into it. Hey, if we
+haven't met already, I'm the digital
+avatar of Julian Goldie, CEO of SEO
+agency Goldie Agency. Whilst he's
+helping clients get more leads and
+customers, I'm here to help you get the
+latest AI updates. Julian reads every
+single comment, so drop one below. He
+will see it. We need to talk about where
+AI actually is right now because most
+people are still treating it like a
+search engine. You open it up, you type
+a question, you get an answer, you close
+the tab, that's it. That's the whole
+workflow for most people. And that
+approach is fine, but it's leaving
+almost everything on the table. We are
+in the agent era now. AI doesn't just
+answer questions anymore. It plans,
+reasons, builds, and executes across
+multi-step workflows. The tools are
+there. The models are capable. The only
+thing missing is knowing how to connect
+them. Chat GPT 5.4 is the strategist. It
+reasons through problems, breaks down
+complex tasks, researches at scale, and
+builds structured outputs. Think of it
+as the brain. Claude Opus 4.6 is the
+executive. It writes, codes, analyses,
+and produces long- form output at a
+level no other model can touch right
+now. Think of it as the hands. Put the
+brain and the hands together, and you
+stop using AI as a tool. You start
+running an AI team. Chat GPT 5.4 now has
+a 1 million token context window. That
+means it can read a full business
+strategy document, a year of data, an
+entire research archive all at once. I
+also got a serious upgrade in reasoning.
+It can now show you its thinking step by
+step and you can interrupt it, redirect
+it, and adjust mid response. That's a
+workflow superpower most people haven't
+figured out yet. Claude Opus 4.6 is
+Anthropic's most capable model ever
+built. It also has a 1 million token
+context window in beta. It can output up
+to 128,000 tokens in a single response.
+That's a full business report, a
+complete content campaign, or an entire
+codebase in one go. It also uses
+adaptive thinking, meaning it
+automatically scales up its reasoning
+for harder tasks without you having to
+prompt it to do so. Claude recently
+found over 100 bugs in Firefox in 2
+weeks, working largely autonomously.
+That's not a tool. That's a
+collaborator. If you want the full
+systems, the prompts, and the exact
+frameworks for using AI to grow your
+business, you need to be inside the AI
+profit boardroom. It's where we go deep
+on tools like Chat GPT and Claude and
+show you how to build real workflows
+that save you time and help you grow. No
+fluff, no theory, just the stuff that
+actually works for entrepreneurs and
+agency owners. Link is in the
+description. Check it out and I'll see
+you inside. Let's say you're growing an
+online community or personal brand and
+you need more eyeballs, more followers,
+more people finding you every week.
+Here's the workflow. Open chat GPT 5.4
+and type. I run a community for
+entrepreneurs and agency owners who want
+to use AI to grow their business.
+Research the biggest frustrations this
+audience has and give me a 30-day
+content calendar with topics, hooks, and
+formats across Twitter, LinkedIn, and
+YouTube. Chat GPT thinks it through,
+researches the pain points, builds the
+full calendar with angles ready to go.
+Then take that calendar to Claude Opus
+4.6 and say, "Write a full 2,000word
+blog post on the first topic. Make it
+punchy, practical, and SEO optimized.
+Write it for agency owners and
+entrepreneurs who want to use AI
+automation to work smarter." Claude
+writes the entire post fully fleshed
+out. Then back to chat GPT. Turn this
+blog post into five Twitter threads,
+three LinkedIn posts, a short YouTube
+script, and a newsletter edition. One
+piece of content becomes 30. That's a
+content engine built in one afternoon.
+Say you want to launch a new consulting
+offer or AI automation service, and you
+have no idea where to start. Go to chat
+GPT 5.4. Act as a business strategist.
+Give me 10 AI automation service ideas
+for agency owners and online
+entrepreneurs. For each idea, include
+the target customer, the core
+deliverable, and why it solves a real
+problem. You get 10 ideas. Pick the one
+that fits best. Then ask chat GPT to
+expand it. Take idea number three and
+build a full strategic breakdown. Who
+it's for, what the service includes, how
+it's delivered, and the top three
+objections I'll face when selling it.
+Now, take that to Claude Opus 4.6. Turn
+this into a complete offer document.
+include the offer name, positioning
+statement, what's included, service
+tiers, and a pitch paragraph I can use
+on my website and on sales calls. Claude
+builds the full document, polished,
+detailed, ready to use. Back to chat
+GPT, write a cold outreach email, a
+LinkedIn DM, and a 60-second verbal
+pitch for this offer. You go from blank
+page to a fully packaged offer without
+reach ready to fire in a single session.
+This one is for anyone trying to grow an
+audience-driven business, a community, a
+course, or a membership. Chat GBT 5.4
+Four, design a full landing page
+structure for an AI automation community
+targeting agency owners and online
+entrepreneurs. Give me headline options,
+a value proposition, key benefit
+sections, objection handling, and a
+strong call to action. You get a
+complete page structure with tested
+angles, claude opus 4.6. Write full
+landing page copy based on this
+structure. Every section should be
+punchy, benefit driven, and written to
+convert readers into members. The
+audience is agency owners and
+entrepreneurs who want to use AI
+automation to grow faster. Claude writes
+every line of copy, every headline,
+every bullet, every CTA. Back to chat
+GPT. Now write a five email welcome
+sequence for new members. Two Facebook
+ad scripts and a short explainer video
+script for this offer. That's a complete
+funnel strategy, copy, ads, and email.
+All built with two models in one
+afternoon. This is for the builders and
+the technically curious. Chat GPT 5.4
+Four, design a simple AI powered tool
+that helps agency owners automatically
+generate weekly performance reports for
+their clients. Give me the product
+concept, core features, user flow, and
+tech stack recommendation. You get a
+full product design in minutes. Claude
+Opus 4.6. Build the full code for this
+tool based on the spec above. Include
+architecture notes, file structure, and
+inline documentation so it's easy to
+deploy or hand off to a developer.
+Claude builds the entire codebase
+documented, structured, ready chat GPT.
+Write the landing page copy, a product
+launch email, and a 30- secondond pitch
+for this tool. You just built a software
+product designed, coded, and launched
+with two AI models and zero dev team.
+Two things before you go. First, if you
+want to go deeper on using AI to grow
+your business and build systems that
+work for you, join the AI profit
+boardroom. real workflows, real
+strategies built specifically for agency
+owners and entrepreneurs who want AI to
+do the heavy lifting. Link is in the
+description. Second, join the AI success
+lab. It's completely free. Over 40,000
+members already using AI to build
+smarter businesses. You'll get all the
+notes from this video, access to 100
+plus AI use cases, prompts and SOPs,
+plus a community of people who are
+actually doing this stuff. Links are in
+the comments and description. Get in
+there, drop a comment below and tell me
+which workflow you're trying first. I
+want to know chat GBT and Claude are
+ready.

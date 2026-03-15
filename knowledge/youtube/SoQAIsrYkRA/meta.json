@@ -1,0 +1,151 @@
+{
+  "id": "SoQAIsrYkRA",
+  "title": "New FREE Claude Update!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260313",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nClaude's New Free Update: Build Interactive Charts & Diagrams\n\nClaude AI just released a game-changing update that allows you to build interactive charts, diagrams, and dashboards directly in your chat. Discover how to use these real-time visual tools to create professional proposals, data reports, and business roadmaps for free.\n\n00:00 - Intro\n00:35 - New Interactive Visualizations Update\n01:17 - How Interactive Charts Work\n02:23 - Building Live Data Dashboards\n03:20 - The Visual Intelligence Stack\n03:51 - Customizing for Brand Colors\n05:06 - Business Use Cases & Roadmaps\n06:35 - AI Profit Boardroom Resources",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "openclaw"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "claude",
+  "related_video_ids": [
+    "RyxeYZ7TW3o",
+    "Fv-FxekmfTQ",
+    "fnLXErf-plM",
+    "s2HalzQZ1MQ",
+    "qb90PPbAWz4"
+  ],
+  "related_videos": [
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": true,
+      "score": 18
+    },
+    {
+      "videoId": "Fv-FxekmfTQ",
+      "title": "How to Make Claude Code 100X Better in 1 Click",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Fv-FxekmfTQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 16
+    },
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": true,
+      "score": 14
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "qb90PPbAWz4",
+      "title": "Karpathy’s \"autoresearch\" explained in 24 minutes",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/qb90PPbAWz4/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "RyxeYZ7TW3o",
+      "Fv-FxekmfTQ",
+      "fnLXErf-plM",
+      "s2HalzQZ1MQ",
+      "qb90PPbAWz4"
+    ]
+  },
+  "updated_at": "2026-03-13T13:30:23Z"
+}

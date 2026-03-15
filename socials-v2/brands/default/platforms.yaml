@@ -1,0 +1,35 @@
+# ============================================================
+# PLATTFORMSINSTÄLLNINGAR – Kundspecifik fil, redigera fritt
+# ============================================================
+
+platforms:
+  instagram:
+    active: true
+    default_aspect_ratio: "4:5"        # 4:5 för feed, 9:16 för reels/stories
+    max_caption_length: 2200
+    hashtag_count: 10                  # Antal hashtags att lägga till i caption
+    language: "sv"                     # Språk för genererad copy
+
+  linkedin:
+    active: false                      # Aktiveras i framtida version
+    default_aspect_ratio: "1:1"
+    max_caption_length: 3000
+    language: "sv"
+
+  facebook:
+    active: false
+    default_aspect_ratio: "1:1"
+    max_caption_length: 63206
+    language: "sv"
+
+  x:
+    active: false
+    default_aspect_ratio: "16:9"
+    max_caption_length: 280
+    language: "sv"
+
+  tiktok:
+    active: false
+    default_aspect_ratio: "9:16"
+    max_caption_length: 2200
+    language: "sv"

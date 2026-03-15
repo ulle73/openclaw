@@ -1,0 +1,152 @@
+{
+  "id": "m7butSSUOrQ",
+  "title": "NEW ChatGPT Update Destroys NotebookLM? 😱",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260315",
+  "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nChatGPT Just Killed NotebookLM! New Interactive Update\n\nChatGPT has evolved from a text-based AI into an interactive science lab with real-time sliders and dynamic graphs. Learn how this massive update covering 70+ topics is changing the way we learn math, science, and finance forever.\n\n00:00 - Intro: ChatGPT's New Update\n00:54 - Interactive Visuals Explained\n01:22 - 70+ Math & Science Topics\n02:46 - Real-World Demos: Ohm's Law\n03:07 - Visualizing Compound Interest\n03:44 - ChatGPT vs Notebook LM\n05:31 - Study Mode & Future Simulations\n06:39 - How to Try It Now",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "notebooklm",
+    "chatgpt"
+  ],
+  "topic_tags": [
+    "notebooklm",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "chatgpt__notebooklm",
+  "related_video_ids": [
+    "iNNLfHMDCfk",
+    "jece_dDk-0w",
+    "ZgnQb40aiTU",
+    "4Airc23mCFE",
+    "obIeqXJH3d4"
+  ],
+  "related_videos": [
+    {
+      "videoId": "iNNLfHMDCfk",
+      "title": "ChatGPT 5.4 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iNNLfHMDCfk/summary.md",
+      "topic_cluster_key": "chatgpt__notebooklm",
+      "shared_tags": [
+        "notebooklm",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management"
+      ],
+      "cluster_match": true,
+      "score": 18
+    },
+    {
+      "videoId": "jece_dDk-0w",
+      "title": "New FREE OpenClaw + NotebookLM Update",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/jece_dDk-0w/summary.md",
+      "topic_cluster_key": "notebooklm__openclaw",
+      "shared_tags": [
+        "notebooklm",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "ZgnQb40aiTU",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ZgnQb40aiTU/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "notebooklm",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "4Airc23mCFE",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/4Airc23mCFE/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "notebooklm",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "notebooklm",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 11
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "iNNLfHMDCfk",
+      "jece_dDk-0w",
+      "ZgnQb40aiTU",
+      "4Airc23mCFE",
+      "obIeqXJH3d4"
+    ]
+  },
+  "updated_at": "2026-03-15T01:30:10Z"
+}

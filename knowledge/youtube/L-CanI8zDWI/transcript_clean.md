@@ -1,0 +1,338 @@
+# Clean Transcript
+
+Google Pomelli just went global. If you
+haven't heard of Pomelli, Google built a
+free AI tool that basically creates
+entire marketing campaigns for you. You
+give it your website,  it scans
+your brand, your colors, your fonts,
+your style, your tone of voice, and then
+it can create social media posts, ads,
+ banners, captions, everything,
+all matching your brand perfectly. It
+even has a new feature called photo
+shoot where you take a picture of your
+product and  you know, even if
+it's like terrible lighting or messy
+background or whatever, it can turn it
+into professional studio quality photos
+for free. And this tool was previously
+only available in four countries. Not
+anymore. Google just expanded Pali to
+over 170 countries and territories. That
+means no matter where you are, you can
+basically use this. So today I'm going
+to walk you through  the entire
+thing, set it up, and show you what this
+tool can actually do for your brand. So
+here's an example of Pomelli here. Um it
+works in three simple steps. So number
+one, you're going to enter your website.
+Number two, you get campaign ideas.
+Number three, you generate creatives
+from here. So we can get started like
+so. Then we just plug in our website
+like this. And now it will analyze the
+website. Now that'll take about 10
+minutes to analyze. But basically from
+there it can go off and start using
+Google PL to generate whatever you want.
+And here's some examples of how it works
+in practice. Right? So for example here
+you plug in your details of your
+website. So you enter your website and
+Pomelo will analyze it and create a
+business DNA profile for your brand. It
+will analyze your website and the
+existing images on your website. And
+then from there it can automatically
+extract and understand your business's
+unique brand identity. Right? So it
+matches your tone of voice, custom
+fonts, uh images, color palettes, etc.
+And this is used to then generate new
+ideas. So from there you can come up
+with new campaign ideas, you could
+generate ads, you could generate social
+media images, etc. And then you can edit
+and create the creatives. So here's an
+example. It's kind of like it looks a
+little bit like Canva. It just goes off
+and and starts building stuff
+automatically. Now if you go back to
+Pomelly here, you can see that it's
+studying our brand values, determining
+our visual aesthetic. It's pulled in the
+website um directly here. It will take
+about 8 to 9 minutes, maybe 10 minutes
+to generate that directly. In the
+meantime, let me talk you through
+the Pomelli expansion framework. All
+right, so here's how I'm thinking about
+this. Just went from limited
+availability to 170 countries, and
+that's a huge deal. Right now the
+framework in terms of how to use this I
+would call the squeeze stack because um
+you know pomelly sounds like a lemon and
+we're squeezing every drop of value out
+of this thing. So this works in three in
+sorry in five layers. So number one is
+access and setup getting into pomelly
+you just uh connected to your existing
+Google tools make sure that uh your
+region is supported but it supports 170
+countries so that shouldn't be an issue.
+And then from here you can start
+automating and just using this to create
+visual assets and uh create campaigns
+that are awesome, right? Also, this is
+personalized to you. It's not generic,
+right? Because it's pulling in the
+details of your website, who you are,
+and that sort of thing. So, you can see
+now that Google Prem has pulled in the
+details of my agency, my website, the
+logo fonts we typically use, our brand
+colors, the tagline, brand values,
+aesthetic, tone of voice, and we can
+edit any of this, right? So, if you
+click on the edit icon here, it could
+change it. And then you see here, it's
+actually pulled in a bunch of images
+from our website, too. So, it's pulled
+in the testimonials. It's pulled in some
+news articles, the images of my book, my
+logo, an image of me, etc. And we can
+use that across our branding, too. So, I
+was talking about that photo shoot
+option before. We can actually create a
+product uh photo shoot like this, right?
+And all we do is we upload an image,
+right? Now, because it's pulled in the
+images from my website, we can actually
+just pull in an image like this of my
+book and then use that to generate a
+template. Right? So, you can see here
+it's beginning to load in some uh
+templates like so. And if we click
+create photo shoot, it can actually
+generate automated photooot level images
+of the book that I've created. And then
+I can use that across social media. I
+can quickly create uh images for this.
+And bear in mind like Pomellia is free,
+right? You can get access to this and
+start creating brand assets straight
+away, which is pretty amazing. So some
+examples of what I could build, I could
+build like a AI powered local SEO
+content generator, right? So I could use
+Pomelli to analyze trending local search
+queries, feed those into Gemini to
+generate like hyper local blog post uh
+outlines
+and then also create content using the
+assets from Pomelli inside the article,
+right? It's pretty cool. You could also
+use this for generating like lead
+magnets as well. You could create visual
+dashboards. So you could automate uh
+client reports using this as well. But
+the main thing here is like you can
+easily generate these beautiful images
+like look I mean for example you've got
+like an image of someone holding our
+book right there. This the original
+image then it's pulled it in here and
+then it's also pulled it in here too
+right and if we want to download that we
+can just download it like so. Or we can
+actually add it to the business assets.
+So you add it to the business DNA so
+that when it can creates campaigns in
+the future you can use it again. You can
+also change the ratios here, which means
+like you can change it into a square or
+into like a portrait image or landscape
+as well and then describe exactly what
+you want. And then inside the campaign
+section, this is where we can actually
+use campaigns based on the
+brand data that I've plugged into Pomei.
+Right? So we can change the aspect
+ratio. We can pull in other images from
+our website. It's already gone. We could
+add details to our product. So we can
+actually plug in the product URL over
+here. So I could take the details of our
+then go back to pomelly plug this in
+click add it will extract the images and
+the information from that page and then
+we can suggest ideas from there right
+now if I close that we can just use the
+existing stuff that we have and we can
+say okay you know create a Facebook ads
+uh or social media post using this now
+you can see some examples below here
+right so for example it's created this
+campaign based on the existing
+testimonials that we have on website,
+right? And then we could use that as
+images for Facebook, right? We can
+change the headings as well. So, we can
+actually edit the headings over here. We
+can change the colors and the font and
+the description. And if we click on fix
+layout, we can also generate a new
+layout based on the existing version,
+right? And then we can create multiple
+versions of the same Facebook ad and use
+that on like static images and that sort
+of thing. Um, the other thing we can do
+here is generate like images for Twitter
+or images for LinkedIn, etc. using this.
+So, it's a really powerful way just to
+pull in a lot of personalized
+information from your business, then
+create loads of cool social media and
+advertising content, and um it's all
+automated and personalized to us in a
+few clicks, like you've seen. Now,
+inside the video notes from today, I do
+have a 30-day plan on how to use this.
+So, you can see it's a step-by-step
+daily plan on how to automate this
+stuff. Um, and in terms of like
+empowering beliefs, you know, here are
+the beliefs that maybe hold you back
+from using this and the new beliefs that
+replace them, right? So, some people are
+going to say, well, Pomelli is a pretty
+new tool. Maybe I need to wait for it to
+update um before I start using it. It's
+not quite ready yet. I would say the
+person who experiments first learns
+fastest, right? So, it's the same with
+AI tools like the people who jumped on
+chat GPT early didn't wait until it was
+perfect. They started using it and now
+they're miles ahead. Right? So, you
+don't need to wait for like version two
+or a new version, etc. You can open it
+today and start building. And the
+advantage always goes to the person who
+moves first, not the person who moves
+best, right? Also, some people say,
+"Well, there are too many AI tools. I
+don't know which one to focus on." You
+don't need every tool. You just need one
+stack that works, right? And the person
+with the longest timeline wins. That's a
+quote from Horoszi. It's really
+accurate, right? The shiny object
+syndrome isn't about the tools. It's
+about not having a system. When you have
+a framework, like I've talked you
+through today. Every new tool that comes
+out just goes into the existing layers
+that you have, right? So, you're not
+starting from scratch every single time.
+You just add in new add-ons to the
+machine that's already running. Right?
+So for example earlier today I talked
+about how to use open claw with
+notebook. So you can use your existing
+ecosystem then stack new tools inside
+it. Other people will say well these new
+AI updates don't really apply to my
+business and I would say every new AI
+update that you get is a new automation
+you haven't built yet right so for
+example might not sound exciting until
+you realize what it means for your
+niche. If you serve clients uh you just
+unlocked new markets. If you create
+content you can now test multilingual uh
+can generate local localized discussion
+prompts for members in in different
+countries. Right? So the update
+um isn't the opportunity. What you build
+with it is how you use it is that's the
+main thing. So that's basically it for
+Pomelli. We also have 100 copy and paste
+prompts for this. So if you want to
+learn how to use it for research content
+creation, if you want to learn how to
+automate different workflows with it,
+you can get that inside the video notes
+from today. And just to recap, Pomelli
+just expanded to 170 countries and
+territories, right? and we've tested it
+live today. We've created a full 30-day
+plan on how to use it. And uh it's free
+to use and get access to today. Plus,
+all you do is you plug in your website
+and then from there it can go off and
+start implementing it straight away.
+Right now, Le says, "The problem with AI
+tools is that it's very difficult to
+keep up with the updates that occur, you
+know, two to three inches week." That's
+actually what we do here. So, if you
+we actually do is I I look at all these
+updates and what I do is I create a
+weekly post like this and literally this
+is all you need. So, I condense 60 hours
+of my research into all the new updates
+and I compress that into two minutes of
+reading with a quick update that looks
+like this every single week, right? And
+basically what it does is it breaks down
+um what you can focus on and what you
+can ignore and what are the most
+important and useful updates that week
+and so that you basically get a filter
+on the information and you save time.
+Also, inside here you can ask questions,
+you can get help, you can get support
+whenever you need to. Here's some
+examples of people asking questions. We
+get back to them straight away. It's a
+We have over
+135 pages of testimonials of people
+winning with stuff like this. You can
+see an example right here and another
+one here. And um all the wins that
+people are getting with this. And you
+can also jump on weekly video coaching
+calls, right? So you can meet the
+support in real time. Inside the map,
+you can meet local people in your area,
+see what they're building. And also
+inside the classroom, you get access to
+all my best training. So, for example,
+you can go from beginner to expert with
+AI automation and learn how to build
+your first AI agent in under 5 minutes,
+right? You can also, for example, get my
+avatar videos, Instagram shorts,
+get my daily updates inside this
+section. So, if you want to get a full
+6-hour course on OpenClaw and another
+3-hour course right here, we've got it.
+If you want to get new daily updates on
+the stuff that actually matters, like
+for example, yesterday we covered the
+new perplexity computer and called code
+update with a daily plan and and a full
+step-by-step guide and a video tutorial.
+You can get that right here along with
+all the video notes from today,
+including the 30-day road map and the
+100 prompts, right? So, you can get that
+all inside the arriting link in the
+comments description or go to the
+arprofit.com. Thanks for watching and
+I'll see you on the next one. Cheers.
+Stop.

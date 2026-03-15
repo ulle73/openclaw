@@ -1,0 +1,150 @@
+{
+  "id": "r6L6YXe1zRg",
+  "title": "NEW Claude FREE Update is INSANE! 🤯",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260315",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nClaude AI Just Changed Forever: New Free Visual Update\n\nClaude just released a game-changing update that allows it to build interactive charts and diagrams directly within your chat for free. Discover how these new visual tools work and why this shift from text to interactive AI is a total game-changer for learning and business.\n\n00:00 - Intro: Claude's Insane Free Update\n00:46 - What are Interactive Visuals?\n01:17 - Live Examples & Customization\n01:54 - New Visuals vs. Claude Artifacts\n02:48 - 4 Powerful Use Case Examples\n04:08 - Why Visual AI is the Future\n05:52 - Claude vs. ChatGPT and Gemini\n06:56 - How to Get Started for Free",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "chatgpt",
+    "gemini"
+  ],
+  "topic_tags": [
+    "workflow-automation",
+    "onboarding-training",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "claude",
+  "related_video_ids": [
+    "fnLXErf-plM",
+    "T3jDa19gpXw",
+    "SoQAIsrYkRA",
+    "RyxeYZ7TW3o",
+    "C6ZTvzdTwrE"
+  ],
+  "related_videos": [
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "T3jDa19gpXw",
+      "title": "New Claude Code Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/T3jDa19gpXw/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "SoQAIsrYkRA",
+      "title": "New FREE Claude Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/SoQAIsrYkRA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "C6ZTvzdTwrE",
+      "title": "NEW Claude Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/C6ZTvzdTwrE/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "fnLXErf-plM",
+      "T3jDa19gpXw",
+      "SoQAIsrYkRA",
+      "RyxeYZ7TW3o",
+      "C6ZTvzdTwrE"
+    ]
+  },
+  "updated_at": "2026-03-15T05:30:13Z"
+}

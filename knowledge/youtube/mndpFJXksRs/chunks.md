@@ -1,0 +1,282 @@
+# Chunks
+
+## Chunk 01
+Open claw plus paperclipip is insane.
+This is not a drill. There is now a way
+to build a full AI company  with
+a CEO department, teams, budgets, and
+zero human employees. And I am going to
+show you exactly how to set it up today.
+Stay with me because this changes
+everything. Today we are talking about
+two tools that just broke the internet
+for AI automation people. They are
+
+## Chunk 02
+called Open Claw and Paperclip.
+Together, they let you build something
+that was science fiction six months ago.
+A full AI powered business agents that
+think, plan, delegate, and execute
+without you having to touch a thing. I
+am going to break down what each tool
+does, how they connect, and then show
+you exactly how you would use them to
+boardroom on autopilot. Let's go.
+
+## Chunk 03
+OpenClaw is an open-source personal AI
+agent framework. That means it is
+software you install on your own
+hardware, your own computer or server,
+and it runs AI agents for you. Hey, if
+we haven't met already, I'm the digital
+avatar of Julian Goldie, CEO of SEO
+agency Goldie Agency. Whilst he's
+helping clients get more leads and
+customers, I'm here to help you get the
+
+## Chunk 04
+latest AI updates. Julian Goldie reads
+every comment, so make sure you comment
+below. Now, why does that matter?
+Because most AI tools run on someone
+else's servers. Your data goes through
+their systems. With OpenClaw, it runs on
+your machine. You are in control. But
+the really exciting part is what these
+agents can actually do. They connect to
+Telegram and WhatsApp. They run schedule
+
+## Chunk 05
+tasks on their own using something
+called cron jobs. They have a 1 million
+token context window, which means they
+can hold a massive amount of information
+at once. And they can spawn sub agents.
+One agent can create and manage other
+agents to handle smaller tasks
+underneath it. And they have memory,
+real persistent memory. There are two
+key files called sold MD and memory
+
+## Chunk 06
+OMMD. The soul file is like the agents
+personality and core instructions. The
+memory file is where it stores
+everything it has learned and done. So
+every time the agent wakes up, it knows
+who it is and what it was working on.
+Think about what that means for your
+business. An agent that never forgets a
+task, never loses context, just keeps
+going. There's also something called a
+
+## Chunk 07
+heartbeat. The agent checks in on itself
+at set intervals. It looks at its
+memory, reviews its task list, and
+decides what to do next without you
+asking it to. It just runs. That is open
+claw. Powerful on its own. But it gets
+way better. Paperclip is a new
+open-source orchestration tool. So
+orchestration means it takes your
+individual agents and organizes them
+
+## Chunk 08
+into a real structure like a company org
+chart. With paperclip, you do not just
+have one agent doing tasks. You have
+layers, five layers deep. At the top,
+you have an AI CEO. Below that you have
+departments. Inside each department you
+have teams. Inside each team you have
+individual agents doing specific jobs.
+Each agent has a role, a budget, a set
+of tasks they own and they report up
+
+## Chunk 09
+through the hierarchy. By the way, if
+you want to learn how to build setups
+like this for your own business, that is
+boardroom. It is the best place to scale
+your business, get more customers, and
+save hundreds of hours with AI
+automation. Learn how to use tools like
+openclaw and paperclip to build your own
+AI powered operation. Link is in the
+comment and description. There is a
+
+## Chunk 10
+react dashboard where you can see your
+whole AI company laid out visually. The
+org chart, the tasks that are running,
+the approvals waiting, the status of
+everything your AI company is doing
+right now. This is not theoretical. This
+is running today. Here is where it gets
+really exciting. Paperclip has a gateway
+adapter that plugs directly into
+OpenClaw. You install the paperclipip
+
+## Chunk 11
+GitHub repo right inside your OpenClaw
+chat interface. No complicated setup, no
+building from scratch. You install it
+and it connects. Once connected, you
+choose which AI models power your
+agents. Claude Sonet for smarter tasks,
+faster models for cheaper, simpler
+tasks. You mix and match based on what
+each agent needs to do. Then you open
+the dashboard and start assigning roles.
+
+## Chunk 12
+You define your AI CEO. You set up your
+marketing department, your engineering
+department, your content team. Each one
+gets agents with specific instructions,
+memory, files, and tasks. And then you
+let it run. Let me make this concrete.
+boardroom. And you want to use openclaw
+and paperclip to handle as much of the
+operation as possible on autopilot. Here
+is how you would actually set it up.
+
+## Chunk 13
+First, you define your AICO agent. Its
+job is to look at the goals of the AI
+tasks to the right department. Its
+soul.md file would say something like
+boardroom. Your mission is to grow the
+and make sure the marketing and content
+teams are executing the weekly plan.
+Every morning you check the taskboard
+and assign priorities. Then you create a
+content department. Inside that
+
+## Chunk 14
+department, you have an agent whose job
+is YouTube idea generation. Every week
+it looks at what is trending in AI, what
+and what topics have performed well
+before. It generates a list of 10 video
+ideas ranked by potential. It drops
+those ideas into a task for Julian to
+review. No manual research needed. Then
+to pull together the biggest AI news of
+flag it for approval before it sends.
+
+## Chunk 15
+The agent uses its memory to remember
+what was already sent so it never
+repeats content. Then you have an
+engineering agent. Its job is to monitor
+either fix them automatically or flag
+them with a suggested fix for a human to
+approve. If an automation workflow
+throws an error, this agent catches it
+and tells you exactly what happened and
+how to fix it. And at the top of all of
+
+## Chunk 16
+this sits the AICO agent running its
+heartbeat every morning, checking
+everything is moving. I can sending
+summaries, flagging blockers, making
+sure nothing falls through the cracks.
+This is what a zero employee business
+actually looks like in 2026. Not one
+agent doing one task. A whole company of
+agents working together with clear roles
+and accountability. The version getting
+
+## Chunk 17
+everyone excited right now dropped in
+March 2026. The big headline is how
+smooth the paperclip integration is
+inside openclaw. Before this update,
+getting these two tools to talk to each
+other required more manual setup. Now
+you install the paperclip repo directly
+in the open claw chat one command and
+then the react dashboard fires up and
+you are looking at your AI company org
+
+## Chunk 18
+chart within minutes. The models it
+supports right now include Claude Sonet
+and GPT variants. You pick which model
+handles which agent based on what you
+need. Complex reasoning tasks go to the
+smarter models. Simpler execution tasks
+run on faster, cheaper models. This
+keeps your costs down as you scale. The
+dashboard shows you everything in real
+time. Which agents are active, which
+
+## Chunk 19
+tasks are cued, which ones are waiting
+for your approval before they execute,
+which ones are done. You can drill into
+any agent and see its memory, its recent
+actions, and its upcoming tasks. It is
+genuinely like logging into a company
+dashboard, except every person on the
+orchar is an AI agent running on your
+hardware. Here is what most people miss
+when they first hear about this. They
+
+## Chunk 20
+think it is cool. They think it might
+save some time, but they do not fully
+grasp what this architecture actually
+unlocks. The bottleneck in most
+businesses is human bandwidth. You can
+only hire so many people. They cost a
+lot. They have good days and bad days.
+They need managing. They take time off.
+Agents do not have those problems. Once
+they are set up with good instructions
+
+## Chunk 21
+and good memory, they run consistently
+at whatever frequency you set without
+needing motivation or management. What
+Paperclip adds on top of OpenClaw is the
+structure that makes this scalable.
+Without the hierarchy, you end up with a
+bunch of individual agents that do not
+coordinate with the hierarchy. You have
+a system where the CEO agent delegates
+the department agents plan and the
+
+## Chunk 22
+individual agents execute just like a
+real company. And when you need to
+scale, you do not hire. You add an
+agent. You write a new sole MD file,
+assign it a role and a budget, plug it
+into the org chart. Done. This is the
+direction everything's going. The
+businesses that figure this out now are
+going to have a massive advantage over
+the ones still doing everything
+
+## Chunk 23
+manually. Now, if you want the full
+process, SOPs, and over a 100 AI use
+boardroom. Learn how to automate your
+workflows with tools like OpenClaw Plus
+Paperclip and scale your business with
+AI automation. The link is in the
+comments and description. And and if you
+want free access to all the video notes,
+members who are crushing it with AI,
+join the AI success lab. It's completely
+
+## Chunk 24
+free. Link is in the comments and
+description. You'll get everything from
+this video, plus way more in

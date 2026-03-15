@@ -1,0 +1,152 @@
+{
+  "id": "LiwfV_8iN0E",
+  "title": "NEW AI Tool DESTROYS Google NotebookLM?",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260315",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nWandering AI: Build Full Courses in Seconds (Better Than NotebookLM?)\n\nDiscover Wandering, a revolutionary AI tool that builds structured courses on any topic in seconds with quizzes and progress tracking. Learn how it compares to Google NotebookLM and how you can use 'tool stacking' to master any new skill faster than ever before.\n\n00:00 - 00:00 - Intro\n00:57 - Meet Wandering: Duolingo for Everything\n01:37 - How to Build AI Courses Instantly\n02:56 - Wandering vs. Google NotebookLM\n04:05 - The Future of Personalized Learning\n05:20 - 4 Hacks to Learn Faster with AI\n06:47 - Why You Need to Stack AI Tools",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "notebooklm"
+  ],
+  "topic_tags": [
+    "notebooklm",
+    "ai-video-generation",
+    "content-repurposing",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "notebooklm",
+  "related_video_ids": [
+    "obIeqXJH3d4",
+    "UzLMmFtnRMQ",
+    "m7butSSUOrQ",
+    "jece_dDk-0w",
+    "iNNLfHMDCfk"
+  ],
+  "related_videos": [
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "notebooklm",
+        "ai-video-generation",
+        "business-idea",
+        "business-opportunity",
+        "content-repurposing",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "UzLMmFtnRMQ",
+      "title": "NotebookLM  New Update Just Changed Everything!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/UzLMmFtnRMQ/summary.md",
+      "topic_cluster_key": "everything__notebooklm",
+      "shared_tags": [
+        "notebooklm",
+        "ai-video-generation",
+        "business-idea",
+        "business-opportunity",
+        "content-repurposing",
+        "knowledge-management"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "m7butSSUOrQ",
+      "title": "NEW ChatGPT Update Destroys NotebookLM? 😱",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/m7butSSUOrQ/summary.md",
+      "topic_cluster_key": "chatgpt__notebooklm",
+      "shared_tags": [
+        "notebooklm",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "jece_dDk-0w",
+      "title": "New FREE OpenClaw + NotebookLM Update",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/jece_dDk-0w/summary.md",
+      "topic_cluster_key": "notebooklm__openclaw",
+      "shared_tags": [
+        "notebooklm",
+        "ai-video-generation",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "iNNLfHMDCfk",
+      "title": "ChatGPT 5.4 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iNNLfHMDCfk/summary.md",
+      "topic_cluster_key": "chatgpt__notebooklm",
+      "shared_tags": [
+        "notebooklm",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "obIeqXJH3d4",
+      "UzLMmFtnRMQ",
+      "m7butSSUOrQ",
+      "jece_dDk-0w",
+      "iNNLfHMDCfk"
+    ]
+  },
+  "updated_at": "2026-03-15T15:02:30Z"
+}
