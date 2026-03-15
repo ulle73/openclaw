@@ -1,0 +1,56 @@
+{
+  "fullName": "lightpanda-io/browser",
+  "url": "https://github.com/lightpanda-io/browser",
+  "description": "Lightpanda: the headless browser designed for AI and automation",
+  "purpose": "Lightpanda: the headless browser designed for AI and automation",
+  "useCase": "browser automation or web extraction",
+  "relevance": "relevant for Coastworks via design, AI/models",
+  "language": "Zig",
+  "topics": [
+    "browser",
+    "browser-automation",
+    "cdp",
+    "headless",
+    "playwright",
+    "puppeteer",
+    "zig"
+  ],
+  "stars": 16043,
+  "forks": 578,
+  "openIssues": 71,
+  "detectedSignals": [
+    "workflow-automation",
+    "design-offer",
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "design-offer",
+        "ml-models"
+      ],
+      "score": 30
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "ml-models",
+        "workflow-automation"
+      ],
+      "score": 23
+    },
+    {
+      "projectId": "saas-1",
+      "projectName": "Saas 1",
+      "sharedSignals": [
+        "design-offer",
+        "workflow-automation"
+      ],
+      "score": 23
+    }
+  ],
+  "fetchedAt": "2026-03-14T08:17:50Z"
+}

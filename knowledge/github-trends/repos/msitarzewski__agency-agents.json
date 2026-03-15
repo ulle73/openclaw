@@ -1,0 +1,52 @@
+{
+  "fullName": "msitarzewski/agency-agents",
+  "url": "https://github.com/msitarzewski/agency-agents",
+  "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+  "purpose": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+  "useCase": "agent workflows and AI operators",
+  "relevance": "relevant for Coastworks via agent automation, AI/models, service offer",
+  "language": "Shell",
+  "topics": [],
+  "stars": 27222,
+  "forks": 4285,
+  "openIssues": 19,
+  "detectedSignals": [
+    "agent-automation",
+    "workflow-automation",
+    "ml-models",
+    "service-offer",
+    "web-offer"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "agent-automation",
+        "ml-models",
+        "service-offer",
+        "web-offer"
+      ],
+      "score": 50
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "sharedSignals": [
+        "service-offer",
+        "workflow-automation"
+      ],
+      "score": 29
+    },
+    {
+      "projectId": "vibecoda",
+      "projectName": "VibeCoda",
+      "sharedSignals": [
+        "service-offer",
+        "web-offer"
+      ],
+      "score": 27
+    }
+  ],
+  "fetchedAt": "2026-03-11T08:33:54Z"
+}

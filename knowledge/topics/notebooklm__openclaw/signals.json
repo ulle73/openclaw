@@ -1,0 +1,133 @@
+{
+  "clusterKey": "notebooklm__openclaw",
+  "label": "notebooklm och openclaw",
+  "entity_tags": [
+    "notebooklm",
+    "openclaw",
+    "claude",
+    "telegram"
+  ],
+  "topic_tags": [
+    "notebooklm",
+    "openclaw",
+    "telegram",
+    "ai-video-generation",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "videoIds": [
+    "jece_dDk-0w"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 53,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 33,
+      "shared_signals": [
+        "seo-content",
+        "openclaw",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 28,
+      "shared_signals": [
+        "telegram",
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 26,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera notebooklm och openclaw i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt notebooklm och openclaw",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for notebooklm och openclaw",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "jece_dDk-0w",
+      "title": "New FREE OpenClaw + NotebookLM Update",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Videon visar hur FREE OpenClaw + NotebookLM kan förvandla dokument och annat källmaterial till färdiga videor med AI-visuals och voiceover utan traditionell produktion.",
+        "Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen.",
+        "Workflowet är tydligt: generera en video overview och välja visuell stil."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/notebooklm__openclaw/overview.md",
+    "signals": "knowledge/topics/notebooklm__openclaw/signals.json",
+    "decision": "knowledge/topics/notebooklm__openclaw/decision.md",
+    "opportunity": "knowledge/topics/notebooklm__openclaw/opportunity.md"
+  }
+}

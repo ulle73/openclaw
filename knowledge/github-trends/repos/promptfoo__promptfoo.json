@@ -1,0 +1,68 @@
+{
+  "fullName": "promptfoo/promptfoo",
+  "url": "https://github.com/promptfoo/promptfoo",
+  "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+  "purpose": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+  "useCase": "agent workflows and AI operators",
+  "relevance": "relevant for Coastworks via agent automation, knowledge systems, AI/models",
+  "language": "TypeScript",
+  "topics": [
+    "ci",
+    "ci-cd",
+    "cicd",
+    "evaluation",
+    "evaluation-framework",
+    "llm",
+    "llm-eval",
+    "llm-evaluation",
+    "llm-evaluation-framework",
+    "llmops",
+    "pentesting",
+    "prompt-engineering",
+    "prompt-testing",
+    "prompts",
+    "rag",
+    "red-teaming",
+    "testing",
+    "vulnerability-scanners"
+  ],
+  "stars": 15511,
+  "forks": 1371,
+  "openIssues": 257,
+  "detectedSignals": [
+    "agent-automation",
+    "knowledge-systems",
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "agent-automation",
+        "knowledge-systems",
+        "ml-models"
+      ],
+      "score": 40
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "sharedSignals": [
+        "agent-automation",
+        "knowledge-systems"
+      ],
+      "score": 28
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "knowledge-systems",
+        "ml-models"
+      ],
+      "score": 23
+    }
+  ],
+  "fetchedAt": "2026-03-14T08:17:53Z"
+}

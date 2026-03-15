@@ -1,0 +1,132 @@
+{
+  "clusterKey": "automate__claude__perplexity-computer",
+  "label": "claude och perplexity computer",
+  "entity_tags": [
+    "claude",
+    "perplexity-computer",
+    "automate",
+    "openclaw",
+    "gemini"
+  ],
+  "topic_tags": [
+    "perplexity-computer",
+    "automate",
+    "openclaw",
+    "ai-video-generation",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "videoIds": [
+    "Aq21uBOl9qE"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 53,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 33,
+      "shared_signals": [
+        "seo-content",
+        "openclaw",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 26,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 24,
+      "shared_signals": [
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera claude och perplexity computer i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt claude och perplexity computer",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for claude och perplexity computer",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "Aq21uBOl9qE",
+      "title": "Perplexity Computer + Claude Code Subagents: Automate ANYTHING!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Videon visar hur Perplexity Computer + Claude Code Subagents Automate ANYTHING kan förvandla dokument och annat källmaterial till färdiga videor med AI-visuals och voiceover utan traditionell produktion.",
+        "Workflowet är tydligt: generera en video overview.",
+        "De starkaste use casen är utbildning och onboarding, marketing och explainers och snabba veckouppdateringar, vilket gör att samma upplägg kan användas både internt och externt."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/automate__claude__perplexity-computer/overview.md",
+    "signals": "knowledge/topics/automate__claude__perplexity-computer/signals.json",
+    "decision": "knowledge/topics/automate__claude__perplexity-computer/decision.md",
+    "opportunity": "knowledge/topics/automate__claude__perplexity-computer/opportunity.md"
+  }
+}

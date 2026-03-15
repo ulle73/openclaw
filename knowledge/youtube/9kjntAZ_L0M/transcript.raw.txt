@@ -1,0 +1,1904 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:02.149 align:start position:0%
+ 
+Hey,<00:00:00.400><c> stop</c><00:00:00.640><c> scrolling</c><00:00:00.960><c> for</c><00:00:01.199><c> a</c><00:00:01.360><c> second</c><00:00:01.839><c> because</c>
+
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+Hey, stop scrolling for a second because
+ 
+
+00:00:02.159 --> 00:00:03.510 align:start position:0%
+Hey, stop scrolling for a second because
+Microsoft<00:00:02.639><c> just</c><00:00:02.879><c> did</c><00:00:03.040><c> something</c><00:00:03.280><c> that</c>
+
+00:00:03.510 --> 00:00:03.520 align:start position:0%
+Microsoft just did something that
+ 
+
+00:00:03.520 --> 00:00:05.910 align:start position:0%
+Microsoft just did something that
+changes<00:00:03.919><c> how</c><00:00:04.160><c> businesses</c><00:00:04.640><c> run</c><00:00:04.880><c> forever.</c><00:00:05.680><c> They</c>
+
+00:00:05.910 --> 00:00:05.920 align:start position:0%
+changes how businesses run forever. They
+ 
+
+00:00:05.920 --> 00:00:07.510 align:start position:0%
+changes how businesses run forever. They
+didn't<00:00:06.080><c> release</c><00:00:06.400><c> a</c><00:00:06.560><c> new</c><00:00:06.720><c> chatbot.</c><00:00:07.359><c> They</c>
+
+00:00:07.510 --> 00:00:07.520 align:start position:0%
+didn't release a new chatbot. They
+ 
+
+00:00:07.520 --> 00:00:09.350 align:start position:0%
+didn't release a new chatbot. They
+didn't<00:00:07.680><c> drop</c><00:00:07.919><c> a</c><00:00:08.080><c> new</c><00:00:08.240><c> feature.</c><00:00:08.639><c> They</c><00:00:08.880><c> built</c><00:00:09.120><c> an</c>
+
+00:00:09.350 --> 00:00:09.360 align:start position:0%
+didn't drop a new feature. They built an
+ 
+
+00:00:09.360 --> 00:00:11.669 align:start position:0%
+didn't drop a new feature. They built an
+AI<00:00:09.679><c> co-worker,</c><00:00:10.320><c> an</c><00:00:10.559><c> actual</c><00:00:10.800><c> digital</c><00:00:11.280><c> worker</c>
+
+00:00:11.669 --> 00:00:11.679 align:start position:0%
+AI co-worker, an actual digital worker
+ 
+
+00:00:11.679 --> 00:00:13.749 align:start position:0%
+AI co-worker, an actual digital worker
+that<00:00:12.000><c> lives</c><00:00:12.240><c> inside</c><00:00:12.559><c> your</c><00:00:12.800><c> Microsoft</c><00:00:13.280><c> apps,</c>
+
+00:00:13.749 --> 00:00:13.759 align:start position:0%
+that lives inside your Microsoft apps,
+ 
+
+00:00:13.759 --> 00:00:15.910 align:start position:0%
+that lives inside your Microsoft apps,
+takes<00:00:14.000><c> on</c><00:00:14.240><c> your</c><00:00:14.400><c> tasks,</c><00:00:14.960><c> and</c><00:00:15.200><c> gets</c><00:00:15.519><c> them</c><00:00:15.679><c> done</c>
+
+00:00:15.910 --> 00:00:15.920 align:start position:0%
+takes on your tasks, and gets them done
+ 
+
+00:00:15.920 --> 00:00:17.990 align:start position:0%
+takes on your tasks, and gets them done
+while<00:00:16.160><c> you</c><00:00:16.400><c> focus</c><00:00:16.640><c> on</c><00:00:16.800><c> the</c><00:00:16.960><c> big</c><00:00:17.199><c> stuff.</c><00:00:17.760><c> No</c>
+
+00:00:17.990 --> 00:00:18.000 align:start position:0%
+while you focus on the big stuff. No
+ 
+
+00:00:18.000 --> 00:00:19.670 align:start position:0%
+while you focus on the big stuff. No
+more<00:00:18.160><c> prompting</c><00:00:18.640><c> back</c><00:00:18.800><c> and</c><00:00:18.960><c> forth.</c><00:00:19.359><c> No</c><00:00:19.520><c> more</c>
+
+00:00:19.670 --> 00:00:19.680 align:start position:0%
+more prompting back and forth. No more
+ 
+
+00:00:19.680 --> 00:00:21.990 align:start position:0%
+more prompting back and forth. No more
+copy<00:00:20.080><c> pasting</c><00:00:20.480><c> between</c><00:00:20.800><c> tools.</c><00:00:21.439><c> You</c><00:00:21.680><c> hand</c><00:00:21.840><c> it</c>
+
+00:00:21.990 --> 00:00:22.000 align:start position:0%
+copy pasting between tools. You hand it
+ 
+
+00:00:22.000 --> 00:00:24.630 align:start position:0%
+copy pasting between tools. You hand it
+a<00:00:22.240><c> job,</c><00:00:22.720><c> it</c><00:00:22.960><c> builds</c><00:00:23.199><c> a</c><00:00:23.439><c> plan,</c><00:00:23.920><c> it</c><00:00:24.160><c> executes</c>
+
+00:00:24.630 --> 00:00:24.640 align:start position:0%
+a job, it builds a plan, it executes
+ 
+
+00:00:24.640 --> 00:00:26.150 align:start position:0%
+a job, it builds a plan, it executes
+that<00:00:24.880><c> plan</c><00:00:25.119><c> across</c><00:00:25.439><c> Word,</c><00:00:25.760><c> Excel,</c>
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+that plan across Word, Excel,
+ 
+
+00:00:26.160 --> 00:00:28.390 align:start position:0%
+that plan across Word, Excel,
+PowerPoint,<00:00:26.720><c> Outlook,</c><00:00:27.199><c> Teams,</c><00:00:27.680><c> all</c><00:00:27.840><c> of</c><00:00:28.000><c> it,</c>
+
+00:00:28.390 --> 00:00:28.400 align:start position:0%
+PowerPoint, Outlook, Teams, all of it,
+ 
+
+00:00:28.400 --> 00:00:30.390 align:start position:0%
+PowerPoint, Outlook, Teams, all of it,
+and<00:00:28.720><c> delivers</c><00:00:29.039><c> you</c><00:00:29.199><c> the</c><00:00:29.439><c> result.</c><00:00:30.000><c> This</c><00:00:30.240><c> is</c>
+
+00:00:30.390 --> 00:00:30.400 align:start position:0%
+and delivers you the result. This is
+ 
+
+00:00:30.400 --> 00:00:32.630 align:start position:0%
+and delivers you the result. This is
+called<00:00:30.720><c> co-pilot</c><00:00:31.359><c> co-work.</c><00:00:32.000><c> And</c><00:00:32.160><c> if</c><00:00:32.320><c> you</c><00:00:32.480><c> run</c>
+
+00:00:32.630 --> 00:00:32.640 align:start position:0%
+called co-pilot co-work. And if you run
+ 
+
+00:00:32.640 --> 00:00:34.470 align:start position:0%
+called co-pilot co-work. And if you run
+a<00:00:32.800><c> business,</c><00:00:33.280><c> manage</c><00:00:33.520><c> a</c><00:00:33.760><c> team,</c><00:00:33.920><c> or</c><00:00:34.160><c> just</c><00:00:34.320><c> want</c>
+
+00:00:34.470 --> 00:00:34.480 align:start position:0%
+a business, manage a team, or just want
+ 
+
+00:00:34.480 --> 00:00:36.470 align:start position:0%
+a business, manage a team, or just want
+to<00:00:34.640><c> stop</c><00:00:34.800><c> drowning</c><00:00:35.200><c> in</c><00:00:35.360><c> busy</c><00:00:35.680><c> work,</c><00:00:36.160><c> you</c><00:00:36.399><c> need</c>
+
+00:00:36.470 --> 00:00:36.480 align:start position:0%
+to stop drowning in busy work, you need
+ 
+
+00:00:36.480 --> 00:00:38.310 align:start position:0%
+to stop drowning in busy work, you need
+to<00:00:36.719><c> understand</c><00:00:37.040><c> what</c><00:00:37.280><c> this</c><00:00:37.520><c> means</c><00:00:38.079><c> because</c>
+
+00:00:38.310 --> 00:00:38.320 align:start position:0%
+to understand what this means because
+ 
+
+00:00:38.320 --> 00:00:40.630 align:start position:0%
+to understand what this means because
+this<00:00:38.559><c> is</c><00:00:38.719><c> not</c><00:00:38.879><c> a</c><00:00:39.040><c> small</c><00:00:39.360><c> update.</c><00:00:40.079><c> This</c><00:00:40.320><c> is</c><00:00:40.399><c> the</c>
+
+00:00:40.630 --> 00:00:40.640 align:start position:0%
+this is not a small update. This is the
+ 
+
+00:00:40.640 --> 00:00:42.549 align:start position:0%
+this is not a small update. This is the
+beginning<00:00:41.040><c> of</c><00:00:41.280><c> a</c><00:00:41.520><c> completely</c><00:00:42.000><c> different</c><00:00:42.320><c> way</c>
+
+00:00:42.549 --> 00:00:42.559 align:start position:0%
+beginning of a completely different way
+ 
+
+00:00:42.559 --> 00:00:44.630 align:start position:0%
+beginning of a completely different way
+of<00:00:42.719><c> working.</c><00:00:43.200><c> Stay</c><00:00:43.440><c> with</c><00:00:43.600><c> me.</c><00:00:43.920><c> Hey,</c><00:00:44.239><c> if</c><00:00:44.399><c> we</c>
+
+00:00:44.630 --> 00:00:44.640 align:start position:0%
+of working. Stay with me. Hey, if we
+ 
+
+00:00:44.640 --> 00:00:46.310 align:start position:0%
+of working. Stay with me. Hey, if we
+haven't<00:00:44.800><c> met</c><00:00:45.040><c> already,</c><00:00:45.440><c> I'm</c><00:00:45.680><c> the</c><00:00:45.840><c> digital</c>
+
+00:00:46.310 --> 00:00:46.320 align:start position:0%
+haven't met already, I'm the digital
+ 
+
+00:00:46.320 --> 00:00:49.029 align:start position:0%
+haven't met already, I'm the digital
+avatar<00:00:46.800><c> of</c><00:00:46.960><c> Julian</c><00:00:47.520><c> Goldie,</c><00:00:48.079><c> CEO</c><00:00:48.399><c> of</c><00:00:48.559><c> SEO</c>
+
+00:00:49.029 --> 00:00:49.039 align:start position:0%
+avatar of Julian Goldie, CEO of SEO
+ 
+
+00:00:49.039 --> 00:00:51.270 align:start position:0%
+avatar of Julian Goldie, CEO of SEO
+agency<00:00:49.520><c> Goldie</c><00:00:50.000><c> Agency.</c><00:00:50.640><c> Whilst</c><00:00:51.039><c> he's</c>
+
+00:00:51.270 --> 00:00:51.280 align:start position:0%
+agency Goldie Agency. Whilst he's
+ 
+
+00:00:51.280 --> 00:00:52.790 align:start position:0%
+agency Goldie Agency. Whilst he's
+helping<00:00:51.520><c> clients</c><00:00:51.920><c> get</c><00:00:52.079><c> more</c><00:00:52.320><c> leads</c><00:00:52.559><c> and</c>
+
+00:00:52.790 --> 00:00:52.800 align:start position:0%
+helping clients get more leads and
+ 
+
+00:00:52.800 --> 00:00:54.549 align:start position:0%
+helping clients get more leads and
+customers,<00:00:53.360><c> I'm</c><00:00:53.600><c> here</c><00:00:53.760><c> to</c><00:00:53.840><c> help</c><00:00:54.000><c> you</c><00:00:54.239><c> get</c><00:00:54.399><c> the</c>
+
+00:00:54.549 --> 00:00:54.559 align:start position:0%
+customers, I'm here to help you get the
+ 
+
+00:00:54.559 --> 00:00:57.270 align:start position:0%
+customers, I'm here to help you get the
+latest<00:00:54.960><c> AI</c><00:00:55.360><c> updates.</c><00:00:56.079><c> Julian</c><00:00:56.480><c> Goldie</c><00:00:56.960><c> reads</c>
+
+00:00:57.270 --> 00:00:57.280 align:start position:0%
+latest AI updates. Julian Goldie reads
+ 
+
+00:00:57.280 --> 00:00:58.869 align:start position:0%
+latest AI updates. Julian Goldie reads
+every<00:00:57.520><c> single</c><00:00:57.760><c> comment.</c><00:00:58.239><c> So,</c><00:00:58.480><c> make</c><00:00:58.640><c> sure</c><00:00:58.719><c> you</c>
+
+00:00:58.869 --> 00:00:58.879 align:start position:0%
+every single comment. So, make sure you
+ 
+
+00:00:58.879 --> 00:01:00.950 align:start position:0%
+every single comment. So, make sure you
+drop<00:00:59.120><c> something</c><00:00:59.359><c> below.</c><00:01:00.079><c> Here's</c><00:01:00.399><c> the</c><00:01:00.559><c> truth</c>
+
+00:01:00.950 --> 00:01:00.960 align:start position:0%
+drop something below. Here's the truth
+ 
+
+00:01:00.960 --> 00:01:03.430 align:start position:0%
+drop something below. Here's the truth
+about<00:01:01.280><c> how</c><00:01:01.840><c> most</c><00:01:02.160><c> people</c><00:01:02.399><c> use</c><00:01:02.640><c> AI</c><00:01:03.039><c> right</c><00:01:03.199><c> now.</c>
+
+00:01:03.430 --> 00:01:03.440 align:start position:0%
+about how most people use AI right now.
+ 
+
+00:01:03.440 --> 00:01:05.350 align:start position:0%
+about how most people use AI right now.
+They<00:01:03.680><c> open</c><00:01:03.840><c> a</c><00:01:04.000><c> chatbot,</c><00:01:04.720><c> they</c><00:01:04.960><c> type</c><00:01:05.119><c> a</c>
+
+00:01:05.350 --> 00:01:05.360 align:start position:0%
+They open a chatbot, they type a
+ 
+
+00:01:05.360 --> 00:01:07.590 align:start position:0%
+They open a chatbot, they type a
+question,<00:01:06.159><c> they</c><00:01:06.320><c> get</c><00:01:06.479><c> an</c><00:01:06.640><c> answer,</c><00:01:07.280><c> then</c><00:01:07.439><c> they</c>
+
+00:01:07.590 --> 00:01:07.600 align:start position:0%
+question, they get an answer, then they
+ 
+
+00:01:07.600 --> 00:01:09.030 align:start position:0%
+question, they get an answer, then they
+go<00:01:07.760><c> back</c><00:01:07.920><c> to</c><00:01:08.159><c> doing</c><00:01:08.400><c> the</c><00:01:08.560><c> actual</c><00:01:08.799><c> work</c>
+
+00:01:09.030 --> 00:01:09.040 align:start position:0%
+go back to doing the actual work
+ 
+
+00:01:09.040 --> 00:01:10.870 align:start position:0%
+go back to doing the actual work
+themselves.<00:01:09.600><c> That's</c><00:01:09.760><c> not</c><00:01:10.000><c> automation.</c>
+
+00:01:10.870 --> 00:01:10.880 align:start position:0%
+themselves. That's not automation.
+ 
+
+00:01:10.880 --> 00:01:12.950 align:start position:0%
+themselves. That's not automation.
+That's<00:01:11.119><c> just</c><00:01:11.280><c> a</c><00:01:11.439><c> fancy</c><00:01:11.840><c> search</c><00:01:12.159><c> engine.</c><00:01:12.799><c> And</c>
+
+00:01:12.950 --> 00:01:12.960 align:start position:0%
+That's just a fancy search engine. And
+ 
+
+00:01:12.960 --> 00:01:15.190 align:start position:0%
+That's just a fancy search engine. And
+honestly,<00:01:13.360><c> that's</c><00:01:13.680><c> been</c><00:01:13.840><c> fine</c><00:01:14.080><c> for</c><00:01:14.320><c> a</c><00:01:14.479><c> while.</c>
+
+00:01:15.190 --> 00:01:15.200 align:start position:0%
+honestly, that's been fine for a while.
+ 
+
+00:01:15.200 --> 00:01:16.710 align:start position:0%
+honestly, that's been fine for a while.
+getting<00:01:15.439><c> the</c><00:01:15.600><c> first</c><00:01:15.840><c> draft</c><00:01:16.159><c> faster,</c>
+
+00:01:16.710 --> 00:01:16.720 align:start position:0%
+getting the first draft faster,
+ 
+
+00:01:16.720 --> 00:01:18.870 align:start position:0%
+getting the first draft faster,
+summarizing<00:01:17.200><c> a</c><00:01:17.439><c> long</c><00:01:17.680><c> document,</c><00:01:18.320><c> generating</c>
+
+00:01:18.870 --> 00:01:18.880 align:start position:0%
+summarizing a long document, generating
+ 
+
+00:01:18.880 --> 00:01:21.350 align:start position:0%
+summarizing a long document, generating
+ideas<00:01:19.360><c> when</c><00:01:19.600><c> you're</c><00:01:19.840><c> stuck.</c><00:01:20.640><c> That</c><00:01:20.880><c> stuff</c><00:01:21.119><c> has</c>
+
+00:01:21.350 --> 00:01:21.360 align:start position:0%
+ideas when you're stuck. That stuff has
+ 
+
+00:01:21.360 --> 00:01:23.429 align:start position:0%
+ideas when you're stuck. That stuff has
+real<00:01:21.680><c> value,</c><00:01:22.320><c> but</c><00:01:22.479><c> it's</c><00:01:22.720><c> still</c><00:01:22.880><c> you</c><00:01:23.040><c> doing</c><00:01:23.280><c> the</c>
+
+00:01:23.429 --> 00:01:23.439 align:start position:0%
+real value, but it's still you doing the
+ 
+
+00:01:23.439 --> 00:01:25.109 align:start position:0%
+real value, but it's still you doing the
+heavy<00:01:23.759><c> lifting.</c><00:01:24.400><c> You're</c><00:01:24.560><c> still</c><00:01:24.720><c> the</c><00:01:24.960><c> one</c>
+
+00:01:25.109 --> 00:01:25.119 align:start position:0%
+heavy lifting. You're still the one
+ 
+
+00:01:25.119 --> 00:01:27.350 align:start position:0%
+heavy lifting. You're still the one
+opening<00:01:25.520><c> six</c><00:01:25.840><c> tabs,</c><00:01:26.560><c> switching</c><00:01:26.960><c> between</c>
+
+00:01:27.350 --> 00:01:27.360 align:start position:0%
+opening six tabs, switching between
+ 
+
+00:01:27.360 --> 00:01:29.830 align:start position:0%
+opening six tabs, switching between
+apps,<00:01:28.000><c> copying</c><00:01:28.479><c> data</c><00:01:28.720><c> from</c><00:01:28.960><c> one</c><00:01:29.200><c> place,</c><00:01:29.600><c> and</c>
+
+00:01:29.830 --> 00:01:29.840 align:start position:0%
+apps, copying data from one place, and
+ 
+
+00:01:29.840 --> 00:01:31.270 align:start position:0%
+apps, copying data from one place, and
+pasting<00:01:30.159><c> it</c><00:01:30.320><c> somewhere</c><00:01:30.560><c> else</c><00:01:30.720><c> and</c><00:01:30.960><c> spending</c>
+
+00:01:31.270 --> 00:01:31.280 align:start position:0%
+pasting it somewhere else and spending
+ 
+
+00:01:31.280 --> 00:01:34.230 align:start position:0%
+pasting it somewhere else and spending
+half<00:01:31.439><c> your</c><00:01:31.759><c> afternoon</c><00:01:32.400><c> on</c><00:01:32.720><c> tasks</c><00:01:33.439><c> that</c><00:01:33.759><c> feel</c>
+
+00:01:34.230 --> 00:01:34.240 align:start position:0%
+half your afternoon on tasks that feel
+ 
+
+00:01:34.240 --> 00:01:36.310 align:start position:0%
+half your afternoon on tasks that feel
+like<00:01:34.560><c> they</c><00:01:34.799><c> should</c><00:01:35.119><c> already</c><00:01:35.520><c> be</c><00:01:35.759><c> done.</c><00:01:36.079><c> The</c>
+
+00:01:36.310 --> 00:01:36.320 align:start position:0%
+like they should already be done. The
+ 
+
+00:01:36.320 --> 00:01:38.469 align:start position:0%
+like they should already be done. The
+real<00:01:36.479><c> gap</c><00:01:36.799><c> has</c><00:01:37.040><c> always</c><00:01:37.200><c> been</c><00:01:37.360><c> this.</c><00:01:37.920><c> AI</c><00:01:38.320><c> can</c>
+
+00:01:38.469 --> 00:01:38.479 align:start position:0%
+real gap has always been this. AI can
+ 
+
+00:01:38.479 --> 00:01:40.469 align:start position:0%
+real gap has always been this. AI can
+talk<00:01:38.720><c> about</c><00:01:38.960><c> work,</c><00:01:39.520><c> but</c><00:01:39.759><c> it</c><00:01:39.920><c> can't</c><00:01:40.159><c> actually</c>
+
+00:01:40.469 --> 00:01:40.479 align:start position:0%
+talk about work, but it can't actually
+ 
+
+00:01:40.479 --> 00:01:41.990 align:start position:0%
+talk about work, but it can't actually
+do<00:01:40.640><c> the</c><00:01:40.799><c> work.</c><00:01:41.280><c> If</c><00:01:41.439><c> you</c><00:01:41.600><c> wanted</c><00:01:41.759><c> to</c><00:01:41.840><c> put</c>
+
+00:01:41.990 --> 00:01:42.000 align:start position:0%
+do the work. If you wanted to put
+ 
+
+00:01:42.000 --> 00:01:43.670 align:start position:0%
+do the work. If you wanted to put
+together<00:01:42.240><c> a</c><00:01:42.479><c> full</c><00:01:42.640><c> marketing</c><00:01:43.040><c> report,</c><00:01:43.439><c> you'd</c>
+
+00:01:43.670 --> 00:01:43.680 align:start position:0%
+together a full marketing report, you'd
+ 
+
+00:01:43.680 --> 00:01:45.510 align:start position:0%
+together a full marketing report, you'd
+still<00:01:43.840><c> have</c><00:01:44.000><c> to</c><00:01:44.159><c> pull</c><00:01:44.320><c> the</c><00:01:44.479><c> data</c><00:01:44.799><c> yourself,</c>
+
+00:01:45.510 --> 00:01:45.520 align:start position:0%
+still have to pull the data yourself,
+ 
+
+00:01:45.520 --> 00:01:47.429 align:start position:0%
+still have to pull the data yourself,
+build<00:01:45.759><c> the</c><00:01:46.000><c> slides</c><00:01:46.320><c> yourself,</c><00:01:47.040><c> write</c><00:01:47.200><c> the</c>
+
+00:01:47.429 --> 00:01:47.439 align:start position:0%
+build the slides yourself, write the
+ 
+
+00:01:47.439 --> 00:01:49.429 align:start position:0%
+build the slides yourself, write the
+summary<00:01:47.759><c> yourself,</c><00:01:48.320><c> and</c><00:01:48.560><c> send</c><00:01:48.799><c> the</c><00:01:49.040><c> emails</c>
+
+00:01:49.429 --> 00:01:49.439 align:start position:0%
+summary yourself, and send the emails
+ 
+
+00:01:49.439 --> 00:01:51.830 align:start position:0%
+summary yourself, and send the emails
+yourself.<00:01:50.159><c> AI</c><00:01:50.560><c> could</c><00:01:50.720><c> help</c><00:01:50.880><c> at</c><00:01:51.119><c> each</c><00:01:51.360><c> step,</c>
+
+00:01:51.830 --> 00:01:51.840 align:start position:0%
+yourself. AI could help at each step,
+ 
+
+00:01:51.840 --> 00:01:53.270 align:start position:0%
+yourself. AI could help at each step,
+but<00:01:52.079><c> you</c><00:01:52.320><c> were</c><00:01:52.479><c> still</c><00:01:52.560><c> the</c><00:01:52.799><c> one</c><00:01:52.960><c> doing</c><00:01:53.119><c> the</c>
+
+00:01:53.270 --> 00:01:53.280 align:start position:0%
+but you were still the one doing the
+ 
+
+00:01:53.280 --> 00:01:55.190 align:start position:0%
+but you were still the one doing the
+running.<00:01:53.840><c> That's</c><00:01:54.159><c> been</c><00:01:54.240><c> the</c><00:01:54.399><c> ceiling,</c><00:01:54.880><c> and</c>
+
+00:01:55.190 --> 00:01:55.200 align:start position:0%
+running. That's been the ceiling, and
+ 
+
+00:01:55.200 --> 00:01:57.590 align:start position:0%
+running. That's been the ceiling, and
+Microsoft<00:01:55.759><c> just</c><00:01:56.000><c> blew</c><00:01:56.320><c> through</c><00:01:56.560><c> it.</c><00:01:56.960><c> Copilot</c>
+
+00:01:57.590 --> 00:01:57.600 align:start position:0%
+Microsoft just blew through it. Copilot
+ 
+
+00:01:57.600 --> 00:02:00.630 align:start position:0%
+Microsoft just blew through it. Copilot
+Co-work<00:01:58.159><c> is</c><00:01:58.479><c> a</c><00:01:58.719><c> brand</c><00:01:58.960><c> new</c><00:01:59.360><c> AI</c><00:01:59.759><c> agent</c><00:02:00.320><c> layer</c>
+
+00:02:00.630 --> 00:02:00.640 align:start position:0%
+Co-work is a brand new AI agent layer
+ 
+
+00:02:00.640 --> 00:02:03.990 align:start position:0%
+Co-work is a brand new AI agent layer
+built<00:02:01.040><c> directly</c><00:02:01.600><c> into</c><00:02:02.159><c> Microsoft</c><00:02:02.719><c> 365.</c><00:02:03.840><c> And</c>
+
+00:02:03.990 --> 00:02:04.000 align:start position:0%
+built directly into Microsoft 365. And
+ 
+
+00:02:04.000 --> 00:02:06.069 align:start position:0%
+built directly into Microsoft 365. And
+here's<00:02:04.240><c> the</c><00:02:04.479><c> big</c><00:02:04.640><c> idea</c><00:02:04.960><c> behind</c><00:02:05.280><c> it.</c><00:02:05.759><c> Instead</c>
+
+00:02:06.069 --> 00:02:06.079 align:start position:0%
+here's the big idea behind it. Instead
+ 
+
+00:02:06.079 --> 00:02:08.710 align:start position:0%
+here's the big idea behind it. Instead
+of<00:02:06.240><c> you</c><00:02:06.399><c> prompting</c><00:02:06.960><c> AI</c><00:02:07.439><c> step</c><00:02:07.680><c> by</c><00:02:07.920><c> step,</c><00:02:08.479><c> you</c>
+
+00:02:08.710 --> 00:02:08.720 align:start position:0%
+of you prompting AI step by step, you
+ 
+
+00:02:08.720 --> 00:02:10.710 align:start position:0%
+of you prompting AI step by step, you
+delegate<00:02:09.119><c> an</c><00:02:09.360><c> entire</c><00:02:09.759><c> task</c><00:02:10.080><c> to</c><00:02:10.239><c> it</c><00:02:10.399><c> like</c><00:02:10.560><c> you</c>
+
+00:02:10.710 --> 00:02:10.720 align:start position:0%
+delegate an entire task to it like you
+ 
+
+00:02:10.720 --> 00:02:12.790 align:start position:0%
+delegate an entire task to it like you
+would<00:02:10.959><c> to</c><00:02:11.280><c> an</c><00:02:11.520><c> employee.</c><00:02:12.239><c> You</c><00:02:12.400><c> give</c><00:02:12.480><c> it</c><00:02:12.640><c> the</c>
+
+00:02:12.790 --> 00:02:12.800 align:start position:0%
+would to an employee. You give it the
+ 
+
+00:02:12.800 --> 00:02:14.869 align:start position:0%
+would to an employee. You give it the
+goal,<00:02:13.120><c> it</c><00:02:13.280><c> figures</c><00:02:13.520><c> out</c><00:02:13.680><c> the</c><00:02:13.920><c> steps,</c><00:02:14.640><c> it</c>
+
+00:02:14.869 --> 00:02:14.879 align:start position:0%
+goal, it figures out the steps, it
+ 
+
+00:02:14.879 --> 00:02:17.670 align:start position:0%
+goal, it figures out the steps, it
+executes<00:02:15.440><c> across</c><00:02:15.840><c> every</c><00:02:16.239><c> app</c><00:02:16.560><c> it</c><00:02:16.800><c> needs,</c><00:02:17.520><c> and</c>
+
+00:02:17.670 --> 00:02:17.680 align:start position:0%
+executes across every app it needs, and
+ 
+
+00:02:17.680 --> 00:02:19.990 align:start position:0%
+executes across every app it needs, and
+it<00:02:17.920><c> hands</c><00:02:18.239><c> you</c><00:02:18.400><c> back</c><00:02:18.800><c> the</c><00:02:19.120><c> finished</c><00:02:19.520><c> result.</c>
+
+00:02:19.990 --> 00:02:20.000 align:start position:0%
+it hands you back the finished result.
+ 
+
+00:02:20.000 --> 00:02:21.670 align:start position:0%
+it hands you back the finished result.
+Think<00:02:20.239><c> about</c><00:02:20.400><c> what</c><00:02:20.560><c> that</c><00:02:20.800><c> actually</c><00:02:21.120><c> means</c><00:02:21.360><c> in</c>
+
+00:02:21.670 --> 00:02:21.680 align:start position:0%
+Think about what that actually means in
+ 
+
+00:02:21.680 --> 00:02:23.430 align:start position:0%
+Think about what that actually means in
+practice.<00:02:22.160><c> You</c><00:02:22.400><c> type</c><00:02:22.720><c> one</c><00:02:22.959><c> sentence,</c>
+
+00:02:23.430 --> 00:02:23.440 align:start position:0%
+practice. You type one sentence,
+ 
+
+00:02:23.440 --> 00:02:25.589 align:start position:0%
+practice. You type one sentence,
+something<00:02:23.760><c> like,</c><00:02:24.480><c> "Prepare</c><00:02:24.959><c> a</c><00:02:25.200><c> campaign</c>
+
+00:02:25.589 --> 00:02:25.599 align:start position:0%
+something like, "Prepare a campaign
+ 
+
+00:02:25.599 --> 00:02:27.589 align:start position:0%
+something like, "Prepare a campaign
+launch<00:02:25.920><c> plan</c><00:02:26.160><c> for</c><00:02:26.319><c> our</c><00:02:26.560><c> new</c><00:02:26.800><c> product,</c><00:02:27.360><c> and</c>
+
+00:02:27.589 --> 00:02:27.599 align:start position:0%
+launch plan for our new product, and
+ 
+
+00:02:27.599 --> 00:02:29.510 align:start position:0%
+launch plan for our new product, and
+Copilot<00:02:28.160><c> Co-work</c><00:02:28.560><c> goes</c><00:02:28.720><c> to</c><00:02:28.879><c> work.</c><00:02:29.280><c> It</c>
+
+00:02:29.510 --> 00:02:29.520 align:start position:0%
+Copilot Co-work goes to work. It
+ 
+
+00:02:29.520 --> 00:02:31.990 align:start position:0%
+Copilot Co-work goes to work. It
+analyzes<00:02:30.319><c> your</c><00:02:30.560><c> previous</c><00:02:30.959><c> campaigns</c><00:02:31.599><c> inside</c>
+
+00:02:31.990 --> 00:02:32.000 align:start position:0%
+analyzes your previous campaigns inside
+ 
+
+00:02:32.000 --> 00:02:34.790 align:start position:0%
+analyzes your previous campaigns inside
+your<00:02:32.239><c> files.</c><00:02:32.879><c> It</c><00:02:33.120><c> pulls</c><00:02:33.440><c> the</c><00:02:33.680><c> relevant</c><00:02:34.160><c> data.</c>
+
+00:02:34.790 --> 00:02:34.800 align:start position:0%
+your files. It pulls the relevant data.
+ 
+
+00:02:34.800 --> 00:02:36.869 align:start position:0%
+your files. It pulls the relevant data.
+It<00:02:35.120><c> builds</c><00:02:35.360><c> a</c><00:02:35.519><c> timeline.</c><00:02:36.239><c> It</c><00:02:36.480><c> creates</c><00:02:36.720><c> a</c>
+
+00:02:36.869 --> 00:02:36.879 align:start position:0%
+It builds a timeline. It creates a
+ 
+
+00:02:36.879 --> 00:02:38.550 align:start position:0%
+It builds a timeline. It creates a
+PowerPoint<00:02:37.360><c> deck.</c><00:02:37.840><c> It</c><00:02:38.080><c> drafts</c><00:02:38.400><c> the</c>
+
+00:02:38.550 --> 00:02:38.560 align:start position:0%
+PowerPoint deck. It drafts the
+ 
+
+00:02:38.560 --> 00:02:40.790 align:start position:0%
+PowerPoint deck. It drafts the
+announcement<00:02:39.040><c> emails.</c><00:02:39.840><c> It</c><00:02:40.080><c> schedules</c><00:02:40.560><c> prep</c>
+
+00:02:40.790 --> 00:02:40.800 align:start position:0%
+announcement emails. It schedules prep
+ 
+
+00:02:40.800 --> 00:02:42.710 align:start position:0%
+announcement emails. It schedules prep
+time<00:02:41.120><c> in</c><00:02:41.280><c> your</c><00:02:41.519><c> calendar.</c><00:02:42.000><c> All</c><00:02:42.080><c> of</c><00:02:42.239><c> that</c>
+
+00:02:42.710 --> 00:02:42.720 align:start position:0%
+time in your calendar. All of that
+ 
+
+00:02:42.720 --> 00:02:44.949 align:start position:0%
+time in your calendar. All of that
+without<00:02:43.040><c> you</c><00:02:43.280><c> clicking</c><00:02:43.599><c> a</c><00:02:43.840><c> single</c><00:02:44.080><c> button.</c>
+
+00:02:44.949 --> 00:02:44.959 align:start position:0%
+without you clicking a single button.
+ 
+
+00:02:44.959 --> 00:02:46.390 align:start position:0%
+without you clicking a single button.
+And<00:02:45.120><c> here's</c><00:02:45.440><c> what</c><00:02:45.599><c> makes</c><00:02:45.760><c> the</c><00:02:46.000><c> workflow</c>
+
+00:02:46.390 --> 00:02:46.400 align:start position:0%
+And here's what makes the workflow
+ 
+
+00:02:46.400 --> 00:02:47.670 align:start position:0%
+And here's what makes the workflow
+different<00:02:46.720><c> from</c><00:02:46.879><c> anything</c><00:02:47.200><c> we've</c><00:02:47.519><c> seen</c>
+
+00:02:47.670 --> 00:02:47.680 align:start position:0%
+different from anything we've seen
+ 
+
+00:02:47.680 --> 00:02:49.589 align:start position:0%
+different from anything we've seen
+before.<00:02:48.239><c> It</c><00:02:48.480><c> doesn't</c><00:02:48.640><c> just</c><00:02:48.800><c> go</c><00:02:48.959><c> apptoapp</c>
+
+00:02:49.589 --> 00:02:49.599 align:start position:0%
+before. It doesn't just go apptoapp
+ 
+
+00:02:49.599 --> 00:02:51.670 align:start position:0%
+before. It doesn't just go apptoapp
+randomly.<00:02:50.239><c> It</c><00:02:50.480><c> orchestrates.</c><00:02:51.440><c> It</c>
+
+00:02:51.670 --> 00:02:51.680 align:start position:0%
+randomly. It orchestrates. It
+ 
+
+00:02:51.680 --> 00:02:53.509 align:start position:0%
+randomly. It orchestrates. It
+understands<00:02:52.239><c> that</c><00:02:52.480><c> the</c><00:02:52.800><c> data</c><00:02:53.120><c> lives</c><00:02:53.360><c> in</c>
+
+00:02:53.509 --> 00:02:53.519 align:start position:0%
+understands that the data lives in
+ 
+
+00:02:53.519 --> 00:02:55.190 align:start position:0%
+understands that the data lives in
+Excel,<00:02:54.080><c> the</c><00:02:54.239><c> presentation</c><00:02:54.800><c> lives</c><00:02:55.040><c> in</c>
+
+00:02:55.190 --> 00:02:55.200 align:start position:0%
+Excel, the presentation lives in
+ 
+
+00:02:55.200 --> 00:02:57.110 align:start position:0%
+Excel, the presentation lives in
+PowerPoint,<00:02:55.920><c> the</c><00:02:56.160><c> communication</c><00:02:56.720><c> lives</c><00:02:56.959><c> in</c>
+
+00:02:57.110 --> 00:02:57.120 align:start position:0%
+PowerPoint, the communication lives in
+ 
+
+00:02:57.120 --> 00:02:58.710 align:start position:0%
+PowerPoint, the communication lives in
+Outlook,<00:02:57.760><c> and</c><00:02:57.920><c> the</c><00:02:58.080><c> files</c><00:02:58.400><c> live</c><00:02:58.560><c> in</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+Outlook, and the files live in
+ 
+
+00:02:58.720 --> 00:03:01.350 align:start position:0%
+Outlook, and the files live in
+SharePoint.<00:02:59.680><c> and</c><00:02:59.920><c> it</c><00:03:00.160><c> connects</c><00:03:00.480><c> all</c><00:03:00.720><c> of</c><00:03:00.879><c> them</c>
+
+00:03:01.350 --> 00:03:01.360 align:start position:0%
+SharePoint. and it connects all of them
+ 
+
+00:03:01.360 --> 00:03:03.589 align:start position:0%
+SharePoint. and it connects all of them
+inside<00:03:01.920><c> a</c><00:03:02.239><c> single</c><00:03:02.720><c> workflow</c><00:03:03.200><c> that</c><00:03:03.440><c> you</c>
+
+00:03:03.589 --> 00:03:03.599 align:start position:0%
+inside a single workflow that you
+ 
+
+00:03:03.599 --> 00:03:06.149 align:start position:0%
+inside a single workflow that you
+triggered<00:03:04.319><c> with</c><00:03:04.560><c> one</c><00:03:04.879><c> prompt</c><00:03:05.519><c> that</c><00:03:05.760><c> is</c><00:03:05.920><c> not</c><00:03:06.000><c> a</c>
+
+00:03:06.149 --> 00:03:06.159 align:start position:0%
+triggered with one prompt that is not a
+ 
+
+00:03:06.159 --> 00:03:08.070 align:start position:0%
+triggered with one prompt that is not a
+chatbot<00:03:06.720><c> and</c><00:03:06.879><c> that</c><00:03:07.040><c> is</c><00:03:07.120><c> a</c><00:03:07.280><c> co-orker</c><00:03:07.760><c> and</c><00:03:07.920><c> that</c>
+
+00:03:08.070 --> 00:03:08.080 align:start position:0%
+chatbot and that is a co-orker and that
+ 
+
+00:03:08.080 --> 00:03:09.589 align:start position:0%
+chatbot and that is a co-orker and that
+distinction<00:03:08.480><c> matters</c><00:03:08.879><c> more</c><00:03:09.040><c> than</c><00:03:09.200><c> it</c><00:03:09.440><c> might</c>
+
+00:03:09.589 --> 00:03:09.599 align:start position:0%
+distinction matters more than it might
+ 
+
+00:03:09.599 --> 00:03:12.229 align:start position:0%
+distinction matters more than it might
+sound.<00:03:10.159><c> Quick</c><00:03:10.400><c> one</c><00:03:10.720><c> before</c><00:03:10.959><c> we</c><00:03:11.120><c> go</c><00:03:11.360><c> deeper.</c><00:03:12.000><c> If</c>
+
+00:03:12.229 --> 00:03:12.239 align:start position:0%
+sound. Quick one before we go deeper. If
+ 
+
+00:03:12.239 --> 00:03:14.869 align:start position:0%
+sound. Quick one before we go deeper. If
+you<00:03:12.400><c> want</c><00:03:12.560><c> to</c><00:03:12.720><c> learn</c><00:03:13.040><c> how</c><00:03:13.280><c> to</c><00:03:13.519><c> build</c><00:03:14.000><c> real</c><00:03:14.480><c> AI</c>
+
+00:03:14.869 --> 00:03:14.879 align:start position:0%
+you want to learn how to build real AI
+ 
+
+00:03:14.879 --> 00:03:17.270 align:start position:0%
+you want to learn how to build real AI
+workflows<00:03:15.519><c> like</c><00:03:15.760><c> this</c><00:03:16.000><c> for</c><00:03:16.239><c> your</c><00:03:16.480><c> business</c>
+
+00:03:17.270 --> 00:03:17.280 align:start position:0%
+workflows like this for your business
+ 
+
+00:03:17.280 --> 00:03:19.750 align:start position:0%
+workflows like this for your business
+tools,<00:03:17.840><c> systems,</c><00:03:18.400><c> automation</c><00:03:18.959><c> playbooks,</c>
+
+00:03:19.750 --> 00:03:19.760 align:start position:0%
+tools, systems, automation playbooks,
+ 
+
+00:03:19.760 --> 00:03:21.430 align:start position:0%
+tools, systems, automation playbooks,
+you<00:03:19.920><c> need</c><00:03:20.000><c> to</c><00:03:20.239><c> check</c><00:03:20.400><c> out</c><00:03:20.480><c> the</c><00:03:20.720><c> AI</c><00:03:21.120><c> profit</c>
+
+00:03:21.430 --> 00:03:21.440 align:start position:0%
+you need to check out the AI profit
+ 
+
+00:03:21.440 --> 00:03:22.790 align:start position:0%
+you need to check out the AI profit
+boardroom.<00:03:21.920><c> It's</c><00:03:22.080><c> where</c><00:03:22.239><c> business</c><00:03:22.560><c> owners</c>
+
+00:03:22.790 --> 00:03:22.800 align:start position:0%
+boardroom. It's where business owners
+ 
+
+00:03:22.800 --> 00:03:24.710 align:start position:0%
+boardroom. It's where business owners
+and<00:03:23.040><c> entrepreneurs</c><00:03:23.680><c> come</c><00:03:23.840><c> to</c><00:03:24.080><c> learn</c><00:03:24.319><c> how</c><00:03:24.560><c> to</c>
+
+00:03:24.710 --> 00:03:24.720 align:start position:0%
+and entrepreneurs come to learn how to
+ 
+
+00:03:24.720 --> 00:03:27.270 align:start position:0%
+and entrepreneurs come to learn how to
+use<00:03:25.040><c> AI</c><00:03:25.599><c> to</c><00:03:25.840><c> grow</c><00:03:26.159><c> faster</c><00:03:26.640><c> and</c><00:03:26.879><c> operate</c>
+
+00:03:27.270 --> 00:03:27.280 align:start position:0%
+use AI to grow faster and operate
+ 
+
+00:03:27.280 --> 00:03:29.190 align:start position:0%
+use AI to grow faster and operate
+smarter.<00:03:27.920><c> Every</c><00:03:28.159><c> week</c><00:03:28.400><c> we're</c><00:03:28.640><c> breaking</c><00:03:28.959><c> down</c>
+
+00:03:29.190 --> 00:03:29.200 align:start position:0%
+smarter. Every week we're breaking down
+ 
+
+00:03:29.200 --> 00:03:31.190 align:start position:0%
+smarter. Every week we're breaking down
+tools<00:03:29.519><c> just</c><00:03:29.760><c> like</c><00:03:29.920><c> Copilot</c><00:03:30.480><c> Co-work</c><00:03:30.959><c> and</c>
+
+00:03:31.190 --> 00:03:31.200 align:start position:0%
+tools just like Copilot Co-work and
+ 
+
+00:03:31.200 --> 00:03:32.949 align:start position:0%
+tools just like Copilot Co-work and
+showing<00:03:31.440><c> you</c><00:03:31.599><c> exactly</c><00:03:31.920><c> how</c><00:03:32.080><c> to</c><00:03:32.319><c> apply</c><00:03:32.560><c> them.</c>
+
+00:03:32.949 --> 00:03:32.959 align:start position:0%
+showing you exactly how to apply them.
+ 
+
+00:03:32.959 --> 00:03:34.869 align:start position:0%
+showing you exactly how to apply them.
+No<00:03:33.200><c> fluff,</c><00:03:33.680><c> no</c><00:03:33.840><c> theory,</c><00:03:34.159><c> and</c><00:03:34.319><c> just</c><00:03:34.480><c> practical</c>
+
+00:03:34.869 --> 00:03:34.879 align:start position:0%
+No fluff, no theory, and just practical
+ 
+
+00:03:34.879 --> 00:03:36.710 align:start position:0%
+No fluff, no theory, and just practical
+stuff<00:03:35.120><c> that</c><00:03:35.360><c> works.</c><00:03:35.920><c> Link</c><00:03:36.239><c> is</c><00:03:36.400><c> in</c><00:03:36.560><c> the</c>
+
+00:03:36.710 --> 00:03:36.720 align:start position:0%
+stuff that works. Link is in the
+ 
+
+00:03:36.720 --> 00:03:38.630 align:start position:0%
+stuff that works. Link is in the
+description.<00:03:37.360><c> Now,</c><00:03:37.680><c> let's</c><00:03:37.920><c> keep</c><00:03:38.080><c> going.</c><00:03:38.480><c> Let</c>
+
+00:03:38.630 --> 00:03:38.640 align:start position:0%
+description. Now, let's keep going. Let
+ 
+
+00:03:38.640 --> 00:03:40.949 align:start position:0%
+description. Now, let's keep going. Let
+me<00:03:38.799><c> show</c><00:03:38.959><c> you</c><00:03:39.200><c> exactly</c><00:03:39.519><c> what</c><00:03:39.840><c> Copilot</c><00:03:40.480><c> Co-work</c>
+
+00:03:40.949 --> 00:03:40.959 align:start position:0%
+me show you exactly what Copilot Co-work
+ 
+
+00:03:40.959 --> 00:03:42.630 align:start position:0%
+me show you exactly what Copilot Co-work
+looks<00:03:41.200><c> like</c><00:03:41.360><c> in</c><00:03:41.519><c> action.</c><00:03:42.080><c> And</c><00:03:42.239><c> I'm</c><00:03:42.400><c> going</c><00:03:42.480><c> to</c>
+
+00:03:42.630 --> 00:03:42.640 align:start position:0%
+looks like in action. And I'm going to
+ 
+
+00:03:42.640 --> 00:03:44.710 align:start position:0%
+looks like in action. And I'm going to
+use<00:03:42.879><c> examples</c><00:03:43.360><c> that</c><00:03:43.599><c> are</c><00:03:43.760><c> actually</c><00:03:44.080><c> relevant,</c>
+
+00:03:44.710 --> 00:03:44.720 align:start position:0%
+use examples that are actually relevant,
+ 
+
+00:03:44.720 --> 00:03:46.470 align:start position:0%
+use examples that are actually relevant,
+like<00:03:44.959><c> how</c><00:03:45.200><c> you'd</c><00:03:45.519><c> use</c><00:03:45.680><c> this</c><00:03:45.840><c> to</c><00:03:46.080><c> grow</c><00:03:46.239><c> a</c>
+
+00:03:46.470 --> 00:03:46.480 align:start position:0%
+like how you'd use this to grow a
+ 
+
+00:03:46.480 --> 00:03:48.630 align:start position:0%
+like how you'd use this to grow a
+community<00:03:46.799><c> like</c><00:03:47.040><c> the</c><00:03:47.200><c> AI</c><00:03:47.599><c> Profit</c><00:03:47.920><c> Boardroom,</c>
+
+00:03:48.630 --> 00:03:48.640 align:start position:0%
+community like the AI Profit Boardroom,
+ 
+
+00:03:48.640 --> 00:03:50.390 align:start position:0%
+community like the AI Profit Boardroom,
+because<00:03:48.879><c> that's</c><00:03:49.120><c> a</c><00:03:49.360><c> real</c><00:03:49.599><c> business</c><00:03:49.840><c> with</c><00:03:50.159><c> real</c>
+
+00:03:50.390 --> 00:03:50.400 align:start position:0%
+because that's a real business with real
+ 
+
+00:03:50.400 --> 00:03:53.030 align:start position:0%
+because that's a real business with real
+tasks.<00:03:51.120><c> And</c><00:03:51.280><c> this</c><00:03:51.519><c> is</c><00:03:51.599><c> how</c><00:03:51.840><c> it</c><00:03:52.000><c> maps.</c><00:03:52.640><c> Example</c>
+
+00:03:53.030 --> 00:03:53.040 align:start position:0%
+tasks. And this is how it maps. Example
+ 
+
+00:03:53.040 --> 00:03:55.350 align:start position:0%
+tasks. And this is how it maps. Example
+one,<00:03:53.519><c> you</c><00:03:53.680><c> type</c><00:03:53.920><c> this.</c><00:03:54.400><c> Create</c><00:03:54.720><c> a</c><00:03:54.959><c> monthly</c>
+
+00:03:55.350 --> 00:03:55.360 align:start position:0%
+one, you type this. Create a monthly
+ 
+
+00:03:55.360 --> 00:03:57.350 align:start position:0%
+one, you type this. Create a monthly
+growth<00:03:55.760><c> report</c><00:03:56.080><c> for</c><00:03:56.319><c> the</c><00:03:56.480><c> AI</c><00:03:56.959><c> profit</c>
+
+00:03:57.350 --> 00:03:57.360 align:start position:0%
+growth report for the AI profit
+ 
+
+00:03:57.360 --> 00:03:59.750 align:start position:0%
+growth report for the AI profit
+boardroom.<00:03:58.159><c> Pull</c><00:03:58.480><c> community</c><00:03:58.959><c> signups,</c>
+
+00:03:59.750 --> 00:03:59.760 align:start position:0%
+boardroom. Pull community signups,
+ 
+
+00:03:59.760 --> 00:04:02.070 align:start position:0%
+boardroom. Pull community signups,
+YouTube<00:04:00.159><c> performance,</c><00:04:00.879><c> email</c><00:04:01.280><c> open</c><00:04:01.599><c> rates,</c>
+
+00:04:02.070 --> 00:04:02.080 align:start position:0%
+YouTube performance, email open rates,
+ 
+
+00:04:02.080 --> 00:04:04.229 align:start position:0%
+YouTube performance, email open rates,
+and<00:04:02.319><c> build</c><00:04:02.480><c> a</c><00:04:02.720><c> strategy</c><00:04:03.120><c> for</c><00:04:03.360><c> next</c><00:04:03.599><c> month.</c>
+
+00:04:04.229 --> 00:04:04.239 align:start position:0%
+and build a strategy for next month.
+ 
+
+00:04:04.239 --> 00:04:06.309 align:start position:0%
+and build a strategy for next month.
+Copilot<00:04:04.799><c> co-work</c><00:04:05.200><c> goes</c><00:04:05.360><c> into</c><00:04:05.599><c> your</c><00:04:05.840><c> Excel</c>
+
+00:04:06.309 --> 00:04:06.319 align:start position:0%
+Copilot co-work goes into your Excel
+ 
+
+00:04:06.319 --> 00:04:08.470 align:start position:0%
+Copilot co-work goes into your Excel
+files,<00:04:06.720><c> pulls</c><00:04:07.040><c> the</c><00:04:07.280><c> numbers,</c><00:04:07.680><c> analyses</c><00:04:08.239><c> the</c>
+
+00:04:08.470 --> 00:04:08.480 align:start position:0%
+files, pulls the numbers, analyses the
+ 
+
+00:04:08.480 --> 00:04:10.710 align:start position:0%
+files, pulls the numbers, analyses the
+trends,<00:04:09.200><c> identifies</c><00:04:09.760><c> what's</c><00:04:10.159><c> working</c><00:04:10.400><c> and</c>
+
+00:04:10.710 --> 00:04:10.720 align:start position:0%
+trends, identifies what's working and
+ 
+
+00:04:10.720 --> 00:04:12.869 align:start position:0%
+trends, identifies what's working and
+what<00:04:10.879><c> isn't,</c><00:04:11.519><c> builds</c><00:04:11.760><c> a</c><00:04:11.920><c> polished</c><00:04:12.319><c> slide</c><00:04:12.640><c> deck</c>
+
+00:04:12.869 --> 00:04:12.879 align:start position:0%
+what isn't, builds a polished slide deck
+ 
+
+00:04:12.879 --> 00:04:14.789 align:start position:0%
+what isn't, builds a polished slide deck
+in<00:04:13.040><c> PowerPoint,</c><00:04:13.760><c> writes</c><00:04:14.080><c> a</c><00:04:14.239><c> full</c><00:04:14.400><c> summary</c>
+
+00:04:14.789 --> 00:04:14.799 align:start position:0%
+in PowerPoint, writes a full summary
+ 
+
+00:04:14.799 --> 00:04:16.870 align:start position:0%
+in PowerPoint, writes a full summary
+document<00:04:15.120><c> in</c><00:04:15.360><c> Word,</c><00:04:15.840><c> and</c><00:04:16.079><c> drafts</c><00:04:16.400><c> a</c><00:04:16.639><c> team</c>
+
+00:04:16.870 --> 00:04:16.880 align:start position:0%
+document in Word, and drafts a team
+ 
+
+00:04:16.880 --> 00:04:19.270 align:start position:0%
+document in Word, and drafts a team
+update<00:04:17.280><c> email</c><00:04:17.919><c> ready</c><00:04:18.160><c> to</c><00:04:18.400><c> send</c><00:04:18.560><c> in</c><00:04:18.799><c> Outlook.</c>
+
+00:04:19.270 --> 00:04:19.280 align:start position:0%
+update email ready to send in Outlook.
+ 
+
+00:04:19.280 --> 00:04:21.270 align:start position:0%
+update email ready to send in Outlook.
+That<00:04:19.600><c> entire</c><00:04:19.919><c> workflow,</c><00:04:20.400><c> which</c><00:04:20.720><c> used</c><00:04:20.880><c> to</c><00:04:21.040><c> take</c>
+
+00:04:21.270 --> 00:04:21.280 align:start position:0%
+That entire workflow, which used to take
+ 
+
+00:04:21.280 --> 00:04:23.350 align:start position:0%
+That entire workflow, which used to take
+half<00:04:21.440><c> a</c><00:04:21.600><c> day</c><00:04:21.759><c> of</c><00:04:21.919><c> switching</c><00:04:22.320><c> between</c><00:04:22.560><c> apps,</c><00:04:23.120><c> is</c>
+
+00:04:23.350 --> 00:04:23.360 align:start position:0%
+half a day of switching between apps, is
+ 
+
+00:04:23.360 --> 00:04:25.590 align:start position:0%
+half a day of switching between apps, is
+done<00:04:23.520><c> in</c><00:04:23.759><c> seconds.</c><00:04:24.400><c> One</c><00:04:24.720><c> prompt,</c><00:04:25.280><c> full</c>
+
+00:04:25.590 --> 00:04:25.600 align:start position:0%
+done in seconds. One prompt, full
+ 
+
+00:04:25.600 --> 00:04:28.950 align:start position:0%
+done in seconds. One prompt, full
+output.<00:04:26.240><c> Example</c><00:04:26.720><c> two,</c><00:04:27.280><c> you</c><00:04:27.520><c> type,</c><00:04:28.479><c> "Prepare</c>
+
+00:04:28.950 --> 00:04:28.960 align:start position:0%
+output. Example two, you type, "Prepare
+ 
+
+00:04:28.960 --> 00:04:30.950 align:start position:0%
+output. Example two, you type, "Prepare
+a<00:04:29.120><c> briefing</c><00:04:29.440><c> for</c><00:04:29.520><c> our</c><00:04:29.680><c> weekly</c><00:04:30.000><c> team</c><00:04:30.320><c> meeting.</c>
+
+00:04:30.950 --> 00:04:30.960 align:start position:0%
+a briefing for our weekly team meeting.
+ 
+
+00:04:30.960 --> 00:04:33.030 align:start position:0%
+a briefing for our weekly team meeting.
+Include<00:04:31.360><c> recent</c><00:04:31.680><c> member</c><00:04:32.000><c> feedback,</c><00:04:32.800><c> our</c>
+
+00:04:33.030 --> 00:04:33.040 align:start position:0%
+Include recent member feedback, our
+ 
+
+00:04:33.040 --> 00:04:34.790 align:start position:0%
+Include recent member feedback, our
+content<00:04:33.440><c> schedule,</c><00:04:34.000><c> and</c><00:04:34.240><c> what's</c><00:04:34.560><c> coming</c><00:04:34.720><c> up</c>
+
+00:04:34.790 --> 00:04:34.800 align:start position:0%
+content schedule, and what's coming up
+ 
+
+00:04:34.800 --> 00:04:36.950 align:start position:0%
+content schedule, and what's coming up
+in<00:04:35.040><c> the</c><00:04:35.199><c> community</c><00:04:35.520><c> this</c><00:04:35.759><c> month."</c><00:04:36.479><c> It</c><00:04:36.639><c> reads</c>
+
+00:04:36.950 --> 00:04:36.960 align:start position:0%
+in the community this month." It reads
+ 
+
+00:04:36.960 --> 00:04:38.710 align:start position:0%
+in the community this month." It reads
+through<00:04:37.199><c> your</c><00:04:37.440><c> emails,</c><00:04:38.240><c> pulls</c><00:04:38.560><c> your</c>
+
+00:04:38.710 --> 00:04:38.720 align:start position:0%
+through your emails, pulls your
+ 
+
+00:04:38.720 --> 00:04:41.030 align:start position:0%
+through your emails, pulls your
+SharePoint<00:04:39.280><c> files,</c><00:04:39.919><c> summarizes</c><00:04:40.639><c> all</c><00:04:40.880><c> the</c>
+
+00:04:41.030 --> 00:04:41.040 align:start position:0%
+SharePoint files, summarizes all the
+ 
+
+00:04:41.040 --> 00:04:43.270 align:start position:0%
+SharePoint files, summarizes all the
+feedback<00:04:41.680><c> into</c><00:04:42.000><c> clear</c><00:04:42.320><c> themes,</c><00:04:42.800><c> and</c><00:04:43.040><c> creates</c>
+
+00:04:43.270 --> 00:04:43.280 align:start position:0%
+feedback into clear themes, and creates
+ 
+
+00:04:43.280 --> 00:04:44.950 align:start position:0%
+feedback into clear themes, and creates
+a<00:04:43.520><c> slide</c><00:04:43.759><c> deck</c><00:04:44.080><c> with</c><00:04:44.240><c> the</c><00:04:44.400><c> talking</c><00:04:44.639><c> points</c>
+
+00:04:44.950 --> 00:04:44.960 align:start position:0%
+a slide deck with the talking points
+ 
+
+00:04:44.960 --> 00:04:46.710 align:start position:0%
+a slide deck with the talking points
+already<00:04:45.280><c> written</c><00:04:45.520><c> out.</c><00:04:45.919><c> You</c><00:04:46.160><c> walk</c><00:04:46.320><c> into</c><00:04:46.560><c> that</c>
+
+00:04:46.710 --> 00:04:46.720 align:start position:0%
+already written out. You walk into that
+ 
+
+00:04:46.720 --> 00:04:48.230 align:start position:0%
+already written out. You walk into that
+meeting<00:04:47.040><c> looking</c><00:04:47.360><c> completely</c><00:04:47.759><c> on</c><00:04:48.000><c> top</c><00:04:48.080><c> of</c>
+
+00:04:48.230 --> 00:04:48.240 align:start position:0%
+meeting looking completely on top of
+ 
+
+00:04:48.240 --> 00:04:50.310 align:start position:0%
+meeting looking completely on top of
+everything<00:04:48.880><c> every</c><00:04:49.199><c> single</c><00:04:49.440><c> week</c><00:04:49.840><c> without</c><00:04:50.160><c> the</c>
+
+00:04:50.310 --> 00:04:50.320 align:start position:0%
+everything every single week without the
+ 
+
+00:04:50.320 --> 00:04:52.710 align:start position:0%
+everything every single week without the
+prep<00:04:50.639><c> scramble</c><00:04:51.040><c> the</c><00:04:51.280><c> night</c><00:04:51.440><c> before.</c><00:04:52.240><c> Example</c>
+
+00:04:52.710 --> 00:04:52.720 align:start position:0%
+prep scramble the night before. Example
+ 
+
+00:04:52.720 --> 00:04:55.830 align:start position:0%
+prep scramble the night before. Example
+three,<00:04:53.280><c> you</c><00:04:53.520><c> type,</c><00:04:54.560><c> "Build</c><00:04:54.960><c> a</c><00:04:55.199><c> new</c><00:04:55.360><c> member</c><00:04:55.600><c> on</c>
+
+00:04:55.830 --> 00:04:55.840 align:start position:0%
+three, you type, "Build a new member on
+ 
+
+00:04:55.840 --> 00:04:57.830 align:start position:0%
+three, you type, "Build a new member on
+boarding<00:04:56.160><c> workflow</c><00:04:56.720><c> for</c><00:04:56.960><c> the</c><00:04:57.120><c> AI</c><00:04:57.520><c> profit</c>
+
+00:04:57.830 --> 00:04:57.840 align:start position:0%
+boarding workflow for the AI profit
+ 
+
+00:04:57.840 --> 00:05:00.230 align:start position:0%
+boarding workflow for the AI profit
+boardroom.<00:04:58.720><c> Create</c><00:04:59.040><c> welcome</c><00:04:59.440><c> emails,</c><00:05:00.000><c> a</c>
+
+00:05:00.230 --> 00:05:00.240 align:start position:0%
+boardroom. Create welcome emails, a
+ 
+
+00:05:00.240 --> 00:05:02.150 align:start position:0%
+boardroom. Create welcome emails, a
+7-day<00:05:00.639><c> getting</c><00:05:00.960><c> started</c><00:05:01.280><c> plan,</c><00:05:01.840><c> and</c><00:05:02.000><c> a</c>
+
+00:05:02.150 --> 00:05:02.160 align:start position:0%
+7-day getting started plan, and a
+ 
+
+00:05:02.160 --> 00:05:04.950 align:start position:0%
+7-day getting started plan, and a
+checklist<00:05:02.639><c> of</c><00:05:02.880><c> next</c><00:05:03.120><c> steps</c><00:05:03.600><c> for</c><00:05:03.919><c> new</c><00:05:04.160><c> members.</c>
+
+00:05:04.950 --> 00:05:04.960 align:start position:0%
+checklist of next steps for new members.
+ 
+
+00:05:04.960 --> 00:05:07.350 align:start position:0%
+checklist of next steps for new members.
+It<00:05:05.199><c> pulls</c><00:05:05.600><c> your</c><00:05:05.840><c> existing</c><00:05:06.240><c> templates,</c><00:05:07.039><c> writes</c>
+
+00:05:07.350 --> 00:05:07.360 align:start position:0%
+It pulls your existing templates, writes
+ 
+
+00:05:07.360 --> 00:05:09.430 align:start position:0%
+It pulls your existing templates, writes
+the<00:05:07.600><c> full</c><00:05:07.840><c> email</c><00:05:08.160><c> sequence,</c><00:05:08.960><c> creates</c><00:05:09.280><c> the</c>
+
+00:05:09.430 --> 00:05:09.440 align:start position:0%
+the full email sequence, creates the
+ 
+
+00:05:09.440 --> 00:05:11.510 align:start position:0%
+the full email sequence, creates the
+checklist<00:05:09.919><c> document,</c><00:05:10.560><c> and</c><00:05:10.720><c> cues</c><00:05:11.120><c> the</c><00:05:11.199><c> drafts</c>
+
+00:05:11.510 --> 00:05:11.520 align:start position:0%
+checklist document, and cues the drafts
+ 
+
+00:05:11.520 --> 00:05:14.230 align:start position:0%
+checklist document, and cues the drafts
+in<00:05:11.759><c> Outlook,</c><00:05:12.320><c> ready</c><00:05:12.560><c> to</c><00:05:12.800><c> review.</c><00:05:13.600><c> Your</c><00:05:13.919><c> entire</c>
+
+00:05:14.230 --> 00:05:14.240 align:start position:0%
+in Outlook, ready to review. Your entire
+ 
+
+00:05:14.240 --> 00:05:16.710 align:start position:0%
+in Outlook, ready to review. Your entire
+onboarding<00:05:14.800><c> workflow</c><00:05:15.199><c> is</c><00:05:15.440><c> now</c><00:05:15.680><c> automated.</c>
+
+00:05:16.710 --> 00:05:16.720 align:start position:0%
+onboarding workflow is now automated.
+ 
+
+00:05:16.720 --> 00:05:20.629 align:start position:0%
+onboarding workflow is now automated.
+Done.<00:05:17.360><c> Example</c><00:05:17.759><c> four.</c><00:05:18.720><c> You</c><00:05:18.960><c> type,</c><00:05:20.160><c> research</c>
+
+00:05:20.629 --> 00:05:20.639 align:start position:0%
+Done. Example four. You type, research
+ 
+
+00:05:20.639 --> 00:05:22.870 align:start position:0%
+Done. Example four. You type, research
+the<00:05:20.960><c> top</c><00:05:21.280><c> AI</c><00:05:21.680><c> communities</c><00:05:22.240><c> competing</c><00:05:22.720><c> with</c>
+
+00:05:22.870 --> 00:05:22.880 align:start position:0%
+the top AI communities competing with
+ 
+
+00:05:22.880 --> 00:05:25.270 align:start position:0%
+the top AI communities competing with
+the<00:05:23.120><c> AI</c><00:05:23.440><c> profit</c><00:05:23.759><c> boardroom</c><00:05:24.479><c> and</c><00:05:24.720><c> create</c><00:05:25.039><c> a</c>
+
+00:05:25.270 --> 00:05:25.280 align:start position:0%
+the AI profit boardroom and create a
+ 
+
+00:05:25.280 --> 00:05:27.830 align:start position:0%
+the AI profit boardroom and create a
+strategy<00:05:25.759><c> for</c><00:05:25.919><c> how</c><00:05:26.160><c> we</c><00:05:26.400><c> differentiate.</c><00:05:27.600><c> It</c>
+
+00:05:27.830 --> 00:05:27.840 align:start position:0%
+strategy for how we differentiate. It
+ 
+
+00:05:27.840 --> 00:05:29.830 align:start position:0%
+strategy for how we differentiate. It
+pulls<00:05:28.240><c> your</c><00:05:28.400><c> internal</c><00:05:28.800><c> files,</c><00:05:29.440><c> structures</c>
+
+00:05:29.830 --> 00:05:29.840 align:start position:0%
+pulls your internal files, structures
+ 
+
+00:05:29.840 --> 00:05:31.830 align:start position:0%
+pulls your internal files, structures
+the<00:05:30.080><c> competitive</c><00:05:30.479><c> analysis,</c><00:05:31.360><c> builds</c><00:05:31.600><c> a</c>
+
+00:05:31.830 --> 00:05:31.840 align:start position:0%
+the competitive analysis, builds a
+ 
+
+00:05:31.840 --> 00:05:34.150 align:start position:0%
+the competitive analysis, builds a
+comparison<00:05:32.320><c> deck,</c><00:05:32.800><c> and</c><00:05:33.039><c> writes</c><00:05:33.280><c> a</c><00:05:33.520><c> strategic</c>
+
+00:05:34.150 --> 00:05:34.160 align:start position:0%
+comparison deck, and writes a strategic
+ 
+
+00:05:34.160 --> 00:05:36.629 align:start position:0%
+comparison deck, and writes a strategic
+summary<00:05:34.720><c> with</c><00:05:34.960><c> clear</c><00:05:35.360><c> recommendations.</c>
+
+00:05:36.629 --> 00:05:36.639 align:start position:0%
+summary with clear recommendations.
+ 
+
+00:05:36.639 --> 00:05:38.230 align:start position:0%
+summary with clear recommendations.
+That's<00:05:36.880><c> a</c><00:05:37.039><c> full</c><00:05:37.199><c> day</c><00:05:37.360><c> of</c><00:05:37.520><c> research</c><00:05:37.919><c> and</c>
+
+00:05:38.230 --> 00:05:38.240 align:start position:0%
+That's a full day of research and
+ 
+
+00:05:38.240 --> 00:05:39.749 align:start position:0%
+That's a full day of research and
+strategy<00:05:38.639><c> work</c><00:05:38.880><c> compressed</c><00:05:39.280><c> into</c><00:05:39.520><c> one</c>
+
+00:05:39.749 --> 00:05:39.759 align:start position:0%
+strategy work compressed into one
+ 
+
+00:05:39.759 --> 00:05:41.990 align:start position:0%
+strategy work compressed into one
+prompt.<00:05:40.400><c> This</c><00:05:40.560><c> is</c><00:05:40.720><c> the</c><00:05:40.960><c> shift.</c><00:05:41.520><c> You</c><00:05:41.759><c> operate</c>
+
+00:05:41.990 --> 00:05:42.000 align:start position:0%
+prompt. This is the shift. You operate
+ 
+
+00:05:42.000 --> 00:05:44.150 align:start position:0%
+prompt. This is the shift. You operate
+at<00:05:42.160><c> the</c><00:05:42.320><c> strategy</c><00:05:42.720><c> level.</c><00:05:43.280><c> AI</c><00:05:43.680><c> runs</c><00:05:44.000><c> every</c>
+
+00:05:44.150 --> 00:05:44.160 align:start position:0%
+at the strategy level. AI runs every
+ 
+
+00:05:44.160 --> 00:05:46.150 align:start position:0%
+at the strategy level. AI runs every
+workflow<00:05:44.639><c> underneath</c><00:05:45.120><c> it.</c><00:05:45.440><c> Here's</c><00:05:45.759><c> why</c><00:05:45.919><c> this</c>
+
+00:05:46.150 --> 00:05:46.160 align:start position:0%
+workflow underneath it. Here's why this
+ 
+
+00:05:46.160 --> 00:05:48.790 align:start position:0%
+workflow underneath it. Here's why this
+update<00:05:46.639><c> matters</c><00:05:47.520><c> beyond</c><00:05:48.160><c> the</c><00:05:48.400><c> features</c>
+
+00:05:48.790 --> 00:05:48.800 align:start position:0%
+update matters beyond the features
+ 
+
+00:05:48.800 --> 00:05:50.550 align:start position:0%
+update matters beyond the features
+themselves.<00:05:49.360><c> There</c><00:05:49.520><c> are</c><00:05:49.680><c> three</c><00:05:49.919><c> big</c><00:05:50.160><c> shifts</c>
+
+00:05:50.550 --> 00:05:50.560 align:start position:0%
+themselves. There are three big shifts
+ 
+
+00:05:50.560 --> 00:05:52.870 align:start position:0%
+themselves. There are three big shifts
+happening<00:05:50.880><c> right</c><00:05:51.120><c> now.</c><00:05:52.000><c> The</c><00:05:52.240><c> first</c><00:05:52.400><c> shift</c><00:05:52.720><c> is</c>
+
+00:05:52.870 --> 00:05:52.880 align:start position:0%
+happening right now. The first shift is
+ 
+
+00:05:52.880 --> 00:05:54.870 align:start position:0%
+happening right now. The first shift is
+that<00:05:53.120><c> AI</c><00:05:53.520><c> is</c><00:05:53.680><c> moving</c><00:05:54.000><c> from</c><00:05:54.240><c> assistant</c><00:05:54.639><c> to</c>
+
+00:05:54.870 --> 00:05:54.880 align:start position:0%
+that AI is moving from assistant to
+ 
+
+00:05:54.880 --> 00:05:56.790 align:start position:0%
+that AI is moving from assistant to
+worker.<00:05:55.520><c> It's</c><00:05:55.759><c> no</c><00:05:55.919><c> longer</c><00:05:56.240><c> answering</c><00:05:56.560><c> your</c>
+
+00:05:56.790 --> 00:05:56.800 align:start position:0%
+worker. It's no longer answering your
+ 
+
+00:05:56.800 --> 00:05:58.390 align:start position:0%
+worker. It's no longer answering your
+questions.<00:05:57.520><c> It's</c><00:05:57.759><c> completing</c><00:05:58.160><c> your</c>
+
+00:05:58.390 --> 00:05:58.400 align:start position:0%
+questions. It's completing your
+ 
+
+00:05:58.400 --> 00:06:00.390 align:start position:0%
+questions. It's completing your
+projects.<00:05:59.120><c> That</c><00:05:59.360><c> is</c><00:05:59.440><c> a</c><00:05:59.680><c> completely</c><00:06:00.080><c> different</c>
+
+00:06:00.390 --> 00:06:00.400 align:start position:0%
+projects. That is a completely different
+ 
+
+00:06:00.400 --> 00:06:02.710 align:start position:0%
+projects. That is a completely different
+category<00:06:00.800><c> of</c><00:06:01.039><c> capability.</c><00:06:02.000><c> We've</c><00:06:02.240><c> gone</c><00:06:02.479><c> from</c>
+
+00:06:02.710 --> 00:06:02.720 align:start position:0%
+category of capability. We've gone from
+ 
+
+00:06:02.720 --> 00:06:05.350 align:start position:0%
+category of capability. We've gone from
+AI<00:06:03.120><c> being</c><00:06:03.280><c> a</c><00:06:03.520><c> smart</c><00:06:03.759><c> autocomplete</c><00:06:04.720><c> to</c><00:06:04.960><c> AI</c>
+
+00:06:05.350 --> 00:06:05.360 align:start position:0%
+AI being a smart autocomplete to AI
+ 
+
+00:06:05.360 --> 00:06:06.870 align:start position:0%
+AI being a smart autocomplete to AI
+being<00:06:05.600><c> something</c><00:06:05.840><c> that</c><00:06:06.080><c> can</c><00:06:06.319><c> own</c><00:06:06.560><c> a</c>
+
+00:06:06.870 --> 00:06:06.880 align:start position:0%
+being something that can own a
+ 
+
+00:06:06.880 --> 00:06:08.950 align:start position:0%
+being something that can own a
+deliverable<00:06:07.440><c> from</c><00:06:07.759><c> start</c><00:06:08.000><c> to</c><00:06:08.240><c> finish.</c>
+
+00:06:08.950 --> 00:06:08.960 align:start position:0%
+deliverable from start to finish.
+ 
+
+00:06:08.960 --> 00:06:10.629 align:start position:0%
+deliverable from start to finish.
+building<00:06:09.199><c> the</c><00:06:09.440><c> workflow,</c><00:06:10.160><c> running</c><00:06:10.400><c> the</c>
+
+00:06:10.629 --> 00:06:10.639 align:start position:0%
+building the workflow, running the
+ 
+
+00:06:10.639 --> 00:06:12.469 align:start position:0%
+building the workflow, running the
+steps,<00:06:11.199><c> and</c><00:06:11.440><c> handing</c><00:06:11.759><c> you</c><00:06:11.919><c> a</c><00:06:12.160><c> finished</c>
+
+00:06:12.469 --> 00:06:12.479 align:start position:0%
+steps, and handing you a finished
+ 
+
+00:06:12.479 --> 00:06:14.390 align:start position:0%
+steps, and handing you a finished
+output.<00:06:13.199><c> The</c><00:06:13.360><c> second</c><00:06:13.600><c> shift</c><00:06:13.840><c> is</c><00:06:14.000><c> that</c><00:06:14.240><c> your</c>
+
+00:06:14.390 --> 00:06:14.400 align:start position:0%
+output. The second shift is that your
+ 
+
+00:06:14.400 --> 00:06:16.390 align:start position:0%
+output. The second shift is that your
+role<00:06:14.720><c> changes.</c><00:06:15.280><c> You</c><00:06:15.440><c> stop</c><00:06:15.680><c> being</c><00:06:15.919><c> the</c><00:06:16.160><c> person</c>
+
+00:06:16.390 --> 00:06:16.400 align:start position:0%
+role changes. You stop being the person
+ 
+
+00:06:16.400 --> 00:06:18.550 align:start position:0%
+role changes. You stop being the person
+executing<00:06:16.960><c> tasks.</c><00:06:17.600><c> You</c><00:06:17.840><c> become</c><00:06:18.080><c> the</c><00:06:18.240><c> person</c>
+
+00:06:18.550 --> 00:06:18.560 align:start position:0%
+executing tasks. You become the person
+ 
+
+00:06:18.560 --> 00:06:20.469 align:start position:0%
+executing tasks. You become the person
+setting<00:06:18.880><c> goals</c><00:06:19.120><c> and</c><00:06:19.360><c> reviewing</c><00:06:19.759><c> outcomes.</c>
+
+00:06:20.469 --> 00:06:20.479 align:start position:0%
+setting goals and reviewing outcomes.
+ 
+
+00:06:20.479 --> 00:06:22.070 align:start position:0%
+setting goals and reviewing outcomes.
+That's<00:06:20.639><c> a</c><00:06:20.880><c> fundamentally</c><00:06:21.520><c> different</c><00:06:21.759><c> job</c>
+
+00:06:22.070 --> 00:06:22.080 align:start position:0%
+That's a fundamentally different job
+ 
+
+00:06:22.080 --> 00:06:24.150 align:start position:0%
+That's a fundamentally different job
+description.<00:06:22.880><c> It</c><00:06:23.120><c> opens</c><00:06:23.360><c> up</c><00:06:23.520><c> your</c><00:06:23.759><c> time</c><00:06:23.919><c> for</c>
+
+00:06:24.150 --> 00:06:24.160 align:start position:0%
+description. It opens up your time for
+ 
+
+00:06:24.160 --> 00:06:25.430 align:start position:0%
+description. It opens up your time for
+the<00:06:24.319><c> stuff</c><00:06:24.400><c> that</c><00:06:24.720><c> actually</c><00:06:24.960><c> moves</c><00:06:25.280><c> the</c>
+
+00:06:25.430 --> 00:06:25.440 align:start position:0%
+the stuff that actually moves the
+ 
+
+00:06:25.440 --> 00:06:27.590 align:start position:0%
+the stuff that actually moves the
+needle.<00:06:26.080><c> Strategy,</c><00:06:26.720><c> relationships,</c><00:06:27.360><c> big</c>
+
+00:06:27.590 --> 00:06:27.600 align:start position:0%
+needle. Strategy, relationships, big
+ 
+
+00:06:27.600 --> 00:06:29.670 align:start position:0%
+needle. Strategy, relationships, big
+decisions,<00:06:28.400><c> the</c><00:06:28.639><c> repetitive</c><00:06:29.280><c> workflow</c>
+
+00:06:29.670 --> 00:06:29.680 align:start position:0%
+decisions, the repetitive workflow
+ 
+
+00:06:29.680 --> 00:06:32.150 align:start position:0%
+decisions, the repetitive workflow
+execution.<00:06:30.319><c> AI</c><00:06:30.720><c> handles</c><00:06:31.039><c> it.</c><00:06:31.600><c> And</c><00:06:31.759><c> the</c><00:06:31.919><c> third</c>
+
+00:06:32.150 --> 00:06:32.160 align:start position:0%
+execution. AI handles it. And the third
+ 
+
+00:06:32.160 --> 00:06:34.550 align:start position:0%
+execution. AI handles it. And the third
+shift,<00:06:32.800><c> and</c><00:06:32.960><c> this</c><00:06:33.199><c> is</c><00:06:33.280><c> the</c><00:06:33.520><c> big</c><00:06:33.680><c> one,</c><00:06:34.080><c> is</c><00:06:34.240><c> that</c>
+
+00:06:34.550 --> 00:06:34.560 align:start position:0%
+shift, and this is the big one, is that
+ 
+
+00:06:34.560 --> 00:06:37.110 align:start position:0%
+shift, and this is the big one, is that
+Microsoft<00:06:35.120><c> 365</c><00:06:35.919><c> is</c><00:06:36.160><c> becoming</c><00:06:36.479><c> an</c><00:06:36.720><c> AI</c>
+
+00:06:37.110 --> 00:06:37.120 align:start position:0%
+Microsoft 365 is becoming an AI
+ 
+
+00:06:37.120 --> 00:06:38.870 align:start position:0%
+Microsoft 365 is becoming an AI
+operating<00:06:37.600><c> system.</c><00:06:38.240><c> You're</c><00:06:38.479><c> not</c><00:06:38.639><c> just</c>
+
+00:06:38.870 --> 00:06:38.880 align:start position:0%
+operating system. You're not just
+ 
+
+00:06:38.880 --> 00:06:40.790 align:start position:0%
+operating system. You're not just
+opening<00:06:39.199><c> apps</c><00:06:39.440><c> anymore.</c><00:06:39.919><c> You're</c><00:06:40.080><c> managing</c><00:06:40.400><c> AI</c>
+
+00:06:40.790 --> 00:06:40.800 align:start position:0%
+opening apps anymore. You're managing AI
+ 
+
+00:06:40.800 --> 00:06:42.870 align:start position:0%
+opening apps anymore. You're managing AI
+workers<00:06:41.120><c> who</c><00:06:41.360><c> live</c><00:06:41.520><c> inside</c><00:06:41.840><c> those</c><00:06:42.160><c> apps</c><00:06:42.639><c> and</c>
+
+00:06:42.870 --> 00:06:42.880 align:start position:0%
+workers who live inside those apps and
+ 
+
+00:06:42.880 --> 00:06:45.110 align:start position:0%
+workers who live inside those apps and
+execute<00:06:43.360><c> major</c><00:06:43.680><c> workflows</c><00:06:44.160><c> on</c><00:06:44.319><c> your</c><00:06:44.560><c> behalf.</c>
+
+00:06:45.110 --> 00:06:45.120 align:start position:0%
+execute major workflows on your behalf.
+ 
+
+00:06:45.120 --> 00:06:47.270 align:start position:0%
+execute major workflows on your behalf.
+Copilot<00:06:45.680><c> Co-worked</c><00:06:46.400><c> by</c><00:06:46.560><c> a</c><00:06:46.720><c> combination</c><00:06:47.039><c> of</c>
+
+00:06:47.270 --> 00:06:47.280 align:start position:0%
+Copilot Co-worked by a combination of
+ 
+
+00:06:47.280 --> 00:06:49.590 align:start position:0%
+Copilot Co-worked by a combination of
+anthropic<00:06:47.840><c> claude</c><00:06:48.319><c> and</c><00:06:48.560><c> OpenAI</c><00:06:49.199><c> models</c>
+
+00:06:49.590 --> 00:06:49.600 align:start position:0%
+anthropic claude and OpenAI models
+ 
+
+00:06:49.600 --> 00:06:50.870 align:start position:0%
+anthropic claude and OpenAI models
+running<00:06:49.840><c> through</c><00:06:50.160><c> Microsoft's</c>
+
+00:06:50.870 --> 00:06:50.880 align:start position:0%
+running through Microsoft's
+ 
+
+00:06:50.880 --> 00:06:52.950 align:start position:0%
+running through Microsoft's
+orchestration<00:06:51.680><c> layer</c><00:06:51.919><c> is</c><00:06:52.160><c> one</c><00:06:52.400><c> of</c><00:06:52.479><c> the</c><00:06:52.639><c> first</c>
+
+00:06:52.950 --> 00:06:52.960 align:start position:0%
+orchestration layer is one of the first
+ 
+
+00:06:52.960 --> 00:06:54.469 align:start position:0%
+orchestration layer is one of the first
+real<00:06:53.280><c> products</c><00:06:53.600><c> that</c><00:06:53.759><c> makes</c><00:06:53.919><c> this</c><00:06:54.160><c> vision</c>
+
+00:06:54.469 --> 00:06:54.479 align:start position:0%
+real products that makes this vision
+ 
+
+00:06:54.479 --> 00:06:56.309 align:start position:0%
+real products that makes this vision
+tangible.<00:06:55.120><c> And</c><00:06:55.360><c> because</c><00:06:55.600><c> everything</c><00:06:56.000><c> runs</c>
+
+00:06:56.309 --> 00:06:56.319 align:start position:0%
+tangible. And because everything runs
+ 
+
+00:06:56.319 --> 00:06:58.710 align:start position:0%
+tangible. And because everything runs
+inside<00:06:56.639><c> your</c><00:06:56.880><c> M365</c><00:06:57.759><c> tenant</c><00:06:58.240><c> with</c><00:06:58.479><c> your</c>
+
+00:06:58.710 --> 00:06:58.720 align:start position:0%
+inside your M365 tenant with your
+ 
+
+00:06:58.720 --> 00:07:00.870 align:start position:0%
+inside your M365 tenant with your
+existing<00:06:59.120><c> permissions</c><00:06:59.520><c> and</c><00:06:59.759><c> security</c><00:07:00.160><c> rules,</c>
+
+00:07:00.870 --> 00:07:00.880 align:start position:0%
+existing permissions and security rules,
+ 
+
+00:07:00.880 --> 00:07:02.390 align:start position:0%
+existing permissions and security rules,
+businesses<00:07:01.360><c> can</c><00:07:01.520><c> actually</c><00:07:01.759><c> trust</c><00:07:02.000><c> it</c><00:07:02.240><c> with</c>
+
+00:07:02.390 --> 00:07:02.400 align:start position:0%
+businesses can actually trust it with
+ 
+
+00:07:02.400 --> 00:07:04.710 align:start position:0%
+businesses can actually trust it with
+real<00:07:02.720><c> data.</c><00:07:03.360><c> That</c><00:07:03.680><c> combination</c><00:07:04.080><c> of</c><00:07:04.240><c> workflow</c>
+
+00:07:04.710 --> 00:07:04.720 align:start position:0%
+real data. That combination of workflow
+ 
+
+00:07:04.720 --> 00:07:06.870 align:start position:0%
+real data. That combination of workflow
+power<00:07:05.199><c> and</c><00:07:05.520><c> enterprise</c><00:07:06.000><c> trust</c><00:07:06.240><c> is</c><00:07:06.479><c> what</c><00:07:06.720><c> sets</c>
+
+00:07:06.870 --> 00:07:06.880 align:start position:0%
+power and enterprise trust is what sets
+ 
+
+00:07:06.880 --> 00:07:08.790 align:start position:0%
+power and enterprise trust is what sets
+this<00:07:07.120><c> apart</c><00:07:07.440><c> from</c><00:07:07.599><c> every</c><00:07:07.840><c> other</c><00:07:08.080><c> AI</c><00:07:08.479><c> tool</c>
+
+00:07:08.790 --> 00:07:08.800 align:start position:0%
+this apart from every other AI tool
+ 
+
+00:07:08.800 --> 00:07:10.790 align:start position:0%
+this apart from every other AI tool
+announcement<00:07:09.280><c> you've</c><00:07:09.520><c> seen.</c><00:07:10.160><c> Here's</c><00:07:10.479><c> the</c><00:07:10.639><c> big</c>
+
+00:07:10.790 --> 00:07:10.800 align:start position:0%
+announcement you've seen. Here's the big
+ 
+
+00:07:10.800 --> 00:07:13.110 align:start position:0%
+announcement you've seen. Here's the big
+picture<00:07:11.199><c> view.</c><00:07:11.520><c> Very</c><00:07:11.840><c> soon,</c><00:07:12.479><c> companies</c><00:07:12.880><c> will</c>
+
+00:07:13.110 --> 00:07:13.120 align:start position:0%
+picture view. Very soon, companies will
+ 
+
+00:07:13.120 --> 00:07:14.870 align:start position:0%
+picture view. Very soon, companies will
+not<00:07:13.280><c> just</c><00:07:13.520><c> have</c><00:07:13.599><c> a</c><00:07:13.840><c> human</c><00:07:14.080><c> team.</c><00:07:14.560><c> They'll</c><00:07:14.800><c> have</c>
+
+00:07:14.870 --> 00:07:14.880 align:start position:0%
+not just have a human team. They'll have
+ 
+
+00:07:14.880 --> 00:07:17.110 align:start position:0%
+not just have a human team. They'll have
+a<00:07:15.039><c> human</c><00:07:15.280><c> team</c><00:07:15.520><c> and</c><00:07:15.759><c> an</c><00:07:15.919><c> AI</c><00:07:16.319><c> team</c><00:07:16.800><c> running</c>
+
+00:07:17.110 --> 00:07:17.120 align:start position:0%
+a human team and an AI team running
+ 
+
+00:07:17.120 --> 00:07:19.189 align:start position:0%
+a human team and an AI team running
+alongside<00:07:17.599><c> each</c><00:07:17.840><c> other.</c><00:07:18.319><c> Humans</c><00:07:18.800><c> set</c><00:07:18.960><c> the</c>
+
+00:07:19.189 --> 00:07:19.199 align:start position:0%
+alongside each other. Humans set the
+ 
+
+00:07:19.199 --> 00:07:21.350 align:start position:0%
+alongside each other. Humans set the
+vision,<00:07:19.599><c> make</c><00:07:19.840><c> the</c><00:07:20.080><c> decisions,</c><00:07:20.880><c> build</c><00:07:21.120><c> the</c>
+
+00:07:21.350 --> 00:07:21.360 align:start position:0%
+vision, make the decisions, build the
+ 
+
+00:07:21.360 --> 00:07:24.150 align:start position:0%
+vision, make the decisions, build the
+relationships.<00:07:22.319><c> AI</c><00:07:22.880><c> runs</c><00:07:23.199><c> the</c><00:07:23.360><c> workflows,</c>
+
+00:07:24.150 --> 00:07:24.160 align:start position:0%
+relationships. AI runs the workflows,
+ 
+
+00:07:24.160 --> 00:07:26.309 align:start position:0%
+relationships. AI runs the workflows,
+produces<00:07:24.639><c> the</c><00:07:24.880><c> outputs,</c><00:07:25.759><c> handles</c><00:07:26.160><c> the</c>
+
+00:07:26.309 --> 00:07:26.319 align:start position:0%
+produces the outputs, handles the
+ 
+
+00:07:26.319 --> 00:07:28.870 align:start position:0%
+produces the outputs, handles the
+repetitive<00:07:27.039><c> execution.</c><00:07:28.080><c> Two</c><00:07:28.319><c> things</c><00:07:28.639><c> before</c>
+
+00:07:28.870 --> 00:07:28.880 align:start position:0%
+repetitive execution. Two things before
+ 
+
+00:07:28.880 --> 00:07:32.150 align:start position:0%
+repetitive execution. Two things before
+you<00:07:29.039><c> go.</c><00:07:29.919><c> First,</c><00:07:30.960><c> if</c><00:07:31.120><c> you</c><00:07:31.280><c> want</c><00:07:31.360><c> to</c><00:07:31.520><c> go</c><00:07:31.680><c> deep</c><00:07:31.919><c> on</c>
+
+00:07:32.150 --> 00:07:32.160 align:start position:0%
+you go. First, if you want to go deep on
+ 
+
+00:07:32.160 --> 00:07:34.309 align:start position:0%
+you go. First, if you want to go deep on
+tools<00:07:32.479><c> like</c><00:07:32.720><c> this</c><00:07:33.199><c> and</c><00:07:33.440><c> learn</c><00:07:33.680><c> how</c><00:07:33.840><c> to</c><00:07:34.000><c> build</c>
+
+00:07:34.309 --> 00:07:34.319 align:start position:0%
+tools like this and learn how to build
+ 
+
+00:07:34.319 --> 00:07:36.870 align:start position:0%
+tools like this and learn how to build
+real<00:07:34.560><c> AI</c><00:07:35.039><c> systems</c><00:07:35.520><c> for</c><00:07:35.759><c> your</c><00:07:36.000><c> business,</c><00:07:36.639><c> join</c>
+
+00:07:36.870 --> 00:07:36.880 align:start position:0%
+real AI systems for your business, join
+ 
+
+00:07:36.880 --> 00:07:39.350 align:start position:0%
+real AI systems for your business, join
+the<00:07:37.120><c> AI</c><00:07:37.599><c> profit</c><00:07:38.000><c> boardroom.</c><00:07:38.880><c> It's</c><00:07:39.039><c> where</c>
+
+00:07:39.350 --> 00:07:39.360 align:start position:0%
+the AI profit boardroom. It's where
+ 
+
+00:07:39.360 --> 00:07:41.029 align:start position:0%
+the AI profit boardroom. It's where
+entrepreneurs<00:07:39.919><c> and</c><00:07:40.160><c> business</c><00:07:40.400><c> owners</c><00:07:40.800><c> are</c>
+
+00:07:41.029 --> 00:07:41.039 align:start position:0%
+entrepreneurs and business owners are
+ 
+
+00:07:41.039 --> 00:07:42.790 align:start position:0%
+entrepreneurs and business owners are
+learning<00:07:41.280><c> to</c><00:07:41.520><c> automate</c><00:07:41.919><c> their</c><00:07:42.160><c> operations</c>
+
+00:07:42.790 --> 00:07:42.800 align:start position:0%
+learning to automate their operations
+ 
+
+00:07:42.800 --> 00:07:45.110 align:start position:0%
+learning to automate their operations
+and<00:07:43.039><c> grow</c><00:07:43.360><c> smarter</c><00:07:43.759><c> with</c><00:07:44.000><c> AI</c><00:07:44.400><c> every</c><00:07:44.800><c> single</c>
+
+00:07:45.110 --> 00:07:45.120 align:start position:0%
+and grow smarter with AI every single
+ 
+
+00:07:45.120 --> 00:07:47.430 align:start position:0%
+and grow smarter with AI every single
+week.<00:07:45.680><c> Practical</c><00:07:46.240><c> playbooks,</c><00:07:46.880><c> real</c><00:07:47.199><c> use</c>
+
+00:07:47.430 --> 00:07:47.440 align:start position:0%
+week. Practical playbooks, real use
+ 
+
+00:07:47.440 --> 00:07:49.350 align:start position:0%
+week. Practical playbooks, real use
+cases,<00:07:47.919><c> and</c><00:07:48.080><c> a</c><00:07:48.319><c> community</c><00:07:48.639><c> of</c><00:07:48.880><c> people</c><00:07:49.120><c> doing</c>
+
+00:07:49.350 --> 00:07:49.360 align:start position:0%
+cases, and a community of people doing
+ 
+
+00:07:49.360 --> 00:07:51.909 align:start position:0%
+cases, and a community of people doing
+it<00:07:49.599><c> right</c><00:07:49.840><c> now.</c><00:07:50.479><c> Link</c><00:07:50.800><c> in</c><00:07:50.960><c> the</c><00:07:51.120><c> description.</c>
+
+00:07:51.909 --> 00:07:51.919 align:start position:0%
+it right now. Link in the description.
+ 
+
+00:07:51.919 --> 00:07:54.629 align:start position:0%
+it right now. Link in the description.
+Second,<00:07:52.479><c> join</c><00:07:52.800><c> the</c><00:07:53.039><c> AI</c><00:07:53.520><c> Success</c><00:07:54.000><c> Lab.</c><00:07:54.400><c> It's</c>
+
+00:07:54.629 --> 00:07:54.639 align:start position:0%
+Second, join the AI Success Lab. It's
+ 
+
+00:07:54.639 --> 00:07:56.710 align:start position:0%
+Second, join the AI Success Lab. It's
+our<00:07:54.879><c> free</c><00:07:55.120><c> community</c><00:07:55.520><c> with</c><00:07:55.759><c> over</c><00:07:56.080><c> 40,000</c>
+
+00:07:56.710 --> 00:07:56.720 align:start position:0%
+our free community with over 40,000
+ 
+
+00:07:56.720 --> 00:07:58.790 align:start position:0%
+our free community with over 40,000
+members<00:07:57.039><c> who</c><00:07:57.199><c> are</c><00:07:57.280><c> all</c><00:07:57.440><c> in</c><00:07:57.599><c> on</c><00:07:57.759><c> AI.</c><00:07:58.400><c> You'll</c><00:07:58.720><c> get</c>
+
+00:07:58.790 --> 00:07:58.800 align:start position:0%
+members who are all in on AI. You'll get
+ 
+
+00:07:58.800 --> 00:08:00.550 align:start position:0%
+members who are all in on AI. You'll get
+the<00:07:58.960><c> full</c><00:07:59.120><c> notes</c><00:07:59.360><c> from</c><00:07:59.520><c> this</c><00:07:59.759><c> video,</c><00:08:00.080><c> 100</c><00:08:00.319><c> plus</c>
+
+00:08:00.550 --> 00:08:00.560 align:start position:0%
+the full notes from this video, 100 plus
+ 
+
+00:08:00.560 --> 00:08:03.029 align:start position:0%
+the full notes from this video, 100 plus
+AI<00:08:00.879><c> use</c><00:08:01.120><c> cases,</c><00:08:01.599><c> SOPs,</c><00:08:02.240><c> templates,</c><00:08:02.879><c> and</c>
+
+00:08:03.029 --> 00:08:03.039 align:start position:0%
+AI use cases, SOPs, templates, and
+ 
+
+00:08:03.039 --> 00:08:04.629 align:start position:0%
+AI use cases, SOPs, templates, and
+access<00:08:03.360><c> to</c><00:08:03.520><c> people</c><00:08:03.680><c> who</c><00:08:03.840><c> are</c><00:08:04.080><c> genuinely</c>
+
+00:08:04.629 --> 00:08:04.639 align:start position:0%
+access to people who are genuinely
+ 
+
+00:08:04.639 --> 00:08:07.029 align:start position:0%
+access to people who are genuinely
+crushing<00:08:05.039><c> it</c><00:08:05.360><c> with</c><00:08:05.599><c> these</c><00:08:05.840><c> tools.</c><00:08:06.560><c> Links</c><00:08:06.879><c> are</c>
+
+00:08:07.029 --> 00:08:07.039 align:start position:0%
+crushing it with these tools. Links are
+ 
+
+00:08:07.039 --> 00:08:08.790 align:start position:0%
+crushing it with these tools. Links are
+in<00:08:07.120><c> the</c><00:08:07.280><c> comments</c><00:08:07.599><c> and</c><00:08:07.759><c> description.</c><00:08:08.479><c> That's</c>
+
+00:08:08.790 --> 00:08:08.800 align:start position:0%
+in the comments and description. That's
+ 
+
+00:08:08.800 --> 00:08:11.430 align:start position:0%
+in the comments and description. That's
+Copilot<00:08:09.440><c> Co-work.</c><00:08:10.160><c> The</c><00:08:10.319><c> AI</c><00:08:10.720><c> co-worker</c><00:08:11.280><c> is</c>
+
+00:08:11.430 --> 00:08:11.440 align:start position:0%
+Copilot Co-work. The AI co-worker is
+ 
+
+00:08:11.440 --> 00:08:13.189 align:start position:0%
+Copilot Co-work. The AI co-worker is
+here.<00:08:11.759><c> The</c><00:08:12.000><c> major</c><00:08:12.319><c> workflows</c><00:08:12.800><c> are</c><00:08:12.960><c> already</c>
+
+00:08:13.189 --> 00:08:13.199 align:start position:0%
+here. The major workflows are already
+ 
+
+00:08:13.199 --> 00:08:15.029 align:start position:0%
+here. The major workflows are already
+being<00:08:13.440><c> automated.</c><00:08:14.240><c> The</c><00:08:14.400><c> only</c><00:08:14.560><c> question</c><00:08:14.800><c> is</c>
+
+00:08:15.029 --> 00:08:15.039 align:start position:0%
+being automated. The only question is
+ 
+
+00:08:15.039 --> 00:08:16.390 align:start position:0%
+being automated. The only question is
+whether<00:08:15.280><c> you're</c><00:08:15.520><c> going</c><00:08:15.599><c> to</c><00:08:15.680><c> use</c><00:08:15.840><c> it</c><00:08:16.000><c> or</c><00:08:16.240><c> watch</c>
+
+00:08:16.390 --> 00:08:16.400 align:start position:0%
+whether you're going to use it or watch
+ 
+
+00:08:16.400 --> 00:08:18.309 align:start position:0%
+whether you're going to use it or watch
+everyone<00:08:16.720><c> else</c><00:08:16.960><c> do</c><00:08:17.120><c> it</c><00:08:17.280><c> first.</c><00:08:17.840><c> See</c><00:08:18.000><c> you</c><00:08:18.160><c> in</c>
+
+00:08:18.309 --> 00:08:18.319 align:start position:0%
+everyone else do it first. See you in
+ 
+
+00:08:18.319 --> 00:08:20.879 align:start position:0%
+everyone else do it first. See you in
+the<00:08:18.400><c> next</c><00:08:18.560><c> one.</c>
+

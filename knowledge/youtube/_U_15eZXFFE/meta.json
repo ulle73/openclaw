@@ -1,0 +1,151 @@
+{
+  "id": "_U_15eZXFFE",
+  "title": "New NemoClaw Destroys OpenClaw?",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260311",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nNvidia’s INSANE New Update: NeMo Claw AI Agents Are Coming!\n\nNvidia is set to launch NeMo Claw, an open-source platform that allows businesses to deploy entire workforces of autonomous AI agents. Learn why this move from the world's leading chipmaker will revolutionize AI automation and how you can prepare for the shift from chatbots to agents.\n\n00:00 - Nvidia's Massive AI Announcement\n00:47 - What is NeMo Claw?\n01:59 - The Power of Open Source AI\n02:29 - Why AI Agents Matter for Business\n03:17 - Nvidia's Genius Strategy Explained\n04:25 - Real-World Automation Use Cases\n05:38 - The Global AI Agent Race\n06:23 - 3 Steps to Prepare for NeMo Claw",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "nemoclaw-destroys"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "nemoclaw-destroys",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "nemoclaw-destroys__openclaw",
+  "related_video_ids": [
+    "ptqHcTAwmlk",
+    "f8LJBh1AtKg",
+    "YnzsnqsrqXs",
+    "S-HveAU5l7c",
+    "RyxeYZ7TW3o"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "f8LJBh1AtKg",
+      "title": "Stop OpenClaw From Forgetting – The 3 Memory Layers Explained!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/f8LJBh1AtKg/summary.md",
+      "topic_cluster_key": "layers-explained__openclaw__the-3-memory",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "YnzsnqsrqXs",
+      "title": "OpenClaw + Star Office is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/YnzsnqsrqXs/summary.md",
+      "topic_cluster_key": "openclaw__star-office",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "S-HveAU5l7c",
+      "title": "NEW OpenClaw Robot is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/S-HveAU5l7c/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "ptqHcTAwmlk",
+      "f8LJBh1AtKg",
+      "YnzsnqsrqXs",
+      "S-HveAU5l7c",
+      "RyxeYZ7TW3o"
+    ]
+  },
+  "updated_at": "2026-03-11T09:30:13Z"
+}

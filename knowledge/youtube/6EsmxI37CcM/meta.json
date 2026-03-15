@@ -1,0 +1,150 @@
+{
+  "id": "6EsmxI37CcM",
+  "title": "OpenClaw 3.12 IS INSANE, Here's Why",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260313",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nOpenClaw 3.12 Update: New Dashboard v2 & Fast Mode Guide\n\nDiscover the massive OpenClaw 3.12 update featuring a completely redesigned Dashboard v2 and a new high-speed Fast Mode for OpenAI and Anthropic. This walkthrough covers the shift to plugin architecture for local models and essential security patches to keep your AI gateway secure.\n\n00:00 - Intro & Update Overview\n01:04 - Dashboard v2 Deep Dive\n03:01 - New UI Features & Mobile Tabs\n04:00 - Fast Mode for AI Models\n05:33 - Local Model Plugins (Ollama & VLLM)\n07:16 - Security & Device Token Updates\n08:24 - Agent Improvements & Bug Fixes\n09:29 - How to Update & AI Training",
+  "classifications": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "api"
+  ],
+  "roi_label": "medium",
+  "relevance_label": "medium",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": false,
+    "system_improvement": true,
+    "app": false,
+    "product": false
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "telegram",
+    "workflow-automation",
+    "prompt-design",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "openclaw",
+  "related_video_ids": [
+    "KPejjQQ5Bzg",
+    "JmFkYj3__xc",
+    "ptqHcTAwmlk",
+    "OV5eK91YY68",
+    "9lbwgk29Db4"
+  ],
+  "related_videos": [
+    {
+      "videoId": "KPejjQQ5Bzg",
+      "title": "OpenClaw 3.11 IS INSANE, Here's Why",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KPejjQQ5Bzg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "prompt-design"
+      ],
+      "cluster_match": true,
+      "score": 20
+    },
+    {
+      "videoId": "JmFkYj3__xc",
+      "title": "New FREE OpenClaw Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/JmFkYj3__xc/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration"
+      ],
+      "cluster_match": true,
+      "score": 20
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 19
+    },
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 19
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 19
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "KPejjQQ5Bzg",
+      "JmFkYj3__xc",
+      "ptqHcTAwmlk",
+      "OV5eK91YY68",
+      "9lbwgk29Db4"
+    ]
+  },
+  "updated_at": "2026-03-13T17:30:16Z"
+}

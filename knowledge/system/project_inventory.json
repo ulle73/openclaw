@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-10T23:02:30Z",
+  "generatedAt": "2026-03-15T19:02:33Z",
   "projects": [
     {
       "projectId": "coastworks",
@@ -297,6 +297,28 @@
       "projectPriority": 8
     },
     {
+      "projectId": "ai-hedge-fund",
+      "name": "Ai Hedge Fund",
+      "status": "repo-detected",
+      "summary": "This is a proof of concept for an AI-powered hedge fund.  The goal of this project is to explore the use of AI to make trading decisions.  This project is for **educational** purposes only and is not intended for real trading or investment.",
+      "tags": [
+        "workflow-automation"
+      ],
+      "stack": [],
+      "signals": [
+        "workflow-automation"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\ai-hedge-fund"
+      ],
+      "sourceTypes": [
+        "repo_scan"
+      ],
+      "whyItMatters": [],
+      "projectRole": "repo_only",
+      "projectPriority": 3
+    },
+    {
       "projectId": "mission-control",
       "name": "Mission Control",
       "status": "repo-detected",
@@ -489,16 +511,49 @@
       ],
       "stack": [
         "node",
+        "python",
         "openai"
       ],
       "signals": [
         "knowledge-systems",
         "node",
         "openai",
+        "python",
         "service-offer"
       ],
       "repoPaths": [
         "C:\\Users\\ryd\\.openclaw\\workspace\\social-media-manager"
+      ],
+      "sourceTypes": [
+        "repo_scan"
+      ],
+      "whyItMatters": [],
+      "projectRole": "repo_only",
+      "projectPriority": 3
+    },
+    {
+      "projectId": "socials-v2",
+      "name": "Socials V2",
+      "status": "repo-detected",
+      "summary": "Socials V2 is a white-label social content workflow built for multiple brands.",
+      "tags": [
+        "workflow-automation",
+        "knowledge-systems"
+      ],
+      "stack": [
+        "node",
+        "python",
+        "openai"
+      ],
+      "signals": [
+        "knowledge-systems",
+        "node",
+        "openai",
+        "python",
+        "workflow-automation"
+      ],
+      "repoPaths": [
+        "C:\\Users\\ryd\\.openclaw\\workspace\\socials-v2"
       ],
       "sourceTypes": [
         "repo_scan"

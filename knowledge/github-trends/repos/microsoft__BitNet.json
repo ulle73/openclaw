@@ -1,0 +1,43 @@
+{
+  "fullName": "microsoft/BitNet",
+  "url": "https://github.com/microsoft/BitNet",
+  "description": "Official inference framework for 1-bit LLMs",
+  "purpose": "Official inference framework for 1-bit LLMs",
+  "useCase": "LLM or AI product development",
+  "relevance": "relevant for Coastworks via AI/models",
+  "language": "Python",
+  "topics": [],
+  "stars": 32047,
+  "forks": 2713,
+  "openIssues": 231,
+  "detectedSignals": [
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 20
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 18
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 13
+    }
+  ],
+  "fetchedAt": "2026-03-12T20:52:20Z"
+}

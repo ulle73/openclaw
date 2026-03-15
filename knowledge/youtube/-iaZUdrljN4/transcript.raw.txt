@@ -1,0 +1,1896 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:02.950 align:start position:0%
+ 
+New<00:00:00.480><c> Google</c><00:00:00.800><c> Gemini</c><00:00:01.439><c> update</c><00:00:01.839><c> is</c><00:00:02.080><c> insane.</c>
+
+00:00:02.950 --> 00:00:02.960 align:start position:0%
+New Google Gemini update is insane.
+ 
+
+00:00:02.960 --> 00:00:05.110 align:start position:0%
+New Google Gemini update is insane.
+Google<00:00:03.280><c> just</c><00:00:03.520><c> dropped</c><00:00:03.760><c> a</c><00:00:03.919><c> new</c><00:00:04.080><c> Gemini</c><00:00:04.640><c> update.</c>
+
+00:00:05.110 --> 00:00:05.120 align:start position:0%
+Google just dropped a new Gemini update.
+ 
+
+00:00:05.120 --> 00:00:06.950 align:start position:0%
+Google just dropped a new Gemini update.
+And<00:00:05.279><c> it</c><00:00:05.440><c> is</c><00:00:05.520><c> insane.</c><00:00:06.000><c> Like,</c><00:00:06.240><c> I'm</c><00:00:06.319><c> I'm</c><00:00:06.640><c> not</c><00:00:06.720><c> even</c>
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+And it is insane. Like, I'm I'm not even
+ 
+
+00:00:06.960 --> 00:00:08.790 align:start position:0%
+And it is insane. Like, I'm I'm not even
+exaggerating<00:00:07.520><c> right</c><00:00:07.759><c> now.</c><00:00:08.160><c> Today,</c><00:00:08.480><c> I'm</c><00:00:08.639><c> going</c>
+
+00:00:08.790 --> 00:00:08.800 align:start position:0%
+exaggerating right now. Today, I'm going
+ 
+
+00:00:08.800 --> 00:00:11.589 align:start position:0%
+exaggerating right now. Today, I'm going
+to<00:00:08.880><c> show</c><00:00:09.040><c> you</c><00:00:09.599><c> exactly</c><00:00:10.080><c> what</c><00:00:10.400><c> changed,</c><00:00:11.120><c> why</c><00:00:11.360><c> it</c>
+
+00:00:11.589 --> 00:00:11.599 align:start position:0%
+to show you exactly what changed, why it
+ 
+
+00:00:11.599 --> 00:00:13.830 align:start position:0%
+to show you exactly what changed, why it
+matters,<00:00:12.400><c> and</c><00:00:12.559><c> how</c><00:00:12.800><c> you</c><00:00:13.040><c> can</c><00:00:13.200><c> start</c><00:00:13.440><c> using</c><00:00:13.679><c> it</c>
+
+00:00:13.830 --> 00:00:13.840 align:start position:0%
+matters, and how you can start using it
+ 
+
+00:00:13.840 --> 00:00:15.589 align:start position:0%
+matters, and how you can start using it
+today.<00:00:14.160><c> Because</c><00:00:14.400><c> Google</c><00:00:14.799><c> basically</c><00:00:15.200><c> turned</c>
+
+00:00:15.589 --> 00:00:15.599 align:start position:0%
+today. Because Google basically turned
+ 
+
+00:00:15.599 --> 00:00:17.910 align:start position:0%
+today. Because Google basically turned
+Docs,<00:00:16.000><c> Sheets,</c><00:00:16.480><c> Slides,</c><00:00:16.880><c> and</c><00:00:17.039><c> Drive</c><00:00:17.359><c> into</c><00:00:17.680><c> a</c>
+
+00:00:17.910 --> 00:00:17.920 align:start position:0%
+Docs, Sheets, Slides, and Drive into a
+ 
+
+00:00:17.920 --> 00:00:20.230 align:start position:0%
+Docs, Sheets, Slides, and Drive into a
+full<00:00:18.160><c> AI</c><00:00:18.560><c> coworker.</c><00:00:19.359><c> And</c><00:00:19.520><c> the</c><00:00:19.760><c> crazy</c><00:00:20.000><c> part,</c>
+
+00:00:20.230 --> 00:00:20.240 align:start position:0%
+full AI coworker. And the crazy part,
+ 
+
+00:00:20.240 --> 00:00:22.230 align:start position:0%
+full AI coworker. And the crazy part,
+it's<00:00:20.480><c> stupid</c><00:00:20.880><c> easy</c><00:00:21.119><c> to</c><00:00:21.359><c> use.</c><00:00:21.760><c> So,</c><00:00:21.920><c> let</c><00:00:22.080><c> me</c>
+
+00:00:22.230 --> 00:00:22.240 align:start position:0%
+it's stupid easy to use. So, let me
+ 
+
+00:00:22.240 --> 00:00:23.429 align:start position:0%
+it's stupid easy to use. So, let me
+break<00:00:22.400><c> the</c><00:00:22.560><c> whole</c><00:00:22.720><c> thing</c><00:00:22.880><c> down</c><00:00:23.039><c> for</c><00:00:23.199><c> you.</c><00:00:23.439><c> All</c>
+
+00:00:23.429 --> 00:00:23.439 align:start position:0%
+break the whole thing down for you. All
+ 
+
+00:00:23.439 --> 00:00:25.189 align:start position:0%
+break the whole thing down for you. All
+right,<00:00:23.680><c> so</c><00:00:23.920><c> here's</c><00:00:24.160><c> what</c><00:00:24.320><c> happened.</c><00:00:24.880><c> Google</c>
+
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+right, so here's what happened. Google
+ 
+
+00:00:25.199 --> 00:00:27.269 align:start position:0%
+right, so here's what happened. Google
+took<00:00:25.439><c> Gemini</c><00:00:25.920><c> and</c><00:00:26.080><c> shoved</c><00:00:26.400><c> it</c><00:00:26.560><c> deep</c><00:00:26.800><c> inside</c>
+
+00:00:27.269 --> 00:00:27.279 align:start position:0%
+took Gemini and shoved it deep inside
+ 
+
+00:00:27.279 --> 00:00:29.189 align:start position:0%
+took Gemini and shoved it deep inside
+every<00:00:27.599><c> single</c><00:00:27.920><c> Workspace</c><00:00:28.480><c> app.</c><00:00:28.960><c> We're</c>
+
+00:00:29.189 --> 00:00:29.199 align:start position:0%
+every single Workspace app. We're
+ 
+
+00:00:29.199 --> 00:00:32.389 align:start position:0%
+every single Workspace app. We're
+talking<00:00:29.599><c> Docs,</c><00:00:30.320><c> Sheets,</c><00:00:31.119><c> Slides,</c><00:00:31.760><c> Drive,</c><00:00:32.239><c> all</c>
+
+00:00:32.389 --> 00:00:32.399 align:start position:0%
+talking Docs, Sheets, Slides, Drive, all
+ 
+
+00:00:32.399 --> 00:00:33.910 align:start position:0%
+talking Docs, Sheets, Slides, Drive, all
+of<00:00:32.480><c> it.</c><00:00:32.880><c> And</c><00:00:33.040><c> this</c><00:00:33.200><c> isn't</c><00:00:33.440><c> like</c><00:00:33.600><c> a</c><00:00:33.760><c> little</c>
+
+00:00:33.910 --> 00:00:33.920 align:start position:0%
+of it. And this isn't like a little
+ 
+
+00:00:33.920 --> 00:00:36.229 align:start position:0%
+of it. And this isn't like a little
+chatbot<00:00:34.480><c> sitting</c><00:00:34.800><c> in</c><00:00:34.960><c> the</c><00:00:35.120><c> corner.</c><00:00:35.520><c> No,</c><00:00:36.079><c> this</c>
+
+00:00:36.229 --> 00:00:36.239 align:start position:0%
+chatbot sitting in the corner. No, this
+ 
+
+00:00:36.239 --> 00:00:38.150 align:start position:0%
+chatbot sitting in the corner. No, this
+is<00:00:36.399><c> Gemini</c><00:00:37.040><c> actually</c><00:00:37.360><c> building</c><00:00:37.760><c> stuff</c><00:00:37.920><c> for</c>
+
+00:00:38.150 --> 00:00:38.160 align:start position:0%
+is Gemini actually building stuff for
+ 
+
+00:00:38.160 --> 00:00:40.229 align:start position:0%
+is Gemini actually building stuff for
+you,<00:00:38.399><c> creating</c><00:00:38.800><c> full</c><00:00:39.120><c> documents,</c><00:00:39.840><c> making</c>
+
+00:00:40.229 --> 00:00:40.239 align:start position:0%
+you, creating full documents, making
+ 
+
+00:00:40.239 --> 00:00:41.990 align:start position:0%
+you, creating full documents, making
+entire<00:00:40.640><c> presentations,</c><00:00:41.600><c> writing</c>
+
+00:00:41.990 --> 00:00:42.000 align:start position:0%
+entire presentations, writing
+ 
+
+00:00:42.000 --> 00:00:43.990 align:start position:0%
+entire presentations, writing
+spreadsheets<00:00:42.480><c> with</c><00:00:42.719><c> formulas</c><00:00:43.200><c> already</c><00:00:43.520><c> done.</c>
+
+00:00:43.990 --> 00:00:44.000 align:start position:0%
+spreadsheets with formulas already done.
+ 
+
+00:00:44.000 --> 00:00:45.670 align:start position:0%
+spreadsheets with formulas already done.
+This<00:00:44.160><c> is</c><00:00:44.239><c> a</c><00:00:44.399><c> whole</c><00:00:44.640><c> different</c><00:00:44.879><c> level.</c><00:00:45.520><c> And</c>
+
+00:00:45.670 --> 00:00:45.680 align:start position:0%
+This is a whole different level. And
+ 
+
+00:00:45.680 --> 00:00:47.430 align:start position:0%
+This is a whole different level. And
+here's<00:00:45.920><c> what</c><00:00:46.160><c> makes</c><00:00:46.320><c> this</c><00:00:46.559><c> so</c><00:00:46.719><c> wild.</c><00:00:47.280><c> You</c>
+
+00:00:47.430 --> 00:00:47.440 align:start position:0%
+here's what makes this so wild. You
+ 
+
+00:00:47.440 --> 00:00:49.029 align:start position:0%
+here's what makes this so wild. You
+don't<00:00:47.600><c> have</c><00:00:47.760><c> to</c><00:00:47.840><c> copy</c><00:00:48.239><c> paste</c><00:00:48.480><c> from</c><00:00:48.640><c> some</c><00:00:48.800><c> other</c>
+
+00:00:49.029 --> 00:00:49.039 align:start position:0%
+don't have to copy paste from some other
+ 
+
+00:00:49.039 --> 00:00:50.790 align:start position:0%
+don't have to copy paste from some other
+AI<00:00:49.360><c> tool</c><00:00:49.600><c> anymore.</c><00:00:50.000><c> You</c><00:00:50.160><c> don't</c><00:00:50.320><c> have</c><00:00:50.399><c> to</c><00:00:50.559><c> open</c>
+
+00:00:50.790 --> 00:00:50.800 align:start position:0%
+AI tool anymore. You don't have to open
+ 
+
+00:00:50.800 --> 00:00:53.430 align:start position:0%
+AI tool anymore. You don't have to open
+chat<00:00:51.120><c> GPT</c><00:00:51.600><c> in</c><00:00:51.840><c> one</c><00:00:52.000><c> tab,</c><00:00:52.640><c> then</c><00:00:52.800><c> go</c><00:00:52.960><c> to</c><00:00:53.120><c> Google</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+chat GPT in one tab, then go to Google
+ 
+
+00:00:53.440 --> 00:00:55.110 align:start position:0%
+chat GPT in one tab, then go to Google
+Docs<00:00:53.760><c> in</c><00:00:53.920><c> another</c><00:00:54.160><c> tab,</c><00:00:54.559><c> then</c><00:00:54.719><c> format</c>
+
+00:00:55.110 --> 00:00:55.120 align:start position:0%
+Docs in another tab, then format
+ 
+
+00:00:55.120 --> 00:00:57.350 align:start position:0%
+Docs in another tab, then format
+everything<00:00:55.440><c> yourself.</c><00:00:56.160><c> Gemini</c><00:00:56.719><c> does</c><00:00:56.960><c> it</c><00:00:57.120><c> all</c>
+
+00:00:57.350 --> 00:00:57.360 align:start position:0%
+everything yourself. Gemini does it all
+ 
+
+00:00:57.360 --> 00:00:59.590 align:start position:0%
+everything yourself. Gemini does it all
+inside<00:00:57.760><c> the</c><00:00:58.000><c> app.</c><00:00:58.559><c> Right</c><00:00:58.800><c> there,</c><00:00:59.120><c> one</c><00:00:59.359><c> step</c>
+
+00:00:59.590 --> 00:00:59.600 align:start position:0%
+inside the app. Right there, one step
+ 
+
+00:00:59.600 --> 00:01:02.069 align:start position:0%
+inside the app. Right there, one step
+done.<00:00:59.920><c> Let</c><00:01:00.079><c> me</c><00:01:00.160><c> show</c><00:01:00.320><c> you</c><00:01:00.399><c> what</c><00:01:00.559><c> I</c><00:01:00.719><c> mean.</c><00:01:01.760><c> So,</c>
+
+00:01:02.069 --> 00:01:02.079 align:start position:0%
+done. Let me show you what I mean. So,
+ 
+
+00:01:02.079 --> 00:01:04.390 align:start position:0%
+done. Let me show you what I mean. So,
+first<00:01:02.239><c> up,</c><00:01:02.559><c> Google</c><00:01:02.879><c> Drive.</c>
+
+00:01:04.390 --> 00:01:04.400 align:start position:0%
+first up, Google Drive.
+ 
+
+00:01:04.400 --> 00:01:06.870 align:start position:0%
+first up, Google Drive.
+Drive<00:01:04.799><c> now</c><00:01:05.199><c> has</c><00:01:05.519><c> something</c><00:01:05.840><c> called</c><00:01:06.320><c> AI</c>
+
+00:01:06.870 --> 00:01:06.880 align:start position:0%
+Drive now has something called AI
+ 
+
+00:01:06.880 --> 00:01:09.270 align:start position:0%
+Drive now has something called AI
+overviews.<00:01:08.080><c> Basically,</c><00:01:08.560><c> you</c><00:01:08.799><c> can</c><00:01:08.880><c> search</c><00:01:09.119><c> for</c>
+
+00:01:09.270 --> 00:01:09.280 align:start position:0%
+overviews. Basically, you can search for
+ 
+
+00:01:09.280 --> 00:01:11.270 align:start position:0%
+overviews. Basically, you can search for
+anything<00:01:09.520><c> in</c><00:01:09.680><c> your</c><00:01:09.840><c> drive,</c><00:01:10.320><c> and</c><00:01:10.560><c> Gemini</c><00:01:11.119><c> will</c>
+
+00:01:11.270 --> 00:01:11.280 align:start position:0%
+anything in your drive, and Gemini will
+ 
+
+00:01:11.280 --> 00:01:13.190 align:start position:0%
+anything in your drive, and Gemini will
+read<00:01:11.520><c> through</c><00:01:11.760><c> your</c><00:01:11.920><c> files,</c><00:01:12.640><c> pull</c><00:01:12.880><c> out</c><00:01:13.040><c> the</c>
+
+00:01:13.190 --> 00:01:13.200 align:start position:0%
+read through your files, pull out the
+ 
+
+00:01:13.200 --> 00:01:15.590 align:start position:0%
+read through your files, pull out the
+important<00:01:13.600><c> stuff,</c><00:01:14.240><c> and</c><00:01:14.479><c> give</c><00:01:14.560><c> you</c><00:01:14.720><c> a</c><00:01:14.960><c> summary.</c>
+
+00:01:15.590 --> 00:01:15.600 align:start position:0%
+important stuff, and give you a summary.
+ 
+
+00:01:15.600 --> 00:01:17.270 align:start position:0%
+important stuff, and give you a summary.
+So<00:01:15.840><c> instead</c><00:01:16.080><c> of</c><00:01:16.240><c> clicking</c><00:01:16.640><c> through</c><00:01:17.040><c> 20</c>
+
+00:01:17.270 --> 00:01:17.280 align:start position:0%
+So instead of clicking through 20
+ 
+
+00:01:17.280 --> 00:01:19.190 align:start position:0%
+So instead of clicking through 20
+folders<00:01:17.759><c> trying</c><00:01:17.920><c> to</c><00:01:18.159><c> find</c><00:01:18.400><c> that</c><00:01:18.640><c> one</c><00:01:18.880><c> document</c>
+
+00:01:19.190 --> 00:01:19.200 align:start position:0%
+folders trying to find that one document
+ 
+
+00:01:19.200 --> 00:01:22.070 align:start position:0%
+folders trying to find that one document
+from<00:01:19.439><c> 3</c><00:01:19.680><c> weeks</c><00:01:19.920><c> ago,</c><00:01:20.640><c> you</c><00:01:20.960><c> just</c><00:01:21.200><c> ask</c><00:01:21.840><c> and</c>
+
+00:01:22.070 --> 00:01:22.080 align:start position:0%
+from 3 weeks ago, you just ask and
+ 
+
+00:01:22.080 --> 00:01:24.630 align:start position:0%
+from 3 weeks ago, you just ask and
+Gemini<00:01:22.640><c> finds</c><00:01:22.880><c> it,</c><00:01:23.280><c> reads</c><00:01:23.600><c> it,</c><00:01:24.080><c> summarizes</c>
+
+00:01:24.630 --> 00:01:24.640 align:start position:0%
+Gemini finds it, reads it, summarizes
+ 
+
+00:01:24.640 --> 00:01:26.390 align:start position:0%
+Gemini finds it, reads it, summarizes
+it,<00:01:25.040><c> tells</c><00:01:25.280><c> you</c><00:01:25.520><c> exactly</c><00:01:25.840><c> what</c><00:01:26.000><c> you</c><00:01:26.159><c> need</c><00:01:26.240><c> to</c>
+
+00:01:26.390 --> 00:01:26.400 align:start position:0%
+it, tells you exactly what you need to
+ 
+
+00:01:26.400 --> 00:01:29.190 align:start position:0%
+it, tells you exactly what you need to
+know.<00:01:26.720><c> Drive</c><00:01:27.119><c> basically</c><00:01:28.000><c> just</c><00:01:28.240><c> became</c><00:01:28.560><c> an</c><00:01:28.720><c> AI</c>
+
+00:01:29.190 --> 00:01:29.200 align:start position:0%
+know. Drive basically just became an AI
+ 
+
+00:01:29.200 --> 00:01:31.590 align:start position:0%
+know. Drive basically just became an AI
+powered<00:01:29.520><c> knowledge</c><00:01:29.840><c> base,</c><00:01:30.479><c> which</c><00:01:30.720><c> is</c><00:01:30.880><c> nuts.</c>
+
+00:01:31.590 --> 00:01:31.600 align:start position:0%
+powered knowledge base, which is nuts.
+ 
+
+00:01:31.600 --> 00:01:33.190 align:start position:0%
+powered knowledge base, which is nuts.
+Now,<00:01:31.840><c> let's</c><00:01:32.079><c> talk</c><00:01:32.240><c> about</c><00:01:32.479><c> slides</c><00:01:32.960><c> because</c>
+
+00:01:33.190 --> 00:01:33.200 align:start position:0%
+Now, let's talk about slides because
+ 
+
+00:01:33.200 --> 00:01:35.429 align:start position:0%
+Now, let's talk about slides because
+this<00:01:33.439><c> one</c><00:01:33.600><c> blew</c><00:01:33.840><c> my</c><00:01:34.079><c> mind.</c><00:01:34.640><c> You</c><00:01:34.799><c> can</c><00:01:34.960><c> type</c><00:01:35.200><c> what</c>
+
+00:01:35.429 --> 00:01:35.439 align:start position:0%
+this one blew my mind. You can type what
+ 
+
+00:01:35.439 --> 00:01:37.590 align:start position:0%
+this one blew my mind. You can type what
+kind<00:01:35.600><c> of</c><00:01:35.759><c> presentation</c><00:01:36.320><c> you</c><00:01:36.560><c> want</c><00:01:36.799><c> and</c><00:01:37.040><c> Gemini</c>
+
+00:01:37.590 --> 00:01:37.600 align:start position:0%
+kind of presentation you want and Gemini
+ 
+
+00:01:37.600 --> 00:01:39.109 align:start position:0%
+kind of presentation you want and Gemini
+will<00:01:37.759><c> build</c><00:01:38.000><c> the</c><00:01:38.240><c> entire</c><00:01:38.400><c> thing.</c><00:01:38.720><c> I'm</c><00:01:38.880><c> talking</c>
+
+00:01:39.109 --> 00:01:39.119 align:start position:0%
+will build the entire thing. I'm talking
+ 
+
+00:01:39.119 --> 00:01:41.749 align:start position:0%
+will build the entire thing. I'm talking
+slide<00:01:39.520><c> structure,</c><00:01:40.240><c> text</c><00:01:40.560><c> on</c><00:01:40.799><c> every</c><00:01:41.040><c> slide,</c>
+
+00:01:41.749 --> 00:01:41.759 align:start position:0%
+slide structure, text on every slide,
+ 
+
+00:01:41.759 --> 00:01:44.149 align:start position:0%
+slide structure, text on every slide,
+design,<00:01:42.240><c> visuals,</c><00:01:42.799><c> even</c><00:01:43.119><c> speaker</c><00:01:43.439><c> notes.</c><00:01:43.920><c> And</c>
+
+00:01:44.149 --> 00:01:44.159 align:start position:0%
+design, visuals, even speaker notes. And
+ 
+
+00:01:44.159 --> 00:01:45.749 align:start position:0%
+design, visuals, even speaker notes. And
+these<00:01:44.400><c> aren't</c><00:01:44.560><c> lock</c><00:01:44.880><c> templates</c><00:01:45.360><c> you</c><00:01:45.600><c> can't</c>
+
+00:01:45.749 --> 00:01:45.759 align:start position:0%
+these aren't lock templates you can't
+ 
+
+00:01:45.759 --> 00:01:48.069 align:start position:0%
+these aren't lock templates you can't
+touch.<00:01:46.159><c> These</c><00:01:46.399><c> are</c><00:01:46.479><c> fully</c><00:01:46.799><c> editable</c><00:01:47.360><c> slides.</c>
+
+00:01:48.069 --> 00:01:48.079 align:start position:0%
+touch. These are fully editable slides.
+ 
+
+00:01:48.079 --> 00:01:49.990 align:start position:0%
+touch. These are fully editable slides.
+You<00:01:48.240><c> can</c><00:01:48.399><c> change</c><00:01:48.720><c> anything</c><00:01:49.040><c> you</c><00:01:49.280><c> want.</c><00:01:49.759><c> Move</c>
+
+00:01:49.990 --> 00:01:50.000 align:start position:0%
+You can change anything you want. Move
+ 
+
+00:01:50.000 --> 00:01:51.670 align:start position:0%
+You can change anything you want. Move
+stuff<00:01:50.240><c> around,</c><00:01:50.720><c> add</c><00:01:50.880><c> your</c><00:01:51.040><c> own</c><00:01:51.200><c> brand,</c>
+
+00:01:51.670 --> 00:01:51.680 align:start position:0%
+stuff around, add your own brand,
+ 
+
+00:01:51.680 --> 00:01:53.670 align:start position:0%
+stuff around, add your own brand,
+whatever.<00:01:52.240><c> But</c><00:01:52.399><c> the</c><00:01:52.560><c> first</c><00:01:52.799><c> draft</c><00:01:53.200><c> done</c><00:01:53.439><c> in</c>
+
+00:01:53.670 --> 00:01:53.680 align:start position:0%
+whatever. But the first draft done in
+ 
+
+00:01:53.680 --> 00:01:55.030 align:start position:0%
+whatever. But the first draft done in
+seconds.<00:01:54.079><c> Think</c><00:01:54.320><c> about</c><00:01:54.479><c> how</c><00:01:54.640><c> long</c><00:01:54.799><c> it</c>
+
+00:01:55.030 --> 00:01:55.040 align:start position:0%
+seconds. Think about how long it
+ 
+
+00:01:55.040 --> 00:01:56.630 align:start position:0%
+seconds. Think about how long it
+normally<00:01:55.360><c> takes</c><00:01:55.600><c> to</c><00:01:55.759><c> build</c><00:01:55.920><c> a</c><00:01:56.159><c> presentation</c>
+
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+normally takes to build a presentation
+ 
+
+00:01:56.640 --> 00:01:58.149 align:start position:0%
+normally takes to build a presentation
+from<00:01:56.880><c> scratch.</c><00:01:57.360><c> Now</c><00:01:57.600><c> it's</c><00:01:57.759><c> basically</c>
+
+00:01:58.149 --> 00:01:58.159 align:start position:0%
+from scratch. Now it's basically
+ 
+
+00:01:58.159 --> 00:02:00.149 align:start position:0%
+from scratch. Now it's basically
+instant.<00:01:58.719><c> That</c><00:01:58.960><c> alone</c><00:01:59.280><c> saves</c><00:01:59.520><c> you</c><00:01:59.680><c> hours.</c><00:02:00.000><c> But</c>
+
+00:02:00.149 --> 00:02:00.159 align:start position:0%
+instant. That alone saves you hours. But
+ 
+
+00:02:00.159 --> 00:02:01.830 align:start position:0%
+instant. That alone saves you hours. But
+wait,<00:02:00.399><c> it</c><00:02:00.560><c> gets</c><00:02:00.719><c> better.</c><00:02:01.280><c> Let</c><00:02:01.439><c> me</c><00:02:01.600><c> tell</c><00:02:01.680><c> you</c>
+
+00:02:01.830 --> 00:02:01.840 align:start position:0%
+wait, it gets better. Let me tell you
+ 
+
+00:02:01.840 --> 00:02:03.910 align:start position:0%
+wait, it gets better. Let me tell you
+about<00:02:02.000><c> what</c><00:02:02.159><c> they</c><00:02:02.399><c> did</c><00:02:02.640><c> with</c><00:02:02.880><c> Docs</c><00:02:03.600><c> because</c>
+
+00:02:03.910 --> 00:02:03.920 align:start position:0%
+about what they did with Docs because
+ 
+
+00:02:03.920 --> 00:02:05.910 align:start position:0%
+about what they did with Docs because
+this<00:02:04.159><c> is</c><00:02:04.240><c> where</c><00:02:04.479><c> it</c><00:02:04.640><c> gets</c><00:02:04.880><c> really</c><00:02:05.200><c> smart.</c><00:02:05.680><c> Hey,</c>
+
+00:02:05.910 --> 00:02:05.920 align:start position:0%
+this is where it gets really smart. Hey,
+ 
+
+00:02:05.920 --> 00:02:07.910 align:start position:0%
+this is where it gets really smart. Hey,
+if<00:02:06.159><c> we</c><00:02:06.399><c> haven't</c><00:02:06.560><c> met</c><00:02:06.880><c> already,</c><00:02:07.439><c> I'm</c><00:02:07.759><c> the</c>
+
+00:02:07.910 --> 00:02:07.920 align:start position:0%
+if we haven't met already, I'm the
+ 
+
+00:02:07.920 --> 00:02:10.710 align:start position:0%
+if we haven't met already, I'm the
+digital<00:02:08.399><c> avatar</c><00:02:08.879><c> of</c><00:02:09.039><c> Julian</c><00:02:09.520><c> Goldie,</c><00:02:10.160><c> CEO</c><00:02:10.479><c> of</c>
+
+00:02:10.710 --> 00:02:10.720 align:start position:0%
+digital avatar of Julian Goldie, CEO of
+ 
+
+00:02:10.720 --> 00:02:12.710 align:start position:0%
+digital avatar of Julian Goldie, CEO of
+Goldie<00:02:11.120><c> Agency.</c><00:02:11.840><c> Whilst</c><00:02:12.160><c> he's</c><00:02:12.400><c> helping</c>
+
+00:02:12.710 --> 00:02:12.720 align:start position:0%
+Goldie Agency. Whilst he's helping
+ 
+
+00:02:12.720 --> 00:02:14.710 align:start position:0%
+Goldie Agency. Whilst he's helping
+clients<00:02:13.120><c> get</c><00:02:13.280><c> more</c><00:02:13.520><c> leads</c><00:02:13.760><c> and</c><00:02:14.000><c> customers,</c>
+
+00:02:14.710 --> 00:02:14.720 align:start position:0%
+clients get more leads and customers,
+ 
+
+00:02:14.720 --> 00:02:16.949 align:start position:0%
+clients get more leads and customers,
+I'm<00:02:14.959><c> here</c><00:02:15.120><c> to</c><00:02:15.280><c> help</c><00:02:15.440><c> you</c><00:02:15.680><c> get</c><00:02:15.920><c> the</c><00:02:16.160><c> latest</c><00:02:16.560><c> AI</c>
+
+00:02:16.949 --> 00:02:16.959 align:start position:0%
+I'm here to help you get the latest AI
+ 
+
+00:02:16.959 --> 00:02:19.030 align:start position:0%
+I'm here to help you get the latest AI
+updates.<00:02:17.680><c> Julian</c><00:02:18.160><c> Goldie</c><00:02:18.560><c> reads</c><00:02:18.800><c> every</c>
+
+00:02:19.030 --> 00:02:19.040 align:start position:0%
+updates. Julian Goldie reads every
+ 
+
+00:02:19.040 --> 00:02:20.470 align:start position:0%
+updates. Julian Goldie reads every
+single<00:02:19.280><c> comment,</c><00:02:19.520><c> so</c><00:02:19.760><c> make</c><00:02:19.840><c> sure</c><00:02:20.000><c> you</c><00:02:20.160><c> drop</c><00:02:20.319><c> a</c>
+
+00:02:20.470 --> 00:02:20.480 align:start position:0%
+single comment, so make sure you drop a
+ 
+
+00:02:20.480 --> 00:02:22.790 align:start position:0%
+single comment, so make sure you drop a
+comment<00:02:20.720><c> below.</c><00:02:21.280><c> Okay,</c><00:02:21.520><c> so</c><00:02:21.760><c> back</c><00:02:21.920><c> to</c><00:02:22.080><c> docs.</c>
+
+00:02:22.790 --> 00:02:22.800 align:start position:0%
+comment below. Okay, so back to docs.
+ 
+
+00:02:22.800 --> 00:02:24.790 align:start position:0%
+comment below. Okay, so back to docs.
+Google<00:02:23.200><c> added</c><00:02:23.599><c> something</c><00:02:23.920><c> called</c><00:02:24.239><c> grounding</c>
+
+00:02:24.790 --> 00:02:24.800 align:start position:0%
+Google added something called grounding
+ 
+
+00:02:24.800 --> 00:02:27.190 align:start position:0%
+Google added something called grounding
+sources,<00:02:25.599><c> and</c><00:02:25.760><c> this</c><00:02:26.080><c> changes</c><00:02:26.640><c> everything.</c>
+
+00:02:27.190 --> 00:02:27.200 align:start position:0%
+sources, and this changes everything.
+ 
+
+00:02:27.200 --> 00:02:29.430 align:start position:0%
+sources, and this changes everything.
+So,<00:02:27.760><c> normally</c><00:02:28.080><c> when</c><00:02:28.319><c> you</c><00:02:28.400><c> ask</c><00:02:28.640><c> AI</c><00:02:29.040><c> to</c><00:02:29.200><c> write</c>
+
+00:02:29.430 --> 00:02:29.440 align:start position:0%
+So, normally when you ask AI to write
+ 
+
+00:02:29.440 --> 00:02:31.190 align:start position:0%
+So, normally when you ask AI to write
+something,<00:02:29.760><c> it</c><00:02:29.920><c> just</c><00:02:30.080><c> uses</c><00:02:30.560><c> whatever</c><00:02:30.959><c> it</c>
+
+00:02:31.190 --> 00:02:31.200 align:start position:0%
+something, it just uses whatever it
+ 
+
+00:02:31.200 --> 00:02:32.869 align:start position:0%
+something, it just uses whatever it
+already<00:02:31.440><c> knows,</c><00:02:31.840><c> generic</c><00:02:32.239><c> stuff.</c><00:02:32.560><c> But</c><00:02:32.720><c> with</c>
+
+00:02:32.869 --> 00:02:32.879 align:start position:0%
+already knows, generic stuff. But with
+ 
+
+00:02:32.879 --> 00:02:35.430 align:start position:0%
+already knows, generic stuff. But with
+grounding<00:02:33.360><c> sources,</c><00:02:34.160><c> Gemini</c><00:02:34.720><c> actually</c><00:02:35.120><c> reads</c>
+
+00:02:35.430 --> 00:02:35.440 align:start position:0%
+grounding sources, Gemini actually reads
+ 
+
+00:02:35.440 --> 00:02:37.270 align:start position:0%
+grounding sources, Gemini actually reads
+your<00:02:35.599><c> Gmail,</c><00:02:36.160><c> your</c><00:02:36.400><c> drive</c><00:02:36.720><c> files,</c><00:02:37.120><c> your</c>
+
+00:02:37.270 --> 00:02:37.280 align:start position:0%
+your Gmail, your drive files, your
+ 
+
+00:02:37.280 --> 00:02:39.509 align:start position:0%
+your Gmail, your drive files, your
+Sheets<00:02:37.599><c> data,</c><00:02:38.000><c> your</c><00:02:38.239><c> chat</c><00:02:38.560><c> conversations,</c>
+
+00:02:39.509 --> 00:02:39.519 align:start position:0%
+Sheets data, your chat conversations,
+ 
+
+00:02:39.519 --> 00:02:41.750 align:start position:0%
+Sheets data, your chat conversations,
+even<00:02:39.920><c> web</c><00:02:40.239><c> results,</c><00:02:40.879><c> and</c><00:02:41.040><c> then</c><00:02:41.200><c> it</c><00:02:41.360><c> writes</c><00:02:41.599><c> a</c>
+
+00:02:41.750 --> 00:02:41.760 align:start position:0%
+even web results, and then it writes a
+ 
+
+00:02:41.760 --> 00:02:43.589 align:start position:0%
+even web results, and then it writes a
+document<00:02:42.080><c> based</c><00:02:42.400><c> on</c><00:02:42.560><c> all</c><00:02:42.720><c> of</c><00:02:42.800><c> that</c><00:02:43.040><c> context.</c>
+
+00:02:43.589 --> 00:02:43.599 align:start position:0%
+document based on all of that context.
+ 
+
+00:02:43.599 --> 00:02:45.190 align:start position:0%
+document based on all of that context.
+So<00:02:43.760><c> imagine</c><00:02:44.080><c> this,</c><00:02:44.400><c> you</c><00:02:44.560><c> need</c><00:02:44.640><c> a</c><00:02:44.879><c> project</c>
+
+00:02:45.190 --> 00:02:45.200 align:start position:0%
+So imagine this, you need a project
+ 
+
+00:02:45.200 --> 00:02:47.589 align:start position:0%
+So imagine this, you need a project
+proposal<00:02:46.160><c> based</c><00:02:46.480><c> on</c><00:02:46.640><c> last</c><00:02:46.879><c> month's</c><00:02:47.200><c> report.</c>
+
+00:02:47.589 --> 00:02:47.599 align:start position:0%
+proposal based on last month's report.
+ 
+
+00:02:47.599 --> 00:02:49.030 align:start position:0%
+proposal based on last month's report.
+Normally,<00:02:47.920><c> you'd</c><00:02:48.160><c> have</c><00:02:48.239><c> to</c><00:02:48.400><c> open</c><00:02:48.720><c> five</c>
+
+00:02:49.030 --> 00:02:49.040 align:start position:0%
+Normally, you'd have to open five
+ 
+
+00:02:49.040 --> 00:02:50.630 align:start position:0%
+Normally, you'd have to open five
+different<00:02:49.360><c> files,</c><00:02:50.080><c> read</c><00:02:50.400><c> through</c>
+
+00:02:50.630 --> 00:02:50.640 align:start position:0%
+different files, read through
+ 
+
+00:02:50.640 --> 00:02:52.790 align:start position:0%
+different files, read through
+everything,<00:02:51.360><c> pull</c><00:02:51.599><c> the</c><00:02:51.760><c> numbers</c><00:02:52.080><c> yourself,</c>
+
+00:02:52.790 --> 00:02:52.800 align:start position:0%
+everything, pull the numbers yourself,
+ 
+
+00:02:52.800 --> 00:02:54.470 align:start position:0%
+everything, pull the numbers yourself,
+and<00:02:52.959><c> then</c><00:02:53.200><c> start</c><00:02:53.519><c> writing.</c><00:02:54.080><c> With</c><00:02:54.319><c> this</c>
+
+00:02:54.470 --> 00:02:54.480 align:start position:0%
+and then start writing. With this
+ 
+
+00:02:54.480 --> 00:02:56.630 align:start position:0%
+and then start writing. With this
+update,<00:02:55.120><c> Gemini</c><00:02:55.680><c> goes</c><00:02:55.840><c> into</c><00:02:56.080><c> your</c><00:02:56.239><c> files,</c>
+
+00:02:56.630 --> 00:02:56.640 align:start position:0%
+update, Gemini goes into your files,
+ 
+
+00:02:56.640 --> 00:02:58.630 align:start position:0%
+update, Gemini goes into your files,
+reads<00:02:56.879><c> the</c><00:02:57.040><c> data,</c><00:02:57.360><c> pulls</c><00:02:57.680><c> what</c><00:02:57.840><c> it</c><00:02:58.000><c> needs,</c><00:02:58.400><c> and</c>
+
+00:02:58.630 --> 00:02:58.640 align:start position:0%
+reads the data, pulls what it needs, and
+ 
+
+00:02:58.640 --> 00:03:00.869 align:start position:0%
+reads the data, pulls what it needs, and
+writes<00:02:58.959><c> you</c><00:02:59.200><c> a</c><00:02:59.440><c> fully</c><00:02:59.760><c> formatted</c><00:03:00.400><c> proposal</c>
+
+00:03:00.869 --> 00:03:00.879 align:start position:0%
+writes you a fully formatted proposal
+ 
+
+00:03:00.879 --> 00:03:02.949 align:start position:0%
+writes you a fully formatted proposal
+with<00:03:01.120><c> real</c><00:03:01.360><c> info</c><00:03:01.760><c> from</c><00:03:01.920><c> your</c><00:03:02.159><c> real</c><00:03:02.400><c> files.</c>
+
+00:03:02.949 --> 00:03:02.959 align:start position:0%
+with real info from your real files.
+ 
+
+00:03:02.959 --> 00:03:05.190 align:start position:0%
+with real info from your real files.
+That's<00:03:03.200><c> not</c><00:03:03.360><c> generic</c><00:03:03.760><c> AI</c><00:03:04.159><c> writing.</c><00:03:04.640><c> That's</c><00:03:04.879><c> AI</c>
+
+00:03:05.190 --> 00:03:05.200 align:start position:0%
+That's not generic AI writing. That's AI
+ 
+
+00:03:05.200 --> 00:03:06.550 align:start position:0%
+That's not generic AI writing. That's AI
+that<00:03:05.440><c> actually</c><00:03:05.760><c> knows</c><00:03:06.000><c> your</c><00:03:06.239><c> business.</c>
+
+00:03:06.550 --> 00:03:06.560 align:start position:0%
+that actually knows your business.
+ 
+
+00:03:06.560 --> 00:03:07.990 align:start position:0%
+that actually knows your business.
+That's<00:03:06.720><c> a</c><00:03:06.879><c> game</c><00:03:07.040><c> changer</c><00:03:07.360><c> for</c><00:03:07.519><c> anyone</c><00:03:07.840><c> running</c>
+
+00:03:07.990 --> 00:03:08.000 align:start position:0%
+That's a game changer for anyone running
+ 
+
+00:03:08.000 --> 00:03:10.790 align:start position:0%
+That's a game changer for anyone running
+a<00:03:08.239><c> team</c><00:03:08.720><c> or</c><00:03:09.040><c> a</c><00:03:09.280><c> company.</c><00:03:10.000><c> And</c><00:03:10.159><c> here's</c><00:03:10.400><c> the</c><00:03:10.560><c> wild</c>
+
+00:03:10.790 --> 00:03:10.800 align:start position:0%
+a team or a company. And here's the wild
+ 
+
+00:03:10.800 --> 00:03:13.110 align:start position:0%
+a team or a company. And here's the wild
+part.<00:03:11.120><c> It</c><00:03:11.280><c> doesn't</c><00:03:11.519><c> just</c><00:03:11.680><c> read</c><00:03:12.000><c> one</c><00:03:12.239><c> file.</c><00:03:12.879><c> It</c>
+
+00:03:13.110 --> 00:03:13.120 align:start position:0%
+part. It doesn't just read one file. It
+ 
+
+00:03:13.120 --> 00:03:15.430 align:start position:0%
+part. It doesn't just read one file. It
+connects<00:03:13.519><c> everything.</c><00:03:14.239><c> Your</c><00:03:14.480><c> emails,</c><00:03:15.200><c> your</c>
+
+00:03:15.430 --> 00:03:15.440 align:start position:0%
+connects everything. Your emails, your
+ 
+
+00:03:15.440 --> 00:03:18.229 align:start position:0%
+connects everything. Your emails, your
+docs,<00:03:16.159><c> your</c><00:03:16.400><c> spreadsheets,</c><00:03:17.120><c> your</c><00:03:17.280><c> chats.</c><00:03:18.000><c> It</c>
+
+00:03:18.229 --> 00:03:18.239 align:start position:0%
+docs, your spreadsheets, your chats. It
+ 
+
+00:03:18.239 --> 00:03:19.910 align:start position:0%
+docs, your spreadsheets, your chats. It
+takes<00:03:18.480><c> all</c><00:03:18.640><c> of</c><00:03:18.800><c> that</c><00:03:18.959><c> and</c><00:03:19.200><c> uses</c><00:03:19.519><c> it</c><00:03:19.680><c> as</c>
+
+00:03:19.910 --> 00:03:19.920 align:start position:0%
+takes all of that and uses it as
+ 
+
+00:03:19.920 --> 00:03:21.990 align:start position:0%
+takes all of that and uses it as
+context.<00:03:20.720><c> So,</c><00:03:20.879><c> the</c><00:03:21.040><c> output</c><00:03:21.440><c> actually</c><00:03:21.760><c> makes</c>
+
+00:03:21.990 --> 00:03:22.000 align:start position:0%
+context. So, the output actually makes
+ 
+
+00:03:22.000 --> 00:03:24.390 align:start position:0%
+context. So, the output actually makes
+sense<00:03:22.239><c> for</c><00:03:22.480><c> your</c><00:03:22.720><c> specific</c><00:03:23.120><c> situation.</c><00:03:24.080><c> No</c>
+
+00:03:24.390 --> 00:03:24.400 align:start position:0%
+sense for your specific situation. No
+ 
+
+00:03:24.400 --> 00:03:26.390 align:start position:0%
+sense for your specific situation. No
+other<00:03:24.560><c> AI</c><00:03:24.959><c> tool</c><00:03:25.280><c> does</c><00:03:25.440><c> this</c><00:03:25.680><c> right</c><00:03:25.920><c> now.</c><00:03:26.239><c> Not</c>
+
+00:03:26.390 --> 00:03:26.400 align:start position:0%
+other AI tool does this right now. Not
+ 
+
+00:03:26.400 --> 00:03:28.229 align:start position:0%
+other AI tool does this right now. Not
+like<00:03:26.640><c> this.</c><00:03:27.200><c> Now,</c><00:03:27.440><c> here's</c><00:03:27.680><c> the</c><00:03:27.840><c> thing.</c><00:03:28.080><c> If</c>
+
+00:03:28.229 --> 00:03:28.239 align:start position:0%
+like this. Now, here's the thing. If
+ 
+
+00:03:28.239 --> 00:03:29.509 align:start position:0%
+like this. Now, here's the thing. If
+you're<00:03:28.480><c> watching</c><00:03:28.720><c> this</c><00:03:28.879><c> and</c><00:03:29.120><c> thinking,</c>
+
+00:03:29.509 --> 00:03:29.519 align:start position:0%
+you're watching this and thinking,
+ 
+
+00:03:29.519 --> 00:03:31.110 align:start position:0%
+you're watching this and thinking,
+"Okay,<00:03:29.920><c> this</c><00:03:30.080><c> is</c><00:03:30.239><c> cool,</c><00:03:30.400><c> but</c><00:03:30.640><c> how</c><00:03:30.799><c> do</c><00:03:30.879><c> I</c>
+
+00:03:31.110 --> 00:03:31.120 align:start position:0%
+"Okay, this is cool, but how do I
+ 
+
+00:03:31.120 --> 00:03:33.350 align:start position:0%
+"Okay, this is cool, but how do I
+actually<00:03:31.440><c> use</c><00:03:31.680><c> AI</c><00:03:32.080><c> like</c><00:03:32.319><c> Gemini</c><00:03:32.799><c> to</c><00:03:32.959><c> automate</c>
+
+00:03:33.350 --> 00:03:33.360 align:start position:0%
+actually use AI like Gemini to automate
+ 
+
+00:03:33.360 --> 00:03:35.509 align:start position:0%
+actually use AI like Gemini to automate
+my<00:03:33.599><c> workflows</c><00:03:34.239><c> and</c><00:03:34.560><c> get</c><00:03:34.720><c> more</c><00:03:34.959><c> customers?"</c>
+
+00:03:35.509 --> 00:03:35.519 align:start position:0%
+my workflows and get more customers?"
+ 
+
+00:03:35.519 --> 00:03:37.430 align:start position:0%
+my workflows and get more customers?"
+Then<00:03:35.680><c> you</c><00:03:35.840><c> need</c><00:03:35.920><c> to</c><00:03:36.080><c> check</c><00:03:36.239><c> out</c><00:03:36.400><c> the</c><00:03:36.640><c> AI</c><00:03:37.040><c> Profit</c>
+
+00:03:37.430 --> 00:03:37.440 align:start position:0%
+Then you need to check out the AI Profit
+ 
+
+00:03:37.440 --> 00:03:39.030 align:start position:0%
+Then you need to check out the AI Profit
+Boardroom.<00:03:37.920><c> It's</c><00:03:38.159><c> the</c><00:03:38.319><c> best</c><00:03:38.480><c> place</c><00:03:38.640><c> to</c><00:03:38.879><c> learn</c>
+
+00:03:39.030 --> 00:03:39.040 align:start position:0%
+Boardroom. It's the best place to learn
+ 
+
+00:03:39.040 --> 00:03:41.110 align:start position:0%
+Boardroom. It's the best place to learn
+how<00:03:39.200><c> to</c><00:03:39.360><c> use</c><00:03:39.599><c> tools</c><00:03:39.840><c> like</c><00:03:40.159><c> Google</c><00:03:40.400><c> Gemini</c><00:03:40.959><c> to</c>
+
+00:03:41.110 --> 00:03:41.120 align:start position:0%
+how to use tools like Google Gemini to
+ 
+
+00:03:41.120 --> 00:03:42.949 align:start position:0%
+how to use tools like Google Gemini to
+automate<00:03:41.519><c> your</c><00:03:41.680><c> business</c><00:03:42.159><c> and</c><00:03:42.400><c> stay</c><00:03:42.560><c> ahead</c><00:03:42.799><c> of</c>
+
+00:03:42.949 --> 00:03:42.959 align:start position:0%
+automate your business and stay ahead of
+ 
+
+00:03:42.959 --> 00:03:45.670 align:start position:0%
+automate your business and stay ahead of
+everyone<00:03:43.280><c> else.</c><00:03:43.680><c> I'll</c><00:03:44.000><c> drop</c><00:03:44.159><c> the</c><00:03:44.319><c> link</c><00:03:44.799><c> in</c><00:03:45.200><c> the</c>
+
+00:03:45.670 --> 00:03:45.680 align:start position:0%
+everyone else. I'll drop the link in the
+ 
+
+00:03:45.680 --> 00:03:47.430 align:start position:0%
+everyone else. I'll drop the link in the
+description<00:03:46.239><c> and</c><00:03:46.560><c> comments.</c><00:03:46.879><c> If</c><00:03:47.040><c> you</c><00:03:47.200><c> want</c><00:03:47.280><c> to</c>
+
+00:03:47.430 --> 00:03:47.440 align:start position:0%
+description and comments. If you want to
+ 
+
+00:03:47.440 --> 00:03:49.110 align:start position:0%
+description and comments. If you want to
+actually<00:03:47.680><c> put</c><00:03:47.840><c> these</c><00:03:48.080><c> AI</c><00:03:48.400><c> updates</c><00:03:48.720><c> to</c><00:03:48.879><c> work,</c>
+
+00:03:49.110 --> 00:03:49.120 align:start position:0%
+actually put these AI updates to work,
+ 
+
+00:03:49.120 --> 00:03:50.789 align:start position:0%
+actually put these AI updates to work,
+that's<00:03:49.280><c> where</c><00:03:49.440><c> you</c><00:03:49.599><c> need</c><00:03:49.760><c> to</c><00:03:49.920><c> be.</c><00:03:50.480><c> All</c><00:03:50.480><c> right,</c>
+
+00:03:50.789 --> 00:03:50.799 align:start position:0%
+that's where you need to be. All right,
+ 
+
+00:03:50.799 --> 00:03:52.710 align:start position:0%
+that's where you need to be. All right,
+let's<00:03:51.040><c> keep</c><00:03:51.280><c> going</c><00:03:51.680><c> because</c><00:03:52.000><c> Sheets</c><00:03:52.400><c> got</c><00:03:52.560><c> a</c>
+
+00:03:52.710 --> 00:03:52.720 align:start position:0%
+let's keep going because Sheets got a
+ 
+
+00:03:52.720 --> 00:03:55.030 align:start position:0%
+let's keep going because Sheets got a
+massive<00:03:53.040><c> upgrade,</c><00:03:53.519><c> too.</c><00:03:54.080><c> So,</c><00:03:54.319><c> in</c><00:03:54.560><c> Sheets,</c>
+
+00:03:55.030 --> 00:03:55.040 align:start position:0%
+massive upgrade, too. So, in Sheets,
+ 
+
+00:03:55.040 --> 00:03:57.270 align:start position:0%
+massive upgrade, too. So, in Sheets,
+Gemini<00:03:55.599><c> can</c><00:03:55.760><c> now</c><00:03:56.000><c> build</c><00:03:56.319><c> entire</c><00:03:56.720><c> spreadsheets</c>
+
+00:03:57.270 --> 00:03:57.280 align:start position:0%
+Gemini can now build entire spreadsheets
+ 
+
+00:03:57.280 --> 00:03:58.949 align:start position:0%
+Gemini can now build entire spreadsheets
+for<00:03:57.439><c> you.</c><00:03:57.680><c> You</c><00:03:57.840><c> tell</c><00:03:58.000><c> it</c><00:03:58.159><c> what</c><00:03:58.319><c> you</c><00:03:58.480><c> need,</c><00:03:58.720><c> a</c>
+
+00:03:58.949 --> 00:03:58.959 align:start position:0%
+for you. You tell it what you need, a
+ 
+
+00:03:58.959 --> 00:04:01.830 align:start position:0%
+for you. You tell it what you need, a
+tracker,<00:03:59.599><c> a</c><00:03:59.920><c> schedule,</c><00:04:00.560><c> a</c><00:04:00.799><c> data</c><00:04:01.120><c> organizer,</c>
+
+00:04:01.830 --> 00:04:01.840 align:start position:0%
+tracker, a schedule, a data organizer,
+ 
+
+00:04:01.840 --> 00:04:03.190 align:start position:0%
+tracker, a schedule, a data organizer,
+whatever.<00:04:02.239><c> And</c><00:04:02.400><c> it</c><00:04:02.560><c> creates</c><00:04:02.799><c> the</c><00:04:03.040><c> whole</c>
+
+00:04:03.190 --> 00:04:03.200 align:start position:0%
+whatever. And it creates the whole
+ 
+
+00:04:03.200 --> 00:04:06.710 align:start position:0%
+whatever. And it creates the whole
+thing,<00:04:04.239><c> columns,</c><00:04:05.120><c> rows,</c><00:04:05.599><c> formulas,</c><00:04:06.239><c> tables,</c>
+
+00:04:06.710 --> 00:04:06.720 align:start position:0%
+thing, columns, rows, formulas, tables,
+ 
+
+00:04:06.720 --> 00:04:08.390 align:start position:0%
+thing, columns, rows, formulas, tables,
+all<00:04:06.959><c> organized</c><00:04:07.360><c> and</c><00:04:07.599><c> ready</c><00:04:07.760><c> to</c><00:04:07.840><c> go.</c><00:04:08.080><c> It</c><00:04:08.319><c> can</c>
+
+00:04:08.390 --> 00:04:08.400 align:start position:0%
+all organized and ready to go. It can
+ 
+
+00:04:08.400 --> 00:04:10.710 align:start position:0%
+all organized and ready to go. It can
+even<00:04:08.640><c> handle</c><00:04:09.040><c> complex</c><00:04:09.439><c> stuff</c><00:04:09.680><c> like</c>
+
+00:04:10.710 --> 00:04:10.720 align:start position:0%
+even handle complex stuff like
+ 
+
+00:04:10.720 --> 00:04:12.149 align:start position:0%
+even handle complex stuff like
+forecasting.<00:04:11.439><c> So,</c><00:04:11.599><c> if</c><00:04:11.760><c> you</c><00:04:11.920><c> hate</c>
+
+00:04:12.149 --> 00:04:12.159 align:start position:0%
+forecasting. So, if you hate
+ 
+
+00:04:12.159 --> 00:04:13.910 align:start position:0%
+forecasting. So, if you hate
+spreadsheets,<00:04:12.720><c> which</c><00:04:12.959><c> honestly</c><00:04:13.439><c> most</c><00:04:13.680><c> people</c>
+
+00:04:13.910 --> 00:04:13.920 align:start position:0%
+spreadsheets, which honestly most people
+ 
+
+00:04:13.920 --> 00:04:15.990 align:start position:0%
+spreadsheets, which honestly most people
+do,<00:04:14.400><c> Gemini</c><00:04:14.959><c> just</c><00:04:15.120><c> made</c><00:04:15.280><c> your</c><00:04:15.519><c> life</c><00:04:15.760><c> way</c>
+
+00:04:15.990 --> 00:04:16.000 align:start position:0%
+do, Gemini just made your life way
+ 
+
+00:04:16.000 --> 00:04:17.670 align:start position:0%
+do, Gemini just made your life way
+easier.<00:04:16.479><c> You</c><00:04:16.720><c> don't</c><00:04:16.799><c> need</c><00:04:16.959><c> to</c><00:04:17.040><c> know</c><00:04:17.280><c> formulas</c>
+
+00:04:17.670 --> 00:04:17.680 align:start position:0%
+easier. You don't need to know formulas
+ 
+
+00:04:17.680 --> 00:04:19.030 align:start position:0%
+easier. You don't need to know formulas
+anymore.<00:04:18.160><c> You</c><00:04:18.320><c> don't</c><00:04:18.400><c> need</c><00:04:18.560><c> to</c><00:04:18.639><c> watch</c><00:04:18.799><c> a</c>
+
+00:04:19.030 --> 00:04:19.040 align:start position:0%
+anymore. You don't need to watch a
+ 
+
+00:04:19.040 --> 00:04:22.069 align:start position:0%
+anymore. You don't need to watch a
+two-hour<00:04:19.519><c> tutorial</c><00:04:20.320><c> on</c><00:04:20.560><c> how</c><00:04:20.799><c> to</c><00:04:20.959><c> use</c><00:04:21.280><c> VLOOKUP.</c>
+
+00:04:22.069 --> 00:04:22.079 align:start position:0%
+two-hour tutorial on how to use VLOOKUP.
+ 
+
+00:04:22.079 --> 00:04:23.909 align:start position:0%
+two-hour tutorial on how to use VLOOKUP.
+You<00:04:22.320><c> just</c><00:04:22.479><c> tell</c><00:04:22.639><c> Gemini</c><00:04:23.120><c> what</c><00:04:23.360><c> you</c><00:04:23.520><c> want</c><00:04:23.680><c> and</c>
+
+00:04:23.909 --> 00:04:23.919 align:start position:0%
+You just tell Gemini what you want and
+ 
+
+00:04:23.919 --> 00:04:25.510 align:start position:0%
+You just tell Gemini what you want and
+it<00:04:24.080><c> builds</c><00:04:24.320><c> it.</c><00:04:24.560><c> That's</c><00:04:24.720><c> it.</c><00:04:25.120><c> Now,</c><00:04:25.360><c> there's</c>
+
+00:04:25.510 --> 00:04:25.520 align:start position:0%
+it builds it. That's it. Now, there's
+ 
+
+00:04:25.520 --> 00:04:27.270 align:start position:0%
+it builds it. That's it. Now, there's
+also<00:04:25.759><c> this</c><00:04:26.000><c> new</c><00:04:26.160><c> feature</c><00:04:26.560><c> called</c><00:04:26.800><c> help</c><00:04:27.120><c> me</c>
+
+00:04:27.270 --> 00:04:27.280 align:start position:0%
+also this new feature called help me
+ 
+
+00:04:27.280 --> 00:04:29.510 align:start position:0%
+also this new feature called help me
+create<00:04:27.840><c> and</c><00:04:28.000><c> it</c><00:04:28.160><c> works</c><00:04:28.400><c> across</c><00:04:28.720><c> docs,</c><00:04:29.280><c> sheets,</c>
+
+00:04:29.510 --> 00:04:29.520 align:start position:0%
+create and it works across docs, sheets,
+ 
+
+00:04:29.520 --> 00:04:31.430 align:start position:0%
+create and it works across docs, sheets,
+and<00:04:29.759><c> slides.</c><00:04:30.320><c> You</c><00:04:30.479><c> just</c><00:04:30.639><c> describe</c><00:04:31.040><c> what</c><00:04:31.280><c> you</c>
+
+00:04:31.430 --> 00:04:31.440 align:start position:0%
+and slides. You just describe what you
+ 
+
+00:04:31.440 --> 00:04:33.990 align:start position:0%
+and slides. You just describe what you
+need.<00:04:32.160><c> Trip</c><00:04:32.400><c> planning</c><00:04:32.800><c> document,</c><00:04:33.440><c> a</c><00:04:33.680><c> business</c>
+
+00:04:33.990 --> 00:04:34.000 align:start position:0%
+need. Trip planning document, a business
+ 
+
+00:04:34.000 --> 00:04:35.830 align:start position:0%
+need. Trip planning document, a business
+plan,<00:04:34.400><c> a</c><00:04:34.560><c> quarterly</c><00:04:34.960><c> report,</c><00:04:35.360><c> whatever</c><00:04:35.680><c> it</c>
+
+00:04:35.830 --> 00:04:35.840 align:start position:0%
+plan, a quarterly report, whatever it
+ 
+
+00:04:35.840 --> 00:04:38.150 align:start position:0%
+plan, a quarterly report, whatever it
+is.<00:04:36.479><c> And</c><00:04:36.720><c> Gemini</c><00:04:37.199><c> generates</c><00:04:37.680><c> a</c><00:04:37.919><c> fully</c>
+
+00:04:38.150 --> 00:04:38.160 align:start position:0%
+is. And Gemini generates a fully
+ 
+
+00:04:38.160 --> 00:04:40.230 align:start position:0%
+is. And Gemini generates a fully
+formatted<00:04:38.639><c> first</c><00:04:38.960><c> draft</c><00:04:39.360><c> instantly.</c><00:04:40.000><c> No</c>
+
+00:04:40.230 --> 00:04:40.240 align:start position:0%
+formatted first draft instantly. No
+ 
+
+00:04:40.240 --> 00:04:42.230 align:start position:0%
+formatted first draft instantly. No
+templates,<00:04:40.880><c> no</c><00:04:41.040><c> starting</c><00:04:41.440><c> from</c><00:04:41.680><c> a</c><00:04:41.919><c> blank</c>
+
+00:04:42.230 --> 00:04:42.240 align:start position:0%
+templates, no starting from a blank
+ 
+
+00:04:42.240 --> 00:04:44.950 align:start position:0%
+templates, no starting from a blank
+page.<00:04:42.960><c> Just</c><00:04:43.199><c> describe</c><00:04:43.600><c> it</c><00:04:43.840><c> and</c><00:04:44.080><c> it</c><00:04:44.320><c> does</c><00:04:44.479><c> it.</c>
+
+00:04:44.950 --> 00:04:44.960 align:start position:0%
+page. Just describe it and it does it.
+ 
+
+00:04:44.960 --> 00:04:46.550 align:start position:0%
+page. Just describe it and it does it.
+This<00:04:45.199><c> one</c><00:04:45.360><c> feature</c><00:04:45.680><c> alone</c><00:04:46.000><c> is</c><00:04:46.240><c> going</c><00:04:46.400><c> to</c>
+
+00:04:46.550 --> 00:04:46.560 align:start position:0%
+This one feature alone is going to
+ 
+
+00:04:46.560 --> 00:04:48.629 align:start position:0%
+This one feature alone is going to
+change<00:04:46.880><c> how</c><00:04:47.120><c> people</c><00:04:47.440><c> work.</c><00:04:48.080><c> And</c><00:04:48.240><c> here's</c><00:04:48.479><c> why</c>
+
+00:04:48.629 --> 00:04:48.639 align:start position:0%
+change how people work. And here's why
+ 
+
+00:04:48.639 --> 00:04:50.469 align:start position:0%
+change how people work. And here's why
+this<00:04:48.880><c> update</c><00:04:49.199><c> is</c><00:04:49.360><c> such</c><00:04:49.520><c> a</c><00:04:49.680><c> big</c><00:04:49.840><c> deal.</c><00:04:50.160><c> Google</c>
+
+00:04:50.469 --> 00:04:50.479 align:start position:0%
+this update is such a big deal. Google
+ 
+
+00:04:50.479 --> 00:04:52.629 align:start position:0%
+this update is such a big deal. Google
+Workspace<00:04:51.040><c> has</c><00:04:51.280><c> billions</c><00:04:51.759><c> of</c><00:04:51.919><c> users,</c>
+
+00:04:52.629 --> 00:04:52.639 align:start position:0%
+Workspace has billions of users,
+ 
+
+00:04:52.639 --> 00:04:55.189 align:start position:0%
+Workspace has billions of users,
+billions.<00:04:53.520><c> So,</c><00:04:53.680><c> when</c><00:04:53.919><c> Google</c><00:04:54.240><c> adds</c><00:04:54.560><c> AI</c><00:04:54.960><c> like</c>
+
+00:04:55.189 --> 00:04:55.199 align:start position:0%
+billions. So, when Google adds AI like
+ 
+
+00:04:55.199 --> 00:04:57.670 align:start position:0%
+billions. So, when Google adds AI like
+this<00:04:55.680><c> into</c><00:04:56.000><c> tools</c><00:04:56.400><c> that</c><00:04:56.639><c> people</c><00:04:56.960><c> already</c><00:04:57.360><c> use</c>
+
+00:04:57.670 --> 00:04:57.680 align:start position:0%
+this into tools that people already use
+ 
+
+00:04:57.680 --> 00:05:00.550 align:start position:0%
+this into tools that people already use
+every<00:04:58.000><c> single</c><00:04:58.240><c> day,</c><00:04:58.880><c> the</c><00:04:59.120><c> impact</c><00:04:59.680><c> is</c><00:05:00.000><c> massive.</c>
+
+00:05:00.550 --> 00:05:00.560 align:start position:0%
+every single day, the impact is massive.
+ 
+
+00:05:00.560 --> 00:05:02.230 align:start position:0%
+every single day, the impact is massive.
+We're<00:05:00.880><c> talking</c><00:05:01.199><c> hundreds</c><00:05:01.600><c> of</c><00:05:01.759><c> millions</c><00:05:02.080><c> of</c>
+
+00:05:02.230 --> 00:05:02.240 align:start position:0%
+We're talking hundreds of millions of
+ 
+
+00:05:02.240 --> 00:05:04.870 align:start position:0%
+We're talking hundreds of millions of
+workers<00:05:02.880><c> who</c><00:05:03.199><c> now</c><00:05:03.440><c> have</c><00:05:03.600><c> an</c><00:05:03.840><c> AI</c><00:05:04.240><c> assistant</c>
+
+00:05:04.870 --> 00:05:04.880 align:start position:0%
+workers who now have an AI assistant
+ 
+
+00:05:04.880 --> 00:05:06.629 align:start position:0%
+workers who now have an AI assistant
+built<00:05:05.199><c> right</c><00:05:05.520><c> into</c><00:05:05.759><c> their</c><00:05:06.000><c> workflow.</c><00:05:06.479><c> You</c>
+
+00:05:06.629 --> 00:05:06.639 align:start position:0%
+built right into their workflow. You
+ 
+
+00:05:06.639 --> 00:05:08.469 align:start position:0%
+built right into their workflow. You
+don't<00:05:06.800><c> have</c><00:05:06.880><c> to</c><00:05:07.039><c> learn</c><00:05:07.280><c> a</c><00:05:07.440><c> new</c><00:05:07.600><c> app.</c><00:05:08.080><c> You</c><00:05:08.320><c> don't</c>
+
+00:05:08.469 --> 00:05:08.479 align:start position:0%
+don't have to learn a new app. You don't
+ 
+
+00:05:08.479 --> 00:05:10.070 align:start position:0%
+don't have to learn a new app. You don't
+have<00:05:08.639><c> to</c><00:05:08.800><c> switch</c><00:05:09.120><c> platforms.</c><00:05:09.759><c> It's</c><00:05:09.919><c> just</c>
+
+00:05:10.070 --> 00:05:10.080 align:start position:0%
+have to switch platforms. It's just
+ 
+
+00:05:10.080 --> 00:05:11.990 align:start position:0%
+have to switch platforms. It's just
+there<00:05:10.320><c> inside</c><00:05:10.639><c> the</c><00:05:10.800><c> tools</c><00:05:11.120><c> you</c><00:05:11.360><c> already</c><00:05:11.520><c> know.</c>
+
+00:05:11.990 --> 00:05:12.000 align:start position:0%
+there inside the tools you already know.
+ 
+
+00:05:12.000 --> 00:05:13.510 align:start position:0%
+there inside the tools you already know.
+Now,<00:05:12.240><c> I</c><00:05:12.400><c> want</c><00:05:12.479><c> to</c><00:05:12.560><c> be</c><00:05:12.720><c> real</c><00:05:12.880><c> with</c><00:05:13.039><c> you</c><00:05:13.280><c> because</c>
+
+00:05:13.510 --> 00:05:13.520 align:start position:0%
+Now, I want to be real with you because
+ 
+
+00:05:13.520 --> 00:05:15.270 align:start position:0%
+Now, I want to be real with you because
+I<00:05:13.759><c> always</c><00:05:13.919><c> keep</c><00:05:14.080><c> it</c><00:05:14.240><c> honest</c><00:05:14.560><c> on</c><00:05:14.720><c> this</c><00:05:14.880><c> channel.</c>
+
+00:05:15.270 --> 00:05:15.280 align:start position:0%
+I always keep it honest on this channel.
+ 
+
+00:05:15.280 --> 00:05:17.350 align:start position:0%
+I always keep it honest on this channel.
+There<00:05:15.440><c> are</c><00:05:15.600><c> some</c><00:05:15.759><c> limitations.</c><00:05:16.800><c> Some</c><00:05:17.039><c> early</c>
+
+00:05:17.350 --> 00:05:17.360 align:start position:0%
+There are some limitations. Some early
+ 
+
+00:05:17.360 --> 00:05:19.189 align:start position:0%
+There are some limitations. Some early
+testers<00:05:17.840><c> have</c><00:05:18.000><c> said</c><00:05:18.160><c> the</c><00:05:18.400><c> writing</c><00:05:18.720><c> style</c><00:05:19.039><c> can</c>
+
+00:05:19.189 --> 00:05:19.199 align:start position:0%
+testers have said the writing style can
+ 
+
+00:05:19.199 --> 00:05:20.950 align:start position:0%
+testers have said the writing style can
+feel<00:05:19.360><c> a</c><00:05:19.600><c> little</c><00:05:19.759><c> generic,</c><00:05:20.479><c> a</c><00:05:20.720><c> little</c>
+
+00:05:20.950 --> 00:05:20.960 align:start position:0%
+feel a little generic, a little
+ 
+
+00:05:20.960 --> 00:05:23.189 align:start position:0%
+feel a little generic, a little
+corporate,<00:05:21.600><c> and</c><00:05:21.840><c> for</c><00:05:22.000><c> creative</c><00:05:22.479><c> writing</c><00:05:22.880><c> is</c>
+
+00:05:23.189 --> 00:05:23.199 align:start position:0%
+corporate, and for creative writing is
+ 
+
+00:05:23.199 --> 00:05:25.670 align:start position:0%
+corporate, and for creative writing is
+still<00:05:23.360><c> not</c><00:05:23.520><c> as</c><00:05:23.680><c> good</c><00:05:23.759><c> as</c><00:05:23.919><c> a</c><00:05:24.080><c> human.</c><00:05:25.199><c> But</c><00:05:25.360><c> for</c>
+
+00:05:25.670 --> 00:05:25.680 align:start position:0%
+still not as good as a human. But for
+ 
+
+00:05:25.680 --> 00:05:27.350 align:start position:0%
+still not as good as a human. But for
+business<00:05:25.919><c> stuff,</c><00:05:26.320><c> reports,</c><00:05:26.800><c> proposals,</c>
+
+00:05:27.350 --> 00:05:27.360 align:start position:0%
+business stuff, reports, proposals,
+ 
+
+00:05:27.360 --> 00:05:29.029 align:start position:0%
+business stuff, reports, proposals,
+presentations,<00:05:28.000><c> spreadsheets,</c><00:05:28.720><c> it's</c>
+
+00:05:29.029 --> 00:05:29.039 align:start position:0%
+presentations, spreadsheets, it's
+ 
+
+00:05:29.039 --> 00:05:30.790 align:start position:0%
+presentations, spreadsheets, it's
+extremely<00:05:29.520><c> powerful,</c><00:05:30.080><c> and</c><00:05:30.320><c> it's</c><00:05:30.479><c> only</c><00:05:30.720><c> going</c>
+
+00:05:30.790 --> 00:05:30.800 align:start position:0%
+extremely powerful, and it's only going
+ 
+
+00:05:30.800 --> 00:05:32.790 align:start position:0%
+extremely powerful, and it's only going
+to<00:05:30.880><c> get</c><00:05:31.039><c> better</c><00:05:31.280><c> with</c><00:05:31.600><c> every</c><00:05:31.919><c> update.</c><00:05:32.560><c> Now,</c>
+
+00:05:32.790 --> 00:05:32.800 align:start position:0%
+to get better with every update. Now,
+ 
+
+00:05:32.800 --> 00:05:34.710 align:start position:0%
+to get better with every update. Now,
+let's<00:05:33.039><c> zoom</c><00:05:33.360><c> out</c><00:05:33.520><c> for</c><00:05:33.680><c> a</c><00:05:33.840><c> second</c><00:05:34.240><c> because</c><00:05:34.479><c> this</c>
+
+00:05:34.710 --> 00:05:34.720 align:start position:0%
+let's zoom out for a second because this
+ 
+
+00:05:34.720 --> 00:05:36.390 align:start position:0%
+let's zoom out for a second because this
+update<00:05:35.039><c> is</c><00:05:35.280><c> not</c><00:05:35.440><c> just</c><00:05:35.600><c> about</c><00:05:35.759><c> features.</c><00:05:36.240><c> It's</c>
+
+00:05:36.390 --> 00:05:36.400 align:start position:0%
+update is not just about features. It's
+ 
+
+00:05:36.400 --> 00:05:38.629 align:start position:0%
+update is not just about features. It's
+about<00:05:36.560><c> the</c><00:05:36.800><c> bigger</c><00:05:37.039><c> picture,</c><00:05:37.440><c> the</c><00:05:37.680><c> AI</c><00:05:38.080><c> war.</c>
+
+00:05:38.629 --> 00:05:38.639 align:start position:0%
+about the bigger picture, the AI war.
+ 
+
+00:05:38.639 --> 00:05:40.710 align:start position:0%
+about the bigger picture, the AI war.
+Google<00:05:38.960><c> is</c><00:05:39.199><c> going</c><00:05:39.440><c> head-to-head</c><00:05:40.400><c> with</c>
+
+00:05:40.710 --> 00:05:40.720 align:start position:0%
+Google is going head-to-head with
+ 
+
+00:05:40.720 --> 00:05:42.950 align:start position:0%
+Google is going head-to-head with
+Microsoft<00:05:41.280><c> Copilot,</c><00:05:41.840><c> with</c><00:05:42.000><c> ChatGpt,</c><00:05:42.800><c> with</c>
+
+00:05:42.950 --> 00:05:42.960 align:start position:0%
+Microsoft Copilot, with ChatGpt, with
+ 
+
+00:05:42.960 --> 00:05:44.950 align:start position:0%
+Microsoft Copilot, with ChatGpt, with
+Notion<00:05:43.440><c> AI.</c><00:05:44.000><c> And</c><00:05:44.160><c> Gemini's</c><00:05:44.720><c> biggest</c>
+
+00:05:44.950 --> 00:05:44.960 align:start position:0%
+Notion AI. And Gemini's biggest
+ 
+
+00:05:44.960 --> 00:05:46.710 align:start position:0%
+Notion AI. And Gemini's biggest
+advantage<00:05:45.440><c> is</c><00:05:45.680><c> already</c><00:05:45.919><c> inside</c><00:05:46.160><c> the</c><00:05:46.400><c> tools</c>
+
+00:05:46.710 --> 00:05:46.720 align:start position:0%
+advantage is already inside the tools
+ 
+
+00:05:46.720 --> 00:05:48.469 align:start position:0%
+advantage is already inside the tools
+people<00:05:46.960><c> use</c><00:05:47.120><c> every</c><00:05:47.360><c> day.</c><00:05:47.680><c> Think</c><00:05:47.840><c> about</c><00:05:48.000><c> it.</c>
+
+00:05:48.469 --> 00:05:48.479 align:start position:0%
+people use every day. Think about it.
+ 
+
+00:05:48.479 --> 00:05:51.029 align:start position:0%
+people use every day. Think about it.
+Docs<00:05:48.880><c> plus</c><00:05:49.120><c> Drive</c><00:05:49.520><c> plus</c><00:05:49.840><c> Gmail</c><00:05:50.240><c> plus</c><00:05:50.479><c> Sheets,</c>
+
+00:05:51.029 --> 00:05:51.039 align:start position:0%
+Docs plus Drive plus Gmail plus Sheets,
+ 
+
+00:05:51.039 --> 00:05:53.189 align:start position:0%
+Docs plus Drive plus Gmail plus Sheets,
+that's<00:05:51.280><c> your</c><00:05:51.520><c> entire</c><00:05:51.840><c> work</c><00:05:52.080><c> life.</c><00:05:52.560><c> And</c><00:05:52.720><c> Gemini</c>
+
+00:05:53.189 --> 00:05:53.199 align:start position:0%
+that's your entire work life. And Gemini
+ 
+
+00:05:53.199 --> 00:05:55.189 align:start position:0%
+that's your entire work life. And Gemini
+can<00:05:53.360><c> read</c><00:05:53.600><c> all</c><00:05:53.680><c> of</c><00:05:53.840><c> it.</c><00:05:54.160><c> It</c><00:05:54.400><c> has</c><00:05:54.560><c> more</c><00:05:54.720><c> context</c>
+
+00:05:55.189 --> 00:05:55.199 align:start position:0%
+can read all of it. It has more context
+ 
+
+00:05:55.199 --> 00:05:57.029 align:start position:0%
+can read all of it. It has more context
+about<00:05:55.440><c> your</c><00:05:55.600><c> work</c><00:05:55.759><c> than</c><00:05:56.000><c> any</c><00:05:56.160><c> other</c><00:05:56.400><c> AI</c><00:05:56.800><c> tool</c>
+
+00:05:57.029 --> 00:05:57.039 align:start position:0%
+about your work than any other AI tool
+ 
+
+00:05:57.039 --> 00:05:59.189 align:start position:0%
+about your work than any other AI tool
+out<00:05:57.280><c> there.</c><00:05:57.600><c> That's</c><00:05:57.759><c> a</c><00:05:57.919><c> huge</c><00:05:58.160><c> edge.</c><00:05:58.639><c> Microsoft</c>
+
+00:05:59.189 --> 00:05:59.199 align:start position:0%
+out there. That's a huge edge. Microsoft
+ 
+
+00:05:59.199 --> 00:06:01.830 align:start position:0%
+out there. That's a huge edge. Microsoft
+has<00:05:59.440><c> copilot</c><00:06:00.080><c> inside</c><00:06:00.400><c> Office,</c><00:06:01.120><c> but</c><00:06:01.520><c> Google</c>
+
+00:06:01.830 --> 00:06:01.840 align:start position:0%
+has copilot inside Office, but Google
+ 
+
+00:06:01.840 --> 00:06:04.230 align:start position:0%
+has copilot inside Office, but Google
+has<00:06:02.080><c> the</c><00:06:02.320><c> data,</c><00:06:02.960><c> your</c><00:06:03.199><c> emails,</c><00:06:03.680><c> your</c><00:06:03.919><c> files,</c>
+
+00:06:04.230 --> 00:06:04.240 align:start position:0%
+has the data, your emails, your files,
+ 
+
+00:06:04.240 --> 00:06:06.230 align:start position:0%
+has the data, your emails, your files,
+your<00:06:04.479><c> spreadsheets,</c><00:06:05.039><c> your</c><00:06:05.280><c> conversations.</c>
+
+00:06:06.230 --> 00:06:06.240 align:start position:0%
+your spreadsheets, your conversations.
+ 
+
+00:06:06.240 --> 00:06:08.629 align:start position:0%
+your spreadsheets, your conversations.
+Gemini<00:06:06.800><c> can</c><00:06:06.960><c> connect</c><00:06:07.360><c> all</c><00:06:07.520><c> of</c><00:06:07.680><c> those</c><00:06:07.840><c> dots</c><00:06:08.479><c> and</c>
+
+00:06:08.629 --> 00:06:08.639 align:start position:0%
+Gemini can connect all of those dots and
+ 
+
+00:06:08.639 --> 00:06:10.710 align:start position:0%
+Gemini can connect all of those dots and
+that<00:06:08.880><c> context</c><00:06:09.360><c> is</c><00:06:09.600><c> what</c><00:06:09.759><c> makes</c><00:06:09.919><c> the</c><00:06:10.160><c> AI</c>
+
+00:06:10.710 --> 00:06:10.720 align:start position:0%
+that context is what makes the AI
+ 
+
+00:06:10.720 --> 00:06:13.670 align:start position:0%
+that context is what makes the AI
+actually<00:06:11.120><c> useful.</c><00:06:11.840><c> Not</c><00:06:12.080><c> just</c><00:06:12.319><c> smart,</c><00:06:12.960><c> useful.</c>
+
+00:06:13.670 --> 00:06:13.680 align:start position:0%
+actually useful. Not just smart, useful.
+ 
+
+00:06:13.680 --> 00:06:15.430 align:start position:0%
+actually useful. Not just smart, useful.
+There's<00:06:13.840><c> a</c><00:06:14.000><c> massive</c><00:06:14.400><c> difference.</c><00:06:14.800><c> So,</c><00:06:15.199><c> who</c>
+
+00:06:15.430 --> 00:06:15.440 align:start position:0%
+There's a massive difference. So, who
+ 
+
+00:06:15.440 --> 00:06:16.950 align:start position:0%
+There's a massive difference. So, who
+gets<00:06:15.600><c> this</c><00:06:15.840><c> update?</c><00:06:16.319><c> Right</c><00:06:16.560><c> now,</c><00:06:16.720><c> it's</c>
+
+00:06:16.950 --> 00:06:16.960 align:start position:0%
+gets this update? Right now, it's
+ 
+
+00:06:16.960 --> 00:06:19.270 align:start position:0%
+gets this update? Right now, it's
+rolling<00:06:17.199><c> out</c><00:06:17.360><c> for</c><00:06:17.440><c> Gemini</c><00:06:17.919><c> AI</c><00:06:18.240><c> Pro</c><00:06:18.560><c> and</c><00:06:18.880><c> Gemini</c>
+
+00:06:19.270 --> 00:06:19.280 align:start position:0%
+rolling out for Gemini AI Pro and Gemini
+ 
+
+00:06:19.280 --> 00:06:21.749 align:start position:0%
+rolling out for Gemini AI Pro and Gemini
+AI<00:06:19.680><c> Ultra</c><00:06:20.000><c> users</c><00:06:20.400><c> plus</c><00:06:20.639><c> Workspace</c><00:06:21.199><c> Enterprise</c>
+
+00:06:21.749 --> 00:06:21.759 align:start position:0%
+AI Ultra users plus Workspace Enterprise
+ 
+
+00:06:21.759 --> 00:06:24.070 align:start position:0%
+AI Ultra users plus Workspace Enterprise
+users.<00:06:22.400><c> The</c><00:06:22.560><c> roll</c><00:06:22.800><c> out</c><00:06:23.120><c> started</c><00:06:23.440><c> this</c><00:06:23.680><c> month.</c>
+
+00:06:24.070 --> 00:06:24.080 align:start position:0%
+users. The roll out started this month.
+ 
+
+00:06:24.080 --> 00:06:25.909 align:start position:0%
+users. The roll out started this month.
+So,<00:06:24.240><c> if</c><00:06:24.400><c> you're</c><00:06:24.560><c> on</c><00:06:24.800><c> one</c><00:06:24.960><c> of</c><00:06:25.039><c> those</c><00:06:25.199><c> plans,</c>
+
+00:06:25.909 --> 00:06:25.919 align:start position:0%
+So, if you're on one of those plans,
+ 
+
+00:06:25.919 --> 00:06:28.070 align:start position:0%
+So, if you're on one of those plans,
+check<00:06:26.240><c> your</c><00:06:26.400><c> apps.</c><00:06:27.120><c> It</c><00:06:27.360><c> might</c><00:06:27.520><c> already</c><00:06:27.840><c> be</c>
+
+00:06:28.070 --> 00:06:28.080 align:start position:0%
+check your apps. It might already be
+ 
+
+00:06:28.080 --> 00:06:30.070 align:start position:0%
+check your apps. It might already be
+there<00:06:28.639><c> waiting</c><00:06:28.960><c> for</c><00:06:29.120><c> you.</c><00:06:29.440><c> And</c><00:06:29.680><c> here's</c><00:06:29.919><c> the</c>
+
+00:06:30.070 --> 00:06:30.080 align:start position:0%
+there waiting for you. And here's the
+ 
+
+00:06:30.080 --> 00:06:32.309 align:start position:0%
+there waiting for you. And here's the
+key<00:06:30.240><c> takeaway</c><00:06:30.639><c> from</c><00:06:30.880><c> all</c><00:06:31.120><c> this.</c><00:06:31.759><c> Google's</c>
+
+00:06:32.309 --> 00:06:32.319 align:start position:0%
+key takeaway from all this. Google's
+ 
+
+00:06:32.319 --> 00:06:34.629 align:start position:0%
+key takeaway from all this. Google's
+strategy<00:06:32.800><c> is</c><00:06:33.120><c> clear.</c><00:06:33.440><c> They</c><00:06:33.680><c> want</c><00:06:33.840><c> AI</c><00:06:34.319><c> inside</c>
+
+00:06:34.629 --> 00:06:34.639 align:start position:0%
+strategy is clear. They want AI inside
+ 
+
+00:06:34.639 --> 00:06:36.790 align:start position:0%
+strategy is clear. They want AI inside
+the<00:06:34.960><c> software</c><00:06:35.280><c> you</c><00:06:35.600><c> already</c><00:06:35.840><c> use,</c><00:06:36.560><c> not</c>
+
+00:06:36.790 --> 00:06:36.800 align:start position:0%
+the software you already use, not
+ 
+
+00:06:36.800 --> 00:06:39.110 align:start position:0%
+the software you already use, not
+separate,<00:06:37.360><c> not</c><00:06:37.600><c> in</c><00:06:37.759><c> another</c><00:06:38.080><c> tab,</c><00:06:38.720><c> not</c><00:06:38.880><c> in</c>
+
+00:06:39.110 --> 00:06:39.120 align:start position:0%
+separate, not in another tab, not in
+ 
+
+00:06:39.120 --> 00:06:41.029 align:start position:0%
+separate, not in another tab, not in
+another<00:06:39.440><c> app.</c><00:06:39.840><c> Right</c><00:06:40.080><c> there</c><00:06:40.240><c> in</c><00:06:40.479><c> your</c><00:06:40.639><c> docs,</c>
+
+00:06:41.029 --> 00:06:41.039 align:start position:0%
+another app. Right there in your docs,
+ 
+
+00:06:41.039 --> 00:06:42.550 align:start position:0%
+another app. Right there in your docs,
+in<00:06:41.199><c> your</c><00:06:41.280><c> sheets,</c><00:06:41.600><c> in</c><00:06:41.759><c> your</c><00:06:41.919><c> slides,</c><00:06:42.240><c> in</c><00:06:42.400><c> your</c>
+
+00:06:42.550 --> 00:06:42.560 align:start position:0%
+in your sheets, in your slides, in your
+ 
+
+00:06:42.560 --> 00:06:44.710 align:start position:0%
+in your sheets, in your slides, in your
+drive.<00:06:42.880><c> That's</c><00:06:43.120><c> the</c><00:06:43.360><c> future</c><00:06:43.600><c> of</c><00:06:43.919><c> work.</c><00:06:44.560><c> And</c>
+
+00:06:44.710 --> 00:06:44.720 align:start position:0%
+drive. That's the future of work. And
+ 
+
+00:06:44.720 --> 00:06:46.710 align:start position:0%
+drive. That's the future of work. And
+it's<00:06:45.039><c> happening</c><00:06:45.520><c> right</c><00:06:45.759><c> now.</c><00:06:46.080><c> Not</c><00:06:46.240><c> next</c><00:06:46.479><c> year,</c>
+
+00:06:46.710 --> 00:06:46.720 align:start position:0%
+it's happening right now. Not next year,
+ 
+
+00:06:46.720 --> 00:06:48.950 align:start position:0%
+it's happening right now. Not next year,
+not<00:06:46.880><c> in</c><00:06:46.960><c> some</c><00:06:47.199><c> beta.</c><00:06:47.919><c> Right</c><00:06:48.160><c> now,</c><00:06:48.560><c> think</c><00:06:48.800><c> about</c>
+
+00:06:48.950 --> 00:06:48.960 align:start position:0%
+not in some beta. Right now, think about
+ 
+
+00:06:48.960 --> 00:06:50.950 align:start position:0%
+not in some beta. Right now, think about
+what<00:06:49.120><c> this</c><00:06:49.280><c> means.</c><00:06:49.600><c> A</c><00:06:49.759><c> few</c><00:06:49.919><c> years</c><00:06:50.000><c> ago,</c><00:06:50.319><c> AI</c><00:06:50.720><c> was</c>
+
+00:06:50.950 --> 00:06:50.960 align:start position:0%
+what this means. A few years ago, AI was
+ 
+
+00:06:50.960 --> 00:06:53.749 align:start position:0%
+what this means. A few years ago, AI was
+this<00:06:51.199><c> thing</c><00:06:51.600><c> you</c><00:06:51.840><c> had</c><00:06:52.000><c> to</c><00:06:52.160><c> go</c><00:06:52.400><c> out</c><00:06:52.560><c> of</c><00:06:52.720><c> your</c><00:06:52.960><c> way</c>
+
+00:06:53.749 --> 00:06:53.759 align:start position:0%
+this thing you had to go out of your way
+ 
+
+00:06:53.759 --> 00:06:56.469 align:start position:0%
+this thing you had to go out of your way
+to<00:06:54.000><c> use.</c><00:06:54.639><c> You</c><00:06:54.800><c> had</c><00:06:54.960><c> to</c><00:06:55.039><c> learn</c><00:06:55.280><c> new</c><00:06:55.520><c> tools,</c><00:06:56.160><c> new</c>
+
+00:06:56.469 --> 00:06:56.479 align:start position:0%
+to use. You had to learn new tools, new
+ 
+
+00:06:56.479 --> 00:06:58.629 align:start position:0%
+to use. You had to learn new tools, new
+platforms,<00:06:57.120><c> new</c><00:06:57.360><c> workflows.</c><00:06:58.080><c> Now,</c><00:06:58.319><c> it's</c><00:06:58.560><c> just</c>
+
+00:06:58.629 --> 00:06:58.639 align:start position:0%
+platforms, new workflows. Now, it's just
+ 
+
+00:06:58.639 --> 00:07:01.029 align:start position:0%
+platforms, new workflows. Now, it's just
+built<00:06:58.880><c> in.</c><00:06:59.120><c> You</c><00:06:59.280><c> open</c><00:06:59.520><c> Google</c><00:06:59.840><c> Docs</c><00:07:00.319><c> and</c><00:07:00.560><c> AI</c><00:07:00.880><c> is</c>
+
+00:07:01.029 --> 00:07:01.039 align:start position:0%
+built in. You open Google Docs and AI is
+ 
+
+00:07:01.039 --> 00:07:03.110 align:start position:0%
+built in. You open Google Docs and AI is
+right<00:07:01.199><c> there</c><00:07:01.599><c> ready</c><00:07:01.840><c> to</c><00:07:02.080><c> help.</c><00:07:02.560><c> You</c><00:07:02.800><c> open</c>
+
+00:07:03.110 --> 00:07:03.120 align:start position:0%
+right there ready to help. You open
+ 
+
+00:07:03.120 --> 00:07:05.510 align:start position:0%
+right there ready to help. You open
+sheets<00:07:03.759><c> and</c><00:07:03.840><c> AI</c><00:07:04.240><c> builds</c><00:07:04.560><c> your</c><00:07:04.720><c> spreadsheet.</c>
+
+00:07:05.510 --> 00:07:05.520 align:start position:0%
+sheets and AI builds your spreadsheet.
+ 
+
+00:07:05.520 --> 00:07:07.749 align:start position:0%
+sheets and AI builds your spreadsheet.
+You<00:07:05.680><c> open</c><00:07:06.000><c> slides</c><00:07:06.800><c> and</c><00:07:06.960><c> AI</c><00:07:07.280><c> makes</c><00:07:07.520><c> your</c>
+
+00:07:07.749 --> 00:07:07.759 align:start position:0%
+You open slides and AI makes your
+ 
+
+00:07:07.759 --> 00:07:09.270 align:start position:0%
+You open slides and AI makes your
+presentation.<00:07:08.479><c> That's</c><00:07:08.720><c> a</c><00:07:08.960><c> completely</c>
+
+00:07:09.270 --> 00:07:09.280 align:start position:0%
+presentation. That's a completely
+ 
+
+00:07:09.280 --> 00:07:11.189 align:start position:0%
+presentation. That's a completely
+different<00:07:09.520><c> world</c><00:07:09.680><c> than</c><00:07:09.919><c> where</c><00:07:10.080><c> we</c><00:07:10.319><c> were</c><00:07:10.800><c> even</c>
+
+00:07:11.189 --> 00:07:11.199 align:start position:0%
+different world than where we were even
+ 
+
+00:07:11.199 --> 00:07:13.110 align:start position:0%
+different world than where we were even
+12<00:07:11.520><c> months</c><00:07:11.680><c> ago.</c><00:07:12.400><c> And</c><00:07:12.560><c> it's</c><00:07:12.720><c> only</c><00:07:12.960><c> going</c><00:07:13.039><c> to</c>
+
+00:07:13.110 --> 00:07:13.120 align:start position:0%
+12 months ago. And it's only going to
+ 
+
+00:07:13.120 --> 00:07:15.510 align:start position:0%
+12 months ago. And it's only going to
+keep<00:07:13.360><c> accelerating.</c><00:07:14.479><c> Every</c><00:07:14.800><c> month</c><00:07:15.120><c> there's</c><00:07:15.360><c> a</c>
+
+00:07:15.510 --> 00:07:15.520 align:start position:0%
+keep accelerating. Every month there's a
+ 
+
+00:07:15.520 --> 00:07:17.830 align:start position:0%
+keep accelerating. Every month there's a
+new<00:07:15.599><c> update.</c><00:07:16.160><c> Every</c><00:07:16.479><c> month</c><00:07:16.800><c> AI</c><00:07:17.120><c> gets</c><00:07:17.360><c> smarter.</c>
+
+00:07:17.830 --> 00:07:17.840 align:start position:0%
+new update. Every month AI gets smarter.
+ 
+
+00:07:17.840 --> 00:07:19.510 align:start position:0%
+new update. Every month AI gets smarter.
+Every<00:07:18.080><c> month</c><00:07:18.240><c> the</c><00:07:18.479><c> tools</c><00:07:18.720><c> get</c><00:07:18.960><c> better.</c><00:07:19.360><c> If</c>
+
+00:07:19.510 --> 00:07:19.520 align:start position:0%
+Every month the tools get better. If
+ 
+
+00:07:19.520 --> 00:07:20.790 align:start position:0%
+Every month the tools get better. If
+you're<00:07:19.680><c> not</c><00:07:19.840><c> paying</c><00:07:20.080><c> attention</c><00:07:20.400><c> to</c><00:07:20.560><c> this</c>
+
+00:07:20.790 --> 00:07:20.800 align:start position:0%
+you're not paying attention to this
+ 
+
+00:07:20.800 --> 00:07:22.469 align:start position:0%
+you're not paying attention to this
+stuff,<00:07:21.039><c> you're</c><00:07:21.199><c> going</c><00:07:21.360><c> to</c><00:07:21.520><c> fall</c><00:07:21.759><c> behind.</c><00:07:22.319><c> And</c>
+
+00:07:22.469 --> 00:07:22.479 align:start position:0%
+stuff, you're going to fall behind. And
+ 
+
+00:07:22.479 --> 00:07:24.070 align:start position:0%
+stuff, you're going to fall behind. And
+I<00:07:22.720><c> don't</c><00:07:22.800><c> want</c><00:07:22.960><c> that</c><00:07:23.120><c> for</c><00:07:23.280><c> you.</c><00:07:23.520><c> That's</c><00:07:23.759><c> why</c><00:07:23.840><c> I</c>
+
+00:07:24.070 --> 00:07:24.080 align:start position:0%
+I don't want that for you. That's why I
+ 
+
+00:07:24.080 --> 00:07:25.909 align:start position:0%
+I don't want that for you. That's why I
+make<00:07:24.160><c> these</c><00:07:24.479><c> videos.</c><00:07:25.039><c> So,</c><00:07:25.360><c> if</c><00:07:25.520><c> you</c><00:07:25.599><c> want</c><00:07:25.759><c> to</c>
+
+00:07:25.909 --> 00:07:25.919 align:start position:0%
+make these videos. So, if you want to
+ 
+
+00:07:25.919 --> 00:07:27.990 align:start position:0%
+make these videos. So, if you want to
+learn<00:07:26.080><c> how</c><00:07:26.319><c> to</c><00:07:26.479><c> use</c><00:07:26.800><c> Google</c><00:07:27.039><c> Gemini</c><00:07:27.599><c> and</c><00:07:27.759><c> other</c>
+
+00:07:27.990 --> 00:07:28.000 align:start position:0%
+learn how to use Google Gemini and other
+ 
+
+00:07:28.000 --> 00:07:30.710 align:start position:0%
+learn how to use Google Gemini and other
+AI<00:07:28.319><c> tools</c><00:07:28.880><c> to</c><00:07:29.120><c> automate</c><00:07:29.520><c> your</c><00:07:29.680><c> workflows,</c><00:07:30.560><c> get</c>
+
+00:07:30.710 --> 00:07:30.720 align:start position:0%
+AI tools to automate your workflows, get
+ 
+
+00:07:30.720 --> 00:07:32.790 align:start position:0%
+AI tools to automate your workflows, get
+more<00:07:31.039><c> customers,</c><00:07:31.759><c> and</c><00:07:32.000><c> save</c><00:07:32.319><c> hundreds</c><00:07:32.639><c> of</c>
+
+00:07:32.790 --> 00:07:32.800 align:start position:0%
+more customers, and save hundreds of
+ 
+
+00:07:32.800 --> 00:07:35.110 align:start position:0%
+more customers, and save hundreds of
+hours<00:07:33.039><c> with</c><00:07:33.280><c> AI</c><00:07:33.599><c> automation,</c><00:07:34.400><c> join</c><00:07:34.639><c> the</c><00:07:34.800><c> AI</c>
+
+00:07:35.110 --> 00:07:35.120 align:start position:0%
+hours with AI automation, join the AI
+ 
+
+00:07:35.120 --> 00:07:37.029 align:start position:0%
+hours with AI automation, join the AI
+profit<00:07:35.520><c> boardroom.</c><00:07:36.160><c> I'll</c><00:07:36.400><c> put</c><00:07:36.560><c> the</c><00:07:36.720><c> link</c><00:07:36.880><c> in</c>
+
+00:07:37.029 --> 00:07:37.039 align:start position:0%
+profit boardroom. I'll put the link in
+ 
+
+00:07:37.039 --> 00:07:39.189 align:start position:0%
+profit boardroom. I'll put the link in
+the<00:07:37.199><c> description</c><00:07:37.759><c> and</c><00:07:38.080><c> in</c><00:07:38.319><c> the</c><00:07:38.479><c> comments.</c>
+
+00:07:39.189 --> 00:07:39.199 align:start position:0%
+the description and in the comments.
+ 
+
+00:07:39.199 --> 00:07:40.790 align:start position:0%
+the description and in the comments.
+It's<00:07:39.360><c> the</c><00:07:39.599><c> best</c><00:07:39.759><c> place</c><00:07:39.919><c> to</c><00:07:40.080><c> stay</c><00:07:40.240><c> ahead</c><00:07:40.479><c> of</c><00:07:40.639><c> all</c>
+
+00:07:40.790 --> 00:07:40.800 align:start position:0%
+It's the best place to stay ahead of all
+ 
+
+00:07:40.800 --> 00:07:42.710 align:start position:0%
+It's the best place to stay ahead of all
+these<00:07:41.039><c> updates</c><00:07:41.599><c> and</c><00:07:41.840><c> actually</c><00:07:42.080><c> use</c><00:07:42.319><c> them</c><00:07:42.560><c> to</c>
+
+00:07:42.710 --> 00:07:42.720 align:start position:0%
+these updates and actually use them to
+ 
+
+00:07:42.720 --> 00:07:44.309 align:start position:0%
+these updates and actually use them to
+grow<00:07:42.960><c> your</c><00:07:43.199><c> business.</c><00:07:43.599><c> And</c><00:07:43.759><c> if</c><00:07:43.919><c> you</c><00:07:44.000><c> want</c><00:07:44.080><c> the</c>
+
+00:07:44.309 --> 00:07:44.319 align:start position:0%
+grow your business. And if you want the
+ 
+
+00:07:44.319 --> 00:07:47.670 align:start position:0%
+grow your business. And if you want the
+full<00:07:44.560><c> process,</c><00:07:45.440><c> SOPs,</c><00:07:46.400><c> and</c><00:07:46.639><c> over</c><00:07:46.880><c> a</c><00:07:47.039><c> 100</c><00:07:47.280><c> AI</c>
+
+00:07:47.670 --> 00:07:47.680 align:start position:0%
+full process, SOPs, and over a 100 AI
+ 
+
+00:07:47.680 --> 00:07:50.230 align:start position:0%
+full process, SOPs, and over a 100 AI
+use<00:07:47.919><c> cases</c><00:07:48.240><c> like</c><00:07:48.479><c> this</c><00:07:48.639><c> one,</c><00:07:49.280><c> join</c><00:07:49.520><c> the</c><00:07:49.759><c> AI</c>
+
+00:07:50.230 --> 00:07:50.240 align:start position:0%
+use cases like this one, join the AI
+ 
+
+00:07:50.240 --> 00:07:52.070 align:start position:0%
+use cases like this one, join the AI
+success<00:07:50.720><c> lab.</c><00:07:51.120><c> Links</c><00:07:51.360><c> in</c><00:07:51.520><c> the</c><00:07:51.599><c> comments</c><00:07:51.919><c> and</c>
+
+00:07:52.070 --> 00:07:52.080 align:start position:0%
+success lab. Links in the comments and
+ 
+
+00:07:52.080 --> 00:07:53.110 align:start position:0%
+success lab. Links in the comments and
+description.<00:07:52.400><c> and</c><00:07:52.479><c> you'll</c><00:07:52.720><c> get</c><00:07:52.800><c> all</c><00:07:52.960><c> the</c>
+
+00:07:53.110 --> 00:07:53.120 align:start position:0%
+description. and you'll get all the
+ 
+
+00:07:53.120 --> 00:07:55.270 align:start position:0%
+description. and you'll get all the
+video<00:07:53.360><c> notes</c><00:07:53.599><c> from</c><00:07:53.840><c> there,</c><00:07:54.240><c> plus</c><00:07:54.560><c> access</c><00:07:55.039><c> to</c>
+
+00:07:55.270 --> 00:07:55.280 align:start position:0%
+video notes from there, plus access to
+ 
+
+00:07:55.280 --> 00:07:58.150 align:start position:0%
+video notes from there, plus access to
+our<00:07:55.599><c> community</c><00:07:56.000><c> of</c><00:07:56.400><c> 38,000</c><00:07:57.360><c> members</c><00:07:57.840><c> who</c><00:07:58.080><c> are</c>
+
+00:07:58.150 --> 00:07:58.160 align:start position:0%
+our community of 38,000 members who are
+ 
+
+00:07:58.160 --> 00:07:59.909 align:start position:0%
+our community of 38,000 members who are
+crushing<00:07:58.479><c> it</c><00:07:58.639><c> with</c><00:07:58.800><c> AI.</c><00:07:59.280><c> Make</c><00:07:59.440><c> sure</c><00:07:59.520><c> you</c><00:07:59.759><c> like</c>
+
+00:07:59.909 --> 00:07:59.919 align:start position:0%
+crushing it with AI. Make sure you like
+ 
+
+00:07:59.919 --> 00:08:01.990 align:start position:0%
+crushing it with AI. Make sure you like
+this<00:08:00.160><c> video,</c><00:08:00.800><c> subscribe</c><00:08:01.360><c> if</c><00:08:01.599><c> you</c><00:08:01.759><c> haven't</c>
+
+00:08:01.990 --> 00:08:02.000 align:start position:0%
+this video, subscribe if you haven't
+ 
+
+00:08:02.000 --> 00:08:04.230 align:start position:0%
+this video, subscribe if you haven't
+already,<00:08:02.720><c> and</c><00:08:03.039><c> drop</c><00:08:03.280><c> a</c><00:08:03.440><c> comment</c><00:08:03.759><c> below</c>
+
+00:08:04.230 --> 00:08:04.240 align:start position:0%
+already, and drop a comment below
+ 
+
+00:08:04.240 --> 00:08:06.710 align:start position:0%
+already, and drop a comment below
+because<00:08:04.639><c> Julian</c><00:08:05.360><c> reads</c><00:08:05.759><c> every</c><00:08:06.080><c> single</c><00:08:06.319><c> one.</c>
+
+00:08:06.710 --> 00:08:06.720 align:start position:0%
+because Julian reads every single one.
+ 
+
+00:08:06.720 --> 00:08:09.680 align:start position:0%
+because Julian reads every single one.
+I'll<00:08:07.039><c> see</c><00:08:07.120><c> you</c><00:08:07.280><c> in</c><00:08:07.440><c> the</c><00:08:07.520><c> next</c>
+

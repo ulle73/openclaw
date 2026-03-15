@@ -1,0 +1,155 @@
+{
+  "id": "9rQm8AjcY8I",
+  "title": "New FREE Claude Update: 2X Extra for 2 Weeks!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260315",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nAnthropic Doubled Your Free Claude Usage! (Limited Time)\n\nAnthropic is doubling message limits for all Claude users during off-peak hours for the next 12 days. Learn how to maximize these free tokens, explore the new Anthropic Academy courses, and use Claude Code effectively before the offer ends.\n\n00:00 - Double Your Free Claude Usage\n00:25 - Peak vs. Off-Peak Hours Explained\n01:23 - Claude Code & Fast Mode Tips\n02:40 - Understanding New Rate Limits\n03:26 - Anthropic Academy: Free AI Courses\n03:54 - Best Ways to Use Extra Tokens\n04:20 - Recap & Important Deadlines\n04:36 - Join the AI Automation Community",
+  "classifications": [
+    "tool",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "2-weeks",
+    "openclaw"
+  ],
+  "topic_tags": [
+    "2-weeks",
+    "openclaw",
+    "workflow-automation",
+    "marketing-explainers",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api"
+  ],
+  "topic_cluster_key": "2-weeks__claude",
+  "related_video_ids": [
+    "uHjwDSx4f48",
+    "NiTOlYmthNg",
+    "LRcIKDRybWk",
+    "58pd7zSQCtY",
+    "58T9kb3OFJs"
+  ],
+  "related_videos": [
+    {
+      "videoId": "uHjwDSx4f48",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/uHjwDSx4f48/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "NiTOlYmthNg",
+      "title": "OpenClaw New Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NiTOlYmthNg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "LRcIKDRybWk",
+      "title": "Build and Automate ANYTHING with Claude Code, Here's How!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/LRcIKDRybWk/summary.md",
+      "topic_cluster_key": "automate__claude",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "58pd7zSQCtY",
+      "title": "OpenClaw + GPT-5.4 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/58pd7zSQCtY/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "58T9kb3OFJs",
+      "title": "OpenClaw NEW Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/58T9kb3OFJs/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "uHjwDSx4f48",
+      "NiTOlYmthNg",
+      "LRcIKDRybWk",
+      "58pd7zSQCtY",
+      "58T9kb3OFJs"
+    ]
+  },
+  "updated_at": "2026-03-15T19:02:33Z"
+}

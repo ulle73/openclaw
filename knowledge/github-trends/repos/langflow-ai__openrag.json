@@ -1,0 +1,50 @@
+{
+  "fullName": "langflow-ai/openrag",
+  "url": "https://github.com/langflow-ai/openrag",
+  "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+  "purpose": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+  "useCase": "knowledge retrieval and memory-backed AI",
+  "relevance": "relevant for Coastworks via design, knowledge systems, AI/models",
+  "language": "Python",
+  "topics": [],
+  "stars": 1435,
+  "forks": 135,
+  "openIssues": 140,
+  "detectedSignals": [
+    "knowledge-systems",
+    "seo-content",
+    "design-offer",
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "design-offer",
+        "knowledge-systems",
+        "ml-models",
+        "seo-content"
+      ],
+      "score": 50
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "knowledge-systems",
+        "ml-models"
+      ],
+      "score": 23
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "sharedSignals": [
+        "seo-content"
+      ],
+      "score": 19
+    }
+  ],
+  "fetchedAt": "2026-03-12T20:52:22Z"
+}

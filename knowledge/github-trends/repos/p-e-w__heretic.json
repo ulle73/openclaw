@@ -1,0 +1,47 @@
+{
+  "fullName": "p-e-w/heretic",
+  "url": "https://github.com/p-e-w/heretic",
+  "description": "Fully automatic censorship removal for language models",
+  "purpose": "Fully automatic censorship removal for language models",
+  "useCase": "LLM or AI product development",
+  "relevance": "relevant for Coastworks via AI/models",
+  "language": "Python",
+  "topics": [
+    "abliteration",
+    "llm",
+    "transformer"
+  ],
+  "stars": 14091,
+  "forks": 1440,
+  "openIssues": 81,
+  "detectedSignals": [
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 20
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 18
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 13
+    }
+  ],
+  "fetchedAt": "2026-03-15T08:17:53Z"
+}

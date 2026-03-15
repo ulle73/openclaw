@@ -1,0 +1,154 @@
+{
+  "id": "49_WitY66yM",
+  "title": "OpenClaw + PaperClip is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260311",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nBuild a Zero Employee AI Company with PaperClick & OpenClaw\n\nDiscover how to use PaperClick, a new open-source tool that automates entire business structures with AI agents. This step-by-step guide shows you how to integrate OpenClaw to build an autonomous team that runs your company for free.\n\n00:00 - Intro: AI Companies with Zero Employees\n01:10 - How to Install PaperClick\n01:36 - Setting Up Your First AI CEO\n02:38 - Dashboard & Org Chart Walkthrough\n04:04 - Hiring AI Marketing & Engineering Teams\n08:18 - The 5 Layers of an AI Company\n11:16 - 30-Day Plan & Scaling with AI",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "paperclip",
+    "claude"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "paperclip",
+    "content-repurposing",
+    "workflow-automation",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "openclaw__paperclip",
+  "related_video_ids": [
+    "_s7tHRZUmdM",
+    "OV5eK91YY68",
+    "L-CanI8zDWI",
+    "9lbwgk29Db4",
+    "ptqHcTAwmlk"
+  ],
+  "related_videos": [
+    {
+      "videoId": "_s7tHRZUmdM",
+      "title": "NEW Google Gemini Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/_s7tHRZUmdM/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "content-repurposing"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "L-CanI8zDWI",
+      "title": "Google AI’s New Pomelli Update Is Insane!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/L-CanI8zDWI/summary.md",
+      "topic_cluster_key": "pomelli",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "_s7tHRZUmdM",
+      "OV5eK91YY68",
+      "L-CanI8zDWI",
+      "9lbwgk29Db4",
+      "ptqHcTAwmlk"
+    ]
+  },
+  "updated_at": "2026-03-11T21:30:10Z"
+}

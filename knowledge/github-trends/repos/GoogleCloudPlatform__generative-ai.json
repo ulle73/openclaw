@@ -1,0 +1,61 @@
+{
+  "fullName": "GoogleCloudPlatform/generative-ai",
+  "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+  "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+  "purpose": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+  "useCase": "agent workflows and AI operators",
+  "relevance": "relevant for Coastworks via agent automation, AI/models",
+  "language": "Jupyter Notebook",
+  "topics": [
+    "agents",
+    "gcp",
+    "gemini",
+    "gemini-api",
+    "gen-ai",
+    "generative-ai",
+    "google",
+    "google-cloud",
+    "google-gemini",
+    "langchain",
+    "large-language-models",
+    "llm",
+    "vertex-ai",
+    "vertex-ai-gemini-api",
+    "vertexai"
+  ],
+  "stars": 15893,
+  "forks": 4015,
+  "openIssues": 80,
+  "detectedSignals": [
+    "agent-automation",
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "agent-automation",
+        "ml-models"
+      ],
+      "score": 30
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 18
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "sharedSignals": [
+        "agent-automation"
+      ],
+      "score": 18
+    }
+  ],
+  "fetchedAt": "2026-03-11T08:33:59Z"
+}

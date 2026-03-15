@@ -1,22 +1,36 @@
 {
   "clusterKey": "gemini",
-  "label": "gemini och notebooklm",
+  "label": "gemini och chatgpt",
   "entity_tags": [
     "gemini",
-    "notebooklm"
+    "chatgpt",
+    "nano-banana-2",
+    "claude",
+    "notebooklm",
+    "mcp",
+    "openclaw"
   ],
   "topic_tags": [
-    "notebooklm",
     "workflow-automation",
-    "onboarding-training",
-    "marketing-explainers",
+    "knowledge-management",
     "business-idea",
     "business-opportunity",
     "seo-distribution",
     "seo-content",
     "agent-flow",
     "agent-automation",
-    "product-opportunity"
+    "nano-banana-2",
+    "ai-video-generation",
+    "onboarding-training",
+    "marketing-explainers",
+    "prompt-design",
+    "api",
+    "api-integration",
+    "notebooklm",
+    "mcp",
+    "product-opportunity",
+    "openclaw",
+    "content-repurposing"
   ],
   "categories": [
     "tool",
@@ -25,15 +39,25 @@
     "seo_distribution",
     "agent_flow",
     "automation",
-    "product_opportunity"
+    "product_opportunity",
+    "api",
+    "mcp"
   ],
   "videoIds": [
-    "ZgnQb40aiTU"
+    "-iaZUdrljN4",
+    "1FaO6fQm93Q",
+    "1LU_AHdrfNU",
+    "4Airc23mCFE",
+    "98bGqof0dUI",
+    "NtpPIFj7HD0",
+    "ZgnQb40aiTU",
+    "_s7tHRZUmdM",
+    "uHjwDSx4f48"
   ],
-  "count": 1,
+  "count": 9,
   "avg_roi_score": 9.0,
   "avg_relevance_score": 9.0,
-  "opportunity_score": 44,
+  "opportunity_score": 57,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
@@ -42,9 +66,10 @@
     {
       "projectId": "coastworks",
       "projectName": "Coastworks",
-      "score": 24,
+      "score": 33,
       "shared_signals": [
         "seo-content",
+        "openclaw",
         "knowledge-systems",
         "automation",
         "agent-automation"
@@ -55,7 +80,7 @@
     {
       "projectId": "ai-visibility-audit",
       "projectName": "AI Visibility Audit",
-      "score": 22,
+      "score": 26,
       "shared_signals": [
         "seo-content",
         "workflow-automation",
@@ -67,8 +92,9 @@
     {
       "projectId": "gravity-claw",
       "projectName": "Gravity Claw",
-      "score": 17,
+      "score": 24,
       "shared_signals": [
+        "openclaw",
         "knowledge-systems",
         "agent-automation"
       ],
@@ -78,23 +104,23 @@
   ],
   "ideas": [
     {
-      "title": "Applicera gemini och notebooklm i Coastworks",
+      "title": "Applicera gemini och chatgpt i Coastworks",
       "kind": "project-fit",
       "impact": "hog",
-      "effort": "medel",
+      "effort": "hog",
       "speed": "snabb",
-      "why": "Temat overlappar med Coastworks via seo-content, knowledge-systems, automation och agent-automation."
+      "why": "Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation."
     },
     {
-      "title": "Bygg en intern skill eller automation runt gemini och notebooklm",
+      "title": "Bygg en intern skill eller automation runt gemini och chatgpt",
       "kind": "automation",
       "impact": "hog",
-      "effort": "medel",
+      "effort": "hog",
       "speed": "snabb",
       "why": "Bygg ett repeterbart arbetsflode eller en skill"
     },
     {
-      "title": "Skapa ett tydligt beslutskort for gemini och notebooklm",
+      "title": "Skapa ett tydligt beslutskort for gemini och chatgpt",
       "kind": "decision",
       "impact": "hog",
       "effort": "lag",
@@ -103,6 +129,78 @@
     }
   ],
   "evidence": [
+    {
+      "videoId": "-iaZUdrljN4",
+      "title": "NEW Google Gemini Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "1FaO6fQm93Q",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen.",
+        "De starkaste use casen är utbildning och onboarding och marketing och explainers, vilket gör att samma upplägg kan användas både internt och externt.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo."
+      ]
+    },
+    {
+      "videoId": "1LU_AHdrfNU",
+      "title": "NEW Gemini Embedding 2 Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "4Airc23mCFE",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Videon visar hur Google Gemini FREE Updates kan förvandla dokument och annat källmaterial till färdiga videor med AI-visuals och voiceover utan traditionell produktion.",
+        "Rollfördelningen är tydlig: Notebook LM står för research och struktur, medan Nano Banana 2 driver bildgenereringen och den visuella stilen.",
+        "Workflowet är tydligt: ladda upp källmaterial, generera en video overview och välja visuell stil."
+      ]
+    },
+    {
+      "videoId": "98bGqof0dUI",
+      "title": "NEW Gemini CLI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "NtpPIFj7HD0",
+      "title": "NEW Gemini CLI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
     {
       "videoId": "ZgnQb40aiTU",
       "title": "Google Gemini New FREE Updates Are INSANE!",
@@ -113,6 +211,30 @@
         "Workflowet är tydligt: ladda upp källmaterial och välja visuell stil.",
         "De starkaste use casen är utbildning och onboarding och marketing och explainers, vilket gör att samma upplägg kan användas både internt och externt.",
         "Affärsvärdet ligger i fart och edge: du kan skapa mer content snabbare, återanvända gammalt material och få en tidig distributionsfördel."
+      ]
+    },
+    {
+      "videoId": "_s7tHRZUmdM",
+      "title": "NEW Google Gemini Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Kärnpositioneringen är inte bara ett nytt verktyg utan en AI-assistent som ska kunna bära mer av det löpande operativa arbetet.",
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Setupen är byggd för låg friktion: hosted körning, låg driftbörda och åtkomst även när den lokala datorn inte är aktiv."
+      ]
+    },
+    {
+      "videoId": "uHjwDSx4f48",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
       ]
     }
   ],

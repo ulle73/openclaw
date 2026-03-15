@@ -1,0 +1,312 @@
+Today I'm going to run you through the
+latest update from Open Claw and we're
+just going to get straight into this. So
+there's a new free update from Open
+Claw. You can see here it's 3.12 and
+it's 12th of March and there's four new
+big headlines. So number one is
+dashboard v2. Number two is fast mode
+for models. So you can actually move a
+lot faster. Number three is Lama
+plugins. There's also device tokens and
+now chron schedule task help you through
+each update today. If you're not sure
+how to update, basically what you can do
+is you can either ask claw code to help
+you update to the latest version of
+openclaw or the other option that you
+have is you can just go um and make into
+your dashboard and you'll see a
+notification at the top that says update
+now, right? And then it will take a
+couple of minutes to download and from
+there you can quickly update. Now here's
+the full change log. So this just came
+out 5 hours ago. These are the full
+details on the new open claw update and
+I'll talk you through each one in a
+simple guide today and show you exactly
+how this works and what the difference
+is. All right, so let's talk about
+what's changed um and how it works. So
+what has changed? Well, the old
+dashboard was functional but basic. The
+new one dashboard version two is a
+completely redesigned control interface.
+So what's inside this new dashboard?
+Basically there's five brand new views.
+So you've got overview which you can see
+over here. All right. So if you have a
+look you can see that we've got overview
+set up right here. This is basically the
+full setup of the general overview.
+Right. And that's just how you can see
+everything happening in your gateway at
+a glance. Number two is chat. Right? So
+you can actually talk to your AI
+directly inside here too which is over
+here. Right? So you got this chat
+section. Now number three is the config.
+Right? So you can actually change your
+settings inside the config settings
+here. And you can see there's a bunch of
+different settings at the top. Right? So
+you got settings, environment,
+authentication, updates, right? So you
+can also update right here. And it just
+looks a little bit different. Like
+before, you have to scroll down to get
+all the update sections. Now it just
+looks a lot cleaner, a lot nicer. You've
+also got a setup for CLI, ACP,
+diagnostics, logging, and then your main
+settings right there. All right. So that
+is part three of the dashboard. And part
+four is the agents. You can actually
+watch and control your agents. So the
+way that you do that is you can go to
+this agent section on the left hand
+side. So you can go down to agents here
+and then you can switch between files,
+tools, skills, channels and schedule
+tasks. Right now you can also switch
+between two different agents here and
+you can also change the model over here
+as well. Right? So you can actually
+click on this dropdown and select which
+model your agent use. Basically the
+APIs, right? So you can switch between
+models really quickly right there. And
+then the final thing is the session,
+right? So you can see all of your active
+conversations and sessions inside the
+session section here. Right? So you can
+see an example right here um of when it
+was used, what happened, what it was
+doing, and these are all the open
+sessions. Right? So quite a lot's
+changed inside the dashboard, and that
+is dashboard v2. Now there's also a
+bunch of new features inside the
+dashboard, too. So now you can actually
+use slash commands uh to quick to
+trigger quick actions. So if you want to
+do that for example um you can go inside
+the chat here and use slash commands
+right you can search and find any past
+message instantly. You can export so you
+can actually download your chat history
+too and you've got this download option.
+So you see that we can click on the
+download and actually see the chat
+history there. And then the final thing
+is pinned messages. So, you can actually
+pin different messages uh that you've
+been working on recently, right? And
+there's also this sound option and a
+delete option there, too. You see,
+you've got a bunch of different tools
+inside here now as well. Now, if you're
+on mobile, if you're using the mobile
+app, there are now bottom tabs on
+mobile, so the dashboard works properly
+on your phone, and there's also a
+command pallet like a search bar that
+lets you jump anywhere instantly. So,
+the bottom line is the new dashboard
+looks much more professional. It feels
+faster, and it gives you much more
+control um over your entire setup. Now,
+here's a big change. This is fast mode
+for AI models. So, when you need answers
+right now, not in like 5 seconds, you
+can use fast mode. And some AI providers
+provide a fast tier, right? A version of
+their model that responds quickly. So,
+OpenCaw now supports toggling this on or
+off at the session level. Now, there's
+three ways you can toggle this on. You
+can do it inside the chat. So, you can,
+for example, type in slashfast inside
+the chat here like that, right? And that
+will actually switch on fast mode for
+you. So you can switch it on or off like
+this. And then the other option is you
+can use the terminal interface, right?
+So if you're using the terminal, you can
+use that as well. And then you can set
+it inside the control UI dashboard.
+Right? So if you want to trigger um the
+fast mode inside
+here, you can also go to the control
+section as well um for the models. So
+it's pretty cool. There's a bunch of
+cool stuff you can do right this. And
+then also you might be wondering, okay,
+which AI models actually support fast
+mode? Not all of them support that,
+right? So there's two major ones that
+support this. Bear in mind if you do
+trigger fast mode, you can go through
+tokens quicker. So just be aware of that
+before you start using it or just use it
+when you need to. But now you can use
+that with GPT 5.4, right? So OpenClaw
+now sends a right request format to
+unlock fast mode for open eye models.
+And then also the other option is
+anthropic. Right? So, OpenClaw maps the
+fast toggle to Anthropics. Basically,
+what this means is if you're in hurry,
+forward/fast gets your AI responses
+delivered faster and now it works
+correctly for both OpenAI and Anthropic.
+Now, change number three, Olama VLM
+and SG Lang are now plugins, right? So,
+what does that mean? Well, before this
+update, Olama VLLM and SG Lang were
+baked directly into Open Core's core
+code. That made the core heavier and
+harder to maintain. Now they've been
+moved on to the provider plug-in
+architecture. Now what does that
+actually mean? Well, basically there's a
+cleaner setup if you want to run local
+models or cloud models with open with
+easier troubleshooting. So you can fix
+problems quicker, faster updates for
+you can also choose between a model as
+well and the right provider plug-in
+activates automatically. If you're
+wondering what's a provider plugin, it's
+kind of like an app on your phone. Open
+core is the phone and Olama V LLM and SG
+lang are now apps you install on the
+phone not features built into the phone
+itself. Right? So the bottom line is if
+you're using any of these local models
+like for example your setup works the
+same as before. The architecture is
+cleaner and therefore more reliable and
+faster moving forward. So that's
+basically how it works. Now you can also
+select between different channels. You
+got audio options as well. Um all sorts
+of cool stuff here. You can actually
+change the appearance as well. So you
+can change between the themes here. And
+you've got different modes inside your
+settings as well on the appearance
+section, right, which is really cool.
+You can also change the appearance and
+the UI. And you've also got a setup
+wizard right here as well. So there's
+all these cool different things and
+different features that are popping up
+here. You see here we've got the AI and
+agent section here. So we've got agents,
+models, skills, tools, memory, and also
+sessions too. Bear in mind there's been
+a ton of updates recently inside
+OpenCore, but these are some of the
+newest features that just came out in
+this new section as well. Now there was
+also another update to uh device tokens
+right so when you paired a device like
+your phone to open claw the pairing
+process um would last longer you know
+and these tokens could be embedded in QR
+codes or chat messages so if someone
+incepted one well they could potentially
+access your open claw right the new
+system um basically means that these
+expire faster which means that it's kind
+of the it it lasts less time and is
+faster Um, and these expire faster,
+right? So, connecting new devices to
+your OpenCloud gateway is just a lot
+more secure. And there's a bunch of
+security patches as you can see right
+here. For example, for plugins, um,
+uni-ode characters, all sorts of cool
+stuff like you can see right here.
+Finally, there's a bunch of new updates
+to fash line zo and you can see some
+more improvements on schedule tasks,
+right? So, basically, this avoids
+duplicate message prevention. Um, and
+also you've got uh a bunch of other
+options here. There's some options for
+Windows as well. So native updates now
+work if you use the open claw update
+command. That was actually failing on
+Windows previously, but now you can
+actually use it. And finally, you've got
+the agent and sub aent improvements,
+right? So basically your AI agents just
+got smarter and more reliable. And
+basically you can use something called
+orchestrators, right? The AI that
+manages other AIs. And this can call
+something called sessions yield, right?
+So, it's like basically you can say to
+the AI agent, I'm done with this step.
+Um, here's what comes next, but don't
+announce it yet. Right? Some other stuff
+right here for ACP. Um, a bunch of
+Telegram fixes as you can see, other
+fixes to Kimmy and Moonshot, but the
+main ones were dashboard v2. So, a
+completely rebuilt UI with five
+views/comands, mobile tabs, and a
+command pallet. Fast mode, that is a bit
+of a game changer. As we all know like
+sometimes open claw can be a bit slow
+and that sort of thing. If you're
+wondering how to update your open claw
+then basically you can either say inside
+the chat update now you can use the
+openclaw update terminal command. You
+can click the button inside the
+dashboard or if you're not sure about
+any of those just open up claw code and
+ask cloud code to update to the latest
+version. And that's basically how you
+can do this. So and also you know the
+alarm plugin as well is quite a big one
+plus some security fixes. So that is
+basically it. Now, if you want to get a
+30-day plan, um, and a full list of 100
+prompts you can use with OpenClaw, plus
+a six-hour course on how to use this,
+another three-hour course right here,
+all the video notes from today, and some
+other cool stuff, like, for example,
+recently we covered how to manage um
+your assistance for AI inside OpenClaw
+and claw code inside one interface with
+AON. I actually covered that earlier
+today along with a bunch of other
+updates on how to use, for example, free
+APIs like Hunter and Heila Alpha with
+Open Core. You get all of my daily new
+trainings inside the AI profit
+boardroom. Right? So, we have tons of
+trainings inside here on how to use
+OpenClaw, how to get set up, etc. You
+can ask questions inside the community.
+You can jump on weekly coaching calls.
+We have an awesome map where you can
+meet people locally. And we have all of
+my best trainings inside the classroom
+as well, like you can see. So, that's
+all inside the arprofit boardroom link
+in the comments description or just go
+to the arprofitboardroom.com.
+You can see a bunch of our testimonials
+and reviews right here. There's lots of
+awesome people just getting awesome
+results and you can join us inside here
+if you want to. All right, thanks so
+much for watching. Appreciate as always.
+I'll see you on the next one. Cheers.

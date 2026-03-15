@@ -1,6 +1,6 @@
 # Project Index
 
-Generated: 2026-03-10T23:02:30Z
+Generated: 2026-03-15T19:02:33Z
 
 ## Coastworks
 - Priority: 10
@@ -81,6 +81,15 @@ Generated: 2026-03-10T23:02:30Z
 - Stack: node, python, telegram-bot, openai, pinecone, voice-ai, typescript, node-tooling
 - Repo paths: C:\Users\ryd\.openclaw\workspace\gravity-claw
 
+## Ai Hedge Fund
+- Priority: 3
+- Role: repo_only
+- Status: repo-detected
+- Summary: This is a proof of concept for an AI-powered hedge fund.  The goal of this project is to explore the use of AI to make trading decisions.  This project is for **educational** purposes only and is not intended for real trading or investment.
+- Tags: workflow-automation
+- Stack: -
+- Repo paths: C:\Users\ryd\.openclaw\workspace\ai-hedge-fund
+
 ## Mission Control
 - Priority: 3
 - Role: repo_only
@@ -132,8 +141,17 @@ Generated: 2026-03-10T23:02:30Z
 - Status: repo-detected
 - Summary: En automatiserad contentmotor byggd som en återanvändbar white-label template. Kärnan är `Node.js`. Google Sheets används som enkel och kostnadsfri datakälla där varje rad innehåller ett ämne eller en idé till ett inlägg.
 - Tags: knowledge-systems, service-offer
-- Stack: node, openai
+- Stack: node, python, openai
 - Repo paths: C:\Users\ryd\.openclaw\workspace\social-media-manager
+
+## Socials V2
+- Priority: 3
+- Role: repo_only
+- Status: repo-detected
+- Summary: Socials V2 is a white-label social content workflow built for multiple brands.
+- Tags: workflow-automation, knowledge-systems
+- Stack: node, python, openai
+- Repo paths: C:\Users\ryd\.openclaw\workspace\socials-v2
 
 ## Awesome Openclaw Skills
 - Priority: 1

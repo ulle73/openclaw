@@ -1,0 +1,1912 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:03.669 align:start position:0%
+ 
+New<00:00:00.400><c> Nvidia's</c><00:00:01.040><c> update</c><00:00:01.520><c> is</c><00:00:02.000><c> insane.</c>
+
+00:00:03.669 --> 00:00:03.679 align:start position:0%
+New Nvidia's update is insane.
+ 
+
+00:00:03.679 --> 00:00:05.829 align:start position:0%
+New Nvidia's update is insane.
+Nvidia<00:00:04.319><c> just</c><00:00:04.560><c> announced</c><00:00:04.960><c> something</c><00:00:05.279><c> massive</c>
+
+00:00:05.829 --> 00:00:05.839 align:start position:0%
+Nvidia just announced something massive
+ 
+
+00:00:05.839 --> 00:00:07.829 align:start position:0%
+Nvidia just announced something massive
+and<00:00:06.080><c> it</c><00:00:06.240><c> hasn't</c><00:00:06.480><c> even</c><00:00:06.720><c> launched</c><00:00:07.040><c> yet.</c><00:00:07.600><c> It's</c>
+
+00:00:07.829 --> 00:00:07.839 align:start position:0%
+and it hasn't even launched yet. It's
+ 
+
+00:00:07.839 --> 00:00:09.910 align:start position:0%
+and it hasn't even launched yet. It's
+called<00:00:08.240><c> Nemo</c><00:00:08.720><c> Claw</c><00:00:09.120><c> and</c><00:00:09.280><c> it</c><00:00:09.440><c> could</c><00:00:09.599><c> be</c><00:00:09.679><c> the</c>
+
+00:00:09.910 --> 00:00:09.920 align:start position:0%
+called Nemo Claw and it could be the
+ 
+
+00:00:09.920 --> 00:00:11.830 align:start position:0%
+called Nemo Claw and it could be the
+biggest<00:00:10.160><c> thing</c><00:00:10.320><c> to</c><00:00:10.480><c> hit</c><00:00:10.719><c> AI</c><00:00:11.120><c> automation</c><00:00:11.599><c> this</c>
+
+00:00:11.830 --> 00:00:11.840 align:start position:0%
+biggest thing to hit AI automation this
+ 
+
+00:00:11.840 --> 00:00:13.990 align:start position:0%
+biggest thing to hit AI automation this
+year.<00:00:12.160><c> Open</c><00:00:12.480><c> source</c><00:00:12.960><c> built</c><00:00:13.200><c> for</c><00:00:13.440><c> businesses</c>
+
+00:00:13.990 --> 00:00:14.000 align:start position:0%
+year. Open source built for businesses
+ 
+
+00:00:14.000 --> 00:00:15.509 align:start position:0%
+year. Open source built for businesses
+and<00:00:14.320><c> coming</c><00:00:14.559><c> straight</c><00:00:14.799><c> from</c><00:00:15.040><c> the</c><00:00:15.200><c> company</c>
+
+00:00:15.509 --> 00:00:15.519 align:start position:0%
+and coming straight from the company
+ 
+
+00:00:15.519 --> 00:00:17.670 align:start position:0%
+and coming straight from the company
+that<00:00:15.759><c> powers</c><00:00:16.080><c> all</c><00:00:16.240><c> of</c><00:00:16.320><c> AI.</c><00:00:16.880><c> Stay</c><00:00:17.039><c> with</c><00:00:17.199><c> me</c>
+
+00:00:17.670 --> 00:00:17.680 align:start position:0%
+that powers all of AI. Stay with me
+ 
+
+00:00:17.680 --> 00:00:18.950 align:start position:0%
+that powers all of AI. Stay with me
+because<00:00:17.920><c> you</c><00:00:18.160><c> want</c><00:00:18.240><c> to</c><00:00:18.400><c> know</c><00:00:18.480><c> about</c><00:00:18.720><c> this</c>
+
+00:00:18.950 --> 00:00:18.960 align:start position:0%
+because you want to know about this
+ 
+
+00:00:18.960 --> 00:00:22.070 align:start position:0%
+because you want to know about this
+before<00:00:19.199><c> it</c><00:00:19.439><c> drops.</c><00:00:20.080><c> Okay,</c><00:00:21.119><c> so</c><00:00:21.439><c> here's</c><00:00:21.760><c> what</c><00:00:21.920><c> we</c>
+
+00:00:22.070 --> 00:00:22.080 align:start position:0%
+before it drops. Okay, so here's what we
+ 
+
+00:00:22.080 --> 00:00:25.269 align:start position:0%
+before it drops. Okay, so here's what we
+know.<00:00:23.199><c> Nvidia</c><00:00:23.840><c> is</c><00:00:24.080><c> planning</c><00:00:24.320><c> to</c><00:00:24.560><c> launch</c><00:00:24.960><c> an</c>
+
+00:00:25.269 --> 00:00:25.279 align:start position:0%
+know. Nvidia is planning to launch an
+ 
+
+00:00:25.279 --> 00:00:27.750 align:start position:0%
+know. Nvidia is planning to launch an
+opensource<00:00:26.160><c> AI</c><00:00:26.560><c> agent</c><00:00:27.039><c> platform</c><00:00:27.519><c> called</c>
+
+00:00:27.750 --> 00:00:27.760 align:start position:0%
+opensource AI agent platform called
+ 
+
+00:00:27.760 --> 00:00:30.710 align:start position:0%
+opensource AI agent platform called
+Neoclaw.<00:00:28.720><c> This</c><00:00:28.960><c> was</c><00:00:29.199><c> reported</c><00:00:29.599><c> by</c><00:00:29.840><c> Wired</c><00:00:30.480><c> and</c>
+
+00:00:30.710 --> 00:00:30.720 align:start position:0%
+Neoclaw. This was reported by Wired and
+ 
+
+00:00:30.720 --> 00:00:32.549 align:start position:0%
+Neoclaw. This was reported by Wired and
+it's<00:00:30.880><c> making</c><00:00:31.119><c> a</c><00:00:31.359><c> lot</c><00:00:31.439><c> of</c><00:00:31.599><c> people</c><00:00:31.840><c> in</c><00:00:32.079><c> the</c><00:00:32.160><c> AI</c>
+
+00:00:32.549 --> 00:00:32.559 align:start position:0%
+it's making a lot of people in the AI
+ 
+
+00:00:32.559 --> 00:00:34.389 align:start position:0%
+it's making a lot of people in the AI
+world<00:00:32.880><c> pay</c><00:00:33.120><c> very</c><00:00:33.360><c> close</c><00:00:33.600><c> attention</c><00:00:34.160><c> because</c>
+
+00:00:34.389 --> 00:00:34.399 align:start position:0%
+world pay very close attention because
+ 
+
+00:00:34.399 --> 00:00:35.910 align:start position:0%
+world pay very close attention because
+this<00:00:34.640><c> isn't</c><00:00:34.960><c> just</c><00:00:35.120><c> another</c><00:00:35.440><c> tool</c><00:00:35.680><c> from</c>
+
+00:00:35.910 --> 00:00:35.920 align:start position:0%
+this isn't just another tool from
+ 
+
+00:00:35.920 --> 00:00:38.150 align:start position:0%
+this isn't just another tool from
+another<00:00:36.239><c> startup.</c><00:00:36.800><c> This</c><00:00:36.960><c> is</c><00:00:37.120><c> Nvidia,</c><00:00:37.920><c> the</c>
+
+00:00:38.150 --> 00:00:38.160 align:start position:0%
+another startup. This is Nvidia, the
+ 
+
+00:00:38.160 --> 00:00:39.990 align:start position:0%
+another startup. This is Nvidia, the
+company<00:00:38.399><c> whose</c><00:00:38.800><c> chips</c><00:00:39.120><c> power</c><00:00:39.520><c> basically</c>
+
+00:00:39.990 --> 00:00:40.000 align:start position:0%
+company whose chips power basically
+ 
+
+00:00:40.000 --> 00:00:42.470 align:start position:0%
+company whose chips power basically
+every<00:00:40.320><c> major</c><00:00:40.719><c> AI</c><00:00:41.200><c> system</c><00:00:41.440><c> on</c><00:00:41.680><c> the</c><00:00:41.840><c> planet.</c><00:00:42.320><c> And</c>
+
+00:00:42.470 --> 00:00:42.480 align:start position:0%
+every major AI system on the planet. And
+ 
+
+00:00:42.480 --> 00:00:43.990 align:start position:0%
+every major AI system on the planet. And
+they're<00:00:42.719><c> building</c><00:00:42.960><c> a</c><00:00:43.200><c> platform</c><00:00:43.520><c> that</c><00:00:43.680><c> lets</c>
+
+00:00:43.990 --> 00:00:44.000 align:start position:0%
+they're building a platform that lets
+ 
+
+00:00:44.000 --> 00:00:45.830 align:start position:0%
+they're building a platform that lets
+businesses<00:00:44.399><c> deploy</c><00:00:44.719><c> AI</c><00:00:45.040><c> agents</c><00:00:45.360><c> across</c><00:00:45.600><c> their</c>
+
+00:00:45.830 --> 00:00:45.840 align:start position:0%
+businesses deploy AI agents across their
+ 
+
+00:00:45.840 --> 00:00:47.750 align:start position:0%
+businesses deploy AI agents across their
+entire<00:00:46.160><c> workforce.</c><00:00:46.800><c> That</c><00:00:47.039><c> is</c><00:00:47.120><c> a</c><00:00:47.280><c> big</c><00:00:47.440><c> deal.</c>
+
+00:00:47.750 --> 00:00:47.760 align:start position:0%
+entire workforce. That is a big deal.
+ 
+
+00:00:47.760 --> 00:00:49.350 align:start position:0%
+entire workforce. That is a big deal.
+Let<00:00:47.920><c> me</c><00:00:48.000><c> explain</c><00:00:48.239><c> what</c><00:00:48.399><c> Neoclaw</c><00:00:48.960><c> is</c><00:00:49.120><c> actually</c>
+
+00:00:49.350 --> 00:00:49.360 align:start position:0%
+Let me explain what Neoclaw is actually
+ 
+
+00:00:49.360 --> 00:00:51.029 align:start position:0%
+Let me explain what Neoclaw is actually
+supposed<00:00:49.520><c> to</c><00:00:49.760><c> do</c><00:00:50.239><c> because</c><00:00:50.559><c> there's</c><00:00:50.800><c> a</c>
+
+00:00:51.029 --> 00:00:51.039 align:start position:0%
+supposed to do because there's a
+ 
+
+00:00:51.039 --> 00:00:52.869 align:start position:0%
+supposed to do because there's a
+difference<00:00:51.280><c> between</c><00:00:51.520><c> an</c><00:00:51.760><c> AI</c><00:00:52.079><c> chatbot</c><00:00:52.559><c> and</c><00:00:52.719><c> an</c>
+
+00:00:52.869 --> 00:00:52.879 align:start position:0%
+difference between an AI chatbot and an
+ 
+
+00:00:52.879 --> 00:00:55.189 align:start position:0%
+difference between an AI chatbot and an
+AI<00:00:53.199><c> agent</c><00:00:53.920><c> and</c><00:00:54.239><c> that</c><00:00:54.480><c> difference</c><00:00:54.719><c> matters</c><00:00:55.039><c> a</c>
+
+00:00:55.189 --> 00:00:55.199 align:start position:0%
+AI agent and that difference matters a
+ 
+
+00:00:55.199 --> 00:00:56.950 align:start position:0%
+AI agent and that difference matters a
+lot.<00:00:55.440><c> A</c><00:00:55.600><c> chatbot</c><00:00:56.079><c> sits</c><00:00:56.320><c> there</c><00:00:56.399><c> and</c><00:00:56.640><c> waits</c><00:00:56.800><c> for</c>
+
+00:00:56.950 --> 00:00:56.960 align:start position:0%
+lot. A chatbot sits there and waits for
+ 
+
+00:00:56.960 --> 00:00:58.790 align:start position:0%
+lot. A chatbot sits there and waits for
+you<00:00:57.039><c> to</c><00:00:57.199><c> ask</c><00:00:57.360><c> it</c><00:00:57.600><c> something.</c><00:00:57.920><c> It</c><00:00:58.160><c> replies.</c>
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+you to ask it something. It replies.
+ 
+
+00:00:58.800 --> 00:01:01.270 align:start position:0%
+you to ask it something. It replies.
+That's<00:00:59.039><c> it.</c><00:00:59.359><c> An</c><00:00:59.600><c> AI</c><00:00:59.920><c> agent</c><00:01:00.480><c> actually</c><00:01:00.960><c> does</c>
+
+00:01:01.270 --> 00:01:01.280 align:start position:0%
+That's it. An AI agent actually does
+ 
+
+00:01:01.280 --> 00:01:03.830 align:start position:0%
+That's it. An AI agent actually does
+things.<00:01:01.920><c> It</c><00:01:02.160><c> can</c><00:01:02.320><c> take</c><00:01:02.480><c> actions.</c><00:01:03.280><c> It</c><00:01:03.520><c> can</c><00:01:03.680><c> run</c>
+
+00:01:03.830 --> 00:01:03.840 align:start position:0%
+things. It can take actions. It can run
+ 
+
+00:01:03.840 --> 00:01:05.670 align:start position:0%
+things. It can take actions. It can run
+workflows.<00:01:04.799><c> It</c><00:01:04.960><c> can</c><00:01:05.119><c> talk</c><00:01:05.280><c> to</c><00:01:05.439><c> other</c>
+
+00:01:05.670 --> 00:01:05.680 align:start position:0%
+workflows. It can talk to other
+ 
+
+00:01:05.680 --> 00:01:08.070 align:start position:0%
+workflows. It can talk to other
+software.<00:01:06.400><c> It</c><00:01:06.560><c> can</c><00:01:06.720><c> make</c><00:01:06.960><c> decisions.</c><00:01:07.840><c> It</c><00:01:08.000><c> can</c>
+
+00:01:08.070 --> 00:01:08.080 align:start position:0%
+software. It can make decisions. It can
+ 
+
+00:01:08.080 --> 00:01:10.630 align:start position:0%
+software. It can make decisions. It can
+trigger<00:01:08.479><c> other</c><00:01:08.640><c> agents</c><00:01:09.119><c> to</c><00:01:09.360><c> do</c><00:01:09.520><c> other</c><00:01:09.760><c> tasks.</c>
+
+00:01:10.630 --> 00:01:10.640 align:start position:0%
+trigger other agents to do other tasks.
+ 
+
+00:01:10.640 --> 00:01:12.310 align:start position:0%
+trigger other agents to do other tasks.
+Hey,<00:01:10.799><c> if</c><00:01:11.040><c> we</c><00:01:11.200><c> haven't</c><00:01:11.360><c> met</c><00:01:11.600><c> already,</c><00:01:11.920><c> I'm</c><00:01:12.159><c> the</c>
+
+00:01:12.310 --> 00:01:12.320 align:start position:0%
+Hey, if we haven't met already, I'm the
+ 
+
+00:01:12.320 --> 00:01:15.590 align:start position:0%
+Hey, if we haven't met already, I'm the
+digital<00:01:12.720><c> avatar</c><00:01:13.200><c> of</c><00:01:13.360><c> Julian</c><00:01:13.840><c> Goldie,</c><00:01:14.479><c> CEO</c><00:01:15.280><c> of</c>
+
+00:01:15.590 --> 00:01:15.600 align:start position:0%
+digital avatar of Julian Goldie, CEO of
+ 
+
+00:01:15.600 --> 00:01:18.710 align:start position:0%
+digital avatar of Julian Goldie, CEO of
+SEO<00:01:16.159><c> agency</c><00:01:16.880><c> Goldie</c><00:01:17.360><c> Agency.</c><00:01:18.240><c> Whilst</c><00:01:18.479><c> he's</c>
+
+00:01:18.710 --> 00:01:18.720 align:start position:0%
+SEO agency Goldie Agency. Whilst he's
+ 
+
+00:01:18.720 --> 00:01:20.310 align:start position:0%
+SEO agency Goldie Agency. Whilst he's
+helping<00:01:19.040><c> clients</c><00:01:19.439><c> get</c><00:01:19.600><c> more</c><00:01:19.840><c> leads</c><00:01:20.080><c> and</c>
+
+00:01:20.310 --> 00:01:20.320 align:start position:0%
+helping clients get more leads and
+ 
+
+00:01:20.320 --> 00:01:22.230 align:start position:0%
+helping clients get more leads and
+customers,<00:01:20.880><c> I'm</c><00:01:21.119><c> here</c><00:01:21.280><c> to</c><00:01:21.439><c> help</c><00:01:21.680><c> you</c><00:01:21.840><c> get</c><00:01:22.000><c> the</c>
+
+00:01:22.230 --> 00:01:22.240 align:start position:0%
+customers, I'm here to help you get the
+ 
+
+00:01:22.240 --> 00:01:25.109 align:start position:0%
+customers, I'm here to help you get the
+latest<00:01:22.479><c> AI</c><00:01:22.960><c> updates.</c><00:01:23.759><c> Julian</c><00:01:24.240><c> Goldie</c><00:01:24.799><c> reads</c>
+
+00:01:25.109 --> 00:01:25.119 align:start position:0%
+latest AI updates. Julian Goldie reads
+ 
+
+00:01:25.119 --> 00:01:26.550 align:start position:0%
+latest AI updates. Julian Goldie reads
+every<00:01:25.280><c> comment.</c><00:01:25.680><c> So,</c><00:01:25.840><c> make</c><00:01:26.000><c> sure</c><00:01:26.080><c> you</c><00:01:26.240><c> comment</c>
+
+00:01:26.550 --> 00:01:26.560 align:start position:0%
+every comment. So, make sure you comment
+ 
+
+00:01:26.560 --> 00:01:28.310 align:start position:0%
+every comment. So, make sure you comment
+below,<00:01:26.880><c> you</c><00:01:27.119><c> give</c><00:01:27.200><c> it</c><00:01:27.360><c> a</c><00:01:27.520><c> goal,</c><00:01:27.840><c> and</c><00:01:28.080><c> it</c>
+
+00:01:28.310 --> 00:01:28.320 align:start position:0%
+below, you give it a goal, and it
+ 
+
+00:01:28.320 --> 00:01:30.630 align:start position:0%
+below, you give it a goal, and it
+figures<00:01:28.560><c> out</c><00:01:28.720><c> how</c><00:01:28.880><c> to</c><00:01:29.040><c> get</c><00:01:29.200><c> there.</c><00:01:29.759><c> Nemo</c><00:01:30.240><c> Claw</c>
+
+00:01:30.630 --> 00:01:30.640 align:start position:0%
+figures out how to get there. Nemo Claw
+ 
+
+00:01:30.640 --> 00:01:32.469 align:start position:0%
+figures out how to get there. Nemo Claw
+is<00:01:30.880><c> being</c><00:01:31.040><c> built</c><00:01:31.360><c> so</c><00:01:31.520><c> that</c><00:01:31.759><c> businesses</c><00:01:32.240><c> can</c>
+
+00:01:32.469 --> 00:01:32.479 align:start position:0%
+is being built so that businesses can
+ 
+
+00:01:32.479 --> 00:01:34.630 align:start position:0%
+is being built so that businesses can
+deploy<00:01:32.880><c> those</c><00:01:33.200><c> kinds</c><00:01:33.439><c> of</c><00:01:33.520><c> agents</c><00:01:34.159><c> across</c>
+
+00:01:34.630 --> 00:01:34.640 align:start position:0%
+deploy those kinds of agents across
+ 
+
+00:01:34.640 --> 00:01:37.350 align:start position:0%
+deploy those kinds of agents across
+their<00:01:34.880><c> teams.</c><00:01:35.520><c> Not</c><00:01:35.680><c> one</c><00:01:35.920><c> agent,</c><00:01:36.479><c> not</c><00:01:36.640><c> a</c><00:01:36.880><c> demo.</c>
+
+00:01:37.350 --> 00:01:37.360 align:start position:0%
+their teams. Not one agent, not a demo.
+ 
+
+00:01:37.360 --> 00:01:39.510 align:start position:0%
+their teams. Not one agent, not a demo.
+An<00:01:37.600><c> actual</c><00:01:37.920><c> workforce</c><00:01:38.320><c> of</c><00:01:38.479><c> AI</c><00:01:38.799><c> agents</c><00:01:39.200><c> running</c>
+
+00:01:39.510 --> 00:01:39.520 align:start position:0%
+An actual workforce of AI agents running
+ 
+
+00:01:39.520 --> 00:01:41.510 align:start position:0%
+An actual workforce of AI agents running
+inside<00:01:39.840><c> your</c><00:01:40.159><c> business.</c><00:01:40.799><c> And</c><00:01:40.960><c> if</c><00:01:41.119><c> you</c><00:01:41.280><c> want</c><00:01:41.360><c> to</c>
+
+00:01:41.510 --> 00:01:41.520 align:start position:0%
+inside your business. And if you want to
+ 
+
+00:01:41.520 --> 00:01:42.950 align:start position:0%
+inside your business. And if you want to
+start<00:01:41.759><c> learning</c><00:01:42.000><c> how</c><00:01:42.240><c> to</c><00:01:42.400><c> build</c><00:01:42.640><c> AI</c>
+
+00:01:42.950 --> 00:01:42.960 align:start position:0%
+start learning how to build AI
+ 
+
+00:01:42.960 --> 00:01:44.950 align:start position:0%
+start learning how to build AI
+automation<00:01:43.439><c> systems</c><00:01:43.840><c> like</c><00:01:44.000><c> that</c><00:01:44.240><c> right</c><00:01:44.479><c> now</c>
+
+00:01:44.950 --> 00:01:44.960 align:start position:0%
+automation systems like that right now
+ 
+
+00:01:44.960 --> 00:01:47.830 align:start position:0%
+automation systems like that right now
+before<00:01:45.280><c> Nemoclaw</c><00:01:46.000><c> even</c><00:01:46.240><c> drops,</c><00:01:46.960><c> join</c><00:01:47.200><c> the</c><00:01:47.439><c> AI</c>
+
+00:01:47.830 --> 00:01:47.840 align:start position:0%
+before Nemoclaw even drops, join the AI
+ 
+
+00:01:47.840 --> 00:01:49.670 align:start position:0%
+before Nemoclaw even drops, join the AI
+profit<00:01:48.240><c> boardroom.</c><00:01:48.960><c> It's</c><00:01:49.200><c> the</c><00:01:49.439><c> best</c>
+
+00:01:49.670 --> 00:01:49.680 align:start position:0%
+profit boardroom. It's the best
+ 
+
+00:01:49.680 --> 00:01:51.350 align:start position:0%
+profit boardroom. It's the best
+community<00:01:50.000><c> for</c><00:01:50.240><c> scaling</c><00:01:50.640><c> your</c><00:01:50.880><c> business</c><00:01:51.040><c> with</c>
+
+00:01:51.350 --> 00:01:51.360 align:start position:0%
+community for scaling your business with
+ 
+
+00:01:51.360 --> 00:01:53.990 align:start position:0%
+community for scaling your business with
+AI<00:01:51.680><c> automation.</c><00:01:52.479><c> real</c><00:01:52.799><c> workflows,</c><00:01:53.520><c> real</c><00:01:53.759><c> use</c>
+
+00:01:53.990 --> 00:01:54.000 align:start position:0%
+AI automation. real workflows, real use
+ 
+
+00:01:54.000 --> 00:01:56.069 align:start position:0%
+AI automation. real workflows, real use
+cases,<00:01:54.720><c> people</c><00:01:54.960><c> who</c><00:01:55.119><c> are</c><00:01:55.360><c> already</c><00:01:55.600><c> doing</c><00:01:55.840><c> this</c>
+
+00:01:56.069 --> 00:01:56.079 align:start position:0%
+cases, people who are already doing this
+ 
+
+00:01:56.079 --> 00:01:57.910 align:start position:0%
+cases, people who are already doing this
+every<00:01:56.320><c> day.</c><00:01:56.720><c> Link</c><00:01:56.960><c> is</c><00:01:57.119><c> in</c><00:01:57.280><c> the</c><00:01:57.439><c> comment</c><00:01:57.680><c> and</c>
+
+00:01:57.910 --> 00:01:57.920 align:start position:0%
+every day. Link is in the comment and
+ 
+
+00:01:57.920 --> 00:01:59.670 align:start position:0%
+every day. Link is in the comment and
+description.<00:01:58.560><c> Come</c><00:01:58.799><c> join</c><00:01:59.040><c> us.</c><00:01:59.280><c> And</c><00:01:59.439><c> here's</c>
+
+00:01:59.670 --> 00:01:59.680 align:start position:0%
+description. Come join us. And here's
+ 
+
+00:01:59.680 --> 00:02:00.789 align:start position:0%
+description. Come join us. And here's
+the<00:01:59.840><c> part</c><00:02:00.000><c> that</c><00:02:00.159><c> makes</c><00:02:00.320><c> this</c><00:02:00.560><c> really</c>
+
+00:02:00.789 --> 00:02:00.799 align:start position:0%
+the part that makes this really
+ 
+
+00:02:00.799 --> 00:02:02.469 align:start position:0%
+the part that makes this really
+exciting.<00:02:01.439><c> It's</c><00:02:01.680><c> planned</c><00:02:01.840><c> to</c><00:02:02.000><c> be</c><00:02:02.159><c> open</c>
+
+00:02:02.469 --> 00:02:02.479 align:start position:0%
+exciting. It's planned to be open
+ 
+
+00:02:02.479 --> 00:02:04.149 align:start position:0%
+exciting. It's planned to be open
+source.<00:02:02.799><c> That</c><00:02:02.960><c> means</c><00:02:03.200><c> when</c><00:02:03.360><c> it</c><00:02:03.520><c> launches,</c>
+
+00:02:04.149 --> 00:02:04.159 align:start position:0%
+source. That means when it launches,
+ 
+
+00:02:04.159 --> 00:02:06.469 align:start position:0%
+source. That means when it launches,
+anyone<00:02:04.479><c> can</c><00:02:04.719><c> use</c><00:02:04.880><c> it.</c><00:02:05.520><c> Developers</c><00:02:06.079><c> can</c><00:02:06.240><c> build</c>
+
+00:02:06.469 --> 00:02:06.479 align:start position:0%
+anyone can use it. Developers can build
+ 
+
+00:02:06.479 --> 00:02:08.309 align:start position:0%
+anyone can use it. Developers can build
+on<00:02:06.640><c> top</c><00:02:06.719><c> of</c><00:02:06.880><c> it.</c><00:02:07.200><c> Businesses</c><00:02:07.680><c> can</c><00:02:07.920><c> customize</c>
+
+00:02:08.309 --> 00:02:08.319 align:start position:0%
+on top of it. Businesses can customize
+ 
+
+00:02:08.319 --> 00:02:10.469 align:start position:0%
+on top of it. Businesses can customize
+it<00:02:08.479><c> for</c><00:02:08.640><c> their</c><00:02:08.879><c> exact</c><00:02:09.200><c> needs.</c><00:02:09.759><c> No</c><00:02:10.000><c> massive</c>
+
+00:02:10.469 --> 00:02:10.479 align:start position:0%
+it for their exact needs. No massive
+ 
+
+00:02:10.479 --> 00:02:12.390 align:start position:0%
+it for their exact needs. No massive
+licensing<00:02:10.959><c> fees.</c><00:02:11.440><c> No</c><00:02:11.680><c> getting</c><00:02:11.920><c> locked</c><00:02:12.239><c> into</c>
+
+00:02:12.390 --> 00:02:12.400 align:start position:0%
+licensing fees. No getting locked into
+ 
+
+00:02:12.400 --> 00:02:14.150 align:start position:0%
+licensing fees. No getting locked into
+one<00:02:12.640><c> vendor's</c><00:02:13.040><c> ecosystem.</c><00:02:13.760><c> Open,</c>
+
+00:02:14.150 --> 00:02:14.160 align:start position:0%
+one vendor's ecosystem. Open,
+ 
+
+00:02:14.160 --> 00:02:16.150 align:start position:0%
+one vendor's ecosystem. Open,
+accessible,<00:02:14.720><c> free</c><00:02:14.959><c> to</c><00:02:15.120><c> use,</c><00:02:15.280><c> and</c><00:02:15.520><c> build</c><00:02:15.680><c> on.</c>
+
+00:02:16.150 --> 00:02:16.160 align:start position:0%
+accessible, free to use, and build on.
+ 
+
+00:02:16.160 --> 00:02:17.990 align:start position:0%
+accessible, free to use, and build on.
+That<00:02:16.319><c> is</c><00:02:16.560><c> going</c><00:02:16.640><c> to</c><00:02:16.959><c> accelerate</c><00:02:17.520><c> how</c><00:02:17.760><c> fast</c>
+
+00:02:17.990 --> 00:02:18.000 align:start position:0%
+That is going to accelerate how fast
+ 
+
+00:02:18.000 --> 00:02:20.470 align:start position:0%
+That is going to accelerate how fast
+this<00:02:18.319><c> technology</c><00:02:19.120><c> gets</c><00:02:19.440><c> adopted.</c><00:02:20.239><c> Because</c>
+
+00:02:20.470 --> 00:02:20.480 align:start position:0%
+this technology gets adopted. Because
+ 
+
+00:02:20.480 --> 00:02:22.309 align:start position:0%
+this technology gets adopted. Because
+the<00:02:20.720><c> moment</c><00:02:20.959><c> something</c><00:02:21.280><c> powerful</c><00:02:21.680><c> goes</c><00:02:22.000><c> open</c>
+
+00:02:22.309 --> 00:02:22.319 align:start position:0%
+the moment something powerful goes open
+ 
+
+00:02:22.319 --> 00:02:24.229 align:start position:0%
+the moment something powerful goes open
+source,<00:02:22.640><c> the</c><00:02:22.879><c> developer</c><00:02:23.360><c> community</c><00:02:23.920><c> runs</c>
+
+00:02:24.229 --> 00:02:24.239 align:start position:0%
+source, the developer community runs
+ 
+
+00:02:24.239 --> 00:02:25.830 align:start position:0%
+source, the developer community runs
+with<00:02:24.400><c> it.</c><00:02:24.720><c> And</c><00:02:24.879><c> within</c><00:02:25.200><c> months,</c><00:02:25.520><c> you've</c><00:02:25.760><c> got</c>
+
+00:02:25.830 --> 00:02:25.840 align:start position:0%
+with it. And within months, you've got
+ 
+
+00:02:25.840 --> 00:02:27.750 align:start position:0%
+with it. And within months, you've got
+integrations,<00:02:26.800><c> templates,</c><00:02:27.280><c> plugins,</c><00:02:27.599><c> and</c>
+
+00:02:27.750 --> 00:02:27.760 align:start position:0%
+integrations, templates, plugins, and
+ 
+
+00:02:27.760 --> 00:02:29.670 align:start position:0%
+integrations, templates, plugins, and
+use<00:02:27.920><c> cases</c><00:02:28.239><c> you</c><00:02:28.480><c> never</c><00:02:28.640><c> even</c><00:02:28.879><c> thought</c><00:02:29.040><c> of.</c>
+
+00:02:29.670 --> 00:02:29.680 align:start position:0%
+use cases you never even thought of.
+ 
+
+00:02:29.680 --> 00:02:31.030 align:start position:0%
+use cases you never even thought of.
+Now,<00:02:29.920><c> here's</c><00:02:30.160><c> why</c><00:02:30.319><c> you</c><00:02:30.480><c> should</c><00:02:30.640><c> care</c><00:02:30.879><c> about</c>
+
+00:02:31.030 --> 00:02:31.040 align:start position:0%
+Now, here's why you should care about
+ 
+
+00:02:31.040 --> 00:02:33.350 align:start position:0%
+Now, here's why you should care about
+this<00:02:31.280><c> right</c><00:02:31.520><c> now,</c><00:02:32.319><c> even</c><00:02:32.560><c> though</c><00:02:32.800><c> it</c><00:02:33.040><c> hasn't</c>
+
+00:02:33.350 --> 00:02:33.360 align:start position:0%
+this right now, even though it hasn't
+ 
+
+00:02:33.360 --> 00:02:34.470 align:start position:0%
+this right now, even though it hasn't
+launched<00:02:33.760><c> yet.</c>
+
+00:02:34.470 --> 00:02:34.480 align:start position:0%
+launched yet.
+ 
+
+00:02:34.480 --> 00:02:36.150 align:start position:0%
+launched yet.
+&gt;&gt; Because<00:02:34.640><c> the</c><00:02:34.879><c> businesses</c><00:02:35.360><c> that</c><00:02:35.680><c> understand</c>
+
+00:02:36.150 --> 00:02:36.160 align:start position:0%
+&gt;&gt; Because the businesses that understand
+ 
+
+00:02:36.160 --> 00:02:38.229 align:start position:0%
+&gt;&gt; Because the businesses that understand
+what's<00:02:36.480><c> coming</c><00:02:36.720><c> and</c><00:02:36.959><c> start</c><00:02:37.200><c> preparing</c><00:02:37.760><c> now</c>
+
+00:02:38.229 --> 00:02:38.239 align:start position:0%
+what's coming and start preparing now
+ 
+
+00:02:38.239 --> 00:02:39.990 align:start position:0%
+what's coming and start preparing now
+are<00:02:38.400><c> the</c><00:02:38.640><c> ones</c><00:02:38.800><c> that</c><00:02:39.040><c> will</c><00:02:39.280><c> win</c><00:02:39.599><c> when</c><00:02:39.840><c> it</c>
+
+00:02:39.990 --> 00:02:40.000 align:start position:0%
+are the ones that will win when it
+ 
+
+00:02:40.000 --> 00:02:41.430 align:start position:0%
+are the ones that will win when it
+drops.
+
+00:02:41.430 --> 00:02:41.440 align:start position:0%
+drops.
+ 
+
+00:02:41.440 --> 00:02:43.430 align:start position:0%
+drops.
+Think<00:02:41.760><c> about</c><00:02:41.920><c> what</c><00:02:42.160><c> AI</c><00:02:42.480><c> agents</c><00:02:42.879><c> could</c><00:02:43.120><c> do</c><00:02:43.280><c> for</c>
+
+00:02:43.430 --> 00:02:43.440 align:start position:0%
+Think about what AI agents could do for
+ 
+
+00:02:43.440 --> 00:02:45.830 align:start position:0%
+Think about what AI agents could do for
+a<00:02:43.680><c> business</c><00:02:43.840><c> like</c><00:02:44.080><c> the</c><00:02:44.239><c> AI</c><00:02:44.560><c> profit</c><00:02:44.959><c> boardroom,</c>
+
+00:02:45.830 --> 00:02:45.840 align:start position:0%
+a business like the AI profit boardroom,
+ 
+
+00:02:45.840 --> 00:02:48.070 align:start position:0%
+a business like the AI profit boardroom,
+uh,<00:02:45.920><c> an</c><00:02:46.160><c> AI</c><00:02:46.560><c> automation</c><00:02:47.200><c> community</c><00:02:47.599><c> built</c><00:02:47.920><c> to</c>
+
+00:02:48.070 --> 00:02:48.080 align:start position:0%
+uh, an AI automation community built to
+ 
+
+00:02:48.080 --> 00:02:50.309 align:start position:0%
+uh, an AI automation community built to
+help<00:02:48.319><c> people</c><00:02:48.560><c> scale</c><00:02:48.879><c> with</c><00:02:49.040><c> AI.</c><00:02:49.760><c> Right</c><00:02:50.000><c> now,</c>
+
+00:02:50.309 --> 00:02:50.319 align:start position:0%
+help people scale with AI. Right now,
+ 
+
+00:02:50.319 --> 00:02:52.550 align:start position:0%
+help people scale with AI. Right now,
+someone<00:02:50.640><c> visits</c><00:02:50.959><c> the</c><00:02:51.200><c> page,</c><00:02:51.760><c> watches</c><00:02:52.080><c> a</c><00:02:52.319><c> free</c>
+
+00:02:52.550 --> 00:02:52.560 align:start position:0%
+someone visits the page, watches a free
+ 
+
+00:02:52.560 --> 00:02:54.630 align:start position:0%
+someone visits the page, watches a free
+video,<00:02:52.879><c> and</c><00:02:53.040><c> leaves</c><00:02:53.360><c> without</c><00:02:53.760><c> signing</c><00:02:54.080><c> up.</c>
+
+00:02:54.630 --> 00:02:54.640 align:start position:0%
+video, and leaves without signing up.
+ 
+
+00:02:54.640 --> 00:02:56.790 align:start position:0%
+video, and leaves without signing up.
+That<00:02:54.800><c> lead</c><00:02:55.120><c> is</c><00:02:55.280><c> gone.</c><00:02:55.680><c> But</c><00:02:55.760><c> with</c><00:02:55.920><c> an</c><00:02:56.080><c> AI</c><00:02:56.400><c> agent</c>
+
+00:02:56.790 --> 00:02:56.800 align:start position:0%
+That lead is gone. But with an AI agent
+ 
+
+00:02:56.800 --> 00:02:58.710 align:start position:0%
+That lead is gone. But with an AI agent
+system<00:02:57.040><c> in</c><00:02:57.200><c> place,</c><00:02:57.519><c> that</c><00:02:57.760><c> same</c><00:02:58.000><c> person</c><00:02:58.319><c> gets</c><00:02:58.560><c> a</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+system in place, that same person gets a
+ 
+
+00:02:58.720 --> 00:03:00.630 align:start position:0%
+system in place, that same person gets a
+personalized<00:02:59.200><c> follow-up,</c><00:02:59.840><c> a</c><00:03:00.000><c> check-in</c><00:03:00.400><c> a</c><00:03:00.560><c> few</c>
+
+00:03:00.630 --> 00:03:00.640 align:start position:0%
+personalized follow-up, a check-in a few
+ 
+
+00:03:00.640 --> 00:03:02.149 align:start position:0%
+personalized follow-up, a check-in a few
+days<00:03:00.879><c> later,</c><00:03:01.200><c> an</c><00:03:01.440><c> answer</c><00:03:01.599><c> to</c><00:03:01.840><c> whatever</c>
+
+00:03:02.149 --> 00:03:02.159 align:start position:0%
+days later, an answer to whatever
+ 
+
+00:03:02.159 --> 00:03:03.910 align:start position:0%
+days later, an answer to whatever
+question<00:03:02.480><c> stopped</c><00:03:02.720><c> them</c><00:03:02.879><c> from</c><00:03:03.120><c> joining,</c><00:03:03.680><c> a</c>
+
+00:03:03.910 --> 00:03:03.920 align:start position:0%
+question stopped them from joining, a
+ 
+
+00:03:03.920 --> 00:03:06.149 align:start position:0%
+question stopped them from joining, a
+nudge<00:03:04.159><c> at</c><00:03:04.400><c> exactly</c><00:03:04.720><c> the</c><00:03:04.959><c> right</c><00:03:05.200><c> time,</c><00:03:05.840><c> all</c>
+
+00:03:06.149 --> 00:03:06.159 align:start position:0%
+nudge at exactly the right time, all
+ 
+
+00:03:06.159 --> 00:03:07.670 align:start position:0%
+nudge at exactly the right time, all
+automated,<00:03:06.879><c> all</c><00:03:07.120><c> running</c><00:03:07.360><c> in</c><00:03:07.519><c> the</c>
+
+00:03:07.670 --> 00:03:07.680 align:start position:0%
+automated, all running in the
+ 
+
+00:03:07.680 --> 00:03:09.589 align:start position:0%
+automated, all running in the
+background.<00:03:08.159><c> No</c><00:03:08.400><c> human</c><00:03:08.720><c> clicking</c><00:03:09.120><c> send</c><00:03:09.360><c> on</c>
+
+00:03:09.589 --> 00:03:09.599 align:start position:0%
+background. No human clicking send on
+ 
+
+00:03:09.599 --> 00:03:11.589 align:start position:0%
+background. No human clicking send on
+every<00:03:09.840><c> message.</c><00:03:10.400><c> That's</c><00:03:10.640><c> what</c><00:03:10.879><c> AI</c><00:03:11.200><c> agents</c>
+
+00:03:11.589 --> 00:03:11.599 align:start position:0%
+every message. That's what AI agents
+ 
+
+00:03:11.599 --> 00:03:13.670 align:start position:0%
+every message. That's what AI agents
+make<00:03:11.840><c> possible.</c><00:03:12.480><c> And</c><00:03:12.640><c> Nemo</c><00:03:13.120><c> claw</c><00:03:13.360><c> is</c><00:03:13.519><c> being</c>
+
+00:03:13.670 --> 00:03:13.680 align:start position:0%
+make possible. And Nemo claw is being
+ 
+
+00:03:13.680 --> 00:03:15.910 align:start position:0%
+make possible. And Nemo claw is being
+designed<00:03:14.000><c> to</c><00:03:14.239><c> make</c><00:03:14.400><c> deploying</c><00:03:14.879><c> those</c><00:03:15.120><c> systems</c>
+
+00:03:15.910 --> 00:03:15.920 align:start position:0%
+designed to make deploying those systems
+ 
+
+00:03:15.920 --> 00:03:17.910 align:start position:0%
+designed to make deploying those systems
+easier<00:03:16.319><c> than</c><00:03:16.560><c> ever</c><00:03:16.800><c> before.</c><00:03:17.440><c> Let</c><00:03:17.599><c> me</c><00:03:17.760><c> talk</c>
+
+00:03:17.910 --> 00:03:17.920 align:start position:0%
+easier than ever before. Let me talk
+ 
+
+00:03:17.920 --> 00:03:19.670 align:start position:0%
+easier than ever before. Let me talk
+about<00:03:18.080><c> why</c><00:03:18.319><c> Nvidia</c><00:03:18.800><c> is</c><00:03:18.959><c> doing</c><00:03:19.120><c> this.</c><00:03:19.360><c> On</c><00:03:19.519><c> the</c>
+
+00:03:19.670 --> 00:03:19.680 align:start position:0%
+about why Nvidia is doing this. On the
+ 
+
+00:03:19.680 --> 00:03:21.830 align:start position:0%
+about why Nvidia is doing this. On the
+surface,<00:03:20.000><c> it</c><00:03:20.239><c> might</c><00:03:20.400><c> seem</c><00:03:20.640><c> weird.</c><00:03:21.360><c> Nvidia</c>
+
+00:03:21.830 --> 00:03:21.840 align:start position:0%
+surface, it might seem weird. Nvidia
+ 
+
+00:03:21.840 --> 00:03:24.149 align:start position:0%
+surface, it might seem weird. Nvidia
+makes<00:03:22.159><c> chips.</c><00:03:22.879><c> Why</c><00:03:23.040><c> are</c><00:03:23.200><c> they</c><00:03:23.360><c> building</c><00:03:23.760><c> AI</c>
+
+00:03:24.149 --> 00:03:24.159 align:start position:0%
+makes chips. Why are they building AI
+ 
+
+00:03:24.159 --> 00:03:26.070 align:start position:0%
+makes chips. Why are they building AI
+agent<00:03:24.560><c> software?</c><00:03:24.959><c> The</c><00:03:25.120><c> answer</c><00:03:25.360><c> is</c><00:03:25.519><c> simple.</c>
+
+00:03:26.070 --> 00:03:26.080 align:start position:0%
+agent software? The answer is simple.
+ 
+
+00:03:26.080 --> 00:03:28.309 align:start position:0%
+agent software? The answer is simple.
+The<00:03:26.239><c> more</c><00:03:26.480><c> businesses</c><00:03:26.879><c> that</c><00:03:27.120><c> run</c><00:03:27.280><c> AI</c><00:03:27.680><c> agents,</c>
+
+00:03:28.309 --> 00:03:28.319 align:start position:0%
+The more businesses that run AI agents,
+ 
+
+00:03:28.319 --> 00:03:30.789 align:start position:0%
+The more businesses that run AI agents,
+the<00:03:28.480><c> more</c><00:03:28.720><c> compute</c><00:03:29.120><c> those</c><00:03:29.680><c> agents</c><00:03:30.159><c> need.</c><00:03:30.640><c> And</c>
+
+00:03:30.789 --> 00:03:30.799 align:start position:0%
+the more compute those agents need. And
+ 
+
+00:03:30.799 --> 00:03:32.869 align:start position:0%
+the more compute those agents need. And
+what<00:03:31.040><c> do</c><00:03:31.200><c> AI</c><00:03:31.599><c> agents</c><00:03:31.920><c> run</c><00:03:32.159><c> on</c><00:03:32.319><c> NVIDIA</c>
+
+00:03:32.869 --> 00:03:32.879 align:start position:0%
+what do AI agents run on NVIDIA
+ 
+
+00:03:32.879 --> 00:03:35.509 align:start position:0%
+what do AI agents run on NVIDIA
+hardware?<00:03:33.440><c> By</c><00:03:33.840><c> building</c><00:03:34.400><c> the</c><00:03:34.879><c> open-source</c>
+
+00:03:35.509 --> 00:03:35.519 align:start position:0%
+hardware? By building the open-source
+ 
+
+00:03:35.519 --> 00:03:37.910 align:start position:0%
+hardware? By building the open-source
+platform<00:03:36.000><c> that</c><00:03:36.319><c> enterprises</c><00:03:37.040><c> use</c><00:03:37.280><c> to</c><00:03:37.519><c> deploy</c>
+
+00:03:37.910 --> 00:03:37.920 align:start position:0%
+platform that enterprises use to deploy
+ 
+
+00:03:37.920 --> 00:03:40.470 align:start position:0%
+platform that enterprises use to deploy
+agents,<00:03:38.720><c> Nvidia</c><00:03:39.200><c> is</c><00:03:39.440><c> building</c><00:03:39.680><c> the</c><00:03:39.920><c> on-ramp</c>
+
+00:03:40.470 --> 00:03:40.480 align:start position:0%
+agents, Nvidia is building the on-ramp
+ 
+
+00:03:40.480 --> 00:03:43.350 align:start position:0%
+agents, Nvidia is building the on-ramp
+to<00:03:40.799><c> their</c><00:03:41.040><c> own</c><00:03:41.200><c> chips.</c><00:03:41.920><c> More</c><00:03:42.239><c> agent</c><00:03:42.640><c> adoption</c>
+
+00:03:43.350 --> 00:03:43.360 align:start position:0%
+to their own chips. More agent adoption
+ 
+
+00:03:43.360 --> 00:03:45.110 align:start position:0%
+to their own chips. More agent adoption
+equals<00:03:43.840><c> more</c><00:03:44.080><c> demand</c><00:03:44.400><c> for</c><00:03:44.640><c> GPU</c>
+
+00:03:45.110 --> 00:03:45.120 align:start position:0%
+equals more demand for GPU
+ 
+
+00:03:45.120 --> 00:03:46.710 align:start position:0%
+equals more demand for GPU
+infrastructure.<00:03:45.840><c> It's</c><00:03:46.000><c> a</c><00:03:46.239><c> very</c><00:03:46.400><c> smart</c>
+
+00:03:46.710 --> 00:03:46.720 align:start position:0%
+infrastructure. It's a very smart
+ 
+
+00:03:46.720 --> 00:03:49.030 align:start position:0%
+infrastructure. It's a very smart
+long-term<00:03:47.280><c> move.</c><00:03:47.760><c> And</c><00:03:47.840><c> it</c><00:03:48.080><c> also</c><00:03:48.239><c> means</c><00:03:48.480><c> Nvidia</c>
+
+00:03:49.030 --> 00:03:49.040 align:start position:0%
+long-term move. And it also means Nvidia
+ 
+
+00:03:49.040 --> 00:03:50.869 align:start position:0%
+long-term move. And it also means Nvidia
+has<00:03:49.200><c> real</c><00:03:49.440><c> skin</c><00:03:49.680><c> in</c><00:03:49.840><c> the</c><00:03:50.000><c> game</c><00:03:50.239><c> here.</c><00:03:50.640><c> They</c>
+
+00:03:50.869 --> 00:03:50.879 align:start position:0%
+has real skin in the game here. They
+ 
+
+00:03:50.879 --> 00:03:52.869 align:start position:0%
+has real skin in the game here. They
+want<00:03:51.040><c> Nemo</c><00:03:51.519><c> Claw</c><00:03:51.760><c> to</c><00:03:52.000><c> succeed.</c><00:03:52.560><c> They'll</c>
+
+00:03:52.869 --> 00:03:52.879 align:start position:0%
+want Nemo Claw to succeed. They'll
+ 
+
+00:03:52.879 --> 00:03:54.789 align:start position:0%
+want Nemo Claw to succeed. They'll
+invest<00:03:53.120><c> in</c><00:03:53.360><c> making</c><00:03:53.599><c> it</c><00:03:53.760><c> great</c><00:03:54.239><c> because</c><00:03:54.480><c> their</c>
+
+00:03:54.789 --> 00:03:54.799 align:start position:0%
+invest in making it great because their
+ 
+
+00:03:54.799 --> 00:03:56.630 align:start position:0%
+invest in making it great because their
+hardware<00:03:55.120><c> business</c><00:03:55.519><c> grows</c><00:03:55.760><c> with</c><00:03:56.000><c> it.</c><00:03:56.400><c> Now,</c>
+
+00:03:56.630 --> 00:03:56.640 align:start position:0%
+hardware business grows with it. Now,
+ 
+
+00:03:56.640 --> 00:03:57.830 align:start position:0%
+hardware business grows with it. Now,
+let's<00:03:56.879><c> talk</c><00:03:57.040><c> about</c><00:03:57.200><c> what</c><00:03:57.360><c> this</c><00:03:57.519><c> could</c><00:03:57.760><c> look</c>
+
+00:03:57.830 --> 00:03:57.840 align:start position:0%
+let's talk about what this could look
+ 
+
+00:03:57.840 --> 00:03:59.830 align:start position:0%
+let's talk about what this could look
+like<00:03:58.000><c> in</c><00:03:58.319><c> practice</c><00:03:58.959><c> once</c><00:03:59.280><c> it</c><00:03:59.519><c> actually</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+like in practice once it actually
+ 
+
+00:03:59.840 --> 00:04:01.270 align:start position:0%
+like in practice once it actually
+launches.<00:04:00.400><c> Imagine</c><00:04:00.720><c> you're</c><00:04:00.879><c> running</c><00:04:01.120><c> a</c>
+
+00:04:01.270 --> 00:04:01.280 align:start position:0%
+launches. Imagine you're running a
+ 
+
+00:04:01.280 --> 00:04:02.630 align:start position:0%
+launches. Imagine you're running a
+business,<00:04:01.680><c> any</c><00:04:01.920><c> business.</c><00:04:02.159><c> So,</c><00:04:02.319><c> you've</c><00:04:02.480><c> got</c>
+
+00:04:02.630 --> 00:04:02.640 align:start position:0%
+business, any business. So, you've got
+ 
+
+00:04:02.640 --> 00:04:04.470 align:start position:0%
+business, any business. So, you've got
+workflows<00:04:03.120><c> happening</c><00:04:03.439><c> every</c><00:04:03.680><c> day,</c><00:04:04.159><c> new</c>
+
+00:04:04.470 --> 00:04:04.480 align:start position:0%
+workflows happening every day, new
+ 
+
+00:04:04.480 --> 00:04:06.550 align:start position:0%
+workflows happening every day, new
+customer<00:04:04.799><c> on</c><00:04:05.040><c> boarding,</c><00:04:05.680><c> support</c><00:04:06.000><c> emails,</c>
+
+00:04:06.550 --> 00:04:06.560 align:start position:0%
+customer on boarding, support emails,
+ 
+
+00:04:06.560 --> 00:04:08.470 align:start position:0%
+customer on boarding, support emails,
+follow-up<00:04:06.959><c> sequences,</c><00:04:07.680><c> weekly</c><00:04:08.080><c> reports,</c>
+
+00:04:08.470 --> 00:04:08.480 align:start position:0%
+follow-up sequences, weekly reports,
+ 
+
+00:04:08.480 --> 00:04:10.789 align:start position:0%
+follow-up sequences, weekly reports,
+content<00:04:08.879><c> scheduling,</c><00:04:09.680><c> lead</c><00:04:09.920><c> outreach,</c><00:04:10.480><c> data</c>
+
+00:04:10.789 --> 00:04:10.799 align:start position:0%
+content scheduling, lead outreach, data
+ 
+
+00:04:10.799 --> 00:04:13.350 align:start position:0%
+content scheduling, lead outreach, data
+pools,<00:04:11.360><c> team</c><00:04:11.680><c> updates.</c><00:04:12.480><c> Most</c><00:04:12.720><c> of</c><00:04:12.799><c> that</c><00:04:13.040><c> is</c>
+
+00:04:13.350 --> 00:04:13.360 align:start position:0%
+pools, team updates. Most of that is
+ 
+
+00:04:13.360 --> 00:04:15.509 align:start position:0%
+pools, team updates. Most of that is
+repetitive.<00:04:14.400><c> Most</c><00:04:14.640><c> of</c><00:04:14.720><c> that</c><00:04:14.959><c> follows</c><00:04:15.280><c> a</c>
+
+00:04:15.509 --> 00:04:15.519 align:start position:0%
+repetitive. Most of that follows a
+ 
+
+00:04:15.519 --> 00:04:17.430 align:start position:0%
+repetitive. Most of that follows a
+pattern.<00:04:16.239><c> Most</c><00:04:16.400><c> of</c><00:04:16.560><c> that</c><00:04:16.720><c> could</c><00:04:16.959><c> be</c><00:04:17.120><c> handled</c>
+
+00:04:17.430 --> 00:04:17.440 align:start position:0%
+pattern. Most of that could be handled
+ 
+
+00:04:17.440 --> 00:04:19.749 align:start position:0%
+pattern. Most of that could be handled
+by<00:04:17.600><c> an</c><00:04:17.840><c> agent</c><00:04:18.560><c> if</c><00:04:18.880><c> you</c><00:04:19.040><c> had</c><00:04:19.120><c> a</c><00:04:19.280><c> way</c><00:04:19.440><c> to</c><00:04:19.519><c> build</c>
+
+00:04:19.749 --> 00:04:19.759 align:start position:0%
+by an agent if you had a way to build
+ 
+
+00:04:19.759 --> 00:04:21.749 align:start position:0%
+by an agent if you had a way to build
+and<00:04:20.000><c> deploy</c><00:04:20.239><c> one</c><00:04:20.560><c> without</c><00:04:20.880><c> needing</c><00:04:21.199><c> a</c><00:04:21.440><c> team</c><00:04:21.600><c> of</c>
+
+00:04:21.749 --> 00:04:21.759 align:start position:0%
+and deploy one without needing a team of
+ 
+
+00:04:21.759 --> 00:04:24.070 align:start position:0%
+and deploy one without needing a team of
+engineers.<00:04:22.639><c> That's</c><00:04:22.800><c> what</c><00:04:22.960><c> Nemo</c><00:04:23.680><c> is</c><00:04:23.840><c> being</c>
+
+00:04:24.070 --> 00:04:24.080 align:start position:0%
+engineers. That's what Nemo is being
+ 
+
+00:04:24.080 --> 00:04:26.150 align:start position:0%
+engineers. That's what Nemo is being
+designed<00:04:24.400><c> to</c><00:04:24.639><c> solve.</c><00:04:25.120><c> Let's</c><00:04:25.360><c> take</c><00:04:25.520><c> the</c><00:04:25.759><c> AI</c>
+
+00:04:26.150 --> 00:04:26.160 align:start position:0%
+designed to solve. Let's take the AI
+ 
+
+00:04:26.160 --> 00:04:28.390 align:start position:0%
+designed to solve. Let's take the AI
+profit<00:04:26.479><c> boardroom</c><00:04:26.960><c> as</c><00:04:27.199><c> the</c><00:04:27.440><c> example</c><00:04:27.840><c> again.</c>
+
+00:04:28.390 --> 00:04:28.400 align:start position:0%
+profit boardroom as the example again.
+ 
+
+00:04:28.400 --> 00:04:30.310 align:start position:0%
+profit boardroom as the example again.
+You've<00:04:28.639><c> got</c><00:04:28.800><c> new</c><00:04:28.960><c> members</c><00:04:29.360><c> joining.</c><00:04:30.000><c> You</c><00:04:30.240><c> want</c>
+
+00:04:30.310 --> 00:04:30.320 align:start position:0%
+You've got new members joining. You want
+ 
+
+00:04:30.320 --> 00:04:32.230 align:start position:0%
+You've got new members joining. You want
+them<00:04:30.479><c> to</c><00:04:30.639><c> feel</c><00:04:30.880><c> welcome,</c><00:04:31.520><c> get</c><00:04:31.680><c> to</c><00:04:31.840><c> the</c><00:04:32.000><c> right</c>
+
+00:04:32.230 --> 00:04:32.240 align:start position:0%
+them to feel welcome, get to the right
+ 
+
+00:04:32.240 --> 00:04:34.469 align:start position:0%
+them to feel welcome, get to the right
+resources<00:04:32.800><c> fast,</c><00:04:33.280><c> and</c><00:04:33.520><c> start</c><00:04:33.759><c> seeing</c><00:04:34.080><c> value</c>
+
+00:04:34.469 --> 00:04:34.479 align:start position:0%
+resources fast, and start seeing value
+ 
+
+00:04:34.479 --> 00:04:36.550 align:start position:0%
+resources fast, and start seeing value
+immediately.<00:04:35.280><c> An</c><00:04:35.520><c> agent</c><00:04:35.759><c> could</c><00:04:36.000><c> handle</c><00:04:36.320><c> all</c>
+
+00:04:36.550 --> 00:04:36.560 align:start position:0%
+immediately. An agent could handle all
+ 
+
+00:04:36.560 --> 00:04:38.469 align:start position:0%
+immediately. An agent could handle all
+of<00:04:36.639><c> that.</c><00:04:37.040><c> Welcome</c><00:04:37.440><c> message,</c><00:04:37.919><c> automated.</c>
+
+00:04:38.469 --> 00:04:38.479 align:start position:0%
+of that. Welcome message, automated.
+ 
+
+00:04:38.479 --> 00:04:40.390 align:start position:0%
+of that. Welcome message, automated.
+First<00:04:38.800><c> week</c><00:04:38.960><c> content</c><00:04:39.360><c> recommendations,</c>
+
+00:04:40.390 --> 00:04:40.400 align:start position:0%
+First week content recommendations,
+ 
+
+00:04:40.400 --> 00:04:42.629 align:start position:0%
+First week content recommendations,
+automated<00:04:41.280><c> check-in</c><00:04:41.680><c> at</c><00:04:41.840><c> day</c><00:04:42.080><c> seven</c><00:04:42.320><c> to</c><00:04:42.560><c> see</c>
+
+00:04:42.629 --> 00:04:42.639 align:start position:0%
+automated check-in at day seven to see
+ 
+
+00:04:42.639 --> 00:04:44.710 align:start position:0%
+automated check-in at day seven to see
+if<00:04:42.800><c> they</c><00:04:43.040><c> have</c><00:04:43.199><c> questions,</c><00:04:43.919><c> automated</c>
+
+00:04:44.710 --> 00:04:44.720 align:start position:0%
+if they have questions, automated
+ 
+
+00:04:44.720 --> 00:04:46.150 align:start position:0%
+if they have questions, automated
+escalation<00:04:45.280><c> to</c><00:04:45.440><c> a</c><00:04:45.600><c> human</c><00:04:45.840><c> if</c><00:04:46.000><c> the</c>
+
+00:04:46.150 --> 00:04:46.160 align:start position:0%
+escalation to a human if the
+ 
+
+00:04:46.160 --> 00:04:48.390 align:start position:0%
+escalation to a human if the
+conversation<00:04:46.639><c> needs</c><00:04:46.880><c> it.</c><00:04:47.360><c> Builtin</c><00:04:48.080><c> that</c>
+
+00:04:48.390 --> 00:04:48.400 align:start position:0%
+conversation needs it. Builtin that
+ 
+
+00:04:48.400 --> 00:04:50.550 align:start position:0%
+conversation needs it. Builtin that
+whole<00:04:48.560><c> flow</c><00:04:48.960><c> running</c><00:04:49.199><c> on</c><00:04:49.360><c> its</c><00:04:49.600><c> own.</c><00:04:49.919><c> No</c><00:04:50.160><c> manual</c>
+
+00:04:50.550 --> 00:04:50.560 align:start position:0%
+whole flow running on its own. No manual
+ 
+
+00:04:50.560 --> 00:04:52.469 align:start position:0%
+whole flow running on its own. No manual
+effort<00:04:50.880><c> per</c><00:04:51.120><c> member.</c><00:04:51.520><c> And</c><00:04:51.680><c> that's</c><00:04:51.919><c> just</c><00:04:52.160><c> one</c>
+
+00:04:52.469 --> 00:04:52.479 align:start position:0%
+effort per member. And that's just one
+ 
+
+00:04:52.479 --> 00:04:54.469 align:start position:0%
+effort per member. And that's just one
+workflow.<00:04:53.040><c> Multiply</c><00:04:53.520><c> that</c><00:04:53.759><c> across</c><00:04:54.160><c> 10</c>
+
+00:04:54.469 --> 00:04:54.479 align:start position:0%
+workflow. Multiply that across 10
+ 
+
+00:04:54.479 --> 00:04:56.390 align:start position:0%
+workflow. Multiply that across 10
+different<00:04:54.720><c> parts</c><00:04:54.960><c> of</c><00:04:55.120><c> your</c><00:04:55.280><c> business</c><00:04:56.000><c> and</c><00:04:56.240><c> you</c>
+
+00:04:56.390 --> 00:04:56.400 align:start position:0%
+different parts of your business and you
+ 
+
+00:04:56.400 --> 00:04:59.110 align:start position:0%
+different parts of your business and you
+can<00:04:56.560><c> see</c><00:04:57.040><c> why</c><00:04:57.520><c> enterprise</c><00:04:58.000><c> AI</c><00:04:58.400><c> agents</c><00:04:58.880><c> are</c>
+
+00:04:59.110 --> 00:04:59.120 align:start position:0%
+can see why enterprise AI agents are
+ 
+
+00:04:59.120 --> 00:05:00.710 align:start position:0%
+can see why enterprise AI agents are
+such<00:04:59.280><c> a</c><00:04:59.520><c> big</c><00:04:59.680><c> deal.</c><00:05:00.000><c> Here's</c><00:05:00.320><c> something</c><00:05:00.560><c> else</c>
+
+00:05:00.710 --> 00:05:00.720 align:start position:0%
+such a big deal. Here's something else
+ 
+
+00:05:00.720 --> 00:05:02.629 align:start position:0%
+such a big deal. Here's something else
+worth<00:05:01.040><c> keeping</c><00:05:01.280><c> an</c><00:05:01.440><c> eye</c><00:05:01.520><c> on.</c><00:05:01.759><c> Because</c><00:05:02.000><c> Nemoore</c>
+
+00:05:02.629 --> 00:05:02.639 align:start position:0%
+worth keeping an eye on. Because Nemoore
+ 
+
+00:05:02.639 --> 00:05:04.469 align:start position:0%
+worth keeping an eye on. Because Nemoore
+is<00:05:02.800><c> being</c><00:05:02.960><c> planned</c><00:05:03.199><c> as</c><00:05:03.440><c> open</c><00:05:03.680><c> source,</c><00:05:04.160><c> the</c>
+
+00:05:04.469 --> 00:05:04.479 align:start position:0%
+is being planned as open source, the
+ 
+
+00:05:04.479 --> 00:05:06.710 align:start position:0%
+is being planned as open source, the
+developer<00:05:04.960><c> ecosystem</c><00:05:05.759><c> is</c><00:05:06.000><c> going</c><00:05:06.160><c> to</c><00:05:06.320><c> build</c><00:05:06.560><c> on</c>
+
+00:05:06.710 --> 00:05:06.720 align:start position:0%
+developer ecosystem is going to build on
+ 
+
+00:05:06.720 --> 00:05:09.270 align:start position:0%
+developer ecosystem is going to build on
+it<00:05:06.960><c> fast.</c><00:05:07.680><c> Once</c><00:05:08.000><c> it</c><00:05:08.240><c> launches,</c><00:05:08.960><c> we're</c><00:05:09.199><c> going</c>
+
+00:05:09.270 --> 00:05:09.280 align:start position:0%
+it fast. Once it launches, we're going
+ 
+
+00:05:09.280 --> 00:05:11.670 align:start position:0%
+it fast. Once it launches, we're going
+to<00:05:09.440><c> see</c><00:05:09.680><c> pre-built</c><00:05:10.240><c> agent</c><00:05:10.720><c> templates</c><00:05:11.360><c> for</c>
+
+00:05:11.670 --> 00:05:11.680 align:start position:0%
+to see pre-built agent templates for
+ 
+
+00:05:11.680 --> 00:05:13.990 align:start position:0%
+to see pre-built agent templates for
+specific<00:05:12.160><c> industries,</c><00:05:13.039><c> integrations</c><00:05:13.759><c> with</c>
+
+00:05:13.990 --> 00:05:14.000 align:start position:0%
+specific industries, integrations with
+ 
+
+00:05:14.000 --> 00:05:16.070 align:start position:0%
+specific industries, integrations with
+common<00:05:14.320><c> business</c><00:05:14.720><c> tools,</c><00:05:15.360><c> community-built</c>
+
+00:05:16.070 --> 00:05:16.080 align:start position:0%
+common business tools, community-built
+ 
+
+00:05:16.080 --> 00:05:18.710 align:start position:0%
+common business tools, community-built
+plugins,<00:05:16.960><c> tutorials,</c><00:05:18.000><c> workflows</c><00:05:18.479><c> you</c><00:05:18.639><c> can</c>
+
+00:05:18.710 --> 00:05:18.720 align:start position:0%
+plugins, tutorials, workflows you can
+ 
+
+00:05:18.720 --> 00:05:20.230 align:start position:0%
+plugins, tutorials, workflows you can
+import<00:05:19.039><c> and</c><00:05:19.199><c> customize.</c><00:05:19.840><c> That's</c><00:05:20.080><c> what</c>
+
+00:05:20.230 --> 00:05:20.240 align:start position:0%
+import and customize. That's what
+ 
+
+00:05:20.240 --> 00:05:22.950 align:start position:0%
+import and customize. That's what
+happened<00:05:20.720><c> with</c><00:05:20.960><c> open-source</c><00:05:21.680><c> AI</c><00:05:22.160><c> models.</c><00:05:22.720><c> The</c>
+
+00:05:22.950 --> 00:05:22.960 align:start position:0%
+happened with open-source AI models. The
+ 
+
+00:05:22.960 --> 00:05:24.870 align:start position:0%
+happened with open-source AI models. The
+community<00:05:23.520><c> accelerated</c><00:05:24.240><c> everything.</c><00:05:24.639><c> The</c>
+
+00:05:24.870 --> 00:05:24.880 align:start position:0%
+community accelerated everything. The
+ 
+
+00:05:24.880 --> 00:05:26.870 align:start position:0%
+community accelerated everything. The
+same<00:05:25.039><c> thing</c><00:05:25.199><c> will</c><00:05:25.440><c> happen</c><00:05:25.600><c> here.</c><00:05:26.080><c> So,</c><00:05:26.560><c> by</c><00:05:26.800><c> the</c>
+
+00:05:26.870 --> 00:05:26.880 align:start position:0%
+same thing will happen here. So, by the
+ 
+
+00:05:26.880 --> 00:05:29.270 align:start position:0%
+same thing will happen here. So, by the
+time<00:05:27.120><c> Nemo</c><00:05:27.600><c> Claw</c><00:05:28.080><c> is</c><00:05:28.320><c> fully</c><00:05:28.560><c> out</c><00:05:28.720><c> in</c><00:05:28.880><c> the</c><00:05:29.039><c> wild,</c>
+
+00:05:29.270 --> 00:05:29.280 align:start position:0%
+time Nemo Claw is fully out in the wild,
+ 
+
+00:05:29.280 --> 00:05:30.950 align:start position:0%
+time Nemo Claw is fully out in the wild,
+there's<00:05:29.520><c> going</c><00:05:29.680><c> to</c><00:05:29.759><c> be</c><00:05:29.840><c> a</c><00:05:30.080><c> whole</c><00:05:30.320><c> ecosystem</c>
+
+00:05:30.950 --> 00:05:30.960 align:start position:0%
+there's going to be a whole ecosystem
+ 
+
+00:05:30.960 --> 00:05:33.029 align:start position:0%
+there's going to be a whole ecosystem
+around<00:05:31.280><c> it.</c><00:05:31.919><c> And</c><00:05:32.080><c> the</c><00:05:32.320><c> people</c><00:05:32.400><c> who</c><00:05:32.720><c> understand</c>
+
+00:05:33.029 --> 00:05:33.039 align:start position:0%
+around it. And the people who understand
+ 
+
+00:05:33.039 --> 00:05:35.189 align:start position:0%
+around it. And the people who understand
+the<00:05:33.280><c> space</c><00:05:33.919><c> already</c><00:05:34.240><c> will</c><00:05:34.560><c> be</c><00:05:34.639><c> able</c><00:05:34.800><c> to</c><00:05:34.960><c> move</c>
+
+00:05:35.189 --> 00:05:35.199 align:start position:0%
+the space already will be able to move
+ 
+
+00:05:35.199 --> 00:05:37.990 align:start position:0%
+the space already will be able to move
+on<00:05:35.440><c> it</c><00:05:35.680><c> immediately.</c><00:05:36.880><c> Let's</c><00:05:37.280><c> zoom</c><00:05:37.600><c> out</c><00:05:37.759><c> and</c>
+
+00:05:37.990 --> 00:05:38.000 align:start position:0%
+on it immediately. Let's zoom out and
+ 
+
+00:05:38.000 --> 00:05:40.710 align:start position:0%
+on it immediately. Let's zoom out and
+look<00:05:38.080><c> at</c><00:05:38.240><c> the</c><00:05:38.400><c> bigger</c><00:05:38.720><c> picture.</c><00:05:40.000><c> Every</c><00:05:40.320><c> major</c>
+
+00:05:40.710 --> 00:05:40.720 align:start position:0%
+look at the bigger picture. Every major
+ 
+
+00:05:40.720 --> 00:05:42.790 align:start position:0%
+look at the bigger picture. Every major
+tech<00:05:41.039><c> company</c><00:05:41.360><c> is</c><00:05:41.600><c> racing</c><00:05:41.919><c> to</c><00:05:42.080><c> own</c><00:05:42.320><c> the</c><00:05:42.479><c> AI</c>
+
+00:05:42.790 --> 00:05:42.800 align:start position:0%
+tech company is racing to own the AI
+ 
+
+00:05:42.800 --> 00:05:45.029 align:start position:0%
+tech company is racing to own the AI
+agent<00:05:43.199><c> space</c><00:05:43.520><c> right</c><00:05:43.759><c> now.</c><00:05:44.240><c> Open</c><00:05:44.560><c> AAI</c><00:05:44.880><c> has</c>
+
+00:05:45.029 --> 00:05:45.039 align:start position:0%
+agent space right now. Open AAI has
+ 
+
+00:05:45.039 --> 00:05:47.990 align:start position:0%
+agent space right now. Open AAI has
+agents.<00:05:45.759><c> Google</c><00:05:46.160><c> has</c><00:05:46.400><c> agents.</c><00:05:47.199><c> Microsoft</c><00:05:47.759><c> has</c>
+
+00:05:47.990 --> 00:05:48.000 align:start position:0%
+agents. Google has agents. Microsoft has
+ 
+
+00:05:48.000 --> 00:05:49.990 align:start position:0%
+agents. Google has agents. Microsoft has
+agents<00:05:48.479><c> built</c><00:05:48.800><c> into</c><00:05:49.120><c> their</c><00:05:49.440><c> enterprise</c>
+
+00:05:49.990 --> 00:05:50.000 align:start position:0%
+agents built into their enterprise
+ 
+
+00:05:50.000 --> 00:05:52.629 align:start position:0%
+agents built into their enterprise
+stack.<00:05:50.720><c> And</c><00:05:50.880><c> now</c><00:05:51.120><c> Nvidia,</c><00:05:51.919><c> the</c><00:05:52.160><c> company</c><00:05:52.400><c> that</c>
+
+00:05:52.629 --> 00:05:52.639 align:start position:0%
+stack. And now Nvidia, the company that
+ 
+
+00:05:52.639 --> 00:05:54.870 align:start position:0%
+stack. And now Nvidia, the company that
+literally<00:05:53.120><c> powers</c><00:05:53.440><c> all</c><00:05:53.600><c> of</c><00:05:53.759><c> them,</c><00:05:54.400><c> is</c><00:05:54.720><c> coming</c>
+
+00:05:54.870 --> 00:05:54.880 align:start position:0%
+literally powers all of them, is coming
+ 
+
+00:05:54.880 --> 00:05:57.110 align:start position:0%
+literally powers all of them, is coming
+in<00:05:55.120><c> with</c><00:05:55.360><c> its</c><00:05:55.600><c> own</c><00:05:55.759><c> open-</c><00:05:56.080><c> source</c><00:05:56.400><c> platform</c>
+
+00:05:57.110 --> 00:05:57.120 align:start position:0%
+in with its own open- source platform
+ 
+
+00:05:57.120 --> 00:06:00.310 align:start position:0%
+in with its own open- source platform
+aimed<00:05:57.759><c> directly</c><00:05:58.320><c> at</c><00:05:58.639><c> enterprise</c><00:05:59.360><c> deployment.</c>
+
+00:06:00.310 --> 00:06:00.320 align:start position:0%
+aimed directly at enterprise deployment.
+ 
+
+00:06:00.320 --> 00:06:02.870 align:start position:0%
+aimed directly at enterprise deployment.
+This<00:06:00.560><c> is</c><00:06:00.720><c> not</c><00:06:00.880><c> a</c><00:06:01.120><c> small</c><00:06:01.360><c> move.</c><00:06:02.000><c> This</c><00:06:02.160><c> is</c><00:06:02.320><c> Nvidia</c>
+
+00:06:02.870 --> 00:06:02.880 align:start position:0%
+This is not a small move. This is Nvidia
+ 
+
+00:06:02.880 --> 00:06:05.189 align:start position:0%
+This is not a small move. This is Nvidia
+saying,<00:06:03.039><c> "We</c><00:06:03.360><c> don't</c><00:06:03.600><c> just</c><00:06:03.759><c> want</c><00:06:03.919><c> to</c><00:06:04.160><c> power</c><00:06:04.479><c> AI.</c>
+
+00:06:05.189 --> 00:06:05.199 align:start position:0%
+saying, "We don't just want to power AI.
+ 
+
+00:06:05.199 --> 00:06:06.710 align:start position:0%
+saying, "We don't just want to power AI.
+We<00:06:05.440><c> want</c><00:06:05.600><c> to</c><00:06:05.759><c> be</c><00:06:05.840><c> the</c><00:06:06.080><c> platform</c><00:06:06.400><c> that</c>
+
+00:06:06.710 --> 00:06:06.720 align:start position:0%
+We want to be the platform that
+ 
+
+00:06:06.720 --> 00:06:09.430 align:start position:0%
+We want to be the platform that
+businesses<00:06:07.360><c> build</c><00:06:07.680><c> their</c><00:06:07.919><c> AI</c><00:06:08.400><c> workforce</c><00:06:08.880><c> on."</c>
+
+00:06:09.430 --> 00:06:09.440 align:start position:0%
+businesses build their AI workforce on."
+ 
+
+00:06:09.440 --> 00:06:11.590 align:start position:0%
+businesses build their AI workforce on."
+And<00:06:09.600><c> because</c><00:06:09.840><c> it's</c><00:06:10.080><c> open</c><00:06:10.400><c> source,</c><00:06:11.039><c> it's</c><00:06:11.360><c> not</c>
+
+00:06:11.590 --> 00:06:11.600 align:start position:0%
+And because it's open source, it's not
+ 
+
+00:06:11.600 --> 00:06:13.270 align:start position:0%
+And because it's open source, it's not
+competing<00:06:12.080><c> with</c><00:06:12.319><c> every</c><00:06:12.560><c> other</c><00:06:12.720><c> tool</c><00:06:13.039><c> out</c>
+
+00:06:13.270 --> 00:06:13.280 align:start position:0%
+competing with every other tool out
+ 
+
+00:06:13.280 --> 00:06:15.350 align:start position:0%
+competing with every other tool out
+there.<00:06:13.840><c> It's</c><00:06:14.080><c> designed</c><00:06:14.400><c> to</c><00:06:14.639><c> work</c><00:06:14.800><c> alongside</c>
+
+00:06:15.350 --> 00:06:15.360 align:start position:0%
+there. It's designed to work alongside
+ 
+
+00:06:15.360 --> 00:06:17.510 align:start position:0%
+there. It's designed to work alongside
+them.<00:06:15.680><c> That's</c><00:06:15.919><c> a</c><00:06:16.080><c> smart</c><00:06:16.319><c> positioning</c><00:06:17.120><c> and</c><00:06:17.360><c> it</c>
+
+00:06:17.510 --> 00:06:17.520 align:start position:0%
+them. That's a smart positioning and it
+ 
+
+00:06:17.520 --> 00:06:19.350 align:start position:0%
+them. That's a smart positioning and it
+means<00:06:17.680><c> Nemo</c><00:06:18.160><c> claw</c><00:06:18.479><c> could</c><00:06:18.800><c> become</c><00:06:19.120><c> the</c>
+
+00:06:19.350 --> 00:06:19.360 align:start position:0%
+means Nemo claw could become the
+ 
+
+00:06:19.360 --> 00:06:21.749 align:start position:0%
+means Nemo claw could become the
+foundation<00:06:20.000><c> that</c><00:06:20.240><c> a</c><00:06:20.479><c> lot</c><00:06:20.560><c> of</c><00:06:20.639><c> other</c><00:06:21.039><c> AI</c><00:06:21.440><c> agent</c>
+
+00:06:21.749 --> 00:06:21.759 align:start position:0%
+foundation that a lot of other AI agent
+ 
+
+00:06:21.759 --> 00:06:23.590 align:start position:0%
+foundation that a lot of other AI agent
+tools<00:06:22.000><c> are</c><00:06:22.160><c> built</c><00:06:22.400><c> on</c><00:06:22.560><c> top</c><00:06:22.639><c> of.</c><00:06:23.039><c> So</c><00:06:23.360><c> what</c>
+
+00:06:23.590 --> 00:06:23.600 align:start position:0%
+tools are built on top of. So what
+ 
+
+00:06:23.600 --> 00:06:24.629 align:start position:0%
+tools are built on top of. So what
+should<00:06:23.759><c> you</c><00:06:23.919><c> actually</c><00:06:24.160><c> do</c><00:06:24.240><c> with</c><00:06:24.479><c> this</c>
+
+00:06:24.629 --> 00:06:24.639 align:start position:0%
+should you actually do with this
+ 
+
+00:06:24.639 --> 00:06:26.870 align:start position:0%
+should you actually do with this
+information<00:06:25.039><c> right</c><00:06:25.280><c> now?</c><00:06:25.840><c> First,</c><00:06:26.560><c> start</c>
+
+00:06:26.870 --> 00:06:26.880 align:start position:0%
+information right now? First, start
+ 
+
+00:06:26.880 --> 00:06:28.629 align:start position:0%
+information right now? First, start
+mapping<00:06:27.280><c> your</c><00:06:27.520><c> workflows.</c><00:06:28.080><c> What</c><00:06:28.240><c> does</c><00:06:28.400><c> your</c>
+
+00:06:28.629 --> 00:06:28.639 align:start position:0%
+mapping your workflows. What does your
+ 
+
+00:06:28.639 --> 00:06:30.629 align:start position:0%
+mapping your workflows. What does your
+business<00:06:28.880><c> do</c><00:06:29.039><c> every</c><00:06:29.280><c> day</c><00:06:29.440><c> that's</c><00:06:29.680><c> repetitive?</c>
+
+00:06:30.629 --> 00:06:30.639 align:start position:0%
+business do every day that's repetitive?
+ 
+
+00:06:30.639 --> 00:06:32.550 align:start position:0%
+business do every day that's repetitive?
+Write<00:06:30.960><c> it</c><00:06:31.120><c> down.</c><00:06:31.520><c> That's</c><00:06:31.759><c> your</c><00:06:32.000><c> road</c><00:06:32.240><c> map</c><00:06:32.400><c> for</c>
+
+00:06:32.550 --> 00:06:32.560 align:start position:0%
+Write it down. That's your road map for
+ 
+
+00:06:32.560 --> 00:06:35.510 align:start position:0%
+Write it down. That's your road map for
+AI<00:06:32.960><c> agent</c><00:06:33.280><c> automation.</c><00:06:34.080><c> Second,</c><00:06:35.199><c> start</c>
+
+00:06:35.510 --> 00:06:35.520 align:start position:0%
+AI agent automation. Second, start
+ 
+
+00:06:35.520 --> 00:06:37.749 align:start position:0%
+AI agent automation. Second, start
+learning<00:06:35.919><c> about</c><00:06:36.160><c> AI</c><00:06:36.560><c> agents</c><00:06:37.039><c> now.</c><00:06:37.440><c> Don't</c><00:06:37.600><c> wait</c>
+
+00:06:37.749 --> 00:06:37.759 align:start position:0%
+learning about AI agents now. Don't wait
+ 
+
+00:06:37.759 --> 00:06:39.670 align:start position:0%
+learning about AI agents now. Don't wait
+for<00:06:37.919><c> Nemo</c><00:06:38.319><c> Claw</c><00:06:38.560><c> to</c><00:06:38.720><c> launch</c><00:06:39.120><c> to</c><00:06:39.360><c> start</c>
+
+00:06:39.670 --> 00:06:39.680 align:start position:0%
+for Nemo Claw to launch to start
+ 
+
+00:06:39.680 --> 00:06:42.070 align:start position:0%
+for Nemo Claw to launch to start
+understanding<00:06:40.240><c> how</c><00:06:40.479><c> agents</c><00:06:40.960><c> work,</c><00:06:41.600><c> what</c><00:06:41.840><c> they</c>
+
+00:06:42.070 --> 00:06:42.080 align:start position:0%
+understanding how agents work, what they
+ 
+
+00:06:42.080 --> 00:06:44.150 align:start position:0%
+understanding how agents work, what they
+can<00:06:42.160><c> do,</c><00:06:42.639><c> and</c><00:06:42.880><c> how</c><00:06:43.039><c> to</c><00:06:43.280><c> build</c><00:06:43.520><c> systems</c><00:06:43.919><c> around</c>
+
+00:06:44.150 --> 00:06:44.160 align:start position:0%
+can do, and how to build systems around
+ 
+
+00:06:44.160 --> 00:06:45.830 align:start position:0%
+can do, and how to build systems around
+them.<00:06:44.400><c> The</c><00:06:44.639><c> learning</c><00:06:44.880><c> curve</c><00:06:45.120><c> is</c><00:06:45.280><c> real.</c><00:06:45.680><c> Get</c>
+
+00:06:45.830 --> 00:06:45.840 align:start position:0%
+them. The learning curve is real. Get
+ 
+
+00:06:45.840 --> 00:06:47.990 align:start position:0%
+them. The learning curve is real. Get
+ahead<00:06:46.160><c> of</c><00:06:46.240><c> it.</c><00:06:46.560><c> Third,</c><00:06:47.199><c> watch</c><00:06:47.440><c> this</c><00:06:47.680><c> space</c>
+
+00:06:47.990 --> 00:06:48.000 align:start position:0%
+ahead of it. Third, watch this space
+ 
+
+00:06:48.000 --> 00:06:49.909 align:start position:0%
+ahead of it. Third, watch this space
+closely.<00:06:48.639><c> Nvidia</c><00:06:49.120><c> hasn't</c><00:06:49.360><c> given</c><00:06:49.600><c> a</c><00:06:49.759><c> full</c>
+
+00:06:49.909 --> 00:06:49.919 align:start position:0%
+closely. Nvidia hasn't given a full
+ 
+
+00:06:49.919 --> 00:06:51.670 align:start position:0%
+closely. Nvidia hasn't given a full
+launch<00:06:50.240><c> date</c><00:06:50.479><c> yet,</c><00:06:50.639><c> but</c><00:06:50.880><c> when</c><00:06:51.039><c> more</c><00:06:51.280><c> details</c>
+
+00:06:51.670 --> 00:06:51.680 align:start position:0%
+launch date yet, but when more details
+ 
+
+00:06:51.680 --> 00:06:53.830 align:start position:0%
+launch date yet, but when more details
+drop,<00:06:52.240><c> and</c><00:06:52.479><c> they</c><00:06:52.720><c> will,</c><00:06:53.199><c> you</c><00:06:53.360><c> want</c><00:06:53.520><c> to</c><00:06:53.680><c> be</c>
+
+00:06:53.830 --> 00:06:53.840 align:start position:0%
+drop, and they will, you want to be
+ 
+
+00:06:53.840 --> 00:06:55.990 align:start position:0%
+drop, and they will, you want to be
+ready<00:06:54.080><c> to</c><00:06:54.319><c> move</c><00:06:54.560><c> fast.</c><00:06:55.120><c> The</c><00:06:55.360><c> bottom</c><00:06:55.600><c> line</c><00:06:55.840><c> on</c>
+
+00:06:55.990 --> 00:06:56.000 align:start position:0%
+ready to move fast. The bottom line on
+ 
+
+00:06:56.000 --> 00:06:57.670 align:start position:0%
+ready to move fast. The bottom line on
+Nema<00:06:56.319><c> Mccclure,</c><00:06:56.720><c> Nvidia</c><00:06:57.120><c> is</c><00:06:57.280><c> planning</c><00:06:57.520><c> to</c>
+
+00:06:57.670 --> 00:06:57.680 align:start position:0%
+Nema Mccclure, Nvidia is planning to
+ 
+
+00:06:57.680 --> 00:07:00.230 align:start position:0%
+Nema Mccclure, Nvidia is planning to
+launch<00:06:57.919><c> an</c><00:06:58.240><c> open-source</c><00:06:58.960><c> AI</c><00:06:59.360><c> agent</c><00:06:59.759><c> platform</c>
+
+00:07:00.230 --> 00:07:00.240 align:start position:0%
+launch an open-source AI agent platform
+ 
+
+00:07:00.240 --> 00:07:02.309 align:start position:0%
+launch an open-source AI agent platform
+for<00:07:00.479><c> enterprise</c><00:07:01.039><c> workforces.</c><00:07:01.759><c> It's</c><00:07:01.919><c> not</c><00:07:02.080><c> out</c>
+
+00:07:02.309 --> 00:07:02.319 align:start position:0%
+for enterprise workforces. It's not out
+ 
+
+00:07:02.319 --> 00:07:04.550 align:start position:0%
+for enterprise workforces. It's not out
+yet,<00:07:02.960><c> but</c><00:07:03.199><c> when</c><00:07:03.360><c> it</c><00:07:03.599><c> drops,</c><00:07:04.240><c> it</c><00:07:04.400><c> could</c>
+
+00:07:04.550 --> 00:07:04.560 align:start position:0%
+yet, but when it drops, it could
+ 
+
+00:07:04.560 --> 00:07:06.950 align:start position:0%
+yet, but when it drops, it could
+seriously<00:07:05.039><c> change</c><00:07:05.440><c> how</c><00:07:05.680><c> businesses</c><00:07:06.160><c> use</c><00:07:06.400><c> AI.</c>
+
+00:07:06.950 --> 00:07:06.960 align:start position:0%
+seriously change how businesses use AI.
+ 
+
+00:07:06.960 --> 00:07:09.029 align:start position:0%
+seriously change how businesses use AI.
+Open<00:07:07.199><c> source</c><00:07:07.520><c> means</c><00:07:07.840><c> low</c><00:07:08.080><c> cost</c><00:07:08.479><c> and</c><00:07:08.800><c> high</c>
+
+00:07:09.029 --> 00:07:09.039 align:start position:0%
+Open source means low cost and high
+ 
+
+00:07:09.039 --> 00:07:11.430 align:start position:0%
+Open source means low cost and high
+flexibility.<00:07:10.160><c> Enterprise</c><00:07:10.720><c> focused</c><00:07:11.120><c> means</c>
+
+00:07:11.430 --> 00:07:11.440 align:start position:0%
+flexibility. Enterprise focused means
+ 
+
+00:07:11.440 --> 00:07:13.189 align:start position:0%
+flexibility. Enterprise focused means
+it's<00:07:11.599><c> built</c><00:07:11.840><c> for</c><00:07:12.000><c> real</c><00:07:12.240><c> business</c><00:07:12.560><c> workflows,</c>
+
+00:07:13.189 --> 00:07:13.199 align:start position:0%
+it's built for real business workflows,
+ 
+
+00:07:13.199 --> 00:07:15.510 align:start position:0%
+it's built for real business workflows,
+not<00:07:13.280><c> just</c><00:07:13.520><c> demos.</c><00:07:14.400><c> And</c><00:07:14.639><c> Nvidia</c><00:07:15.039><c> behind</c><00:07:15.280><c> it</c>
+
+00:07:15.510 --> 00:07:15.520 align:start position:0%
+not just demos. And Nvidia behind it
+ 
+
+00:07:15.520 --> 00:07:17.670 align:start position:0%
+not just demos. And Nvidia behind it
+means<00:07:15.759><c> serious</c><00:07:16.080><c> investment</c><00:07:16.800><c> and</c><00:07:17.039><c> a</c><00:07:17.199><c> long-term</c>
+
+00:07:17.670 --> 00:07:17.680 align:start position:0%
+means serious investment and a long-term
+ 
+
+00:07:17.680 --> 00:07:19.670 align:start position:0%
+means serious investment and a long-term
+commitment<00:07:18.080><c> to</c><00:07:18.240><c> making</c><00:07:18.479><c> it</c><00:07:18.720><c> work.</c><00:07:19.360><c> This</c><00:07:19.520><c> is</c>
+
+00:07:19.670 --> 00:07:19.680 align:start position:0%
+commitment to making it work. This is
+ 
+
+00:07:19.680 --> 00:07:21.830 align:start position:0%
+commitment to making it work. This is
+one<00:07:19.919><c> to</c><00:07:20.160><c> watch.</c><00:07:20.639><c> I'll</c><00:07:20.880><c> be</c><00:07:21.039><c> covering</c><00:07:21.440><c> every</c>
+
+00:07:21.830 --> 00:07:21.840 align:start position:0%
+one to watch. I'll be covering every
+ 
+
+00:07:21.840 --> 00:07:24.309 align:start position:0%
+one to watch. I'll be covering every
+update<00:07:22.240><c> on</c><00:07:22.400><c> this</c><00:07:22.560><c> as</c><00:07:22.800><c> it</c><00:07:22.960><c> comes</c><00:07:23.120><c> out.</c><00:07:23.520><c> So,</c><00:07:24.080><c> make</c>
+
+00:07:24.309 --> 00:07:24.319 align:start position:0%
+update on this as it comes out. So, make
+ 
+
+00:07:24.319 --> 00:07:26.150 align:start position:0%
+update on this as it comes out. So, make
+sure<00:07:24.479><c> you're</c><00:07:24.720><c> subscribed</c><00:07:25.199><c> and</c><00:07:25.520><c> hit</c><00:07:25.680><c> the</c><00:07:25.840><c> bell</c>
+
+00:07:26.150 --> 00:07:26.160 align:start position:0%
+sure you're subscribed and hit the bell
+ 
+
+00:07:26.160 --> 00:07:28.230 align:start position:0%
+sure you're subscribed and hit the bell
+so<00:07:26.400><c> you</c><00:07:26.560><c> don't</c><00:07:26.720><c> miss</c><00:07:26.960><c> anything.</c><00:07:27.360><c> AI</c><00:07:27.759><c> is</c><00:07:28.000><c> moving</c>
+
+00:07:28.230 --> 00:07:28.240 align:start position:0%
+so you don't miss anything. AI is moving
+ 
+
+00:07:28.240 --> 00:07:30.710 align:start position:0%
+so you don't miss anything. AI is moving
+fast,<00:07:28.960><c> faster</c><00:07:29.360><c> than</c><00:07:29.599><c> most</c><00:07:29.840><c> people</c><00:07:30.080><c> realize.</c>
+
+00:07:30.710 --> 00:07:30.720 align:start position:0%
+fast, faster than most people realize.
+ 
+
+00:07:30.720 --> 00:07:33.189 align:start position:0%
+fast, faster than most people realize.
+And<00:07:30.880><c> Nemo</c><00:07:31.360><c> Claw</c><00:07:31.599><c> is</c><00:07:31.840><c> just</c><00:07:32.000><c> one</c><00:07:32.240><c> more</c><00:07:32.479><c> sign</c><00:07:32.960><c> that</c>
+
+00:07:33.189 --> 00:07:33.199 align:start position:0%
+And Nemo Claw is just one more sign that
+ 
+
+00:07:33.199 --> 00:07:34.950 align:start position:0%
+And Nemo Claw is just one more sign that
+we<00:07:33.440><c> are</c><00:07:33.520><c> heading</c><00:07:33.840><c> into</c><00:07:34.160><c> a</c><00:07:34.479><c> world</c><00:07:34.639><c> where</c>
+
+00:07:34.950 --> 00:07:34.960 align:start position:0%
+we are heading into a world where
+ 
+
+00:07:34.960 --> 00:07:37.990 align:start position:0%
+we are heading into a world where
+businesses<00:07:35.520><c> run</c><00:07:35.840><c> on</c><00:07:36.000><c> AI</c><00:07:36.400><c> agents,</c><00:07:37.199><c> not</c><00:07:37.440><c> just</c><00:07:37.680><c> AI</c>
+
+00:07:37.990 --> 00:07:38.000 align:start position:0%
+businesses run on AI agents, not just AI
+ 
+
+00:07:38.000 --> 00:07:39.670 align:start position:0%
+businesses run on AI agents, not just AI
+tools.<00:07:38.560><c> The</c><00:07:38.800><c> companies</c><00:07:39.039><c> that</c><00:07:39.280><c> see</c><00:07:39.440><c> this</c>
+
+00:07:39.670 --> 00:07:39.680 align:start position:0%
+tools. The companies that see this
+ 
+
+00:07:39.680 --> 00:07:41.430 align:start position:0%
+tools. The companies that see this
+coming<00:07:39.919><c> and</c><00:07:40.160><c> act</c><00:07:40.400><c> now</c><00:07:40.720><c> will</c><00:07:40.960><c> have</c><00:07:41.120><c> a</c><00:07:41.280><c> head</c>
+
+00:07:41.430 --> 00:07:41.440 align:start position:0%
+coming and act now will have a head
+ 
+
+00:07:41.440 --> 00:07:43.350 align:start position:0%
+coming and act now will have a head
+start<00:07:41.759><c> that's</c><00:07:42.000><c> very</c><00:07:42.240><c> hard</c><00:07:42.400><c> to</c><00:07:42.639><c> close.</c><00:07:43.120><c> The</c>
+
+00:07:43.350 --> 00:07:43.360 align:start position:0%
+start that's very hard to close. The
+ 
+
+00:07:43.360 --> 00:07:45.029 align:start position:0%
+start that's very hard to close. The
+ones<00:07:43.520><c> that</c><00:07:43.680><c> wait</c><00:07:44.000><c> will</c><00:07:44.240><c> spend</c><00:07:44.479><c> years</c><00:07:44.800><c> trying</c>
+
+00:07:45.029 --> 00:07:45.039 align:start position:0%
+ones that wait will spend years trying
+ 
+
+00:07:45.039 --> 00:07:47.110 align:start position:0%
+ones that wait will spend years trying
+to<00:07:45.199><c> catch</c><00:07:45.520><c> up.</c><00:07:46.000><c> You're</c><00:07:46.240><c> watching</c><00:07:46.479><c> this</c><00:07:46.720><c> video.</c>
+
+00:07:47.110 --> 00:07:47.120 align:start position:0%
+to catch up. You're watching this video.
+ 
+
+00:07:47.120 --> 00:07:49.189 align:start position:0%
+to catch up. You're watching this video.
+You<00:07:47.360><c> already</c><00:07:47.599><c> have</c><00:07:47.759><c> the</c><00:07:48.000><c> advantage.</c><00:07:48.479><c> Use</c><00:07:48.720><c> it</c>
+
+00:07:49.189 --> 00:07:49.199 align:start position:0%
+You already have the advantage. Use it
+ 
+
+00:07:49.199 --> 00:07:51.830 align:start position:0%
+You already have the advantage. Use it
+now.<00:07:49.440><c> If</c><00:07:49.599><c> you</c><00:07:49.680><c> want</c><00:07:49.840><c> the</c><00:07:50.080><c> full</c><00:07:50.319><c> process,</c><00:07:50.880><c> SOPs,</c>
+
+00:07:51.830 --> 00:07:51.840 align:start position:0%
+now. If you want the full process, SOPs,
+ 
+
+00:07:51.840 --> 00:07:54.309 align:start position:0%
+now. If you want the full process, SOPs,
+and<00:07:52.160><c> over</c><00:07:52.479><c> a</c><00:07:52.639><c> 100</c><00:07:52.960><c> AI</c><00:07:53.360><c> use</c><00:07:53.599><c> cases</c><00:07:53.919><c> like</c><00:07:54.080><c> this</c>
+
+00:07:54.309 --> 00:07:54.319 align:start position:0%
+and over a 100 AI use cases like this
+ 
+
+00:07:54.319 --> 00:07:57.110 align:start position:0%
+and over a 100 AI use cases like this
+one,<00:07:54.800><c> join</c><00:07:55.120><c> the</c><00:07:55.360><c> AI</c><00:07:55.759><c> profit</c><00:07:56.080><c> boardroom.</c><00:07:56.879><c> Learn</c>
+
+00:07:57.110 --> 00:07:57.120 align:start position:0%
+one, join the AI profit boardroom. Learn
+ 
+
+00:07:57.120 --> 00:07:58.710 align:start position:0%
+one, join the AI profit boardroom. Learn
+how<00:07:57.280><c> to</c><00:07:57.440><c> automate</c><00:07:57.840><c> your</c><00:07:58.000><c> workflows</c><00:07:58.479><c> with</c>
+
+00:07:58.710 --> 00:07:58.720 align:start position:0%
+how to automate your workflows with
+ 
+
+00:07:58.720 --> 00:08:00.710 align:start position:0%
+how to automate your workflows with
+tools<00:07:59.039><c> like</c><00:07:59.280><c> Nvidia</c><00:07:59.919><c> and</c><00:08:00.160><c> scale</c><00:08:00.479><c> your</c>
+
+00:08:00.710 --> 00:08:00.720 align:start position:0%
+tools like Nvidia and scale your
+ 
+
+00:08:00.720 --> 00:08:03.029 align:start position:0%
+tools like Nvidia and scale your
+business<00:08:01.280><c> with</c><00:08:01.520><c> AI</c><00:08:01.919><c> automation.</c><00:08:02.560><c> The</c><00:08:02.720><c> link</c><00:08:02.960><c> is</c>
+
+00:08:03.029 --> 00:08:03.039 align:start position:0%
+business with AI automation. The link is
+ 
+
+00:08:03.039 --> 00:08:04.869 align:start position:0%
+business with AI automation. The link is
+in<00:08:03.199><c> the</c><00:08:03.360><c> comments</c><00:08:03.680><c> and</c><00:08:03.840><c> description.</c><00:08:04.479><c> And</c><00:08:04.720><c> if</c>
+
+00:08:04.869 --> 00:08:04.879 align:start position:0%
+in the comments and description. And if
+ 
+
+00:08:04.879 --> 00:08:06.790 align:start position:0%
+in the comments and description. And if
+you<00:08:04.960><c> want</c><00:08:05.120><c> free</c><00:08:05.440><c> access</c><00:08:05.759><c> to</c><00:08:06.080><c> all</c><00:08:06.319><c> the</c><00:08:06.560><c> video</c>
+
+00:08:06.790 --> 00:08:06.800 align:start position:0%
+you want free access to all the video
+ 
+
+00:08:06.800 --> 00:08:08.550 align:start position:0%
+you want free access to all the video
+notes,<00:08:07.199><c> prompts,</c><00:08:07.759><c> and</c><00:08:07.919><c> a</c><00:08:08.080><c> community</c><00:08:08.319><c> of</c>
+
+00:08:08.550 --> 00:08:08.560 align:start position:0%
+notes, prompts, and a community of
+ 
+
+00:08:08.560 --> 00:08:10.469 align:start position:0%
+notes, prompts, and a community of
+45,000<00:08:09.360><c> members</c><00:08:09.599><c> who</c><00:08:09.759><c> are</c><00:08:09.919><c> crushing</c><00:08:10.160><c> it</c><00:08:10.319><c> with</c>
+
+00:08:10.469 --> 00:08:10.479 align:start position:0%
+45,000 members who are crushing it with
+ 
+
+00:08:10.479 --> 00:08:12.550 align:start position:0%
+45,000 members who are crushing it with
+AI,<00:08:10.960><c> join</c><00:08:11.199><c> the</c><00:08:11.360><c> AI</c><00:08:11.680><c> success</c><00:08:12.080><c> lab.</c><00:08:12.400><c> It's</c>
+
+00:08:12.550 --> 00:08:12.560 align:start position:0%
+AI, join the AI success lab. It's
+ 
+
+00:08:12.560 --> 00:08:14.390 align:start position:0%
+AI, join the AI success lab. It's
+completely<00:08:12.960><c> free.</c><00:08:13.440><c> Link</c><00:08:13.680><c> is</c><00:08:13.840><c> in</c><00:08:14.000><c> the</c><00:08:14.160><c> comments</c>
+
+00:08:14.390 --> 00:08:14.400 align:start position:0%
+completely free. Link is in the comments
+ 
+
+00:08:14.400 --> 00:08:15.990 align:start position:0%
+completely free. Link is in the comments
+and<00:08:14.639><c> description.</c><00:08:15.280><c> You'll</c><00:08:15.599><c> get</c><00:08:15.759><c> everything</c>
+
+00:08:15.990 --> 00:08:16.000 align:start position:0%
+and description. You'll get everything
+ 
+
+00:08:16.000 --> 00:08:19.680 align:start position:0%
+and description. You'll get everything
+from<00:08:16.319><c> this</c><00:08:16.479><c> video,</c><00:08:16.800><c> plus</c><00:08:17.039><c> way</c><00:08:17.280><c> more</c><00:08:17.520><c> in</c>
+

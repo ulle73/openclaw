@@ -1,0 +1,153 @@
+{
+  "id": "GVrffdY3REE",
+  "title": "This NEW AI AGENT is INSANE! 🤯",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260311",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nBuild Native Desktop Apps with AI: Glaze by Raycast First Look\n\nDiscover Glaze, the revolutionary tool from Raycast that lets you build fully native desktop applications simply by chatting with AI. Learn how to transform your ideas into custom software without writing a single line of code.\n\n00:00 - 00:00 - Intro: What is Glaze?\n00:56 - 00:56 - Why Glaze is Genuinely New\n01:36 - 01:36 - Building Native vs. Web Apps\n02:34 - 02:34 - Prompt Example: Community Tracker\n03:48 - 03:48 - 3 Practical App Use Cases\n04:58 - 04:58 - The Glaze Community App Store\n05:38 - 05:38 - Pricing & Waitlist Access\n06:07 - 06:07 - AI: From Assistant to Builder",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "app_idea",
+    "product_opportunity"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": true,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "agent"
+  ],
+  "topic_tags": [
+    "agent",
+    "workflow-automation",
+    "knowledge-management",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "app-idea",
+    "app-opportunity"
+  ],
+  "topic_cluster_key": "agent",
+  "related_video_ids": [
+    "cZThTdL4YJQ",
+    "qordBmosybg",
+    "iBVMutY4Ot0",
+    "xAw3IZgX7Tc",
+    "s2HalzQZ1MQ"
+  ],
+  "related_videos": [
+    {
+      "videoId": "cZThTdL4YJQ",
+      "title": "This NEW AI AGENT is INSANE! (FREE!) 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/cZThTdL4YJQ/summary.md",
+      "topic_cluster_key": "agent",
+      "shared_tags": [
+        "agent",
+        "agent-automation",
+        "agent-flow",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "qordBmosybg",
+      "title": "NEW Google Jules Agent Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/qordBmosybg/summary.md",
+      "topic_cluster_key": "agent__jules",
+      "shared_tags": [
+        "agent",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 9
+    },
+    {
+      "videoId": "xAw3IZgX7Tc",
+      "title": "Build Anything with Qwen's NEW Model's!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xAw3IZgX7Tc/summary.md",
+      "topic_cluster_key": "model",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    },
+    {
+      "videoId": "s2HalzQZ1MQ",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/s2HalzQZ1MQ/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 8
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "cZThTdL4YJQ",
+      "qordBmosybg",
+      "iBVMutY4Ot0",
+      "xAw3IZgX7Tc",
+      "s2HalzQZ1MQ"
+    ]
+  },
+  "updated_at": "2026-03-11T03:02:29Z"
+}

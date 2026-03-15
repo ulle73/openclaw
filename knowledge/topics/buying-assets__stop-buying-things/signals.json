@@ -1,0 +1,125 @@
+{
+  "clusterKey": "buying-assets__stop-buying-things",
+  "label": "stop buying things och buying assets",
+  "entity_tags": [
+    "stop-buying-things",
+    "buying-assets",
+    "nano-banana-2"
+  ],
+  "topic_tags": [
+    "stop-buying-things",
+    "buying-assets",
+    "nano-banana-2",
+    "workflow-automation",
+    "marketing-explainers",
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api",
+    "api-integration"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "agent_flow",
+    "product_opportunity",
+    "api"
+  ],
+  "videoIds": [
+    "mAyZZc_DjSE"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 44,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 23,
+      "shared_signals": [
+        "seo-content",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 21,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 17,
+      "shared_signals": [
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera stop buying things och buying assets i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Temat overlappar med Coastworks via seo-content, knowledge-systems och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt stop buying things och buying assets",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for stop buying things och buying assets",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "mAyZZc_DjSE",
+      "title": "Stop Buying Things. Start Buying Assets that Pay for Themselves",
+      "channel": "Chris Koerner on The Koerner Office Podcast",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Workflowet är tydligt: välja visuell stil.",
+        "De starkaste use casen är marketing och explainers, vilket gör att samma upplägg kan användas både internt och externt.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/buying-assets__stop-buying-things/overview.md",
+    "signals": "knowledge/topics/buying-assets__stop-buying-things/signals.json",
+    "decision": "knowledge/topics/buying-assets__stop-buying-things/decision.md",
+    "opportunity": "knowledge/topics/buying-assets__stop-buying-things/opportunity.md"
+  }
+}

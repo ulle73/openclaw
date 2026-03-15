@@ -1,0 +1,122 @@
+{
+  "clusterKey": "claude__perplexity-computer",
+  "label": "claude och perplexity computer",
+  "entity_tags": [
+    "claude",
+    "perplexity-computer"
+  ],
+  "topic_tags": [
+    "perplexity-computer",
+    "workflow-automation",
+    "agent-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "agent-flow",
+    "product-opportunity",
+    "api",
+    "api-integration"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "videoIds": [
+    "xBBPojYcTEI"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 38,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 17,
+      "shared_signals": [
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "score": 15,
+      "shared_signals": [],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 14,
+      "shared_signals": [
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera claude och perplexity computer i Gravity Claw",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Temat overlappar med Gravity Claw via knowledge-systems och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt claude och perplexity computer",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for claude och perplexity computer",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "xBBPojYcTEI",
+      "title": "Perplexity Computer + Claude = WILD",
+      "channel": "Jack Roberts",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Kärnpositioneringen är inte bara ett nytt verktyg utan en AI-assistent som ska kunna bära mer av det löpande operativa arbetet.",
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/claude__perplexity-computer/overview.md",
+    "signals": "knowledge/topics/claude__perplexity-computer/signals.json",
+    "decision": "knowledge/topics/claude__perplexity-computer/decision.md",
+    "opportunity": "knowledge/topics/claude__perplexity-computer/opportunity.md"
+  }
+}

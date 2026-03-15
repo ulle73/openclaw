@@ -1,0 +1,55 @@
+{
+  "fullName": "vectorize-io/hindsight",
+  "url": "https://github.com/vectorize-io/hindsight",
+  "description": "Hindsight: Agent Memory That  Learns",
+  "purpose": "Hindsight: Agent Memory That  Learns",
+  "useCase": "agent workflows and AI operators",
+  "relevance": "relevant for Coastworks via agent automation, design, knowledge systems",
+  "language": "Python",
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "memory"
+  ],
+  "stars": 3010,
+  "forks": 221,
+  "openIssues": 10,
+  "detectedSignals": [
+    "agent-automation",
+    "knowledge-systems",
+    "design-offer",
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "agent-automation",
+        "design-offer",
+        "knowledge-systems",
+        "ml-models"
+      ],
+      "score": 50
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "sharedSignals": [
+        "agent-automation",
+        "knowledge-systems"
+      ],
+      "score": 28
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "knowledge-systems",
+        "ml-models"
+      ],
+      "score": 23
+    }
+  ],
+  "fetchedAt": "2026-03-12T20:52:25Z"
+}

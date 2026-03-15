@@ -20,6 +20,12 @@ knowledge/
       decision.md
       opportunity.md
       signals.json
+  github-trends/
+    latest.json
+    history/
+      YYYY-MM-DD.json
+    repos/
+      owner__repo.json
   youtube/
     INDEX.jsonl
     TOPICS.json
@@ -42,6 +48,7 @@ knowledge/
 3. Liknande videos grupperas i `knowledge/youtube/TOPICS.json`.
 4. `scripts/project_inventory.py` bygger en aktuell projektbild fran `ACTIVE_PROJECTS.md` och dina repos.
 5. `scripts/youtube_synthesis.py` skapar topic-kort, projektmatchning, ideer och ett dagligt digestlager i `knowledge/topics/` och `knowledge/ideas/`.
+6. `scripts/github_trends_watcher.py` sparar dagliga GitHub Trending-snapshots och repo-kort i `knowledge/github-trends/`.
 
 ## Viktiga filer
 - `knowledge/system/project_inventory.json`: maskinlasbar projektkatalog med roller, prioritet, stack och repo-paths.
@@ -55,3 +62,5 @@ knowledge/
 - `python scripts/project_inventory.py`: uppdatera projektinventering och projektindex.
 - `python scripts/youtube_synthesis.py`: bygg topics, beslutskort, ideer och digest.
 - `python scripts/run_youtube_synthesis.py`: samma synthesis med loggrad till `memory/youtube_synthesis_runs.md`.
+- `python scripts/github_trends_watcher.py scan`: hamta dagens GitHub Trending, diffa mot senaste korning och uppdatera `knowledge/github-trends/`.
+- `python scripts/github_trends_watcher.py describe "<owner/repo>"`: kort sammanfattning av vad ett repo gor, hur det används och varfor det ar relevant.

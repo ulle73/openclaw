@@ -1,0 +1,70 @@
+{
+  "fullName": "dolthub/dolt",
+  "url": "https://github.com/dolthub/dolt",
+  "description": "Dolt – Git for Data",
+  "purpose": "Dolt – Git for Data",
+  "useCase": "agent workflows and AI operators",
+  "relevance": "relevant for Coastworks via agent automation, knowledge systems, AI/models",
+  "language": "Go",
+  "topics": [
+    "agent-memory",
+    "agent-memory-server",
+    "ai-agents",
+    "ai-database",
+    "data-version-control",
+    "data-versioning",
+    "database",
+    "database-version-control",
+    "database-versioning",
+    "decentralized-database",
+    "git",
+    "git-database",
+    "git-for-data",
+    "git-for-databases",
+    "git-sql",
+    "immutable-database",
+    "mariadb",
+    "mysql",
+    "sql",
+    "version-controlled-database"
+  ],
+  "stars": 21202,
+  "forks": 677,
+  "openIssues": 517,
+  "detectedSignals": [
+    "agent-automation",
+    "knowledge-systems",
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "agent-automation",
+        "knowledge-systems",
+        "ml-models"
+      ],
+      "score": 40
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "sharedSignals": [
+        "agent-automation",
+        "knowledge-systems"
+      ],
+      "score": 28
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "knowledge-systems",
+        "ml-models"
+      ],
+      "score": 23
+    }
+  ],
+  "fetchedAt": "2026-03-14T08:17:54Z"
+}

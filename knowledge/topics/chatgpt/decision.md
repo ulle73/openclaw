@@ -1,7 +1,7 @@
 # Decision - chatgpt
 
 - Action: project_upgrade
-- Opportunity score: 44
+- Opportunity score: 46
 - Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Recommended next move

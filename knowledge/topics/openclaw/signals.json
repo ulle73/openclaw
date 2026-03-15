@@ -4,16 +4,14 @@
   "entity_tags": [
     "openclaw",
     "claude",
-    "telegram",
     "gemini",
+    "telegram",
     "nano-banana-2"
   ],
   "topic_tags": [
     "openclaw",
-    "telegram",
     "workflow-automation",
     "onboarding-training",
-    "marketing-explainers",
     "seo-content",
     "prompt-design",
     "business-idea",
@@ -21,11 +19,13 @@
     "seo-distribution",
     "agent-flow",
     "agent-automation",
-    "proactive-assistant",
-    "api",
-    "api-integration",
-    "knowledge-management",
     "product-opportunity",
+    "api",
+    "telegram",
+    "api-integration",
+    "marketing-explainers",
+    "knowledge-management",
+    "proactive-assistant",
     "nano-banana-2"
   ],
   "categories": [
@@ -39,16 +39,22 @@
     "api"
   ],
   "videoIds": [
+    "58pd7zSQCtY",
+    "6EsmxI37CcM",
     "9lbwgk29Db4",
     "JmFkYj3__xc",
+    "KPejjQQ5Bzg",
     "KyXUJnYjjAo",
     "NiTOlYmthNg",
     "OV5eK91YY68",
-    "S-HveAU5l7c"
+    "S-HveAU5l7c",
+    "eaEwIIKEKPw",
+    "hT0bbzksQyI",
+    "ptqHcTAwmlk"
   ],
-  "count": 6,
-  "avg_roi_score": 8.5,
-  "avg_relevance_score": 9.0,
+  "count": 12,
+  "avg_roi_score": 8.25,
+  "avg_relevance_score": 8.75,
   "opportunity_score": 53,
   "decision": {
     "action": "project_upgrade",
@@ -123,6 +129,30 @@
   ],
   "evidence": [
     {
+      "videoId": "58pd7zSQCtY",
+      "title": "OpenClaw + GPT-5.4 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "6EsmxI37CcM",
+      "title": "OpenClaw 3.12 IS INSANE, Here's Why",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "medium",
+      "relevance_label": "medium",
+      "tldr": [
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt."
+      ]
+    },
+    {
       "videoId": "9lbwgk29Db4",
       "title": "this openclaw content system is INSANE (self improving)",
       "channel": "Kevin Jeppesen - The Operator Vault",
@@ -144,6 +174,18 @@
         "Kärnpositioneringen är inte bara ett nytt verktyg utan en AI-assistent som ska kunna bära mer av det löpande operativa arbetet.",
         "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
         "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt."
+      ]
+    },
+    {
+      "videoId": "KPejjQQ5Bzg",
+      "title": "OpenClaw 3.11 IS INSANE, Here's Why",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Den verkliga hävstången kommer när agenten kopplas till arbetsverktyg som ClickUp och blir en del av samma system för tasks, status och uppföljning.",
+        "Kostnadsbild och transparens lyfts som en del av produkten, vilket gör lösningen lättare att styra och räkna hem.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo."
       ]
     },
     {
@@ -192,6 +234,42 @@
         "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
         "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
         "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "eaEwIIKEKPw",
+      "title": "OpenClaw 3.13 is INSANE, Here’s Why!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "medium",
+      "relevance_label": "high",
+      "tldr": [
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt."
+      ]
+    },
+    {
+      "videoId": "hT0bbzksQyI",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt."
+      ]
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Den verkliga hävstången kommer när agenten kopplas till arbetsverktyg som ClickUp och blir en del av samma system för tasks, status och uppföljning.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt."
       ]
     }
   ],

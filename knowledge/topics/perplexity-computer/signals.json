@@ -1,13 +1,16 @@
 {
   "clusterKey": "perplexity-computer",
-  "label": "perplexity computer och claude",
+  "label": "perplexity computer och openclaw",
   "entity_tags": [
     "perplexity-computer",
+    "openclaw",
+    "chatgpt",
     "claude",
     "gemini"
   ],
   "topic_tags": [
     "perplexity-computer",
+    "openclaw",
     "workflow-automation",
     "knowledge-management",
     "onboarding-training",
@@ -29,12 +32,13 @@
     "automation"
   ],
   "videoIds": [
+    "3o4YglxpcXE",
     "iBVMutY4Ot0"
   ],
-  "count": 1,
+  "count": 2,
   "avg_roi_score": 9.0,
   "avg_relevance_score": 9.0,
-  "opportunity_score": 44,
+  "opportunity_score": 51,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
@@ -43,15 +47,28 @@
     {
       "projectId": "coastworks",
       "projectName": "Coastworks",
-      "score": 24,
+      "score": 29,
       "shared_signals": [
         "seo-content",
+        "openclaw",
         "knowledge-systems",
         "automation",
         "agent-automation"
       ],
       "projectRole": "offer",
       "projectPriority": 10
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 24,
+      "shared_signals": [
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
     },
     {
       "projectId": "ai-visibility-audit",
@@ -64,30 +81,19 @@
       ],
       "projectRole": "offer",
       "projectPriority": 9
-    },
-    {
-      "projectId": "gravity-claw",
-      "projectName": "Gravity Claw",
-      "score": 17,
-      "shared_signals": [
-        "knowledge-systems",
-        "agent-automation"
-      ],
-      "projectRole": "product",
-      "projectPriority": 8
     }
   ],
   "ideas": [
     {
-      "title": "Applicera perplexity computer och claude i Coastworks",
+      "title": "Applicera perplexity computer och openclaw i Coastworks",
       "kind": "project-fit",
       "impact": "hog",
       "effort": "medel",
       "speed": "snabb",
-      "why": "Temat overlappar med Coastworks via seo-content, knowledge-systems, automation och agent-automation."
+      "why": "Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation."
     },
     {
-      "title": "Bygg en intern skill eller automation runt perplexity computer och claude",
+      "title": "Bygg en intern skill eller automation runt perplexity computer och openclaw",
       "kind": "automation",
       "impact": "hog",
       "effort": "medel",
@@ -95,7 +101,7 @@
       "why": "Bygg ett repeterbart arbetsflode eller en skill"
     },
     {
-      "title": "Skapa ett tydligt beslutskort for perplexity computer och claude",
+      "title": "Skapa ett tydligt beslutskort for perplexity computer och openclaw",
       "kind": "decision",
       "impact": "hog",
       "effort": "lag",
@@ -104,6 +110,18 @@
     }
   ],
   "evidence": [
+    {
+      "videoId": "3o4YglxpcXE",
+      "title": "New Perplexity Computer Update!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt."
+      ]
+    },
     {
       "videoId": "iBVMutY4Ot0",
       "title": "NEW Perplexity Computer Updates are INSANE!",

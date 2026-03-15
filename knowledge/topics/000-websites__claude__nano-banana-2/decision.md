@@ -1,0 +1,12 @@
+# Decision - nano banana 2 och claude
+
+- Action: project_upgrade
+- Opportunity score: 44
+- Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
+
+## Recommended next move
+Applicera nano banana 2 och claude i Coastworks
+
+## Best project match
+- Coastworks (role: offer, score: 24)
+- Shared signals: seo-content, knowledge-systems, automation och agent-automation

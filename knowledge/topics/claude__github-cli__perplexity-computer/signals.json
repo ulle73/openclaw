@@ -1,0 +1,126 @@
+{
+  "clusterKey": "claude__github-cli__perplexity-computer",
+  "label": "claude och perplexity computer",
+  "entity_tags": [
+    "claude",
+    "perplexity-computer",
+    "github-cli",
+    "chatgpt"
+  ],
+  "topic_tags": [
+    "perplexity-computer",
+    "github-cli",
+    "workflow-automation",
+    "onboarding-training",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "videoIds": [
+    "tn1DH1Ul1HA"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 44,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 24,
+      "shared_signals": [
+        "seo-content",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 22,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 17,
+      "shared_signals": [
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera claude och perplexity computer i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Temat overlappar med Coastworks via seo-content, knowledge-systems, automation och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt claude och perplexity computer",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for claude och perplexity computer",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "tn1DH1Ul1HA",
+      "title": "NEW Perplexity Computer Update is INSANE! (Claude Code + GitHub CLI)",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/claude__github-cli__perplexity-computer/overview.md",
+    "signals": "knowledge/topics/claude__github-cli__perplexity-computer/signals.json",
+    "decision": "knowledge/topics/claude__github-cli__perplexity-computer/decision.md",
+    "opportunity": "knowledge/topics/claude__github-cli__perplexity-computer/opportunity.md"
+  }
+}

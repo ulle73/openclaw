@@ -1,0 +1,43 @@
+{
+  "fullName": "virattt/ai-hedge-fund",
+  "url": "https://github.com/virattt/ai-hedge-fund",
+  "description": "An AI Hedge Fund Team",
+  "purpose": "An AI Hedge Fund Team",
+  "useCase": "LLM or AI product development",
+  "relevance": "relevant for Coastworks via AI/models",
+  "language": "Python",
+  "topics": [],
+  "stars": 47819,
+  "forks": 8323,
+  "openIssues": 66,
+  "detectedSignals": [
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 20
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 18
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 13
+    }
+  ],
+  "fetchedAt": "2026-03-11T08:33:52Z"
+}

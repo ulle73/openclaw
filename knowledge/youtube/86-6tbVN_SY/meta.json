@@ -1,0 +1,152 @@
+{
+  "id": "86-6tbVN_SY",
+  "title": "OpenClaw + Nvidia Nemotron 3 Super + Ollama is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260312",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nBuild a Free 24/7 AI Agent: OpenClaw & Nvidia Nemotron 3 Super\n\nLearn how to build a powerful, 24/7 AI agent stack for free using OpenClaw, Ollama, and Nvidia’s massive Nemotron 3 Super model. This tutorial covers the exact setup process, from terminal commands to running a 120B parameter model locally or in the cloud to automate your workflow without API costs.\n\n00:00 - Intro\n00:45 - What is Nvidia Nemotron 3 Super?\n01:47 - Step-by-Step Installation Guide\n02:55 - Connecting OpenClaw to Nemotron\n03:37 - Live Demo & Performance Test\n05:52 - The Claw Agent Framework\n07:37 - Dispelling AI Automation Myths\n08:29 - Scaling Your AI Automation",
+  "classifications": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
+  ],
+  "roi_label": "medium",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": false,
+    "system_improvement": true,
+    "app": false,
+    "product": false
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "nvidia-nemotron-3"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "nvidia-nemotron-3",
+    "workflow-automation",
+    "seo-content",
+    "prompt-design",
+    "proactive-assistant",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "api",
+    "api-integration"
+  ],
+  "topic_cluster_key": "nvidia-nemotron-3__openclaw",
+  "related_video_ids": [
+    "95vDW6RKYgQ",
+    "JmFkYj3__xc",
+    "IiOhWxjUY7I",
+    "NiTOlYmthNg",
+    "KyXUJnYjjAo"
+  ],
+  "related_videos": [
+    {
+      "videoId": "95vDW6RKYgQ",
+      "title": "New FREE OpenClaw Skills Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/95vDW6RKYgQ/summary.md",
+      "topic_cluster_key": "openclaw__skills",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "proactive-assistant"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "JmFkYj3__xc",
+      "title": "New FREE OpenClaw Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/JmFkYj3__xc/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "proactive-assistant"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "IiOhWxjUY7I",
+      "title": "Ollama + Claude Code: FREE Scheduled Tasks!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/IiOhWxjUY7I/summary.md",
+      "topic_cluster_key": "claude__scheduled-tasks",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "proactive-assistant",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "NiTOlYmthNg",
+      "title": "OpenClaw New Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NiTOlYmthNg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "KyXUJnYjjAo",
+      "title": "New OpenClaw Discord Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KyXUJnYjjAo/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "api-integration",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "95vDW6RKYgQ",
+      "JmFkYj3__xc",
+      "IiOhWxjUY7I",
+      "NiTOlYmthNg",
+      "KyXUJnYjjAo"
+    ]
+  },
+  "updated_at": "2026-03-12T21:30:09Z"
+}

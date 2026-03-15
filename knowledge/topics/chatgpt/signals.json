@@ -11,7 +11,12 @@
     "seo-distribution",
     "seo-content",
     "agent-flow",
-    "agent-automation"
+    "agent-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "prompt-design",
+    "product-opportunity"
   ],
   "categories": [
     "tool",
@@ -19,15 +24,18 @@
     "business_idea",
     "seo_distribution",
     "agent_flow",
-    "automation"
+    "automation",
+    "product_opportunity",
+    "api"
   ],
   "videoIds": [
-    "IWKOcumdMUE"
+    "IWKOcumdMUE",
+    "xnG6OidGGek"
   ],
-  "count": 1,
+  "count": 2,
   "avg_roi_score": 9.0,
   "avg_relevance_score": 9.0,
-  "opportunity_score": 44,
+  "opportunity_score": 46,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
@@ -75,7 +83,7 @@
       "title": "Applicera chatgpt i Coastworks",
       "kind": "project-fit",
       "impact": "hog",
-      "effort": "medel",
+      "effort": "hog",
       "speed": "snabb",
       "why": "Temat overlappar med Coastworks via seo-content, knowledge-systems, automation och agent-automation."
     },
@@ -83,7 +91,7 @@
       "title": "Bygg en intern skill eller automation runt chatgpt",
       "kind": "automation",
       "impact": "hog",
-      "effort": "medel",
+      "effort": "hog",
       "speed": "snabb",
       "why": "Bygg ett repeterbart arbetsflode eller en skill"
     },
@@ -100,6 +108,18 @@
     {
       "videoId": "IWKOcumdMUE",
       "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "xnG6OidGGek",
+      "title": "Mercury  + ChatGPT 5.4 is INSANE! 🤯",
       "channel": "Julian Goldie SEO",
       "roi_label": "high",
       "relevance_label": "high",

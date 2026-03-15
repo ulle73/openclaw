@@ -1,0 +1,155 @@
+{
+  "id": "FVATW3KidnQ",
+  "title": "NEW ChatGPT 5.5? Hunter + Healer Alpha is INSANE (FREE!)",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260312",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\nNew Mystery AI Models: Hunter & Healer Alpha (FREE GPT-5.5?)\n\nTwo powerful new mystery AI models, Hunter and Healer Alpha, have just dropped on OpenRouter for free with massive context windows and 1 trillion parameters. Discover how to use these multimodal tools to build landing pages and automate business workflows today.\n\n00:00 - Intro\n00:46 - Mystery Models: GPT-5.5 Rumors\n01:17 - Accessing OpenRouter Models\n02:30 - Live Coding & Website Demo\n04:43 - The Alpha Stack Framework\n05:19 - Model Specs Compared\n06:38 - Web Search & Research Test\n08:17 - Final Recap & 30-Day Plan",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "chatgpt",
+    "healer-alpha",
+    "openclaw"
+  ],
+  "topic_tags": [
+    "healer-alpha",
+    "openclaw",
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "proactive-assistant",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "chatgpt__healer-alpha",
+  "related_video_ids": [
+    "NY22ChmcHvg",
+    "L-CanI8zDWI",
+    "9lbwgk29Db4",
+    "ptqHcTAwmlk",
+    "_s7tHRZUmdM"
+  ],
+  "related_videos": [
+    {
+      "videoId": "NY22ChmcHvg",
+      "title": "New Openclaw Update! (GPT 5.4, Gemini 3.1 Flash)",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NY22ChmcHvg/summary.md",
+      "topic_cluster_key": "gemini__gpt-5__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "proactive-assistant"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "L-CanI8zDWI",
+      "title": "Google AI’s New Pomelli Update Is Insane!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/L-CanI8zDWI/summary.md",
+      "topic_cluster_key": "pomelli",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "_s7tHRZUmdM",
+      "title": "NEW Google Gemini Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/_s7tHRZUmdM/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "NY22ChmcHvg",
+      "L-CanI8zDWI",
+      "9lbwgk29Db4",
+      "ptqHcTAwmlk",
+      "_s7tHRZUmdM"
+    ]
+  },
+  "updated_at": "2026-03-12T17:30:11Z"
+}

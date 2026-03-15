@@ -1,0 +1,156 @@
+{
+  "id": "heT6eGFEieY",
+  "title": "Automate Anything with ChatGPT 5.4 + Gemini 3.1 Pro!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260314",
+  "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nChatGPT 5.4 + Gemini 3.1 Pro: The Ultimate AI Automation Stack\n\nStop using AI as a basic search engine and start building autonomous workflows that run your business while you sleep. Learn how to combine ChatGPT 5.4's reasoning with Gemini 3.1 Pro's building power to create content engines, software tools, and marketing systems.\n\n00:00 - Intro: The 2-AI Strategy\n01:25 - Strategist vs. Builder Explained\n02:22 - Automated Content Engine\n03:54 - Building Educational Hubs\n04:44 - Scaling Online Teaching\n05:28 - Create Software Without Coding\n06:32 - The AI Marketing Machine\n07:15 - Scaling Your AI Systems",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "chatgpt",
+    "gemini",
+    "automate",
+    "1-pro"
+  ],
+  "topic_tags": [
+    "automate",
+    "1-pro",
+    "workflow-automation",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "automate__chatgpt__gemini",
+  "related_video_ids": [
+    "rF8VXVn46co",
+    "LRcIKDRybWk",
+    "Aq21uBOl9qE",
+    "xnG6OidGGek",
+    "x63i1INJ9Tc"
+  ],
+  "related_videos": [
+    {
+      "videoId": "rF8VXVn46co",
+      "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/rF8VXVn46co/summary.md",
+      "topic_cluster_key": "1-flash-lite__automate__gemini",
+      "shared_tags": [
+        "automate",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 14
+    },
+    {
+      "videoId": "LRcIKDRybWk",
+      "title": "Build and Automate ANYTHING with Claude Code, Here's How!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/LRcIKDRybWk/summary.md",
+      "topic_cluster_key": "automate__claude",
+      "shared_tags": [
+        "automate",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "Aq21uBOl9qE",
+      "title": "Perplexity Computer + Claude Code Subagents: Automate ANYTHING!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Aq21uBOl9qE/summary.md",
+      "topic_cluster_key": "automate__claude__perplexity-computer",
+      "shared_tags": [
+        "automate",
+        "agent-flow",
+        "marketing-explainers",
+        "onboarding-training",
+        "prompt-design",
+        "seo-content"
+      ],
+      "cluster_match": false,
+      "score": 11
+    },
+    {
+      "videoId": "xnG6OidGGek",
+      "title": "Mercury  + ChatGPT 5.4 is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/xnG6OidGGek/summary.md",
+      "topic_cluster_key": "chatgpt",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    },
+    {
+      "videoId": "x63i1INJ9Tc",
+      "title": "NEW Krea AI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/x63i1INJ9Tc/summary.md",
+      "topic_cluster_key": "krea",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 10
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "rF8VXVn46co",
+      "LRcIKDRybWk",
+      "Aq21uBOl9qE",
+      "xnG6OidGGek",
+      "x63i1INJ9Tc"
+    ]
+  },
+  "updated_at": "2026-03-14T23:02:30Z"
+}

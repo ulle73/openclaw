@@ -1,0 +1,156 @@
+{
+  "id": "70P1xXDCaNQ",
+  "title": "NEW Genclaw DESTROYS OpenClaw?",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260314",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGenSpark AI Workspace 3.0: The Ultimate \"Open Claw\" Competitor\n\nGenSpark AI Workspace 3.0 introduces a powerful AI employee that runs on a dedicated cloud computer for 24/7 automation. This guide explores how GenSpark Claw stacks up against Open Claw and how to automate your entire workflow with its easy one-click setup.\n\n00:00 - Intro\n01:05 - GenSpark Claw vs. Open Claw\n01:51 - Multi-Model API Access\n02:40 - Security and App Integration\n04:32 - Automating Content Creation\n07:51 - The AI Employee Framework\n09:40 - Real-World Use Cases\n11:50 - Final Verdict: Which to Use?",
+  "classifications": [
+    "tool",
+    "workflow",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "genclaw-destroys",
+    "gemini",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "genclaw-destroys",
+    "telegram",
+    "workflow-automation",
+    "agent-automation",
+    "onboarding-training",
+    "seo-content",
+    "prompt-design",
+    "proactive-assistant",
+    "seo-distribution",
+    "agent-flow",
+    "product-opportunity"
+  ],
+  "topic_cluster_key": "genclaw-destroys__openclaw",
+  "related_video_ids": [
+    "ptqHcTAwmlk",
+    "P2LIFtrRr2U",
+    "KPejjQQ5Bzg",
+    "JmFkYj3__xc",
+    "9lbwgk29Db4"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 16
+    },
+    {
+      "videoId": "P2LIFtrRr2U",
+      "title": "Hermes Agent: New FREE OpenClaw Alternative!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/P2LIFtrRr2U/summary.md",
+      "topic_cluster_key": "hermes-agent__openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "product-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "KPejjQQ5Bzg",
+      "title": "OpenClaw 3.11 IS INSANE, Here's Why",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KPejjQQ5Bzg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "JmFkYj3__xc",
+      "title": "New FREE OpenClaw Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/JmFkYj3__xc/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "proactive-assistant"
+      ],
+      "cluster_match": false,
+      "score": 15
+    },
+    {
+      "videoId": "9lbwgk29Db4",
+      "title": "this openclaw content system is INSANE (self improving)",
+      "channel": "Kevin Jeppesen - The Operator Vault",
+      "summary_path": "knowledge/youtube/9lbwgk29Db4/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "telegram",
+        "agent-automation",
+        "agent-flow",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 15
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "ptqHcTAwmlk",
+      "P2LIFtrRr2U",
+      "KPejjQQ5Bzg",
+      "JmFkYj3__xc",
+      "9lbwgk29Db4"
+    ]
+  },
+  "updated_at": "2026-03-14T11:02:29Z"
+}

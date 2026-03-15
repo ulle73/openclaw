@@ -1,0 +1,66 @@
+{
+  "fullName": "InsForge/InsForge",
+  "url": "https://github.com/InsForge/InsForge",
+  "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+  "purpose": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+  "useCase": "agent workflows and AI operators",
+  "relevance": "relevant for Coastworks via agent automation, design, AI/models",
+  "language": "TypeScript",
+  "topics": [
+    "ai",
+    "ai-agents",
+    "coding",
+    "deno",
+    "embeddings",
+    "insforge",
+    "nextjs",
+    "oauth2",
+    "pgvector",
+    "postgresql",
+    "realtime",
+    "vectors",
+    "websockets"
+  ],
+  "stars": 4317,
+  "forks": 441,
+  "openIssues": 46,
+  "detectedSignals": [
+    "agent-automation",
+    "design-offer",
+    "ml-models",
+    "app-product",
+    "web-offer"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "agent-automation",
+        "design-offer",
+        "ml-models",
+        "web-offer"
+      ],
+      "score": 50
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "sharedSignals": [
+        "app-product",
+        "ml-models"
+      ],
+      "score": 28
+    },
+    {
+      "projectId": "vibecoda",
+      "projectName": "VibeCoda",
+      "sharedSignals": [
+        "design-offer",
+        "web-offer"
+      ],
+      "score": 27
+    }
+  ],
+  "fetchedAt": "2026-03-15T08:17:56Z"
+}

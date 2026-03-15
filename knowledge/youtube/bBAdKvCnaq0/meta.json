@@ -1,0 +1,154 @@
+{
+  "id": "bBAdKvCnaq0",
+  "title": "New OpenClaw + Kimi K2.5 + Nvidia + Ollama Update!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260315",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nRun Free AI on Nvidia B300: Kim K 2.5 & Olama Setup Guide\n\nOlama has upgraded their free cloud to run on Nvidia's latest B300 chips, enabling high-performance models like Kim K 2.5 and GLM 5. Learn how to use these powerful AI models with web search for free by integrating them into OpenClaw and Claw Code.\n\n00:00 - Intro: Nvidia B300 Update\n01:29 - What is Olama Cloud?\n01:57 - One Command Setup: Kim K 2.5\n02:28 - Connecting to OpenClaw & Claw Code\n03:28 - Running GLM 5 for Free\n05:25 - Managing Cloud Usage Limits\n06:50 - Why Kim K 2.5 is a Game Changer\n08:14 - AI Automation Training & Community",
+  "classifications": [
+    "tool",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "kimi-k2",
+    "ollama"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "kimi-k2",
+    "ollama",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "api"
+  ],
+  "topic_cluster_key": "kimi-k2__ollama__openclaw",
+  "related_video_ids": [
+    "NiTOlYmthNg",
+    "KyXUJnYjjAo",
+    "KPejjQQ5Bzg",
+    "58pd7zSQCtY",
+    "58T9kb3OFJs"
+  ],
+  "related_videos": [
+    {
+      "videoId": "NiTOlYmthNg",
+      "title": "OpenClaw New Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NiTOlYmthNg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "KyXUJnYjjAo",
+      "title": "New OpenClaw Discord Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KyXUJnYjjAo/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "KPejjQQ5Bzg",
+      "title": "OpenClaw 3.11 IS INSANE, Here's Why",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KPejjQQ5Bzg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "58pd7zSQCtY",
+      "title": "OpenClaw + GPT-5.4 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/58pd7zSQCtY/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "58T9kb3OFJs",
+      "title": "OpenClaw NEW Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/58T9kb3OFJs/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": false,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "synthesize_cluster",
+    "duplicate_risk": "medium",
+    "reason": "Det finns flera narliggande videos. Sammanfatta klustret innan du bygger en ny skill.",
+    "related_video_ids": [
+      "NiTOlYmthNg",
+      "KyXUJnYjjAo",
+      "KPejjQQ5Bzg",
+      "58pd7zSQCtY",
+      "58T9kb3OFJs"
+    ]
+  },
+  "updated_at": "2026-03-15T13:30:13Z"
+}

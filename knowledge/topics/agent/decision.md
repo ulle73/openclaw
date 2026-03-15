@@ -1,12 +1,12 @@
 # Decision - agent
 
 - Action: project_upgrade
-- Opportunity score: 38
+- Opportunity score: 46
 - Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Recommended next move
 Applicera agent i Coastworks
 
 ## Best project match
-- Coastworks (role: offer, score: 23)
-- Shared signals: seo-content, knowledge-systems och agent-automation
+- Coastworks (role: offer, score: 24)
+- Shared signals: seo-content, knowledge-systems, automation och agent-automation

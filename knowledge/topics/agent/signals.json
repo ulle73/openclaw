@@ -9,20 +9,33 @@
     "seo-distribution",
     "seo-content",
     "agent-flow",
-    "agent-automation"
+    "agent-automation",
+    "workflow-automation",
+    "knowledge-management",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "app-idea",
+    "app-opportunity"
   ],
   "categories": [
     "tool",
+    "workflow",
+    "business_idea",
     "seo_distribution",
-    "agent_flow"
+    "agent_flow",
+    "automation",
+    "app_idea",
+    "product_opportunity"
   ],
   "videoIds": [
+    "GVrffdY3REE",
     "cZThTdL4YJQ"
   ],
-  "count": 1,
-  "avg_roi_score": 6.0,
-  "avg_relevance_score": 6.0,
-  "opportunity_score": 38,
+  "count": 2,
+  "avg_roi_score": 7.5,
+  "avg_relevance_score": 7.5,
+  "opportunity_score": 46,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
@@ -31,10 +44,11 @@
     {
       "projectId": "coastworks",
       "projectName": "Coastworks",
-      "score": 23,
+      "score": 24,
       "shared_signals": [
         "seo-content",
         "knowledge-systems",
+        "automation",
         "agent-automation"
       ],
       "projectRole": "offer",
@@ -43,10 +57,11 @@
     {
       "projectId": "ai-visibility-audit",
       "projectName": "AI Visibility Audit",
-      "score": 21,
+      "score": 22,
       "shared_signals": [
         "seo-content",
-        "workflow-automation"
+        "workflow-automation",
+        "automation"
       ],
       "projectRole": "offer",
       "projectPriority": 9
@@ -68,15 +83,15 @@
       "title": "Applicera agent i Coastworks",
       "kind": "project-fit",
       "impact": "hog",
-      "effort": "medel",
+      "effort": "hog",
       "speed": "snabb",
-      "why": "Temat overlappar med Coastworks via seo-content, knowledge-systems och agent-automation."
+      "why": "Temat overlappar med Coastworks via seo-content, knowledge-systems, automation och agent-automation."
     },
     {
       "title": "Bygg en intern skill eller automation runt agent",
       "kind": "automation",
       "impact": "hog",
-      "effort": "medel",
+      "effort": "hog",
       "speed": "snabb",
       "why": "Bygg ett repeterbart arbetsflode eller en skill"
     },
@@ -90,6 +105,18 @@
     }
   ],
   "evidence": [
+    {
+      "videoId": "GVrffdY3REE",
+      "title": "This NEW AI AGENT is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
     {
       "videoId": "cZThTdL4YJQ",
       "title": "This NEW AI AGENT is INSANE! (FREE!) 🤯",

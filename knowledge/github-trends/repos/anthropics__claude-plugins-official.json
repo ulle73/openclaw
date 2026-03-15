@@ -1,0 +1,20 @@
+{
+  "fullName": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "purpose": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "useCase": "Python development and prototyping",
+  "relevance": "relevant as general market signal",
+  "language": "Python",
+  "topics": [
+    "claude-code",
+    "mcp",
+    "skills"
+  ],
+  "stars": 11505,
+  "forks": 1128,
+  "openIssues": 257,
+  "detectedSignals": [],
+  "projectMatches": [],
+  "fetchedAt": "2026-03-15T08:17:55Z"
+}

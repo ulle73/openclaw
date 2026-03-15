@@ -1,0 +1,119 @@
+{
+  "clusterKey": "claude__gemini__rag",
+  "label": "claude och gemini",
+  "entity_tags": [
+    "claude",
+    "gemini",
+    "rag",
+    "notebooklm"
+  ],
+  "topic_tags": [
+    "rag",
+    "notebooklm",
+    "workflow-automation",
+    "knowledge-management",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "product-opportunity",
+    "api",
+    "api-integration"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "product_opportunity",
+    "api"
+  ],
+  "videoIds": [
+    "STjO0AYbetA"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 38,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 17,
+      "shared_signals": [
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "score": 15,
+      "shared_signals": [],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 13,
+      "shared_signals": [
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera claude och gemini i Gravity Claw",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Temat overlappar med Gravity Claw via knowledge-systems och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt claude och gemini",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for claude och gemini",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "STjO0AYbetA",
+      "title": "NEW Gemini Model + Claude Code = Insane RAG",
+      "channel": "Jack Roberts",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "De starkaste use casen är marketing och explainers, vilket gör att samma upplägg kan användas både internt och externt.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/claude__gemini__rag/overview.md",
+    "signals": "knowledge/topics/claude__gemini__rag/signals.json",
+    "decision": "knowledge/topics/claude__gemini__rag/decision.md",
+    "opportunity": "knowledge/topics/claude__gemini__rag/opportunity.md"
+  }
+}

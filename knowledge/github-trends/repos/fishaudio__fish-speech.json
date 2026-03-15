@@ -1,0 +1,35 @@
+{
+  "fullName": "fishaudio/fish-speech",
+  "url": "https://github.com/fishaudio/fish-speech",
+  "description": "SOTA Open Source TTS",
+  "purpose": "SOTA Open Source TTS",
+  "useCase": "Python development and prototyping",
+  "relevance": "relevant for Gravity Claw via voice AI",
+  "language": "Python",
+  "topics": [
+    "llama",
+    "transformer",
+    "tts",
+    "valle",
+    "vits",
+    "vqgan",
+    "vqvae"
+  ],
+  "stars": 26292,
+  "forks": 2212,
+  "openIssues": 34,
+  "detectedSignals": [
+    "voice-ai"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "sharedSignals": [
+        "voice-ai"
+      ],
+      "score": 18
+    }
+  ],
+  "fetchedAt": "2026-03-12T20:52:21Z"
+}

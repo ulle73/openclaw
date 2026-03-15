@@ -1,0 +1,154 @@
+{
+  "id": "1FaO6fQm93Q",
+  "title": "Google Gemini New FREE Updates Are INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260311",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents + Video Notes  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian\n\nGet the AI Client Acquisition Engine: https://www.skool.com/the-content-clone-9266/about\n\n7 INSANE New Google Gemini Updates You Need to See (Free)\n\nGoogle just released seven massive updates to Gemini that change everything from music and video creation to advanced scientific reasoning. Discover how these free tools like Nano Banana 2 and Flow are revolutionizing the AI landscape for creators and businesses alike.\n\n00:00 - Intro: Google Gemini's Big Update\n00:35 - Nano Banana 2: Instant Image Gen\n01:23 - LIA 3: AI Music Generator\n02:19 - Gemini 3.1 Pro: Smarter Reasoning\n03:31 - Deep Think: AI for Science\n04:05 - Flow: The Ultimate Video Creator\n04:52 - Google's New AI Certificate\n05:24 - Real-World AI: Olympic Analysis",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "gemini",
+    "nano-banana-2"
+  ],
+  "topic_tags": [
+    "nano-banana-2",
+    "ai-video-generation",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "gemini",
+  "related_video_ids": [
+    "ZgnQb40aiTU",
+    "98bGqof0dUI",
+    "obIeqXJH3d4",
+    "OV5eK91YY68",
+    "Wxf9oqxODU0"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ZgnQb40aiTU",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ZgnQb40aiTU/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "98bGqof0dUI",
+      "title": "NEW Gemini CLI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/98bGqof0dUI/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": true,
+      "score": 12
+    },
+    {
+      "videoId": "obIeqXJH3d4",
+      "title": "Nano Banana 2 + NoteBookLM is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/obIeqXJH3d4/summary.md",
+      "topic_cluster_key": "nano-banana-2__notebooklm",
+      "shared_tags": [
+        "nano-banana-2",
+        "ai-video-generation",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "OV5eK91YY68",
+      "title": "I let OpenClaw run my organic marketing (here's how)",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/OV5eK91YY68/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "nano-banana-2",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 12
+    },
+    {
+      "videoId": "Wxf9oqxODU0",
+      "title": "Claude Code just became UNSTOPPABLE (Skills 2.0)",
+      "channel": "Jack Roberts",
+      "summary_path": "knowledge/youtube/Wxf9oqxODU0/summary.md",
+      "topic_cluster_key": "claude__skills-2__unstoppable",
+      "shared_tags": [
+        "nano-banana-2",
+        "ai-video-generation",
+        "business-idea",
+        "knowledge-management",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": false,
+      "score": 11
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "ZgnQb40aiTU",
+      "98bGqof0dUI",
+      "obIeqXJH3d4",
+      "OV5eK91YY68",
+      "Wxf9oqxODU0"
+    ]
+  },
+  "updated_at": "2026-03-11T07:02:37Z"
+}

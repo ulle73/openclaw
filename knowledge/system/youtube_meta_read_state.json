@@ -1,0 +1,958 @@
+{
+  "files": {
+    "knowledge/youtube/INDEX.jsonl": {
+      "size": 131207,
+      "hash": "2e752596f9796e3ffac7d985ad0ee47542369a69fa2ebe6b34f7ded19fba0a8a",
+      "modified": 1773601353.2328415,
+      "offset": 131207
+    },
+    "knowledge/youtube/TOPICS.json": {
+      "size": 153036,
+      "hash": "aca449532f801eb7ebe587684e5a628c16a5edbbe93df99a88638436aff7bd54",
+      "modified": 1773601353.2727346,
+      "offset": 153036
+    },
+    "knowledge/ideas/2026-03-09-digest.md": {
+      "size": 644,
+      "hash": "56bb36df9aca03914771e7d83b8741fa74fc9ed1db637c120be5176723d4c4bf",
+      "modified": 1773067886.290663
+    },
+    "knowledge/ideas/2026-03-10-digest.md": {
+      "size": 1614,
+      "hash": "a37a8963826fd3da58145afc94ce41a5d1acd06ac27f7d312b30322c4fbbecdd",
+      "modified": 1773126096.0207264
+    },
+    "knowledge/ideas/2026-03-11-digest.md": {
+      "size": 1660,
+      "hash": "f7093b9dc6a0d81c423f309f78604516ab1405c8fba0dadaecfb6174683fb87b",
+      "modified": 1773212492.5676339
+    },
+    "knowledge/ideas/2026-03-12-digest.md": {
+      "size": 1642,
+      "hash": "ad80dab5a1e4b8425a372ea7731c721a4abe54b812ee82a5293c5a3f608c1ea2",
+      "modified": 1773348711.5345676
+    },
+    "knowledge/ideas/2026-03-13-digest.md": {
+      "size": 1558,
+      "hash": "0a618cf30c0f57a972005995db4f71faa6b2a6bd79e129982d966dbcdb8e8e06",
+      "modified": 1773385295.7426999
+    },
+    "knowledge/ideas/2026-03-14-digest.md": {
+      "size": 1606,
+      "hash": "fcbe8a3e29db389b955c09b39911171d1a3160d64315186dfe4cb5f921009e9f",
+      "modified": 1773471695.6907854
+    },
+    "knowledge/ideas/youtube-meta-validation-latest.md": {
+      "size": 4499,
+      "hash": "c94c4e3658b8684315131a79dade68ea42d0af00587b17ebf0006410b09c79c5",
+      "modified": 1773545037.5098243
+    },
+    "memory/youtube_cron_runs.md": {
+      "size": 7934,
+      "hash": "be9713145951811513f9c69a16d3065064705a731138d393df9e3b6ce28b9cf5",
+      "modified": 1773601353.2996628,
+      "offset": 7934
+    },
+    "memory/youtube_synthesis_runs.md": {
+      "size": 1736,
+      "hash": "52b449827d25c0802ae171b57b0e395d7e99938d9f77070f21cfb0d993db6139",
+      "modified": 1773558095.30037,
+      "offset": 1736
+    },
+    "knowledge/topics/000-hours__editing-tutorials__openclaw/signals.json": {
+      "size": 3495,
+      "hash": "9d858cdcd0fd95234c9c198736e62bec5fff073a7e112f981b6126de35bbe623",
+      "modified": 1773558094.19369
+    },
+    "knowledge/topics/000-websites__claude__nano-banana-2/signals.json": {
+      "size": 3814,
+      "hash": "531536a1af95beb5d85512f1afdd7b6b89fded48e07709baf3c8d0ecde8120b4",
+      "modified": 1773558094.205658
+    },
+    "knowledge/topics/1-flash-lite__automate__gemini/signals.json": {
+      "size": 3720,
+      "hash": "5767afea231ac4f519573602bea3b620f5eb0fc39ea3cc797beded784b239a97",
+      "modified": 1773558094.217626
+    },
+    "knowledge/topics/5-hours__automate__openclaw/signals.json": {
+      "size": 3935,
+      "hash": "028a8dfc0cabab3770fe2e124207131424a00db056a6a41c1974f3c89938168f",
+      "modified": 1773558094.229594
+    },
+    "knowledge/topics/agent/signals.json": {
+      "size": 4119,
+      "hash": "3cf3f8caee1aba77995821b7124a860599d2d5e7ac6e82ab6fa81ca6166b1888",
+      "modified": 1773558094.250538
+    },
+    "knowledge/topics/agent__jules/signals.json": {
+      "size": 3488,
+      "hash": "4bb97331d1c3a84dbcb0aa749d8b9f12a17bf3c9fd26835ae39488706817f516",
+      "modified": 1773558094.261509
+    },
+    "knowledge/topics/agents__openclaw/signals.json": {
+      "size": 3617,
+      "hash": "d69188026ec542fe0612e41124eeef71b88f3df5cc6bad7dc5deb302748e9a97",
+      "modified": 1773558094.2734766
+    },
+    "knowledge/topics/aionui__claude__openclaw/signals.json": {
+      "size": 3776,
+      "hash": "1cb03ec042134ee035201e5eff7917618f25dc39342f4b5c814042d4ead7434b",
+      "modified": 1773558094.2844474
+    },
+    "knowledge/topics/antigravity/signals.json": {
+      "size": 3612,
+      "hash": "84558a3b8aad5dd1b33fc99caf2358870ad0927e9fa621b24a3979356a5beadb",
+      "modified": 1773558094.2964153
+    },
+    "knowledge/topics/antigravity__gravityclaw__unstoppable/signals.json": {
+      "size": 4434,
+      "hash": "324c6c358412339c2d479d5060d7cb66a8a06b5e05d4d354d47bd093202ce9ee",
+      "modified": 1773558094.3562663
+    },
+    "knowledge/topics/antigravity__openclaw/signals.json": {
+      "size": 3665,
+      "hash": "55bf64da56fa65b988243b9ee76a2d3d30d18dbba47a8f614ced3751db6d1a8f",
+      "modified": 1773558094.3677409
+    },
+    "knowledge/topics/automate__chatgpt__gemini/signals.json": {
+      "size": 3658,
+      "hash": "d5f1c309cb4bce9550a22cb9bf293b121a0b986ec0585a03d862a00c98ca6838",
+      "modified": 1773558094.3787115
+    },
+    "knowledge/topics/automate__claude/signals.json": {
+      "size": 3736,
+      "hash": "464b7cb51415ad01668cb4e68229712330a3ef73945602342bb3c317919401a9",
+      "modified": 1773558094.3896823
+    },
+    "knowledge/topics/automate__claude__perplexity-computer/signals.json": {
+      "size": 4001,
+      "hash": "000f6a50dcb285eed7138b6089ad09c18868243235ee148b36c9e4804edcd4f0",
+      "modified": 1773558094.4036448
+    },
+    "knowledge/topics/breakdown__the/signals.json": {
+      "size": 3650,
+      "hash": "1f476d84563401faadab3a9b479ff0f1d863290729d4ea0efaa0072c3ac6901a",
+      "modified": 1773558094.4146156
+    },
+    "knowledge/topics/buying-assets__stop-buying-things/signals.json": {
+      "size": 3695,
+      "hash": "fd0b607a37d21e954dc7ab15eef97e08380d2c7cbe2d7e6469c16c137c03dae0",
+      "modified": 1773558094.4260902
+    },
+    "knowledge/topics/chatgpt/signals.json": {
+      "size": 4123,
+      "hash": "d5c189fa4d90643ffd6d61b001f00eb1e669440b38537949fe88acf60d732165",
+      "modified": 1773558094.447034
+    },
+    "knowledge/topics/chatgpt__claude/signals.json": {
+      "size": 3607,
+      "hash": "47c4ac51c456676e3c0be55082e4d359340c6f8242807e1542211c14dbc605b6",
+      "modified": 1773558094.4570074
+    },
+    "knowledge/topics/chatgpt__healer-alpha/signals.json": {
+      "size": 3720,
+      "hash": "10d8e7b3af4f6e3a3f4bd6dfda84b6b61677d04ff292f3b54984651714fc72d3",
+      "modified": 1773558094.467978
+    },
+    "knowledge/topics/chatgpt__notebooklm/signals.json": {
+      "size": 4276,
+      "hash": "8579ea234d5cecf2a102c6d7048c941233bb5037d1d51e6cffff661057b9ed45",
+      "modified": 1773558094.4884286
+    },
+    "knowledge/topics/chatgpt__upgrades/signals.json": {
+      "size": 3543,
+      "hash": "0c46bd93a761b7056238a2a96b020ccf52d943cfe3c14aaeeaad0c2b4ecd54ac",
+      "modified": 1773558094.498402
+    },
+    "knowledge/topics/chatgpt__visuals/signals.json": {
+      "size": 3504,
+      "hash": "76ce0c20c654d3eb3edc684f471cac2e83f20a232bb2d00b72f04781905d9f56",
+      "modified": 1773558094.5103705
+    },
+    "knowledge/topics/chinese__model/signals.json": {
+      "size": 3550,
+      "hash": "09a33184ce5dc8473537a44b41b0406f9b97b6b02b297463e25c46f03e67bd09",
+      "modified": 1773558094.5213406
+    },
+    "knowledge/topics/claude/signals.json": {
+      "size": 10532,
+      "hash": "2664a5599ae6daaff3fcf8683bdfc15be9291b4eef0246d4af89598d53a366e4",
+      "modified": 1773558094.5707264
+    },
+    "knowledge/topics/claude__copilot-cowork/signals.json": {
+      "size": 3675,
+      "hash": "f574608b1136351a3ed03cc2cb58cce4448f5ab10de6866494845e9a38d5d0d3",
+      "modified": 1773558094.5816972
+    },
+    "knowledge/topics/claude__course__employees/signals.json": {
+      "size": 3536,
+      "hash": "346095fbee9ba32ebc0bf522f0ced1689a880c7c5f78f58f1a1c2bf2bc140357",
+      "modified": 1773558094.5926678
+    },
+    "knowledge/topics/claude__design-now/signals.json": {
+      "size": 3597,
+      "hash": "7e5c6643ba3a7c0d1196d367250c0f268614c6949f43dd270f1d9cb857c775fb",
+      "modified": 1773558094.604143
+    },
+    "knowledge/topics/claude__gemini__rag/signals.json": {
+      "size": 3349,
+      "hash": "7831e76f23297c8ba919c32934a44308d268e1a99e71159ec65d9fb211407e65",
+      "modified": 1773558094.6151135
+    },
+    "knowledge/topics/claude__github-cli__perplexity-computer/signals.json": {
+      "size": 3765,
+      "hash": "b16c5716061792d3ac2c1c8724bbad78fe946ef33ef628d07f7d171a3523cbbb",
+      "modified": 1773558094.6250868
+    },
+    "knowledge/topics/claude__scheduled-tasks/signals.json": {
+      "size": 4392,
+      "hash": "5a6bb2c3e141f9c3ca7eea4e84c4f3656a370d7b8e491f832a2e7529be4d8c7d",
+      "modified": 1773558094.6669745
+    },
+    "knowledge/topics/claude__skills-2__unstoppable/signals.json": {
+      "size": 3692,
+      "hash": "bacfb8d10ab5753039b868aad38f83383c08eec1c70015cf7af2c0eedeae853e",
+      "modified": 1773558094.677452
+    },
+    "knowledge/topics/clawswarm-destroys__openclaw/signals.json": {
+      "size": 3834,
+      "hash": "f067ccff7c049a1727ed05834fde5639c01e3580ea6dedb94f5568b1ecd59ee0",
+      "modified": 1773558094.688423
+    },
+    "knowledge/topics/deepseek-v4/signals.json": {
+      "size": 3406,
+      "hash": "1dd73deb8341a01437be927ed603f29a794c3bf5e96b2f24bf3cad7b4642b7be",
+      "modified": 1773558094.6994064
+    },
+    "knowledge/topics/devin-2/signals.json": {
+      "size": 3494,
+      "hash": "f83bd475542018b88d1b28ffa139bd7e34b6f9b43c396abb7daf10924279b228",
+      "modified": 1773558094.7108808
+    },
+    "knowledge/topics/every-company__operating-systems__will-need-one/signals.json": {
+      "size": 3896,
+      "hash": "df61026700bade8b1bbbb25ee9166423651c6cbf829831d93323a2a68f029a8a",
+      "modified": 1773558094.7213578
+    },
+    "knowledge/topics/everything__notebooklm/signals.json": {
+      "size": 3718,
+      "hash": "ce57c69a7ced29729c05b240e61f707105c0dd89a86a7b7e43b73d4de5bf65ce",
+      "modified": 1773558094.7323284
+    },
+    "knowledge/topics/find-products-that__use-web-scraping/signals.json": {
+      "size": 3785,
+      "hash": "7aabfcb79ebc3e488d543381ba812e2e412c25b50ef8ec166b5355005f93dc75",
+      "modified": 1773558094.7428055
+    },
+    "knowledge/topics/gemini/signals.json": {
+      "size": 9055,
+      "hash": "c4f1aae533a35533a68557ed335447dd68cbe407142daf58f988add782171f18",
+      "modified": 1773558094.822121
+    },
+    "knowledge/topics/gemini__gpt-5__openclaw/signals.json": {
+      "size": 4550,
+      "hash": "e1e2b1347bcb7adc940142cfbf350bc8d5fba0670774045e96c49f1f2d94d52c",
+      "modified": 1773558094.8410704
+    },
+    "knowledge/topics/gemini__openclaw/signals.json": {
+      "size": 3626,
+      "hash": "9570d527b770b14ccc2fc28b5d493dc88e2c22027ce6efa78f84eb1f4f119965",
+      "modified": 1773558094.8510437
+    },
+    "knowledge/topics/gemini__web-design/signals.json": {
+      "size": 3268,
+      "hash": "a2c12a94f6afb03b334694f0d30fbd766dd1baf385ed000d1c69c81a944593fd",
+      "modified": 1773558094.8620143
+    },
+    "knowledge/topics/gemini__workspace/signals.json": {
+      "size": 3617,
+      "hash": "e3e6b7140d225af3b9de2eab41a9b8730698be781a6483a8694999e937ea62c5",
+      "modified": 1773558094.872985
+    },
+    "knowledge/topics/gemma/signals.json": {
+      "size": 3460,
+      "hash": "40b77c70bf5a36059789dbf65f47e4ef8130a3b37c477cdf36547af91e271b9d",
+      "modified": 1773558094.8829584
+    },
+    "knowledge/topics/genclaw-destroys__openclaw/signals.json": {
+      "size": 3833,
+      "hash": "4a9cc9c31f5c4d859cce6d983af5ed07dfd0f835be1e4e02e382845a9f68d64b",
+      "modified": 1773558094.8929317
+    },
+    "knowledge/topics/gpt-5__openclaw/signals.json": {
+      "size": 3693,
+      "hash": "9b85df4163c0651d1e99df895d521db5dc14f6098b872e5eef1fd976588b28cf",
+      "modified": 1773558094.9039028
+    },
+    "knowledge/topics/healer-alpha__hunter-alpha__openclaw/signals.json": {
+      "size": 3944,
+      "hash": "107dd55e47731b3b8b0ce3f0dd574a286d3d9f6efe5ff14d23854c2555aeac60",
+      "modified": 1773558094.913876
+    },
+    "knowledge/topics/hermes-agent__openclaw/signals.json": {
+      "size": 3809,
+      "hash": "c5710bdd7d1a7465b690484bc7333aeb31dbdc358224c4ea20edb1a0eeae3634",
+      "modified": 1773558094.923849
+    },
+    "knowledge/topics/krea/signals.json": {
+      "size": 3384,
+      "hash": "5ec8259653b20c9ec8d6019c423c65d53680ed4973b8cb8d13b19689f72ca577",
+      "modified": 1773558094.9338229
+    },
+    "knowledge/topics/layers-explained__openclaw__the-3-memory/signals.json": {
+      "size": 3855,
+      "hash": "bb3f9c587a4634331842da448681244a936a0ccc0204119316ce4792c2679a34",
+      "modified": 1773558094.9457903
+    },
+    "knowledge/topics/model/signals.json": {
+      "size": 3362,
+      "hash": "8841663054582f6fbc16b585e905f9bb1e888224a718e1a152501504d5875f42",
+      "modified": 1773558094.9557638
+    },
+    "knowledge/topics/nano-banana-2__notebooklm/signals.json": {
+      "size": 4733,
+      "hash": "161327e43e2ecfb0fed391355ece49b7cbfaa1cd2f2023d81c116bd000feddc5",
+      "modified": 1773558094.9737158
+    },
+    "knowledge/topics/nemoclaw-destroys__openclaw/signals.json": {
+      "size": 3681,
+      "hash": "245f2cff71cb3c776a7a494910b40aec354d14cbe4f9eba5791413d954ca1a1c",
+      "modified": 1773558094.9841962
+    },
+    "knowledge/topics/nemotron-3-super__nvidia/signals.json": {
+      "size": 3734,
+      "hash": "e68c0bcbe41a1cac05466314c814ffd17c036ed69155d4cb037f03cb82b2eb5d",
+      "modified": 1773558094.994167
+    },
+    "knowledge/topics/notebooklm__openclaw/signals.json": {
+      "size": 3827,
+      "hash": "398055e80d90f1bc92d7fd1cdc0ddc463e444518caa2f4d94ad1192d1e77818c",
+      "modified": 1773558095.0051374
+    },
+    "knowledge/topics/nvidia-nemotron-3__openclaw/signals.json": {
+      "size": 3723,
+      "hash": "63c66bdb9e5f8e9d13626165368c8203d5b6fff4042c20d512d604de9a0afa85",
+      "modified": 1773558095.015111
+    },
+    "knowledge/topics/openai-codex/signals.json": {
+      "size": 3513,
+      "hash": "30554dc0ba0903f659aa65a5ca089dbbf711e19a35c1e9db1b3c8c3b7442415b",
+      "modified": 1773558095.0260816
+    },
+    "knowledge/topics/openai-codex__stitch/signals.json": {
+      "size": 3667,
+      "hash": "dcea7825a04e7afa5d6adacad45a8c65aad571647efc1ce7b64345fca5a74e8c",
+      "modified": 1773558095.0365589
+    },
+    "knowledge/topics/openai-model/signals.json": {
+      "size": 3519,
+      "hash": "0494defc343e64b2fcb7b16c5d51b2f7d93512098a0e6122d674404caa4094b6",
+      "modified": 1773558095.0465322
+    },
+    "knowledge/topics/openai__symphony/signals.json": {
+      "size": 3587,
+      "hash": "c0b064aab5568732c272591f7200aa371b50de832392e16ac5d05408fbae2d12",
+      "modified": 1773558095.0565057
+    },
+    "knowledge/topics/openclaw/signals.json": {
+      "size": 10873,
+      "hash": "8a61c009b7b05a8dcc1aa27bf5fb886e1f9da7fa00b46b86c442fcc77ed5887c",
+      "modified": 1773558095.0924096
+    },
+    "knowledge/topics/openclaw__paperclip/signals.json": {
+      "size": 4457,
+      "hash": "25195fe6e19c05c799a3441f6e69b4c6c8e428afa2141cba8742873c4cfa32c4",
+      "modified": 1773558095.111369
+    },
+    "knowledge/topics/openclaw__perplexity-computer/signals.json": {
+      "size": 3886,
+      "hash": "abdf78d8df73c2009e6b7032df35ded97cb984043055ef3a10824465586895a4",
+      "modified": 1773558095.1153586
+    },
+    "knowledge/topics/openclaw__perplexity-personal/signals.json": {
+      "size": 3846,
+      "hash": "a13450d841bf759f30bbd8530e1242d6f5638447345333d0da885885300ab86b",
+      "modified": 1773558095.126329
+    },
+    "knowledge/topics/openclaw__single-agents/signals.json": {
+      "size": 3614,
+      "hash": "f8cb2b0df34c4bed6939de26e679bf10b1ca50e8f02dbaa4c2429f3ec50840f1",
+      "modified": 1773558095.1372995
+    },
+    "knowledge/topics/openclaw__skills/signals.json": {
+      "size": 3702,
+      "hash": "31c63fc011b17926a690033df9910153497b34e87e7a0c36d2db64bd4f8d029b",
+      "modified": 1773558095.1502647
+    },
+    "knowledge/topics/openclaw__specialized-agents/signals.json": {
+      "size": 3758,
+      "hash": "ed5da7d827988d1345045f6105208a9f8879c778d4c7de65bdb4d9608536c491",
+      "modified": 1773558095.1612363
+    },
+    "knowledge/topics/openclaw__star-office/signals.json": {
+      "size": 3644,
+      "hash": "d7c2f3b543d471d16533918deb62e0609ae9aaf18842b11ea096d5690158581d",
+      "modified": 1773558095.1781905
+    },
+    "knowledge/topics/perplexity-computer/signals.json": {
+      "size": 4433,
+      "hash": "d64c70706981cdd94dadfb57caf2ea2b9265005c4d47847f0bddc51c7dbdfa9b",
+      "modified": 1773558095.198137
+    },
+    "knowledge/topics/perplexity-personal-computer/signals.json": {
+      "size": 3736,
+      "hash": "63f884765123ef5c923e85a1b5f0924d1b2ba1ffb46fb11dd0e305df86d26b53",
+      "modified": 1773558095.210105
+    },
+    "knowledge/topics/pomelli/signals.json": {
+      "size": 4318,
+      "hash": "1b2165de92062f279d0113d1c3691c3a82de92406047b3053244fc2f63c08391",
+      "modified": 1773558095.2310493
+    },
+    "knowledge/topics/saas/signals.json": {
+      "size": 3646,
+      "hash": "e40bed93581d7fa8f867f68bd9e4d332dc87dce0daa1bb7f2c15075948d7a30d",
+      "modified": 1773558095.2420197
+    },
+    "knowledge/topics/selling-magnets/signals.json": {
+      "size": 3680,
+      "hash": "fa9e67cbc465ba4deb342c95afe8968b06ab649345ab56377f251c4f683ba1d8",
+      "modified": 1773558095.2539878
+    },
+    "knowledge/topics/smallest-pc__the-world__tiiny-pocket/signals.json": {
+      "size": 3818,
+      "hash": "6f394ca957f00ba73c37bdb885fdec9f68d85d9616c95932f2cb77ca126ff9d2",
+      "modified": 1773558095.265956
+    },
+    "knowledge/topics/the/signals.json": {
+      "size": 3303,
+      "hash": "e812569c5f02807fb91129da5355e6c9a58bd13afe0cc154d0a03292400bb13d",
+      "modified": 1773558095.2779238
+    },
+    "knowledge/ideas/2026-03-15-digest.md": {
+      "size": 1599,
+      "hash": "3bfb162d99b7d942032364f98adc3037f158c81ee02d0fb2fa585bcfb7e89a91",
+      "modified": 1773558095.2983754
+    },
+    "knowledge/topics/claude__glm__opus-4/signals.json": {
+      "size": 3722,
+      "hash": "0f129f70377487275b791823a32f316b486dc12fe21f40cfb72c8148e65db746",
+      "modified": 1773558094.6360574
+    },
+    "knowledge/topics/claude__perplexity-computer/signals.json": {
+      "size": 3596,
+      "hash": "394071f597bb248510d09f5df16089864884798a661bb2b3e01ac0ed836fd169",
+      "modified": 1773558094.647028
+    },
+    "knowledge/ideas\\2026-03-09-digest.md": {
+      "size": 644,
+      "hash": "56bb36df9aca03914771e7d83b8741fa74fc9ed1db637c120be5176723d4c4bf",
+      "modified": 1773067886.290663,
+      "offset": 644
+    },
+    "knowledge/ideas\\2026-03-10-digest.md": {
+      "size": 1614,
+      "hash": "a37a8963826fd3da58145afc94ce41a5d1acd06ac27f7d312b30322c4fbbecdd",
+      "modified": 1773126096.0207264,
+      "offset": 1614
+    },
+    "knowledge/ideas\\2026-03-11-digest.md": {
+      "size": 1660,
+      "hash": "f7093b9dc6a0d81c423f309f78604516ab1405c8fba0dadaecfb6174683fb87b",
+      "modified": 1773212492.5676339,
+      "offset": 1660
+    },
+    "knowledge/ideas\\2026-03-12-digest.md": {
+      "size": 1642,
+      "hash": "ad80dab5a1e4b8425a372ea7731c721a4abe54b812ee82a5293c5a3f608c1ea2",
+      "modified": 1773348711.5345676,
+      "offset": 1642
+    },
+    "knowledge/ideas\\2026-03-13-digest.md": {
+      "size": 1558,
+      "hash": "0a618cf30c0f57a972005995db4f71faa6b2a6bd79e129982d966dbcdb8e8e06",
+      "modified": 1773385295.7426999,
+      "offset": 1558
+    },
+    "knowledge/ideas\\2026-03-14-digest.md": {
+      "size": 1606,
+      "hash": "fcbe8a3e29db389b955c09b39911171d1a3160d64315186dfe4cb5f921009e9f",
+      "modified": 1773471695.6907854,
+      "offset": 1606
+    },
+    "knowledge/ideas\\2026-03-15-digest.md": {
+      "size": 1599,
+      "hash": "3bfb162d99b7d942032364f98adc3037f158c81ee02d0fb2fa585bcfb7e89a91",
+      "modified": 1773558095.2983754,
+      "offset": 1599
+    },
+    "knowledge/topics\\000-hours__editing-tutorials__openclaw\\signals.json": {
+      "size": 3495,
+      "hash": "9d858cdcd0fd95234c9c198736e62bec5fff073a7e112f981b6126de35bbe623",
+      "modified": 1773558094.19369,
+      "offset": 3495
+    },
+    "knowledge/topics\\000-websites__claude__nano-banana-2\\signals.json": {
+      "size": 3814,
+      "hash": "531536a1af95beb5d85512f1afdd7b6b89fded48e07709baf3c8d0ecde8120b4",
+      "modified": 1773558094.205658,
+      "offset": 3814
+    },
+    "knowledge/topics\\1-flash-lite__automate__gemini\\signals.json": {
+      "size": 3720,
+      "hash": "5767afea231ac4f519573602bea3b620f5eb0fc39ea3cc797beded784b239a97",
+      "modified": 1773558094.217626,
+      "offset": 3720
+    },
+    "knowledge/topics\\5-hours__automate__openclaw\\signals.json": {
+      "size": 3935,
+      "hash": "028a8dfc0cabab3770fe2e124207131424a00db056a6a41c1974f3c89938168f",
+      "modified": 1773558094.229594,
+      "offset": 3935
+    },
+    "knowledge/topics\\agent\\signals.json": {
+      "size": 4119,
+      "hash": "3cf3f8caee1aba77995821b7124a860599d2d5e7ac6e82ab6fa81ca6166b1888",
+      "modified": 1773558094.250538,
+      "offset": 4119
+    },
+    "knowledge/topics\\agent__jules\\signals.json": {
+      "size": 3488,
+      "hash": "4bb97331d1c3a84dbcb0aa749d8b9f12a17bf3c9fd26835ae39488706817f516",
+      "modified": 1773558094.261509,
+      "offset": 3488
+    },
+    "knowledge/topics\\agents__openclaw\\signals.json": {
+      "size": 3617,
+      "hash": "d69188026ec542fe0612e41124eeef71b88f3df5cc6bad7dc5deb302748e9a97",
+      "modified": 1773558094.2734766,
+      "offset": 3617
+    },
+    "knowledge/topics\\aionui__claude__openclaw\\signals.json": {
+      "size": 3776,
+      "hash": "1cb03ec042134ee035201e5eff7917618f25dc39342f4b5c814042d4ead7434b",
+      "modified": 1773558094.2844474,
+      "offset": 3776
+    },
+    "knowledge/topics\\antigravity\\signals.json": {
+      "size": 3612,
+      "hash": "84558a3b8aad5dd1b33fc99caf2358870ad0927e9fa621b24a3979356a5beadb",
+      "modified": 1773558094.2964153,
+      "offset": 3612
+    },
+    "knowledge/topics\\antigravity__gravityclaw__unstoppable\\signals.json": {
+      "size": 4434,
+      "hash": "324c6c358412339c2d479d5060d7cb66a8a06b5e05d4d354d47bd093202ce9ee",
+      "modified": 1773558094.3562663,
+      "offset": 4434
+    },
+    "knowledge/topics\\antigravity__openclaw\\signals.json": {
+      "size": 3665,
+      "hash": "55bf64da56fa65b988243b9ee76a2d3d30d18dbba47a8f614ced3751db6d1a8f",
+      "modified": 1773558094.3677409,
+      "offset": 3665
+    },
+    "knowledge/topics\\automate__chatgpt__gemini\\signals.json": {
+      "size": 3658,
+      "hash": "d5f1c309cb4bce9550a22cb9bf293b121a0b986ec0585a03d862a00c98ca6838",
+      "modified": 1773558094.3787115,
+      "offset": 3658
+    },
+    "knowledge/topics\\automate__claude\\signals.json": {
+      "size": 3736,
+      "hash": "464b7cb51415ad01668cb4e68229712330a3ef73945602342bb3c317919401a9",
+      "modified": 1773558094.3896823,
+      "offset": 3736
+    },
+    "knowledge/topics\\automate__claude__perplexity-computer\\signals.json": {
+      "size": 4001,
+      "hash": "000f6a50dcb285eed7138b6089ad09c18868243235ee148b36c9e4804edcd4f0",
+      "modified": 1773558094.4036448,
+      "offset": 4001
+    },
+    "knowledge/topics\\breakdown__the\\signals.json": {
+      "size": 3650,
+      "hash": "1f476d84563401faadab3a9b479ff0f1d863290729d4ea0efaa0072c3ac6901a",
+      "modified": 1773558094.4146156,
+      "offset": 3650
+    },
+    "knowledge/topics\\buying-assets__stop-buying-things\\signals.json": {
+      "size": 3695,
+      "hash": "fd0b607a37d21e954dc7ab15eef97e08380d2c7cbe2d7e6469c16c137c03dae0",
+      "modified": 1773558094.4260902,
+      "offset": 3695
+    },
+    "knowledge/topics\\chatgpt\\signals.json": {
+      "size": 4123,
+      "hash": "d5c189fa4d90643ffd6d61b001f00eb1e669440b38537949fe88acf60d732165",
+      "modified": 1773558094.447034,
+      "offset": 4123
+    },
+    "knowledge/topics\\chatgpt__claude\\signals.json": {
+      "size": 3607,
+      "hash": "47c4ac51c456676e3c0be55082e4d359340c6f8242807e1542211c14dbc605b6",
+      "modified": 1773558094.4570074,
+      "offset": 3607
+    },
+    "knowledge/topics\\chatgpt__healer-alpha\\signals.json": {
+      "size": 3720,
+      "hash": "10d8e7b3af4f6e3a3f4bd6dfda84b6b61677d04ff292f3b54984651714fc72d3",
+      "modified": 1773558094.467978,
+      "offset": 3720
+    },
+    "knowledge/topics\\chatgpt__notebooklm\\signals.json": {
+      "size": 4276,
+      "hash": "8579ea234d5cecf2a102c6d7048c941233bb5037d1d51e6cffff661057b9ed45",
+      "modified": 1773558094.4884286,
+      "offset": 4276
+    },
+    "knowledge/topics\\chatgpt__upgrades\\signals.json": {
+      "size": 3543,
+      "hash": "0c46bd93a761b7056238a2a96b020ccf52d943cfe3c14aaeeaad0c2b4ecd54ac",
+      "modified": 1773558094.498402,
+      "offset": 3543
+    },
+    "knowledge/topics\\chatgpt__visuals\\signals.json": {
+      "size": 3504,
+      "hash": "76ce0c20c654d3eb3edc684f471cac2e83f20a232bb2d00b72f04781905d9f56",
+      "modified": 1773558094.5103705,
+      "offset": 3504
+    },
+    "knowledge/topics\\chinese__model\\signals.json": {
+      "size": 3550,
+      "hash": "09a33184ce5dc8473537a44b41b0406f9b97b6b02b297463e25c46f03e67bd09",
+      "modified": 1773558094.5213406,
+      "offset": 3550
+    },
+    "knowledge/topics\\claude\\signals.json": {
+      "size": 10532,
+      "hash": "2664a5599ae6daaff3fcf8683bdfc15be9291b4eef0246d4af89598d53a366e4",
+      "modified": 1773558094.5707264,
+      "offset": 10532
+    },
+    "knowledge/topics\\claude__copilot-cowork\\signals.json": {
+      "size": 3675,
+      "hash": "f574608b1136351a3ed03cc2cb58cce4448f5ab10de6866494845e9a38d5d0d3",
+      "modified": 1773558094.5816972,
+      "offset": 3675
+    },
+    "knowledge/topics\\claude__course__employees\\signals.json": {
+      "size": 3536,
+      "hash": "346095fbee9ba32ebc0bf522f0ced1689a880c7c5f78f58f1a1c2bf2bc140357",
+      "modified": 1773558094.5926678,
+      "offset": 3536
+    },
+    "knowledge/topics\\claude__design-now\\signals.json": {
+      "size": 3597,
+      "hash": "7e5c6643ba3a7c0d1196d367250c0f268614c6949f43dd270f1d9cb857c775fb",
+      "modified": 1773558094.604143,
+      "offset": 3597
+    },
+    "knowledge/topics\\claude__gemini__rag\\signals.json": {
+      "size": 3349,
+      "hash": "7831e76f23297c8ba919c32934a44308d268e1a99e71159ec65d9fb211407e65",
+      "modified": 1773558094.6151135,
+      "offset": 3349
+    },
+    "knowledge/topics\\claude__github-cli__perplexity-computer\\signals.json": {
+      "size": 3765,
+      "hash": "b16c5716061792d3ac2c1c8724bbad78fe946ef33ef628d07f7d171a3523cbbb",
+      "modified": 1773558094.6250868,
+      "offset": 3765
+    },
+    "knowledge/topics\\claude__glm__opus-4\\signals.json": {
+      "size": 3722,
+      "hash": "0f129f70377487275b791823a32f316b486dc12fe21f40cfb72c8148e65db746",
+      "modified": 1773558094.6360574,
+      "offset": 3722
+    },
+    "knowledge/topics\\claude__perplexity-computer\\signals.json": {
+      "size": 3596,
+      "hash": "394071f597bb248510d09f5df16089864884798a661bb2b3e01ac0ed836fd169",
+      "modified": 1773558094.647028,
+      "offset": 3596
+    },
+    "knowledge/topics\\claude__scheduled-tasks\\signals.json": {
+      "size": 4392,
+      "hash": "5a6bb2c3e141f9c3ca7eea4e84c4f3656a370d7b8e491f832a2e7529be4d8c7d",
+      "modified": 1773558094.6669745,
+      "offset": 4392
+    },
+    "knowledge/topics\\claude__skills-2__unstoppable\\signals.json": {
+      "size": 3692,
+      "hash": "bacfb8d10ab5753039b868aad38f83383c08eec1c70015cf7af2c0eedeae853e",
+      "modified": 1773558094.677452,
+      "offset": 3692
+    },
+    "knowledge/topics\\clawswarm-destroys__openclaw\\signals.json": {
+      "size": 3834,
+      "hash": "f067ccff7c049a1727ed05834fde5639c01e3580ea6dedb94f5568b1ecd59ee0",
+      "modified": 1773558094.688423,
+      "offset": 3834
+    },
+    "knowledge/topics\\deepseek-v4\\signals.json": {
+      "size": 3406,
+      "hash": "1dd73deb8341a01437be927ed603f29a794c3bf5e96b2f24bf3cad7b4642b7be",
+      "modified": 1773558094.6994064,
+      "offset": 3406
+    },
+    "knowledge/topics\\devin-2\\signals.json": {
+      "size": 3494,
+      "hash": "f83bd475542018b88d1b28ffa139bd7e34b6f9b43c396abb7daf10924279b228",
+      "modified": 1773558094.7108808,
+      "offset": 3494
+    },
+    "knowledge/topics\\every-company__operating-systems__will-need-one\\signals.json": {
+      "size": 3896,
+      "hash": "df61026700bade8b1bbbb25ee9166423651c6cbf829831d93323a2a68f029a8a",
+      "modified": 1773558094.7213578,
+      "offset": 3896
+    },
+    "knowledge/topics\\everything__notebooklm\\signals.json": {
+      "size": 3718,
+      "hash": "ce57c69a7ced29729c05b240e61f707105c0dd89a86a7b7e43b73d4de5bf65ce",
+      "modified": 1773558094.7323284,
+      "offset": 3718
+    },
+    "knowledge/topics\\find-products-that__use-web-scraping\\signals.json": {
+      "size": 3785,
+      "hash": "7aabfcb79ebc3e488d543381ba812e2e412c25b50ef8ec166b5355005f93dc75",
+      "modified": 1773558094.7428055,
+      "offset": 3785
+    },
+    "knowledge/topics\\gemini\\signals.json": {
+      "size": 9055,
+      "hash": "c4f1aae533a35533a68557ed335447dd68cbe407142daf58f988add782171f18",
+      "modified": 1773558094.822121,
+      "offset": 9055
+    },
+    "knowledge/topics\\gemini__gpt-5__openclaw\\signals.json": {
+      "size": 4550,
+      "hash": "e1e2b1347bcb7adc940142cfbf350bc8d5fba0670774045e96c49f1f2d94d52c",
+      "modified": 1773558094.8410704,
+      "offset": 4550
+    },
+    "knowledge/topics\\gemini__openclaw\\signals.json": {
+      "size": 3626,
+      "hash": "9570d527b770b14ccc2fc28b5d493dc88e2c22027ce6efa78f84eb1f4f119965",
+      "modified": 1773558094.8510437,
+      "offset": 3626
+    },
+    "knowledge/topics\\gemini__web-design\\signals.json": {
+      "size": 3268,
+      "hash": "a2c12a94f6afb03b334694f0d30fbd766dd1baf385ed000d1c69c81a944593fd",
+      "modified": 1773558094.8620143,
+      "offset": 3268
+    },
+    "knowledge/topics\\gemini__workspace\\signals.json": {
+      "size": 3617,
+      "hash": "e3e6b7140d225af3b9de2eab41a9b8730698be781a6483a8694999e937ea62c5",
+      "modified": 1773558094.872985,
+      "offset": 3617
+    },
+    "knowledge/topics\\gemma\\signals.json": {
+      "size": 3460,
+      "hash": "40b77c70bf5a36059789dbf65f47e4ef8130a3b37c477cdf36547af91e271b9d",
+      "modified": 1773558094.8829584,
+      "offset": 3460
+    },
+    "knowledge/topics\\genclaw-destroys__openclaw\\signals.json": {
+      "size": 3833,
+      "hash": "4a9cc9c31f5c4d859cce6d983af5ed07dfd0f835be1e4e02e382845a9f68d64b",
+      "modified": 1773558094.8929317,
+      "offset": 3833
+    },
+    "knowledge/topics\\gpt-5__openclaw\\signals.json": {
+      "size": 3693,
+      "hash": "9b85df4163c0651d1e99df895d521db5dc14f6098b872e5eef1fd976588b28cf",
+      "modified": 1773558094.9039028,
+      "offset": 3693
+    },
+    "knowledge/topics\\healer-alpha__hunter-alpha__openclaw\\signals.json": {
+      "size": 3944,
+      "hash": "107dd55e47731b3b8b0ce3f0dd574a286d3d9f6efe5ff14d23854c2555aeac60",
+      "modified": 1773558094.913876,
+      "offset": 3944
+    },
+    "knowledge/topics\\hermes-agent__openclaw\\signals.json": {
+      "size": 3809,
+      "hash": "c5710bdd7d1a7465b690484bc7333aeb31dbdc358224c4ea20edb1a0eeae3634",
+      "modified": 1773558094.923849,
+      "offset": 3809
+    },
+    "knowledge/topics\\krea\\signals.json": {
+      "size": 3384,
+      "hash": "5ec8259653b20c9ec8d6019c423c65d53680ed4973b8cb8d13b19689f72ca577",
+      "modified": 1773558094.9338229,
+      "offset": 3384
+    },
+    "knowledge/topics\\layers-explained__openclaw__the-3-memory\\signals.json": {
+      "size": 3855,
+      "hash": "bb3f9c587a4634331842da448681244a936a0ccc0204119316ce4792c2679a34",
+      "modified": 1773558094.9457903,
+      "offset": 3855
+    },
+    "knowledge/topics\\model\\signals.json": {
+      "size": 3362,
+      "hash": "8841663054582f6fbc16b585e905f9bb1e888224a718e1a152501504d5875f42",
+      "modified": 1773558094.9557638,
+      "offset": 3362
+    },
+    "knowledge/topics\\nano-banana-2__notebooklm\\signals.json": {
+      "size": 4733,
+      "hash": "161327e43e2ecfb0fed391355ece49b7cbfaa1cd2f2023d81c116bd000feddc5",
+      "modified": 1773558094.9737158,
+      "offset": 4733
+    },
+    "knowledge/topics\\nemoclaw-destroys__openclaw\\signals.json": {
+      "size": 3681,
+      "hash": "245f2cff71cb3c776a7a494910b40aec354d14cbe4f9eba5791413d954ca1a1c",
+      "modified": 1773558094.9841962,
+      "offset": 3681
+    },
+    "knowledge/topics\\nemotron-3-super__nvidia\\signals.json": {
+      "size": 3734,
+      "hash": "e68c0bcbe41a1cac05466314c814ffd17c036ed69155d4cb037f03cb82b2eb5d",
+      "modified": 1773558094.994167,
+      "offset": 3734
+    },
+    "knowledge/topics\\notebooklm__openclaw\\signals.json": {
+      "size": 3827,
+      "hash": "398055e80d90f1bc92d7fd1cdc0ddc463e444518caa2f4d94ad1192d1e77818c",
+      "modified": 1773558095.0051374,
+      "offset": 3827
+    },
+    "knowledge/topics\\nvidia-nemotron-3__openclaw\\signals.json": {
+      "size": 3723,
+      "hash": "63c66bdb9e5f8e9d13626165368c8203d5b6fff4042c20d512d604de9a0afa85",
+      "modified": 1773558095.015111,
+      "offset": 3723
+    },
+    "knowledge/topics\\openai-codex\\signals.json": {
+      "size": 3513,
+      "hash": "30554dc0ba0903f659aa65a5ca089dbbf711e19a35c1e9db1b3c8c3b7442415b",
+      "modified": 1773558095.0260816,
+      "offset": 3513
+    },
+    "knowledge/topics\\openai-codex__stitch\\signals.json": {
+      "size": 3667,
+      "hash": "dcea7825a04e7afa5d6adacad45a8c65aad571647efc1ce7b64345fca5a74e8c",
+      "modified": 1773558095.0365589,
+      "offset": 3667
+    },
+    "knowledge/topics\\openai-model\\signals.json": {
+      "size": 3519,
+      "hash": "0494defc343e64b2fcb7b16c5d51b2f7d93512098a0e6122d674404caa4094b6",
+      "modified": 1773558095.0465322,
+      "offset": 3519
+    },
+    "knowledge/topics\\openai__symphony\\signals.json": {
+      "size": 3587,
+      "hash": "c0b064aab5568732c272591f7200aa371b50de832392e16ac5d05408fbae2d12",
+      "modified": 1773558095.0565057,
+      "offset": 3587
+    },
+    "knowledge/topics\\openclaw\\signals.json": {
+      "size": 10873,
+      "hash": "8a61c009b7b05a8dcc1aa27bf5fb886e1f9da7fa00b46b86c442fcc77ed5887c",
+      "modified": 1773558095.0924096,
+      "offset": 10873
+    },
+    "knowledge/topics\\openclaw__paperclip\\signals.json": {
+      "size": 4457,
+      "hash": "25195fe6e19c05c799a3441f6e69b4c6c8e428afa2141cba8742873c4cfa32c4",
+      "modified": 1773558095.111369,
+      "offset": 4457
+    },
+    "knowledge/topics\\openclaw__perplexity-computer\\signals.json": {
+      "size": 3886,
+      "hash": "abdf78d8df73c2009e6b7032df35ded97cb984043055ef3a10824465586895a4",
+      "modified": 1773558095.1153586,
+      "offset": 3886
+    },
+    "knowledge/topics\\openclaw__perplexity-personal\\signals.json": {
+      "size": 3846,
+      "hash": "a13450d841bf759f30bbd8530e1242d6f5638447345333d0da885885300ab86b",
+      "modified": 1773558095.126329,
+      "offset": 3846
+    },
+    "knowledge/topics\\openclaw__single-agents\\signals.json": {
+      "size": 3614,
+      "hash": "f8cb2b0df34c4bed6939de26e679bf10b1ca50e8f02dbaa4c2429f3ec50840f1",
+      "modified": 1773558095.1372995,
+      "offset": 3614
+    },
+    "knowledge/topics\\openclaw__skills\\signals.json": {
+      "size": 3702,
+      "hash": "31c63fc011b17926a690033df9910153497b34e87e7a0c36d2db64bd4f8d029b",
+      "modified": 1773558095.1502647,
+      "offset": 3702
+    },
+    "knowledge/topics\\openclaw__specialized-agents\\signals.json": {
+      "size": 3758,
+      "hash": "ed5da7d827988d1345045f6105208a9f8879c778d4c7de65bdb4d9608536c491",
+      "modified": 1773558095.1612363,
+      "offset": 3758
+    },
+    "knowledge/topics\\openclaw__star-office\\signals.json": {
+      "size": 3644,
+      "hash": "d7c2f3b543d471d16533918deb62e0609ae9aaf18842b11ea096d5690158581d",
+      "modified": 1773558095.1781905,
+      "offset": 3644
+    },
+    "knowledge/topics\\perplexity-computer\\signals.json": {
+      "size": 4433,
+      "hash": "d64c70706981cdd94dadfb57caf2ea2b9265005c4d47847f0bddc51c7dbdfa9b",
+      "modified": 1773558095.198137,
+      "offset": 4433
+    },
+    "knowledge/topics\\perplexity-personal-computer\\signals.json": {
+      "size": 3736,
+      "hash": "63f884765123ef5c923e85a1b5f0924d1b2ba1ffb46fb11dd0e305df86d26b53",
+      "modified": 1773558095.210105,
+      "offset": 3736
+    },
+    "knowledge/topics\\pomelli\\signals.json": {
+      "size": 4318,
+      "hash": "1b2165de92062f279d0113d1c3691c3a82de92406047b3053244fc2f63c08391",
+      "modified": 1773558095.2310493,
+      "offset": 4318
+    },
+    "knowledge/topics\\saas\\signals.json": {
+      "size": 3646,
+      "hash": "e40bed93581d7fa8f867f68bd9e4d332dc87dce0daa1bb7f2c15075948d7a30d",
+      "modified": 1773558095.2420197,
+      "offset": 3646
+    },
+    "knowledge/topics\\selling-magnets\\signals.json": {
+      "size": 3680,
+      "hash": "fa9e67cbc465ba4deb342c95afe8968b06ab649345ab56377f251c4f683ba1d8",
+      "modified": 1773558095.2539878,
+      "offset": 3680
+    },
+    "knowledge/topics\\smallest-pc__the-world__tiiny-pocket\\signals.json": {
+      "size": 3818,
+      "hash": "6f394ca957f00ba73c37bdb885fdec9f68d85d9616c95932f2cb77ca126ff9d2",
+      "modified": 1773558095.265956,
+      "offset": 3818
+    },
+    "knowledge/topics\\the\\signals.json": {
+      "size": 3303,
+      "hash": "e812569c5f02807fb91129da5355e6c9a58bd13afe0cc154d0a03292400bb13d",
+      "modified": 1773558095.2779238,
+      "offset": 3303
+    },
+    "knowledge/topics/2-weeks__claude/signals.json": {
+      "size": 3700,
+      "hash": "1e630fa6fd0d45624c7706e92322305cbc12352b1241f9efe7a10c36e0467428",
+      "modified": 1773601353.4796867,
+      "offset": 3700
+    },
+    "knowledge/topics/notebooklm/signals.json": {
+      "size": 3543,
+      "hash": "e6869a7605bcab4dfb162affb3485d00ac3d4e862d510b5392e26f12220c4e66",
+      "modified": 1773586950.4915514,
+      "offset": 3543
+    }
+  }
+}

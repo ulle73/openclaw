@@ -1,0 +1,146 @@
+{
+  "clusterKey": "openclaw__paperclip",
+  "label": "openclaw och paperclip",
+  "entity_tags": [
+    "openclaw",
+    "paperclip",
+    "claude",
+    "telegram"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "paperclip",
+    "content-repurposing",
+    "workflow-automation",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "telegram",
+    "onboarding-training"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "videoIds": [
+    "49_WitY66yM",
+    "mndpFJXksRs"
+  ],
+  "count": 2,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 55,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 33,
+      "shared_signals": [
+        "seo-content",
+        "openclaw",
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 28,
+      "shared_signals": [
+        "telegram",
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "ai-visibility-audit",
+      "projectName": "AI Visibility Audit",
+      "score": 26,
+      "shared_signals": [
+        "seo-content",
+        "workflow-automation",
+        "automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 9
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera openclaw och paperclip i Coastworks",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt openclaw och paperclip",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "medel",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for openclaw och paperclip",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "49_WitY66yM",
+      "title": "OpenClaw + PaperClip is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Setupen är byggd för låg friktion: hosted körning, låg driftbörda och åtkomst även när den lokala datorn inte är aktiv.",
+        "Kostnadsbild och transparens lyfts som en del av produkten, vilket gör lösningen lättare att styra och räkna hem."
+      ]
+    },
+    {
+      "videoId": "mndpFJXksRs",
+      "title": "OpenClaw + Paperclip Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Kostnadsbild och transparens lyfts som en del av produkten, vilket gör lösningen lättare att styra och räkna hem.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/openclaw__paperclip/overview.md",
+    "signals": "knowledge/topics/openclaw__paperclip/signals.json",
+    "decision": "knowledge/topics/openclaw__paperclip/decision.md",
+    "opportunity": "knowledge/topics/openclaw__paperclip/opportunity.md"
+  }
+}

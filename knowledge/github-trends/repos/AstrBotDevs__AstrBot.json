@@ -1,0 +1,70 @@
+{
+  "fullName": "AstrBotDevs/AstrBot",
+  "url": "https://github.com/AstrBotDevs/AstrBot",
+  "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+  "purpose": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+  "useCase": "agent workflows and AI operators",
+  "relevance": "relevant for Coastworks via agent automation, AI/models, OpenClaw",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "ai",
+    "chatbot",
+    "chatgpt",
+    "discord",
+    "docker",
+    "gemini",
+    "gpt",
+    "llama",
+    "llm",
+    "mcp",
+    "openai",
+    "python",
+    "qq",
+    "qqbot",
+    "telegram"
+  ],
+  "stars": 24161,
+  "forks": 1643,
+  "openIssues": 793,
+  "detectedSignals": [
+    "agent-automation",
+    "openclaw",
+    "telegram",
+    "ml-models",
+    "app-product"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "agent-automation",
+        "ml-models",
+        "openclaw"
+      ],
+      "score": 40
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "sharedSignals": [
+        "app-product",
+        "ml-models",
+        "telegram"
+      ],
+      "score": 38
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "sharedSignals": [
+        "agent-automation",
+        "openclaw",
+        "telegram"
+      ],
+      "score": 38
+    }
+  ],
+  "fetchedAt": "2026-03-14T08:17:55Z"
+}

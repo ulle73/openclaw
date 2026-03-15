@@ -1,0 +1,188 @@
+{
+  "lastRun": "2026-03-15T19:20:00Z",
+  "topicSignatures": {
+    "automate__chatgpt__gemini": "2026-03-14T23:02:30Z",
+    "automate__claude": "2026-03-15T03:20:00Z",
+    "genclaw-destroys__openclaw": "2026-03-14T11:02:29Z",
+    "openclaw__perplexity-computer": "2026-03-15T03:20:00Z",
+    "automate__claude__perplexity-computer": "2026-03-15T03:20:00Z",
+    "openclaw__perplexity-personal": "2026-03-15T03:20:00Z",
+    "gemini": "2026-03-15T07:26:04Z",
+    "openclaw__paperclip": "2026-03-15T07:26:04Z",
+    "claude__glm__opus-4": "2026-03-15T07:26:04Z",
+    "claude__perplexity-computer": "2026-03-15T07:26:04Z",
+    "automate__browser-agent__openclaw": "2026-03-15T12:20:00Z",
+    "lossless-claw__memory__openclaw": "2026-03-15T16:20:00Z",
+    "kimi-k2__ollama__openclaw": "2026-03-15T16:20:00Z",
+    "notebooklm": "2026-03-15T19:20:00Z",
+    "2-weeks__claude": "2026-03-15T19:20:00Z",
+    "claude": "2026-03-15T19:20:00Z"
+  },
+  "flows": [
+    {
+      "id": "multi-ai-stack",
+      "description": "Plan/build/automate stack that pairs GPT-5.4 for reasoning/strategy with Gemini 3.1 Pro for execution and routes outputs through automation tools.",
+      "videos": [
+        "heT6eGFEieY",
+        "LRcIKDRybWk"
+      ],
+      "tags": [
+        "chatgpt",
+        "gemini",
+        "automation",
+        "workflow"
+      ]
+    },
+    {
+      "id": "genspark-claw",
+      "description": "Genspark Claw ships as a cloud-hosted AI employee with one-click setup, allowed sender controls, and multi-app automation, positioning as a Secure OpenClaw alternative.",
+      "videos": [
+        "70P1xXDCaNQ"
+      ],
+      "tags": [
+        "genspark",
+        "openclaw",
+        "security",
+        "cloud"
+      ]
+    },
+    {
+      "id": "perplexity-claude-subagents",
+      "description": "Perplexity Computer orchestrates Claude Code subagents to turn existing knowledge/assets into marketing/onboarding videos and explainers without traditional production.",
+      "videos": [
+        "Aq21uBOl9qE",
+        "HIg16LDTY7s"
+      ],
+      "tags": [
+        "perplexity-computer",
+        "claude",
+        "automation",
+        "video",
+        "knowledge-management"
+      ]
+    },
+    {
+      "id": "perplexity-personal-local",
+      "description": "Perplexity Personal Computer packages a Mac-based local AI agent as a secure, prepackaged OpenClaw competitor with local compute, onboarding, and integrations.",
+      "videos": [
+        "U9_0ZIaYCzI"
+      ],
+      "tags": [
+        "perplexity-personal",
+        "openclaw",
+        "security",
+        "local",
+        "agent"
+      ]
+    },
+    {
+      "id": "gemini-content-lab",
+      "description": "Automatisera Coastworks content + onboarding genom Gemini chatgpt-stack, NotebookLM-research, Nano Banana visuals och SEO-distribution som ett \u00c3\u00a5teranv\u00c3\u00a4ndbart agent-fl\u00c3\u00b6de.",
+      "videos": [
+        "1FaO6fQm93Q",
+        "4Airc23mCFE",
+        "ZgnQb40aiTU"
+      ],
+      "tags": [
+        "gemini",
+        "chatgpt",
+        "content-automation",
+        "notebooklm",
+        "seo-distribution",
+        "workflow-automation"
+      ]
+    },
+    {
+      "id": "openclaw-paperclip-command-center",
+      "description": "OpenClaw + PaperClip command center now doubles as a distribution-ready command center, making agent work visible and repurposing content and onboarding dashboards from the new OpenClaw update.",
+      "videos": [
+        "49_WitY66yM",
+        "mndpFJXksRs",
+        "58T9kb3OFJs"
+      ],
+      "tags": [
+        "openclaw",
+        "paperclip",
+        "agent-flow",
+        "dashboard",
+        "automation"
+      ]
+    },
+    {
+      "id": "openclaw-browser-agent",
+      "description": "OpenClaw's new browser agent attaches to Chrome's real user profile via remote debugging so the agent can run Gmail, LinkedIn, and social posts, making the command center act on real browser data with permission gating.",
+      "videos": [
+        "J_RNzdX1yiQ"
+      ],
+      "tags": [
+        "openclaw",
+        "browser-agent",
+        "remote-debugging",
+        "automation",
+        "telegram"
+      ]
+    },
+    {
+      "id": "lossless-memory-upgrade",
+      "description": "OpenClaw + lossless-claw plugin keeps context forever via DAG summarization, removing forgetting and making weeks of workflow memory reusable for Telegram-heavy automation command centers.",
+      "videos": [
+        "pGaOe7M6KyQ",
+        "ptqHcTAwmlk"
+      ],
+      "tags": [
+        "openclaw",
+        "lossless-claw",
+        "memory",
+        "context-engine",
+        "automation"
+      ]
+    },
+    {
+      "id": "kimi-gpu-stack",
+      "description": "OpenClaw now layers Kimi K2.5 + NVIDIA B300 + Ollama so one setup can harness GPU-backed research, web search and orbiting automation for a general-purpose Autopilot.",
+      "videos": [
+        "bBAdKvCnaq0",
+        "NiTOlYmthNg"
+      ],
+      "tags": [
+        "openclaw",
+        "kimi-k2",
+        "nvidia",
+        "ollama",
+        "gpu",
+        "automation"
+      ]
+    },
+    {
+      "id": "notebooklm-visual-lab",
+      "description": "Pair NotebookLM research + Nano Banana 2 visuals to auto-generate onboarding explainers, marketing shorts and training content from existing knowledge archives.",
+      "videos": [
+        "LiwfV_8iN0E",
+        "UzLMmFtnRMQ"
+      ],
+      "tags": [
+        "notebooklm",
+        "nano-banana-2",
+        "content-repurposing",
+        "onboarding",
+        "workflow-automation"
+      ]
+    },
+    {
+      "id": "claude-skills-2-lab",
+      "description": "Claude Skills 2.0 + 2 Weeks Extra training som repeterbart skill.md-fl\u00f6de f\u00f6r marketing/explainers och SEO-distribution.",
+      "videos": [
+        "JwVJo5kMsUk",
+        "9rQm8AjcY8I"
+      ],
+      "tags": [
+        "claude",
+        "skill",
+        "automation",
+        "marketing-explainers",
+        "seo-distribution",
+        "onboarding-training"
+      ]
+    }
+  ]
+}

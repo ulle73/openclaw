@@ -3,7 +3,9 @@
   "label": "claude och scheduled tasks",
   "entity_tags": [
     "claude",
-    "scheduled-tasks"
+    "scheduled-tasks",
+    "openclaw",
+    "chatgpt"
   ],
   "topic_tags": [
     "scheduled-tasks",
@@ -13,22 +15,29 @@
     "seo-distribution",
     "seo-content",
     "agent-flow",
-    "agent-automation"
+    "agent-automation",
+    "openclaw",
+    "prompt-design",
+    "proactive-assistant",
+    "api"
   ],
   "categories": [
     "workflow",
     "business_idea",
     "seo_distribution",
     "agent_flow",
-    "automation"
+    "automation",
+    "tool",
+    "api"
   ],
   "videoIds": [
-    "FXfAnWMxQao"
+    "FXfAnWMxQao",
+    "IiOhWxjUY7I"
   ],
-  "count": 1,
+  "count": 2,
   "avg_roi_score": 9.0,
   "avg_relevance_score": 9.0,
-  "opportunity_score": 45,
+  "opportunity_score": 52,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
@@ -37,15 +46,28 @@
     {
       "projectId": "coastworks",
       "projectName": "Coastworks",
-      "score": 24,
+      "score": 29,
       "shared_signals": [
         "seo-content",
+        "openclaw",
         "knowledge-systems",
         "automation",
         "agent-automation"
       ],
       "projectRole": "offer",
       "projectPriority": 10
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 24,
+      "shared_signals": [
+        "openclaw",
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
     },
     {
       "projectId": "ai-visibility-audit",
@@ -58,17 +80,6 @@
       ],
       "projectRole": "offer",
       "projectPriority": 9
-    },
-    {
-      "projectId": "gravity-claw",
-      "projectName": "Gravity Claw",
-      "score": 17,
-      "shared_signals": [
-        "knowledge-systems",
-        "agent-automation"
-      ],
-      "projectRole": "product",
-      "projectPriority": 8
     }
   ],
   "ideas": [
@@ -76,15 +87,15 @@
       "title": "Applicera claude och scheduled tasks i Coastworks",
       "kind": "project-fit",
       "impact": "hog",
-      "effort": "medel",
+      "effort": "hog",
       "speed": "snabb",
-      "why": "Temat overlappar med Coastworks via seo-content, knowledge-systems, automation och agent-automation."
+      "why": "Temat overlappar med Coastworks via seo-content, openclaw, knowledge-systems, automation och agent-automation."
     },
     {
       "title": "Bygg en intern skill eller automation runt claude och scheduled tasks",
       "kind": "automation",
       "impact": "hog",
-      "effort": "medel",
+      "effort": "hog",
       "speed": "snabb",
       "why": "Bygg ett repeterbart arbetsflode eller en skill"
     },
@@ -108,6 +119,18 @@
         "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
         "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
         "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "IiOhWxjUY7I",
+      "title": "Ollama + Claude Code: FREE Scheduled Tasks!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Kärnpositioneringen är inte bara ett nytt verktyg utan en AI-assistent som ska kunna bära mer av det löpande operativa arbetet.",
+        "Den verkliga hävstången kommer när agenten kopplas till arbetsverktyg som ClickUp och blir en del av samma system för tasks, status och uppföljning.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo."
       ]
     }
   ],

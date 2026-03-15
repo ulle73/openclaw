@@ -1,0 +1,156 @@
+{
+  "id": "3o4YglxpcXE",
+  "title": "New Perplexity Computer Update!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260313",
+  "description": "Want to make money and save time with AI? Get AI Coaching, Support & Courses 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet the video notes + links to the tools → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + 1000 NEW AI Agents  👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nWant to know how I make videos like these? Join the AI Profit Boardroom → https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI SEO Strategy Session: https://go.juliangoldie.com/strategy-session?utm=julian",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "perplexity-computer",
+    "openclaw",
+    "chatgpt",
+    "claude",
+    "gemini"
+  ],
+  "topic_tags": [
+    "perplexity-computer",
+    "openclaw",
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow"
+  ],
+  "topic_cluster_key": "perplexity-computer",
+  "related_video_ids": [
+    "iBVMutY4Ot0",
+    "Aq21uBOl9qE",
+    "SQEW0-X1cQw",
+    "L-CanI8zDWI",
+    "FVATW3KidnQ"
+  ],
+  "related_videos": [
+    {
+      "videoId": "iBVMutY4Ot0",
+      "title": "NEW Perplexity Computer Updates are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/iBVMutY4Ot0/summary.md",
+      "topic_cluster_key": "perplexity-computer",
+      "shared_tags": [
+        "perplexity-computer",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "marketing-explainers"
+      ],
+      "cluster_match": true,
+      "score": 19
+    },
+    {
+      "videoId": "Aq21uBOl9qE",
+      "title": "Perplexity Computer + Claude Code Subagents: Automate ANYTHING!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/Aq21uBOl9qE/summary.md",
+      "topic_cluster_key": "automate__claude__perplexity-computer",
+      "shared_tags": [
+        "openclaw",
+        "perplexity-computer",
+        "agent-flow",
+        "knowledge-management",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 16
+    },
+    {
+      "videoId": "SQEW0-X1cQw",
+      "title": "New FREE Nvidia Nemotron 3 Super + Ollama",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/SQEW0-X1cQw/summary.md",
+      "topic_cluster_key": "nemotron-3-super__nvidia",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "marketing-explainers"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "L-CanI8zDWI",
+      "title": "Google AI’s New Pomelli Update Is Insane!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/L-CanI8zDWI/summary.md",
+      "topic_cluster_key": "pomelli",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 13
+    },
+    {
+      "videoId": "FVATW3KidnQ",
+      "title": "NEW ChatGPT 5.5? Hunter + Healer Alpha is INSANE (FREE!)",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/FVATW3KidnQ/summary.md",
+      "topic_cluster_key": "chatgpt__healer-alpha",
+      "shared_tags": [
+        "openclaw",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": false,
+      "score": 13
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "iBVMutY4Ot0",
+      "Aq21uBOl9qE",
+      "SQEW0-X1cQw",
+      "L-CanI8zDWI",
+      "FVATW3KidnQ"
+    ]
+  },
+  "updated_at": "2026-03-13T11:02:29Z"
+}

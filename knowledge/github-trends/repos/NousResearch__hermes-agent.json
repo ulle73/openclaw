@@ -1,0 +1,53 @@
+{
+  "fullName": "NousResearch/hermes-agent",
+  "url": "https://github.com/NousResearch/hermes-agent",
+  "description": "The agent that grows with you",
+  "purpose": "The agent that grows with you",
+  "useCase": "agent workflows and AI operators",
+  "relevance": "relevant for Coastworks via agent automation, design, knowledge systems",
+  "language": "Python",
+  "topics": [],
+  "stars": 4324,
+  "forks": 532,
+  "openIssues": 246,
+  "detectedSignals": [
+    "agent-automation",
+    "knowledge-systems",
+    "seo-content",
+    "design-offer",
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "agent-automation",
+        "design-offer",
+        "knowledge-systems",
+        "ml-models",
+        "seo-content"
+      ],
+      "score": 60
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "sharedSignals": [
+        "agent-automation",
+        "knowledge-systems"
+      ],
+      "score": 28
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "knowledge-systems",
+        "ml-models"
+      ],
+      "score": 23
+    }
+  ],
+  "fetchedAt": "2026-03-11T08:33:56Z"
+}

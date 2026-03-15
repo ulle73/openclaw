@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T23:02:29Z",
+  "updatedAt": "2026-03-15T21:30:14Z",
   "clusters": {
     "000-hours__editing-tutorials__openclaw": {
       "entity_tags": [
@@ -27,6 +27,40 @@
           "title": "OpenClaw Just Replaced 1,000 Hours of Video Editing Tutorials",
           "channel": "Riley Brown",
           "summary": "knowledge/youtube/Yt6imPC1FhA/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "000-websites__claude__nano-banana-2": {
+      "entity_tags": [
+        "nano-banana-2",
+        "claude",
+        "000-websites",
+        "mcp"
+      ],
+      "topic_tags": [
+        "nano-banana-2",
+        "000-websites",
+        "mcp",
+        "workflow-automation",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity"
+      ],
+      "videoIds": [
+        "TZUTe7s11-I"
+      ],
+      "videos": [
+        {
+          "videoId": "TZUTe7s11-I",
+          "title": "Claude Code + Nano Banana 2 = Insane $10,000 Websites",
+          "channel": "Jack Roberts",
+          "summary": "knowledge/youtube/TZUTe7s11-I/summary.md"
         }
       ],
       "count": 1
@@ -60,6 +94,39 @@
           "title": "Build and Automate Anything with Gemini 3.1 Flash Lite: Here's How!",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/rF8VXVn46co/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "2-weeks__claude": {
+      "entity_tags": [
+        "claude",
+        "2-weeks",
+        "openclaw"
+      ],
+      "topic_tags": [
+        "2-weeks",
+        "openclaw",
+        "workflow-automation",
+        "marketing-explainers",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "seo-content",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity",
+        "api"
+      ],
+      "videoIds": [
+        "9rQm8AjcY8I"
+      ],
+      "videos": [
+        {
+          "videoId": "9rQm8AjcY8I",
+          "title": "New FREE Claude Update: 2X Extra for 2 Weeks!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/9rQm8AjcY8I/summary.md"
         }
       ],
       "count": 1
@@ -111,17 +178,62 @@
         "seo-distribution",
         "seo-content",
         "agent-flow",
-        "agent-automation"
+        "agent-automation",
+        "workflow-automation",
+        "knowledge-management",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "app-idea",
+        "app-opportunity"
       ],
       "videoIds": [
+        "GVrffdY3REE",
         "cZThTdL4YJQ"
       ],
       "videos": [
+        {
+          "videoId": "GVrffdY3REE",
+          "title": "This NEW AI AGENT is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/GVrffdY3REE/summary.md"
+        },
         {
           "videoId": "cZThTdL4YJQ",
           "title": "This NEW AI AGENT is INSANE! (FREE!) 🤯",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/cZThTdL4YJQ/summary.md"
+        }
+      ],
+      "count": 2
+    },
+    "agent__jules": {
+      "entity_tags": [
+        "jules",
+        "agent",
+        "gemini"
+      ],
+      "topic_tags": [
+        "jules",
+        "agent",
+        "workflow-automation",
+        "onboarding-training",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "seo-content",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "qordBmosybg"
+      ],
+      "videos": [
+        {
+          "videoId": "qordBmosybg",
+          "title": "NEW Google Jules Agent Update Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/qordBmosybg/summary.md"
         }
       ],
       "count": 1
@@ -153,6 +265,73 @@
           "title": "OpenClaw Virtual AI Agents Update Is INSANE!",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/5lLC0o_D_Io/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "aionui__claude__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "claude",
+        "aionui",
+        "chatgpt",
+        "gemini"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "aionui",
+        "workflow-automation",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "proactive-assistant",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "TiB48jLnHBs"
+      ],
+      "videos": [
+        {
+          "videoId": "TiB48jLnHBs",
+          "title": "AionUI + OpenClaw + Claude Code is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/TiB48jLnHBs/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "antigravity": {
+      "entity_tags": [
+        "antigravity",
+        "claude",
+        "gemini"
+      ],
+      "topic_tags": [
+        "antigravity",
+        "workflow-automation",
+        "agent-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow"
+      ],
+      "videoIds": [
+        "pXFSLdNL13M"
+      ],
+      "videos": [
+        {
+          "videoId": "pXFSLdNL13M",
+          "title": "New AntiGravity Update is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/pXFSLdNL13M/summary.md"
         }
       ],
       "count": 1
@@ -212,6 +391,107 @@
           "title": "I replaced OpenClaw with AntiGravity... its WILD",
           "channel": "Jack Roberts",
           "summary": "knowledge/youtube/C4fTWiOGXpM/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "automate__browser-agent__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "browser-agent",
+        "automate",
+        "claude",
+        "telegram"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "browser-agent",
+        "automate",
+        "telegram",
+        "workflow-automation",
+        "onboarding-training",
+        "prompt-design",
+        "seo-distribution",
+        "seo-content",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "J_RNzdX1yiQ"
+      ],
+      "videos": [
+        {
+          "videoId": "J_RNzdX1yiQ",
+          "title": "NEW OpenClaw AI Browser Agent: Automate ANYTHING?",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/J_RNzdX1yiQ/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "automate__chatgpt__gemini": {
+      "entity_tags": [
+        "chatgpt",
+        "gemini",
+        "automate",
+        "1-pro"
+      ],
+      "topic_tags": [
+        "automate",
+        "1-pro",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "heT6eGFEieY"
+      ],
+      "videos": [
+        {
+          "videoId": "heT6eGFEieY",
+          "title": "Automate Anything with ChatGPT 5.4 + Gemini 3.1 Pro!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/heT6eGFEieY/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "automate__claude": {
+      "entity_tags": [
+        "claude",
+        "automate",
+        "openclaw"
+      ],
+      "topic_tags": [
+        "automate",
+        "openclaw",
+        "workflow-automation",
+        "agent-automation",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "product-opportunity"
+      ],
+      "videoIds": [
+        "LRcIKDRybWk"
+      ],
+      "videos": [
+        {
+          "videoId": "LRcIKDRybWk",
+          "title": "Build and Automate ANYTHING with Claude Code, Here's How!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/LRcIKDRybWk/summary.md"
         }
       ],
       "count": 1
@@ -286,6 +566,39 @@
       ],
       "count": 1
     },
+    "buying-assets__stop-buying-things": {
+      "entity_tags": [
+        "stop-buying-things",
+        "buying-assets",
+        "nano-banana-2"
+      ],
+      "topic_tags": [
+        "stop-buying-things",
+        "buying-assets",
+        "nano-banana-2",
+        "workflow-automation",
+        "marketing-explainers",
+        "business-idea",
+        "business-opportunity",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity",
+        "api",
+        "api-integration"
+      ],
+      "videoIds": [
+        "mAyZZc_DjSE"
+      ],
+      "videos": [
+        {
+          "videoId": "mAyZZc_DjSE",
+          "title": "Stop Buying Things. Start Buying Assets that Pay for Themselves",
+          "channel": "Chris Koerner on The Koerner Office Podcast",
+          "summary": "knowledge/youtube/mAyZZc_DjSE/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "chatgpt": {
       "entity_tags": [
         "chatgpt"
@@ -297,10 +610,16 @@
         "seo-distribution",
         "seo-content",
         "agent-flow",
-        "agent-automation"
+        "agent-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "marketing-explainers",
+        "prompt-design",
+        "product-opportunity"
       ],
       "videoIds": [
-        "IWKOcumdMUE"
+        "IWKOcumdMUE",
+        "xnG6OidGGek"
       ],
       "videos": [
         {
@@ -308,6 +627,77 @@
           "title": "NEW ChatGPT 5.4 Update is INSANE! 🤯",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/IWKOcumdMUE/summary.md"
+        },
+        {
+          "videoId": "xnG6OidGGek",
+          "title": "Mercury  + ChatGPT 5.4 is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/xnG6OidGGek/summary.md"
+        }
+      ],
+      "count": 2
+    },
+    "chatgpt__claude": {
+      "entity_tags": [
+        "chatgpt",
+        "claude"
+      ],
+      "topic_tags": [
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity",
+        "api"
+      ],
+      "videoIds": [
+        "hllhkLGWA34"
+      ],
+      "videos": [
+        {
+          "videoId": "hllhkLGWA34",
+          "title": "ChatGPT 5.4 + Claude Opus 4.6 is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/hllhkLGWA34/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "chatgpt__healer-alpha": {
+      "entity_tags": [
+        "chatgpt",
+        "healer-alpha",
+        "openclaw"
+      ],
+      "topic_tags": [
+        "healer-alpha",
+        "openclaw",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "proactive-assistant",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow"
+      ],
+      "videoIds": [
+        "FVATW3KidnQ"
+      ],
+      "videos": [
+        {
+          "videoId": "FVATW3KidnQ",
+          "title": "NEW ChatGPT 5.5? Hunter + Healer Alpha is INSANE (FREE!)",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/FVATW3KidnQ/summary.md"
         }
       ],
       "count": 1
@@ -327,10 +717,12 @@
         "business-opportunity",
         "seo-distribution",
         "agent-flow",
-        "agent-automation"
+        "agent-automation",
+        "prompt-design"
       ],
       "videoIds": [
-        "iNNLfHMDCfk"
+        "iNNLfHMDCfk",
+        "m7butSSUOrQ"
       ],
       "videos": [
         {
@@ -338,6 +730,72 @@
           "title": "ChatGPT 5.4 + NoteBookLM is INSANE! 🤯",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/iNNLfHMDCfk/summary.md"
+        },
+        {
+          "videoId": "m7butSSUOrQ",
+          "title": "NEW ChatGPT Update Destroys NotebookLM? 😱",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/m7butSSUOrQ/summary.md"
+        }
+      ],
+      "count": 2
+    },
+    "chatgpt__upgrades": {
+      "entity_tags": [
+        "chatgpt",
+        "upgrades",
+        "claude"
+      ],
+      "topic_tags": [
+        "upgrades",
+        "workflow-automation",
+        "onboarding-training",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "NU6SO-N1mNM"
+      ],
+      "videos": [
+        {
+          "videoId": "NU6SO-N1mNM",
+          "title": "ChatGPT's New Upgrades Are INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/NU6SO-N1mNM/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "chatgpt__visuals": {
+      "entity_tags": [
+        "chatgpt",
+        "visuals"
+      ],
+      "topic_tags": [
+        "visuals",
+        "workflow-automation",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "seo-content",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "Lxj-vgEZ8fY"
+      ],
+      "videos": [
+        {
+          "videoId": "Lxj-vgEZ8fY",
+          "title": "NEW ChatGPT Interactive Visuals Update is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/Lxj-vgEZ8fY/summary.md"
         }
       ],
       "count": 1
@@ -378,39 +836,54 @@
     "claude": {
       "entity_tags": [
         "claude",
-        "antigravity",
+        "chatgpt",
         "gemini",
+        "antigravity",
         "mcp",
         "openclaw"
       ],
       "topic_tags": [
-        "antigravity",
-        "mcp",
         "workflow-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "marketing-explainers",
         "prompt-design",
         "business-idea",
         "business-opportunity",
+        "seo-distribution",
+        "seo-content",
         "agent-flow",
         "agent-automation",
+        "antigravity",
+        "mcp",
         "product-opportunity",
         "api",
         "api-integration",
-        "onboarding-training",
-        "marketing-explainers",
-        "seo-content",
-        "seo-distribution",
-        "openclaw"
+        "openclaw",
+        "proactive-assistant"
       ],
       "videoIds": [
+        "C6ZTvzdTwrE",
         "DSKO9ZtbHFA",
         "Fv-FxekmfTQ",
+        "JwVJo5kMsUk",
         "RyxeYZ7TW3o",
+        "SoQAIsrYkRA",
+        "T3jDa19gpXw",
         "fnLXErf-plM",
         "m9aBfbXMnZY",
+        "qb90PPbAWz4",
+        "r6L6YXe1zRg",
         "s2HalzQZ1MQ",
         "wX_neSx7-Ls"
       ],
       "videos": [
+        {
+          "videoId": "C6ZTvzdTwrE",
+          "title": "NEW Claude Update is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/C6ZTvzdTwrE/summary.md"
+        },
         {
           "videoId": "DSKO9ZtbHFA",
           "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
@@ -424,10 +897,28 @@
           "summary": "knowledge/youtube/Fv-FxekmfTQ/summary.md"
         },
         {
+          "videoId": "JwVJo5kMsUk",
+          "title": "NEW Claude Skills 2.0 Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/JwVJo5kMsUk/summary.md"
+        },
+        {
           "videoId": "RyxeYZ7TW3o",
           "title": "Super Claude: Claude Code Super Powers in 1 Click!",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/RyxeYZ7TW3o/summary.md"
+        },
+        {
+          "videoId": "SoQAIsrYkRA",
+          "title": "New FREE Claude Update!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/SoQAIsrYkRA/summary.md"
+        },
+        {
+          "videoId": "T3jDa19gpXw",
+          "title": "New Claude Code Update Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/T3jDa19gpXw/summary.md"
         },
         {
           "videoId": "fnLXErf-plM",
@@ -442,6 +933,18 @@
           "summary": "knowledge/youtube/m9aBfbXMnZY/summary.md"
         },
         {
+          "videoId": "qb90PPbAWz4",
+          "title": "Karpathy’s \"autoresearch\" explained in 24 minutes",
+          "channel": "Greg Isenberg",
+          "summary": "knowledge/youtube/qb90PPbAWz4/summary.md"
+        },
+        {
+          "videoId": "r6L6YXe1zRg",
+          "title": "NEW Claude FREE Update is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/r6L6YXe1zRg/summary.md"
+        },
+        {
           "videoId": "s2HalzQZ1MQ",
           "title": "NEW Claude Code Update is INSANE!",
           "channel": "Julian Goldie SEO",
@@ -454,7 +957,39 @@
           "summary": "knowledge/youtube/wX_neSx7-Ls/summary.md"
         }
       ],
-      "count": 7
+      "count": 13
+    },
+    "claude__copilot-cowork": {
+      "entity_tags": [
+        "claude",
+        "copilot-cowork"
+      ],
+      "topic_tags": [
+        "copilot-cowork",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity"
+      ],
+      "videoIds": [
+        "9kjntAZ_L0M"
+      ],
+      "videos": [
+        {
+          "videoId": "9kjntAZ_L0M",
+          "title": "NEW Copilot Cowork Beats Claude Cowork?!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/9kjntAZ_L0M/summary.md"
+        }
+      ],
+      "count": 1
     },
     "claude__course__employees": {
       "entity_tags": [
@@ -527,10 +1062,142 @@
       ],
       "count": 1
     },
+    "claude__gemini__rag": {
+      "entity_tags": [
+        "claude",
+        "gemini",
+        "rag",
+        "notebooklm"
+      ],
+      "topic_tags": [
+        "rag",
+        "notebooklm",
+        "workflow-automation",
+        "knowledge-management",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "product-opportunity",
+        "api",
+        "api-integration"
+      ],
+      "videoIds": [
+        "STjO0AYbetA"
+      ],
+      "videos": [
+        {
+          "videoId": "STjO0AYbetA",
+          "title": "NEW Gemini Model + Claude Code = Insane RAG",
+          "channel": "Jack Roberts",
+          "summary": "knowledge/youtube/STjO0AYbetA/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "claude__github-cli__perplexity-computer": {
+      "entity_tags": [
+        "claude",
+        "perplexity-computer",
+        "github-cli",
+        "chatgpt"
+      ],
+      "topic_tags": [
+        "perplexity-computer",
+        "github-cli",
+        "workflow-automation",
+        "onboarding-training",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "seo-content",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "tn1DH1Ul1HA"
+      ],
+      "videos": [
+        {
+          "videoId": "tn1DH1Ul1HA",
+          "title": "NEW Perplexity Computer Update is INSANE! (Claude Code + GitHub CLI)",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/tn1DH1Ul1HA/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "claude__glm__opus-4": {
+      "entity_tags": [
+        "claude",
+        "glm",
+        "opus-4",
+        "openclaw"
+      ],
+      "topic_tags": [
+        "glm",
+        "opus-4",
+        "openclaw",
+        "workflow-automation",
+        "knowledge-management",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "seo-content",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "V_otsxw2Sw0"
+      ],
+      "videos": [
+        {
+          "videoId": "V_otsxw2Sw0",
+          "title": "New FREE GLM-4.7 Flash Claude Opus 4.5 is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/V_otsxw2Sw0/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "claude__perplexity-computer": {
+      "entity_tags": [
+        "claude",
+        "perplexity-computer"
+      ],
+      "topic_tags": [
+        "perplexity-computer",
+        "workflow-automation",
+        "agent-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "agent-flow",
+        "product-opportunity",
+        "api",
+        "api-integration"
+      ],
+      "videoIds": [
+        "xBBPojYcTEI"
+      ],
+      "videos": [
+        {
+          "videoId": "xBBPojYcTEI",
+          "title": "Perplexity Computer + Claude = WILD",
+          "channel": "Jack Roberts",
+          "summary": "knowledge/youtube/xBBPojYcTEI/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "claude__scheduled-tasks": {
       "entity_tags": [
         "claude",
-        "scheduled-tasks"
+        "scheduled-tasks",
+        "openclaw",
+        "chatgpt"
       ],
       "topic_tags": [
         "scheduled-tasks",
@@ -540,10 +1207,15 @@
         "seo-distribution",
         "seo-content",
         "agent-flow",
-        "agent-automation"
+        "agent-automation",
+        "openclaw",
+        "prompt-design",
+        "proactive-assistant",
+        "api"
       ],
       "videoIds": [
-        "FXfAnWMxQao"
+        "FXfAnWMxQao",
+        "IiOhWxjUY7I"
       ],
       "videos": [
         {
@@ -551,9 +1223,15 @@
           "title": "New Claude Code Scheduled Tasks Update!",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/FXfAnWMxQao/summary.md"
+        },
+        {
+          "videoId": "IiOhWxjUY7I",
+          "title": "Ollama + Claude Code: FREE Scheduled Tasks!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/IiOhWxjUY7I/summary.md"
         }
       ],
-      "count": 1
+      "count": 2
     },
     "claude__skills-2__unstoppable": {
       "entity_tags": [
@@ -591,6 +1269,66 @@
       ],
       "count": 1
     },
+    "clawswarm-destroys__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "clawswarm-destroys",
+        "claude"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "clawswarm-destroys",
+        "workflow-automation",
+        "onboarding-training",
+        "seo-content",
+        "proactive-assistant",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity"
+      ],
+      "videoIds": [
+        "CEPBP_Rw080"
+      ],
+      "videos": [
+        {
+          "videoId": "CEPBP_Rw080",
+          "title": "New ClawSwarm Destroys OpenClaw? 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/CEPBP_Rw080/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "deepseek-v4": {
+      "entity_tags": [
+        "deepseek-v4"
+      ],
+      "topic_tags": [
+        "deepseek-v4",
+        "workflow-automation",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "seo-content",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "IBktE5O-51U"
+      ],
+      "videos": [
+        {
+          "videoId": "IBktE5O-51U",
+          "title": "NEW DeepSeek V4 Leaks are INSANE! 😱",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/IBktE5O-51U/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "devin-2": {
       "entity_tags": [
         "devin-2"
@@ -618,6 +1356,38 @@
           "title": "Build Anything with Devin 2.2! 🤯",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/pSQE1SsGfSQ/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "duclaw__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "duclaw"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "duclaw",
+        "workflow-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "marketing-explainers",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "seo-content",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "NB8cpybCL5Q"
+      ],
+      "videos": [
+        {
+          "videoId": "NB8cpybCL5Q",
+          "title": "NEW DuClaw is INSANE! ( NEW OpenClaw?! )🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/NB8cpybCL5Q/summary.md"
         }
       ],
       "count": 1
@@ -688,34 +1458,106 @@
       ],
       "count": 1
     },
-    "gemini": {
+    "find-products-that__use-web-scraping": {
       "entity_tags": [
-        "gemini",
-        "claude",
-        "mcp",
-        "notebooklm"
+        "use-web-scraping",
+        "find-products-that",
+        "claude"
       ],
       "topic_tags": [
-        "mcp",
-        "workflow-automation",
-        "onboarding-training",
+        "use-web-scraping",
+        "find-products-that",
         "seo-content",
+        "prompt-design",
+        "workflow-automation",
         "business-idea",
         "business-opportunity",
         "seo-distribution",
+        "product-opportunity",
+        "api",
+        "api-integration"
+      ],
+      "videoIds": [
+        "CKRglRCeVDM"
+      ],
+      "videos": [
+        {
+          "videoId": "CKRglRCeVDM",
+          "title": "How I Use Web Scraping to Find Products That Sell for 20x the Price",
+          "channel": "Chris Koerner on The Koerner Office Podcast",
+          "summary": "knowledge/youtube/CKRglRCeVDM/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "gemini": {
+      "entity_tags": [
+        "gemini",
+        "chatgpt",
+        "nano-banana-2",
+        "claude",
+        "notebooklm",
+        "mcp",
+        "openclaw"
+      ],
+      "topic_tags": [
+        "workflow-automation",
+        "knowledge-management",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "seo-content",
         "agent-flow",
         "agent-automation",
-        "product-opportunity",
+        "nano-banana-2",
+        "ai-video-generation",
+        "onboarding-training",
+        "marketing-explainers",
+        "prompt-design",
         "api",
         "api-integration",
         "notebooklm",
-        "marketing-explainers"
+        "mcp",
+        "product-opportunity",
+        "openclaw",
+        "content-repurposing"
       ],
       "videoIds": [
+        "-iaZUdrljN4",
+        "1FaO6fQm93Q",
+        "1LU_AHdrfNU",
+        "4Airc23mCFE",
         "98bGqof0dUI",
-        "ZgnQb40aiTU"
+        "NtpPIFj7HD0",
+        "ZgnQb40aiTU",
+        "_s7tHRZUmdM",
+        "uHjwDSx4f48"
       ],
       "videos": [
+        {
+          "videoId": "-iaZUdrljN4",
+          "title": "NEW Google Gemini Update is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/-iaZUdrljN4/summary.md"
+        },
+        {
+          "videoId": "1FaO6fQm93Q",
+          "title": "Google Gemini New FREE Updates Are INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/1FaO6fQm93Q/summary.md"
+        },
+        {
+          "videoId": "1LU_AHdrfNU",
+          "title": "NEW Gemini Embedding 2 Update is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/1LU_AHdrfNU/summary.md"
+        },
+        {
+          "videoId": "4Airc23mCFE",
+          "title": "Google Gemini New FREE Updates Are INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/4Airc23mCFE/summary.md"
+        },
         {
           "videoId": "98bGqof0dUI",
           "title": "NEW Gemini CLI Update is INSANE! 🤯",
@@ -723,13 +1565,31 @@
           "summary": "knowledge/youtube/98bGqof0dUI/summary.md"
         },
         {
+          "videoId": "NtpPIFj7HD0",
+          "title": "NEW Gemini CLI Update is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/NtpPIFj7HD0/summary.md"
+        },
+        {
           "videoId": "ZgnQb40aiTU",
           "title": "Google Gemini New FREE Updates Are INSANE!",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/ZgnQb40aiTU/summary.md"
+        },
+        {
+          "videoId": "_s7tHRZUmdM",
+          "title": "NEW Google Gemini Update is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/_s7tHRZUmdM/summary.md"
+        },
+        {
+          "videoId": "uHjwDSx4f48",
+          "title": "Google Gemini New FREE Updates Are INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/uHjwDSx4f48/summary.md"
         }
       ],
-      "count": 2
+      "count": 9
     },
     "gemini__gpt-5__openclaw": {
       "entity_tags": [
@@ -778,6 +1638,38 @@
       ],
       "count": 2
     },
+    "gemini__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "gemini",
+        "claude"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "content-repurposing",
+        "workflow-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "seo-content",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "rlLbv0PgYsY"
+      ],
+      "videos": [
+        {
+          "videoId": "rlLbv0PgYsY",
+          "title": "OpenClaw + Gemini Embedding 2 is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/rlLbv0PgYsY/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "gemini__web-design": {
       "entity_tags": [
         "gemini",
@@ -800,6 +1692,103 @@
           "title": "Gemini 3.1 Just Changed Web Design Forever! (FULL PROCESS)",
           "channel": "Viktor Oddy",
           "summary": "knowledge/youtube/mXlMAkHhgYs/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "gemini__workspace": {
+      "entity_tags": [
+        "gemini",
+        "workspace"
+      ],
+      "topic_tags": [
+        "workspace",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity"
+      ],
+      "videoIds": [
+        "QhgV435R_Ro"
+      ],
+      "videos": [
+        {
+          "videoId": "QhgV435R_Ro",
+          "title": "Gemini In Google Workspace Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/QhgV435R_Ro/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "gemma": {
+      "entity_tags": [
+        "gemma",
+        "gemini"
+      ],
+      "topic_tags": [
+        "gemma",
+        "workflow-automation",
+        "onboarding-training",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "seo-content",
+        "agent-flow",
+        "agent-automation",
+        "api",
+        "api-integration"
+      ],
+      "videoIds": [
+        "kQqR8BOg4Lo"
+      ],
+      "videos": [
+        {
+          "videoId": "kQqR8BOg4Lo",
+          "title": "NEW Google Gemma 4B Update!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/kQqR8BOg4Lo/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "genclaw-destroys__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "genclaw-destroys",
+        "gemini",
+        "telegram"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "genclaw-destroys",
+        "telegram",
+        "workflow-automation",
+        "agent-automation",
+        "onboarding-training",
+        "seo-content",
+        "prompt-design",
+        "proactive-assistant",
+        "seo-distribution",
+        "agent-flow",
+        "product-opportunity"
+      ],
+      "videoIds": [
+        "70P1xXDCaNQ"
+      ],
+      "videos": [
+        {
+          "videoId": "70P1xXDCaNQ",
+          "title": "NEW Genclaw DESTROYS OpenClaw?",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/70P1xXDCaNQ/summary.md"
         }
       ],
       "count": 1
@@ -839,6 +1828,42 @@
       ],
       "count": 1
     },
+    "healer-alpha__hunter-alpha__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "hunter-alpha",
+        "healer-alpha",
+        "agent",
+        "nano-banana-2",
+        "claude"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "hunter-alpha",
+        "healer-alpha",
+        "agent",
+        "nano-banana-2",
+        "workflow-automation",
+        "onboarding-training",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution"
+      ],
+      "videoIds": [
+        "kFRRb5dwtoU"
+      ],
+      "videos": [
+        {
+          "videoId": "kFRRb5dwtoU",
+          "title": "OpenClaw + Hunter Alpha + Healer Alpha: FREE AI Agent!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/kFRRb5dwtoU/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "hermes-agent__openclaw": {
       "entity_tags": [
         "openclaw",
@@ -872,6 +1897,70 @@
       ],
       "count": 1
     },
+    "kimi-k2__ollama__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "kimi-k2",
+        "ollama"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "kimi-k2",
+        "ollama",
+        "workflow-automation",
+        "onboarding-training",
+        "seo-content",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "api"
+      ],
+      "videoIds": [
+        "bBAdKvCnaq0"
+      ],
+      "videos": [
+        {
+          "videoId": "bBAdKvCnaq0",
+          "title": "New OpenClaw + Kimi K2.5 + Nvidia + Ollama Update!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/bBAdKvCnaq0/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "krea": {
+      "entity_tags": [
+        "krea"
+      ],
+      "topic_tags": [
+        "krea",
+        "content-repurposing",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "x63i1INJ9Tc"
+      ],
+      "videos": [
+        {
+          "videoId": "x63i1INJ9Tc",
+          "title": "NEW Krea AI Update is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/x63i1INJ9Tc/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "layers-explained__openclaw__the-3-memory": {
       "entity_tags": [
         "openclaw",
@@ -901,6 +1990,39 @@
           "title": "Stop OpenClaw From Forgetting – The 3 Memory Layers Explained!",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/f8LJBh1AtKg/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "lossless-claw__memory__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "lossless-claw",
+        "memory",
+        "telegram"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "lossless-claw",
+        "memory",
+        "telegram",
+        "workflow-automation",
+        "seo-content",
+        "prompt-design",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity"
+      ],
+      "videoIds": [
+        "pGaOe7M6KyQ"
+      ],
+      "videos": [
+        {
+          "videoId": "pGaOe7M6KyQ",
+          "title": "OpenClaw + Lossless Claw: New Free Memory Upgrade!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/pGaOe7M6KyQ/summary.md"
         }
       ],
       "count": 1
@@ -982,6 +2104,166 @@
       ],
       "count": 2
     },
+    "nemoclaw-destroys__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "nemoclaw-destroys"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "nemoclaw-destroys",
+        "workflow-automation",
+        "onboarding-training",
+        "seo-content",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "_U_15eZXFFE"
+      ],
+      "videos": [
+        {
+          "videoId": "_U_15eZXFFE",
+          "title": "New NemoClaw Destroys OpenClaw?",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/_U_15eZXFFE/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "nemotron-3-super__nvidia": {
+      "entity_tags": [
+        "nvidia",
+        "nemotron-3-super",
+        "openclaw",
+        "claude"
+      ],
+      "topic_tags": [
+        "nvidia",
+        "nemotron-3-super",
+        "openclaw",
+        "workflow-automation",
+        "knowledge-management",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow"
+      ],
+      "videoIds": [
+        "SQEW0-X1cQw"
+      ],
+      "videos": [
+        {
+          "videoId": "SQEW0-X1cQw",
+          "title": "New FREE Nvidia Nemotron 3 Super + Ollama",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/SQEW0-X1cQw/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "notebooklm": {
+      "entity_tags": [
+        "notebooklm"
+      ],
+      "topic_tags": [
+        "notebooklm",
+        "ai-video-generation",
+        "content-repurposing",
+        "workflow-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow"
+      ],
+      "videoIds": [
+        "LiwfV_8iN0E"
+      ],
+      "videos": [
+        {
+          "videoId": "LiwfV_8iN0E",
+          "title": "NEW AI Tool DESTROYS Google NotebookLM?",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/LiwfV_8iN0E/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "notebooklm__openclaw": {
+      "entity_tags": [
+        "notebooklm",
+        "openclaw",
+        "claude",
+        "telegram"
+      ],
+      "topic_tags": [
+        "notebooklm",
+        "openclaw",
+        "telegram",
+        "ai-video-generation",
+        "workflow-automation",
+        "knowledge-management",
+        "onboarding-training",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution"
+      ],
+      "videoIds": [
+        "jece_dDk-0w"
+      ],
+      "videos": [
+        {
+          "videoId": "jece_dDk-0w",
+          "title": "New FREE OpenClaw + NotebookLM Update",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/jece_dDk-0w/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "nvidia-nemotron-3__openclaw": {
+      "entity_tags": [
+        "openclaw",
+        "nvidia-nemotron-3"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "nvidia-nemotron-3",
+        "workflow-automation",
+        "seo-content",
+        "prompt-design",
+        "proactive-assistant",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "api",
+        "api-integration"
+      ],
+      "videoIds": [
+        "86-6tbVN_SY"
+      ],
+      "videos": [
+        {
+          "videoId": "86-6tbVN_SY",
+          "title": "OpenClaw + Nvidia Nemotron 3 Super + Ollama is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/86-6tbVN_SY/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "openai-codex": {
       "entity_tags": [
         "openai-codex"
@@ -1008,6 +2290,39 @@
           "title": "New OpenAI Codex Update is INSANE!",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/jyVRbD6fqic/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "openai-codex__stitch": {
+      "entity_tags": [
+        "openai-codex",
+        "stitch",
+        "gemini"
+      ],
+      "topic_tags": [
+        "openai-codex",
+        "stitch",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "d2jty2jNl5o"
+      ],
+      "videos": [
+        {
+          "videoId": "d2jty2jNl5o",
+          "title": "OpenAI Codex + Google Stitch is INSANE! 🤯",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/d2jty2jNl5o/summary.md"
         }
       ],
       "count": 1
@@ -1080,16 +2395,14 @@
       "entity_tags": [
         "openclaw",
         "claude",
-        "telegram",
         "gemini",
+        "telegram",
         "nano-banana-2"
       ],
       "topic_tags": [
         "openclaw",
-        "telegram",
         "workflow-automation",
         "onboarding-training",
-        "marketing-explainers",
         "seo-content",
         "prompt-design",
         "business-idea",
@@ -1097,22 +2410,49 @@
         "seo-distribution",
         "agent-flow",
         "agent-automation",
-        "proactive-assistant",
-        "api",
-        "api-integration",
-        "knowledge-management",
         "product-opportunity",
+        "api",
+        "marketing-explainers",
+        "api-integration",
+        "telegram",
+        "knowledge-management",
+        "proactive-assistant",
         "nano-banana-2"
       ],
       "videoIds": [
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
+        "6EsmxI37CcM",
         "9lbwgk29Db4",
         "JmFkYj3__xc",
+        "KPejjQQ5Bzg",
         "KyXUJnYjjAo",
         "NiTOlYmthNg",
         "OV5eK91YY68",
-        "S-HveAU5l7c"
+        "S-HveAU5l7c",
+        "eaEwIIKEKPw",
+        "hT0bbzksQyI",
+        "ptqHcTAwmlk"
       ],
       "videos": [
+        {
+          "videoId": "58T9kb3OFJs",
+          "title": "OpenClaw NEW Update is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/58T9kb3OFJs/summary.md"
+        },
+        {
+          "videoId": "58pd7zSQCtY",
+          "title": "OpenClaw + GPT-5.4 Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/58pd7zSQCtY/summary.md"
+        },
+        {
+          "videoId": "6EsmxI37CcM",
+          "title": "OpenClaw 3.12 IS INSANE, Here's Why",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/6EsmxI37CcM/summary.md"
+        },
         {
           "videoId": "9lbwgk29Db4",
           "title": "this openclaw content system is INSANE (self improving)",
@@ -1124,6 +2464,12 @@
           "title": "New FREE OpenClaw Update!",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/JmFkYj3__xc/summary.md"
+        },
+        {
+          "videoId": "KPejjQQ5Bzg",
+          "title": "OpenClaw 3.11 IS INSANE, Here's Why",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/KPejjQQ5Bzg/summary.md"
         },
         {
           "videoId": "KyXUJnYjjAo",
@@ -1148,9 +2494,137 @@
           "title": "NEW OpenClaw Robot is INSANE! 🤯",
           "channel": "Julian Goldie SEO",
           "summary": "knowledge/youtube/S-HveAU5l7c/summary.md"
+        },
+        {
+          "videoId": "eaEwIIKEKPw",
+          "title": "OpenClaw 3.13 is INSANE, Here’s Why!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/eaEwIIKEKPw/summary.md"
+        },
+        {
+          "videoId": "hT0bbzksQyI",
+          "title": "New OpenClaw Update Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/hT0bbzksQyI/summary.md"
+        },
+        {
+          "videoId": "ptqHcTAwmlk",
+          "title": "New OpenClaw Update Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/ptqHcTAwmlk/summary.md"
         }
       ],
-      "count": 6
+      "count": 13
+    },
+    "openclaw__paperclip": {
+      "entity_tags": [
+        "openclaw",
+        "paperclip",
+        "claude",
+        "telegram"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "paperclip",
+        "content-repurposing",
+        "workflow-automation",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "telegram",
+        "onboarding-training"
+      ],
+      "videoIds": [
+        "49_WitY66yM",
+        "mndpFJXksRs"
+      ],
+      "videos": [
+        {
+          "videoId": "49_WitY66yM",
+          "title": "OpenClaw + PaperClip is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/49_WitY66yM/summary.md"
+        },
+        {
+          "videoId": "mndpFJXksRs",
+          "title": "OpenClaw + Paperclip Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/mndpFJXksRs/summary.md"
+        }
+      ],
+      "count": 2
+    },
+    "openclaw__perplexity-computer": {
+      "entity_tags": [
+        "openclaw",
+        "perplexity-computer",
+        "claude"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "perplexity-computer",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "proactive-assistant",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow"
+      ],
+      "videoIds": [
+        "HIg16LDTY7s"
+      ],
+      "videos": [
+        {
+          "videoId": "HIg16LDTY7s",
+          "title": "NEW Perplexity Computer Update DESTROYS OpenClaw?",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/HIg16LDTY7s/summary.md"
+        }
+      ],
+      "count": 1
+    },
+    "openclaw__perplexity-personal": {
+      "entity_tags": [
+        "openclaw",
+        "perplexity-personal",
+        "chatgpt",
+        "claude"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "perplexity-personal",
+        "workflow-automation",
+        "knowledge-management",
+        "marketing-explainers",
+        "seo-content",
+        "proactive-assistant",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "U9_0ZIaYCzI"
+      ],
+      "videos": [
+        {
+          "videoId": "U9_0ZIaYCzI",
+          "title": "New Perplexity Personal Computer Destroys OpenClaw? 😱",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/U9_0ZIaYCzI/summary.md"
+        }
+      ],
+      "count": 1
     },
     "openclaw__single-agents": {
       "entity_tags": [
@@ -1278,14 +2752,46 @@
       ],
       "count": 1
     },
+    "openclaw__upgrade": {
+      "entity_tags": [
+        "openclaw",
+        "upgrade",
+        "claude"
+      ],
+      "topic_tags": [
+        "openclaw",
+        "upgrade",
+        "workflow-automation",
+        "onboarding-training",
+        "seo-content",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "HL1L6urjD7o"
+      ],
+      "videos": [
+        {
+          "videoId": "HL1L6urjD7o",
+          "title": "OpenClaw's New Upgrade: /btw",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/HL1L6urjD7o/summary.md"
+        }
+      ],
+      "count": 1
+    },
     "perplexity-computer": {
       "entity_tags": [
         "perplexity-computer",
+        "openclaw",
+        "chatgpt",
         "claude",
         "gemini"
       ],
       "topic_tags": [
         "perplexity-computer",
+        "openclaw",
         "workflow-automation",
         "knowledge-management",
         "onboarding-training",
@@ -1299,9 +2805,16 @@
         "agent-automation"
       ],
       "videoIds": [
+        "3o4YglxpcXE",
         "iBVMutY4Ot0"
       ],
       "videos": [
+        {
+          "videoId": "3o4YglxpcXE",
+          "title": "New Perplexity Computer Update!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/3o4YglxpcXE/summary.md"
+        },
         {
           "videoId": "iBVMutY4Ot0",
           "title": "NEW Perplexity Computer Updates are INSANE!",
@@ -1309,7 +2822,80 @@
           "summary": "knowledge/youtube/iBVMutY4Ot0/summary.md"
         }
       ],
+      "count": 2
+    },
+    "perplexity-personal-computer": {
+      "entity_tags": [
+        "perplexity-personal-computer"
+      ],
+      "topic_tags": [
+        "perplexity-personal-computer",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "proactive-assistant",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation"
+      ],
+      "videoIds": [
+        "XSmpy7cHm1g"
+      ],
+      "videos": [
+        {
+          "videoId": "XSmpy7cHm1g",
+          "title": "Perplexity Personal Computer Update Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/XSmpy7cHm1g/summary.md"
+        }
+      ],
       "count": 1
+    },
+    "pomelli": {
+      "entity_tags": [
+        "pomelli",
+        "openclaw",
+        "chatgpt",
+        "gemini"
+      ],
+      "topic_tags": [
+        "pomelli",
+        "openclaw",
+        "workflow-automation",
+        "onboarding-training",
+        "marketing-explainers",
+        "seo-content",
+        "prompt-design",
+        "business-idea",
+        "business-opportunity",
+        "seo-distribution",
+        "agent-flow",
+        "agent-automation",
+        "product-opportunity"
+      ],
+      "videoIds": [
+        "L-CanI8zDWI",
+        "OGBEYTWjPZU"
+      ],
+      "videos": [
+        {
+          "videoId": "L-CanI8zDWI",
+          "title": "Google AI’s New Pomelli Update Is Insane!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/L-CanI8zDWI/summary.md"
+        },
+        {
+          "videoId": "OGBEYTWjPZU",
+          "title": "NEW Google Pomelli Update Is INSANE!",
+          "channel": "Julian Goldie SEO",
+          "summary": "knowledge/youtube/OGBEYTWjPZU/summary.md"
+        }
+      ],
+      "count": 2
     },
     "saas": {
       "entity_tags": [
@@ -1443,6 +3029,15 @@
       ],
       "count": 1
     },
+    "000-websites": {
+      "videoIds": [
+        "TZUTe7s11-I"
+      ],
+      "clusters": [
+        "000-websites__claude__nano-banana-2"
+      ],
+      "count": 1
+    },
     "1-flash": {
       "videoIds": [
         "5dy2ahf_EKQ",
@@ -1462,6 +3057,24 @@
       ],
       "count": 1
     },
+    "1-pro": {
+      "videoIds": [
+        "heT6eGFEieY"
+      ],
+      "clusters": [
+        "automate__chatgpt__gemini"
+      ],
+      "count": 1
+    },
+    "2-weeks": {
+      "videoIds": [
+        "9rQm8AjcY8I"
+      ],
+      "clusters": [
+        "2-weeks__claude"
+      ],
+      "count": 1
+    },
     "5-hours": {
       "videoIds": [
         "Oz-fXptuhdA"
@@ -1473,193 +3086,394 @@
     },
     "agent": {
       "videoIds": [
-        "cZThTdL4YJQ"
+        "GVrffdY3REE",
+        "cZThTdL4YJQ",
+        "kFRRb5dwtoU",
+        "qordBmosybg"
       ],
       "clusters": [
-        "agent"
+        "agent",
+        "agent__jules",
+        "healer-alpha__hunter-alpha__openclaw"
       ],
-      "count": 1
+      "count": 4
     },
     "agent-automation": {
       "videoIds": [
         "-hYE5U6FGk8",
+        "-iaZUdrljN4",
         "0b8qQx3FaLE",
+        "1LU_AHdrfNU",
+        "49_WitY66yM",
+        "4Airc23mCFE",
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
         "5dy2ahf_EKQ",
         "5lLC0o_D_Io",
         "6-yNr6Hs__Q",
+        "6EsmxI37CcM",
+        "70P1xXDCaNQ",
         "7JdUDyidwpg",
         "82qAMBBk2kc",
+        "86-6tbVN_SY",
         "95vDW6RKYgQ",
         "98bGqof0dUI",
         "99EoVMtEA2A",
+        "9kjntAZ_L0M",
         "9lbwgk29Db4",
+        "9rQm8AjcY8I",
         "C4fTWiOGXpM",
+        "C6ZTvzdTwrE",
+        "CEPBP_Rw080",
         "DSKO9ZtbHFA",
         "FXfAnWMxQao",
         "Fv-FxekmfTQ",
+        "GVrffdY3REE",
+        "HL1L6urjD7o",
+        "IBktE5O-51U",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
+        "IiOhWxjUY7I",
+        "J_RNzdX1yiQ",
         "JmFkYj3__xc",
+        "JwVJo5kMsUk",
         "KAX0cWk1fJE",
         "KOOBrzuGlcM",
+        "KPejjQQ5Bzg",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
+        "L-CanI8zDWI",
+        "LRcIKDRybWk",
+        "Lxj-vgEZ8fY",
+        "NB8cpybCL5Q",
+        "NU6SO-N1mNM",
         "NiTOlYmthNg",
+        "NtpPIFj7HD0",
+        "OGBEYTWjPZU",
         "OV5eK91YY68",
         "Oz-fXptuhdA",
         "P2LIFtrRr2U",
+        "QhgV435R_Ro",
         "RyxeYZ7TW3o",
         "S-HveAU5l7c",
+        "SoQAIsrYkRA",
+        "T3jDa19gpXw",
+        "TZUTe7s11-I",
+        "TiB48jLnHBs",
+        "U9_0ZIaYCzI",
         "VBEvVu5EI0c",
+        "V_otsxw2Sw0",
         "Wxf9oqxODU0",
+        "XSmpy7cHm1g",
         "YnzsnqsrqXs",
         "Yt6imPC1FhA",
         "ZgnQb40aiTU",
+        "_U_15eZXFFE",
+        "_s7tHRZUmdM",
+        "bBAdKvCnaq0",
         "cNf7uVff11Y",
         "cZThTdL4YJQ",
+        "d2jty2jNl5o",
+        "eaEwIIKEKPw",
         "esuPIJeRotI",
         "f8LJBh1AtKg",
         "fnLXErf-plM",
+        "hT0bbzksQyI",
+        "heT6eGFEieY",
+        "hllhkLGWA34",
         "iBVMutY4Ot0",
         "iNNLfHMDCfk",
         "iuQ_Y-qSz78",
         "jyVRbD6fqic",
+        "kQqR8BOg4Lo",
+        "m7butSSUOrQ",
         "m9aBfbXMnZY",
+        "mAyZZc_DjSE",
+        "mndpFJXksRs",
+        "pGaOe7M6KyQ",
         "pSQE1SsGfSQ",
+        "pXFSLdNL13M",
+        "ptqHcTAwmlk",
+        "qb90PPbAWz4",
+        "qordBmosybg",
+        "r6L6YXe1zRg",
         "rF8VXVn46co",
+        "rlLbv0PgYsY",
         "s2HalzQZ1MQ",
+        "tn1DH1Ul1HA",
+        "uHjwDSx4f48",
         "wX_neSx7-Ls",
-        "xAw3IZgX7Tc"
+        "x63i1INJ9Tc",
+        "xAw3IZgX7Tc",
+        "xBBPojYcTEI",
+        "xnG6OidGGek"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
+        "000-websites__claude__nano-banana-2",
         "1-flash-lite__automate__gemini",
+        "2-weeks__claude",
         "5-hours__automate__openclaw",
         "agent",
+        "agent__jules",
         "agents__openclaw",
+        "aionui__claude__openclaw",
+        "antigravity",
         "antigravity__gravityclaw__unstoppable",
         "antigravity__openclaw",
+        "automate__browser-agent__openclaw",
+        "automate__chatgpt__gemini",
+        "automate__claude",
         "breakdown__the",
+        "buying-assets__stop-buying-things",
         "chatgpt",
+        "chatgpt__claude",
         "chatgpt__notebooklm",
+        "chatgpt__upgrades",
+        "chatgpt__visuals",
         "chinese__model",
         "claude",
+        "claude__copilot-cowork",
         "claude__course__employees",
         "claude__design-now",
+        "claude__github-cli__perplexity-computer",
+        "claude__glm__opus-4",
+        "claude__perplexity-computer",
         "claude__scheduled-tasks",
         "claude__skills-2__unstoppable",
+        "clawswarm-destroys__openclaw",
+        "deepseek-v4",
         "devin-2",
+        "duclaw__openclaw",
         "every-company__operating-systems__will-need-one",
         "gemini",
         "gemini__gpt-5__openclaw",
+        "gemini__openclaw",
+        "gemini__workspace",
+        "gemma",
+        "genclaw-destroys__openclaw",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "kimi-k2__ollama__openclaw",
+        "krea",
         "layers-explained__openclaw__the-3-memory",
+        "lossless-claw__memory__openclaw",
         "model",
         "nano-banana-2__notebooklm",
+        "nemoclaw-destroys__openclaw",
+        "nvidia-nemotron-3__openclaw",
         "openai-codex",
+        "openai-codex__stitch",
         "openai-model",
         "openai__symphony",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-personal",
         "openclaw__single-agents",
         "openclaw__skills",
         "openclaw__specialized-agents",
         "openclaw__star-office",
+        "openclaw__upgrade",
         "perplexity-computer",
+        "perplexity-personal-computer",
+        "pomelli",
         "smallest-pc__the-world__tiiny-pocket",
         "the"
       ],
-      "count": 48
+      "count": 107
     },
     "agent-flow": {
       "videoIds": [
         "-hYE5U6FGk8",
+        "-iaZUdrljN4",
         "0b8qQx3FaLE",
+        "1FaO6fQm93Q",
+        "1LU_AHdrfNU",
+        "3o4YglxpcXE",
+        "49_WitY66yM",
+        "4Airc23mCFE",
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
         "5dy2ahf_EKQ",
         "5lLC0o_D_Io",
         "6-yNr6Hs__Q",
+        "6EsmxI37CcM",
+        "70P1xXDCaNQ",
         "7JdUDyidwpg",
         "82qAMBBk2kc",
+        "86-6tbVN_SY",
         "95vDW6RKYgQ",
         "98bGqof0dUI",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
+        "9kjntAZ_L0M",
         "9lbwgk29Db4",
+        "9rQm8AjcY8I",
         "Aq21uBOl9qE",
         "C4fTWiOGXpM",
+        "C6ZTvzdTwrE",
+        "CEPBP_Rw080",
         "DSKO9ZtbHFA",
+        "FVATW3KidnQ",
         "FXfAnWMxQao",
         "Fv-FxekmfTQ",
+        "GVrffdY3REE",
+        "HIg16LDTY7s",
+        "HL1L6urjD7o",
+        "IBktE5O-51U",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
+        "IiOhWxjUY7I",
+        "J_RNzdX1yiQ",
         "JmFkYj3__xc",
+        "JwVJo5kMsUk",
         "KAX0cWk1fJE",
         "KOOBrzuGlcM",
+        "KPejjQQ5Bzg",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
+        "L-CanI8zDWI",
+        "LRcIKDRybWk",
+        "LiwfV_8iN0E",
+        "Lxj-vgEZ8fY",
+        "NB8cpybCL5Q",
+        "NU6SO-N1mNM",
         "NY22ChmcHvg",
         "NiTOlYmthNg",
+        "NtpPIFj7HD0",
+        "OGBEYTWjPZU",
         "OV5eK91YY68",
         "P2LIFtrRr2U",
+        "QhgV435R_Ro",
         "RyxeYZ7TW3o",
         "S-HveAU5l7c",
+        "SQEW0-X1cQw",
+        "SoQAIsrYkRA",
+        "T3jDa19gpXw",
+        "TZUTe7s11-I",
+        "TiB48jLnHBs",
+        "U9_0ZIaYCzI",
         "VBEvVu5EI0c",
+        "V_otsxw2Sw0",
+        "XSmpy7cHm1g",
         "YnzsnqsrqXs",
         "Yt6imPC1FhA",
         "ZgnQb40aiTU",
+        "_U_15eZXFFE",
+        "_s7tHRZUmdM",
+        "bBAdKvCnaq0",
         "cZThTdL4YJQ",
+        "d2jty2jNl5o",
+        "eaEwIIKEKPw",
         "esuPIJeRotI",
         "f8LJBh1AtKg",
         "fnLXErf-plM",
+        "hT0bbzksQyI",
+        "heT6eGFEieY",
+        "hllhkLGWA34",
         "iBVMutY4Ot0",
         "iNNLfHMDCfk",
         "iuQ_Y-qSz78",
         "jyVRbD6fqic",
+        "kQqR8BOg4Lo",
+        "m7butSSUOrQ",
         "m9aBfbXMnZY",
+        "mAyZZc_DjSE",
+        "mndpFJXksRs",
+        "pGaOe7M6KyQ",
         "pSQE1SsGfSQ",
+        "pXFSLdNL13M",
+        "ptqHcTAwmlk",
+        "qb90PPbAWz4",
+        "qordBmosybg",
+        "r6L6YXe1zRg",
         "rF8VXVn46co",
+        "rlLbv0PgYsY",
         "s2HalzQZ1MQ",
+        "tn1DH1Ul1HA",
+        "uHjwDSx4f48",
         "wX_neSx7-Ls",
-        "xAw3IZgX7Tc"
+        "x63i1INJ9Tc",
+        "xAw3IZgX7Tc",
+        "xBBPojYcTEI",
+        "xnG6OidGGek"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
+        "000-websites__claude__nano-banana-2",
         "1-flash-lite__automate__gemini",
+        "2-weeks__claude",
         "agent",
+        "agent__jules",
         "agents__openclaw",
+        "aionui__claude__openclaw",
+        "antigravity",
         "antigravity__gravityclaw__unstoppable",
         "antigravity__openclaw",
+        "automate__browser-agent__openclaw",
+        "automate__chatgpt__gemini",
+        "automate__claude",
         "automate__claude__perplexity-computer",
         "breakdown__the",
+        "buying-assets__stop-buying-things",
         "chatgpt",
+        "chatgpt__claude",
+        "chatgpt__healer-alpha",
         "chatgpt__notebooklm",
+        "chatgpt__upgrades",
+        "chatgpt__visuals",
         "chinese__model",
         "claude",
+        "claude__copilot-cowork",
         "claude__design-now",
+        "claude__github-cli__perplexity-computer",
+        "claude__glm__opus-4",
+        "claude__perplexity-computer",
         "claude__scheduled-tasks",
+        "clawswarm-destroys__openclaw",
+        "deepseek-v4",
         "devin-2",
+        "duclaw__openclaw",
         "every-company__operating-systems__will-need-one",
         "gemini",
         "gemini__gpt-5__openclaw",
+        "gemini__openclaw",
+        "gemini__workspace",
+        "gemma",
+        "genclaw-destroys__openclaw",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
+        "kimi-k2__ollama__openclaw",
+        "krea",
         "layers-explained__openclaw__the-3-memory",
+        "lossless-claw__memory__openclaw",
         "model",
         "nano-banana-2__notebooklm",
+        "nemoclaw-destroys__openclaw",
+        "nemotron-3-super__nvidia",
+        "notebooklm",
+        "nvidia-nemotron-3__openclaw",
         "openai-codex",
+        "openai-codex__stitch",
         "openai-model",
         "openai__symphony",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-computer",
+        "openclaw__perplexity-personal",
         "openclaw__single-agents",
         "openclaw__skills",
         "openclaw__specialized-agents",
         "openclaw__star-office",
+        "openclaw__upgrade",
         "perplexity-computer",
+        "perplexity-personal-computer",
+        "pomelli",
         "saas",
         "smallest-pc__the-world__tiiny-pocket",
         "the"
       ],
-      "count": 48
+      "count": 113
     },
     "agents": {
       "videoIds": [
@@ -1673,11 +3487,15 @@
     "ai-video-generation": {
       "videoIds": [
         "0b8qQx3FaLE",
+        "1FaO6fQm93Q",
+        "4Airc23mCFE",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
         "Aq21uBOl9qE",
+        "LiwfV_8iN0E",
         "UzLMmFtnRMQ",
         "Wxf9oqxODU0",
+        "jece_dDk-0w",
         "obIeqXJH3d4"
       ],
       "clusters": [
@@ -1685,56 +3503,99 @@
         "breakdown__the",
         "claude__skills-2__unstoppable",
         "everything__notebooklm",
+        "gemini",
         "nano-banana-2__notebooklm",
+        "notebooklm",
+        "notebooklm__openclaw",
         "saas"
       ],
-      "count": 7
+      "count": 11
+    },
+    "aionui": {
+      "videoIds": [
+        "TiB48jLnHBs"
+      ],
+      "clusters": [
+        "aionui__claude__openclaw"
+      ],
+      "count": 1
     },
     "antigravity": {
       "videoIds": [
         "-hYE5U6FGk8",
         "C4fTWiOGXpM",
         "DSKO9ZtbHFA",
-        "cNf7uVff11Y"
+        "cNf7uVff11Y",
+        "pXFSLdNL13M"
       ],
       "clusters": [
+        "antigravity",
         "antigravity__gravityclaw__unstoppable",
         "antigravity__openclaw",
         "claude",
         "claude__course__employees"
       ],
-      "count": 4
+      "count": 5
     },
     "api": {
       "videoIds": [
+        "1LU_AHdrfNU",
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
         "5dy2ahf_EKQ",
+        "6EsmxI37CcM",
+        "86-6tbVN_SY",
         "95vDW6RKYgQ",
         "98bGqof0dUI",
+        "9rQm8AjcY8I",
+        "CKRglRCeVDM",
         "DSKO9ZtbHFA",
         "ISb0nrlNoKQ",
+        "IiOhWxjUY7I",
         "JmFkYj3__xc",
+        "JwVJo5kMsUk",
         "KAX0cWk1fJE",
         "KOOBrzuGlcM",
+        "KPejjQQ5Bzg",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
         "NiTOlYmthNg",
+        "STjO0AYbetA",
         "VBEvVu5EI0c",
         "Yt6imPC1FhA",
+        "bBAdKvCnaq0",
         "cNf7uVff11Y",
+        "eaEwIIKEKPw",
         "fnLXErf-plM",
+        "hllhkLGWA34",
         "jyVRbD6fqic",
+        "kQqR8BOg4Lo",
+        "mAyZZc_DjSE",
+        "qb90PPbAWz4",
         "s2HalzQZ1MQ",
-        "xAw3IZgX7Tc"
+        "uHjwDSx4f48",
+        "xAw3IZgX7Tc",
+        "xBBPojYcTEI"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
+        "2-weeks__claude",
+        "buying-assets__stop-buying-things",
+        "chatgpt__claude",
         "claude",
         "claude__course__employees",
         "claude__design-now",
+        "claude__gemini__rag",
+        "claude__perplexity-computer",
+        "claude__scheduled-tasks",
+        "find-products-that__use-web-scraping",
         "gemini",
         "gemini__gpt-5__openclaw",
+        "gemma",
         "gpt-5__openclaw",
+        "kimi-k2__ollama__openclaw",
         "model",
+        "nvidia-nemotron-3__openclaw",
         "openai-codex",
         "openai-model",
         "openai__symphony",
@@ -1742,46 +3603,87 @@
         "openclaw__skills",
         "openclaw__specialized-agents"
       ],
-      "count": 18
+      "count": 37
     },
     "api-integration": {
       "videoIds": [
+        "1LU_AHdrfNU",
+        "58T9kb3OFJs",
+        "6EsmxI37CcM",
+        "86-6tbVN_SY",
         "95vDW6RKYgQ",
         "98bGqof0dUI",
+        "CKRglRCeVDM",
         "DSKO9ZtbHFA",
         "JmFkYj3__xc",
         "KyXUJnYjjAo",
         "NiTOlYmthNg",
+        "STjO0AYbetA",
         "VBEvVu5EI0c",
         "Yt6imPC1FhA",
         "cNf7uVff11Y",
+        "eaEwIIKEKPw",
         "jyVRbD6fqic",
-        "s2HalzQZ1MQ"
+        "kQqR8BOg4Lo",
+        "mAyZZc_DjSE",
+        "s2HalzQZ1MQ",
+        "uHjwDSx4f48",
+        "xBBPojYcTEI"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
+        "buying-assets__stop-buying-things",
         "claude",
         "claude__course__employees",
+        "claude__gemini__rag",
+        "claude__perplexity-computer",
+        "find-products-that__use-web-scraping",
         "gemini",
+        "gemma",
+        "nvidia-nemotron-3__openclaw",
         "openai-codex",
         "openai-model",
         "openclaw",
         "openclaw__skills"
       ],
-      "count": 11
+      "count": 22
+    },
+    "app-idea": {
+      "videoIds": [
+        "GVrffdY3REE"
+      ],
+      "clusters": [
+        "agent"
+      ],
+      "count": 1
+    },
+    "app-opportunity": {
+      "videoIds": [
+        "GVrffdY3REE"
+      ],
+      "clusters": [
+        "agent"
+      ],
+      "count": 1
     },
     "automate": {
       "videoIds": [
         "Aq21uBOl9qE",
+        "J_RNzdX1yiQ",
+        "LRcIKDRybWk",
         "Oz-fXptuhdA",
+        "heT6eGFEieY",
         "rF8VXVn46co"
       ],
       "clusters": [
         "1-flash-lite__automate__gemini",
         "5-hours__automate__openclaw",
+        "automate__browser-agent__openclaw",
+        "automate__chatgpt__gemini",
+        "automate__claude",
         "automate__claude__perplexity-computer"
       ],
-      "count": 3
+      "count": 6
     },
     "breakdown": {
       "videoIds": [
@@ -1792,163 +3694,381 @@
       ],
       "count": 1
     },
+    "browser-agent": {
+      "videoIds": [
+        "J_RNzdX1yiQ"
+      ],
+      "clusters": [
+        "automate__browser-agent__openclaw"
+      ],
+      "count": 1
+    },
     "business-idea": {
       "videoIds": [
+        "-iaZUdrljN4",
         "0b8qQx3FaLE",
+        "1FaO6fQm93Q",
+        "1LU_AHdrfNU",
+        "3o4YglxpcXE",
+        "49_WitY66yM",
+        "4Airc23mCFE",
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
         "5lLC0o_D_Io",
         "6-yNr6Hs__Q",
         "7JdUDyidwpg",
         "82qAMBBk2kc",
         "98bGqof0dUI",
         "9T1yWEq5kP0",
+        "9kjntAZ_L0M",
         "9lbwgk29Db4",
+        "9rQm8AjcY8I",
         "C4fTWiOGXpM",
+        "C6ZTvzdTwrE",
+        "CEPBP_Rw080",
+        "CKRglRCeVDM",
         "DSKO9ZtbHFA",
+        "FVATW3KidnQ",
         "FXfAnWMxQao",
+        "GVrffdY3REE",
+        "HIg16LDTY7s",
+        "IBktE5O-51U",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
+        "IiOhWxjUY7I",
+        "JwVJo5kMsUk",
         "KAX0cWk1fJE",
         "KOOBrzuGlcM",
+        "KPejjQQ5Bzg",
         "KyXUJnYjjAo",
+        "L-CanI8zDWI",
+        "LRcIKDRybWk",
+        "LiwfV_8iN0E",
+        "Lxj-vgEZ8fY",
         "N0NceZbY2_4",
+        "NB8cpybCL5Q",
+        "NU6SO-N1mNM",
         "NY22ChmcHvg",
         "NiTOlYmthNg",
+        "NtpPIFj7HD0",
+        "OGBEYTWjPZU",
         "OV5eK91YY68",
         "P2LIFtrRr2U",
+        "QhgV435R_Ro",
         "RyxeYZ7TW3o",
         "S-HveAU5l7c",
+        "SQEW0-X1cQw",
+        "STjO0AYbetA",
+        "SoQAIsrYkRA",
+        "T3jDa19gpXw",
+        "TZUTe7s11-I",
+        "TiB48jLnHBs",
+        "U9_0ZIaYCzI",
         "UzLMmFtnRMQ",
         "VBEvVu5EI0c",
+        "V_otsxw2Sw0",
         "Wxf9oqxODU0",
+        "XSmpy7cHm1g",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
+        "_U_15eZXFFE",
+        "_s7tHRZUmdM",
+        "bBAdKvCnaq0",
         "cNf7uVff11Y",
+        "d2jty2jNl5o",
         "f8LJBh1AtKg",
         "fnLXErf-plM",
+        "hT0bbzksQyI",
+        "heT6eGFEieY",
+        "hllhkLGWA34",
         "iBVMutY4Ot0",
         "iNNLfHMDCfk",
         "iuQ_Y-qSz78",
+        "jece_dDk-0w",
         "jyVRbD6fqic",
+        "kFRRb5dwtoU",
+        "kQqR8BOg4Lo",
+        "m7butSSUOrQ",
         "m9aBfbXMnZY",
+        "mAyZZc_DjSE",
+        "mndpFJXksRs",
         "obIeqXJH3d4",
         "pSQE1SsGfSQ",
+        "pXFSLdNL13M",
+        "ptqHcTAwmlk",
+        "qb90PPbAWz4",
+        "qordBmosybg",
+        "r6L6YXe1zRg",
         "rF8VXVn46co",
+        "rlLbv0PgYsY",
         "s2HalzQZ1MQ",
-        "xAw3IZgX7Tc"
+        "tn1DH1Ul1HA",
+        "uHjwDSx4f48",
+        "x63i1INJ9Tc",
+        "xAw3IZgX7Tc",
+        "xBBPojYcTEI",
+        "xnG6OidGGek"
       ],
       "clusters": [
+        "000-websites__claude__nano-banana-2",
         "1-flash-lite__automate__gemini",
+        "2-weeks__claude",
+        "agent",
+        "agent__jules",
         "agents__openclaw",
+        "aionui__claude__openclaw",
+        "antigravity",
         "antigravity__openclaw",
+        "automate__chatgpt__gemini",
+        "automate__claude",
         "breakdown__the",
+        "buying-assets__stop-buying-things",
         "chatgpt",
+        "chatgpt__claude",
+        "chatgpt__healer-alpha",
         "chatgpt__notebooklm",
+        "chatgpt__upgrades",
+        "chatgpt__visuals",
         "chinese__model",
         "claude",
+        "claude__copilot-cowork",
         "claude__course__employees",
         "claude__design-now",
+        "claude__gemini__rag",
+        "claude__github-cli__perplexity-computer",
+        "claude__glm__opus-4",
+        "claude__perplexity-computer",
         "claude__scheduled-tasks",
         "claude__skills-2__unstoppable",
+        "clawswarm-destroys__openclaw",
+        "deepseek-v4",
         "devin-2",
+        "duclaw__openclaw",
         "every-company__operating-systems__will-need-one",
         "everything__notebooklm",
+        "find-products-that__use-web-scraping",
         "gemini",
         "gemini__gpt-5__openclaw",
+        "gemini__openclaw",
+        "gemini__workspace",
+        "gemma",
+        "healer-alpha__hunter-alpha__openclaw",
         "hermes-agent__openclaw",
+        "kimi-k2__ollama__openclaw",
+        "krea",
         "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
+        "nemoclaw-destroys__openclaw",
+        "nemotron-3-super__nvidia",
+        "notebooklm",
+        "notebooklm__openclaw",
         "openai-codex",
+        "openai-codex__stitch",
         "openai-model",
         "openai__symphony",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-computer",
+        "openclaw__perplexity-personal",
         "openclaw__specialized-agents",
         "openclaw__star-office",
         "perplexity-computer",
+        "perplexity-personal-computer",
+        "pomelli",
         "saas",
         "selling-magnets",
         "smallest-pc__the-world__tiiny-pocket",
         "the"
       ],
-      "count": 41
+      "count": 103
     },
     "business-opportunity": {
       "videoIds": [
+        "-iaZUdrljN4",
         "0b8qQx3FaLE",
+        "1FaO6fQm93Q",
+        "1LU_AHdrfNU",
+        "3o4YglxpcXE",
+        "49_WitY66yM",
+        "4Airc23mCFE",
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
         "5lLC0o_D_Io",
         "6-yNr6Hs__Q",
         "7JdUDyidwpg",
         "82qAMBBk2kc",
         "98bGqof0dUI",
         "9T1yWEq5kP0",
+        "9kjntAZ_L0M",
         "9lbwgk29Db4",
+        "9rQm8AjcY8I",
         "C4fTWiOGXpM",
+        "C6ZTvzdTwrE",
+        "CEPBP_Rw080",
+        "CKRglRCeVDM",
         "DSKO9ZtbHFA",
+        "FVATW3KidnQ",
         "FXfAnWMxQao",
+        "GVrffdY3REE",
+        "HIg16LDTY7s",
+        "IBktE5O-51U",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
+        "IiOhWxjUY7I",
+        "JwVJo5kMsUk",
         "KAX0cWk1fJE",
         "KOOBrzuGlcM",
+        "KPejjQQ5Bzg",
         "KyXUJnYjjAo",
+        "L-CanI8zDWI",
+        "LRcIKDRybWk",
+        "LiwfV_8iN0E",
+        "Lxj-vgEZ8fY",
         "N0NceZbY2_4",
+        "NB8cpybCL5Q",
+        "NU6SO-N1mNM",
         "NY22ChmcHvg",
         "NiTOlYmthNg",
+        "NtpPIFj7HD0",
+        "OGBEYTWjPZU",
         "OV5eK91YY68",
         "P2LIFtrRr2U",
+        "QhgV435R_Ro",
         "RyxeYZ7TW3o",
         "S-HveAU5l7c",
+        "SQEW0-X1cQw",
+        "STjO0AYbetA",
+        "SoQAIsrYkRA",
+        "T3jDa19gpXw",
+        "TZUTe7s11-I",
+        "TiB48jLnHBs",
+        "U9_0ZIaYCzI",
         "UzLMmFtnRMQ",
         "VBEvVu5EI0c",
+        "V_otsxw2Sw0",
+        "XSmpy7cHm1g",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
+        "_U_15eZXFFE",
+        "_s7tHRZUmdM",
+        "bBAdKvCnaq0",
         "cNf7uVff11Y",
+        "d2jty2jNl5o",
         "f8LJBh1AtKg",
         "fnLXErf-plM",
+        "hT0bbzksQyI",
+        "heT6eGFEieY",
+        "hllhkLGWA34",
         "iBVMutY4Ot0",
         "iNNLfHMDCfk",
         "iuQ_Y-qSz78",
+        "jece_dDk-0w",
         "jyVRbD6fqic",
+        "kFRRb5dwtoU",
+        "kQqR8BOg4Lo",
+        "m7butSSUOrQ",
         "m9aBfbXMnZY",
+        "mAyZZc_DjSE",
+        "mndpFJXksRs",
         "obIeqXJH3d4",
         "pSQE1SsGfSQ",
+        "pXFSLdNL13M",
+        "ptqHcTAwmlk",
+        "qb90PPbAWz4",
+        "qordBmosybg",
+        "r6L6YXe1zRg",
         "rF8VXVn46co",
+        "rlLbv0PgYsY",
         "s2HalzQZ1MQ",
-        "xAw3IZgX7Tc"
+        "tn1DH1Ul1HA",
+        "uHjwDSx4f48",
+        "x63i1INJ9Tc",
+        "xAw3IZgX7Tc",
+        "xBBPojYcTEI",
+        "xnG6OidGGek"
       ],
       "clusters": [
+        "000-websites__claude__nano-banana-2",
         "1-flash-lite__automate__gemini",
+        "2-weeks__claude",
+        "agent",
+        "agent__jules",
         "agents__openclaw",
+        "aionui__claude__openclaw",
+        "antigravity",
         "antigravity__openclaw",
+        "automate__chatgpt__gemini",
+        "automate__claude",
         "breakdown__the",
+        "buying-assets__stop-buying-things",
         "chatgpt",
+        "chatgpt__claude",
+        "chatgpt__healer-alpha",
         "chatgpt__notebooklm",
+        "chatgpt__upgrades",
+        "chatgpt__visuals",
         "chinese__model",
         "claude",
+        "claude__copilot-cowork",
         "claude__course__employees",
         "claude__design-now",
+        "claude__gemini__rag",
+        "claude__github-cli__perplexity-computer",
+        "claude__glm__opus-4",
+        "claude__perplexity-computer",
         "claude__scheduled-tasks",
+        "clawswarm-destroys__openclaw",
+        "deepseek-v4",
         "devin-2",
+        "duclaw__openclaw",
         "every-company__operating-systems__will-need-one",
         "everything__notebooklm",
+        "find-products-that__use-web-scraping",
         "gemini",
         "gemini__gpt-5__openclaw",
+        "gemini__openclaw",
+        "gemini__workspace",
+        "gemma",
+        "healer-alpha__hunter-alpha__openclaw",
         "hermes-agent__openclaw",
+        "kimi-k2__ollama__openclaw",
+        "krea",
         "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
+        "nemoclaw-destroys__openclaw",
+        "nemotron-3-super__nvidia",
+        "notebooklm",
+        "notebooklm__openclaw",
         "openai-codex",
+        "openai-codex__stitch",
         "openai-model",
         "openai__symphony",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-computer",
+        "openclaw__perplexity-personal",
         "openclaw__specialized-agents",
         "openclaw__star-office",
         "perplexity-computer",
+        "perplexity-personal-computer",
+        "pomelli",
         "saas",
         "selling-magnets",
         "smallest-pc__the-world__tiiny-pocket",
         "the"
       ],
-      "count": 40
+      "count": 102
+    },
+    "buying-assets": {
+      "videoIds": [
+        "mAyZZc_DjSE"
+      ],
+      "clusters": [
+        "buying-assets__stop-buying-things"
+      ],
+      "count": 1
     },
     "chinese": {
       "videoIds": [
@@ -1959,20 +4079,48 @@
       ],
       "count": 1
     },
+    "clawswarm-destroys": {
+      "videoIds": [
+        "CEPBP_Rw080"
+      ],
+      "clusters": [
+        "clawswarm-destroys__openclaw"
+      ],
+      "count": 1
+    },
     "content-repurposing": {
       "videoIds": [
+        "49_WitY66yM",
+        "LiwfV_8iN0E",
         "Oz-fXptuhdA",
         "UzLMmFtnRMQ",
+        "_s7tHRZUmdM",
         "obIeqXJH3d4",
+        "rlLbv0PgYsY",
+        "x63i1INJ9Tc",
         "xAw3IZgX7Tc"
       ],
       "clusters": [
         "5-hours__automate__openclaw",
         "everything__notebooklm",
+        "gemini",
+        "gemini__openclaw",
+        "krea",
         "model",
-        "nano-banana-2__notebooklm"
+        "nano-banana-2__notebooklm",
+        "notebooklm",
+        "openclaw__paperclip"
       ],
-      "count": 4
+      "count": 9
+    },
+    "copilot-cowork": {
+      "videoIds": [
+        "9kjntAZ_L0M"
+      ],
+      "clusters": [
+        "claude__copilot-cowork"
+      ],
+      "count": 1
     },
     "course": {
       "videoIds": [
@@ -1980,6 +4128,15 @@
       ],
       "clusters": [
         "claude__course__employees"
+      ],
+      "count": 1
+    },
+    "deepseek-v4": {
+      "videoIds": [
+        "IBktE5O-51U"
+      ],
+      "clusters": [
+        "deepseek-v4"
       ],
       "count": 1
     },
@@ -1998,6 +4155,15 @@
       ],
       "clusters": [
         "devin-2"
+      ],
+      "count": 1
+    },
+    "duclaw": {
+      "videoIds": [
+        "NB8cpybCL5Q"
+      ],
+      "clusters": [
+        "duclaw__openclaw"
       ],
       "count": 1
     },
@@ -2037,6 +4203,51 @@
       ],
       "count": 1
     },
+    "find-products-that": {
+      "videoIds": [
+        "CKRglRCeVDM"
+      ],
+      "clusters": [
+        "find-products-that__use-web-scraping"
+      ],
+      "count": 1
+    },
+    "gemma": {
+      "videoIds": [
+        "kQqR8BOg4Lo"
+      ],
+      "clusters": [
+        "gemma"
+      ],
+      "count": 1
+    },
+    "genclaw-destroys": {
+      "videoIds": [
+        "70P1xXDCaNQ"
+      ],
+      "clusters": [
+        "genclaw-destroys__openclaw"
+      ],
+      "count": 1
+    },
+    "github-cli": {
+      "videoIds": [
+        "tn1DH1Ul1HA"
+      ],
+      "clusters": [
+        "claude__github-cli__perplexity-computer"
+      ],
+      "count": 1
+    },
+    "glm": {
+      "videoIds": [
+        "V_otsxw2Sw0"
+      ],
+      "clusters": [
+        "claude__glm__opus-4"
+      ],
+      "count": 1
+    },
     "gpt-5": {
       "videoIds": [
         "5dy2ahf_EKQ",
@@ -2058,6 +4269,17 @@
       ],
       "count": 1
     },
+    "healer-alpha": {
+      "videoIds": [
+        "FVATW3KidnQ",
+        "kFRRb5dwtoU"
+      ],
+      "clusters": [
+        "chatgpt__healer-alpha",
+        "healer-alpha__hunter-alpha__openclaw"
+      ],
+      "count": 2
+    },
     "hermes-agent": {
       "videoIds": [
         "P2LIFtrRr2U"
@@ -2067,40 +4289,107 @@
       ],
       "count": 1
     },
+    "hunter-alpha": {
+      "videoIds": [
+        "kFRRb5dwtoU"
+      ],
+      "clusters": [
+        "healer-alpha__hunter-alpha__openclaw"
+      ],
+      "count": 1
+    },
+    "jules": {
+      "videoIds": [
+        "qordBmosybg"
+      ],
+      "clusters": [
+        "agent__jules"
+      ],
+      "count": 1
+    },
+    "kimi-k2": {
+      "videoIds": [
+        "bBAdKvCnaq0"
+      ],
+      "clusters": [
+        "kimi-k2__ollama__openclaw"
+      ],
+      "count": 1
+    },
     "knowledge-management": {
       "videoIds": [
+        "-iaZUdrljN4",
         "0b8qQx3FaLE",
+        "1FaO6fQm93Q",
+        "1LU_AHdrfNU",
+        "3o4YglxpcXE",
         "5dy2ahf_EKQ",
         "5lLC0o_D_Io",
         "6-yNr6Hs__Q",
         "7JdUDyidwpg",
         "Aq21uBOl9qE",
         "C4fTWiOGXpM",
+        "C6ZTvzdTwrE",
+        "GVrffdY3REE",
         "KyXUJnYjjAo",
+        "LiwfV_8iN0E",
+        "NB8cpybCL5Q",
         "Oz-fXptuhdA",
+        "SQEW0-X1cQw",
+        "STjO0AYbetA",
+        "U9_0ZIaYCzI",
         "UzLMmFtnRMQ",
+        "V_otsxw2Sw0",
         "Wxf9oqxODU0",
+        "hT0bbzksQyI",
         "iBVMutY4Ot0",
         "iNNLfHMDCfk",
-        "obIeqXJH3d4"
+        "jece_dDk-0w",
+        "m7butSSUOrQ",
+        "obIeqXJH3d4",
+        "rlLbv0PgYsY",
+        "xBBPojYcTEI",
+        "xnG6OidGGek"
       ],
       "clusters": [
         "5-hours__automate__openclaw",
+        "agent",
         "agents__openclaw",
         "antigravity__openclaw",
         "automate__claude__perplexity-computer",
         "breakdown__the",
+        "chatgpt",
         "chatgpt__notebooklm",
         "chinese__model",
+        "claude",
+        "claude__gemini__rag",
+        "claude__glm__opus-4",
+        "claude__perplexity-computer",
         "claude__skills-2__unstoppable",
+        "duclaw__openclaw",
         "everything__notebooklm",
+        "gemini",
         "gemini__gpt-5__openclaw",
+        "gemini__openclaw",
         "nano-banana-2__notebooklm",
+        "nemotron-3-super__nvidia",
+        "notebooklm",
+        "notebooklm__openclaw",
         "openclaw",
+        "openclaw__perplexity-personal",
         "perplexity-computer",
         "smallest-pc__the-world__tiiny-pocket"
       ],
-      "count": 14
+      "count": 32
+    },
+    "krea": {
+      "videoIds": [
+        "x63i1INJ9Tc"
+      ],
+      "clusters": [
+        "krea"
+      ],
+      "count": 1
     },
     "layers-explained": {
       "videoIds": [
@@ -2111,47 +4400,109 @@
       ],
       "count": 1
     },
+    "lossless-claw": {
+      "videoIds": [
+        "pGaOe7M6KyQ"
+      ],
+      "clusters": [
+        "lossless-claw__memory__openclaw"
+      ],
+      "count": 1
+    },
     "marketing-explainers": {
       "videoIds": [
+        "1FaO6fQm93Q",
+        "3o4YglxpcXE",
+        "49_WitY66yM",
+        "4Airc23mCFE",
+        "58T9kb3OFJs",
         "95vDW6RKYgQ",
+        "9kjntAZ_L0M",
         "9lbwgk29Db4",
+        "9rQm8AjcY8I",
         "Aq21uBOl9qE",
+        "C6ZTvzdTwrE",
+        "FVATW3KidnQ",
         "Fv-FxekmfTQ",
+        "HIg16LDTY7s",
+        "JwVJo5kMsUk",
         "KAX0cWk1fJE",
         "KeAy_Va2Wrc",
+        "L-CanI8zDWI",
+        "LRcIKDRybWk",
+        "LiwfV_8iN0E",
+        "NB8cpybCL5Q",
+        "NtpPIFj7HD0",
+        "OGBEYTWjPZU",
         "OV5eK91YY68",
+        "QhgV435R_Ro",
+        "SQEW0-X1cQw",
+        "T3jDa19gpXw",
+        "TiB48jLnHBs",
+        "U9_0ZIaYCzI",
         "UzLMmFtnRMQ",
         "VBEvVu5EI0c",
+        "XSmpy7cHm1g",
         "ZgnQb40aiTU",
+        "d2jty2jNl5o",
         "esuPIJeRotI",
         "fnLXErf-plM",
+        "heT6eGFEieY",
+        "hllhkLGWA34",
         "iBVMutY4Ot0",
         "iuQ_Y-qSz78",
         "m9aBfbXMnZY",
+        "mAyZZc_DjSE",
         "mXlMAkHhgYs",
+        "mndpFJXksRs",
         "obIeqXJH3d4",
         "pSQE1SsGfSQ",
-        "rF8VXVn46co"
+        "pXFSLdNL13M",
+        "qb90PPbAWz4",
+        "rF8VXVn46co",
+        "x63i1INJ9Tc",
+        "xnG6OidGGek"
       ],
       "clusters": [
         "1-flash-lite__automate__gemini",
+        "2-weeks__claude",
+        "aionui__claude__openclaw",
+        "antigravity",
+        "automate__chatgpt__gemini",
+        "automate__claude",
         "automate__claude__perplexity-computer",
+        "buying-assets__stop-buying-things",
+        "chatgpt",
+        "chatgpt__claude",
+        "chatgpt__healer-alpha",
         "claude",
+        "claude__copilot-cowork",
         "claude__design-now",
         "devin-2",
+        "duclaw__openclaw",
         "everything__notebooklm",
         "gemini",
         "gemini__web-design",
+        "gemini__workspace",
         "gpt-5__openclaw",
+        "krea",
         "nano-banana-2__notebooklm",
+        "nemotron-3-super__nvidia",
+        "notebooklm",
+        "openai-codex__stitch",
         "openai-model",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-computer",
+        "openclaw__perplexity-personal",
         "openclaw__single-agents",
         "openclaw__skills",
         "perplexity-computer",
+        "perplexity-personal-computer",
+        "pomelli",
         "the"
       ],
-      "count": 19
+      "count": 51
     },
     "mcp": {
       "videoIds": [
@@ -2162,11 +4513,13 @@
         "KOOBrzuGlcM",
         "Oz-fXptuhdA",
         "RyxeYZ7TW3o",
+        "TZUTe7s11-I",
         "Wxf9oqxODU0",
         "cNf7uVff11Y",
         "s2HalzQZ1MQ"
       ],
       "clusters": [
+        "000-websites__claude__nano-banana-2",
         "5-hours__automate__openclaw",
         "claude",
         "claude__course__employees",
@@ -2176,7 +4529,16 @@
         "openai__symphony",
         "saas"
       ],
-      "count": 10
+      "count": 11
+    },
+    "memory": {
+      "videoIds": [
+        "pGaOe7M6KyQ"
+      ],
+      "clusters": [
+        "lossless-claw__memory__openclaw"
+      ],
+      "count": 1
     },
     "model": {
       "videoIds": [
@@ -2191,108 +4553,246 @@
     },
     "nano-banana-2": {
       "videoIds": [
+        "1FaO6fQm93Q",
+        "4Airc23mCFE",
         "99EoVMtEA2A",
         "ISb0nrlNoKQ",
         "KAX0cWk1fJE",
         "OV5eK91YY68",
         "Oz-fXptuhdA",
+        "TZUTe7s11-I",
         "Wxf9oqxODU0",
+        "kFRRb5dwtoU",
+        "mAyZZc_DjSE",
         "mXlMAkHhgYs",
         "obIeqXJH3d4"
       ],
       "clusters": [
+        "000-websites__claude__nano-banana-2",
         "5-hours__automate__openclaw",
+        "buying-assets__stop-buying-things",
         "claude__design-now",
         "claude__skills-2__unstoppable",
+        "gemini",
         "gemini__web-design",
+        "healer-alpha__hunter-alpha__openclaw",
         "nano-banana-2__notebooklm",
         "openclaw",
         "openclaw__specialized-agents"
       ],
-      "count": 8
+      "count": 13
+    },
+    "nemoclaw-destroys": {
+      "videoIds": [
+        "_U_15eZXFFE"
+      ],
+      "clusters": [
+        "nemoclaw-destroys__openclaw"
+      ],
+      "count": 1
+    },
+    "nemotron-3-super": {
+      "videoIds": [
+        "SQEW0-X1cQw"
+      ],
+      "clusters": [
+        "nemotron-3-super__nvidia"
+      ],
+      "count": 1
     },
     "notebooklm": {
       "videoIds": [
+        "4Airc23mCFE",
         "99EoVMtEA2A",
+        "LiwfV_8iN0E",
         "Oz-fXptuhdA",
+        "STjO0AYbetA",
         "UzLMmFtnRMQ",
         "ZgnQb40aiTU",
         "iNNLfHMDCfk",
+        "jece_dDk-0w",
+        "m7butSSUOrQ",
         "obIeqXJH3d4"
       ],
       "clusters": [
         "5-hours__automate__openclaw",
         "chatgpt__notebooklm",
+        "claude__gemini__rag",
         "everything__notebooklm",
         "gemini",
-        "nano-banana-2__notebooklm"
+        "nano-banana-2__notebooklm",
+        "notebooklm",
+        "notebooklm__openclaw"
       ],
-      "count": 6
+      "count": 11
+    },
+    "nvidia": {
+      "videoIds": [
+        "SQEW0-X1cQw"
+      ],
+      "clusters": [
+        "nemotron-3-super__nvidia"
+      ],
+      "count": 1
+    },
+    "nvidia-nemotron-3": {
+      "videoIds": [
+        "86-6tbVN_SY"
+      ],
+      "clusters": [
+        "nvidia-nemotron-3__openclaw"
+      ],
+      "count": 1
+    },
+    "ollama": {
+      "videoIds": [
+        "bBAdKvCnaq0"
+      ],
+      "clusters": [
+        "kimi-k2__ollama__openclaw"
+      ],
+      "count": 1
     },
     "onboarding-training": {
       "videoIds": [
+        "1FaO6fQm93Q",
+        "1LU_AHdrfNU",
+        "3o4YglxpcXE",
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
         "5dy2ahf_EKQ",
         "5lLC0o_D_Io",
+        "70P1xXDCaNQ",
         "7JdUDyidwpg",
         "98bGqof0dUI",
         "9T1yWEq5kP0",
+        "9kjntAZ_L0M",
         "9lbwgk29Db4",
         "Aq21uBOl9qE",
         "C4fTWiOGXpM",
+        "C6ZTvzdTwrE",
+        "CEPBP_Rw080",
+        "FVATW3KidnQ",
         "Fv-FxekmfTQ",
+        "HIg16LDTY7s",
+        "HL1L6urjD7o",
+        "J_RNzdX1yiQ",
         "JmFkYj3__xc",
+        "JwVJo5kMsUk",
         "KOOBrzuGlcM",
+        "KPejjQQ5Bzg",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
+        "L-CanI8zDWI",
+        "LiwfV_8iN0E",
+        "NB8cpybCL5Q",
+        "NU6SO-N1mNM",
         "NY22ChmcHvg",
         "NiTOlYmthNg",
+        "NtpPIFj7HD0",
+        "OGBEYTWjPZU",
         "Oz-fXptuhdA",
         "P2LIFtrRr2U",
+        "QhgV435R_Ro",
         "RyxeYZ7TW3o",
         "S-HveAU5l7c",
+        "SoQAIsrYkRA",
+        "T3jDa19gpXw",
         "UzLMmFtnRMQ",
         "VBEvVu5EI0c",
         "Wxf9oqxODU0",
+        "XSmpy7cHm1g",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
+        "_U_15eZXFFE",
+        "_s7tHRZUmdM",
+        "bBAdKvCnaq0",
+        "d2jty2jNl5o",
+        "eaEwIIKEKPw",
         "esuPIJeRotI",
         "f8LJBh1AtKg",
         "fnLXErf-plM",
+        "hT0bbzksQyI",
+        "heT6eGFEieY",
+        "hllhkLGWA34",
         "iBVMutY4Ot0",
         "iNNLfHMDCfk",
+        "jece_dDk-0w",
+        "kFRRb5dwtoU",
+        "kQqR8BOg4Lo",
+        "m7butSSUOrQ",
+        "mndpFJXksRs",
         "obIeqXJH3d4",
         "pSQE1SsGfSQ",
+        "pXFSLdNL13M",
+        "ptqHcTAwmlk",
+        "qordBmosybg",
+        "r6L6YXe1zRg",
         "rF8VXVn46co",
-        "xAw3IZgX7Tc"
+        "rlLbv0PgYsY",
+        "tn1DH1Ul1HA",
+        "x63i1INJ9Tc",
+        "xAw3IZgX7Tc",
+        "xBBPojYcTEI",
+        "xnG6OidGGek"
       ],
       "clusters": [
         "1-flash-lite__automate__gemini",
         "5-hours__automate__openclaw",
+        "agent__jules",
         "agents__openclaw",
+        "antigravity",
         "antigravity__openclaw",
+        "automate__browser-agent__openclaw",
+        "automate__chatgpt__gemini",
         "automate__claude__perplexity-computer",
+        "chatgpt",
+        "chatgpt__claude",
+        "chatgpt__healer-alpha",
         "chatgpt__notebooklm",
+        "chatgpt__upgrades",
         "chinese__model",
         "claude",
+        "claude__copilot-cowork",
+        "claude__github-cli__perplexity-computer",
+        "claude__perplexity-computer",
         "claude__skills-2__unstoppable",
+        "clawswarm-destroys__openclaw",
         "devin-2",
+        "duclaw__openclaw",
         "everything__notebooklm",
         "gemini",
         "gemini__gpt-5__openclaw",
+        "gemini__openclaw",
+        "gemini__workspace",
+        "gemma",
+        "genclaw-destroys__openclaw",
         "gpt-5__openclaw",
+        "healer-alpha__hunter-alpha__openclaw",
         "hermes-agent__openclaw",
+        "kimi-k2__ollama__openclaw",
+        "krea",
         "layers-explained__openclaw__the-3-memory",
         "model",
         "nano-banana-2__notebooklm",
+        "nemoclaw-destroys__openclaw",
+        "notebooklm",
+        "notebooklm__openclaw",
+        "openai-codex__stitch",
         "openai-model",
         "openai__symphony",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-computer",
         "openclaw__single-agents",
         "openclaw__star-office",
+        "openclaw__upgrade",
         "perplexity-computer",
+        "perplexity-personal-computer",
+        "pomelli",
         "saas"
       ],
-      "count": 33
+      "count": 80
     },
     "openai": {
       "videoIds": [
@@ -2305,12 +4805,14 @@
     },
     "openai-codex": {
       "videoIds": [
+        "d2jty2jNl5o",
         "jyVRbD6fqic"
       ],
       "clusters": [
-        "openai-codex"
+        "openai-codex",
+        "openai-codex__stitch"
       ],
-      "count": 1
+      "count": 2
     },
     "openai-model": {
       "videoIds": [
@@ -2324,20 +4826,38 @@
     "openclaw": {
       "videoIds": [
         "0b8qQx3FaLE",
+        "3o4YglxpcXE",
+        "49_WitY66yM",
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
         "5dy2ahf_EKQ",
         "5lLC0o_D_Io",
+        "6EsmxI37CcM",
+        "70P1xXDCaNQ",
+        "86-6tbVN_SY",
         "95vDW6RKYgQ",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
         "9lbwgk29Db4",
+        "9rQm8AjcY8I",
         "Aq21uBOl9qE",
         "C4fTWiOGXpM",
+        "CEPBP_Rw080",
+        "FVATW3KidnQ",
         "Fv-FxekmfTQ",
+        "HIg16LDTY7s",
+        "HL1L6urjD7o",
         "ISb0nrlNoKQ",
+        "IiOhWxjUY7I",
+        "J_RNzdX1yiQ",
         "JmFkYj3__xc",
         "KAX0cWk1fJE",
+        "KPejjQQ5Bzg",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
+        "L-CanI8zDWI",
+        "LRcIKDRybWk",
+        "NB8cpybCL5Q",
         "NY22ChmcHvg",
         "NiTOlYmthNg",
         "OV5eK91YY68",
@@ -2345,33 +4865,75 @@
         "P2LIFtrRr2U",
         "RyxeYZ7TW3o",
         "S-HveAU5l7c",
+        "SQEW0-X1cQw",
+        "SoQAIsrYkRA",
+        "TiB48jLnHBs",
+        "U9_0ZIaYCzI",
+        "V_otsxw2Sw0",
         "YnzsnqsrqXs",
         "Yt6imPC1FhA",
+        "_U_15eZXFFE",
+        "_s7tHRZUmdM",
+        "bBAdKvCnaq0",
+        "eaEwIIKEKPw",
         "esuPIJeRotI",
-        "f8LJBh1AtKg"
+        "f8LJBh1AtKg",
+        "hT0bbzksQyI",
+        "jece_dDk-0w",
+        "kFRRb5dwtoU",
+        "mndpFJXksRs",
+        "pGaOe7M6KyQ",
+        "ptqHcTAwmlk",
+        "rlLbv0PgYsY",
+        "uHjwDSx4f48"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
+        "2-weeks__claude",
         "5-hours__automate__openclaw",
         "agents__openclaw",
+        "aionui__claude__openclaw",
         "antigravity__openclaw",
+        "automate__browser-agent__openclaw",
+        "automate__claude",
         "automate__claude__perplexity-computer",
         "breakdown__the",
+        "chatgpt__healer-alpha",
         "claude",
         "claude__design-now",
+        "claude__glm__opus-4",
+        "claude__scheduled-tasks",
+        "clawswarm-destroys__openclaw",
+        "duclaw__openclaw",
+        "gemini",
         "gemini__gpt-5__openclaw",
+        "gemini__openclaw",
+        "genclaw-destroys__openclaw",
         "gpt-5__openclaw",
+        "healer-alpha__hunter-alpha__openclaw",
         "hermes-agent__openclaw",
+        "kimi-k2__ollama__openclaw",
         "layers-explained__openclaw__the-3-memory",
+        "lossless-claw__memory__openclaw",
         "nano-banana-2__notebooklm",
+        "nemoclaw-destroys__openclaw",
+        "nemotron-3-super__nvidia",
+        "notebooklm__openclaw",
+        "nvidia-nemotron-3__openclaw",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-computer",
+        "openclaw__perplexity-personal",
         "openclaw__single-agents",
         "openclaw__skills",
         "openclaw__specialized-agents",
         "openclaw__star-office",
+        "openclaw__upgrade",
+        "perplexity-computer",
+        "pomelli",
         "saas"
       ],
-      "count": 26
+      "count": 61
     },
     "operating-systems": {
       "videoIds": [
@@ -2382,132 +4944,335 @@
       ],
       "count": 1
     },
+    "opus-4": {
+      "videoIds": [
+        "V_otsxw2Sw0"
+      ],
+      "clusters": [
+        "claude__glm__opus-4"
+      ],
+      "count": 1
+    },
+    "paperclip": {
+      "videoIds": [
+        "49_WitY66yM",
+        "mndpFJXksRs"
+      ],
+      "clusters": [
+        "openclaw__paperclip"
+      ],
+      "count": 2
+    },
     "perplexity-computer": {
       "videoIds": [
+        "3o4YglxpcXE",
         "Aq21uBOl9qE",
-        "iBVMutY4Ot0"
+        "HIg16LDTY7s",
+        "iBVMutY4Ot0",
+        "tn1DH1Ul1HA",
+        "xBBPojYcTEI"
       ],
       "clusters": [
         "automate__claude__perplexity-computer",
+        "claude__github-cli__perplexity-computer",
+        "claude__perplexity-computer",
+        "openclaw__perplexity-computer",
         "perplexity-computer"
+      ],
+      "count": 6
+    },
+    "perplexity-personal": {
+      "videoIds": [
+        "U9_0ZIaYCzI"
+      ],
+      "clusters": [
+        "openclaw__perplexity-personal"
+      ],
+      "count": 1
+    },
+    "perplexity-personal-computer": {
+      "videoIds": [
+        "XSmpy7cHm1g"
+      ],
+      "clusters": [
+        "perplexity-personal-computer"
+      ],
+      "count": 1
+    },
+    "pomelli": {
+      "videoIds": [
+        "L-CanI8zDWI",
+        "OGBEYTWjPZU"
+      ],
+      "clusters": [
+        "pomelli"
       ],
       "count": 2
     },
     "proactive-assistant": {
       "videoIds": [
+        "70P1xXDCaNQ",
+        "86-6tbVN_SY",
         "95vDW6RKYgQ",
         "9T1yWEq5kP0",
         "C4fTWiOGXpM",
+        "CEPBP_Rw080",
+        "FVATW3KidnQ",
+        "HIg16LDTY7s",
+        "IiOhWxjUY7I",
         "JmFkYj3__xc",
-        "NY22ChmcHvg"
+        "NY22ChmcHvg",
+        "TiB48jLnHBs",
+        "U9_0ZIaYCzI",
+        "XSmpy7cHm1g",
+        "qb90PPbAWz4"
       ],
       "clusters": [
+        "aionui__claude__openclaw",
         "antigravity__openclaw",
+        "chatgpt__healer-alpha",
+        "claude",
+        "claude__scheduled-tasks",
+        "clawswarm-destroys__openclaw",
         "gemini__gpt-5__openclaw",
+        "genclaw-destroys__openclaw",
+        "nvidia-nemotron-3__openclaw",
         "openclaw",
+        "openclaw__perplexity-computer",
+        "openclaw__perplexity-personal",
         "openclaw__skills",
+        "perplexity-personal-computer",
         "saas"
       ],
-      "count": 5
+      "count": 15
     },
     "product-opportunity": {
       "videoIds": [
         "0b8qQx3FaLE",
+        "58pd7zSQCtY",
+        "70P1xXDCaNQ",
         "82qAMBBk2kc",
         "98bGqof0dUI",
+        "9kjntAZ_L0M",
+        "9rQm8AjcY8I",
         "C4fTWiOGXpM",
+        "CEPBP_Rw080",
+        "CKRglRCeVDM",
         "DSKO9ZtbHFA",
         "Fv-FxekmfTQ",
         "ISb0nrlNoKQ",
+        "JwVJo5kMsUk",
         "KeAy_Va2Wrc",
+        "LRcIKDRybWk",
         "N0NceZbY2_4",
         "NiTOlYmthNg",
+        "OGBEYTWjPZU",
         "P2LIFtrRr2U",
+        "QhgV435R_Ro",
+        "STjO0AYbetA",
+        "T3jDa19gpXw",
+        "TZUTe7s11-I",
         "ZgnQb40aiTU",
+        "_s7tHRZUmdM",
         "cNf7uVff11Y",
         "esuPIJeRotI",
         "f8LJBh1AtKg",
         "fnLXErf-plM",
+        "hT0bbzksQyI",
+        "hllhkLGWA34",
         "iuQ_Y-qSz78",
         "jyVRbD6fqic",
         "m9aBfbXMnZY",
+        "mAyZZc_DjSE",
+        "pGaOe7M6KyQ",
         "pSQE1SsGfSQ",
+        "ptqHcTAwmlk",
+        "qb90PPbAWz4",
         "s2HalzQZ1MQ",
-        "wX_neSx7-Ls"
+        "uHjwDSx4f48",
+        "wX_neSx7-Ls",
+        "xBBPojYcTEI",
+        "xnG6OidGGek"
       ],
       "clusters": [
+        "000-websites__claude__nano-banana-2",
+        "2-weeks__claude",
         "antigravity__openclaw",
+        "automate__claude",
         "breakdown__the",
+        "buying-assets__stop-buying-things",
+        "chatgpt",
+        "chatgpt__claude",
         "claude",
+        "claude__copilot-cowork",
         "claude__course__employees",
+        "claude__gemini__rag",
+        "claude__perplexity-computer",
+        "clawswarm-destroys__openclaw",
         "devin-2",
         "every-company__operating-systems__will-need-one",
+        "find-products-that__use-web-scraping",
         "gemini",
+        "gemini__workspace",
+        "genclaw-destroys__openclaw",
         "gpt-5__openclaw",
         "hermes-agent__openclaw",
         "layers-explained__openclaw__the-3-memory",
+        "lossless-claw__memory__openclaw",
         "openai-codex",
         "openclaw",
         "openclaw__single-agents",
         "openclaw__specialized-agents",
+        "pomelli",
         "selling-magnets",
         "the"
       ],
-      "count": 22
+      "count": 45
     },
     "prompt-design": {
       "videoIds": [
         "0b8qQx3FaLE",
+        "1FaO6fQm93Q",
+        "1LU_AHdrfNU",
+        "3o4YglxpcXE",
+        "49_WitY66yM",
+        "4Airc23mCFE",
+        "58pd7zSQCtY",
+        "6EsmxI37CcM",
+        "70P1xXDCaNQ",
+        "86-6tbVN_SY",
         "95vDW6RKYgQ",
+        "9kjntAZ_L0M",
         "9lbwgk29Db4",
         "Aq21uBOl9qE",
         "C4fTWiOGXpM",
+        "C6ZTvzdTwrE",
+        "CKRglRCeVDM",
         "DSKO9ZtbHFA",
+        "FVATW3KidnQ",
         "Fv-FxekmfTQ",
+        "GVrffdY3REE",
+        "HIg16LDTY7s",
         "ISb0nrlNoKQ",
+        "IiOhWxjUY7I",
+        "J_RNzdX1yiQ",
+        "JwVJo5kMsUk",
         "KAX0cWk1fJE",
+        "KPejjQQ5Bzg",
         "KeAy_Va2Wrc",
+        "L-CanI8zDWI",
+        "LRcIKDRybWk",
+        "Lxj-vgEZ8fY",
+        "NU6SO-N1mNM",
         "NY22ChmcHvg",
+        "NtpPIFj7HD0",
+        "OGBEYTWjPZU",
         "OV5eK91YY68",
+        "QhgV435R_Ro",
         "RyxeYZ7TW3o",
+        "SQEW0-X1cQw",
+        "STjO0AYbetA",
+        "SoQAIsrYkRA",
+        "TZUTe7s11-I",
+        "TiB48jLnHBs",
         "UzLMmFtnRMQ",
+        "V_otsxw2Sw0",
         "Wxf9oqxODU0",
+        "XSmpy7cHm1g",
         "Yt6imPC1FhA",
+        "_s7tHRZUmdM",
         "cNf7uVff11Y",
+        "d2jty2jNl5o",
         "esuPIJeRotI",
         "fnLXErf-plM",
+        "hT0bbzksQyI",
+        "heT6eGFEieY",
+        "hllhkLGWA34",
         "iBVMutY4Ot0",
+        "jece_dDk-0w",
+        "kFRRb5dwtoU",
+        "m7butSSUOrQ",
         "mXlMAkHhgYs",
         "obIeqXJH3d4",
+        "pGaOe7M6KyQ",
         "pSQE1SsGfSQ",
+        "pXFSLdNL13M",
+        "ptqHcTAwmlk",
+        "qb90PPbAWz4",
         "rF8VXVn46co",
         "s2HalzQZ1MQ",
-        "xAw3IZgX7Tc"
+        "uHjwDSx4f48",
+        "x63i1INJ9Tc",
+        "xAw3IZgX7Tc",
+        "xBBPojYcTEI",
+        "xnG6OidGGek"
       ],
       "clusters": [
         "000-hours__editing-tutorials__openclaw",
+        "000-websites__claude__nano-banana-2",
         "1-flash-lite__automate__gemini",
+        "agent",
+        "aionui__claude__openclaw",
+        "antigravity",
         "antigravity__openclaw",
+        "automate__browser-agent__openclaw",
+        "automate__chatgpt__gemini",
+        "automate__claude",
         "automate__claude__perplexity-computer",
         "breakdown__the",
+        "chatgpt",
+        "chatgpt__claude",
+        "chatgpt__healer-alpha",
+        "chatgpt__notebooklm",
+        "chatgpt__upgrades",
+        "chatgpt__visuals",
         "claude",
+        "claude__copilot-cowork",
         "claude__course__employees",
         "claude__design-now",
+        "claude__gemini__rag",
+        "claude__glm__opus-4",
+        "claude__perplexity-computer",
+        "claude__scheduled-tasks",
         "claude__skills-2__unstoppable",
         "devin-2",
         "everything__notebooklm",
+        "find-products-that__use-web-scraping",
+        "gemini",
         "gemini__gpt-5__openclaw",
         "gemini__web-design",
+        "gemini__workspace",
+        "genclaw-destroys__openclaw",
         "gpt-5__openclaw",
+        "healer-alpha__hunter-alpha__openclaw",
+        "krea",
+        "lossless-claw__memory__openclaw",
         "model",
         "nano-banana-2__notebooklm",
+        "nemotron-3-super__nvidia",
+        "notebooklm__openclaw",
+        "nvidia-nemotron-3__openclaw",
+        "openai-codex__stitch",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-computer",
         "openclaw__single-agents",
         "openclaw__skills",
         "openclaw__specialized-agents",
-        "perplexity-computer"
+        "perplexity-computer",
+        "perplexity-personal-computer",
+        "pomelli"
       ],
-      "count": 26
+      "count": 75
+    },
+    "rag": {
+      "videoIds": [
+        "STjO0AYbetA"
+      ],
+      "clusters": [
+        "claude__gemini__rag"
+      ],
+      "count": 1
     },
     "saas": {
       "videoIds": [
@@ -2520,12 +5285,13 @@
     },
     "scheduled-tasks": {
       "videoIds": [
-        "FXfAnWMxQao"
+        "FXfAnWMxQao",
+        "IiOhWxjUY7I"
       ],
       "clusters": [
         "claude__scheduled-tasks"
       ],
-      "count": 1
+      "count": 2
     },
     "selling-magnets": {
       "videoIds": [
@@ -2538,154 +5304,364 @@
     },
     "seo-content": {
       "videoIds": [
+        "-iaZUdrljN4",
+        "1FaO6fQm93Q",
+        "1LU_AHdrfNU",
+        "3o4YglxpcXE",
+        "49_WitY66yM",
+        "4Airc23mCFE",
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
         "5dy2ahf_EKQ",
         "5lLC0o_D_Io",
         "6-yNr6Hs__Q",
+        "6EsmxI37CcM",
+        "70P1xXDCaNQ",
         "7JdUDyidwpg",
         "82qAMBBk2kc",
+        "86-6tbVN_SY",
         "95vDW6RKYgQ",
         "98bGqof0dUI",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
+        "9kjntAZ_L0M",
         "9lbwgk29Db4",
+        "9rQm8AjcY8I",
         "Aq21uBOl9qE",
+        "C6ZTvzdTwrE",
+        "CEPBP_Rw080",
+        "CKRglRCeVDM",
+        "FVATW3KidnQ",
         "FXfAnWMxQao",
         "Fv-FxekmfTQ",
+        "GVrffdY3REE",
+        "HIg16LDTY7s",
+        "HL1L6urjD7o",
+        "IBktE5O-51U",
         "IWKOcumdMUE",
+        "IiOhWxjUY7I",
+        "J_RNzdX1yiQ",
         "JmFkYj3__xc",
+        "JwVJo5kMsUk",
         "KOOBrzuGlcM",
+        "KPejjQQ5Bzg",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
+        "L-CanI8zDWI",
+        "LRcIKDRybWk",
+        "LiwfV_8iN0E",
+        "Lxj-vgEZ8fY",
+        "NB8cpybCL5Q",
+        "NU6SO-N1mNM",
         "NY22ChmcHvg",
         "NiTOlYmthNg",
+        "NtpPIFj7HD0",
+        "OGBEYTWjPZU",
         "OV5eK91YY68",
         "P2LIFtrRr2U",
+        "QhgV435R_Ro",
         "RyxeYZ7TW3o",
         "S-HveAU5l7c",
+        "SQEW0-X1cQw",
+        "SoQAIsrYkRA",
+        "T3jDa19gpXw",
+        "TZUTe7s11-I",
+        "TiB48jLnHBs",
+        "U9_0ZIaYCzI",
         "UzLMmFtnRMQ",
         "VBEvVu5EI0c",
+        "V_otsxw2Sw0",
         "Wxf9oqxODU0",
+        "XSmpy7cHm1g",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
+        "_U_15eZXFFE",
+        "_s7tHRZUmdM",
+        "bBAdKvCnaq0",
         "cZThTdL4YJQ",
+        "d2jty2jNl5o",
+        "eaEwIIKEKPw",
         "f8LJBh1AtKg",
         "fnLXErf-plM",
+        "hT0bbzksQyI",
+        "heT6eGFEieY",
+        "hllhkLGWA34",
         "iBVMutY4Ot0",
         "iNNLfHMDCfk",
+        "jece_dDk-0w",
         "jyVRbD6fqic",
+        "kFRRb5dwtoU",
+        "kQqR8BOg4Lo",
+        "m7butSSUOrQ",
         "m9aBfbXMnZY",
+        "mndpFJXksRs",
         "obIeqXJH3d4",
+        "pGaOe7M6KyQ",
         "pSQE1SsGfSQ",
+        "pXFSLdNL13M",
+        "ptqHcTAwmlk",
+        "qb90PPbAWz4",
+        "qordBmosybg",
+        "r6L6YXe1zRg",
         "rF8VXVn46co",
+        "rlLbv0PgYsY",
         "s2HalzQZ1MQ",
+        "tn1DH1Ul1HA",
+        "uHjwDSx4f48",
         "wX_neSx7-Ls",
-        "xAw3IZgX7Tc"
+        "x63i1INJ9Tc",
+        "xAw3IZgX7Tc",
+        "xnG6OidGGek"
       ],
       "clusters": [
+        "000-websites__claude__nano-banana-2",
         "1-flash-lite__automate__gemini",
+        "2-weeks__claude",
         "agent",
+        "agent__jules",
         "agents__openclaw",
+        "aionui__claude__openclaw",
+        "antigravity",
+        "automate__browser-agent__openclaw",
+        "automate__chatgpt__gemini",
+        "automate__claude",
         "automate__claude__perplexity-computer",
         "chatgpt",
+        "chatgpt__claude",
+        "chatgpt__healer-alpha",
         "chatgpt__notebooklm",
+        "chatgpt__upgrades",
+        "chatgpt__visuals",
         "chinese__model",
         "claude",
+        "claude__copilot-cowork",
+        "claude__github-cli__perplexity-computer",
+        "claude__glm__opus-4",
         "claude__scheduled-tasks",
         "claude__skills-2__unstoppable",
+        "clawswarm-destroys__openclaw",
+        "deepseek-v4",
         "devin-2",
+        "duclaw__openclaw",
         "every-company__operating-systems__will-need-one",
         "everything__notebooklm",
+        "find-products-that__use-web-scraping",
         "gemini",
         "gemini__gpt-5__openclaw",
+        "gemini__openclaw",
+        "gemini__workspace",
+        "gemma",
+        "genclaw-destroys__openclaw",
         "gpt-5__openclaw",
+        "healer-alpha__hunter-alpha__openclaw",
         "hermes-agent__openclaw",
+        "kimi-k2__ollama__openclaw",
+        "krea",
         "layers-explained__openclaw__the-3-memory",
+        "lossless-claw__memory__openclaw",
         "model",
         "nano-banana-2__notebooklm",
+        "nemoclaw-destroys__openclaw",
+        "nemotron-3-super__nvidia",
+        "notebooklm",
+        "notebooklm__openclaw",
+        "nvidia-nemotron-3__openclaw",
         "openai-codex",
+        "openai-codex__stitch",
         "openai-model",
         "openai__symphony",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-computer",
+        "openclaw__perplexity-personal",
         "openclaw__skills",
         "openclaw__star-office",
+        "openclaw__upgrade",
         "perplexity-computer",
+        "perplexity-personal-computer",
+        "pomelli",
         "saas",
         "smallest-pc__the-world__tiiny-pocket"
       ],
-      "count": 42
+      "count": 108
     },
     "seo-distribution": {
       "videoIds": [
+        "-iaZUdrljN4",
+        "1FaO6fQm93Q",
+        "1LU_AHdrfNU",
+        "3o4YglxpcXE",
+        "49_WitY66yM",
+        "4Airc23mCFE",
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
         "5dy2ahf_EKQ",
         "5lLC0o_D_Io",
         "6-yNr6Hs__Q",
+        "6EsmxI37CcM",
+        "70P1xXDCaNQ",
         "7JdUDyidwpg",
         "82qAMBBk2kc",
+        "86-6tbVN_SY",
         "95vDW6RKYgQ",
         "98bGqof0dUI",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
+        "9kjntAZ_L0M",
         "9lbwgk29Db4",
+        "9rQm8AjcY8I",
         "Aq21uBOl9qE",
+        "C6ZTvzdTwrE",
+        "CEPBP_Rw080",
+        "CKRglRCeVDM",
+        "FVATW3KidnQ",
         "FXfAnWMxQao",
         "Fv-FxekmfTQ",
+        "GVrffdY3REE",
+        "HIg16LDTY7s",
+        "HL1L6urjD7o",
+        "IBktE5O-51U",
         "IWKOcumdMUE",
+        "IiOhWxjUY7I",
+        "J_RNzdX1yiQ",
         "JmFkYj3__xc",
+        "JwVJo5kMsUk",
         "KOOBrzuGlcM",
+        "KPejjQQ5Bzg",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
+        "L-CanI8zDWI",
+        "LRcIKDRybWk",
+        "LiwfV_8iN0E",
+        "Lxj-vgEZ8fY",
+        "NB8cpybCL5Q",
+        "NU6SO-N1mNM",
         "NY22ChmcHvg",
         "NiTOlYmthNg",
+        "NtpPIFj7HD0",
+        "OGBEYTWjPZU",
         "OV5eK91YY68",
         "P2LIFtrRr2U",
+        "QhgV435R_Ro",
         "RyxeYZ7TW3o",
         "S-HveAU5l7c",
+        "SQEW0-X1cQw",
+        "SoQAIsrYkRA",
+        "T3jDa19gpXw",
+        "TZUTe7s11-I",
+        "TiB48jLnHBs",
+        "U9_0ZIaYCzI",
         "VBEvVu5EI0c",
+        "V_otsxw2Sw0",
+        "XSmpy7cHm1g",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
+        "_U_15eZXFFE",
+        "_s7tHRZUmdM",
+        "bBAdKvCnaq0",
         "cZThTdL4YJQ",
+        "d2jty2jNl5o",
+        "eaEwIIKEKPw",
         "f8LJBh1AtKg",
         "fnLXErf-plM",
+        "hT0bbzksQyI",
+        "heT6eGFEieY",
+        "hllhkLGWA34",
         "iBVMutY4Ot0",
         "iNNLfHMDCfk",
+        "jece_dDk-0w",
         "jyVRbD6fqic",
+        "kFRRb5dwtoU",
+        "kQqR8BOg4Lo",
+        "m7butSSUOrQ",
         "m9aBfbXMnZY",
+        "mndpFJXksRs",
+        "pGaOe7M6KyQ",
         "pSQE1SsGfSQ",
+        "pXFSLdNL13M",
+        "ptqHcTAwmlk",
+        "qb90PPbAWz4",
+        "qordBmosybg",
+        "r6L6YXe1zRg",
         "rF8VXVn46co",
+        "rlLbv0PgYsY",
         "s2HalzQZ1MQ",
+        "tn1DH1Ul1HA",
+        "uHjwDSx4f48",
         "wX_neSx7-Ls",
-        "xAw3IZgX7Tc"
+        "x63i1INJ9Tc",
+        "xAw3IZgX7Tc",
+        "xnG6OidGGek"
       ],
       "clusters": [
+        "000-websites__claude__nano-banana-2",
         "1-flash-lite__automate__gemini",
+        "2-weeks__claude",
         "agent",
+        "agent__jules",
         "agents__openclaw",
+        "aionui__claude__openclaw",
+        "antigravity",
+        "automate__browser-agent__openclaw",
+        "automate__chatgpt__gemini",
+        "automate__claude",
         "automate__claude__perplexity-computer",
         "chatgpt",
+        "chatgpt__claude",
+        "chatgpt__healer-alpha",
         "chatgpt__notebooklm",
+        "chatgpt__upgrades",
+        "chatgpt__visuals",
         "chinese__model",
         "claude",
+        "claude__copilot-cowork",
+        "claude__github-cli__perplexity-computer",
+        "claude__glm__opus-4",
         "claude__scheduled-tasks",
+        "clawswarm-destroys__openclaw",
+        "deepseek-v4",
         "devin-2",
+        "duclaw__openclaw",
         "every-company__operating-systems__will-need-one",
+        "find-products-that__use-web-scraping",
         "gemini",
         "gemini__gpt-5__openclaw",
+        "gemini__openclaw",
+        "gemini__workspace",
+        "gemma",
+        "genclaw-destroys__openclaw",
         "gpt-5__openclaw",
+        "healer-alpha__hunter-alpha__openclaw",
         "hermes-agent__openclaw",
+        "kimi-k2__ollama__openclaw",
+        "krea",
         "layers-explained__openclaw__the-3-memory",
+        "lossless-claw__memory__openclaw",
         "model",
         "nano-banana-2__notebooklm",
+        "nemoclaw-destroys__openclaw",
+        "nemotron-3-super__nvidia",
+        "notebooklm",
+        "notebooklm__openclaw",
+        "nvidia-nemotron-3__openclaw",
         "openai-codex",
+        "openai-codex__stitch",
         "openai-model",
         "openai__symphony",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-computer",
+        "openclaw__perplexity-personal",
         "openclaw__skills",
         "openclaw__star-office",
+        "openclaw__upgrade",
         "perplexity-computer",
+        "perplexity-personal-computer",
+        "pomelli",
         "saas",
         "smallest-pc__the-world__tiiny-pocket"
       ],
-      "count": 39
+      "count": 105
     },
     "single-agents": {
       "videoIds": [
@@ -2741,6 +5717,24 @@
       ],
       "count": 1
     },
+    "stitch": {
+      "videoIds": [
+        "d2jty2jNl5o"
+      ],
+      "clusters": [
+        "openai-codex__stitch"
+      ],
+      "count": 1
+    },
+    "stop-buying-things": {
+      "videoIds": [
+        "mAyZZc_DjSE"
+      ],
+      "clusters": [
+        "buying-assets__stop-buying-things"
+      ],
+      "count": 1
+    },
     "symphony": {
       "videoIds": [
         "KOOBrzuGlcM"
@@ -2754,22 +5748,36 @@
       "videoIds": [
         "5dy2ahf_EKQ",
         "6-yNr6Hs__Q",
+        "6EsmxI37CcM",
+        "70P1xXDCaNQ",
         "9lbwgk29Db4",
         "ISb0nrlNoKQ",
+        "J_RNzdX1yiQ",
         "JmFkYj3__xc",
+        "KPejjQQ5Bzg",
         "OV5eK91YY68",
         "Oz-fXptuhdA",
-        "P2LIFtrRr2U"
+        "P2LIFtrRr2U",
+        "eaEwIIKEKPw",
+        "jece_dDk-0w",
+        "mndpFJXksRs",
+        "pGaOe7M6KyQ",
+        "ptqHcTAwmlk"
       ],
       "clusters": [
         "5-hours__automate__openclaw",
+        "automate__browser-agent__openclaw",
         "gemini__gpt-5__openclaw",
+        "genclaw-destroys__openclaw",
         "hermes-agent__openclaw",
+        "lossless-claw__memory__openclaw",
+        "notebooklm__openclaw",
         "openclaw",
+        "openclaw__paperclip",
         "openclaw__specialized-agents",
         "smallest-pc__the-world__tiiny-pocket"
       ],
-      "count": 8
+      "count": 17
     },
     "the": {
       "videoIds": [
@@ -2820,6 +5828,42 @@
       ],
       "count": 2
     },
+    "upgrade": {
+      "videoIds": [
+        "HL1L6urjD7o"
+      ],
+      "clusters": [
+        "openclaw__upgrade"
+      ],
+      "count": 1
+    },
+    "upgrades": {
+      "videoIds": [
+        "NU6SO-N1mNM"
+      ],
+      "clusters": [
+        "chatgpt__upgrades"
+      ],
+      "count": 1
+    },
+    "use-web-scraping": {
+      "videoIds": [
+        "CKRglRCeVDM"
+      ],
+      "clusters": [
+        "find-products-that__use-web-scraping"
+      ],
+      "count": 1
+    },
+    "visuals": {
+      "videoIds": [
+        "Lxj-vgEZ8fY"
+      ],
+      "clusters": [
+        "chatgpt__visuals"
+      ],
+      "count": 1
+    },
     "web-design": {
       "videoIds": [
         "mXlMAkHhgYs"
@@ -2841,97 +5885,218 @@
     "workflow-automation": {
       "videoIds": [
         "-hYE5U6FGk8",
+        "-iaZUdrljN4",
         "0b8qQx3FaLE",
+        "1FaO6fQm93Q",
+        "1LU_AHdrfNU",
+        "3o4YglxpcXE",
+        "49_WitY66yM",
+        "4Airc23mCFE",
+        "58T9kb3OFJs",
+        "58pd7zSQCtY",
         "5dy2ahf_EKQ",
         "5lLC0o_D_Io",
         "6-yNr6Hs__Q",
+        "6EsmxI37CcM",
+        "70P1xXDCaNQ",
         "7JdUDyidwpg",
         "82qAMBBk2kc",
+        "86-6tbVN_SY",
         "95vDW6RKYgQ",
         "98bGqof0dUI",
         "99EoVMtEA2A",
         "9T1yWEq5kP0",
+        "9kjntAZ_L0M",
         "9lbwgk29Db4",
+        "9rQm8AjcY8I",
         "Aq21uBOl9qE",
         "C4fTWiOGXpM",
+        "C6ZTvzdTwrE",
+        "CEPBP_Rw080",
+        "CKRglRCeVDM",
         "DSKO9ZtbHFA",
+        "FVATW3KidnQ",
         "FXfAnWMxQao",
         "Fv-FxekmfTQ",
+        "GVrffdY3REE",
+        "HIg16LDTY7s",
+        "HL1L6urjD7o",
+        "IBktE5O-51U",
         "ISb0nrlNoKQ",
         "IWKOcumdMUE",
+        "IiOhWxjUY7I",
+        "J_RNzdX1yiQ",
         "JmFkYj3__xc",
+        "JwVJo5kMsUk",
         "KAX0cWk1fJE",
         "KOOBrzuGlcM",
+        "KPejjQQ5Bzg",
         "KeAy_Va2Wrc",
         "KyXUJnYjjAo",
+        "L-CanI8zDWI",
+        "LRcIKDRybWk",
+        "LiwfV_8iN0E",
+        "Lxj-vgEZ8fY",
+        "NB8cpybCL5Q",
+        "NU6SO-N1mNM",
         "NY22ChmcHvg",
         "NiTOlYmthNg",
+        "NtpPIFj7HD0",
+        "OGBEYTWjPZU",
         "OV5eK91YY68",
         "Oz-fXptuhdA",
         "P2LIFtrRr2U",
+        "QhgV435R_Ro",
         "RyxeYZ7TW3o",
         "S-HveAU5l7c",
+        "SQEW0-X1cQw",
+        "STjO0AYbetA",
+        "SoQAIsrYkRA",
+        "T3jDa19gpXw",
+        "TZUTe7s11-I",
+        "TiB48jLnHBs",
+        "U9_0ZIaYCzI",
         "UzLMmFtnRMQ",
         "VBEvVu5EI0c",
+        "V_otsxw2Sw0",
         "Wxf9oqxODU0",
+        "XSmpy7cHm1g",
         "YnzsnqsrqXs",
         "ZgnQb40aiTU",
+        "_U_15eZXFFE",
+        "_s7tHRZUmdM",
+        "bBAdKvCnaq0",
         "cNf7uVff11Y",
+        "d2jty2jNl5o",
+        "eaEwIIKEKPw",
         "esuPIJeRotI",
         "f8LJBh1AtKg",
         "fnLXErf-plM",
+        "hT0bbzksQyI",
+        "heT6eGFEieY",
+        "hllhkLGWA34",
         "iBVMutY4Ot0",
         "iNNLfHMDCfk",
+        "jece_dDk-0w",
         "jyVRbD6fqic",
+        "kFRRb5dwtoU",
+        "kQqR8BOg4Lo",
+        "m7butSSUOrQ",
         "m9aBfbXMnZY",
+        "mAyZZc_DjSE",
         "mXlMAkHhgYs",
+        "mndpFJXksRs",
         "obIeqXJH3d4",
+        "pGaOe7M6KyQ",
         "pSQE1SsGfSQ",
+        "pXFSLdNL13M",
+        "ptqHcTAwmlk",
+        "qb90PPbAWz4",
+        "qordBmosybg",
+        "r6L6YXe1zRg",
         "rF8VXVn46co",
+        "rlLbv0PgYsY",
         "s2HalzQZ1MQ",
+        "tn1DH1Ul1HA",
+        "uHjwDSx4f48",
         "wX_neSx7-Ls",
-        "xAw3IZgX7Tc"
+        "x63i1INJ9Tc",
+        "xAw3IZgX7Tc",
+        "xBBPojYcTEI",
+        "xnG6OidGGek"
       ],
       "clusters": [
+        "000-websites__claude__nano-banana-2",
         "1-flash-lite__automate__gemini",
+        "2-weeks__claude",
         "5-hours__automate__openclaw",
+        "agent",
+        "agent__jules",
         "agents__openclaw",
+        "aionui__claude__openclaw",
+        "antigravity",
         "antigravity__gravityclaw__unstoppable",
         "antigravity__openclaw",
+        "automate__browser-agent__openclaw",
+        "automate__chatgpt__gemini",
+        "automate__claude",
         "automate__claude__perplexity-computer",
         "breakdown__the",
+        "buying-assets__stop-buying-things",
         "chatgpt",
+        "chatgpt__claude",
+        "chatgpt__healer-alpha",
         "chatgpt__notebooklm",
+        "chatgpt__upgrades",
+        "chatgpt__visuals",
         "chinese__model",
         "claude",
+        "claude__copilot-cowork",
         "claude__course__employees",
         "claude__design-now",
+        "claude__gemini__rag",
+        "claude__github-cli__perplexity-computer",
+        "claude__glm__opus-4",
+        "claude__perplexity-computer",
         "claude__scheduled-tasks",
         "claude__skills-2__unstoppable",
+        "clawswarm-destroys__openclaw",
+        "deepseek-v4",
         "devin-2",
+        "duclaw__openclaw",
         "every-company__operating-systems__will-need-one",
         "everything__notebooklm",
+        "find-products-that__use-web-scraping",
         "gemini",
         "gemini__gpt-5__openclaw",
+        "gemini__openclaw",
         "gemini__web-design",
+        "gemini__workspace",
+        "gemma",
+        "genclaw-destroys__openclaw",
         "gpt-5__openclaw",
+        "healer-alpha__hunter-alpha__openclaw",
         "hermes-agent__openclaw",
+        "kimi-k2__ollama__openclaw",
+        "krea",
         "layers-explained__openclaw__the-3-memory",
+        "lossless-claw__memory__openclaw",
         "model",
         "nano-banana-2__notebooklm",
+        "nemoclaw-destroys__openclaw",
+        "nemotron-3-super__nvidia",
+        "notebooklm",
+        "notebooklm__openclaw",
+        "nvidia-nemotron-3__openclaw",
         "openai-codex",
+        "openai-codex__stitch",
         "openai-model",
         "openai__symphony",
         "openclaw",
+        "openclaw__paperclip",
+        "openclaw__perplexity-computer",
+        "openclaw__perplexity-personal",
         "openclaw__single-agents",
         "openclaw__skills",
         "openclaw__specialized-agents",
         "openclaw__star-office",
+        "openclaw__upgrade",
         "perplexity-computer",
+        "perplexity-personal-computer",
+        "pomelli",
         "saas",
         "smallest-pc__the-world__tiiny-pocket"
       ],
-      "count": 51
+      "count": 120
+    },
+    "workspace": {
+      "videoIds": [
+        "QhgV435R_Ro"
+      ],
+      "clusters": [
+        "gemini__workspace"
+      ],
+      "count": 1
     }
   }
 }

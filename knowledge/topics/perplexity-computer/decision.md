@@ -1,12 +1,12 @@
-# Decision - perplexity computer och claude
+# Decision - perplexity computer och openclaw
 
 - Action: project_upgrade
-- Opportunity score: 44
+- Opportunity score: 51
 - Summary: Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 
 ## Recommended next move
-Applicera perplexity computer och claude i Coastworks
+Applicera perplexity computer och openclaw i Coastworks
 
 ## Best project match
-- Coastworks (role: offer, score: 24)
-- Shared signals: seo-content, knowledge-systems, automation och agent-automation
+- Coastworks (role: offer, score: 29)
+- Shared signals: seo-content, openclaw, knowledge-systems, automation och agent-automation

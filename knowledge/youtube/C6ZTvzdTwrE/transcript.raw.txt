@@ -1,0 +1,1928 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:03.429 align:start position:0%
+ 
+New<00:00:00.400><c> Claude</c><00:00:01.120><c> update</c><00:00:01.520><c> is</c><00:00:01.839><c> insane.</c><00:00:02.800><c> Claude</c><00:00:03.280><c> just</c>
+
+00:00:03.429 --> 00:00:03.439 align:start position:0%
+New Claude update is insane. Claude just
+ 
+
+00:00:03.439 --> 00:00:05.349 align:start position:0%
+New Claude update is insane. Claude just
+dropped<00:00:03.760><c> an</c><00:00:04.000><c> update</c><00:00:04.319><c> that</c><00:00:04.560><c> might</c><00:00:04.880><c> change</c>
+
+00:00:05.349 --> 00:00:05.359 align:start position:0%
+dropped an update that might change
+ 
+
+00:00:05.359 --> 00:00:06.950 align:start position:0%
+dropped an update that might change
+office<00:00:05.680><c> work</c><00:00:05.920><c> forever.</c><00:00:06.319><c> Today</c><00:00:06.560><c> I'm</c><00:00:06.720><c> going</c><00:00:06.799><c> to</c>
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+office work forever. Today I'm going to
+ 
+
+00:00:06.960 --> 00:00:08.470 align:start position:0%
+office work forever. Today I'm going to
+show<00:00:07.040><c> you</c><00:00:07.200><c> something</c><00:00:07.440><c> so</c><00:00:07.759><c> simple</c><00:00:08.000><c> it's</c><00:00:08.240><c> almost</c>
+
+00:00:08.470 --> 00:00:08.480 align:start position:0%
+show you something so simple it's almost
+ 
+
+00:00:08.480 --> 00:00:10.709 align:start position:0%
+show you something so simple it's almost
+stupid.<00:00:09.040><c> You</c><00:00:09.280><c> talk</c><00:00:09.440><c> to</c><00:00:09.599><c> Excel,</c><00:00:10.240><c> then</c><00:00:10.400><c> you</c><00:00:10.559><c> talk</c>
+
+00:00:10.709 --> 00:00:10.719 align:start position:0%
+stupid. You talk to Excel, then you talk
+ 
+
+00:00:10.719 --> 00:00:12.549 align:start position:0%
+stupid. You talk to Excel, then you talk
+to<00:00:10.880><c> PowerPoint</c><00:00:11.519><c> and</c><00:00:11.759><c> Claude</c><00:00:12.160><c> remembers</c>
+
+00:00:12.549 --> 00:00:12.559 align:start position:0%
+to PowerPoint and Claude remembers
+ 
+
+00:00:12.559 --> 00:00:15.350 align:start position:0%
+to PowerPoint and Claude remembers
+everything.<00:00:13.200><c> No</c><00:00:13.440><c> copying,</c><00:00:14.160><c> no</c><00:00:14.400><c> pasting,</c><00:00:15.120><c> no</c>
+
+00:00:15.350 --> 00:00:15.360 align:start position:0%
+everything. No copying, no pasting, no
+ 
+
+00:00:15.360 --> 00:00:16.790 align:start position:0%
+everything. No copying, no pasting, no
+repeating<00:00:15.679><c> yourself.</c><00:00:16.080><c> It</c><00:00:16.240><c> just</c><00:00:16.400><c> works.</c><00:00:16.640><c> This</c>
+
+00:00:16.790 --> 00:00:16.800 align:start position:0%
+repeating yourself. It just works. This
+ 
+
+00:00:16.800 --> 00:00:18.470 align:start position:0%
+repeating yourself. It just works. This
+is<00:00:16.960><c> brand</c><00:00:17.119><c> new.</c><00:00:17.440><c> And</c><00:00:17.600><c> honestly,</c><00:00:18.000><c> it's</c><00:00:18.240><c> kind</c><00:00:18.400><c> of</c>
+
+00:00:18.470 --> 00:00:18.480 align:start position:0%
+is brand new. And honestly, it's kind of
+ 
+
+00:00:18.480 --> 00:00:20.790 align:start position:0%
+is brand new. And honestly, it's kind of
+scary<00:00:18.800><c> how</c><00:00:19.119><c> easy</c><00:00:19.279><c> it</c><00:00:19.520><c> is.</c><00:00:20.080><c> Let</c><00:00:20.240><c> me</c><00:00:20.400><c> show</c><00:00:20.560><c> you</c>
+
+00:00:20.790 --> 00:00:20.800 align:start position:0%
+scary how easy it is. Let me show you
+ 
+
+00:00:20.800 --> 00:00:22.870 align:start position:0%
+scary how easy it is. Let me show you
+exactly<00:00:21.119><c> how</c><00:00:21.359><c> it</c><00:00:21.600><c> works</c><00:00:21.920><c> right</c><00:00:22.160><c> now.</c><00:00:22.480><c> So,</c>
+
+00:00:22.870 --> 00:00:22.880 align:start position:0%
+exactly how it works right now. So,
+ 
+
+00:00:22.880 --> 00:00:24.550 align:start position:0%
+exactly how it works right now. So,
+here's<00:00:23.199><c> the</c><00:00:23.359><c> problem.</c><00:00:23.920><c> You</c><00:00:24.080><c> know</c><00:00:24.160><c> how</c><00:00:24.400><c> it</c>
+
+00:00:24.550 --> 00:00:24.560 align:start position:0%
+here's the problem. You know how it
+ 
+
+00:00:24.560 --> 00:00:25.830 align:start position:0%
+here's the problem. You know how it
+normally<00:00:24.880><c> goes.</c><00:00:25.199><c> You</c><00:00:25.359><c> open</c><00:00:25.519><c> up</c><00:00:25.680><c> a</c>
+
+00:00:25.830 --> 00:00:25.840 align:start position:0%
+normally goes. You open up a
+ 
+
+00:00:25.840 --> 00:00:27.589 align:start position:0%
+normally goes. You open up a
+spreadsheet.<00:00:26.400><c> You</c><00:00:26.560><c> got</c><00:00:26.720><c> data</c><00:00:27.119><c> everywhere.</c>
+
+00:00:27.589 --> 00:00:27.599 align:start position:0%
+spreadsheet. You got data everywhere.
+ 
+
+00:00:27.599 --> 00:00:28.950 align:start position:0%
+spreadsheet. You got data everywhere.
+You<00:00:27.760><c> need</c><00:00:27.920><c> to</c><00:00:28.000><c> pull</c><00:00:28.240><c> out</c><00:00:28.400><c> the</c><00:00:28.560><c> important</c>
+
+00:00:28.950 --> 00:00:28.960 align:start position:0%
+You need to pull out the important
+ 
+
+00:00:28.960 --> 00:00:30.710 align:start position:0%
+You need to pull out the important
+stuff.<00:00:29.439><c> Then</c><00:00:29.599><c> you</c><00:00:29.760><c> got</c><00:00:29.840><c> to</c><00:00:30.000><c> open</c><00:00:30.240><c> PowerPoint</c>
+
+00:00:30.710 --> 00:00:30.720 align:start position:0%
+stuff. Then you got to open PowerPoint
+ 
+
+00:00:30.720 --> 00:00:32.229 align:start position:0%
+stuff. Then you got to open PowerPoint
+and<00:00:30.880><c> now</c><00:00:31.039><c> you're</c><00:00:31.199><c> copying</c><00:00:31.599><c> numbers,</c><00:00:31.920><c> pasting</c>
+
+00:00:32.229 --> 00:00:32.239 align:start position:0%
+and now you're copying numbers, pasting
+ 
+
+00:00:32.239 --> 00:00:33.750 align:start position:0%
+and now you're copying numbers, pasting
+charts,<00:00:32.640><c> reformatting</c><00:00:33.280><c> everything.</c><00:00:33.600><c> It</c>
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+charts, reformatting everything. It
+ 
+
+00:00:33.760 --> 00:00:35.350 align:start position:0%
+charts, reformatting everything. It
+takes<00:00:33.920><c> forever</c><00:00:34.399><c> and</c><00:00:34.640><c> half</c><00:00:34.800><c> the</c><00:00:35.040><c> time</c><00:00:35.120><c> the</c>
+
+00:00:35.350 --> 00:00:35.360 align:start position:0%
+takes forever and half the time the
+ 
+
+00:00:35.360 --> 00:00:37.190 align:start position:0%
+takes forever and half the time the
+formatting<00:00:35.840><c> breaks</c><00:00:36.160><c> anyway.</c><00:00:36.719><c> That's</c><00:00:36.960><c> how</c>
+
+00:00:37.190 --> 00:00:37.200 align:start position:0%
+formatting breaks anyway. That's how
+ 
+
+00:00:37.200 --> 00:00:39.030 align:start position:0%
+formatting breaks anyway. That's how
+most<00:00:37.440><c> people</c><00:00:37.680><c> still</c><00:00:37.920><c> do</c><00:00:38.079><c> it.</c><00:00:38.320><c> Even</c><00:00:38.480><c> with</c><00:00:38.640><c> AI</c>
+
+00:00:39.030 --> 00:00:39.040 align:start position:0%
+most people still do it. Even with AI
+ 
+
+00:00:39.040 --> 00:00:41.830 align:start position:0%
+most people still do it. Even with AI
+tools,<00:00:39.600><c> you</c><00:00:39.760><c> go</c><00:00:39.840><c> to</c><00:00:40.000><c> chat</c><00:00:40.320><c> GPT</c><00:00:40.879><c> or</c><00:00:41.040><c> Claude.</c><00:00:41.680><c> You</c>
+
+00:00:41.830 --> 00:00:41.840 align:start position:0%
+tools, you go to chat GPT or Claude. You
+ 
+
+00:00:41.840 --> 00:00:43.750 align:start position:0%
+tools, you go to chat GPT or Claude. You
+paste<00:00:42.079><c> in</c><00:00:42.320><c> your</c><00:00:42.480><c> data,</c><00:00:43.040><c> you</c><00:00:43.200><c> get</c><00:00:43.280><c> some</c><00:00:43.520><c> answer,</c>
+
+00:00:43.750 --> 00:00:43.760 align:start position:0%
+paste in your data, you get some answer,
+ 
+
+00:00:43.760 --> 00:00:45.670 align:start position:0%
+paste in your data, you get some answer,
+then<00:00:44.000><c> you</c><00:00:44.079><c> got</c><00:00:44.160><c> to</c><00:00:44.320><c> copy</c><00:00:44.559><c> that</c><00:00:44.800><c> answer,</c><00:00:45.440><c> paste</c>
+
+00:00:45.670 --> 00:00:45.680 align:start position:0%
+then you got to copy that answer, paste
+ 
+
+00:00:45.680 --> 00:00:47.270 align:start position:0%
+then you got to copy that answer, paste
+it<00:00:45.840><c> into</c><00:00:46.079><c> your</c><00:00:46.239><c> slides,</c><00:00:46.640><c> explain</c><00:00:47.039><c> everything</c>
+
+00:00:47.270 --> 00:00:47.280 align:start position:0%
+it into your slides, explain everything
+ 
+
+00:00:47.280 --> 00:00:48.709 align:start position:0%
+it into your slides, explain everything
+again.<00:00:47.600><c> It's</c><00:00:47.760><c> like</c><00:00:47.920><c> talking</c><00:00:48.160><c> to</c><00:00:48.320><c> someone</c><00:00:48.480><c> with</c>
+
+00:00:48.709 --> 00:00:48.719 align:start position:0%
+again. It's like talking to someone with
+ 
+
+00:00:48.719 --> 00:00:50.869 align:start position:0%
+again. It's like talking to someone with
+no<00:00:48.879><c> memory.</c><00:00:49.520><c> Every</c><00:00:49.840><c> single</c><00:00:50.079><c> time</c><00:00:50.320><c> you</c><00:00:50.559><c> switch</c>
+
+00:00:50.869 --> 00:00:50.879 align:start position:0%
+no memory. Every single time you switch
+ 
+
+00:00:50.879 --> 00:00:53.430 align:start position:0%
+no memory. Every single time you switch
+apps,<00:00:51.520><c> you</c><00:00:51.760><c> start</c><00:00:51.920><c> from</c><00:00:52.160><c> zero.</c><00:00:52.800><c> And</c><00:00:52.960><c> look,</c><00:00:53.199><c> if</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+apps, you start from zero. And look, if
+ 
+
+00:00:53.440 --> 00:00:54.869 align:start position:0%
+apps, you start from zero. And look, if
+you're<00:00:53.600><c> running</c><00:00:53.760><c> a</c><00:00:54.000><c> business</c><00:00:54.160><c> or</c><00:00:54.480><c> doing</c><00:00:54.640><c> any</c>
+
+00:00:54.869 --> 00:00:54.879 align:start position:0%
+you're running a business or doing any
+ 
+
+00:00:54.879 --> 00:00:57.029 align:start position:0%
+you're running a business or doing any
+kind<00:00:55.039><c> of</c><00:00:55.120><c> reporting,</c><00:00:55.920><c> this</c><00:00:56.079><c> eats</c><00:00:56.399><c> up</c><00:00:56.640><c> hours</c><00:00:56.879><c> of</c>
+
+00:00:57.029 --> 00:00:57.039 align:start position:0%
+kind of reporting, this eats up hours of
+ 
+
+00:00:57.039 --> 00:00:58.790 align:start position:0%
+kind of reporting, this eats up hours of
+your<00:00:57.280><c> week.</c><00:00:57.760><c> hours</c><00:00:58.079><c> you</c><00:00:58.239><c> could</c><00:00:58.399><c> spend</c>
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+your week. hours you could spend
+ 
+
+00:00:58.800 --> 00:01:00.950 align:start position:0%
+your week. hours you could spend
+actually<00:00:59.199><c> growing</c><00:00:59.600><c> your</c><00:00:59.840><c> business,</c><00:01:00.559><c> actually</c>
+
+00:01:00.950 --> 00:01:00.960 align:start position:0%
+actually growing your business, actually
+ 
+
+00:01:00.960 --> 00:01:02.950 align:start position:0%
+actually growing your business, actually
+getting<00:01:01.359><c> clients,</c><00:01:02.079><c> actually</c><00:01:02.480><c> doing</c><00:01:02.719><c> work</c>
+
+00:01:02.950 --> 00:01:02.960 align:start position:0%
+getting clients, actually doing work
+ 
+
+00:01:02.960 --> 00:01:04.710 align:start position:0%
+getting clients, actually doing work
+that<00:01:03.199><c> matters.</c><00:01:03.520><c> Well,</c><00:01:03.760><c> that</c><00:01:03.920><c> just</c><00:01:04.080><c> changed.</c>
+
+00:01:04.710 --> 00:01:04.720 align:start position:0%
+that matters. Well, that just changed.
+ 
+
+00:01:04.720 --> 00:01:06.390 align:start position:0%
+that matters. Well, that just changed.
+Claude<00:01:05.040><c> just</c><00:01:05.280><c> released</c><00:01:05.519><c> an</c><00:01:05.760><c> update</c><00:01:06.000><c> where</c><00:01:06.159><c> it</c>
+
+00:01:06.390 --> 00:01:06.400 align:start position:0%
+Claude just released an update where it
+ 
+
+00:01:06.400 --> 00:01:08.310 align:start position:0%
+Claude just released an update where it
+can<00:01:06.479><c> now</c><00:01:06.720><c> work</c><00:01:06.880><c> inside</c><00:01:07.280><c> Excel</c><00:01:07.680><c> and</c><00:01:07.840><c> PowerPoint</c>
+
+00:01:08.310 --> 00:01:08.320 align:start position:0%
+can now work inside Excel and PowerPoint
+ 
+
+00:01:08.320 --> 00:01:10.070 align:start position:0%
+can now work inside Excel and PowerPoint
+at<00:01:08.479><c> the</c><00:01:08.640><c> same</c><00:01:08.799><c> time.</c><00:01:09.200><c> And</c><00:01:09.360><c> here's</c><00:01:09.600><c> the</c><00:01:09.840><c> crazy</c>
+
+00:01:10.070 --> 00:01:10.080 align:start position:0%
+at the same time. And here's the crazy
+ 
+
+00:01:10.080 --> 00:01:12.630 align:start position:0%
+at the same time. And here's the crazy
+part.<00:01:10.400><c> It</c><00:01:10.640><c> remembers</c><00:01:11.119><c> everything</c><00:01:12.000><c> across</c>
+
+00:01:12.630 --> 00:01:12.640 align:start position:0%
+part. It remembers everything across
+ 
+
+00:01:12.640 --> 00:01:14.710 align:start position:0%
+part. It remembers everything across
+both<00:01:12.960><c> apps.</c><00:01:13.600><c> So,</c><00:01:13.760><c> if</c><00:01:13.920><c> you</c><00:01:14.000><c> ask</c><00:01:14.240><c> Claude</c><00:01:14.560><c> to</c>
+
+00:01:14.710 --> 00:01:14.720 align:start position:0%
+both apps. So, if you ask Claude to
+ 
+
+00:01:14.720 --> 00:01:16.390 align:start position:0%
+both apps. So, if you ask Claude to
+analyze<00:01:15.040><c> your</c><00:01:15.280><c> spreadsheet,</c><00:01:15.760><c> it</c><00:01:15.920><c> does</c><00:01:16.080><c> it.</c>
+
+00:01:16.390 --> 00:01:16.400 align:start position:0%
+analyze your spreadsheet, it does it.
+ 
+
+00:01:16.400 --> 00:01:17.910 align:start position:0%
+analyze your spreadsheet, it does it.
+Then<00:01:16.560><c> you</c><00:01:16.720><c> switch</c><00:01:16.960><c> over</c><00:01:17.119><c> to</c><00:01:17.280><c> PowerPoint</c><00:01:17.759><c> and</c>
+
+00:01:17.910 --> 00:01:17.920 align:start position:0%
+Then you switch over to PowerPoint and
+ 
+
+00:01:17.920 --> 00:01:19.749 align:start position:0%
+Then you switch over to PowerPoint and
+say,<00:01:18.000><c> "Hey,</c><00:01:18.320><c> turn</c><00:01:18.479><c> that</c><00:01:18.640><c> into</c><00:01:18.880><c> slides."</c><00:01:19.600><c> And</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+say, "Hey, turn that into slides." And
+ 
+
+00:01:19.759 --> 00:01:21.109 align:start position:0%
+say, "Hey, turn that into slides." And
+it<00:01:19.920><c> already</c><00:01:20.159><c> knows</c><00:01:20.479><c> what</c><00:01:20.640><c> you're</c><00:01:20.880><c> talking</c>
+
+00:01:21.109 --> 00:01:21.119 align:start position:0%
+it already knows what you're talking
+ 
+
+00:01:21.119 --> 00:01:23.510 align:start position:0%
+it already knows what you're talking
+about.<00:01:21.600><c> No</c><00:01:21.840><c> re-exaining,</c><00:01:22.640><c> no</c><00:01:22.799><c> copying,</c><00:01:23.280><c> no</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+about. No re-exaining, no copying, no
+ 
+
+00:01:23.520 --> 00:01:26.070 align:start position:0%
+about. No re-exaining, no copying, no
+pasting,<00:01:24.080><c> nothing.</c><00:01:24.640><c> They're</c><00:01:24.960><c> calling</c><00:01:25.200><c> it</c>
+
+00:01:26.070 --> 00:01:26.080 align:start position:0%
+pasting, nothing. They're calling it
+ 
+
+00:01:26.080 --> 00:01:28.630 align:start position:0%
+pasting, nothing. They're calling it
+cross<00:01:26.400><c> app</c><00:01:26.720><c> context</c><00:01:27.200><c> sharing</c><00:01:27.920><c> and</c><00:01:28.240><c> it's</c><00:01:28.479><c> a</c>
+
+00:01:28.630 --> 00:01:28.640 align:start position:0%
+cross app context sharing and it's a
+ 
+
+00:01:28.640 --> 00:01:30.390 align:start position:0%
+cross app context sharing and it's a
+game<00:01:28.799><c> changer.</c><00:01:29.520><c> Let</c><00:01:29.680><c> me</c><00:01:29.840><c> walk</c><00:01:30.000><c> you</c><00:01:30.159><c> through</c>
+
+00:01:30.390 --> 00:01:30.400 align:start position:0%
+game changer. Let me walk you through
+ 
+
+00:01:30.400 --> 00:01:32.630 align:start position:0%
+game changer. Let me walk you through
+exactly<00:01:30.799><c> what</c><00:01:30.960><c> this</c><00:01:31.200><c> looks</c><00:01:31.439><c> like.</c><00:01:32.000><c> Step</c><00:01:32.240><c> one,</c>
+
+00:01:32.630 --> 00:01:32.640 align:start position:0%
+exactly what this looks like. Step one,
+ 
+
+00:01:32.640 --> 00:01:34.789 align:start position:0%
+exactly what this looks like. Step one,
+you<00:01:32.880><c> open</c><00:01:33.119><c> up</c><00:01:33.280><c> your</c><00:01:33.520><c> Excel</c><00:01:33.920><c> file.</c><00:01:34.479><c> Let's</c><00:01:34.640><c> say</c>
+
+00:01:34.789 --> 00:01:34.799 align:start position:0%
+you open up your Excel file. Let's say
+ 
+
+00:01:34.799 --> 00:01:36.630 align:start position:0%
+you open up your Excel file. Let's say
+it's<00:01:35.040><c> a</c><00:01:35.200><c> spreadsheet</c><00:01:35.680><c> tracking</c><00:01:36.079><c> your</c><00:01:36.240><c> team's</c>
+
+00:01:36.630 --> 00:01:36.640 align:start position:0%
+it's a spreadsheet tracking your team's
+ 
+
+00:01:36.640 --> 00:01:38.230 align:start position:0%
+it's a spreadsheet tracking your team's
+performance.<00:01:37.119><c> You</c><00:01:37.280><c> type</c><00:01:37.439><c> in</c><00:01:37.680><c> something</c><00:01:37.920><c> like</c>
+
+00:01:38.230 --> 00:01:38.240 align:start position:0%
+performance. You type in something like
+ 
+
+00:01:38.240 --> 00:01:40.310 align:start position:0%
+performance. You type in something like
+analyze<00:01:38.720><c> this</c><00:01:38.880><c> spreadsheet</c><00:01:39.520><c> and</c><00:01:39.759><c> show</c><00:01:39.920><c> me</c><00:01:40.079><c> the</c>
+
+00:01:40.310 --> 00:01:40.320 align:start position:0%
+analyze this spreadsheet and show me the
+ 
+
+00:01:40.320 --> 00:01:42.390 align:start position:0%
+analyze this spreadsheet and show me the
+top<00:01:40.479><c> three</c><00:01:40.799><c> performing</c><00:01:41.200><c> regions.</c><00:01:42.000><c> Claude</c>
+
+00:01:42.390 --> 00:01:42.400 align:start position:0%
+top three performing regions. Claude
+ 
+
+00:01:42.400 --> 00:01:44.550 align:start position:0%
+top three performing regions. Claude
+reads<00:01:42.640><c> the</c><00:01:42.799><c> whole</c><00:01:42.960><c> thing.</c><00:01:43.439><c> Every</c><00:01:43.680><c> tab,</c><00:01:44.320><c> every</c>
+
+00:01:44.550 --> 00:01:44.560 align:start position:0%
+reads the whole thing. Every tab, every
+ 
+
+00:01:44.560 --> 00:01:46.550 align:start position:0%
+reads the whole thing. Every tab, every
+formula,<00:01:45.200><c> every</c><00:01:45.439><c> number,</c><00:01:46.000><c> and</c><00:01:46.159><c> it</c><00:01:46.320><c> gives</c><00:01:46.479><c> you</c>
+
+00:01:46.550 --> 00:01:46.560 align:start position:0%
+formula, every number, and it gives you
+ 
+
+00:01:46.560 --> 00:01:48.710 align:start position:0%
+formula, every number, and it gives you
+the<00:01:46.799><c> answer</c><00:01:47.040><c> right</c><00:01:47.360><c> there</c><00:01:47.680><c> inside</c><00:01:48.079><c> Excel.</c>
+
+00:01:48.710 --> 00:01:48.720 align:start position:0%
+the answer right there inside Excel.
+ 
+
+00:01:48.720 --> 00:01:50.550 align:start position:0%
+the answer right there inside Excel.
+Step<00:01:48.960><c> two,</c><00:01:49.280><c> you</c><00:01:49.439><c> say</c><00:01:49.759><c> create</c><00:01:50.000><c> a</c><00:01:50.159><c> table</c>
+
+00:01:50.550 --> 00:01:50.560 align:start position:0%
+Step two, you say create a table
+ 
+
+00:01:50.560 --> 00:01:53.109 align:start position:0%
+Step two, you say create a table
+summarizing<00:01:51.360><c> those</c><00:01:51.520><c> regions.</c><00:01:52.159><c> Boom.</c><00:01:52.720><c> table</c>
+
+00:01:53.109 --> 00:01:53.119 align:start position:0%
+summarizing those regions. Boom. table
+ 
+
+00:01:53.119 --> 00:01:54.789 align:start position:0%
+summarizing those regions. Boom. table
+appears<00:01:53.600><c> right</c><00:01:53.840><c> in</c><00:01:54.000><c> your</c><00:01:54.159><c> spreadsheet.</c><00:01:54.640><c> You</c>
+
+00:01:54.789 --> 00:01:54.799 align:start position:0%
+appears right in your spreadsheet. You
+ 
+
+00:01:54.799 --> 00:01:56.550 align:start position:0%
+appears right in your spreadsheet. You
+didn't<00:01:54.960><c> write</c><00:01:55.119><c> a</c><00:01:55.280><c> formula.</c><00:01:55.840><c> You</c><00:01:56.000><c> didn't</c><00:01:56.240><c> drag</c>
+
+00:01:56.550 --> 00:01:56.560 align:start position:0%
+didn't write a formula. You didn't drag
+ 
+
+00:01:56.560 --> 00:01:58.310 align:start position:0%
+didn't write a formula. You didn't drag
+cells<00:01:56.880><c> around.</c><00:01:57.200><c> You</c><00:01:57.360><c> just</c><00:01:57.520><c> asked</c><00:01:57.759><c> for</c><00:01:57.920><c> it.</c>
+
+00:01:58.310 --> 00:01:58.320 align:start position:0%
+cells around. You just asked for it.
+ 
+
+00:01:58.320 --> 00:02:00.310 align:start position:0%
+cells around. You just asked for it.
+Step<00:01:58.640><c> three,</c><00:01:58.960><c> this</c><00:01:59.119><c> is</c><00:01:59.200><c> where</c><00:01:59.360><c> it</c><00:01:59.520><c> gets</c><00:01:59.759><c> wild.</c>
+
+00:02:00.310 --> 00:02:00.320 align:start position:0%
+Step three, this is where it gets wild.
+ 
+
+00:02:00.320 --> 00:02:02.230 align:start position:0%
+Step three, this is where it gets wild.
+You<00:02:00.479><c> open</c><00:02:00.719><c> PowerPoint.</c><00:02:01.360><c> You</c><00:02:01.439><c> type</c><00:02:01.759><c> turn</c><00:02:02.000><c> the</c>
+
+00:02:02.230 --> 00:02:02.240 align:start position:0%
+You open PowerPoint. You type turn the
+ 
+
+00:02:02.240 --> 00:02:05.429 align:start position:0%
+You open PowerPoint. You type turn the
+Excel<00:02:02.640><c> insights</c><00:02:03.439><c> into</c><00:02:03.840><c> a</c><00:02:04.079><c> presentation.</c><00:02:05.200><c> And</c>
+
+00:02:05.429 --> 00:02:05.439 align:start position:0%
+Excel insights into a presentation. And
+ 
+
+00:02:05.439 --> 00:02:07.990 align:start position:0%
+Excel insights into a presentation. And
+Claude<00:02:06.000><c> builds</c><00:02:06.560><c> the</c><00:02:06.880><c> slides</c><00:02:07.280><c> for</c><00:02:07.439><c> you</c><00:02:07.680><c> using</c>
+
+00:02:07.990 --> 00:02:08.000 align:start position:0%
+Claude builds the slides for you using
+ 
+
+00:02:08.000 --> 00:02:09.990 align:start position:0%
+Claude builds the slides for you using
+the<00:02:08.239><c> same</c><00:02:08.399><c> data,</c><00:02:08.800><c> the</c><00:02:09.039><c> same</c><00:02:09.200><c> insights,</c><00:02:09.840><c> the</c>
+
+00:02:09.990 --> 00:02:10.000 align:start position:0%
+the same data, the same insights, the
+ 
+
+00:02:10.000 --> 00:02:11.990 align:start position:0%
+the same data, the same insights, the
+same<00:02:10.160><c> numbers</c><00:02:10.479><c> from</c><00:02:10.720><c> the</c><00:02:10.879><c> spreadsheet.</c><00:02:11.680><c> It</c>
+
+00:02:11.990 --> 00:02:12.000 align:start position:0%
+same numbers from the spreadsheet. It
+ 
+
+00:02:12.000 --> 00:02:13.350 align:start position:0%
+same numbers from the spreadsheet. It
+already<00:02:12.239><c> knows</c><00:02:12.560><c> everything</c><00:02:12.879><c> because</c><00:02:13.120><c> it</c>
+
+00:02:13.350 --> 00:02:13.360 align:start position:0%
+already knows everything because it
+ 
+
+00:02:13.360 --> 00:02:15.350 align:start position:0%
+already knows everything because it
+remembers<00:02:13.680><c> the</c><00:02:13.920><c> whole</c><00:02:14.080><c> conversation.</c><00:02:15.120><c> Step</c>
+
+00:02:15.350 --> 00:02:15.360 align:start position:0%
+remembers the whole conversation. Step
+ 
+
+00:02:15.360 --> 00:02:16.949 align:start position:0%
+remembers the whole conversation. Step
+four,<00:02:15.680><c> you</c><00:02:15.840><c> say,</c><00:02:15.920><c> "Add</c><00:02:16.239><c> the</c><00:02:16.400><c> chart</c><00:02:16.640><c> from</c><00:02:16.800><c> the</c>
+
+00:02:16.949 --> 00:02:16.959 align:start position:0%
+four, you say, "Add the chart from the
+ 
+
+00:02:16.959 --> 00:02:19.350 align:start position:0%
+four, you say, "Add the chart from the
+spreadsheet<00:02:17.599><c> to</c><00:02:17.920><c> slide</c><00:02:18.239><c> three."</c><00:02:18.800><c> And</c><00:02:19.040><c> it</c><00:02:19.200><c> does</c>
+
+00:02:19.350 --> 00:02:19.360 align:start position:0%
+spreadsheet to slide three." And it does
+ 
+
+00:02:19.360 --> 00:02:20.949 align:start position:0%
+spreadsheet to slide three." And it does
+it.<00:02:19.680><c> It</c><00:02:19.840><c> pulls</c><00:02:20.080><c> the</c><00:02:20.239><c> chart</c><00:02:20.480><c> right</c><00:02:20.720><c> in.</c>
+
+00:02:20.949 --> 00:02:20.959 align:start position:0%
+it. It pulls the chart right in.
+ 
+
+00:02:20.959 --> 00:02:23.350 align:start position:0%
+it. It pulls the chart right in.
+formatted,<00:02:21.680><c> clean,</c><00:02:22.239><c> done.</c><00:02:22.800><c> That's</c><00:02:23.040><c> the</c><00:02:23.200><c> whole</c>
+
+00:02:23.350 --> 00:02:23.360 align:start position:0%
+formatted, clean, done. That's the whole
+ 
+
+00:02:23.360 --> 00:02:25.589 align:start position:0%
+formatted, clean, done. That's the whole
+workflow.<00:02:23.920><c> Excel</c><00:02:24.319><c> analysis</c><00:02:25.040><c> to</c><00:02:25.360><c> full</c>
+
+00:02:25.589 --> 00:02:25.599 align:start position:0%
+workflow. Excel analysis to full
+ 
+
+00:02:25.599 --> 00:02:27.990 align:start position:0%
+workflow. Excel analysis to full
+presentation<00:02:26.160><c> in</c><00:02:26.400><c> like</c><00:02:26.640><c> 2</c><00:02:26.879><c> minutes.</c><00:02:27.360><c> No</c><00:02:27.599><c> joke.</c>
+
+00:02:27.990 --> 00:02:28.000 align:start position:0%
+presentation in like 2 minutes. No joke.
+ 
+
+00:02:28.000 --> 00:02:29.510 align:start position:0%
+presentation in like 2 minutes. No joke.
+Now,<00:02:28.239><c> let</c><00:02:28.400><c> me</c><00:02:28.560><c> tell</c><00:02:28.640><c> you</c><00:02:28.720><c> what</c><00:02:28.959><c> Claude</c><00:02:29.360><c> can</c>
+
+00:02:29.510 --> 00:02:29.520 align:start position:0%
+Now, let me tell you what Claude can
+ 
+
+00:02:29.520 --> 00:02:31.430 align:start position:0%
+Now, let me tell you what Claude can
+actually<00:02:29.760><c> do</c><00:02:30.080><c> inside</c><00:02:30.480><c> Excel</c><00:02:30.959><c> because</c><00:02:31.200><c> it's</c>
+
+00:02:31.430 --> 00:02:31.440 align:start position:0%
+actually do inside Excel because it's
+ 
+
+00:02:31.440 --> 00:02:33.350 align:start position:0%
+actually do inside Excel because it's
+not<00:02:31.599><c> just</c><00:02:31.760><c> answering</c><00:02:32.239><c> questions.</c><00:02:33.040><c> It</c><00:02:33.200><c> can</c>
+
+00:02:33.350 --> 00:02:33.360 align:start position:0%
+not just answering questions. It can
+ 
+
+00:02:33.360 --> 00:02:35.270 align:start position:0%
+not just answering questions. It can
+read<00:02:33.519><c> your</c><00:02:33.760><c> entire</c><00:02:34.239><c> workbook.</c><00:02:35.040><c> It</c>
+
+00:02:35.270 --> 00:02:35.280 align:start position:0%
+read your entire workbook. It
+ 
+
+00:02:35.280 --> 00:02:37.270 align:start position:0%
+read your entire workbook. It
+understands<00:02:35.840><c> your</c><00:02:36.160><c> formulas.</c><00:02:36.959><c> It</c><00:02:37.120><c> can</c>
+
+00:02:37.270 --> 00:02:37.280 align:start position:0%
+understands your formulas. It can
+ 
+
+00:02:37.280 --> 00:02:39.589 align:start position:0%
+understands your formulas. It can
+explain<00:02:37.840><c> calculations</c><00:02:38.560><c> back</c><00:02:38.800><c> to</c><00:02:38.959><c> you.</c><00:02:39.360><c> It</c>
+
+00:02:39.589 --> 00:02:39.599 align:start position:0%
+explain calculations back to you. It
+ 
+
+00:02:39.599 --> 00:02:41.990 align:start position:0%
+explain calculations back to you. It
+builds<00:02:40.000><c> tables.</c><00:02:40.640><c> It</c><00:02:40.800><c> creates</c><00:02:41.120><c> pivot</c><00:02:41.519><c> tables.</c>
+
+00:02:41.990 --> 00:02:42.000 align:start position:0%
+builds tables. It creates pivot tables.
+ 
+
+00:02:42.000 --> 00:02:44.070 align:start position:0%
+builds tables. It creates pivot tables.
+It<00:02:42.239><c> generates</c><00:02:42.640><c> charts.</c><00:02:43.360><c> And</c><00:02:43.440><c> it</c><00:02:43.599><c> can</c><00:02:43.760><c> update</c>
+
+00:02:44.070 --> 00:02:44.080 align:start position:0%
+It generates charts. And it can update
+ 
+
+00:02:44.080 --> 00:02:45.670 align:start position:0%
+It generates charts. And it can update
+assumptions<00:02:44.720><c> without</c><00:02:45.120><c> breaking</c><00:02:45.440><c> your</c>
+
+00:02:45.670 --> 00:02:45.680 align:start position:0%
+assumptions without breaking your
+ 
+
+00:02:45.680 --> 00:02:47.830 align:start position:0%
+assumptions without breaking your
+formulas.<00:02:46.160><c> That</c><00:02:46.400><c> last</c><00:02:46.560><c> one</c><00:02:46.720><c> is</c><00:02:46.959><c> huge.</c><00:02:47.519><c> Anyone</c>
+
+00:02:47.830 --> 00:02:47.840 align:start position:0%
+formulas. That last one is huge. Anyone
+ 
+
+00:02:47.840 --> 00:02:49.990 align:start position:0%
+formulas. That last one is huge. Anyone
+who's<00:02:48.160><c> worked</c><00:02:48.319><c> in</c><00:02:48.560><c> spreadsheets</c><00:02:49.360><c> knows</c><00:02:49.680><c> one</c>
+
+00:02:49.990 --> 00:02:50.000 align:start position:0%
+who's worked in spreadsheets knows one
+ 
+
+00:02:50.000 --> 00:02:51.430 align:start position:0%
+who's worked in spreadsheets knows one
+wrong<00:02:50.160><c> move.</c><00:02:50.480><c> and</c><00:02:50.640><c> the</c><00:02:50.800><c> whole</c><00:02:50.959><c> thing</c><00:02:51.120><c> falls</c>
+
+00:02:51.430 --> 00:02:51.440 align:start position:0%
+wrong move. and the whole thing falls
+ 
+
+00:02:51.440 --> 00:02:53.910 align:start position:0%
+wrong move. and the whole thing falls
+apart.<00:02:52.080><c> Claude</c><00:02:52.480><c> handles</c><00:02:52.800><c> that.</c><00:02:53.360><c> And</c><00:02:53.519><c> inside</c>
+
+00:02:53.910 --> 00:02:53.920 align:start position:0%
+apart. Claude handles that. And inside
+ 
+
+00:02:53.920 --> 00:02:55.670 align:start position:0%
+apart. Claude handles that. And inside
+PowerPoint,<00:02:54.400><c> it</c><00:02:54.640><c> can</c><00:02:54.720><c> generate</c><00:02:55.120><c> full</c><00:02:55.360><c> slide</c>
+
+00:02:55.670 --> 00:02:55.680 align:start position:0%
+PowerPoint, it can generate full slide
+ 
+
+00:02:55.680 --> 00:02:58.229 align:start position:0%
+PowerPoint, it can generate full slide
+decks<00:02:56.000><c> from</c><00:02:56.239><c> scratch.</c><00:02:56.959><c> It</c><00:02:57.120><c> can</c><00:02:57.280><c> edit</c><00:02:57.680><c> existing</c>
+
+00:02:58.229 --> 00:02:58.239 align:start position:0%
+decks from scratch. It can edit existing
+ 
+
+00:02:58.239 --> 00:03:00.630 align:start position:0%
+decks from scratch. It can edit existing
+slides.<00:02:58.800><c> It</c><00:02:59.040><c> matches</c><00:02:59.360><c> your</c><00:02:59.599><c> templates.</c><00:03:00.400><c> It</c>
+
+00:03:00.630 --> 00:03:00.640 align:start position:0%
+slides. It matches your templates. It
+ 
+
+00:03:00.640 --> 00:03:03.110 align:start position:0%
+slides. It matches your templates. It
+respects<00:03:01.120><c> your</c><00:03:01.360><c> fonts</c><00:03:01.760><c> and</c><00:03:02.000><c> colors.</c><00:03:02.640><c> It</c><00:03:02.879><c> even</c>
+
+00:03:03.110 --> 00:03:03.120 align:start position:0%
+respects your fonts and colors. It even
+ 
+
+00:03:03.120 --> 00:03:04.869 align:start position:0%
+respects your fonts and colors. It even
+reads<00:03:03.440><c> your</c><00:03:03.599><c> slide</c><00:03:04.000><c> master</c><00:03:04.319><c> so</c><00:03:04.560><c> everything</c>
+
+00:03:04.869 --> 00:03:04.879 align:start position:0%
+reads your slide master so everything
+ 
+
+00:03:04.879 --> 00:03:06.949 align:start position:0%
+reads your slide master so everything
+stays<00:03:05.280><c> consistent.</c><00:03:06.080><c> So,</c><00:03:06.239><c> you're</c><00:03:06.400><c> not</c><00:03:06.560><c> getting</c>
+
+00:03:06.949 --> 00:03:06.959 align:start position:0%
+stays consistent. So, you're not getting
+ 
+
+00:03:06.959 --> 00:03:08.869 align:start position:0%
+stays consistent. So, you're not getting
+ugly<00:03:07.280><c> generic</c><00:03:07.760><c> slides.</c><00:03:08.480><c> You're</c><00:03:08.640><c> getting</c>
+
+00:03:08.869 --> 00:03:08.879 align:start position:0%
+ugly generic slides. You're getting
+ 
+
+00:03:08.879 --> 00:03:10.550 align:start position:0%
+ugly generic slides. You're getting
+slides<00:03:09.200><c> that</c><00:03:09.519><c> actually</c><00:03:09.840><c> look</c><00:03:10.080><c> like</c><00:03:10.319><c> they</c>
+
+00:03:10.550 --> 00:03:10.560 align:start position:0%
+slides that actually look like they
+ 
+
+00:03:10.560 --> 00:03:12.710 align:start position:0%
+slides that actually look like they
+belong<00:03:10.879><c> in</c><00:03:11.120><c> your</c><00:03:11.280><c> deck.</c><00:03:11.920><c> Hey,</c><00:03:12.080><c> if</c><00:03:12.319><c> we</c><00:03:12.480><c> haven't</c>
+
+00:03:12.710 --> 00:03:12.720 align:start position:0%
+belong in your deck. Hey, if we haven't
+ 
+
+00:03:12.720 --> 00:03:15.190 align:start position:0%
+belong in your deck. Hey, if we haven't
+met<00:03:12.959><c> already,</c><00:03:13.599><c> I'm</c><00:03:13.840><c> the</c><00:03:14.159><c> digital</c><00:03:14.560><c> avatar</c><00:03:15.040><c> of</c>
+
+00:03:15.190 --> 00:03:15.200 align:start position:0%
+met already, I'm the digital avatar of
+ 
+
+00:03:15.200 --> 00:03:18.070 align:start position:0%
+met already, I'm the digital avatar of
+Julian<00:03:15.599><c> Goldie,</c><00:03:16.080><c> CEO</c><00:03:16.480><c> of</c><00:03:16.720><c> Goldie</c><00:03:17.280><c> Agency.</c>
+
+00:03:18.070 --> 00:03:18.080 align:start position:0%
+Julian Goldie, CEO of Goldie Agency.
+ 
+
+00:03:18.080 --> 00:03:19.750 align:start position:0%
+Julian Goldie, CEO of Goldie Agency.
+Whilst<00:03:18.400><c> he's</c><00:03:18.640><c> helping</c><00:03:19.040><c> clients</c><00:03:19.440><c> get</c><00:03:19.599><c> more</c>
+
+00:03:19.750 --> 00:03:19.760 align:start position:0%
+Whilst he's helping clients get more
+ 
+
+00:03:19.760 --> 00:03:21.589 align:start position:0%
+Whilst he's helping clients get more
+leads<00:03:20.239><c> and</c><00:03:20.480><c> customers,</c><00:03:20.959><c> I'm</c><00:03:21.120><c> here</c><00:03:21.280><c> to</c><00:03:21.440><c> help</c>
+
+00:03:21.589 --> 00:03:21.599 align:start position:0%
+leads and customers, I'm here to help
+ 
+
+00:03:21.599 --> 00:03:23.990 align:start position:0%
+leads and customers, I'm here to help
+you<00:03:21.760><c> get</c><00:03:22.000><c> the</c><00:03:22.159><c> latest</c><00:03:22.560><c> AI</c><00:03:22.879><c> updates.</c><00:03:23.519><c> Julian</c>
+
+00:03:23.990 --> 00:03:24.000 align:start position:0%
+you get the latest AI updates. Julian
+ 
+
+00:03:24.000 --> 00:03:25.750 align:start position:0%
+you get the latest AI updates. Julian
+Goldie<00:03:24.400><c> reads</c><00:03:24.720><c> every</c><00:03:24.959><c> single</c><00:03:25.280><c> comment,</c><00:03:25.599><c> so</c>
+
+00:03:25.750 --> 00:03:25.760 align:start position:0%
+Goldie reads every single comment, so
+ 
+
+00:03:25.760 --> 00:03:27.750 align:start position:0%
+Goldie reads every single comment, so
+make<00:03:25.920><c> sure</c><00:03:26.000><c> you</c><00:03:26.159><c> drop</c><00:03:26.400><c> a</c><00:03:26.560><c> comment</c><00:03:26.800><c> below.</c><00:03:27.519><c> Let</c>
+
+00:03:27.750 --> 00:03:27.760 align:start position:0%
+make sure you drop a comment below. Let
+ 
+
+00:03:27.760 --> 00:03:29.030 align:start position:0%
+make sure you drop a comment below. Let
+him<00:03:27.920><c> know</c><00:03:28.080><c> what</c><00:03:28.239><c> you</c><00:03:28.400><c> think</c><00:03:28.560><c> about</c><00:03:28.800><c> this</c>
+
+00:03:29.030 --> 00:03:29.040 align:start position:0%
+him know what you think about this
+ 
+
+00:03:29.040 --> 00:03:30.789 align:start position:0%
+him know what you think about this
+update.<00:03:29.680><c> Now,</c><00:03:29.920><c> here's</c><00:03:30.159><c> why</c><00:03:30.319><c> this</c><00:03:30.480><c> matters</c>
+
+00:03:30.789 --> 00:03:30.799 align:start position:0%
+update. Now, here's why this matters
+ 
+
+00:03:30.799 --> 00:03:33.030 align:start position:0%
+update. Now, here's why this matters
+beyond<00:03:31.120><c> just</c><00:03:31.280><c> saving</c><00:03:31.680><c> time.</c><00:03:32.400><c> Think</c><00:03:32.640><c> about</c><00:03:32.799><c> who</c>
+
+00:03:33.030 --> 00:03:33.040 align:start position:0%
+beyond just saving time. Think about who
+ 
+
+00:03:33.040 --> 00:03:35.270 align:start position:0%
+beyond just saving time. Think about who
+uses<00:03:33.360><c> Excel</c><00:03:34.000><c> and</c><00:03:34.239><c> PowerPoint</c><00:03:34.799><c> every</c><00:03:35.040><c> single</c>
+
+00:03:35.270 --> 00:03:35.280 align:start position:0%
+uses Excel and PowerPoint every single
+ 
+
+00:03:35.280 --> 00:03:37.430 align:start position:0%
+uses Excel and PowerPoint every single
+day.<00:03:35.840><c> Consultants</c><00:03:36.480><c> turning</c><00:03:36.799><c> research</c><00:03:37.200><c> into</c>
+
+00:03:37.430 --> 00:03:37.440 align:start position:0%
+day. Consultants turning research into
+ 
+
+00:03:37.440 --> 00:03:40.070 align:start position:0%
+day. Consultants turning research into
+client<00:03:37.760><c> decks.</c><00:03:38.480><c> Marketing</c><00:03:38.959><c> teams</c><00:03:39.519><c> going</c><00:03:39.840><c> from</c>
+
+00:03:40.070 --> 00:03:40.080 align:start position:0%
+client decks. Marketing teams going from
+ 
+
+00:03:40.080 --> 00:03:43.030 align:start position:0%
+client decks. Marketing teams going from
+analytics<00:03:40.640><c> to</c><00:03:40.879><c> reports.</c><00:03:41.599><c> Operations</c><00:03:42.239><c> teams</c>
+
+00:03:43.030 --> 00:03:43.040 align:start position:0%
+analytics to reports. Operations teams
+ 
+
+00:03:43.040 --> 00:03:45.190 align:start position:0%
+analytics to reports. Operations teams
+building<00:03:43.440><c> dashboards</c><00:03:43.920><c> and</c><00:03:44.159><c> weekly</c><00:03:44.480><c> updates.</c>
+
+00:03:45.190 --> 00:03:45.200 align:start position:0%
+building dashboards and weekly updates.
+ 
+
+00:03:45.200 --> 00:03:46.710 align:start position:0%
+building dashboards and weekly updates.
+Agencies<00:03:45.840><c> putting</c><00:03:46.159><c> together</c><00:03:46.400><c> client</c>
+
+00:03:46.710 --> 00:03:46.720 align:start position:0%
+Agencies putting together client
+ 
+
+00:03:46.720 --> 00:03:48.710 align:start position:0%
+Agencies putting together client
+deliverables.<00:03:47.680><c> All</c><00:03:47.840><c> of</c><00:03:48.000><c> these</c><00:03:48.239><c> people</c><00:03:48.480><c> spend</c>
+
+00:03:48.710 --> 00:03:48.720 align:start position:0%
+deliverables. All of these people spend
+ 
+
+00:03:48.720 --> 00:03:50.949 align:start position:0%
+deliverables. All of these people spend
+a<00:03:48.959><c> huge</c><00:03:49.120><c> chunk</c><00:03:49.360><c> of</c><00:03:49.519><c> their</c><00:03:49.680><c> week</c><00:03:50.159><c> just</c><00:03:50.480><c> moving</c>
+
+00:03:50.949 --> 00:03:50.959 align:start position:0%
+a huge chunk of their week just moving
+ 
+
+00:03:50.959 --> 00:03:53.030 align:start position:0%
+a huge chunk of their week just moving
+data<00:03:51.360><c> from</c><00:03:51.519><c> one</c><00:03:51.760><c> app</c><00:03:52.000><c> to</c><00:03:52.159><c> another.</c><00:03:52.640><c> And</c><00:03:52.799><c> now</c>
+
+00:03:53.030 --> 00:03:53.040 align:start position:0%
+data from one app to another. And now
+ 
+
+00:03:53.040 --> 00:03:54.710 align:start position:0%
+data from one app to another. And now
+Claude<00:03:53.440><c> just</c><00:03:53.599><c> automated</c><00:03:54.159><c> that</c><00:03:54.400><c> entire</c>
+
+00:03:54.710 --> 00:03:54.720 align:start position:0%
+Claude just automated that entire
+ 
+
+00:03:54.720 --> 00:03:56.309 align:start position:0%
+Claude just automated that entire
+process.<00:03:55.200><c> This</c><00:03:55.360><c> is</c><00:03:55.440><c> not</c><00:03:55.599><c> a</c><00:03:55.760><c> small</c><00:03:55.920><c> update.</c>
+
+00:03:56.309 --> 00:03:56.319 align:start position:0%
+process. This is not a small update.
+ 
+
+00:03:56.319 --> 00:03:58.630 align:start position:0%
+process. This is not a small update.
+This<00:03:56.480><c> is</c><00:03:56.640><c> Claude</c><00:03:56.959><c> becoming</c><00:03:57.280><c> an</c><00:03:57.439><c> AI</c><00:03:57.840><c> co-worker</c>
+
+00:03:58.630 --> 00:03:58.640 align:start position:0%
+This is Claude becoming an AI co-worker
+ 
+
+00:03:58.640 --> 00:04:00.789 align:start position:0%
+This is Claude becoming an AI co-worker
+for<00:03:58.959><c> office</c><00:03:59.280><c> work.</c><00:03:59.680><c> And</c><00:03:59.920><c> I</c><00:04:00.080><c> don't</c><00:04:00.239><c> say</c><00:04:00.400><c> that</c><00:04:00.640><c> to</c>
+
+00:04:00.789 --> 00:04:00.799 align:start position:0%
+for office work. And I don't say that to
+ 
+
+00:04:00.799 --> 00:04:02.390 align:start position:0%
+for office work. And I don't say that to
+be<00:04:00.879><c> dramatic.</c><00:04:01.519><c> That's</c><00:04:01.760><c> literally</c><00:04:02.080><c> what's</c>
+
+00:04:02.390 --> 00:04:02.400 align:start position:0%
+be dramatic. That's literally what's
+ 
+
+00:04:02.400 --> 00:04:04.550 align:start position:0%
+be dramatic. That's literally what's
+happening.<00:04:03.120><c> Now,</c><00:04:03.360><c> if</c><00:04:03.519><c> you're</c><00:04:03.760><c> watching</c><00:04:04.000><c> this</c>
+
+00:04:04.550 --> 00:04:04.560 align:start position:0%
+happening. Now, if you're watching this
+ 
+
+00:04:04.560 --> 00:04:06.710 align:start position:0%
+happening. Now, if you're watching this
+and<00:04:04.879><c> thinking,</c><00:04:05.280><c> "Okay,</c><00:04:05.920><c> this</c><00:04:06.159><c> is</c><00:04:06.239><c> cool,</c><00:04:06.480><c> but</c>
+
+00:04:06.710 --> 00:04:06.720 align:start position:0%
+and thinking, "Okay, this is cool, but
+ 
+
+00:04:06.720 --> 00:04:08.630 align:start position:0%
+and thinking, "Okay, this is cool, but
+how<00:04:06.879><c> do</c><00:04:07.040><c> I</c><00:04:07.200><c> actually</c><00:04:07.439><c> use</c><00:04:07.680><c> AI</c><00:04:08.080><c> like</c><00:04:08.239><c> this</c><00:04:08.400><c> to</c>
+
+00:04:08.630 --> 00:04:08.640 align:start position:0%
+how do I actually use AI like this to
+ 
+
+00:04:08.640 --> 00:04:10.789 align:start position:0%
+how do I actually use AI like this to
+grow<00:04:08.879><c> my</c><00:04:09.120><c> business</c><00:04:09.280><c> and</c><00:04:09.599><c> get</c><00:04:09.680><c> more</c><00:04:09.920><c> done?"</c><00:04:10.640><c> You</c>
+
+00:04:10.789 --> 00:04:10.799 align:start position:0%
+grow my business and get more done?" You
+ 
+
+00:04:10.799 --> 00:04:12.390 align:start position:0%
+grow my business and get more done?" You
+need<00:04:10.879><c> to</c><00:04:11.120><c> check</c><00:04:11.280><c> out</c><00:04:11.439><c> the</c><00:04:11.680><c> AI</c><00:04:12.080><c> profit</c>
+
+00:04:12.390 --> 00:04:12.400 align:start position:0%
+need to check out the AI profit
+ 
+
+00:04:12.400 --> 00:04:13.990 align:start position:0%
+need to check out the AI profit
+boardroom.<00:04:12.799><c> It's</c><00:04:13.040><c> the</c><00:04:13.200><c> best</c><00:04:13.360><c> place</c><00:04:13.599><c> to</c><00:04:13.760><c> scale</c>
+
+00:04:13.990 --> 00:04:14.000 align:start position:0%
+boardroom. It's the best place to scale
+ 
+
+00:04:14.000 --> 00:04:16.150 align:start position:0%
+boardroom. It's the best place to scale
+your<00:04:14.239><c> business,</c><00:04:14.799><c> get</c><00:04:15.040><c> more</c><00:04:15.280><c> customers,</c><00:04:15.920><c> and</c>
+
+00:04:16.150 --> 00:04:16.160 align:start position:0%
+your business, get more customers, and
+ 
+
+00:04:16.160 --> 00:04:18.310 align:start position:0%
+your business, get more customers, and
+save<00:04:16.479><c> hundreds</c><00:04:16.880><c> of</c><00:04:17.120><c> hours</c><00:04:17.600><c> with</c><00:04:17.919><c> AI</c>
+
+00:04:18.310 --> 00:04:18.320 align:start position:0%
+save hundreds of hours with AI
+ 
+
+00:04:18.320 --> 00:04:20.469 align:start position:0%
+save hundreds of hours with AI
+automation.<00:04:19.280><c> If</c><00:04:19.519><c> you</c><00:04:19.600><c> want</c><00:04:19.759><c> to</c><00:04:19.840><c> learn</c><00:04:20.079><c> how</c><00:04:20.320><c> to</c>
+
+00:04:20.469 --> 00:04:20.479 align:start position:0%
+automation. If you want to learn how to
+ 
+
+00:04:20.479 --> 00:04:22.310 align:start position:0%
+automation. If you want to learn how to
+use<00:04:20.720><c> tools</c><00:04:21.040><c> like</c><00:04:21.199><c> Claude</c><00:04:21.600><c> to</c><00:04:21.759><c> automate</c><00:04:22.079><c> your</c>
+
+00:04:22.310 --> 00:04:22.320 align:start position:0%
+use tools like Claude to automate your
+ 
+
+00:04:22.320 --> 00:04:24.870 align:start position:0%
+use tools like Claude to automate your
+workflows<00:04:22.960><c> and</c><00:04:23.199><c> actually</c><00:04:23.680><c> get</c><00:04:23.919><c> results,</c><00:04:24.639><c> the</c>
+
+00:04:24.870 --> 00:04:24.880 align:start position:0%
+workflows and actually get results, the
+ 
+
+00:04:24.880 --> 00:04:26.629 align:start position:0%
+workflows and actually get results, the
+link<00:04:25.040><c> is</c><00:04:25.280><c> in</c><00:04:25.440><c> the</c><00:04:25.600><c> description</c><00:04:26.240><c> and</c><00:04:26.479><c> the</c>
+
+00:04:26.629 --> 00:04:26.639 align:start position:0%
+link is in the description and the
+ 
+
+00:04:26.639 --> 00:04:29.110 align:start position:0%
+link is in the description and the
+comments.<00:04:27.600><c> Seriously,</c><00:04:28.080><c> go</c><00:04:28.320><c> check</c><00:04:28.560><c> it</c><00:04:28.720><c> out.</c>
+
+00:04:29.110 --> 00:04:29.120 align:start position:0%
+comments. Seriously, go check it out.
+ 
+
+00:04:29.120 --> 00:04:30.390 align:start position:0%
+comments. Seriously, go check it out.
+Okay,<00:04:29.440><c> let</c><00:04:29.600><c> me</c><00:04:29.680><c> talk</c><00:04:29.840><c> about</c><00:04:29.919><c> the</c><00:04:30.160><c> bigger</c>
+
+00:04:30.390 --> 00:04:30.400 align:start position:0%
+Okay, let me talk about the bigger
+ 
+
+00:04:30.400 --> 00:04:31.830 align:start position:0%
+Okay, let me talk about the bigger
+picture<00:04:30.560><c> here</c><00:04:30.800><c> because</c><00:04:31.040><c> this</c><00:04:31.199><c> update</c><00:04:31.520><c> is</c><00:04:31.680><c> part</c>
+
+00:04:31.830 --> 00:04:31.840 align:start position:0%
+picture here because this update is part
+ 
+
+00:04:31.840 --> 00:04:33.430 align:start position:0%
+picture here because this update is part
+of<00:04:32.000><c> something</c><00:04:32.240><c> much</c><00:04:32.479><c> larger.</c><00:04:33.138><c> [snorts]</c>
+
+00:04:33.430 --> 00:04:33.440 align:start position:0%
+of something much larger. [snorts]
+ 
+
+00:04:33.440 --> 00:04:35.909 align:start position:0%
+of something much larger. [snorts]
+Anthropic,<00:04:34.080><c> the</c><00:04:34.240><c> company</c><00:04:34.479><c> behind</c><00:04:34.880><c> Claude,</c><00:04:35.600><c> is</c>
+
+00:04:35.909 --> 00:04:35.919 align:start position:0%
+Anthropic, the company behind Claude, is
+ 
+
+00:04:35.919 --> 00:04:37.670 align:start position:0%
+Anthropic, the company behind Claude, is
+not<00:04:36.160><c> just</c><00:04:36.400><c> building</c><00:04:36.639><c> a</c><00:04:36.880><c> chatbot</c><00:04:37.360><c> anymore.</c>
+
+00:04:37.670 --> 00:04:37.680 align:start position:0%
+not just building a chatbot anymore.
+ 
+
+00:04:37.680 --> 00:04:39.270 align:start position:0%
+not just building a chatbot anymore.
+They<00:04:37.840><c> are</c><00:04:38.000><c> building</c><00:04:38.160><c> a</c><00:04:38.400><c> workplace</c><00:04:38.880><c> operating</c>
+
+00:04:39.270 --> 00:04:39.280 align:start position:0%
+They are building a workplace operating
+ 
+
+00:04:39.280 --> 00:04:40.710 align:start position:0%
+They are building a workplace operating
+system.<00:04:39.680><c> Look</c><00:04:39.759><c> at</c><00:04:39.919><c> what</c><00:04:40.080><c> they're</c><00:04:40.240><c> integrating</c>
+
+00:04:40.710 --> 00:04:40.720 align:start position:0%
+system. Look at what they're integrating
+ 
+
+00:04:40.720 --> 00:04:43.749 align:start position:0%
+system. Look at what they're integrating
+with.<00:04:41.440><c> Excel,</c><00:04:42.080><c> PowerPoint,</c><00:04:42.800><c> Slack,</c><00:04:43.440><c> Google</c>
+
+00:04:43.749 --> 00:04:43.759 align:start position:0%
+with. Excel, PowerPoint, Slack, Google
+ 
+
+00:04:43.759 --> 00:04:46.150 align:start position:0%
+with. Excel, PowerPoint, Slack, Google
+Drive,<00:04:44.320><c> Gmail,</c><00:04:44.880><c> Salesforce,</c><00:04:45.600><c> GitHub,</c>
+
+00:04:46.150 --> 00:04:46.160 align:start position:0%
+Drive, Gmail, Salesforce, GitHub,
+ 
+
+00:04:46.160 --> 00:04:48.629 align:start position:0%
+Drive, Gmail, Salesforce, GitHub,
+Notion.<00:04:46.800><c> They're</c><00:04:47.280><c> plug-in</c><00:04:47.759><c> clawed</c><00:04:48.240><c> into</c>
+
+00:04:48.629 --> 00:04:48.639 align:start position:0%
+Notion. They're plug-in clawed into
+ 
+
+00:04:48.639 --> 00:04:50.950 align:start position:0%
+Notion. They're plug-in clawed into
+every<00:04:49.040><c> tool</c><00:04:49.520><c> businesses</c><00:04:50.080><c> already</c><00:04:50.400><c> use.</c><00:04:50.800><c> And</c>
+
+00:04:50.950 --> 00:04:50.960 align:start position:0%
+every tool businesses already use. And
+ 
+
+00:04:50.960 --> 00:04:52.710 align:start position:0%
+every tool businesses already use. And
+they're<00:04:51.199><c> not</c><00:04:51.360><c> the</c><00:04:51.520><c> only</c><00:04:51.600><c> ones</c><00:04:51.919><c> doing</c><00:04:52.160><c> this.</c>
+
+00:04:52.710 --> 00:04:52.720 align:start position:0%
+they're not the only ones doing this.
+ 
+
+00:04:52.720 --> 00:04:55.749 align:start position:0%
+they're not the only ones doing this.
+Microsoft<00:04:53.280><c> has</c><00:04:53.520><c> C-pilot.</c><00:04:54.479><c> Google</c><00:04:54.880><c> has</c><00:04:55.120><c> Gemini</c>
+
+00:04:55.749 --> 00:04:55.759 align:start position:0%
+Microsoft has C-pilot. Google has Gemini
+ 
+
+00:04:55.759 --> 00:04:57.990 align:start position:0%
+Microsoft has C-pilot. Google has Gemini
+for<00:04:56.000><c> workspace.</c><00:04:56.800><c> Open</c><00:04:57.120><c> AAI</c><00:04:57.440><c> is</c><00:04:57.600><c> building</c>
+
+00:04:57.990 --> 00:04:58.000 align:start position:0%
+for workspace. Open AAI is building
+ 
+
+00:04:58.000 --> 00:05:00.390 align:start position:0%
+for workspace. Open AAI is building
+workplace<00:04:58.479><c> agents.</c><00:04:59.199><c> This</c><00:04:59.360><c> is</c><00:04:59.520><c> a</c><00:04:59.680><c> full-on</c><00:05:00.000><c> AI</c>
+
+00:05:00.390 --> 00:05:00.400 align:start position:0%
+workplace agents. This is a full-on AI
+ 
+
+00:05:00.400 --> 00:05:02.629 align:start position:0%
+workplace agents. This is a full-on AI
+war<00:05:00.639><c> for</c><00:05:00.800><c> your</c><00:05:00.960><c> office.</c><00:05:01.680><c> Every</c><00:05:01.919><c> big</c><00:05:02.240><c> AI</c>
+
+00:05:02.629 --> 00:05:02.639 align:start position:0%
+war for your office. Every big AI
+ 
+
+00:05:02.639 --> 00:05:04.230 align:start position:0%
+war for your office. Every big AI
+company<00:05:03.040><c> wants</c><00:05:03.280><c> to</c><00:05:03.440><c> be</c><00:05:03.520><c> the</c><00:05:03.680><c> one</c><00:05:03.840><c> that</c><00:05:04.000><c> runs</c>
+
+00:05:04.230 --> 00:05:04.240 align:start position:0%
+company wants to be the one that runs
+ 
+
+00:05:04.240 --> 00:05:06.310 align:start position:0%
+company wants to be the one that runs
+your<00:05:04.560><c> workflow.</c><00:05:05.199><c> And</c><00:05:05.440><c> right</c><00:05:05.600><c> now,</c><00:05:05.919><c> Claude</c>
+
+00:05:06.310 --> 00:05:06.320 align:start position:0%
+your workflow. And right now, Claude
+ 
+
+00:05:06.320 --> 00:05:09.510 align:start position:0%
+your workflow. And right now, Claude
+just<00:05:06.479><c> made</c><00:05:06.639><c> a</c><00:05:06.880><c> massive</c><00:05:07.280><c> move</c><00:05:07.840><c> with</c><00:05:08.320><c> this</c><00:05:08.800><c> Excel</c>
+
+00:05:09.510 --> 00:05:09.520 align:start position:0%
+just made a massive move with this Excel
+ 
+
+00:05:09.520 --> 00:05:11.590 align:start position:0%
+just made a massive move with this Excel
+to<00:05:09.840><c> PowerPoint</c><00:05:10.320><c> pipeline.</c><00:05:11.039><c> Here's</c><00:05:11.280><c> what</c><00:05:11.440><c> I</c>
+
+00:05:11.590 --> 00:05:11.600 align:start position:0%
+to PowerPoint pipeline. Here's what I
+ 
+
+00:05:11.600 --> 00:05:13.430 align:start position:0%
+to PowerPoint pipeline. Here's what I
+think<00:05:11.680><c> is</c><00:05:11.919><c> coming</c><00:05:12.160><c> next.</c><00:05:12.880><c> And</c><00:05:13.039><c> this</c><00:05:13.199><c> is</c><00:05:13.280><c> where</c>
+
+00:05:13.430 --> 00:05:13.440 align:start position:0%
+think is coming next. And this is where
+ 
+
+00:05:13.440 --> 00:05:15.430 align:start position:0%
+think is coming next. And this is where
+it<00:05:13.600><c> gets</c><00:05:13.759><c> really</c><00:05:14.000><c> interesting.</c><00:05:14.639><c> Right</c><00:05:14.880><c> now,</c>
+
+00:05:15.430 --> 00:05:15.440 align:start position:0%
+it gets really interesting. Right now,
+ 
+
+00:05:15.440 --> 00:05:17.430 align:start position:0%
+it gets really interesting. Right now,
+you<00:05:15.680><c> still</c><00:05:15.919><c> have</c><00:05:16.080><c> to</c><00:05:16.160><c> tell</c><00:05:16.400><c> Claude</c><00:05:16.880><c> what</c><00:05:17.039><c> to</c><00:05:17.199><c> do</c>
+
+00:05:17.430 --> 00:05:17.440 align:start position:0%
+you still have to tell Claude what to do
+ 
+
+00:05:17.440 --> 00:05:19.510 align:start position:0%
+you still have to tell Claude what to do
+step<00:05:17.600><c> by</c><00:05:17.840><c> step.</c><00:05:18.160><c> Analyze</c><00:05:18.560><c> this,</c><00:05:19.039><c> make</c><00:05:19.280><c> a</c>
+
+00:05:19.510 --> 00:05:19.520 align:start position:0%
+step by step. Analyze this, make a
+ 
+
+00:05:19.520 --> 00:05:21.830 align:start position:0%
+step by step. Analyze this, make a
+table,<00:05:19.919><c> build</c><00:05:20.240><c> slides,</c><00:05:20.720><c> add</c><00:05:20.960><c> the</c><00:05:21.120><c> chart.</c><00:05:21.680><c> But</c>
+
+00:05:21.830 --> 00:05:21.840 align:start position:0%
+table, build slides, add the chart. But
+ 
+
+00:05:21.840 --> 00:05:23.510 align:start position:0%
+table, build slides, add the chart. But
+the<00:05:22.000><c> direction</c><00:05:22.320><c> this</c><00:05:22.560><c> is</c><00:05:22.639><c> heading</c><00:05:22.960><c> is</c><00:05:23.199><c> full</c>
+
+00:05:23.510 --> 00:05:23.520 align:start position:0%
+the direction this is heading is full
+ 
+
+00:05:23.520 --> 00:05:25.350 align:start position:0%
+the direction this is heading is full
+automation.<00:05:24.320><c> You'll</c><00:05:24.639><c> open</c><00:05:24.800><c> up</c><00:05:24.960><c> your</c><00:05:25.120><c> files</c>
+
+00:05:25.350 --> 00:05:25.360 align:start position:0%
+automation. You'll open up your files
+ 
+
+00:05:25.360 --> 00:05:27.270 align:start position:0%
+automation. You'll open up your files
+and<00:05:25.520><c> say,</c><00:05:25.600><c> "Handle</c><00:05:26.000><c> the</c><00:05:26.160><c> weekly</c><00:05:26.560><c> report."</c><00:05:27.039><c> And</c>
+
+00:05:27.270 --> 00:05:27.280 align:start position:0%
+and say, "Handle the weekly report." And
+ 
+
+00:05:27.280 --> 00:05:29.350 align:start position:0%
+and say, "Handle the weekly report." And
+Claude<00:05:27.840><c> will</c><00:05:28.160><c> do</c><00:05:28.240><c> the</c><00:05:28.479><c> whole</c><00:05:28.639><c> thing.</c><00:05:28.960><c> Pull</c><00:05:29.199><c> the</c>
+
+00:05:29.350 --> 00:05:29.360 align:start position:0%
+Claude will do the whole thing. Pull the
+ 
+
+00:05:29.360 --> 00:05:31.029 align:start position:0%
+Claude will do the whole thing. Pull the
+data,<00:05:29.680><c> find</c><00:05:29.840><c> the</c><00:05:30.000><c> trends,</c><00:05:30.400><c> build</c><00:05:30.560><c> the</c><00:05:30.720><c> deck,</c>
+
+00:05:31.029 --> 00:05:31.039 align:start position:0%
+data, find the trends, build the deck,
+ 
+
+00:05:31.039 --> 00:05:32.710 align:start position:0%
+data, find the trends, build the deck,
+send<00:05:31.199><c> it</c><00:05:31.360><c> to</c><00:05:31.520><c> your</c><00:05:31.680><c> team</c><00:05:32.240><c> without</c><00:05:32.479><c> you</c>
+
+00:05:32.710 --> 00:05:32.720 align:start position:0%
+send it to your team without you
+ 
+
+00:05:32.720 --> 00:05:34.230 align:start position:0%
+send it to your team without you
+touching<00:05:33.039><c> anything.</c><00:05:33.440><c> We're</c><00:05:33.600><c> not</c><00:05:33.759><c> there</c><00:05:33.919><c> yet,</c>
+
+00:05:34.230 --> 00:05:34.240 align:start position:0%
+touching anything. We're not there yet,
+ 
+
+00:05:34.240 --> 00:05:36.070 align:start position:0%
+touching anything. We're not there yet,
+but<00:05:34.400><c> we're</c><00:05:34.639><c> close.</c><00:05:35.120><c> And</c><00:05:35.360><c> updates</c><00:05:35.759><c> like</c><00:05:35.919><c> this</c>
+
+00:05:36.070 --> 00:05:36.080 align:start position:0%
+but we're close. And updates like this
+ 
+
+00:05:36.080 --> 00:05:38.230 align:start position:0%
+but we're close. And updates like this
+one<00:05:36.240><c> are</c><00:05:36.479><c> exactly</c><00:05:36.880><c> how</c><00:05:37.039><c> we</c><00:05:37.199><c> get</c><00:05:37.360><c> there.</c><00:05:37.919><c> Each</c>
+
+00:05:38.230 --> 00:05:38.240 align:start position:0%
+one are exactly how we get there. Each
+ 
+
+00:05:38.240 --> 00:05:41.029 align:start position:0%
+one are exactly how we get there. Each
+update<00:05:39.039><c> gives</c><00:05:39.440><c> Claude</c><00:05:39.919><c> a</c><00:05:40.160><c> little</c><00:05:40.240><c> more</c><00:05:40.479><c> power,</c>
+
+00:05:41.029 --> 00:05:41.039 align:start position:0%
+update gives Claude a little more power,
+ 
+
+00:05:41.039 --> 00:05:42.870 align:start position:0%
+update gives Claude a little more power,
+a<00:05:41.199><c> little</c><00:05:41.360><c> more</c><00:05:41.600><c> memory,</c><00:05:42.320><c> a</c><00:05:42.479><c> little</c><00:05:42.639><c> more</c>
+
+00:05:42.870 --> 00:05:42.880 align:start position:0%
+a little more memory, a little more
+ 
+
+00:05:42.880 --> 00:05:45.110 align:start position:0%
+a little more memory, a little more
+ability<00:05:43.280><c> to</c><00:05:43.520><c> work</c><00:05:43.759><c> across</c><00:05:44.080><c> your</c><00:05:44.320><c> tools.</c><00:05:44.960><c> And</c>
+
+00:05:45.110 --> 00:05:45.120 align:start position:0%
+ability to work across your tools. And
+ 
+
+00:05:45.120 --> 00:05:46.629 align:start position:0%
+ability to work across your tools. And
+at<00:05:45.280><c> some</c><00:05:45.440><c> point,</c><00:05:45.600><c> it</c><00:05:45.840><c> crosses</c><00:05:46.080><c> a</c><00:05:46.240><c> line</c><00:05:46.479><c> where</c>
+
+00:05:46.629 --> 00:05:46.639 align:start position:0%
+at some point, it crosses a line where
+ 
+
+00:05:46.639 --> 00:05:48.550 align:start position:0%
+at some point, it crosses a line where
+it's<00:05:46.880><c> not</c><00:05:46.960><c> an</c><00:05:47.199><c> assistant</c><00:05:47.600><c> anymore.</c><00:05:48.240><c> It's</c><00:05:48.400><c> a</c>
+
+00:05:48.550 --> 00:05:48.560 align:start position:0%
+it's not an assistant anymore. It's a
+ 
+
+00:05:48.560 --> 00:05:49.990 align:start position:0%
+it's not an assistant anymore. It's a
+team<00:05:48.800><c> member.</c><00:05:49.120><c> Now,</c><00:05:49.280><c> let</c><00:05:49.440><c> me</c><00:05:49.520><c> give</c><00:05:49.680><c> you</c><00:05:49.840><c> some</c>
+
+00:05:49.990 --> 00:05:50.000 align:start position:0%
+team member. Now, let me give you some
+ 
+
+00:05:50.000 --> 00:05:51.430 align:start position:0%
+team member. Now, let me give you some
+practical<00:05:50.320><c> tips</c><00:05:50.560><c> if</c><00:05:50.800><c> you</c><00:05:50.880><c> want</c><00:05:50.960><c> to</c><00:05:51.120><c> try</c><00:05:51.199><c> this</c>
+
+00:05:51.430 --> 00:05:51.440 align:start position:0%
+practical tips if you want to try this
+ 
+
+00:05:51.440 --> 00:05:53.830 align:start position:0%
+practical tips if you want to try this
+yourself.<00:05:52.160><c> First,</c><00:05:52.720><c> go</c><00:05:52.960><c> to</c><00:05:53.120><c> the</c><00:05:53.280><c> Microsoft</c>
+
+00:05:53.830 --> 00:05:53.840 align:start position:0%
+yourself. First, go to the Microsoft
+ 
+
+00:05:53.840 --> 00:05:56.230 align:start position:0%
+yourself. First, go to the Microsoft
+marketplace<00:05:54.639><c> and</c><00:05:54.880><c> get</c><00:05:55.039><c> Claude</c><00:05:55.520><c> for</c><00:05:55.680><c> Excel</c><00:05:56.080><c> and</c>
+
+00:05:56.230 --> 00:05:56.240 align:start position:0%
+marketplace and get Claude for Excel and
+ 
+
+00:05:56.240 --> 00:05:57.510 align:start position:0%
+marketplace and get Claude for Excel and
+Claude<00:05:56.560><c> for</c><00:05:56.720><c> PowerPoint.</c><00:05:57.199><c> They're</c><00:05:57.360><c> right</c>
+
+00:05:57.510 --> 00:05:57.520 align:start position:0%
+Claude for PowerPoint. They're right
+ 
+
+00:05:57.520 --> 00:06:00.150 align:start position:0%
+Claude for PowerPoint. They're right
+there.<00:05:57.840><c> Easy</c><00:05:58.080><c> to</c><00:05:58.240><c> install.</c><00:05:59.039><c> Second,</c><00:05:59.840><c> start</c>
+
+00:06:00.150 --> 00:06:00.160 align:start position:0%
+there. Easy to install. Second, start
+ 
+
+00:06:00.160 --> 00:06:02.070 align:start position:0%
+there. Easy to install. Second, start
+simple.<00:06:00.639><c> Open</c><00:06:00.960><c> a</c><00:06:01.120><c> spreadsheet</c><00:06:01.600><c> you</c><00:06:01.840><c> already</c>
+
+00:06:02.070 --> 00:06:02.080 align:start position:0%
+simple. Open a spreadsheet you already
+ 
+
+00:06:02.080 --> 00:06:04.550 align:start position:0%
+simple. Open a spreadsheet you already
+have.<00:06:02.639><c> Ask</c><00:06:02.880><c> Claw</c><00:06:03.280><c> to</c><00:06:03.440><c> analyze</c><00:06:03.840><c> it.</c><00:06:04.240><c> See</c><00:06:04.400><c> what</c>
+
+00:06:04.550 --> 00:06:04.560 align:start position:0%
+have. Ask Claw to analyze it. See what
+ 
+
+00:06:04.560 --> 00:06:06.070 align:start position:0%
+have. Ask Claw to analyze it. See what
+it<00:06:04.720><c> gives</c><00:06:04.880><c> you.</c><00:06:05.120><c> Then</c><00:06:05.280><c> try</c><00:06:05.600><c> building</c><00:06:05.840><c> the</c>
+
+00:06:06.070 --> 00:06:06.080 align:start position:0%
+it gives you. Then try building the
+ 
+
+00:06:06.080 --> 00:06:07.990 align:start position:0%
+it gives you. Then try building the
+table.<00:06:06.560><c> Then</c><00:06:06.800><c> try</c><00:06:07.039><c> switching</c><00:06:07.440><c> to</c><00:06:07.600><c> PowerPoint</c>
+
+00:06:07.990 --> 00:06:08.000 align:start position:0%
+table. Then try switching to PowerPoint
+ 
+
+00:06:08.000 --> 00:06:09.909 align:start position:0%
+table. Then try switching to PowerPoint
+and<00:06:08.240><c> asking</c><00:06:08.479><c> for</c><00:06:08.720><c> slides.</c><00:06:09.280><c> Get</c><00:06:09.520><c> comfortable</c>
+
+00:06:09.909 --> 00:06:09.919 align:start position:0%
+and asking for slides. Get comfortable
+ 
+
+00:06:09.919 --> 00:06:12.790 align:start position:0%
+and asking for slides. Get comfortable
+with<00:06:10.080><c> the</c><00:06:10.240><c> workflow.</c><00:06:11.389><c> [snorts]</c><00:06:11.759><c> Third,</c><00:06:12.479><c> use</c>
+
+00:06:12.790 --> 00:06:12.800 align:start position:0%
+with the workflow. [snorts] Third, use
+ 
+
+00:06:12.800 --> 00:06:15.270 align:start position:0%
+with the workflow. [snorts] Third, use
+specific<00:06:13.280><c> prompts.</c><00:06:14.080><c> Don't</c><00:06:14.319><c> just</c><00:06:14.560><c> say</c><00:06:14.800><c> make</c><00:06:15.039><c> a</c>
+
+00:06:15.270 --> 00:06:15.280 align:start position:0%
+specific prompts. Don't just say make a
+ 
+
+00:06:15.280 --> 00:06:17.749 align:start position:0%
+specific prompts. Don't just say make a
+presentation.<00:06:16.240><c> Say</c><00:06:16.560><c> create</c><00:06:16.880><c> a</c><00:06:17.120><c> five</c><00:06:17.360><c> slide</c>
+
+00:06:17.749 --> 00:06:17.759 align:start position:0%
+presentation. Say create a five slide
+ 
+
+00:06:17.759 --> 00:06:19.909 align:start position:0%
+presentation. Say create a five slide
+presentation<00:06:18.720><c> explaining</c><00:06:19.199><c> the</c><00:06:19.440><c> data</c><00:06:19.600><c> with</c><00:06:19.759><c> a</c>
+
+00:06:19.909 --> 00:06:19.919 align:start position:0%
+presentation explaining the data with a
+ 
+
+00:06:19.919 --> 00:06:21.909 align:start position:0%
+presentation explaining the data with a
+chart<00:06:20.160><c> on</c><00:06:20.319><c> slide</c><00:06:20.639><c> three</c><00:06:21.039><c> and</c><00:06:21.280><c> a</c><00:06:21.440><c> summary</c><00:06:21.759><c> on</c>
+
+00:06:21.909 --> 00:06:21.919 align:start position:0%
+chart on slide three and a summary on
+ 
+
+00:06:21.919 --> 00:06:23.990 align:start position:0%
+chart on slide three and a summary on
+slide<00:06:22.240><c> five.</c><00:06:22.800><c> The</c><00:06:23.039><c> more</c><00:06:23.199><c> specific</c><00:06:23.520><c> you</c><00:06:23.759><c> are,</c>
+
+00:06:23.990 --> 00:06:24.000 align:start position:0%
+slide five. The more specific you are,
+ 
+
+00:06:24.000 --> 00:06:26.550 align:start position:0%
+slide five. The more specific you are,
+the<00:06:24.080><c> better</c><00:06:24.319><c> the</c><00:06:24.479><c> output.</c><00:06:25.280><c> Fourth.</c><00:06:26.319><c> Pay</c>
+
+00:06:26.550 --> 00:06:26.560 align:start position:0%
+the better the output. Fourth. Pay
+ 
+
+00:06:26.560 --> 00:06:28.870 align:start position:0%
+the better the output. Fourth. Pay
+attention<00:06:26.800><c> to</c><00:06:27.039><c> how</c><00:06:27.280><c> it</c><00:06:27.520><c> remembers</c><00:06:28.000><c> context.</c>
+
+00:06:28.870 --> 00:06:28.880 align:start position:0%
+attention to how it remembers context.
+ 
+
+00:06:28.880 --> 00:06:31.189 align:start position:0%
+attention to how it remembers context.
+This<00:06:29.120><c> is</c><00:06:29.280><c> the</c><00:06:29.520><c> superpower.</c>
+
+00:06:31.189 --> 00:06:31.199 align:start position:0%
+This is the superpower.
+ 
+
+00:06:31.199 --> 00:06:33.029 align:start position:0%
+This is the superpower.
+Once<00:06:31.520><c> you</c><00:06:31.600><c> see</c><00:06:31.759><c> it,</c><00:06:32.000><c> remember</c><00:06:32.319><c> data</c><00:06:32.720><c> across</c>
+
+00:06:33.029 --> 00:06:33.039 align:start position:0%
+Once you see it, remember data across
+ 
+
+00:06:33.039 --> 00:06:34.950 align:start position:0%
+Once you see it, remember data across
+apps.<00:06:33.600><c> You'll</c><00:06:33.840><c> never</c><00:06:34.080><c> go</c><00:06:34.240><c> back</c><00:06:34.400><c> to</c><00:06:34.560><c> the</c><00:06:34.800><c> old</c>
+
+00:06:34.950 --> 00:06:34.960 align:start position:0%
+apps. You'll never go back to the old
+ 
+
+00:06:34.960 --> 00:06:38.469 align:start position:0%
+apps. You'll never go back to the old
+way.<00:06:36.240><c> Fifth,</c><00:06:37.680><c> think</c><00:06:37.919><c> about</c><00:06:38.080><c> your</c><00:06:38.319><c> own</c>
+
+00:06:38.469 --> 00:06:38.479 align:start position:0%
+way. Fifth, think about your own
+ 
+
+00:06:38.479 --> 00:06:40.150 align:start position:0%
+way. Fifth, think about your own
+workflows.
+
+00:06:40.150 --> 00:06:40.160 align:start position:0%
+workflows.
+ 
+
+00:06:40.160 --> 00:06:42.150 align:start position:0%
+workflows.
+Where<00:06:40.400><c> do</c><00:06:40.560><c> you</c><00:06:40.720><c> spend</c><00:06:41.039><c> time</c><00:06:41.440><c> moving</c><00:06:41.840><c> data</c>
+
+00:06:42.150 --> 00:06:42.160 align:start position:0%
+Where do you spend time moving data
+ 
+
+00:06:42.160 --> 00:06:43.909 align:start position:0%
+Where do you spend time moving data
+between<00:06:42.479><c> apps?</c><00:06:43.120><c> Where</c><00:06:43.360><c> do</c><00:06:43.520><c> you</c><00:06:43.600><c> repeat</c>
+
+00:06:43.909 --> 00:06:43.919 align:start position:0%
+between apps? Where do you repeat
+ 
+
+00:06:43.919 --> 00:06:45.590 align:start position:0%
+between apps? Where do you repeat
+yourself?<00:06:44.639><c> Those</c><00:06:44.800><c> are</c><00:06:44.960><c> the</c><00:06:45.120><c> exact</c><00:06:45.360><c> spots</c>
+
+00:06:45.590 --> 00:06:45.600 align:start position:0%
+yourself? Those are the exact spots
+ 
+
+00:06:45.600 --> 00:06:47.670 align:start position:0%
+yourself? Those are the exact spots
+where<00:06:45.840><c> Claude</c><00:06:46.240><c> can</c><00:06:46.400><c> save</c><00:06:46.560><c> you</c><00:06:46.720><c> the</c><00:06:46.880><c> most</c><00:06:47.120><c> time.</c>
+
+00:06:47.670 --> 00:06:47.680 align:start position:0%
+where Claude can save you the most time.
+ 
+
+00:06:47.680 --> 00:06:49.350 align:start position:0%
+where Claude can save you the most time.
+This<00:06:47.919><c> update</c><00:06:48.240><c> is</c><00:06:48.400><c> honestly</c><00:06:48.800><c> one</c><00:06:48.960><c> of</c><00:06:49.039><c> the</c><00:06:49.199><c> most</c>
+
+00:06:49.350 --> 00:06:49.360 align:start position:0%
+This update is honestly one of the most
+ 
+
+00:06:49.360 --> 00:06:51.189 align:start position:0%
+This update is honestly one of the most
+practical<00:06:49.840><c> AI</c><00:06:50.160><c> updates</c><00:06:50.560><c> I've</c><00:06:50.720><c> seen</c><00:06:50.880><c> in</c><00:06:51.039><c> a</c>
+
+00:06:51.189 --> 00:06:51.199 align:start position:0%
+practical AI updates I've seen in a
+ 
+
+00:06:51.199 --> 00:06:53.430 align:start position:0%
+practical AI updates I've seen in a
+while.<00:06:51.680><c> A</c><00:06:51.840><c> lot</c><00:06:51.919><c> of</c><00:06:52.000><c> AI</c><00:06:52.319><c> news</c><00:06:52.560><c> is</c><00:06:52.800><c> hype.</c><00:06:53.280><c> This</c>
+
+00:06:53.430 --> 00:06:53.440 align:start position:0%
+while. A lot of AI news is hype. This
+ 
+
+00:06:53.440 --> 00:06:55.430 align:start position:0%
+while. A lot of AI news is hype. This
+one<00:06:53.600><c> is</c><00:06:53.840><c> real.</c><00:06:54.160><c> You</c><00:06:54.319><c> can</c><00:06:54.400><c> use</c><00:06:54.560><c> it</c><00:06:54.720><c> today.</c><00:06:55.280><c> And</c>
+
+00:06:55.430 --> 00:06:55.440 align:start position:0%
+one is real. You can use it today. And
+ 
+
+00:06:55.440 --> 00:06:57.029 align:start position:0%
+one is real. You can use it today. And
+it<00:06:55.680><c> actually</c><00:06:56.000><c> solves</c><00:06:56.319><c> a</c><00:06:56.560><c> problem</c><00:06:56.720><c> that</c>
+
+00:06:57.029 --> 00:06:57.039 align:start position:0%
+it actually solves a problem that
+ 
+
+00:06:57.039 --> 00:06:58.629 align:start position:0%
+it actually solves a problem that
+millions<00:06:57.440><c> of</c><00:06:57.600><c> people</c><00:06:57.919><c> deal</c><00:06:58.160><c> with</c><00:06:58.400><c> every</c>
+
+00:06:58.629 --> 00:06:58.639 align:start position:0%
+millions of people deal with every
+ 
+
+00:06:58.639 --> 00:07:00.710 align:start position:0%
+millions of people deal with every
+single<00:06:58.960><c> day.</c><00:06:59.440><c> The</c><00:06:59.680><c> gap</c><00:06:59.919><c> between</c><00:07:00.240><c> people</c><00:07:00.479><c> who</c>
+
+00:07:00.710 --> 00:07:00.720 align:start position:0%
+single day. The gap between people who
+ 
+
+00:07:00.720 --> 00:07:02.950 align:start position:0%
+single day. The gap between people who
+use<00:07:00.880><c> AI</c><00:07:01.280><c> and</c><00:07:01.520><c> people</c><00:07:01.680><c> who</c><00:07:01.919><c> don't</c><00:07:02.319><c> is</c><00:07:02.639><c> getting</c>
+
+00:07:02.950 --> 00:07:02.960 align:start position:0%
+use AI and people who don't is getting
+ 
+
+00:07:02.960 --> 00:07:06.150 align:start position:0%
+use AI and people who don't is getting
+wider<00:07:03.520><c> every</c><00:07:04.000><c> week.</c><00:07:04.639><c> Updates</c><00:07:05.120><c> like</c><00:07:05.440><c> this</c><00:07:05.840><c> are</c>
+
+00:07:06.150 --> 00:07:06.160 align:start position:0%
+wider every week. Updates like this are
+ 
+
+00:07:06.160 --> 00:07:07.670 align:start position:0%
+wider every week. Updates like this are
+why.<00:07:06.560><c> Because</c><00:07:06.720><c> the</c><00:07:06.960><c> people</c><00:07:07.199><c> using</c><00:07:07.440><c> these</c>
+
+00:07:07.670 --> 00:07:07.680 align:start position:0%
+why. Because the people using these
+ 
+
+00:07:07.680 --> 00:07:09.670 align:start position:0%
+why. Because the people using these
+tools<00:07:07.919><c> are</c><00:07:08.080><c> doing</c><00:07:08.240><c> in</c><00:07:08.479><c> two</c><00:07:08.720><c> minutes</c><00:07:09.199><c> what</c><00:07:09.520><c> used</c>
+
+00:07:09.670 --> 00:07:09.680 align:start position:0%
+tools are doing in two minutes what used
+ 
+
+00:07:09.680 --> 00:07:11.990 align:start position:0%
+tools are doing in two minutes what used
+to<00:07:09.840><c> take</c><00:07:10.160><c> 2</c><00:07:10.400><c> hours</c><00:07:11.120><c> and</c><00:07:11.360><c> they're</c><00:07:11.599><c> doing</c><00:07:11.759><c> it</c>
+
+00:07:11.990 --> 00:07:12.000 align:start position:0%
+to take 2 hours and they're doing it
+ 
+
+00:07:12.000 --> 00:07:14.150 align:start position:0%
+to take 2 hours and they're doing it
+better.<00:07:12.720><c> So,</c><00:07:13.039><c> here's</c><00:07:13.280><c> what</c><00:07:13.360><c> I</c><00:07:13.520><c> want</c><00:07:13.680><c> you</c><00:07:13.840><c> to</c><00:07:13.919><c> do</c>
+
+00:07:14.150 --> 00:07:14.160 align:start position:0%
+better. So, here's what I want you to do
+ 
+
+00:07:14.160 --> 00:07:15.909 align:start position:0%
+better. So, here's what I want you to do
+right<00:07:14.400><c> now.</c><00:07:14.720><c> First,</c><00:07:14.960><c> go</c><00:07:15.199><c> try</c><00:07:15.360><c> this.</c><00:07:15.599><c> Open</c>
+
+00:07:15.909 --> 00:07:15.919 align:start position:0%
+right now. First, go try this. Open
+ 
+
+00:07:15.919 --> 00:07:17.670 align:start position:0%
+right now. First, go try this. Open
+Excel,<00:07:16.400><c> open</c><00:07:16.639><c> PowerPoint,</c><00:07:17.120><c> let</c><00:07:17.280><c> Claude</c><00:07:17.599><c> do</c>
+
+00:07:17.670 --> 00:07:17.680 align:start position:0%
+Excel, open PowerPoint, let Claude do
+ 
+
+00:07:17.680 --> 00:07:20.070 align:start position:0%
+Excel, open PowerPoint, let Claude do
+the<00:07:17.840><c> work.</c><00:07:18.240><c> Second,</c><00:07:18.639><c> drop</c><00:07:19.199><c> a</c><00:07:19.520><c> comment</c><00:07:19.759><c> below</c>
+
+00:07:20.070 --> 00:07:20.080 align:start position:0%
+the work. Second, drop a comment below
+ 
+
+00:07:20.080 --> 00:07:22.710 align:start position:0%
+the work. Second, drop a comment below
+and<00:07:20.400><c> tell</c><00:07:20.560><c> Julian</c><00:07:21.039><c> what</c><00:07:21.199><c> you</c><00:07:21.360><c> think.</c><00:07:22.160><c> Is</c><00:07:22.400><c> this</c>
+
+00:07:22.710 --> 00:07:22.720 align:start position:0%
+and tell Julian what you think. Is this
+ 
+
+00:07:22.720 --> 00:07:24.390 align:start position:0%
+and tell Julian what you think. Is this
+useful?<00:07:23.280><c> What</c><00:07:23.520><c> workflows</c><00:07:24.080><c> would</c><00:07:24.240><c> you</c>
+
+00:07:24.390 --> 00:07:24.400 align:start position:0%
+useful? What workflows would you
+ 
+
+00:07:24.400 --> 00:07:26.469 align:start position:0%
+useful? What workflows would you
+automate<00:07:24.880><c> first?</c><00:07:25.440><c> He</c><00:07:25.680><c> reads</c><00:07:26.000><c> every</c><00:07:26.160><c> single</c>
+
+00:07:26.469 --> 00:07:26.479 align:start position:0%
+automate first? He reads every single
+ 
+
+00:07:26.479 --> 00:07:28.150 align:start position:0%
+automate first? He reads every single
+one.<00:07:26.880><c> All</c><00:07:26.880><c> right.</c><00:07:27.199><c> And</c><00:07:27.360><c> if</c><00:07:27.520><c> you</c><00:07:27.599><c> want</c><00:07:27.680><c> the</c><00:07:27.919><c> full</c>
+
+00:07:28.150 --> 00:07:28.160 align:start position:0%
+one. All right. And if you want the full
+ 
+
+00:07:28.160 --> 00:07:31.270 align:start position:0%
+one. All right. And if you want the full
+process,<00:07:28.880><c> the</c><00:07:29.120><c> SOPs,</c><00:07:29.840><c> and</c><00:07:30.080><c> over</c><00:07:30.319><c> a</c><00:07:30.479><c> 100</c><00:07:30.720><c> AI</c><00:07:31.120><c> use</c>
+
+00:07:31.270 --> 00:07:31.280 align:start position:0%
+process, the SOPs, and over a 100 AI use
+ 
+
+00:07:31.280 --> 00:07:33.589 align:start position:0%
+process, the SOPs, and over a 100 AI use
+cases<00:07:31.599><c> like</c><00:07:31.840><c> this</c><00:07:32.000><c> one,</c><00:07:32.400><c> join</c><00:07:32.639><c> the</c><00:07:32.880><c> AI</c><00:07:33.280><c> profit</c>
+
+00:07:33.589 --> 00:07:33.599 align:start position:0%
+cases like this one, join the AI profit
+ 
+
+00:07:33.599 --> 00:07:35.430 align:start position:0%
+cases like this one, join the AI profit
+boardroom.<00:07:34.319><c> You'll</c><00:07:34.560><c> learn</c><00:07:34.800><c> exactly</c><00:07:35.120><c> how</c><00:07:35.280><c> to</c>
+
+00:07:35.430 --> 00:07:35.440 align:start position:0%
+boardroom. You'll learn exactly how to
+ 
+
+00:07:35.440 --> 00:07:37.990 align:start position:0%
+boardroom. You'll learn exactly how to
+use<00:07:35.680><c> Claude</c><00:07:36.319><c> and</c><00:07:36.560><c> other</c><00:07:36.800><c> AI</c><00:07:37.199><c> tools</c><00:07:37.759><c> to</c>
+
+00:07:37.990 --> 00:07:38.000 align:start position:0%
+use Claude and other AI tools to
+ 
+
+00:07:38.000 --> 00:07:39.909 align:start position:0%
+use Claude and other AI tools to
+automate<00:07:38.400><c> your</c><00:07:38.639><c> business</c><00:07:38.880><c> workflows</c><00:07:39.520><c> and</c><00:07:39.759><c> get</c>
+
+00:07:39.909 --> 00:07:39.919 align:start position:0%
+automate your business workflows and get
+ 
+
+00:07:39.919 --> 00:07:41.350 align:start position:0%
+automate your business workflows and get
+more<00:07:40.160><c> customers.</c><00:07:40.639><c> The</c><00:07:40.800><c> link</c><00:07:40.960><c> is</c><00:07:41.039><c> in</c><00:07:41.199><c> the</c>
+
+00:07:41.350 --> 00:07:41.360 align:start position:0%
+more customers. The link is in the
+ 
+
+00:07:41.360 --> 00:07:42.950 align:start position:0%
+more customers. The link is in the
+comments<00:07:41.599><c> and</c><00:07:41.759><c> description.</c><00:07:42.400><c> Go</c><00:07:42.639><c> check</c><00:07:42.800><c> it</c>
+
+00:07:42.950 --> 00:07:42.960 align:start position:0%
+comments and description. Go check it
+ 
+
+00:07:42.960 --> 00:07:44.469 align:start position:0%
+comments and description. Go check it
+out<00:07:43.199><c> right</c><00:07:43.360><c> now.</c><00:07:43.680><c> And</c><00:07:43.840><c> if</c><00:07:44.000><c> you</c><00:07:44.080><c> want</c><00:07:44.240><c> free</c>
+
+00:07:44.469 --> 00:07:44.479 align:start position:0%
+out right now. And if you want free
+ 
+
+00:07:44.479 --> 00:07:46.230 align:start position:0%
+out right now. And if you want free
+access<00:07:44.720><c> to</c><00:07:44.880><c> all</c><00:07:45.039><c> the</c><00:07:45.199><c> video</c><00:07:45.440><c> notes</c><00:07:45.759><c> from</c><00:07:45.919><c> this,</c>
+
+00:07:46.230 --> 00:07:46.240 align:start position:0%
+access to all the video notes from this,
+ 
+
+00:07:46.240 --> 00:07:49.029 align:start position:0%
+access to all the video notes from this,
+plus<00:07:46.639><c> our</c><00:07:46.960><c> community</c><00:07:47.440><c> of</c><00:07:47.759><c> 38,000</c><00:07:48.560><c> members</c><00:07:48.880><c> who</c>
+
+00:07:49.029 --> 00:07:49.039 align:start position:0%
+plus our community of 38,000 members who
+ 
+
+00:07:49.039 --> 00:07:50.870 align:start position:0%
+plus our community of 38,000 members who
+are<00:07:49.199><c> crushing</c><00:07:49.440><c> it</c><00:07:49.599><c> with</c><00:07:49.759><c> AI,</c><00:07:50.080><c> join</c><00:07:50.319><c> the</c><00:07:50.479><c> AI</c>
+
+00:07:50.870 --> 00:07:50.880 align:start position:0%
+are crushing it with AI, join the AI
+ 
+
+00:07:50.880 --> 00:07:53.430 align:start position:0%
+are crushing it with AI, join the AI
+success<00:07:51.280><c> lab.</c><00:07:51.840><c> It's</c><00:07:52.080><c> completely</c><00:07:52.560><c> free.</c><00:07:53.120><c> Links</c>
+
+00:07:53.430 --> 00:07:53.440 align:start position:0%
+success lab. It's completely free. Links
+ 
+
+00:07:53.440 --> 00:07:55.270 align:start position:0%
+success lab. It's completely free. Links
+in<00:07:53.599><c> the</c><00:07:53.759><c> comments</c><00:07:54.000><c> and</c><00:07:54.240><c> description.</c><00:07:54.960><c> You'll</c>
+
+00:07:55.270 --> 00:07:55.280 align:start position:0%
+in the comments and description. You'll
+ 
+
+00:07:55.280 --> 00:07:57.189 align:start position:0%
+in the comments and description. You'll
+get<00:07:55.440><c> everything</c><00:07:55.680><c> you</c><00:07:55.919><c> need</c><00:07:56.319><c> to</c><00:07:56.560><c> start</c><00:07:56.879><c> using</c>
+
+00:07:57.189 --> 00:07:57.199 align:start position:0%
+get everything you need to start using
+ 
+
+00:07:57.199 --> 00:07:58.950 align:start position:0%
+get everything you need to start using
+AI<00:07:57.520><c> the</c><00:07:57.759><c> right</c><00:07:57.919><c> way.</c><00:07:58.240><c> Make</c><00:07:58.400><c> sure</c><00:07:58.560><c> you</c><00:07:58.800><c> like</c>
+
+00:07:58.950 --> 00:07:58.960 align:start position:0%
+AI the right way. Make sure you like
+ 
+
+00:07:58.960 --> 00:08:01.350 align:start position:0%
+AI the right way. Make sure you like
+this<00:07:59.199><c> video,</c><00:07:59.680><c> subscribe,</c><00:08:00.319><c> and</c><00:08:00.560><c> hit</c><00:08:00.800><c> that</c><00:08:01.039><c> bell</c>
+
+00:08:01.350 --> 00:08:01.360 align:start position:0%
+this video, subscribe, and hit that bell
+ 
+
+00:08:01.360 --> 00:08:03.270 align:start position:0%
+this video, subscribe, and hit that bell
+so<00:08:01.599><c> you</c><00:08:01.759><c> don't</c><00:08:01.919><c> miss</c><00:08:02.160><c> the</c><00:08:02.400><c> next</c><00:08:02.560><c> update.</c>
+
+00:08:03.270 --> 00:08:03.280 align:start position:0%
+so you don't miss the next update.
+ 
+
+00:08:03.280 --> 00:08:05.110 align:start position:0%
+so you don't miss the next update.
+Because<00:08:03.440><c> the</c><00:08:03.680><c> way</c><00:08:03.840><c> AI</c><00:08:04.240><c> is</c><00:08:04.400><c> moving</c><00:08:04.639><c> right</c><00:08:04.879><c> now,</c>
+
+00:08:05.110 --> 00:08:05.120 align:start position:0%
+Because the way AI is moving right now,
+ 
+
+00:08:05.120 --> 00:08:06.550 align:start position:0%
+Because the way AI is moving right now,
+if<00:08:05.280><c> you</c><00:08:05.440><c> blink,</c><00:08:05.840><c> you're</c><00:08:06.080><c> going</c><00:08:06.160><c> to</c><00:08:06.240><c> miss</c>
+
+00:08:06.550 --> 00:08:06.560 align:start position:0%
+if you blink, you're going to miss
+ 
+
+00:08:06.560 --> 00:08:10.479 align:start position:0%
+if you blink, you're going to miss
+something<00:08:06.879><c> big.</c><00:08:07.520><c> I'll</c><00:08:07.759><c> see</c><00:08:07.919><c> you</c><00:08:08.000><c> in</c><00:08:08.160><c> the</c><00:08:08.319><c> next</c>
+

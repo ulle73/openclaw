@@ -1,0 +1,69 @@
+{
+  "fullName": "volcengine/OpenViking",
+  "url": "https://github.com/volcengine/OpenViking",
+  "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+  "purpose": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+  "useCase": "agent workflows and AI operators",
+  "relevance": "relevant for Coastworks via agent automation, design, knowledge systems",
+  "language": "Python",
+  "topics": [
+    "agent",
+    "agentic-rag",
+    "ai-agents",
+    "clawbot",
+    "context-database",
+    "context-engineering",
+    "filesystem",
+    "llm",
+    "memory",
+    "openclaw",
+    "opencode",
+    "rag",
+    "skill"
+  ],
+  "stars": 11144,
+  "forks": 765,
+  "openIssues": 64,
+  "detectedSignals": [
+    "agent-automation",
+    "knowledge-systems",
+    "openclaw",
+    "design-offer",
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "agent-automation",
+        "design-offer",
+        "knowledge-systems",
+        "ml-models",
+        "openclaw"
+      ],
+      "score": 60
+    },
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "sharedSignals": [
+        "agent-automation",
+        "knowledge-systems",
+        "openclaw"
+      ],
+      "score": 38
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "knowledge-systems",
+        "ml-models",
+        "openclaw"
+      ],
+      "score": 33
+    }
+  ],
+  "fetchedAt": "2026-03-15T08:17:51Z"
+}

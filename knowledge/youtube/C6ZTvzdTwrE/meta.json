@@ -1,0 +1,153 @@
+{
+  "id": "C6ZTvzdTwrE",
+  "title": "NEW Claude Update is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260315",
+  "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nClaude's NEW Update: Automate Excel to PowerPoint in Minutes\n\nStop wasting hours manually moving data between spreadsheets and slide decks. This revolutionary Claude update introduces cross-app context sharing, allowing you to analyze Excel data and generate professional PowerPoint presentations instantly.\n\n00:00 - Intro: The Game-Changing Claude Update\n01:04 - Cross-App Context Sharing Explained\n01:32 - Step-by-Step Workflow Demo\n02:28 - Claude’s Advanced Excel Capabilities\n02:55 - Designing Presentations in PowerPoint\n04:29 - The Future of AI Workplace Tools\n05:48 - 5 Tips for Using Claude at Work",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "claude",
+    "chatgpt",
+    "gemini"
+  ],
+  "topic_tags": [
+    "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "claude",
+  "related_video_ids": [
+    "fnLXErf-plM",
+    "qb90PPbAWz4",
+    "T3jDa19gpXw",
+    "SoQAIsrYkRA",
+    "RyxeYZ7TW3o"
+  ],
+  "related_videos": [
+    {
+      "videoId": "fnLXErf-plM",
+      "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/fnLXErf-plM/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": true,
+      "score": 15
+    },
+    {
+      "videoId": "qb90PPbAWz4",
+      "title": "Karpathy’s \"autoresearch\" explained in 24 minutes",
+      "channel": "Greg Isenberg",
+      "summary_path": "knowledge/youtube/qb90PPbAWz4/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "prompt-design"
+      ],
+      "cluster_match": true,
+      "score": 14
+    },
+    {
+      "videoId": "T3jDa19gpXw",
+      "title": "New Claude Code Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/T3jDa19gpXw/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "marketing-explainers",
+        "onboarding-training"
+      ],
+      "cluster_match": true,
+      "score": 14
+    },
+    {
+      "videoId": "SoQAIsrYkRA",
+      "title": "New FREE Claude Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/SoQAIsrYkRA/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": true,
+      "score": 14
+    },
+    {
+      "videoId": "RyxeYZ7TW3o",
+      "title": "Super Claude: Claude Code Super Powers in 1 Click!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/RyxeYZ7TW3o/summary.md",
+      "topic_cluster_key": "claude",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training",
+        "prompt-design"
+      ],
+      "cluster_match": true,
+      "score": 14
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "fnLXErf-plM",
+      "qb90PPbAWz4",
+      "T3jDa19gpXw",
+      "SoQAIsrYkRA",
+      "RyxeYZ7TW3o"
+    ]
+  },
+  "updated_at": "2026-03-15T03:02:30Z"
+}

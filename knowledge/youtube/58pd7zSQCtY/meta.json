@@ -1,0 +1,156 @@
+{
+  "id": "58pd7zSQCtY",
+  "title": "OpenClaw + GPT-5.4 Is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260314",
+  "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nOpenClaw + GPT 5.4: Better Than Claude Code? (Full Guide)\n\nDiscover how OpenClaw + GPT 5.4 is revolutionizing AI agents with native computer control and superior benchmark performance. Learn to automate complex business workflows, from lead gen to content pipelines, using this powerful open-source framework.\n\n00:00 - Intro: OpenClaw + GPT 5.4\n00:49 - Benchmarks: Beating Claude Code\n01:44 - Top 6 New AI Agent Features\n03:36 - Automating Your Content Pipeline\n04:52 - AI Lead Gen & GitHub Growth\n05:56 - Solving the AI Memory Problem\n07:49 - Summary & How to Get Started",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation",
+    "product_opportunity",
+    "api"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "openclaw",
+    "claude",
+    "gemini"
+  ],
+  "topic_tags": [
+    "openclaw",
+    "workflow-automation",
+    "onboarding-training",
+    "seo-content",
+    "prompt-design",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "agent-flow",
+    "agent-automation",
+    "product-opportunity",
+    "api"
+  ],
+  "topic_cluster_key": "openclaw",
+  "related_video_ids": [
+    "ptqHcTAwmlk",
+    "hT0bbzksQyI",
+    "NiTOlYmthNg",
+    "KPejjQQ5Bzg",
+    "KyXUJnYjjAo"
+  ],
+  "related_videos": [
+    {
+      "videoId": "ptqHcTAwmlk",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ptqHcTAwmlk/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": true,
+      "score": 19
+    },
+    {
+      "videoId": "hT0bbzksQyI",
+      "title": "New OpenClaw Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/hT0bbzksQyI/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "onboarding-training"
+      ],
+      "cluster_match": true,
+      "score": 19
+    },
+    {
+      "videoId": "NiTOlYmthNg",
+      "title": "OpenClaw New Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NiTOlYmthNg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 19
+    },
+    {
+      "videoId": "KPejjQQ5Bzg",
+      "title": "OpenClaw 3.11 IS INSANE, Here's Why",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KPejjQQ5Bzg/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 19
+    },
+    {
+      "videoId": "KyXUJnYjjAo",
+      "title": "New OpenClaw Discord Update!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/KyXUJnYjjAo/summary.md",
+      "topic_cluster_key": "openclaw",
+      "shared_tags": [
+        "openclaw",
+        "agent-automation",
+        "agent-flow",
+        "api",
+        "business-idea",
+        "business-opportunity"
+      ],
+      "cluster_match": true,
+      "score": 18
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "ptqHcTAwmlk",
+      "hT0bbzksQyI",
+      "NiTOlYmthNg",
+      "KPejjQQ5Bzg",
+      "KyXUJnYjjAo"
+    ]
+  },
+  "updated_at": "2026-03-14T05:30:12Z"
+}

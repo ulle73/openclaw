@@ -1,54 +1,63 @@
 {
   "clusterKey": "claude",
-  "label": "claude och antigravity",
+  "label": "claude och chatgpt",
   "entity_tags": [
     "claude",
-    "antigravity",
+    "chatgpt",
     "gemini",
+    "antigravity",
     "mcp",
     "openclaw"
   ],
   "topic_tags": [
-    "antigravity",
-    "mcp",
     "workflow-automation",
+    "knowledge-management",
+    "onboarding-training",
+    "marketing-explainers",
     "prompt-design",
     "business-idea",
     "business-opportunity",
+    "seo-distribution",
+    "seo-content",
     "agent-flow",
     "agent-automation",
+    "antigravity",
+    "mcp",
     "product-opportunity",
     "api",
     "api-integration",
-    "onboarding-training",
-    "marketing-explainers",
-    "seo-content",
-    "seo-distribution",
-    "openclaw"
+    "openclaw",
+    "proactive-assistant"
   ],
   "categories": [
     "tool",
     "workflow",
     "business_idea",
+    "seo_distribution",
     "agent_flow",
     "automation",
     "product_opportunity",
     "mcp",
-    "api",
-    "seo_distribution"
+    "api"
   ],
   "videoIds": [
+    "C6ZTvzdTwrE",
     "DSKO9ZtbHFA",
     "Fv-FxekmfTQ",
     "RyxeYZ7TW3o",
+    "SoQAIsrYkRA",
+    "T3jDa19gpXw",
     "fnLXErf-plM",
+    "m9aBfbXMnZY",
+    "qb90PPbAWz4",
+    "r6L6YXe1zRg",
     "s2HalzQZ1MQ",
     "wX_neSx7-Ls"
   ],
-  "count": 6,
+  "count": 12,
   "avg_roi_score": 9.0,
   "avg_relevance_score": 9.0,
-  "opportunity_score": 55,
+  "opportunity_score": 54,
   "decision": {
     "action": "project_upgrade",
     "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
@@ -95,7 +104,7 @@
   ],
   "ideas": [
     {
-      "title": "Applicera claude och antigravity i Gravity Claw",
+      "title": "Applicera claude och chatgpt i Gravity Claw",
       "kind": "project-fit",
       "impact": "hog",
       "effort": "hog",
@@ -103,7 +112,7 @@
       "why": "Temat overlappar med Gravity Claw via openclaw, knowledge-systems och agent-automation."
     },
     {
-      "title": "Bygg en intern skill eller automation runt claude och antigravity",
+      "title": "Bygg en intern skill eller automation runt claude och chatgpt",
       "kind": "automation",
       "impact": "hog",
       "effort": "hog",
@@ -111,7 +120,7 @@
       "why": "Bygg ett repeterbart arbetsflode eller en skill"
     },
     {
-      "title": "Skapa ett tydligt beslutskort for claude och antigravity",
+      "title": "Skapa ett tydligt beslutskort for claude och chatgpt",
       "kind": "decision",
       "impact": "hog",
       "effort": "lag",
@@ -120,6 +129,18 @@
     }
   ],
   "evidence": [
+    {
+      "videoId": "C6ZTvzdTwrE",
+      "title": "NEW Claude Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
     {
       "videoId": "DSKO9ZtbHFA",
       "title": "Master 95% of Claude Code in 40 mins (NEW + UPDATED)",
@@ -157,8 +178,68 @@
       ]
     },
     {
+      "videoId": "SoQAIsrYkRA",
+      "title": "New FREE Claude Update!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "T3jDa19gpXw",
+      "title": "New Claude Code Update Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
       "videoId": "fnLXErf-plM",
       "title": "Claude Skills 2.0 Is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "m9aBfbXMnZY",
+      "title": "NEW Claude Code Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "qb90PPbAWz4",
+      "title": "Karpathy’s \"autoresearch\" explained in 24 minutes",
+      "channel": "Greg Isenberg",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.",
+        "Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.",
+        "Samma upplägg kan paketeras som intern process, tjänst till kund eller ett produktiserat erbjudande."
+      ]
+    },
+    {
+      "videoId": "r6L6YXe1zRg",
+      "title": "NEW Claude FREE Update is INSANE! 🤯",
       "channel": "Julian Goldie SEO",
       "roi_label": "high",
       "relevance_label": "high",

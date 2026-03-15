@@ -1,0 +1,125 @@
+{
+  "clusterKey": "claude__course__employees",
+  "label": "claude och course",
+  "entity_tags": [
+    "claude",
+    "course",
+    "employees",
+    "antigravity",
+    "mcp"
+  ],
+  "topic_tags": [
+    "course",
+    "employees",
+    "antigravity",
+    "mcp",
+    "agent-automation",
+    "prompt-design",
+    "workflow-automation",
+    "business-idea",
+    "business-opportunity",
+    "product-opportunity",
+    "api",
+    "api-integration"
+  ],
+  "categories": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "automation",
+    "product_opportunity",
+    "mcp",
+    "api"
+  ],
+  "videoIds": [
+    "cNf7uVff11Y"
+  ],
+  "count": 1,
+  "avg_roi_score": 9.0,
+  "avg_relevance_score": 9.0,
+  "opportunity_score": 44,
+  "decision": {
+    "action": "project_upgrade",
+    "summary": "Passar ett av dina nuvarande projekt starkt och bor omsattas dar."
+  },
+  "project_matches": [
+    {
+      "projectId": "gravity-claw",
+      "projectName": "Gravity Claw",
+      "score": 23,
+      "shared_signals": [
+        "knowledge-systems",
+        "agent-automation"
+      ],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "score": 15,
+      "shared_signals": [],
+      "projectRole": "product",
+      "projectPriority": 8
+    },
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "score": 14,
+      "shared_signals": [
+        "knowledge-systems",
+        "automation",
+        "agent-automation"
+      ],
+      "projectRole": "offer",
+      "projectPriority": 10
+    }
+  ],
+  "ideas": [
+    {
+      "title": "Applicera claude och course i Gravity Claw",
+      "kind": "project-fit",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Temat overlappar med Gravity Claw via knowledge-systems och agent-automation."
+    },
+    {
+      "title": "Bygg en intern skill eller automation runt claude och course",
+      "kind": "automation",
+      "impact": "hog",
+      "effort": "hog",
+      "speed": "snabb",
+      "why": "Bygg ett repeterbart arbetsflode eller en skill"
+    },
+    {
+      "title": "Skapa ett tydligt beslutskort for claude och course",
+      "kind": "decision",
+      "impact": "hog",
+      "effort": "lag",
+      "speed": "snabb",
+      "why": "Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle."
+    }
+  ],
+  "evidence": [
+    {
+      "videoId": "cNf7uVff11Y",
+      "title": "Claude Cowork FULL COURSE (Build AI Employees)",
+      "channel": "Jack Roberts",
+      "roi_label": "high",
+      "relevance_label": "high",
+      "tldr": [
+        "Kärnpositioneringen är inte bara ett nytt verktyg utan en AI-assistent som ska kunna bära mer av det löpande operativa arbetet.",
+        "Ett separat command center eller dashboard är centralt, eftersom det gör agentens arbete synligt, styrbart och praktiskt användbart i vardagen.",
+        "Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo."
+      ]
+    }
+  ],
+  "is_noise": false,
+  "paths": {
+    "overview": "knowledge/topics/claude__course__employees/overview.md",
+    "signals": "knowledge/topics/claude__course__employees/signals.json",
+    "decision": "knowledge/topics/claude__course__employees/decision.md",
+    "opportunity": "knowledge/topics/claude__course__employees/opportunity.md"
+  }
+}

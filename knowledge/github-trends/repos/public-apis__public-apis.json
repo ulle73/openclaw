@@ -1,0 +1,57 @@
+{
+  "fullName": "public-apis/public-apis",
+  "url": "https://github.com/public-apis/public-apis",
+  "description": "A collective list of free APIs",
+  "purpose": "A collective list of free APIs",
+  "useCase": "LLM or AI product development",
+  "relevance": "relevant for Coastworks via AI/models",
+  "language": "Python",
+  "topics": [
+    "api",
+    "apis",
+    "dataset",
+    "development",
+    "free",
+    "list",
+    "lists",
+    "open-source",
+    "public",
+    "public-api",
+    "public-apis",
+    "resources",
+    "software"
+  ],
+  "stars": 409818,
+  "forks": 44269,
+  "openIssues": 982,
+  "detectedSignals": [
+    "ml-models"
+  ],
+  "projectMatches": [
+    {
+      "projectId": "coastworks",
+      "projectName": "Coastworks",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 20
+    },
+    {
+      "projectId": "ullebets",
+      "projectName": "UlleBets",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 18
+    },
+    {
+      "projectId": "mission-control",
+      "projectName": "Mission Control",
+      "sharedSignals": [
+        "ml-models"
+      ],
+      "score": 13
+    }
+  ],
+  "fetchedAt": "2026-03-14T08:17:51Z"
+}

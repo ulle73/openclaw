@@ -1,0 +1,149 @@
+{
+  "id": "-iaZUdrljN4",
+  "title": "NEW Google Gemini Update is INSANE!",
+  "channel": "Julian Goldie SEO",
+  "upload_date": "20260314",
+  "description": "Want to make money and save time with AI? Join here: https://www.skool.com/ai-profit-lab-7462/about\n\nVideo notes + links to the tools 👉 https://www.skool.com/ai-profit-lab-7462/about\n\nGet a FREE AI Course + Community + 1,000 AI Agents 👉 https://www.skool.com/ai-seo-with-julian-goldie-1553/about\n\nGoogle Gemini's INSANE New Update: The AI Coworker is Here\n\nGoogle just integrated Gemini deep into Workspace, turning Docs, Sheets, and Slides into a powerful AI coworker. Discover how 'grounding sources' and AI overviews will automate your workflow and save you hours of manual work.\n\n00:00 - Intro: Gemini’s Massive Update\n01:02 - AI Overviews in Google Drive\n01:31 - Instant Presentations in Slides\n02:00 - Grounding Sources in Google Docs\n03:50 - Automated Spreadsheets in Sheets\n04:22 - The 'Help Me Create' Feature\n05:32 - Google Gemini vs. Microsoft Copilot\n06:13 - How to Get the Update",
+  "classifications": [
+    "tool",
+    "workflow",
+    "business_idea",
+    "seo_distribution",
+    "agent_flow",
+    "automation"
+  ],
+  "roi_label": "high",
+  "relevance_label": "high",
+  "should": {
+    "skill": true,
+    "automation": true,
+    "idea_bank": true,
+    "system_improvement": true,
+    "app": false,
+    "product": true
+  },
+  "skill_candidate": true,
+  "entity_tags": [
+    "gemini",
+    "chatgpt"
+  ],
+  "topic_tags": [
+    "workflow-automation",
+    "knowledge-management",
+    "business-idea",
+    "business-opportunity",
+    "seo-distribution",
+    "seo-content",
+    "agent-flow",
+    "agent-automation"
+  ],
+  "topic_cluster_key": "gemini",
+  "related_video_ids": [
+    "1LU_AHdrfNU",
+    "_s7tHRZUmdM",
+    "ZgnQb40aiTU",
+    "NtpPIFj7HD0",
+    "98bGqof0dUI"
+  ],
+  "related_videos": [
+    {
+      "videoId": "1LU_AHdrfNU",
+      "title": "NEW Gemini Embedding 2 Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/1LU_AHdrfNU/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "knowledge-management",
+        "seo-content"
+      ],
+      "cluster_match": true,
+      "score": 13
+    },
+    {
+      "videoId": "_s7tHRZUmdM",
+      "title": "NEW Google Gemini Update is INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/_s7tHRZUmdM/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": true,
+      "score": 12
+    },
+    {
+      "videoId": "ZgnQb40aiTU",
+      "title": "Google Gemini New FREE Updates Are INSANE!",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/ZgnQb40aiTU/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": true,
+      "score": 12
+    },
+    {
+      "videoId": "NtpPIFj7HD0",
+      "title": "NEW Gemini CLI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/NtpPIFj7HD0/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": true,
+      "score": 12
+    },
+    {
+      "videoId": "98bGqof0dUI",
+      "title": "NEW Gemini CLI Update is INSANE! 🤯",
+      "channel": "Julian Goldie SEO",
+      "summary_path": "knowledge/youtube/98bGqof0dUI/summary.md",
+      "topic_cluster_key": "gemini",
+      "shared_tags": [
+        "agent-automation",
+        "agent-flow",
+        "business-idea",
+        "business-opportunity",
+        "seo-content",
+        "seo-distribution"
+      ],
+      "cluster_match": true,
+      "score": 12
+    }
+  ],
+  "skill_recommendation": {
+    "should_create": true,
+    "mode": "merge_existing",
+    "duplicate_risk": "high",
+    "reason": "Liknande video finns redan i samma amneskluster. Bygg inte en ny separat skill.",
+    "related_video_ids": [
+      "1LU_AHdrfNU",
+      "_s7tHRZUmdM",
+      "ZgnQb40aiTU",
+      "NtpPIFj7HD0",
+      "98bGqof0dUI"
+    ]
+  },
+  "updated_at": "2026-03-14T01:30:11Z"
+}

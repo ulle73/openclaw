@@ -1,11 +1,11 @@
 # chatgpt
 
 - Cluster key: chatgpt
-- Opportunity score: 44
+- Opportunity score: 46
 - Decision: project_upgrade - Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
-- Categories: tool, workflow, business_idea, seo_distribution, agent_flow, automation
+- Categories: tool, workflow, business_idea, seo_distribution, agent_flow, automation, product_opportunity, api
 - Entity tags: chatgpt
-- Topic tags: workflow-automation, business-idea, business-opportunity, seo-distribution, seo-content, agent-flow, agent-automation
+- Topic tags: workflow-automation, business-idea, business-opportunity, seo-distribution, seo-content, agent-flow, agent-automation, knowledge-management, onboarding-training, marketing-explainers, prompt-design, product-opportunity
 
 ## Why this matters
 Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
@@ -16,14 +16,17 @@ Passar ett av dina nuvarande projekt starkt och bor omsattas dar.
 - Gravity Claw (score 17): knowledge-systems och agent-automation
 
 ## Best ideas
-1. Applicera chatgpt i Coastworks | impact: hog | effort: medel | speed: snabb
+1. Applicera chatgpt i Coastworks | impact: hog | effort: hog | speed: snabb
    Why: Temat overlappar med Coastworks via seo-content, knowledge-systems, automation och agent-automation.
-2. Bygg en intern skill eller automation runt chatgpt | impact: hog | effort: medel | speed: snabb
+2. Bygg en intern skill eller automation runt chatgpt | impact: hog | effort: hog | speed: snabb
    Why: Bygg ett repeterbart arbetsflode eller en skill
 3. Skapa ett tydligt beslutskort for chatgpt | impact: hog | effort: lag | speed: snabb
    Why: Temat ar tillrackligt relevant for att samla bevis, projektfit och rekommenderade nasta steg i ett stalle.
 
 ## Evidence
 - IWKOcumdMUE | NEW ChatGPT 5.4 Update is INSANE! 🤯 | Julian Goldie SEO
+  - Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.
+  - Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.
+- xnG6OidGGek | Mercury  + ChatGPT 5.4 is INSANE! 🤯 | Julian Goldie SEO
   - Det här bör ses som ett repeterbart arbetsflöde, inte bara som en enskild feature-demo.
   - Potentialen ligger i att systematisera och automatisera det löpande arbetet snarare än att lösa varje uppgift manuellt.
